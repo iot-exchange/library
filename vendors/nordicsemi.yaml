@@ -1,0 +1,20 @@
+name: "Nordic Semiconductor"
+description: |
+  Nordic Semiconductor is a Norwegian fabless semiconductor company specializing in wireless communication technology
+  that powers the Internet of Things (IoT).
+  Nordic was established in 1983 and has about 1450 employees across the globe. Our award-winning Bluetooth Low Energy 
+  solutions pioneered ultra-low power wireless, making us the global market leader.
+  Our technology range was later supplemented by ANT+, Thread and Zigbee, and in 2018 we launched our low power, 
+  compact LTE-M/NB-IoT cellular IoT solutions to extend the penetration of the IoT. In recent years, the Nordic 
+  portfolio has been further strengthened by the introduction of Wi-Fi technology and Power management solutions.
+  Nordic's reputation has been built by supplying leading-edge wireless technologies supported by development tools 
+  that shield the designer from RF complexity, allowing anyone with a bright idea to build innovative IoT products. 
+  Today, our award-winning, high-performance, easy to design-in, Bluetooth LE solutions are used by the world’s leading 
+  brands in a variety of products, including wireless PC peripherals, gaming, sports and fitness, mobile phone 
+  accessories, consumer electronics, toys, healthcare and automation.
+  Nordic is a member of the ANT+ Alliance, Bluetooth SIG, Thread Group, Connectivity Standards Alliance, Wi-Fi Alliance, 
+  and GSMA.
+links:
+  website: "https://www.nordicsemi.com/"
+  linkedin: "https://www.linkedin.com/company/nordic-semiconductor/"
+  github: "https://github.com/nordicsemiconductor"

@@ -1,0 +1,14 @@
+name: "The Things Industries"
+description: |
+  The Things Industries is a well-established LoRaWAN connectivity and services provider. 
+  With a global installed base of over 50.000+ gateways, 2.4M+ connected devices and 500+ enterprise customers, 
+  we assume a leading role in the global ecosystem. Our mission is to break down the complexities of LoRaWAN development, 
+  allow for integration and interoperability across the supply chain, and lower the TCO of LoRaWAN projects. 
+  We envision a platform for anyone who wants to become a LoRaWAN expert and build competitive LoRaWAN solutions. 
+  We strive to continuously bring disruptive innovations to the market, in collaboration with credible partners. 
+  Our core product is the LoRaWAN Network Server. Secure by design, purpose-built to meet the needs of our customers’ 
+  global deployments: flexible, scalable, and robust.
+links:
+  website: "https://www.thethingsindustries.com/"
+  linkedin: "https://www.linkedin.com/company/the-things-industries"
+  github: "https://github.com/thethingsindustries"

@@ -1,0 +1,7 @@
+name: ESP Insights
+description: A remote diagnostics/observability framework for connected devices
+type: SaaS
+status: beta
+links:
+  github: https://github.com/espressif/esp-insights
+  website: https://insights.espressif.com/

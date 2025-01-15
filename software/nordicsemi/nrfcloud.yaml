@@ -1,0 +1,7 @@
+name: "nRF Cloud"
+description: |
+  The IoT cloud optimized for ultra-low power Nordic Semiconductor devices
+type: SaaS
+status: production
+links:
+  website: "https://nrfcloud.com"

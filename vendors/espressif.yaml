@@ -1,0 +1,12 @@
+name: "Espressif Systems"
+description: | 
+  As a public, multinational, fabless semiconductor company (Espressif Systems, SSE: 688018.SH), we develop cutting-edge, 
+  low-power wireless communication chipsets. Our AIoT solutions are green, versatile, and cost-effective. 
+  We have a closed-loop development cycle for core technologies, including Wi-Fi & Bluetooth LE & IEEE 802.15.4 protocols, 
+  RF, RISC-V MCUs, AI algorithms, operating systems, toolchains, AIoT frameworks, and Cloud services."
+links:
+  website: "https://espressif.com"
+  github: "https://github.com/espressif"
+  linkedin: "https://www.linkedin.com/company/espressif-systems/"
+
+

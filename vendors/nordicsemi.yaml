@@ -18,3 +18,16 @@ links:
   website: "https://www.nordicsemi.com/"
   linkedin: "https://www.linkedin.com/company/nordic-semiconductor/"
   github: "https://github.com/nordicsemiconductor"
+  products:
+    - https://www.nordicsemi.com/Products/Wireless/Low-power-cellular-IoT/Products
+    - https://www.nordicsemi.com/Products/Wireless/WiFi/Products
+    - https://www.nordicsemi.com/Products/Wireless/Bluetooth-Low-Energy
+    - https://www.nordicsemi.com/Products/Wireless/Bluetooth-LE-Audio/Products
+    - https://www.nordicsemi.com/Products/Wireless/Bluetooth-Mesh
+    - https://www.nordicsemi.com/Products/Wireless/Bluetooth-Direction-Finding
+    - https://www.nordicsemi.com/Products/Wireless/DECT-NR/Products
+    - https://www.nordicsemi.com/Products/Wireless/Thread
+    - https://www.nordicsemi.com/Products/Wireless/Zigbee
+    - https://www.nordicsemi.com/Products/Wireless/ANT
+    - https://www.nordicsemi.com/Products/Wireless/2-4-GHz-proprietary
+    - https://www.nordicsemi.com/Products/Wireless/Range-extenders

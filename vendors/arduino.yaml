@@ -7,3 +7,5 @@ links:
   website: "https://www.arduino.cc/"
   linkedin: "https://www.linkedin.com/company/arduino/"
   github: "https://github.com/arduino"
+  products:
+    - https://www.arduino.cc/en/hardware

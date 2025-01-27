@@ -1,0 +1,17 @@
+name: "Texas Instruments"
+description: |
+  Texas Instruments has been making progress possible for decades. 
+  We are a global semiconductor company that designs, manufactures, tests and sells analog and embedded processing chips. 
+  Our more than 80,000 products help over 100,000 customers efficiently manage power, accurately sense and transmit data 
+  and provide the core control or processing in their designs, going into markets such as industrial, automotive, 
+  personal electronics, communications equipment and enterprise systems. Our passion to create a better world by making 
+  electronics more affordable through semiconductors is alive today as each generation of innovation builds upon the 
+  last to make our technology smaller, more efficient, more reliable and more affordable – opening new markets and 
+  making it possible for semiconductors to go into electronics everywhere. We think of this as Engineering Progress. 
+  It’s what we do and have been doing for decades.
+links:
+  website: "https://www.ti.com"
+  github: "https://github.com/texasinstruments"
+  linkedin: "https://www.linkedin.com/company/texas-instruments/"
+  products:
+    - https://www.ti.com/wireless-connectivity/products.html

@@ -15,3 +15,7 @@ links:
   website: "https://www.rakwireless.com/"
   linkedin: "https://www.linkedin.com/company/rakwireless/"
   github: "https://github.com/rakWireless"
+  products:
+    - https://www.rakwireless.com/en-us/products/modules-for-lorawan
+    - https://www.rakwireless.com/en-us/products/wisgate-edge-and-wisgate-soho
+    - https://www.rakwireless.com/en-us/products/lora-concentrator-modules-for-lorawan-gateways

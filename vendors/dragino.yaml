@@ -13,3 +13,6 @@ links:
   website: "https://www.dragino.com/"
   linkedin: "https://www.linkedin.com/company/dragino-technology-co-limited/"
   github: "https://github.com/dragino"
+  products:
+    - https://dragino.com/products/products-list.html
+    - https://dragino.com/products/products-list.html?start=100

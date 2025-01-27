@@ -1,0 +1,10 @@
+name: "Sierra wireless"
+description: |
+  Sierra wireless is now semtech
+links:
+  website: "https://www.sierrawireless.com/"
+  products:
+    - https://www.sierrawireless.com/iot-modules/lpwa-modules/
+    - https://www.sierrawireless.com/iot-modules/smart-modules/
+    - https://www.sierrawireless.com/iot-modules/4g-modules/
+    - https://www.sierrawireless.com/iot-modules/5g-modules/

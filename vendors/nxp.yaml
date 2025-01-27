@@ -1,0 +1,32 @@
+name: "NXP Semiconductors N.V."
+description: |
+  NXP Semiconductors N.V. (NASDAQ: NXPI) enables a smarter, safer and more sustainable world through innovation. 
+  As a world leader in secure connectivity solutions for embedded applications, NXP is pushing boundaries in the 
+  automotive, industrial & IoT, mobile, and communication infrastructure markets. 
+  Built on more than 60 years of combined experience and expertise, the company has approximately 34,500 employees in 
+  more than 30 countries and posted revenue of $13.21 billion in 2022.
+links:
+  website: "https://www.nxp.com"
+  linkedin: "https://www.linkedin.com/company/nxp-semiconductors/"
+  github: "https://github.com/NXP"
+  products:
+    - https://www.nxp.com/products/wireless-connectivity/bluetooth-le-audio:2.4GHz-AUDIO-STREAMING
+    - https://www.nxp.com/products/wireless-connectivity/bluetooth-low-energy:BLUETOOTH-LOW-ENERGY-BLE
+    - https://www.nxp.com/products/wireless-connectivity/dsrc-safety-modem:DSRC-MODEM
+    - https://www.nxp.com/products/wireless-connectivity/matter:MATTER-PROTOCOL
+    - https://www.nxp.com/products/wireless-connectivity/miglo:NFMI-RADIO-SOLUTIONS
+    - https://www.nxp.com/products/wireless-connectivity/multiprotocol-mcus:MULTIPROTOCOL-MCUS
+    - https://www.nxp.com/products/wireless-connectivity/nfc-hf/connected-nfc-tags:MC_1429877262080
+    - https://www.nxp.com/products/wireless-connectivity/nfc-hf/ntag-for-tags-and-labels:NTAG-TAGS-AND-LABELS
+    - https://www.nxp.com/products/wireless-connectivity/nfc-hf/ntag-smartsensor:NTAG-SMART-SENSOR
+    - https://www.nxp.com/products/wireless-connectivity/nfc-hf/nfc-readers:NFC-READER
+    - https://www.nxp.com/products/wireless-connectivity/nfc-hf/icode:MC_42024
+    - https://www.nxp.com/products/wireless-connectivity/nfc-hf/nfc-charging:NFC-CHARGING
+    - https://www.nxp.com/products/wireless-connectivity/nfc-hf/nfc-enabled-digital-wallet:NFC-ENABLED-DIGITAL-WALLET
+    - https://www.nxp.com/products/wireless-connectivity/sub-ghz-ism-bands:SUB-1-GHZ-WIRELESS-SOLUTIONS
+    - https://www.nxp.com/products/wireless-connectivity/thread:THREAD-PROTOCOL
+    - https://www.nxp.com/products/wireless-connectivity/trimension-uwb:UWB-TRIMENSION
+    - https://www.nxp.com/products/wireless-connectivity/wi-fi-plus-bluetooth-plus-802-15-4:WIFI-BLUETOOTH
+    - https://www.nxp.com/products/wireless-connectivity/wi-fi-plus-bluetooth-plus-802-15-4/wi-fi-plus-bluetooth-plus-802-15-4-partner-modules:WIFI-BLUETOOTH-MODULES
+    - https://www.nxp.com/products/wireless-connectivity/zigbee:ZIGBEE-PROTOCOL
+

@@ -1,0 +1,13 @@
+name: "u-blox"
+description: |
+  u-blox (SIX:UBXN) provides semiconductor chips, modules, and IoT services that reliably locate and connect every thing. 
+  Our cutting-edge solutions drive innovation for the car of the future and the Internet of Things. 
+  Headquartered in Thalwil (Zurich), Switzerland, we have a presence of 1,400 experts who enable our customers to build 
+  solutions for a precise, smart, and sustainable future. After a record year in 2022, revenue reached CHF 576.9 million, 
+  adjusted EBIT stood at CHF 69.7 million, and free cash flow reached CHF 10.9 million in 2023.
+links:
+  website: "https://www.u-blox.com/"
+  linkedin: "https://www.linkedin.com/company/u-blox/"
+  github: "https://github.com/u-blox/"
+  products:
+    - https://www.u-blox.com/en/product-selector

@@ -8,5 +8,9 @@ links:
   website: "https://espressif.com"
   github: "https://github.com/espressif"
   linkedin: "https://www.linkedin.com/company/espressif-systems/"
-
+  products:
+    - https://www.espressif.com/en/products/socs
+    - https://www.espressif.com/en/products/modules
+    - https://www.espressif.com/en/products/devkits
+    - https://www.espressif.com/en/products/equipment/production-testing-equipment/overview
 

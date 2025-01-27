@@ -1,0 +1,11 @@
+name: "Raspberry pi"
+description: |
+  We’re on a mission to put high-performance, low-cost, general-purpose computing platforms in the hands of enthusiasts and engineers all over the world.
+  Since 2012, we’ve been designing single-board and modular computers, built on the Arm architecture, and running the Linux operating system. Whether you’re an educator looking to excite the next generation of computer scientists; an enthusiast searching for inspiration for your next project; or an OEM who needs a proven rock-solid foundation for your next generation of smart products, there’s a Raspberry Pi computer for you.
+  That’s not all we do. For lower-power and real-time applications, Raspberry Pi Pico boards, and the growing RP2 family of Raspberry Pi silicon products, bring our signature values of high performance, low cost, and ease of use to the microcontroller space. Our high-quality accessories ensure you get the best performance from your Raspberry Pi products. Raspberry Pi publications provide support and inspiration to makers and professionals alike.
+  Every Raspberry Pi product is backed by extensive technical documentation, broad global regulatory compliance, a worldwide network of trusted resellers, distributors and design partners, and a global community of educators, enthusiasts and professional design engineers. If you want to add intelligence to your latest project, or latest product, there’s someone in the Raspberry Pi community who can help make it happen.
+  Raspberry Pi is an engine for creativity, learning and innovation. With over sixty million of our computers sold in the last decade, there has never been a more exciting time to build on Raspberry Pi.
+links:
+  website: https://www.raspberrypi.com/
+  products:
+    - https://www.raspberrypi.com/products/

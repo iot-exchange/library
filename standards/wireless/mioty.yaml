@@ -1,0 +1,34 @@
+name: "mioty"
+description: |
+  Mioty is a software based low-power, wide-area network (LPWAN) protocol that was developed to overcome todays and 
+  future wireless connectivity limitations. With its best-in-class reliability and scalability, 
+  mioty is designed for massive IoT deployments.
+  
+  Telegrams are split in multiple subpackets which are then transmitted over different frequencies and time. 
+  An algorithm in the base station permanently scans the spectrum for mioty sub-packets and reassembles them into a 
+  complete message. Due to sophisticated Forward Error Correction (FEC), the receiver only needs 50% of the radio bursts 
+  in order to completely reconstruct the information. This reduces the impact of corrupted or lost bursts due to 
+  collisions and increases the resistance to interference.
+
+spec:
+  v1.1.1: https://www.etsi.org/deliver/etsi_ts/103300_103399/103357/01.01.01_60/ts_103357v010101p.pdf
+  v2.1.1:
+    - https://www.etsi.org/deliver/etsi_ts/103300_103399/10335701/02.01.01_60/ts_10335701v020101p.pdf
+    - https://www.etsi.org/deliver/etsi_ts/103300_103399/10335702/02.01.01_60/ts_10335702v020101p.pdf
+
+layers:
+  phy: https://developers.mioty-alliance.com/wp-content/uploads/2023/10/Mioty-PhysicalLayerTechnology_rev1_final.pdf
+  mac: https://developers.mioty-alliance.com/wp-content/uploads/2023/10/Mioty-Mac_and_Higher_Layers_final.pdf
+  llc: https://developers.mioty-alliance.com/wp-content/uploads/2023/10/Mioty-Mac_and_Higher_Layers_final.pdf#page=31
+
+data-rates:
+
+frequencies:
+  868:
+  915:
+
+classes:
+  Z: uplink only
+  A: listen after uplink
+  B: listen at specific intervals + multicast
+  C: always listening

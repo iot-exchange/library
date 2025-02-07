@@ -1,0 +1,25 @@
+name: EnOcean
+description: |
+  The EnOcean wireless standard is geared to wireless sensors and wireless sensor networks with ultra-low power
+  consumption. It also includes sensor networks that utilize energy harvesting technology to draw energy from their 
+  surroundings – for example from motion, light or temperature differences. This principle enables electronic control 
+  systems to be used that work independently of an external power supply. 
+  
+  The EnOcean wireless standard (ISO/ IEC 14543-3-1X) in sub 1GHz is optimized for use in buildings, as a radio range 
+  of 30m indoors is possible.
+
+duty-cycle: 0.01
+data-rate: 125000
+license:
+range:
+  indoor: 30
+frequencies:
+  868: Europe
+  902: North America
+  928: Japan
+standards:
+  - ISO/IEC 14543-3-10/11
+security:
+  
+links:
+  website: https://www.enocean-alliance.org/

@@ -1,4 +1,4 @@
-name: "Nordic Semiconductor"
+name: Nordic Semiconductor
 description: |
   Nordic Semiconductor is a Norwegian fabless semiconductor company specializing in wireless communication technology
   that powers the Internet of Things (IoT).
@@ -15,9 +15,9 @@ description: |
   Nordic is a member of the ANT+ Alliance, Bluetooth SIG, Thread Group, Connectivity Standards Alliance, Wi-Fi Alliance, 
   and GSMA.
 links:
-  website: "https://www.nordicsemi.com/"
-  linkedin: "https://www.linkedin.com/company/nordic-semiconductor/"
-  github: "https://github.com/nordicsemiconductor"
+  website: https://www.nordicsemi.com/
+  linkedin: https://www.linkedin.com/company/nordic-semiconductor/
+  github: https://github.com/nordicsemiconductor
   products:
     - https://www.nordicsemi.com/Products/Wireless/Low-power-cellular-IoT/Products
     - https://www.nordicsemi.com/Products/Wireless/WiFi/Products

@@ -1,0 +1,22 @@
+name: Olimex
+description:
+  Olimex Ltd is a leading provider for development tools and programmers for embedded market.
+
+  The company has 28 years experience in designing, prototyping and manufacturing printed circuit boards, 
+  sub-assemblies, and complete electronic products.
+
+  We are established in 1991 in Plovdiv - the second largest city in Bulgaria.
+
+  We have extensive knowledge in analog, digital, and microcontroller design, and we offer our own-designed development
+  boards, programmers and emulators for rapid prototyping ARM, AVR, MSP430, MAXQ and PIC microcontrollers.
+
+  Olimex is recognized as an approved Third Party Hardware Developer by Texas Istruments Inc., Maxim Integrated, 
+  Atmel Inc., NXP Inc., ST Microelectronics Inc., IAR Systems AB, Cirrus Logic Inc., OKI Semiconductor Inc, 
+  Energy Micro Inc., Microchip Inc. and we have over 30,000 active customer accounts who regularly use our services for
+  electronic boards development and prototyping. Our design capabilities are backed by our own PCB prototype production 
+  and assembly facility, so all designs made by us are created with Design-For-Manufacturing in mind - which guarantees 
+  that they are optimized for reliability and provide cost-effective solutions for our customers.
+links:
+  website: https://www.olimex.com/
+  products: https://www.olimex.com/prices
+

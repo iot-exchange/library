@@ -1,4 +1,4 @@
-name: "Dragino Technology Co., Limited"
+name: Dragino Technology Co., Limited
 description: |
   Dragino Technology Co., Limited is founded by experienced engineers in 2010. We are specialists in product design,
   developing and manufacturing. 
@@ -10,9 +10,9 @@ description: |
   Dragino dedicates to promote Open Source IoT solution. Our Open Source products are sold world widely and gain good name in the Open Source Internet of Things filed.
   We aim to become a trusted and helpful partner for our clients and get the success in the Internet of Things market together.
 links:
-  website: "https://www.dragino.com/"
-  linkedin: "https://www.linkedin.com/company/dragino-technology-co-limited/"
-  github: "https://github.com/dragino"
+  website: https://www.dragino.com/
+  linkedin: https://www.linkedin.com/company/dragino-technology-co-limited/
+  github: https://github.com/dragino
   products:
     - https://dragino.com/products/products-list.html
     - https://dragino.com/products/products-list.html?start=100

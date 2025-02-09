@@ -1,11 +1,11 @@
-name: "Arduino"
+name: Arduino
 description: |
   Arduino designs, manufactures, and supports electronic devices and software, allowing people around the world to
   easily access advanced technologies that interact with the physical world. Our products are straightforward, simple,
   and powerful, ready to satisfy users’ needs from students to makers and all the way to professional developers.
 links:
-  website: "https://www.arduino.cc/"
-  linkedin: "https://www.linkedin.com/company/arduino/"
-  github: "https://github.com/arduino"
+  website: https://www.arduino.cc/
+  linkedin: https://www.linkedin.com/company/arduino/
+  github: https://github.com/arduino
   products:
     - https://www.arduino.cc/en/hardware

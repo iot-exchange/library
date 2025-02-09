@@ -1,0 +1,13 @@
+name: Tektelic Communications
+description: |
+  TEKTELIC is a leading supplier of LoRaWAN IoT Gateways, End-to-End Solutions, Sensors, and Applications. TEKTELIC has
+  been present in the market since 2009 and during these years, has managed to achieve excellence in quality, 
+  engineering, and service. TEKTELIC offers a complete range of customized product design services and is backed by a 
+  growing portfolio of Devices, Applications, and Gateways.
+links:
+  website: https://tektelic.com
+  github: https://github.com/TektelicCommunications
+  linkedin: https://www.linkedin.com/company/tektelic
+  products:
+    - https://tektelic.com/products/gateways/
+    - https://tektelic.com/products/sensors/

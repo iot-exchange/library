@@ -1,0 +1,18 @@
+name: Renesas
+description: |
+  At Renesas we continuously strive to drive innovation with a comprehensive portfolio of microcomputers, analog and 
+  power devices. Our mission is to develop a safer, healthier, greener, and smarter world by providing intelligence 
+  to our four focus growth segments: Automotive, Industrial, Infrastructure, and IoT that are all vital to our daily 
+  lives, meaning our products and solutions are embedded everywhere.
+links:
+  website: https://www.renesas.com/
+  github: https://github.com/renesas
+  linkedin: https://www.linkedin.com/company/renesas/
+  products:
+    - https://www.renesas.com/en/products/wireless-connectivity/bluetooth-low-energy/product-selector
+    - https://www.renesas.com/en/products/wireless-connectivity/dect/product-selector
+    - https://www.renesas.com/en/products/wireless-connectivity/nfc/product-selector
+    - https://www.renesas.com/en/products/wireless-connectivity/sub-ghz-wi-sun-transceivers/product-selector
+    - https://www.renesas.com/en/products/wireless-connectivity/wi-fi/product-selector
+    - https://www.renesas.com/en/products/analog-products/audio-video/wireless-audio/product-selector
+    - https://www.renesas.com/en/products/wireless-connectivity/wireless-baseband-modem-rapidwave/product-selector

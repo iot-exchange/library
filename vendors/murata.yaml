@@ -1,0 +1,27 @@
+name: Murata
+description: |
+  Murata is a global leader in the design, manufacture and supply of advanced electronic materials, leading edge 
+  electronic components, and multi-functional, high-density modules.
+  　　
+  Murata components are everywhere. Though often unseen, our products are essential parts of the electronic devices 
+  you are using throughout each and every day: mobile phones, computers, cars, home appliances. More and more, Murata 
+  products are found in many new kind of applications such as healthcare devices and energy management systems.
+  　　
+  The world keeps on changing, and the world of electronics is changing even faster. As an Innovator in Electronics, 
+  Murata will keep on innovating, following its strong corporate philosophy, contributing to the advancement of society 
+  and shaping the future of the world of electronics.
+links:
+  website: https://www.murata.com
+  linkedin: https://www.linkedin.com/company/murata-electronics/
+  github: https://github.com/murata-wireless
+  products:
+    - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth
+    - https://www.murata.com/en-eu/products/connectivitymodule/bluetooth
+    - https://www.murata.com/en-eu/products/connectivitymodule/lpwa
+    - https://www.murata.com/en-eu/products/connectivitymodule/proprietary-fhss
+    - https://www.murata.com/en-eu/products/connectivitymodule/ultra-wide-band
+    - https://www.murata.com/en-eu/products/connectivitymodule/mmwave-rf
+    - https://www.murata.com/en-eu/products/connectivitymodule/edge-ai
+    - https://www.murata.com/en-eu/products/connectivitymodule/v2x
+    - https://www.murata.com/en-eu/products/connectivitymodule/mmwave-radar
+    - https://www.murata.com/en-eu/products/connectivitymodule/gnss

@@ -1,0 +1,11 @@
+name: MikroElektronika
+description:
+  MikroElektronika manufactures high-quality development tools for microcontrollers. 
+  We deliver our products across the globe and many satisfied customers guarantee first-rate service. 
+  Boards for PIC, PSoC, AVR, 8051, STM32. Tina, FT90x and other MCU’s at competitive prices.
+links:
+  website: https://www.mikroe.com
+  github: https://github.com/MikroElektronika
+  linkedin: https://www.linkedin.com/company/mikroelektronika/
+  products:
+    - https://www.mikroe.com/shop

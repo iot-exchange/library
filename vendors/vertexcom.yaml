@@ -1,0 +1,30 @@
+name: VertexCom
+description: |
+  VertexCom is a brand of world-class communication chips and networking software for long-range, large-scale IoT, 
+  smart grids, and automotive applications. Our product lines include state-of-art wireless (Wi-SUN), 
+  wired (HomePlug AV & GreenPHY, HPLC, G3-PLC), and hybrid dual-mode communication solutions. 
+  
+  Our outstanding team has successfully developed Wi-SUN (IEEE 802.15.4g/x), Homeplug AV and GreenPHY PLC (IEEE 1901) 
+  certified platforms delivering high performance and robust connectivity. VertexCom HomePlug GreenPHY chips, with 
+  automotive-grade quality, have been successfully applied to V2G communications for the electric vehicle charging 
+  standard ISO 15118.
+
+  VertexCom provides strong support to enable clients' IIoT (Industrial Internet of Things) applications through 
+  advanced products. Our technologies have been applied with success to smart metering, smart utility, smart energy, 
+  smart city, EV charging systems, and more. VertexCom is also working on industry-grade security, indoor positioning, 
+  battery-powered networking, and time-sensitive networking technologies to drive more IIoT applications.
+
+  VertexCom R&D team has over 20 years of experience in communication IC design and analog design, and owns several of 
+  the industry's core technology patents. The team's expertise has enabled successful development of G3-PLC and Wi-SUN 
+  certified platforms, delivering future-proof, robust connectivity and performance. As contributors to international 
+  communication specifications, we also participate in the development of Wi-SUN FAN 1.1 and G3-PLC & RF hybrid 
+  dual-mode specification.
+links:
+  website: http://www.vertexcom.com/
+  github: https://github.com/Vertexcom-dev
+  linkedin: https://www.linkedin.com/company/vertexcom
+  products:
+    - http://www.vertexcom.com/p_rf_soc_en.html
+    - http://www.vertexcom.com/p_homeplug_plc_en.html
+    - http://www.vertexcom.com/p_plc_en.html
+    - http://www.vertexcom.com/p_dualmode_en.html

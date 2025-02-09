@@ -1,0 +1,24 @@
+name: Silicon Labs
+description: |
+  Silicon Labs is a trailblazer in wireless connectivity for the Internet of Things. Our integrated hardware and 
+  software platform, intuitive development tools, and unmatched ecosystem support make us the ideal long-term partner 
+  in building advanced industrial, commercial, and home and life applications. We lead the industry in high-performance,
+  low-power, and security with support for the broadest set of multi-protocol solutions.
+  
+  Our Mission is to empower developers to create wirelessly connected devices that transform industries, grow economies 
+  and improve lives.
+links:
+  website: https://www.silabs.com/
+  github: https://github.com/SiliconLabs
+  linkedin: https://www.linkedin.com/company/siliconlabs/
+  products:
+    - https://www.silabs.com/wireless/amazon-sidewalk
+    - https://www.silabs.com/wireless/bluetooth
+    - https://www.silabs.com/wireless/matter
+    - https://www.silabs.com/wireless/multiprotocol
+    - https://www.silabs.com/wireless/proprietary
+    - https://www.silabs.com/wireless/thread
+    - https://www.silabs.com/wireless/wi-fi
+    - https://www.silabs.com/wireless/wi-sun
+    - https://www.silabs.com/wireless/z-wave
+    - https://www.silabs.com/wireless/zigbee

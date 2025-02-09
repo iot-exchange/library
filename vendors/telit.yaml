@@ -1,0 +1,17 @@
+name: Telit Cinterion
+description: |
+  We help our customers and partners who require best-in-class Internet of Things (IoT) performance. 
+  Our engineering practices and design methodologies exceed stringent environmental requirements and industry standards. 
+  
+  Our IoT experts have pioneered an end-to-end system approach to ensure everything works together when connecting 
+  devices. We enable businesses to manage IoT devices, connectivity and everything in between.
+links:
+  website: https://www.telit.com
+  products:
+    - https://www.telit.com/modules-overview/cellular-5g/
+    - https://www.telit.com/modules-overview/cellular-lte/
+    - https://www.telit.com/modules-overview/cellular-lpwa/
+    - https://www.telit.com/modules-overview/wifi-and-bluetooth/
+    - https://www.telit.com/modules-overview/positioning-timing-modules/
+    - https://www.telit.com/modules-overview/smart-modules/
+    - https://www.telit.com/next-connected-module/

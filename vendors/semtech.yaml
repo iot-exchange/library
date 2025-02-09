@@ -1,13 +1,13 @@
-name: "Semtech"
+name: Semtech
 description: |
   Since our founding in 1960 as a manufacturer of high reliability products, Semtech has grown to become a multinational
   technology innovator, enabling solutions that fuel a safer, more productive, more sustainable, and socially focused
   planet. We leverage our highly skilled teams to develop new products that solve some of the world’s most complex 
   design challenges, making a positive and significant impact in our lives and environment.
 links:
-  website: "https://www.semtech.com/"
-  linkedin: "https://www.linkedin.com/company/semtech/"
-  github: "https://github.com/lora-net"
+  website: https://www.semtech.com/
+  linkedin: https://www.linkedin.com/company/semtech/
+  github: https://github.com/lora-net
   products:
     - https://www.semtech.com/products/wireless-rf/lora-core
     - https://www.semtech.com/products/wireless-rf/lora-connect

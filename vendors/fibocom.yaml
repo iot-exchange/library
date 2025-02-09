@@ -1,0 +1,23 @@
+name: Fibocom
+description: |
+  Fibocom is a leading global provider of wireless communication modules and solutions as well as the first wireless 
+  communication module provider listed on China A-shares stock market (stock code: 300638). 
+  
+  Fibocom offers a one-stop solution for industry customers by integrating wireless communication modules and IoT 
+  solutions. With over two decades of engagement in M2M and IoT communication technology and extensive expertise, 
+  we are capable of bringing reliable, convenient, secure and intelligent connectivity service to every industry, 
+  enriching smart life with a perfect wireless experience. Fibocom’s product portfolio ranges from cellular modules 
+  (5G/4G/3G/2G/LPWA), automotive-grade modules, smart modules, GNSS modules and antenna service. 
+  
+  Together, we aim to empower digital transformation across industries such as ACPC (AlwaysConnected PC), 
+  mobile broadband, smart retail, C-V2X, robotics, smart energy, IIoT, smart cities, smart agriculture, smart home, 
+  telemedicine, etc.
+links:
+  website: https://www.fibocom.com/
+  linkedin: https://www.linkedin.com/company/fibocom-wireless/
+  github:
+  products:
+    - https://www.fibocom.com/en/Products/list_lcid_125.html
+    - https://www.fibocom.com/en/Products/list_lcid_123.html
+    - https://www.fibocom.com/en/Products/list_lcid_284.html
+    - https://www.fibocom.com/en/Products/list_lcid_124.html

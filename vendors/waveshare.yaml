@@ -1,10 +1,29 @@
-name: "Waveshare"
+name: Waveshare
 description: |
-
+  Waveshare is a leading global provider of electronic components and modules for a wide range of industries, including
+  robotics, IoT, education, and more. With a focus on quality, reliability, and innovation, Waveshare has become a 
+  trusted partner for engineers, designers, and makers around the world.
+    
+  Founded in 2006, Waveshare is headquartered in Shenzhen, China, with additional offices in HK. Waveshare's product 
+  range is extensive, covering multiple areas such as microcontrollers, development boards, displays, sensors, wireless 
+  communication, and more. These products include LCD screens, touch screens, OLED displays, cameras, and others in 
+  various sizes. Waveshare also provides software and documentation related to these products to help customers quickly 
+  start their development projects, all are designed to help customers bring their ideas to life.
+    
+  Waveshare's products are used by hobbyists, students, and professionals alike, and are compatible with a variety of 
+  popular development platforms such as Raspberry Pi and Arduino. In addition to its standard product offerings, 
+  Waveshare also provides custom design and manufacturing services to meet the specific needs of customers.
+  
+  Waveshare has always been committed to providing high-quality electronic products and services. Its products are 
+  certified by CE, FCC, RoHS, and other certifications, and have been recognized and praised by global customers.
+  The company adheres to the concept of "Making Innovation Easier" and is dedicated to providing customers with simpler
+  and more reliable electronic products and solutions, providing strong support for electronic enthusiasts and 
+  developers worldwide. Whether you are a professional engineer, a student, or a hobbyist, 
+  Waveshare has the products and services you need to bring your ideas to life.
 links:
-  website: "https://www.waveshare.com"
-  linkedin: ""
-  github: "https://github.com/waveshare"
+  website: https://www.waveshare.com
+  linkedin: https://www.linkedin.com/company/waveshare/
+  github: https://github.com/waveshare
   products:
     - https://www.waveshare.com/product.htm?limit=80&p=1
     - https://www.waveshare.com/product.htm?limit=80&p=2

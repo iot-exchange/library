@@ -1,4 +1,4 @@
-name: "RAKwireless"
+name: RAKwireless
 description: |
   RAKwireless is a committed market leader in the globally evolving IoT landscape. The company is passionate about 
   eliminating design complexity and accelerating time-to-market for underserved and emerging markets, including 
@@ -12,9 +12,9 @@ description: |
   and its unified software interface (RUI). RAKwireless is committed to its “IoT Made Easy” philosophy, providing 
   customers with cost-efficient and easy-to-use solutions that are developer tested and enterprise-ready.
 links:
-  website: "https://www.rakwireless.com/"
-  linkedin: "https://www.linkedin.com/company/rakwireless/"
-  github: "https://github.com/rakWireless"
+  website: https://www.rakwireless.com/
+  linkedin: https://www.linkedin.com/company/rakwireless/
+  github: https://github.com/rakWireless
   products:
     - https://www.rakwireless.com/en-us/products/modules-for-lorawan
     - https://www.rakwireless.com/en-us/products/wisgate-edge-and-wisgate-soho

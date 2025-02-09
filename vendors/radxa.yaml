@@ -1,4 +1,4 @@
-name: "Radxa"
+name: Radxa
 description: |
   At Radxa, Open-Source is in Our DNA - Our company was founded by a team of passionate engineers and designers who 
   love to create and share, and are deeply committed to the open-source community. The Radxa brand name comes from the 
@@ -15,7 +15,8 @@ description: |
   collaborative, and inclusive community, providing rich resources and support for our users to unleash their creativity, 
   and driving the progress of technology and the development of society together
 links:
-  website: "https://radxa.com"
-  github: "https://github.com/radxa"
+  website: https://radxa.com
+  linkedin:
+  github: https://github.com/radxa
   products:
     - https://radxa.com/products/

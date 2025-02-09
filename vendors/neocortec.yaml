@@ -1,0 +1,23 @@
+name: NeoCortec
+description: |
+  NeoCortec was founded in 2007 with the aim of developing and patenting several innovations related to Wireless Sensor 
+  Networks. The founders realized early on that there was a lack of new thinking and research in the area of Wireless 
+  Sensor Networks – seemingly all efforts hitherto were based on methods related to IP protocols. 
+  
+  The founders had maintained that IP protocols were not applicable to the field of Wireless Sensor Networks. 
+  They claimed that there existed the possibility of making large scale routing protocols function in real time, 
+  thus without network managers etc., and all the while dramatically reducing power consumption.
+
+  Therefore, today, NeoCortec is a supplier of the world’s smallest ultra-low-power bi-directional wireless mesh 
+  network modules. The modules come with the proprietary NeoCortec Protocol Stack, which is the result of the research 
+  and development activities during the early phase of the company.NeoCortec is based in Copenhagen, Denmark, and 
+  Nakhon Si Thammarat, Thailand. 
+  
+  NeoCortec is owned by the Danish Private Capital Fund, A/S Holger Petersen Holding. 
+  A/S Holger Petersen Holding has achieved an AAA credit rating from Dun & Bradstreet.
+links:
+  website: https://neocortec.com/
+  linkedin: https://www.linkedin.com/company/neocortec/
+  github:
+  products:
+    - https://neocortec.com/products/

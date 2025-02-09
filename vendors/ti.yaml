@@ -1,4 +1,4 @@
-name: "Texas Instruments"
+name: Texas Instruments
 description: |
   Texas Instruments has been making progress possible for decades. 
   We are a global semiconductor company that designs, manufactures, tests and sells analog and embedded processing chips. 
@@ -10,8 +10,8 @@ description: |
   making it possible for semiconductors to go into electronics everywhere. We think of this as Engineering Progress. 
   It’s what we do and have been doing for decades.
 links:
-  website: "https://www.ti.com"
-  github: "https://github.com/texasinstruments"
-  linkedin: "https://www.linkedin.com/company/texas-instruments/"
+  website: https://www.ti.com
+  github: https://github.com/texasinstruments
+  linkedin: https://www.linkedin.com/company/texas-instruments/
   products:
     - https://www.ti.com/wireless-connectivity/products.html

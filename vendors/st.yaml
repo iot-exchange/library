@@ -1,9 +1,9 @@
-name: "STMicroelectronics",
+name: STMicroelectronics
 description: |
   STMicroelectronics is a global semiconductor leader delivering intelligent and energy-efficient products and solutions that power the electronics at the heart of everyday life.
 links:
-  website: "https://www.st.com"
-  linkedin: "https://www.linkedin.com/company/stmicroelectronics"
+  website: https://www.st.com
+  linkedin: https://www.linkedin.com/company/stmicroelectronics
   products:
     - https://www.st.com/en/wireless-connectivity/lorawan-products/products.html
     - https://www.st.com/en/wireless-connectivity/6lowpan-products/products.html

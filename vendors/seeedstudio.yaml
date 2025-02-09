@@ -1,0 +1,36 @@
+name: Seeed Studio
+description: |
+  Make Technology Accessible for All.
+  
+  By providing IoT hardware products and technical support to a wide range of clients, it aims to facilitate traditional
+  industries to achieve digital transformation towards a sustainable planet.
+  
+  Seeed Technology (also known as, Seeed Studio) is an innovative IoT technology company, which specializes in hardware
+  research, production and sales for edge computing, network communication, and smart sensing applications. Moreover, 
+  the company provides a wide variety of R&D support and services for customized products.
+
+  Adhering to its mission of “making technology accessible for all”, the company has professional capabilities in both 
+  design, R&D, and agile manufacturing of IoT hardware. Through working closely with global developers, it integrates 
+  new information technologies in its complete and open production system, that is epitomized into 
+  “modules-devices-solutions”. Thereby, the firm continues to serve emerging IoT scenarios, with a focus on smart 
+  manufacturing, agriculture, energy, and cities. By providing IoT hardware products and technical support to a wide 
+  range of clients, it aims to facilitate traditional industries to achieve digital transformation towards a 
+  sustainable planet.
+
+  With Shenzhen’s vast resources, and trusted technology and distribution partners around the world, Seeed strives to 
+  be the most integrated platform for creating hardware solutions for IoT, edge AI applications.
+links:
+  website: https://www.seeedstudio.com
+  linkedin: https://www.linkedin.com/company/seeedstudio/
+  github: https://github.com/seeed-studio
+  products:
+    - https://www.seeedstudio.com/XIAO-c-1964.html
+    - https://www.seeedstudio.com/SenseCAP-c-1825.html
+    - https://www.seeedstudio.com/category/Grove-c-1003.html
+    - https://www.seeedstudio.com/Components-c-1985.html
+    - https://www.seeedstudio.com/nvidia-jetson-1765.html
+    - https://www.seeedstudio.com/reCamera-test.html
+    - https://www.seeedstudio.com/Raspberry-Pi-2246.html
+    - https://www.seeedstudio.com/Home-Assistant.html
+    - https://www.seeedstudio.com/The-Modules.html
+    - https://www.seeedstudio.com/The-Devices.html

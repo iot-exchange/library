@@ -1,0 +1,23 @@
+name: Kerlink
+description: |
+  Founded in 2004, Kerlink is a fast-growing, global, and publicly traded premier provider of Internet of Things (IoT) 
+  solutions serving private businesses, cities, industries, and network operators to cost-efficiently design, launch, 
+  and operate public and private IoT networks worldwide.
+
+  Based in France, with subsidiaries in the US, Singapore, India, and Japan, Kerlink offers a comprehensive portfolio
+  of carrier-grade, outdoor LoRaWAN gateways,  and industrial-grade, indoor LoRaWAN gateways, compatible with all 
+  LoRaWAN Network Server (LNS) providers, unique IoT Network Operation & Management tools, and value-added IoT 
+  applications like IoT device management. We support our first-class, performant, robust, scalable, and simple-to-use 
+  IoT solutions with custom, expert, professional services for designing, orchestrating, and monetizing tailored 
+  low-power/wide area (LPWA) IoT networks.
+
+  Kerlink is a founding and board member of the LoRa Alliance (since 2015) and of the uCiFi Alliance  (since 2017).
+links:
+  website: https://www.kerlink.com
+  github: https://github.com/Kerlink
+  linkedin: https://www.linkedin.com/company/kerlink/
+  products:
+    - https://www.kerlink.com/wanesy-wave/
+    - https://www.kerlink.com/iot-solutions/device-sensors/track-value/
+    - https://www.kerlink.com/iot-solutions/iot-gateways/wirnet-indoor-lorawan-gateways/
+    - https://www.kerlink.com/iot-solutions/iot-gateways/wirnet-outdoor-lorawan-gateways/

@@ -1,0 +1,32 @@
+name: Würth Elektronik
+description: |
+  The Würth Elektronik Group of Companies, founded in Niedernhall, Baden-Württemberg, employs around 7,900 people 
+  worldwide and in 2023 generated sales of €1.24 Billion.
+  
+  The Würth Elektronik Group activities span the globe with three business units in international markets and with 23
+  production sites worldwide. This makes Würth Elektronik one of the most successful companies within the Würth Group.
+  
+  The joint umbrella brand extends across a broad portfolio of services, competencies and a corporate culture we live 
+  and breathe. The hallmarks of our groups services are highest levels of strong team spirit, both internally and 
+  externally, customer proximity, services and quality. "more than you expect", is our claim that we’re committed to 
+  fulfil within the Würth Elektronik Group of Companies. With great passion, every single day as well as heading 
+  into the future.
+
+links:
+  website: https://www.we-online.com/
+  github: http://github.com/WurthElektronik
+  linkedin: https://www.linkedin.com/company/wuerth-elektronik-group/
+  products:
+    - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1
+    - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/wpan_wlan/bluetooth
+    - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/wpan_wlan/wifi_1
+    - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/cellular
+    - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/long-range-wan
+    - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/metering
+    - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/proprietary_wirepas/proprietary_proprietary
+    - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/proprietary_wirepas/wirepas
+    - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/mesh
+    - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/combined
+    - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/byof
+    - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/eval_boards
+    - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/wirl-antennas

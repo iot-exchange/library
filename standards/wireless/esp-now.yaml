@@ -1,0 +1,11 @@
+name: ESP-NOW
+description: |
+  ESP-NOW is a wireless communication protocol based on the data-link layer, which reduces the five layers of the OSI 
+  model to only one. This way, the data need not be transmitted through the network layer, the transport layer, 
+  the session layer, the presentation layer, and the application layer. Also, there is no need for packet headers or 
+  unpackers on each layer, which leads to a quick response reducing the delay caused by packet loss in congested 
+  networks.
+
+links:
+  website: https://www.espressif.com/en/solutions/low-power-solutions/esp-now
+  github: https://github.com/espressif/esp-now

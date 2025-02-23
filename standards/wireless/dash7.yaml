@@ -1,0 +1,32 @@
+name: Dash7
+status: discontinued
+description: |
+  DASH7 Alliance Protocol (D7A) is an open-source wireless sensor and actuator network protocol, which operates in the 
+  433 MHz, 868 MHz and 915 MHz unlicensed ISM/SRD band. DASH7 provides multi-year battery life, range of up to 2 km, 
+  low latency for connecting with moving things, a very small open-source protocol stack, AES 128-bit shared-key 
+  encryption support, and data transfer of up to 167 kbit/s. 
+  
+  The DASH7 Alliance Protocol is the name of the technology promoted by the non-profit consortium called 
+  the DASH7 Alliance.
+  
+  Networks based on DASH7 differ from typical wire-line and wireless networks utilizing a "session". 
+  DASH7 networks serve applications in which low power usage is essential and data transmission is typically much slower 
+  and/or sporadic, like basic telemetry. Thus, instead of replicating a wire-line "session", 
+  
+  DASH7 was designed with the concept of B.L.A.S.T.:
+  - *Bursty*: Data transfer is abrupt and does not include content such as video, audio, or other isochronous forms of data.
+  - *Light*: For most applications, packet sizes are limited to 256 bytes. Transmission of multiple consecutive packets may occur, but is generally avoided, if possible.
+  - *Asynchronous*: DASH7's main method of communication is by command–response, which by design requires no periodic network "hand-shaking" or synchronization between devices.
+  - *Stealth*: DASH7 devices do not need periodic beaconing to be able to respond in communication.
+  - *Transitive*: A DASH7 system of devices is inherently mobile or transitional. Unlike other wireless technologies, DASH7 is upload-centric, not download-centric, thus devices do not need to be managed extensively by fixed infrastructure, i.e., base stations.
+topologies:
+  - ptp
+  - star
+  - tree
+frequency-bands:
+  868:
+  900:
+  433:
+links:
+  website: https://www.dash7-alliance.org/
+

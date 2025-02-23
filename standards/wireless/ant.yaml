@@ -1,0 +1,21 @@
+name: Ant
+description: |
+  
+  Consists of 3 protocols:
+  - Ant: low level protocol
+  - Ant+: device descriptions
+  - Ant-fs: file transfer on top of ant
+status: discontinued
+encryption: optional?
+topologies:
+  - ptp
+  - tree
+  - mesh
+range: 30m
+frequency-bands:
+  2400:
+    region: world
+links:
+  website: https://www.thisisant.com/
+  certification: https://www.thisisant.com/developer/ant-plus/certification/
+  specification: https://www.thisisant.com/resources/ant-message-protocol-and-usage

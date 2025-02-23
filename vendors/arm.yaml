@@ -1,0 +1,25 @@
+name: Arm
+description: |
+  #Building the Future of Computing
+  Born more than 30 years ago with the goal of designing a computer intended to run on a battery, Arm’s DNA is built 
+  around power-efficient CPUs.  Today, Arm compute platforms are the most power-efficient on the planet and continue to 
+  push the thresholds of performance to enable the next generation of smart, AI-capable, visually immersive, and 
+  increasingly autonomous experiences on everything from the tiniest sensors to the smartphone to the automobile and to 
+  the datacenter. This unique combination of performance and efficiency enabled Arm to change the world by fueling the
+  smartphone revolution - and it's the reason Arm will power every technology revolution moving forward.
+  
+  #The World Leader in CPU Technology
+  Across industries, Arm technology is building the future of computing. We architect, develop, and license 
+  high-performance, low-cost, and energy-efficient IP solutions for CPUs, GPUs, NPUs and interconnect technologies, 
+  relied on by many of the world’s leading semiconductor companies and OEMs to develop their products.
+  
+  In short, Arm licenses the instruction sets for modern chips to partners, who then make chips with customizations for 
+  their unique applications. Our trusted computing platforms deliver the right combination of common software standards 
+  and foundational hardware building blocks, giving our partners unmatched flexibility in bringing innovative, 
+  specialized processing to their products while enabling differentiation where it truly matters.
+links:
+  website: https://arm.com/
+  github: https://github.com/arm-software
+  linkedin: https://www.linkedin.com/company/arm/
+  products:
+    - https://developer.arm.com/Processors#aq=%40navigationhierarchiescategories%3D%3D%22Processor%20products%22%20AND%20%40navigationhierarchiescontenttype%3D%3D%22Product%20Information%22&numberOfResults=400

@@ -1,0 +1,44 @@
+name: Bluetooth classic
+description: |
+  The Bluetooth Classic radio, also referred to as Bluetooth Basic Rate/Enhanced Data Rate (BR/EDR), is a low power 
+  radio that streams data over 79 channels in the 2.4GHz unlicensed industrial, scientific, and medical (ISM) frequency 
+  band. Supporting point-to-point device communication, Bluetooth Classic is mainly used to enable wireless audio 
+  streaming and has become the standard radio protocol behind wireless speakers, headphones, and in-car entertainment 
+  systems. 
+  
+  The Bluetooth Classic radio also enables data transfer applications, including mobile printing.
+
+frequency-bands:
+  2400:
+    region: world
+    channels: 79 1Mhz channels with Adaptive Frequency Hopping
+    data-rates:
+      - 1_000_000
+      - 2_000_000
+      - 3_000_000
+topologies:
+  - ptp
+links:
+  specs:
+    overview: https://www.bluetooth.com/specifications/specs/
+    v6.0:
+      - https://www.bluetooth.com/specifications/specs/core-specification-6-0/
+      - https://www.bluetooth.org/DocMan/handlers/DownloadDoc.ashx?doc_id=588232
+    v5.4:
+      - https://www.bluetooth.com/specifications/specs/core-specification-amended-5-4/
+      - https://www.bluetooth.org/DocMan/handlers/DownloadDoc.ashx?doc_id=587177
+    v5.3:
+      - https://www.bluetooth.com/specifications/specs/core-specification-amended-5-3/
+      - https://www.bluetooth.org/DocMan/handlers/DownloadDoc.ashx?doc_id=587176
+    v5.2:
+      - https://www.bluetooth.com/specifications/specs/core-specification-amended-5-2/
+      - https://www.bluetooth.org/DocMan/handlers/DownloadDoc.ashx?doc_id=587175
+    v5.1:
+      - https://www.bluetooth.com/specifications/specs/core-specification-amended-5-1/
+      - https://www.bluetooth.org/DocMan/handlers/DownloadDoc.ashx?doc_id=587174
+    v5.0:
+      - https://www.bluetooth.com/specifications/specs/core-specification-amended-5-0/
+      - https://www.bluetooth.org/DocMan/handlers/DownloadDoc.ashx?doc_id=587173
+    v4.2:
+      - https://www.bluetooth.com/specifications/specs/core-specification-amended-4-2/
+      - https://www.bluetooth.org/DocMan/handlers/DownloadDoc.ashx?doc_id=587172

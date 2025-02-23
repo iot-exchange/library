@@ -1,0 +1,37 @@
+name: Amazon Sidewalk
+type: network
+description: |
+  Amazon Sidewalk is a secure community network that uses Amazon Sidewalk Gateways (also called Sidewalk Bridges), such 
+  as compatible Amazon Echo and Ring devices, to provide cloud connectivity for IoT endpoint devices.
+  
+  Amazon Sidewalk enables low-bandwidth and long-range connectivity at home and beyond using Bluetooth Low Energy for
+  short-distance communication and LoRa and FSK radio protocols at 900MHz frequencies to cover longer distances.
+  
+  When Amazon Sidewalk Gateway owners opt to participate in the Sidewalk Network, Sidewalk endpoint devices located
+  within the wireless range of this network can be used for applications such as sensing the environment or alerting
+  when a specific condition or event occurs. Amazon Sidewalk supports a diversity of use cases, from connected sensors,
+  utility meters or appliances in and around the home to trackers, tools, toys and monitoring devices that are used in 
+  and around neighborhoods and on the go. Amazon Sidewalk transfers data between Sidewalk endpoints and Sidewalk 
+  Gateways, and between Sidewalk Gateways and the AWS cloud.
+
+  The following are features of Amazon Sidewalk:
+  - Amazon Sidewalk creates a low-bandwidth network using Sidewalk Gateways that include select Ring and Echo devices. 
+    The Sidewalk Gateways share a small portion of the user’s internet bandwidth, which is then used to connect 
+    endpoints to the network. The strength of Amazon Sidewalk network increases with an increase in the number of 
+    gateways.
+  - Amazon Sidewalk offers a secure networking mechanism with multiple layers of encryption. 
+    It can be used to connect endpoint devices and objects, even if they are outside the normal range of Wi-Fi
+    communication. Amazon Sidewalk offers a simple mechanism to enable or disable participation in Sidewalk at any time,
+    from Alexa account settings or Ring Control Center.
+
+license: proprietary
+security: end-to-end encryption
+regions:
+  - us
+frequency-bands:
+  900: lora
+  2400: bluetooth
+links:
+  certification: https://docs.sidewalk.amazon/qualification/
+  specs:
+    v1.0A2: https://docs.sidewalk.amazon/specifications/

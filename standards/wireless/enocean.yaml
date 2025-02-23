@@ -10,16 +10,17 @@ description: |
 
 duty-cycle: 0.01
 data-rate: 125000
-license:
+license: proprietary
 range:
   indoor: 30
-frequencies:
+frequency-bands:
   868: Europe
   902: North America
   928: Japan
 standards:
   - ISO/IEC 14543-3-10/11
-security:
-  
 links:
   website: https://www.enocean-alliance.org/
+  specifications:
+    - https://www.enocean-alliance.org/specifications/
+    - https://www.enocean-alliance.org/security/

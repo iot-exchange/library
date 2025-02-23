@@ -1,0 +1,15 @@
+name: Dect NR+
+description: |
+  DECT NR+ (Digital Enhanced Cordless Telecommunications New Radio Plus) is a wireless communication protocol designed 
+  to provide reliable, low-latency, and energy-efficient connectivity for Internet of Things (IoT) devices. 
+  It operates in the unlicensed 1.9 GHz DECT spectrum and is part of the evolving DECT-2020 NR standard, 
+  which aligns with 5G requirements.
+
+  DECT NR+ supports ultra-reliable and scalable communication, making it well-suited for industrial IoT applications,
+  smart cities, and other large-scale IoT deployments. Its mesh networking capabilities allow devices to act as nodes, 
+  enabling extended coverage and robustness in environments with high device densities.
+frequency-bands:
+  1900:
+links:
+  website: https://www.etsi.org/committee/1394-dect
+  specification: https://www.etsi.org/deliver/etsi_ts/103600_103699/10363601/02.01.01_60/ts_10363601v020101p.pdf

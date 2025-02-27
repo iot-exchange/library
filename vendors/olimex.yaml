@@ -17,6 +17,8 @@ description:
   and assembly facility, so all designs made by us are created with Design-For-Manufacturing in mind - which guarantees 
   that they are optimized for reliability and provide cost-effective solutions for our customers.
 links:
+  logo: https://www.olimex.com/_layout/images/logo.png
   website: https://www.olimex.com/
-  products: https://www.olimex.com/prices
+  products:
+  - https://www.olimex.com/prices
 

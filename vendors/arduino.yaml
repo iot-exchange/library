@@ -4,6 +4,7 @@ description: |
   easily access advanced technologies that interact with the physical world. Our products are straightforward, simple,
   and powerful, ready to satisfy users’ needs from students to makers and all the way to professional developers.
 links:
+  logo: https://cdn.arduino.cc/header-footer/prod/assets/headerLogo-arduino.svg
   website: https://www.arduino.cc/
   linkedin: https://www.linkedin.com/company/arduino/
   github: https://github.com/arduino

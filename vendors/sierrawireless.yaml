@@ -2,6 +2,7 @@ name: Sierra wireless
 description: |
   Sierra wireless is now semtech
 links:
+  logo: https://www.sierrawireless.com/wp-content/uploads/2024/10/SEMTECH-R-326-SW-is-now-Semtech-Logo-F_Horizontal.png
   website: https://www.sierrawireless.com/
   products:
     - https://www.sierrawireless.com/iot-modules/lpwa-modules/

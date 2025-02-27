@@ -13,8 +13,9 @@ description: |
   into the future.
 
 links:
+  logo: https://upload.wikimedia.org/wikipedia/commons/1/1a/W%C3%BCrth_Elektronik-More_than_you_expect-Logo.svg
   website: https://www.we-online.com/
-  github: http://github.com/WurthElektronik
+  github: https://github.com/WurthElektronik
   linkedin: https://www.linkedin.com/company/wuerth-elektronik-group/
   products:
     - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1

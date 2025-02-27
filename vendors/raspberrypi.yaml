@@ -6,6 +6,7 @@ description: |
   Every Raspberry Pi product is backed by extensive technical documentation, broad global regulatory compliance, a worldwide network of trusted resellers, distributors and design partners, and a global community of educators, enthusiasts and professional design engineers. If you want to add intelligence to your latest project, or latest product, there’s someone in the Raspberry Pi community who can help make it happen.
   Raspberry Pi is an engine for creativity, learning and innovation. With over sixty million of our computers sold in the last decade, there has never been a more exciting time to build on Raspberry Pi.
 links:
+  logo: https://assets.raspberrypi.com/static/logo-663a71244b0e42ebedb0ddd72abcae73.png
   website: https://www.raspberrypi.com/
   products:
     - https://www.raspberrypi.com/products/

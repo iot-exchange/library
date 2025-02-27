@@ -7,5 +7,7 @@ description: |
   Looking for something more simple? Look no further. 
   With Insteon, you can also choose to link devices manually using your finger.
 links:
+  logo: https://images.squarespace-cdn.com/content/v1/53fce470e4b0374adfdd30bc/1471281102055-ZUX022HKFKCN7KFVVZOP/Insteon+Logo+and+Tagline+%28Blue%29.png
   website: https://www.insteon.com/
-  products: https://www.insteon.com/products
+  products:
+  - https://www.insteon.com/products

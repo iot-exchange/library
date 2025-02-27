@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 25.95 EUR
+  price2: 23.36 EUR
+  price3: 20.76 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/Atmel/SAM7-P64/images/thumbs/200x150/SAM7-P64-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/Atmel/SAM7-P64/
+  repositories: []
+name: SAM7-P64
+ref: olimex/sam7-p64
+release_date: null
+sku: sam7-p64
+spec: null
+status: ''
+vendor: olimex

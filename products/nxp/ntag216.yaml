@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: NTAG216 provides 888 bytes of user memory, suitable for more complex
+  applications.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.nxp.com/products/wireless-connectivity/nfc-hf/ntag216:NTAG216
+  repositories: []
+name: NTAG216
+ref: nxp/ntag216
+release_date: null
+sku: ntag216
+spec: null
+status: ''
+vendor: nxp

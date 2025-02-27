@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 44.96 EUR
+  discountedPrice2: 39.96 EUR
+  price: 49.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/DSP/Development/TMS320-P28016/images/thumbs/200x150/TMS320-P28016-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/DSP/Development/TMS320-P28016/
+  repositories: []
+name: TMS320-P28016
+ref: olimex/tms320-p28016
+release_date: null
+sku: tms320-p28016
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "RGB Full-Color LED Matrix Panel, 3mm Pitch, 64\xD732 Pixels, Adjustable\
+  \ Brightness"
+extra:
+  Price: $20.95 - $22.99
+  SKU: '20117'
+  price: $20.95 - $22.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb-matrix-p3-64x32-1.jpg
+  models: []
+  products:
+  - "https://www.waveshare.com/product/rgb-matrix-p3-64x32.htm \"RGB Full-Color LED\
+    \ Matrix Panel, 3mm Pitch, 64\xD732 Pixels, Adjustable Brightness\""
+  - https://www.waveshare.com/product/rgb-matrix-p3-64x32.htm
+  repositories: []
+name: RGB-Matrix-P3-64x32
+ref: waveshare/rgb-matrix-p3-64x32
+release_date: null
+sku: rgb-matrix-p3-64x32
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Plug&Trust Click is a compact add-on board that contains a ready-to-use
+  IoT secure element solution. This board features the SE050C secure element IC NXP,
+  which provides a root of trust at the IC level.
+extra:
+  discount: 35% OFF
+  originalPrice: $18.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/plugtrust-click/plugtrust-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/plugtrust-click
+  repositories: []
+name: MIKROE-4656
+ref: mikroe/mikroe-4656
+release_date: null
+sku: mikroe-4656
+spec: null
+status: Reduced price!
+vendor: mikroe

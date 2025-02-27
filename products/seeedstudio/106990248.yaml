@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: USB type C to A cable supports USB 3.1 speeds and charging up to 3.1A.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/c/a/cable-1.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/USB-3-1-Type-C-to-A-Cable-1-Meter-3-1A-p-4085.html
+  repositories: []
+name: '106990248'
+ref: seeedstudio/106990248
+release_date: null
+sku: '106990248'
+spec: null
+status: ''
+vendor: seeedstudio

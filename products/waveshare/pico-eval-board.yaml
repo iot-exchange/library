@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Overall Evaluation Board Designed for Raspberry Pi Pico, Misc Onboard
+  Components
+extra:
+  Price: $35.63 - $36.99
+  SKU: '20159'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-eval-board-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pico-eval-board.htm
+  repositories: []
+name: Pico-Eval-Board
+ref: waveshare/pico-eval-board
+release_date: null
+sku: pico-eval-board
+spec: null
+status: ''
+vendor: waveshare

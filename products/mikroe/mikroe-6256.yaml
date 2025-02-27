@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LTE Cat.4 Click (for Europe) is a compact add-on board made specially
+  for 4G M2M and IoT applications in Europe. This board features the EG95EXGA-128-SGNS,
+  an IoT/M2M-optimized LTE Cat.4 module that meets the 3GPP Release 11 standard from
+  Quectel. It supports multiple wireless standards, including LTE-FDD, WCDMA, and
+  GSM, ensuring broad network...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lte-cat4-click-for-europe/lte-cat4-click-for-europe-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/lte-cat4-click-for-europe
+  repositories: []
+name: MIKROE-6256
+ref: mikroe/mikroe-6256
+release_date: null
+sku: mikroe-6256
+spec: null
+status: ''
+vendor: mikroe

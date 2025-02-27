@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Thermo 25 Click is a compact add-on board that accurately measures temperature.\
+  \ This board features the TMP127-Q1, a high-precision digital temperature sensor\
+  \ from Texas Instruments. This SPI-configurable factory-calibrated temperature sensor\
+  \ has a high accuracy of 0.8\xB0C, supporting an ambient temperature range from\
+  \ -55\xB0C."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thermo-25-click/thermo-25-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/thermo-25-click
+  repositories: []
+name: MIKROE-5385
+ref: mikroe/mikroe-5385
+release_date: null
+sku: mikroe-5385
+spec: null
+status: ''
+vendor: mikroe

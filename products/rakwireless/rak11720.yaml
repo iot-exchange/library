@@ -1,0 +1,31 @@
+alternatives: []
+certifications: []
+description: Some WisDuo modules provide Bluetooth Low Energy (BLE) connectivity in
+  addition to LoRa. Having both of these protocols available opens the door for more
+  use cases and deployment scenarios.
+extra:
+  Antenna connector: IPEX and RF pinout
+  Certification: CE, UK, FCC, KC, ISED
+  Chipset: AMA3B1KK-KBR-B0
+  Communications: "LoRa\xAE / LoRaWAN\xAE And BLE 5"
+  Form factor: 15 x 15.5 x 3.5 mm
+  "LoRaWAN\xAE version": 1.0.3
+  "LoRa\xAE chip": SX1262
+  Pin count: '34'
+  Sleep current: "2.37 \xB5A"
+  TCXO: Supported
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://docs.rakwireless.com/Product-Categories/WisDuo/RAK11720-Module/Datasheet/
+  repositories: []
+name: RAK11720
+ref: rakwireless/rak11720
+release_date: null
+sku: rak11720
+spec: null
+status: ''
+vendor: rakwireless

@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: LPWALTE NB2 3GPP Release 14
+extra:
+  Cellular Bands Supported: 'GLOBAL: B1 / B2 / B3 / B4 / B5 / B8 / B12 / B13 / B14
+    / B17 / B18 / B19 / B20 / B25 / B26 / B28 / B66 / B70 / B85'
+  Cellular Connectivity Download & Uplink Speed: 'Cat NB2: Peak DL 127 Kbps & UL 158.5Kbps'
+  Interfaces: 4xUART, 1xuSIM, 1xSWD, 1xI2C**, 1xSPI**, 2xGPIO**, 1xMAIN_ANT, 1xGNSS_ANT*
+  Key Highlights: GNSS Support, Ultra-Low Power Consumption, Compact Form Factor Design,
+    Applicable regions - (GLOBAL)
+  OS: FreeRTOS
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.cavliwireless.com/assets/images/modules/c-series/webp-img/C41QS.webp
+  models: []
+  products:
+  - https://www.cavliwireless.com/c-series/c41qs.html
+  repositories: []
+name: C41QS
+ref: cavli-wireless/c41qs
+release_date: null
+sku: c41qs
+spec: null
+status: ''
+vendor: cavli-wireless

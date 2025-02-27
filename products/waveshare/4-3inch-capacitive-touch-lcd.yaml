@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: $26.97  -  $27.99
+extra:
+  SKU: '16249'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/_/4.3inch-capacitive-touch-lcd-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/4.3inch-capacitive-touch-lcd.htm
+  repositories: []
+name: 4.3inch Capacitive Touch LCD
+ref: waveshare/4-3inch-capacitive-touch-lcd
+release_date: null
+sku: 4-3inch-capacitive-touch-lcd
+spec: null
+status: ''
+vendor: waveshare

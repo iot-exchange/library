@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Ultrasonic 5 Click is a compact add-on board that contains circuits for
+  processing the ultrasonic sensor's output. This board features the TUSS4470, a transformer-drive
+  ultrasonic sensor IC with a logarithmic amplifier from Texas Instruments. In addition
+  to the high selectability of the power supply of the IC itself, this board also
+  allows you to choose...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ultrasonic-5-click/ultrasonic-5-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/usb-c-sink-3-click/usb-c-sink-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/usb-c-sink-3-click
+  - https://www.mikroe.com/ultrasonic-5-click
+  repositories: []
+name: MIKROE-5804
+ref: mikroe/mikroe-5804
+release_date: null
+sku: mikroe-5804
+spec: null
+status: ''
+vendor: mikroe

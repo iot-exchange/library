@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Proximity 21 Click is a compact add-on board for high-precision proximity\
+  \ sensing and short-range distance measurements. This board features the VL53L4ED,\
+  \ a Time-of-Flight (ToF) proximity sensor from STMicroelectronics, known for its\
+  \ extended temperature capability and accuracy. This sensor provides a field of\
+  \ view (FoV) of 18\xB0, measuring distances from."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/proximity-21-click/proximity-21-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/proximity-21-click
+  repositories: []
+name: MIKROE-6286
+ref: mikroe/mikroe-6286
+release_date: null
+sku: mikroe-6286
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32/BOX-ESP32-GATEWAY-EA/images/thumbs/200x150/BOX-ESP32-GATEWAY-EA.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/IoT/ESP32/BOX-ESP32-GATEWAY-EA/
+  repositories: []
+name: BOX-ESP32-GATEWAY-EA
+ref: olimex/box-esp32-gateway-ea
+release_date: null
+sku: box-esp32-gateway-ea
+spec: null
+status: ''
+vendor: olimex

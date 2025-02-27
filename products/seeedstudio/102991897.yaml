@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: reCamera is an open-source and tiny size AI camera, programmable and
+  customizable, powered by an RISC-V SoC, delivering on-device 1 TOPS AI performance
+  with video encoding 5MP @30 FPS. The modular hardware design and expandable interfaces
+  offers the most versatile platform for developers building vision AI systems.
+extra:
+  Network: Bluetooth
+  Operating System: linux
+  Storage: 64 GB
+  price: $58.90
+  storage: 64GB
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/_/1_11_4.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/reCamera-2002w-64GB-p-6249.html
+  repositories: []
+name: '102991897'
+ref: seeedstudio/102991897
+release_date: null
+sku: '102991897'
+spec: null
+status: ''
+vendor: seeedstudio

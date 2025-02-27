@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: TFmini-i Industrial Lidar Ranging Sensor, 12m Ranging Distance, IP65
+  Protection, RS485 Industrial Interface, 7~30V Wide Range Voltage
+extra:
+  Price: $69.27 - $71.99
+  SKU: '24896'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/f/tfmini-i-lidar-range-sensor-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/tfmini-i-lidar-range-sensor.htm
+  repositories: []
+name: TFmini-i LiDAR Range Sensor
+ref: waveshare/tfmini-i-lidar-range-sensor
+release_date: null
+sku: tfmini-i-lidar-range-sensor
+spec: null
+status: ''
+vendor: waveshare

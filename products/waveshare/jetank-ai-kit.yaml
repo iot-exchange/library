@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: JETANK AI Kit B, AI Tracked Mobile Robot, AI Vision Robot, Based On Jetson
+  Nano, comes with Waveshare Jetson Nano Dev Kit
+extra:
+  Multi Options: ''
+  Price: $249.99 -  $559.99
+  price: $249.99 -  $559.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetank-ai-kit-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/jetank-ai-kit.htm
+  repositories: []
+name: JETANK AI Kit
+ref: waveshare/jetank-ai-kit
+release_date: null
+sku: jetank-ai-kit
+spec: null
+status: ''
+vendor: waveshare

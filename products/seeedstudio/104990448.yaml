@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: 2.13'' Triple-Color E-Ink Display for Raspberry Pi
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/104990448-integrate-preview.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/2-13-Triple-Color-E-Ink-Display-for-Raspberry-Pi-p-4044.html
+  repositories: []
+name: '104990448'
+ref: seeedstudio/104990448
+release_date: null
+sku: '104990448'
+spec: null
+status: ''
+vendor: seeedstudio

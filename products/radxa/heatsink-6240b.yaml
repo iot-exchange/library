@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Specialized for Radxa ROCK 5B
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/heatsink/ae013b/thumb_heatsink_6240b.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/heatsink-6240b
+  repositories: []
+name: Heatsink 6240B
+ref: radxa/heatsink-6240b
+release_date: null
+sku: heatsink-6240b
+spec: null
+status: ''
+vendor: radxa

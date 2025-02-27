@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: ESP8266-DevKitC is an Espressif compact development board based on ESP8266
+  modules. All of the I/O pins of the module are broken out to the female header connectors
+  on both sides of the board for easy interfacing. Developers can connect these pins
+  to peripherals as needed.
+extra:
+  Flash: 2 MB
+  Interfaces: HSPI, PWM, IR, I/O, ADC, UART, I2S, I2C, USB
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/dev-board/ESP-WROOM-02D%20.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/ESP8266-DevKitC_getting_started_guide__EN.pdf
+  repositories: []
+name: ESP8266-DevKitC
+ref: espressif/esp8266-devkitc
+release_date: null
+sku: esp8266-devkitc
+spec: null
+status: ''
+vendor: espressif

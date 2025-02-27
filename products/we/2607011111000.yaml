@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Antenna type: RF pad and internal antenna
+  Current consumption: '-85'
+  Dimensions (mm): 9 x 7 x 2
+  Expected lifetime: '>10 years'
+  Frequency range: 2402 - 2480
+  Max data rate: '1.8'
+  Output power: '350'
+  Sensitivity: '-4'
+  Voltage: '4'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o164911v214%20Single_eiSmart_USB-Stick.jpg
+  models: []
+  products:
+  - https://www.we-online.com/redexpert/#/module/30/selecteditems/2607011111000/productdata/=2607011111000/dr/onlcat
+  - https://www.we-online.com/en/components/products/THYONE-E#2612011021000
+  repositories: []
+name: '2607011111000'
+ref: we/2607011111000
+release_date: null
+sku: '2607011111000'
+spec: null
+status: New
+vendor: we

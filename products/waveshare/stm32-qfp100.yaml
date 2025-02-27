@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: STM32-QFP100, Programmer Adapter
+extra:
+  Price: $73.99 - $79.99
+  SKU: '3468'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/stm32-qfp100_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/stm32-qfp100.htm
+  repositories: []
+name: STM32-QFP100
+ref: waveshare/stm32-qfp100
+release_date: null
+sku: stm32-qfp100
+spec: null
+status: ''
+vendor: waveshare

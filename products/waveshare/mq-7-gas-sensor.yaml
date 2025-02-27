@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: MQ-7 Gas Sensor
+extra:
+  Price: $3.99 - $4.69
+  SKU: '9532'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/q/mq-7-gas-sensor_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/mq-7-gas-sensor.htm
+  repositories: []
+name: MQ-7 Gas Sensor
+ref: waveshare/mq-7-gas-sensor
+release_date: null
+sku: mq-7-gas-sensor
+spec: null
+status: ''
+vendor: waveshare

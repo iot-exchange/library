@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: 5G RedCap IoT Module with 4G fallback and integrated GNSS support.
+extra:
+  4G Bands: B2/B4/B5/B7/B12/B13/B25/B41/B66/B71
+  5G RedCap Bands: n2/n5/n7/n12/n13/n25/n66/n71
+  Cellular Connectivity Download Speed: 226Mbps (DL)
+  Cellular Connectivity Uplink Speed: 121Mbps (UL)
+  Interfaces: 1xI2C, 4xUART, 1xSPI, 1x12S, 1xPCM, 1xMAIN_ANT, 1xGNSS_ANT
+  Key Highlights: 5G RedCap, LTE Fallback, Inbuilt GNSS Support, Open SDK Support,
+    Integrated eSIM with Hubble Connectivity, USB 2.0 Interface
+  OS: OpenWrt
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.cavliwireless.com/assets/images/modules/c-series/webp-img/CQM220.webp
+  models: []
+  products: []
+  repositories: []
+name: CQM220
+ref: cavli-wireless/cqm220
+release_date: null
+sku: cqm220
+spec: null
+status: ''
+vendor: cavli-wireless

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/PIC/Development/PIC32-HMZ144/images/thumbs/200x150/PIC32MZH144.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/PIC/Development/PIC32-HMZ144/open-source-hardware
+  repositories: []
+name: PIC32-HMZ144
+ref: olimex/pic32-hmz144
+release_date: null
+sku: pic32-hmz144
+spec: null
+status: ''
+vendor: olimex

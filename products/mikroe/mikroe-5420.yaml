@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: SpeakUp 3 Click is a compact add-on board providing an offline speech
+  recognition solution. This board features the VC-02, a low-cost pure offline speech
+  recognition module developed by Ai-Thinker Technology. The VC-02 module uses an
+  integrated voice chip US516P6 based on a 32-bit RISC architecture core, a DSP instruction
+  set for signal processing and...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/speakup-3-click/speakup-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/speakup-3-click
+  repositories: []
+name: MIKROE-5420
+ref: mikroe/mikroe-5420
+release_date: null
+sku: mikroe-5420
+spec: null
+status: ''
+vendor: mikroe

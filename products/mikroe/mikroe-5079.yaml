@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: SolidSwitch 3 Click is a compact add-on board that contains a load switching
+  device. This board features the BD8LB600FS-C, an automotive eight-channel low-side
+  switch from Rohm Semiconductor. Every switch is controlled via an SPI interface
+  and includes an N-channel MOSFET that supports a maximum current of 1A. The BD8LB600FS-C
+  also has built-in protection...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/solidswitch-3-click/solidswitch-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/solidswitch-3-click
+  repositories: []
+name: MIKROE-5079
+ref: mikroe/mikroe-5079
+release_date: null
+sku: mikroe-5079
+spec: null
+status: ''
+vendor: mikroe

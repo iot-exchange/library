@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Spectrometer Click features an 11-channel spectrometer for spectral\
+  \ identification and color matching applications. This Click board\u2122 features\
+  \ the AS7341 from AMS-AG, whose spectral response is defined in the wavelengths\
+  \ from approximately 350nm to 1000nm. Control and Spectral data access are implemented\
+  \ through a serial I2C interface with very a low..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/spectrometer-click/spectrometer-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/spectrometer-click
+  repositories: []
+name: MIKROE-4165
+ref: mikroe/mikroe-4165
+release_date: null
+sku: mikroe-4165
+spec: null
+status: ''
+vendor: mikroe

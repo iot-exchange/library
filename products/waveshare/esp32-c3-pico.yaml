@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: ESP32-C6 Microcontroller, WiFi 6 Development Board, 160MHz Single-core
+  Processor, ESP32-C6-MINI-1 Module
+extra:
+  Price: $6.99 - $7.99
+  multiOptions: Multi Options
+  price: $6.99 -  $7.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-c6-pico-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/esp32-c6-pico.htm "ESP32-C6 Microcontroller,
+    WiFi 6 Development Board, 160MHz Single-core Processor, ESP32-C6-MINI-1 Module"
+  - https://www.waveshare.com/product/esp32-c6-pico.htm
+  repositories: []
+name: esp32_c3_pico
+ref: waveshare/esp32-c3-pico
+release_date: null
+sku: esp32-c3-pico
+spec: null
+status: ''
+vendor: waveshare

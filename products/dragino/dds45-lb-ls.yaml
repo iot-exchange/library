@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: LoRaWAN Distance Detection Sensor
+extra:
+  Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
+  Battery: 8500mAh Li/SOCl2 Battery (DDS45-LB), Solar panel + 3000mAh Li-ion battery
+    (DDS45-LS)
+  Features: "Ultrasonic sensing, Distance: 30~4500 mm, Accuracy: \xB1(1cm+S*0.3%),\
+    \ Measure Angle: 60\xB0, Support Bluetooth v5.1 and LoRaWAN remote configure,\
+    \ Support wireless OTA update firmware"
+  Power Consumption: Ultra Low Power Consumption
+  Type: LoRaWAN 1.0.3 Class A
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/98786352ab62965a07c516ba5d449e8a_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/distance-level-sensor/item/272-dds45-lb-ls.html
+  repositories: []
+name: DDS45-LB/LS
+ref: dragino/dds45-lb-ls
+release_date: null
+sku: dds45-lb-ls
+spec: null
+status: ''
+vendor: dragino

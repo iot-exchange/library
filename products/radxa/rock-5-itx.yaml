@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: New Upgrade Version of ROCK 5 ITX
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/rock5/rock_5itx+/thumb_radxa_rock_5itx+.webp
+  - https://radxa.com/rock5/rock_5itx/thumb_radxa_rock_5_itx.webp
+  models: []
+  products:
+  - https://radxa.com/products/rock5/5itx
+  - https://radxa.com/products/rock5/5itxp
+  repositories: []
+name: ROCK 5 ITX+
+ref: radxa/rock-5-itx
+release_date: null
+sku: rock-5-itx
+spec: null
+status: ''
+vendor: radxa

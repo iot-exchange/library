@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Quad GPIO Expander for Raspberry Pi Pico, Four Sets of Male Headers,
+  USB Power Connector
+extra:
+  Price: $9.31 - $9.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-quad-expander-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pico-quad-expander.htm
+  repositories: []
+name: '19361'
+ref: waveshare/19361
+release_date: null
+sku: '19361'
+spec: null
+status: ''
+vendor: waveshare

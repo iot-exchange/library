@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: "EXTENDED Radio Module 2.4 GHz with Proprietary and Bluetooth\xAE LE\
+  \ 5.1 Radio Protocol"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o473286v214%20Single_Setebos-I_2611011021020.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/SETEBOS-I
+  repositories: []
+name: Setebos-I & EV-Kits
+ref: we/setebos-i-ev-kits
+release_date: null
+sku: setebos-i-ev-kits
+spec: null
+status: ''
+vendor: we

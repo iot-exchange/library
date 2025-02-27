@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Inclinometer 2 Click is a compact add-on board that measures the orientation\
+  \ angle of an object with respect to the force of gravity. This board features the\
+  \ IIS2ICLX, high accuracy, and resolution two-axis inclinometer from STMicroelectronics.\
+  \ It allows selectable full-scale measurements in ranges of \xB10.5/\xB11/\xB12/\xB1\
+  3g in two axes with a configurable host..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/inclinometer-2-click/inclinometer-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/inclinometer-2-click
+  repositories: []
+name: MIKROE-5156
+ref: mikroe/mikroe-5156
+release_date: null
+sku: mikroe-5156
+spec: null
+status: ''
+vendor: mikroe

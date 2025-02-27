@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: PCIe TO Gigabit ETH Board (C) For Raspberry Pi 5, Supports Raspberry
+  Pi OS, Driver-Free, Plug And Play, Raspberry Pi 5 PCIe Adapter
+extra:
+  SKU: '26848'
+  price: $6.65  -  $6.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-gigabit-eth-board-c-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pcie-to-gigabit-eth-board-c.htm "PCIe TO Gigabit
+    ETH Board (C) For Raspberry Pi 5, Supports Raspberry Pi OS, Driver-Free, Plug
+    And Play, Raspberry Pi 5 PCIe Adapter"
+  - https://www.waveshare.com/product/pcie-to-gigabit-eth-board-c.htm
+  repositories: []
+name: PCIe TO Gigabit ETH Board (C)
+ref: waveshare/pcie-to-gigabit-eth-board-c
+release_date: null
+sku: pcie-to-gigabit-eth-board-c
+spec: null
+status: ''
+vendor: waveshare

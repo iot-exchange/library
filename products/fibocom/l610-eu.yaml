@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTECat1-L610-EU.html
+  repositories: []
+name: L610-EU
+ref: fibocom/l610-eu
+release_date: null
+sku: l610-eu
+spec: null
+status: ''
+vendor: fibocom

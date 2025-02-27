@@ -1,0 +1,33 @@
+alternatives: []
+certifications: []
+description: NB-IoT Outdoor Temperature and Humidity Sensor
+extra:
+  Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85 @H-FDD
+  Features: Monitor environment temperature, Monitor relative air humidity, Support
+    BLE remote configure and update firmware, Uplink via MQTT, MQTTs, TCP, or UDP
+  Monitor environment temperature: ''
+  Monitor relative air humidity: ''
+  NB-IoT Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85 @H-FDD
+  NB-IoT Outdoor Temperature and Humidity Sensor: ''
+  NB-IoT Sensor Node: ''
+  Power Consumption: Ultra Low Power Consumption
+  Support BLE remote configure and update firmware: ''
+  Type: NB-IoT Sensor Node
+  Ultra Low Power Consumption: ''
+  Uplink via MQTT, MQTTs, TCP, or UDP: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/d383d2a7f18b38f50f531c6f6759cc5a_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/temperature-humidity-sensor/item/288-s31-nb-s31b-nb.html
+  repositories: []
+name: S31-NB/S31B-NB
+ref: dragino/s31-nb-s31b-nb
+release_date: null
+sku: s31-nb-s31b-nb
+spec: null
+status: ''
+vendor: dragino

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Fibreglass Long Range antenna with a gain of 3dBi, frequency range 902-928MHz,
+  and 360mm length, comes with an antenna base, compatible with SenseCAP M1 Indoor
+  Gateway.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/_/-/_-min_1_2.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/LoRa-Fiberglass-Antenna-Kit-902-928MHz-3dBi-with-Antenna-Base-p-5130.html
+  repositories: []
+name: '318020652'
+ref: seeedstudio/318020652
+release_date: null
+sku: '318020652'
+spec: null
+status: ''
+vendor: seeedstudio

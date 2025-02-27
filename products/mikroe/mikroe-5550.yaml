@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Accel 30 Click is a compact add-on board that contains an acceleration\
+  \ sensor. This board features the MC3635, an ultra-low power, low-noise, integrated\
+  \ digital output 3-axis accelerometer from MEMSIC. The MC3635 allows selectable\
+  \ full-scale acceleration measurements in ranges of \xB12g, \xB14g, \xB18g, \xB1\
+  12g, or \xB116g in three axes with a configurable host..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/accel-30-click/accel-30-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/accel-30-click
+  repositories: []
+name: MIKROE-5550
+ref: mikroe/mikroe-5550
+release_date: null
+sku: mikroe-5550
+spec: null
+status: ''
+vendor: mikroe

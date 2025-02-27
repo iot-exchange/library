@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Analog MUX 4 Click is a compact add-on board that switches one of many
+  analog inputs to one digital output. This board features the TMUX1308, a general-purpose
+  8:1 single-ended CMOS multiplexer (MUX) from Texas Instruments. The TMUX1308 has
+  an internal injection current control which eliminates the need for external diode
+  and resistor networks to protect...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/analog-mux-4-click/analog-mux-4-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/analog-mux-4-click
+  repositories: []
+name: MIKROE-4795
+ref: mikroe/mikroe-4795
+release_date: null
+sku: mikroe-4795
+spec: null
+status: ''
+vendor: mikroe

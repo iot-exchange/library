@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Heat Sink Kit for Raspberry Pi 4B - Silver Aluminum This is a four-piece
+  aluminum heat sink kit to cool the chip on the Raspberry Pi 4B. You can also choose
+  the black version kit or the Gold Aluminum version kit.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/i/m/img_20190828_140222_1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Heat-Sink-Kit-for-Raspberry-Pi-4B-Silver-Aluminum-p-4208.html
+  repositories: []
+name: '110991327'
+ref: seeedstudio/110991327
+release_date: null
+sku: '110991327'
+spec: null
+status: ''
+vendor: seeedstudio

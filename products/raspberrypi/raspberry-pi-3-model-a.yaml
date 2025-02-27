@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Our third-generation single-board computer, now in the A+ format
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/62a3bc644862e760aee5e3da4c7c52fe/3f4ea/581d414e-e8b2-42c4-850a-54655f388bb6_3A%2B%2BAngle%2BREFRESH.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/raspberry-pi-3-model-a-plus/
+  repositories: []
+name: Raspberry Pi 3 Model A+
+ref: raspberrypi/raspberry-pi-3-model-a
+release_date: null
+sku: raspberry-pi-3-model-a
+spec: null
+status: ''
+vendor: raspberrypi

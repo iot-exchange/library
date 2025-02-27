@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: RPi Motor Driver Board
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rpi-motor-driver-board-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rpi-motor-driver-board.htm
+  repositories: []
+name: RPi Motor Driver Board
+ref: waveshare/rpi-motor-driver-board
+release_date: null
+sku: rpi-motor-driver-board
+spec: null
+status: ''
+vendor: waveshare

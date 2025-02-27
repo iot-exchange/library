@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Combine click boards\u2122 with ease mikroBUS Shuttle is a small add-on\
+  \ board, which is intended to be used with Shuttle click, in order to expand the\
+  \ mikroBUS\u2122 with additional stacking options. This small add-on board has one\
+  \ mikroBUS\u2122 equipped on itself and it is connected to the Shuttle click via\
+  \ the flat ribbon cable (20cm). One Shuttle click can support..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikrobus-shuttle-5pcs/mikrobus-shuttle-5pcs-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/mikrobus-shuttle-5pcs
+  repositories: []
+name: MIKROE-3977
+ref: mikroe/mikroe-3977
+release_date: null
+sku: mikroe-3977
+spec: null
+status: ''
+vendor: mikroe

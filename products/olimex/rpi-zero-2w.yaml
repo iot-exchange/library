@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/RaspberryPi/RPi-ZERO-2W/images/thumbs/200x150/RPi-ZERO-2W-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/RaspberryPi/RPi-ZERO-2W/
+  repositories: []
+name: RPi-ZERO-2W
+ref: olimex/rpi-zero-2w
+release_date: null
+sku: rpi-zero-2w
+spec: null
+status: ''
+vendor: olimex

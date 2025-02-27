@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Pressure 23 Click - 07BA is a compact add-on board for accurate and reliable
+  absolute pressure and temperature measurements in harsh environments. This board
+  features the MS5849-07BA, an ultra-compact, chlorine-resistant sensor from TE Connectivity
+  that delivers 24-bit resolution data via I2C or SPI interfaces. It operates within
+  pressure ranges of 0.4 to...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/pressure-23-click-07ba/pressure-23-click-07ba-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/pressure-23-click-07ba
+  repositories: []
+name: MIKROE-6207
+ref: mikroe/mikroe-6207
+release_date: null
+sku: mikroe-6207
+spec: null
+status: ''
+vendor: mikroe

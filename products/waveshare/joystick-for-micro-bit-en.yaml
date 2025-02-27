@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Gamepad module for micro:bit, Joystick and Buttons
+extra:
+  Price: $14.29 - $14.99
+  SKU: '14593'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/o/joystick-for-micro-bit-1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/joystick-for-micro-bit.htm
+  repositories: []
+name: Joystick for micro:bit (EN)
+ref: waveshare/joystick-for-micro-bit-en
+release_date: null
+sku: joystick-for-micro-bit-en
+spec: null
+status: ''
+vendor: waveshare

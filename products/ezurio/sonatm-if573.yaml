@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: "Laird Connectivity Brings Wi-Fi 6/6E to Their Extensive Portfolio of\
+  \ Wi-Fi Modules with the New Sona\u2122 IF573 Product Line"
+extra:
+  Category: Professional Wi-Fi
+  Chipset: Infineon CYW55573
+  PCIe: x
+  SDIO: x
+  Wi-Fi: Performance
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/Sona%20NX611%20-%20Family2.png
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/537x300/filters:fill(white)/filters:background_color(white)/2024-10/Sona%20NX611%20-%20Family2.png
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/wifi-modules-bluetooth/sona-if573-wi-fi-6e-bluetooth-5-4-module
+  - https://www.ezurio.com/resources/newsroom/laird-connectivity-brings-wi-fi-6-6e-to-their-extensive-portfolio-of-wi-fi-modules-with-the-new-sona-if573-product-line
+  repositories: []
+name: "Sona\u2122 IF573"
+ref: ezurio/sonatm-if573
+release_date: null
+sku: sonatm-if573
+spec: null
+status: ''
+vendor: ezurio

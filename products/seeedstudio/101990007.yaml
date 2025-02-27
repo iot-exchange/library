@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: MicroSD Card Adapter for Raspberry Pi B. This MicroSD card adapter makes
+  your pi more slimmer.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductsd20adapter.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/MicroSD-Card-Adapter-for-Raspberry-Pi-B-p-1674.html
+  - https://www.seeedstudio.com/Raspberry-Pi-2246.html?bazaar4_retailer-products%5Bpage%5D=2#101990007
+  repositories: []
+name: '101990007'
+ref: seeedstudio/101990007
+release_date: null
+sku: '101990007'
+spec: null
+status: ''
+vendor: seeedstudio

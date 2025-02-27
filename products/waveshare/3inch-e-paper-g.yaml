@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "3inch E-Paper (G) raw display, 400 \xD7 168, SPI Interface"
+extra:
+  Price: $11.97 - $12.99
+  SKU: '22506'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/i/3inch-e-paper-g-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/3inch-e-paper-g.htm
+  repositories: []
+name: 3inch e-Paper (G)
+ref: waveshare/3inch-e-paper-g
+release_date: null
+sku: 3inch-e-paper-g
+spec: null
+status: ''
+vendor: waveshare

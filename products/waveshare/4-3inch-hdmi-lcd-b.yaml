@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "4.3inch Capacitive Touch Screen LCD (B), 800\xD7480, HDMI, IPS, Various\
+  \ Devices & Systems Support"
+extra:
+  Price: $48.29 - $49.99
+  SKU: '15932'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/_/4.3bp-m.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/4.3inch-hdmi-lcd-b.htm
+  - "https://www.waveshare.com/product/4.3inch-hdmi-lcd-b.htm \"4.3inch Capacitive\
+    \ Touch Screen LCD (B), 800\xD7480, HDMI, IPS, Various Devices & Systems Support\""
+  repositories: []
+name: 4.3inch HDMI LCD (B)
+ref: waveshare/4-3inch-hdmi-lcd-b
+release_date: null
+sku: 4-3inch-hdmi-lcd-b
+spec: null
+status: ''
+vendor: waveshare

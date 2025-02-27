@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Wireless AX200 NIC, Gigabit Dual-Band Wi-Fi 6, 802.11AX Standard, Bluetooth
+  5.2
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/i/wireless-ax200-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/wireless-ax200.htm
+  repositories: []
+name: Wireless-AX200
+ref: waveshare/wireless-ax200
+release_date: null
+sku: wireless-ax200
+spec: null
+status: ''
+vendor: waveshare

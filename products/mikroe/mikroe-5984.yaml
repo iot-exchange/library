@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: SMA to BNC Adapter provides seamless interconnection for devices with
+  SMA male and BNC female interfaces. This high-performance connector ensures reliable
+  signal integrity with a 50Ohm impedance and supports up to 4GHz frequencies.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/sma-male-to-bnc-female-type-adapter/sma-male-to-bnc-female-type-adapter-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/sma-male-to-bnc-female-type-adapter
+  repositories: []
+name: MIKROE-5984
+ref: mikroe/mikroe-5984
+release_date: null
+sku: mikroe-5984
+spec: null
+status: ''
+vendor: mikroe

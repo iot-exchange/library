@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Surface temp Click is high accuracy digital temperature sensor Click\
+  \ board\u2122, offering breakthrough performance over a wide industrial range. It\
+  \ is equipped with the ADT7420 - an accurate 16-Bit Digital I2C temperature sensor\
+  \ from Analog Devices. It features high temperature accuracy, ultralow temperature\
+  \ drift (0.0073\xB0C), fast first temperature conversion..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/surface-temp-click/surface-temp-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/surface-temp-click
+  repositories: []
+name: MIKROE-4205
+ref: mikroe/mikroe-4205
+release_date: null
+sku: mikroe-4205
+spec: null
+status: ''
+vendor: mikroe

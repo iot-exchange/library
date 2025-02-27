@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: High-Performance, Low-Cost, RK3566 Inside!
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/rock3/rock_3c/thumb_rock3c.webp
+  models: []
+  products:
+  - https://radxa.com/products/rock3/3c
+  repositories: []
+name: ROCK 3C
+ref: radxa/rock-3c
+release_date: null
+sku: rock-3c
+spec: null
+status: ''
+vendor: radxa

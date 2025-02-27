@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/Home-Server/LIME2-SERVER-NO-HDD/images/thumbs/200x150/LIME2-SERVER-.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/Home-Server/LIME2-SERVER-1000GB-HDD/open-source-hardware
+  repositories: []
+name: LIME2-SERVER-1000GB-HDD
+ref: olimex/lime2-server-1000gb-hdd
+release_date: null
+sku: lime2-server-1000gb-hdd
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Compute Module IO Board with PoE Feature, Composite Breakout Board for
+  Developing with Raspberry Pi CM4S / CM3 / CM3L / CM3+ / CM3+L
+extra:
+  Price: $39.99 - $134.99
+  Price Range: $39.99 - $134.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/compute-module-poe-board-1_3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/compute-module-poe-board.htm
+  repositories: []
+name: cm_poe_board
+ref: waveshare/cm-poe-board
+release_date: null
+sku: cm-poe-board
+spec: null
+status: ''
+vendor: waveshare

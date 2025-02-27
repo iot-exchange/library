@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: UV 5 Click is a compact add-on board that can measure UV radiation. This
+  board features the AS7331, a spectral UVA/B/C sensor from ams OSRAM.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/uv-5-click/uv-5-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/uv-5-click
+  repositories: []
+name: MIKROE-5535
+ref: mikroe/mikroe-5535
+release_date: null
+sku: mikroe-5535
+spec: null
+status: ''
+vendor: mikroe

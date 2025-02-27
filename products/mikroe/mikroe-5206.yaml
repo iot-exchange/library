@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LightRanger 10 Click is a compact add-on board suitable for range-finding
+  and distance sensing applications. This board features the VL53L4CX, a ToF (time
+  of flight) optical distance sensor with an extended target detection range from
+  STMicroelectronics. Specifically designed for long-range and multi-target measurements,
+  the VL53L4CX provides very...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lightranger-10-click/lightranger-10-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/lightranger-10-click
+  repositories: []
+name: MIKROE-5206
+ref: mikroe/mikroe-5206
+release_date: null
+sku: mikroe-5206
+spec: null
+status: ''
+vendor: mikroe

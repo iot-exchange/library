@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: GamePi43, Portable Video Game Console Based on Raspberry Pi
+extra:
+  Multi Options: ''
+  Price: $109.99 - $117.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/a/gamepi43-19.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/gamepi43-us.htm
+  repositories: []
+name: GamePi43 Kit
+ref: waveshare/gamepi43-kit
+release_date: null
+sku: gamepi43-kit
+spec: null
+status: ''
+vendor: waveshare

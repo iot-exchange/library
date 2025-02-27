@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Soldering/SOLDER-PASTE-SAC305-CLASS4/images/thumbs/200x150/SLD-SAC305C4.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Soldering/SOLDER-PASTE-SAC305-CLASS4/
+  repositories: []
+name: SOLDER-PASTE-SAC305-CLASS4
+ref: olimex/solder-paste-sac305-class4
+release_date: null
+sku: solder-paste-sac305-class4
+spec: null
+status: ''
+vendor: olimex

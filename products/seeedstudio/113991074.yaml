@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Sonoff BasicR2-WiFi Smart Switch is an appliance that turns your home
+  appliances into intelligent homes. Connect it to the middle of the power supply
+  and the appliance to change your ordinary furniture and make it smart. Of course,
+  Sonoff BasicR2 also supports hand-free voice control, which is compatible with Amazon
+  Alexa, Google Assistant, etc.
+extra:
+  price: $5.90
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-113991074-sonoff-basicr2-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Sonoff-BasicR2-p-5514.html
+  repositories: []
+name: '113991074'
+ref: seeedstudio/113991074
+release_date: null
+sku: '113991074'
+spec: null
+status: ''
+vendor: seeedstudio

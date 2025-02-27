@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-014-Screws-Set/images/thumbs/200x150/TERES-014-Screws-Set.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-014-Screws-Set/
+  repositories: []
+name: TERES-014-Screws-Set
+ref: olimex/teres-014-screws-set
+release_date: null
+sku: teres-014-screws-set
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: "LoRa\xAE technology is emphasized for its expanding role in Internet\
+  \ of Things (IoT), smart home solutions, and industrial applications."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://blog.semtech.com/hubfs/LoRa-BLOG-CES%20Post%20Show%20Wrap%20LoRa%20Based%20Innovations-1400x600.jpg
+  models: []
+  products: []
+  repositories: []
+name: LoRa
+ref: semtech/lora
+release_date: null
+sku: lora
+spec: null
+status: ''
+vendor: semtech

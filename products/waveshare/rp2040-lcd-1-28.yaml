@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: RP2040 MCU Board, With 1.28inch Round LCD, accelerometer and gyroscope
+  Sensor
+extra:
+  price: $16.31 - $16.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-lcd-1.28-1_1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-lcd-1.28-2_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rp2040-lcd-1.28.htm
+  repositories: []
+name: RP2040-LCD-1.28
+ref: waveshare/rp2040-lcd-1-28
+release_date: null
+sku: rp2040-lcd-1-28
+spec: null
+status: ''
+vendor: waveshare

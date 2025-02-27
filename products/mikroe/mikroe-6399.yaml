@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Cap Touch 4 Click is a compact add-on board for wake-on-touch and activation\
+  \ applications. This board features the IQS211B, a single-channel capacitive controller\
+  \ from Azoteq, featuring ProxSense\xAE technology for highly sensitive self-capacitance\
+  \ measurements. The board includes a defined circular touch-sensing area, signal\
+  \ conditioning for parasitic..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/cap-touch-4-click/cap-touch-4-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/cap-touch-4-click
+  repositories: []
+name: MIKROE-6399
+ref: mikroe/mikroe-6399
+release_date: null
+sku: mikroe-6399
+spec: null
+status: ''
+vendor: mikroe

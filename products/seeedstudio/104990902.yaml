@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "The Raspberry Pi Touch Display 2 is a 7\u2033 touchscreen display that\
+  \ delivers the perfect interactive experience for your Raspberry Pi projects. Featuring\
+  \ five-finger touch support, built-in drivers, and plug-and-play functionality,\
+  \ it's the ideal choice for DIY tablets, smart home control panels, and interactive\
+  \ devices."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/104990902_3.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-Touch-Display-2-p-6255.html
+  repositories: []
+name: '104990902'
+ref: seeedstudio/104990902
+release_date: null
+sku: '104990902'
+spec: null
+status: ''
+vendor: seeedstudio

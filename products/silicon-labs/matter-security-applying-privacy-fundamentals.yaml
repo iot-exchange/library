@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/applications/smart-home/matter-security
+  repositories: []
+name: 'Matter Security: Applying Privacy Fundamentals'
+ref: silicon-labs/matter-security-applying-privacy-fundamentals
+release_date: null
+sku: matter-security-applying-privacy-fundamentals
+spec: null
+status: ''
+vendor: silicon-labs

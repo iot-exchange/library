@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: $1.55  -  $1.89
+extra:
+  SKU: '16091'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.9inch-e-paper-case-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/2.9inch-e-paper-case.htm
+  repositories: []
+name: 2.9inch e-Paper Case
+ref: waveshare/2-9inch-e-paper-case
+release_date: null
+sku: 2-9inch-e-paper-case
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  100+ pcs: 6.53 EUR
+  1000+ pcs: 6.26 EUR
+  50+ pcs: 6.66 EUR
+  500+ pcs: 6.39 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/IoT/LoRa/LoRa868/images/thumbs/200x150/LoRa868a.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/IoT/LoRa/LoRa868/open-source-hardware
+  repositories: []
+name: LoRa868
+ref: olimex/lora868
+release_date: null
+sku: lora868
+spec: null
+status: ''
+vendor: olimex

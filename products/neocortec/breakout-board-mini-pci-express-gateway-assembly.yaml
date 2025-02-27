@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "NeoCortec\u2019s universal Half-miniPCIe card is an ideal solution allowing\
+  \ for very easy and cost-efficient Gateway designs."
+extra:
+  Architecture: Payload data in JSON format
+  Compatibility: "Most low-cost SBC\u2018s running Linux"
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://neocortec.com/wp-content/uploads/2018/05/miniPCIe.png
+  models: []
+  products:
+  - https://neocortec.com/products-2/breakout-board-mini-pci-express-gateway-assembly-nc2400/
+  repositories: []
+name: "Breakout Board \u2013 Mini PCI express Gateway Assembly"
+ref: neocortec/breakout-board-mini-pci-express-gateway-assembly
+release_date: null
+sku: breakout-board-mini-pci-express-gateway-assembly
+spec: null
+status: ''
+vendor: neocortec

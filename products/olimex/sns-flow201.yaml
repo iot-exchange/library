@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/SNS-FLOW201/images/thumbs/200x150/SNS-FLOW201.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Sensors/SNS-FLOW201/
+  repositories: []
+name: SNS-FLOW201
+ref: olimex/sns-flow201
+release_date: null
+sku: sns-flow201
+spec: null
+status: ''
+vendor: olimex

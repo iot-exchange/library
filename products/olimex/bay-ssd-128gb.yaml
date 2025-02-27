@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/Home-Server/BAY-NO-DISK/images/thumbs/200x150/BAY-XXX.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/Home-Server/BAY-SSD-128GB/
+  repositories: []
+name: BAY-SSD-128GB
+ref: olimex/bay-ssd-128gb
+release_date: null
+sku: bay-ssd-128gb
+spec: null
+status: ''
+vendor: olimex

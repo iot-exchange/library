@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Metal Case Designed For Raspberry Pi Official Compute Module 5 IO Board,
+  Comes With Cooling Fan
+extra:
+  Price: $11.31 - $11.99
+  Price Range: $11.31 - $11.99
+  SKU: '30314'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm5-io-board-case-a-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/cm5-io-board-case-a.htm
+  repositories: []
+name: CM5-IO-BOARD-CASE-A
+ref: waveshare/cm5-io-board-case-a
+release_date: null
+sku: cm5-io-board-case-a
+spec: null
+status: ''
+vendor: waveshare

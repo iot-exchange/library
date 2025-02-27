@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Buck 23 Click is a compact add-on board with a DC-DC power converter
+  that steps down the voltage from its input to its output. This board features the
+  MAX20010C, a fully-integrated, high-efficiency, synchronous, step-down converter
+  from Analog Devices. The MAX20010C achieves 6A continuous output current over a
+  wide input supply range from 3V to 5.5V. It...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/buck-23-click/buck-23-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/buck-23-click
+  repositories: []
+name: MIKROE-5536
+ref: mikroe/mikroe-5536
+release_date: null
+sku: mikroe-5536
+spec: null
+status: ''
+vendor: mikroe

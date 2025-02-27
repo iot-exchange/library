@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: A7670E LTE Cat-1 HAT for Raspberry Pi, Multi Band, 2G GSM / GPRS, LBS,
+  for Europe, Southeast Asia, West Asia, Africa, China, South Korea
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/7/a7670e-cat-1-hat-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/a7670e-cat-1-hat.htm
+  repositories: []
+name: A7670E Cat-1 HAT
+ref: waveshare/a7670e-cat-1-hat
+release_date: null
+sku: a7670e-cat-1-hat
+spec: null
+status: ''
+vendor: waveshare

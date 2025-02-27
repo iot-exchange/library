@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Power/Reset Click is equipped with two capacitive touch pads on a single\
+  \ click board\u2122. It can be activated by touch, and unlike the mechanical button,\
+  \ the capacitive touch button lasts much longer, it is not prone to damage and wear\
+  \ over time and it is very reliable. Capacitive buttons are a very popular method\
+  \ of powering up or resetting various devices...."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/power-reset-click/power-reset-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=122#Power-Reset-Click
+  repositories: []
+name: MIKROE-3771
+ref: mikroe/mikroe-3771
+release_date: null
+sku: mikroe-3771
+spec: null
+status: ''
+vendor: mikroe

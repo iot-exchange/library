@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Magnetic Rotary 3 Click is a compact add-on board for accurate magnet-position
+  sensing. This board features the AS5147U, an SPI-configurable high-resolution rotary
+  position sensor for fast absolute angle measurement over a full 360-degree range
+  from ams AG. The AS5147U position sensor suppresses the influence of any homogenous
+  external stray magnetic...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/magnetic-rotary-3-click/magnetic-rotary-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/cart?add=1&id_product=3368
+  - https://www.mikroe.com/magnetic-rotary-3-click
+  repositories: []
+name: MIKROE-5203
+ref: mikroe/mikroe-5203
+release_date: null
+sku: mikroe-5203
+spec: null
+status: ''
+vendor: mikroe

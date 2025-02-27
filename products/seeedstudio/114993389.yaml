@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "This Aluminum Heatsink offers essential, active, physical, and strong\
+  \ fan air cooling function for Jetson AGX Orin\u2122 NX modules, to avoid overheating\
+  \ and throttling problems while operating tough computing tasks. It is designed\
+  \ for continuous deployment. It can be customized to air flow speed through PWM\
+  \ function and supports reComputer J501 board official."
+extra:
+  Price: $49.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993389-aluminum-heatsink-with-fan-for-jetson-agx-orin-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Aluminum-heatsink-with-Fan-for-Jetson-AGX-Orin-p-5970.html
+  repositories: []
+name: '114993389'
+ref: seeedstudio/114993389
+release_date: null
+sku: '114993389'
+spec: null
+status: ''
+vendor: seeedstudio

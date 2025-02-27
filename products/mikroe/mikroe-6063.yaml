@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Air Quality 11 Click is a compact add-on board for monitoring and analyzing
+  indoor air quality. This board features the ENS161, a multi-gas sensor from ScioSense
+  based on metal oxide (MOX) technology, to detect a range of volatile organic compounds
+  with high sensitivity. The board supports I2C and SPI communication protocols, allowing
+  flexible integration...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/air-quality-11-click/air-quality-11-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/air-quality-11-click
+  repositories: []
+name: MIKROE-6063
+ref: mikroe/mikroe-6063
+release_date: null
+sku: mikroe-6063
+spec: null
+status: ''
+vendor: mikroe

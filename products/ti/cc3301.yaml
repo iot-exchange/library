@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC3301
+  repositories: []
+name: CC3301
+ref: ti/cc3301
+release_date: null
+sku: cc3301
+spec: null
+status: ''
+vendor: ti

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: NEO-M8T GNSS TIMING HAT for Raspberry Pi, Single-Satellite Timing, Concurrent
+  Reception of GPS, Beidou, Galileo, GLONASS
+extra:
+  Price: $107.95 - $109.99
+  SKU: '18294'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/n/e/neo-m8t-gnss-timing-hat-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/neo-m8t-gnss-timing-hat.htm
+  repositories: []
+name: NEO-M8T GNSS TIMING HAT
+ref: waveshare/neo-m8t-gnss-timing-hat
+release_date: null
+sku: neo-m8t-gnss-timing-hat
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Enhanced Direction Finding - Angle of Arrival/Departure (AoA/AoD). Allows
+  Bluetooth devices to determine the direction of a Bluetooth signal transmission.
+extra:
+  Use Case: Allows resource constrained devices to utilize periodic advertising.
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - ''
+  repositories: []
+name: v5.1
+ref: ezurio/v5-1
+release_date: null
+sku: v5-1
+spec: null
+status: ''
+vendor: ezurio

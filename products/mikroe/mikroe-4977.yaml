@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LED Driver 12 Click is a compact add-on board that simplifies the control
+  of multiple LEDs. This board features the PCA9532, a 16-bit I2C-configurable I/O
+  expander optimized for dimming LEDs in 256 discrete Red/Green/Blue (RGB) steps from
+  NXP Semiconductors. The PCA9532 offers high efficiency, supporting up to 16 LED
+  channels and delivering a maximum of...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/led-driver-12-click/led-driver-12-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/led-driver-12-click
+  repositories: []
+name: MIKROE-4977
+ref: mikroe/mikroe-4977
+release_date: null
+sku: mikroe-4977
+spec: null
+status: ''
+vendor: mikroe

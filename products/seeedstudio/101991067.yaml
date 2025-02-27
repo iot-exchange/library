@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Grove Smart IR Gesture Sensor is an intelligent gesture recognition module
+  equipped with an infrared camera sensor and applied AI algorithm. It can detect
+  over 15 gestures with wide detection while supporting both IIC and SPI communication.
+  This module also allows Grove, Type-C, and Seeed Studio XIAO direct connecting.
+extra:
+  Detection: Over 15 gestures
+  Price: $17.99
+  Type: Gesture Sensor
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101991067-grove---smart-ir-gesture-sensor-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-Smart-IR-Gesture-Sensor-p-5721.html
+  repositories: []
+name: '101991067'
+ref: seeedstudio/101991067
+release_date: null
+sku: '101991067'
+spec: null
+status: ''
+vendor: seeedstudio

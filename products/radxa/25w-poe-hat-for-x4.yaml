@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Designed for Radxa X4
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/poe-hat/ra017x/thumb_25w_poe_plus_hat_for_x4.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/25w-poe-plus-hat-for-x4
+  repositories: []
+name: 25W PoE+ HAT for X4
+ref: radxa/25w-poe-hat-for-x4
+release_date: null
+sku: 25w-poe-hat-for-x4
+spec: null
+status: ''
+vendor: radxa

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Water Sanitation For All With LoRa
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.semtech.com/uploads/technology/world-water-day2-360x220.jpg
+  models: []
+  products:
+  - https://info.semtech.com/lora-world-water-day-infographic
+  repositories: []
+name: Water Sanitation
+ref: semtech/water-sanitation
+release_date: null
+sku: water-sanitation
+spec: null
+status: ''
+vendor: semtech

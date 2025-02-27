@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "14inch 2K Capacitive Touch Display, 2160\xD71440, High Resolution image\
+  \ quality, 10-Point Touch, Optical Bonding Toughened Glass Panel"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/4/14inch-2160-1440-lcd-2.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/4/14inch-2160-1440-lcd-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/14inch-2160x1440-lcd.htm
+  repositories: []
+name: 14inch_2160x1440_lcd
+ref: waveshare/14inch-2160x1440-lcd
+release_date: null
+sku: 14inch-2160x1440-lcd
+spec: null
+status: ''
+vendor: waveshare

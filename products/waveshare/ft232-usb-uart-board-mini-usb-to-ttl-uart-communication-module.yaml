@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: $5.65  -  $5.99
+extra:
+  Part No.: FT232 USB UART Board (mini)
+  SKU: '6646'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/t/ft232-usb-uart-board-mini-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ft232-usb-uart-board-mini.htm
+  repositories: []
+name: FT232 USB UART Board (mini), USB To TTL (UART) Communication Module
+ref: waveshare/ft232-usb-uart-board-mini-usb-to-ttl-uart-communication-module
+release_date: null
+sku: ft232-usb-uart-board-mini-usb-to-ttl-uart-communication-module
+spec: null
+status: ''
+vendor: waveshare

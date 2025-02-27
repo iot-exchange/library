@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 20.95 EUR
+  price2: 18.86 EUR
+  price3: 16.76 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/MSP430/Header/MSP430-HE427/images/thumbs/200x150/MSP430-HE427.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/MSP430/Header/MSP430-HE427/
+  repositories: []
+name: MSP430-HE427
+ref: olimex/msp430-he427
+release_date: null
+sku: msp430-he427
+spec: null
+status: ''
+vendor: olimex

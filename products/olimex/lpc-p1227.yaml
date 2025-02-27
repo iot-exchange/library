@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 18.86 EUR
+  discountedPrice2: 16.76 EUR
+  price: 20.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-P1227/images/thumbs/200x150/LPC-P1227-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-P1227/
+  repositories: []
+name: LPC-P1227
+ref: olimex/lpc-p1227
+release_date: null
+sku: lpc-p1227
+spec: null
+status: ''
+vendor: olimex

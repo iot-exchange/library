@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 4G medium module for North America.
+extra:
+  Bands: 'LTE: B2/4/5/7/12/13/25/26/41/66'
+  Form Factor: LGA / LCC
+  Region: North America
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTE-SS808-NA.html
+  repositories: []
+name: SS808-NA
+ref: fibocom/ss808-na
+release_date: null
+sku: ss808-na
+spec: null
+status: ''
+vendor: fibocom

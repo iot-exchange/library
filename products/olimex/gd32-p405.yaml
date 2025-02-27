@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 18.95 EUR
+  price2: 18.00 EUR
+  price3: 17.06 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/ST/STM32-P405/images/thumbs/200x150/STM32-P405-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/ST/GD32-P405/
+  repositories: []
+name: GD32-P405
+ref: olimex/gd32-p405
+release_date: null
+sku: gd32-p405
+spec: null
+status: ''
+vendor: olimex

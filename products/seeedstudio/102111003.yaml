@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Zero 2 W is the latest product (2021) in our most affordable
+  range of single-board computers. The upgraded processor provides Raspberry Pi Zero
+  2 W with 40% more single-threaded performance, and five times more multi-threaded
+  performance, than the original single-core Raspberry Pi Zero. This version is with
+  a pre-soldered 40-pin GPIO header to make it easier to access the GPIO and Power
+  pins.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-raspberry-pi-zero-2wh.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-Zero-2-W-with-Header-p-5935.html
+  repositories: []
+name: '102111003'
+ref: seeedstudio/102111003
+release_date: null
+sku: '102111003'
+spec: null
+status: ''
+vendor: seeedstudio

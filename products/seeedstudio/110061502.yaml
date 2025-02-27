@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "This is a 4G Antenna with 2 dBi Gain and -30\uFF5E+80 \u2103 operating\
+  \ temperature."
+extra:
+  Gain: 2 dBi
+  Price: $5.00
+  Type: Antenna
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-110061502_-4g-antenna-kit-for-reterminal-dm-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/4G-Antenna-Kit-for-reTerminal-DM-p-5713.html
+  repositories: []
+name: '110061502'
+ref: seeedstudio/110061502
+release_date: null
+sku: '110061502'
+spec: null
+status: ''
+vendor: seeedstudio

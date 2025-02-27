@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/LCD/LCD449STK/images/thumbs/200x150/LCD449STK.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/LCD/LCD449STK/
+  repositories: []
+name: LCD449STK
+ref: olimex/lcd449stk
+release_date: null
+sku: lcd449stk
+spec: null
+status: ''
+vendor: olimex

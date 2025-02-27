@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: LoRa Basics Secure, Remotely Configurable packet forwarder
+extra:
+  Product Applicability: SX1301, SX1302, SX1250, SX1255, SX1257
+  Type: Packet Forwarder
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://github.com/lorabasics/basicstation
+  repositories: []
+name: LoRa Basics Station
+ref: semtech/lora-basics-station
+release_date: null
+sku: lora-basics-station
+spec: null
+status: Active
+vendor: semtech

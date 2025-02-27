@@ -1,0 +1,42 @@
+alternatives: []
+certifications: []
+description: Bluetooth 5.2 LE module for industrial equipment.
+extra:
+  Bluetooth: 5.2 LE
+  Chipset: RSL15
+  Dimension: 7.0 x 7.4 x 1.0 mm
+  ETSI Report: 'Yes'
+  FCC/ISED Certified: 'Yes'
+  Frequency: 2.4GHz
+  Grade: Industrial
+  Host Interface (802.15.4): QSPI, SPI, GPIO, ADC, DAC, PWM, I2C
+  Host Interface (Bluetooth): UART
+  IC Manufacturer: onsemi
+  Integrated Antenna: 'Yes'
+  Interface Voltage: 1.2V-3.6V
+  MIC (Japan) Certified: 'Yes'
+  Mounting Type: SMT
+  Operating Temperature (degC): "-40\u2103 to 85\u2103"
+  Package: Shielded Resin
+  Packaging: Tape and Reel
+  Receive Mode Current: ''
+  RoHS Support: 'Yes'
+  Sleep Mode Current (Bluetooth): ''
+  Supply Voltage: 1.71V to 3.46V
+  Technology: Bluetooth
+  Transmit Mode Current (Bluetooth): ''
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/products/connectivitymodule/bluetooth#series-lineup
+  repositories: []
+name: Type 2EG
+ref: murata/type-2eg
+release_date: null
+sku: type-2eg
+spec: null
+status: ''
+vendor: murata

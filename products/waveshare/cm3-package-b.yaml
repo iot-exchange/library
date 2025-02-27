@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Compute Module 3+ Development Kit Type B
+extra:
+  Price: $121.99 - $267.99
+  price: $121.99 -  $267.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm3_package_b.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/compute-module-3-plus-acce-b.htm
+  repositories: []
+name: CM3+ Package B
+ref: waveshare/cm3-package-b
+release_date: null
+sku: cm3-package-b
+spec: null
+status: ''
+vendor: waveshare

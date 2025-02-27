@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "AudioAMP 12 Click is a compact add-on board that can reproduce input\
+  \ signals with desired volume and power levels at sound-producing output elements.\
+  \ This board features the TS2007FC, a filter-free class-D audio amplifier from STMicroelectronics.\
+  \ This amplifier can drive up to 1.4W into an 8\u03A9 load at 5V, achieving better\
+  \ efficiency than a typical class AB..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/audioamp-12-click/audioamp-12-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/usb-c-sink-3-click/usb-c-sink-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/audioamp-12-click
+  - https://www.mikroe.com/usb-c-sink-3-click
+  repositories: []
+name: MIKROE-5796
+ref: mikroe/mikroe-5796
+release_date: null
+sku: mikroe-5796
+spec: null
+status: ''
+vendor: mikroe

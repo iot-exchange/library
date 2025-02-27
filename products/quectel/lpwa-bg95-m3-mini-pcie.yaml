@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Cat M  Cat NB2  EDGE  GNSS (optional)  GPRS  USB 2.0
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - "https://www.quectel.com/content/uploads/2024/03/\u5FAE\u4FE1\u56FE\u7247_20211022211236.png"
+  models: []
+  products:
+  - https://www.quectel.com/product/lpwa-bg95-m3-mpcie/
+  repositories: []
+name: LPWA BG95-M3 Mini PCIe
+ref: quectel/lpwa-bg95-m3-mini-pcie
+release_date: null
+sku: lpwa-bg95-m3-mini-pcie
+spec: null
+status: ''
+vendor: quectel

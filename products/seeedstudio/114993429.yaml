@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: The Raspberry Pi Bumper for Raspberry Pi 5 is a snap-on silicone cover
+  that protects the bottom and edges of the board.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/b/u/bumper_1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-Bumper-for-Raspberry-Pi-5-p-5983.html
+  repositories: []
+name: '114993429'
+ref: seeedstudio/114993429
+release_date: null
+sku: '114993429'
+spec: null
+status: ''
+vendor: seeedstudio

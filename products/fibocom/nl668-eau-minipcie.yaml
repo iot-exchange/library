@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Bands: 'LTE: B1/3/5/7/8/20/28/38/40/41'
+  Form Factor: LGA / LCC
+  Region: APAC, Europe, Australia
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTECat-NL668-EAU-MiniPCIe.html
+  repositories: []
+name: NL668-EAU-MiniPCIe
+ref: fibocom/nl668-eau-minipcie
+release_date: null
+sku: nl668-eau-minipcie
+spec: null
+status: ''
+vendor: fibocom

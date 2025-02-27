@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Power/Lipo-battery/BATTERY-LIPO7000mAh/images/thumbs/200x150/LIPO7000.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Power/Lipo-battery/BATTERY-LIPO7000mAh/
+  repositories: []
+name: BATTERY-LIPO7000mAh
+ref: olimex/battery-lipo7000mah
+release_date: null
+sku: battery-lipo7000mah
+spec: null
+status: ''
+vendor: olimex

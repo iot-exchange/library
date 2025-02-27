@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "2.8inch Capacitive Touch Display for Raspberry Pi, 480\xD7640, DSI,\
+  \ IPS, Optical Bonding Screen"
+extra:
+  Price: $42.97 - $43.99
+  SKU: '22028'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-to-usb-adapter-1_1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.8inch-dsi-lcd-5.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.8inch-dsi-lcd-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/2.8inch-dsi-lcd.htm
+  repositories: []
+name: 2.8inch DSI LCD
+ref: waveshare/2-8inch-dsi-lcd
+release_date: null
+sku: 2-8inch-dsi-lcd
+spec: null
+status: ''
+vendor: waveshare

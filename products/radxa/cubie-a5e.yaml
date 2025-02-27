@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: 8 Core Tiny AIoT SBC
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/cubie/a5e/thumb_cubie_a5e.webp
+  models: []
+  products:
+  - https://radxa.com/products/cubie/a5e
+  repositories: []
+name: Cubie A5E
+ref: radxa/cubie-a5e
+release_date: null
+sku: cubie-a5e
+spec: null
+status: ''
+vendor: radxa

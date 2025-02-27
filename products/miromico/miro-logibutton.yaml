@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Versatile IoT device designed for service-on-demand scenarios in logistics
+  and facility management.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://miromico.ch/files/miromico/media-data/product_images/Notification/miro_LogiButton/png/miro-LogiButton-Ordered_top_2500px.png
+  models: []
+  products:
+  - https://miromico.ch/en/products/details/miro-LogiButton
+  repositories: []
+name: miro LogiButton
+ref: miromico/miro-logibutton
+release_date: null
+sku: miro-logibutton
+spec: null
+status: ''
+vendor: miromico

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Triple LCD HAT For Raspberry Pi, Onboard 1.3inch IPS LCD Main Screen
+  and Dual 0.96inch IPS LCD Secondary Screens
+extra:
+  Price: $13.97  -  $14.99
+  SKU: '25586'
+  price: $13.97  -  $14.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/z/e/zero-lcd-hat-a-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/zero-lcd-hat-a.htm
+  repositories: []
+name: Zero LCD HAT (A)
+ref: waveshare/zero-lcd-hat-a
+release_date: null
+sku: zero-lcd-hat-a
+spec: null
+status: ''
+vendor: waveshare

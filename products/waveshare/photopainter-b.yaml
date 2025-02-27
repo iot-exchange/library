@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: "7.3inch E6 Full Color E-Paper With Solid Wood Photo Frame, Ultra-long\
+  \ Standby, 800 \xD7 480 Resolution, Batteries Optional"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/h/photopainter-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/photopainter-b.htm
+  repositories: []
+name: PhotoPainter (B)
+ref: waveshare/photopainter-b
+release_date: null
+sku: photopainter-b
+spec: null
+status: ''
+vendor: waveshare

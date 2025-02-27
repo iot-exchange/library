@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: SOP44 TO DIP44, Programmer Adapter
+extra:
+  Price: $49.59 - $52.99
+  SKU: '3803'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/o/sop44-to-dip44_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/sop44-to-dip44.htm
+  repositories: []
+name: SOP44 TO DIP44
+ref: waveshare/sop44-to-dip44
+release_date: null
+sku: sop44-to-dip44
+spec: null
+status: ''
+vendor: waveshare

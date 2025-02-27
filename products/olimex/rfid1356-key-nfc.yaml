@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 0.27 EUR
+  discountedPrice2: 0.24 EUR
+  price: 0.30 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/RFID-Tags/MIFARE/RFID1356-KEY-NFC/images/thumbs/200x150/S50.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/RFID-Tags/MIFARE/RFID1356-KEY-NFC/
+  repositories: []
+name: RFID1356-KEY-NFC
+ref: olimex/rfid1356-key-nfc
+release_date: null
+sku: rfid1356-key-nfc
+spec: null
+status: ''
+vendor: olimex

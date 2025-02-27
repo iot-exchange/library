@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Dragino Linux IoT Appliance . Base on AR9331
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/85b62d4a27ea43297eb1ab349b6e06c6_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/mother-board/item/113-ms14n-p.html
+  repositories: []
+name: MS14N-P
+ref: dragino/ms14n-p
+release_date: null
+sku: ms14n-p
+spec: null
+status: EOL
+vendor: dragino

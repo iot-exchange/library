@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/5G-FG150-AE.html
+  repositories: []
+name: FG150-AE
+ref: fibocom/fg150-ae
+release_date: null
+sku: fg150-ae
+spec: null
+status: ''
+vendor: fibocom

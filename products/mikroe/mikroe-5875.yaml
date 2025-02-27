@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Step Down 10 Click is a compact add-on board that converts higher voltages
+  into a lower voltage level. This board features the TPSM63610, a high-density synchronous
+  buck DC/DC power module with enhanced HotRodTM from Texas Instruments. It is a highly
+  integrated DC/DC solution that combines power MOSFETs, a shielded inductor, and
+  passives. It uses voltages...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/step-down-10-click/step-down-10-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/step-down-10-click
+  repositories: []
+name: MIKROE-5875
+ref: mikroe/mikroe-5875
+release_date: null
+sku: mikroe-5875
+spec: null
+status: ''
+vendor: mikroe

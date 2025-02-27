@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 4.75 EUR
+  discountedPrice2: 4.50 EUR
+  price: 5.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/MG-12V-12RPM/images/thumbs/200x150/MG-12V-12RPM-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/MG-12V-12RPM/
+  repositories: []
+name: MG-12V-12RPM
+ref: olimex/mg-12v-12rpm
+release_date: null
+sku: mg-12v-12rpm
+spec: null
+status: ''
+vendor: olimex

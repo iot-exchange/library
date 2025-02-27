@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: Semi-flexible Polycrystalline silicon Solar Panel (18V 10W), Supports
+  5V regulated output
+extra:
+  Price: $12.31  -  $12.99
+  SKU: '24167'
+  price: $12.31 - $12.99
+  sku: '24167'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/e/semi-flexible-solar-panel-18v-10w-1_1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/_/3.4inch-dsi-lcd-c-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/semi-flexible-solar-panel-18v-10w.htm "Semi-flexible
+    Polycrystalline silicon Solar Panel (18V 10W), Supports 5V regulated output"
+  - https://www.waveshare.com/product/semi-flexible-solar-panel-18v-10w.htm
+  - https://www.waveshare.com/product/3.4inch-dsi-lcd-c.htm
+  repositories: []
+name: Semi Flexible Solar Panel (18V 10W)
+ref: waveshare/semi-flexible-solar-panel-18v-10w
+release_date: null
+sku: semi-flexible-solar-panel-18v-10w
+spec: null
+status: ''
+vendor: waveshare

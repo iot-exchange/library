@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Retro-Computers/PS2-KEYBOARD/images/thumbs/200x150/PS2-KBD.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Retro-Computers/PS2-KEYBOARD/
+  repositories: []
+name: PS2-KEYBOARD
+ref: olimex/ps2-keyboard
+release_date: null
+sku: ps2-keyboard
+spec: null
+status: ''
+vendor: olimex

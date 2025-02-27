@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "Secure 8 Click is a compact add-on board containing hardware-based key\
+  \ storage with a cryptographic accelerator to implement authentication and encryption\
+  \ protocol. This board features the ATECC608B, a member of the Microchip CryptoAuthentication\u2122\
+  \ family of high-security cryptographic devices with a wide array of defense mechanisms\
+  \ specifically designed..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/fram-5-click/fram-5-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/secure-8-click/secure-8-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/fram-5-click
+  - https://www.mikroe.com/secure-8-click
+  repositories: []
+name: MIKROE-5154
+ref: mikroe/mikroe-5154
+release_date: null
+sku: mikroe-5154
+spec: null
+status: ''
+vendor: mikroe

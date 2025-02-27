@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Ideal for applications requiring higher throughput and real-time data
+  transmission such as interactive displays.
+extra:
+  comparison: Suitable for medium data rate applications with moderate power consumption.
+  futureProof: Designed with forward compatibility for seamless integration into 5G
+    network ecosystems.
+  mobility: Highly effective in mobile IoT applications due to robust handling of
+    higher speed mobility.
+  smartCityApplications: Supports a variety of smart city applications by facilitating
+    reliable, medium-bandwidth data transmission.
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: LTE Cat 1
+ref: cavli-wireless/lte-cat-1
+release_date: null
+sku: lte-cat-1
+spec: null
+status: ''
+vendor: cavli-wireless

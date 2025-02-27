@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: RF Explorer 6G WB+ is a powerful Spectrum Analyzer model, covering the
+  full 6GHz range starting at 15MHz up to 6.1GHz with no gaps or limitations, and
+  up to 7.5GHz with optional extra license. This model replaces RF Explorer 6G Combo
+  standard model, the new SLIM design offers an outstanding robust enclosure with
+  strong metallic body and shiny varnished paint, a more convenient USB connector
+  on the side and larger internal battery capacity.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/101990962-a1101-first-new-10.17.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/RF-Explorer-6G-WB-PLUS-SLIM-p-5371.html
+  repositories: []
+name: '114992756'
+ref: seeedstudio/114992756
+release_date: null
+sku: '114992756'
+spec: null
+status: ''
+vendor: seeedstudio

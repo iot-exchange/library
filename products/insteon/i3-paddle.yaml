@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Regular price: $54.95
+  Sale price: $54.95
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/White_Insteon_i3_Paddle_front.jpg?v=1723522530&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/i3-paddle
+  repositories: []
+name: i3 Paddle
+ref: insteon/i3-paddle
+release_date: null
+sku: i3-paddle
+spec: null
+status: ''
+vendor: insteon

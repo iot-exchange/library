@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: Enhances signal strength in areas with poor network coverage, such as
+  indoor locations or remote areas.
+extra:
+  Improved Data and Voice Quality: 'Yes'
+  Internet Backhaul: 'Yes'
+  Local Cellular Coverage: 'Yes'
+  Private Network Support: 'Yes'
+  Product Applicability: SX1308
+  Region: EU, NA
+  Type: Shield
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.semtech.com/design-support/faq/faq-gateway
+  - https://www.semtech.com/products/wireless-rf/lora-core/sx1308p490gw
+  repositories: []
+name: Picocell Gateway
+ref: semtech/picocell-gateway
+release_date: null
+sku: picocell-gateway
+spec: null
+status: ''
+vendor: semtech

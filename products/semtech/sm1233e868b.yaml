@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Evaluation Module, SX1233, 868MHz
+extra:
+  Chipset: SX1233
+  Type: Module Kit
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.semtech.com/products/wireless-rf/frequency-shift-keying-fsk/sm1233e868b
+  repositories: []
+name: SM1233E868B
+ref: semtech/sm1233e868b
+release_date: null
+sku: sm1233e868b
+spec: null
+status: ''
+vendor: semtech

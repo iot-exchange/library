@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Specialized for Radxa ROCK 5B+
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/heatsink/ae003/thumb_rock_5b_metal_case.webp
+  - https://radxa.com/heatsink/ae024/thumb_metal_case_for_rock5bp.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/metal-case-for-rock5bp
+  - https://radxa.com/products/accessories/rock5b-metal-case
+  repositories: []
+name: Metal Case for ROCK 5B+
+ref: radxa/metal-case-for-rock-5b
+release_date: null
+sku: metal-case-for-rock-5b
+spec: null
+status: ''
+vendor: radxa

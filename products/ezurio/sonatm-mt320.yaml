@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Wi-Fi 6 + Bluetooth Module
+extra:
+  Category: Professional Wi-Fi
+  Chipset: Mediatek MT921
+  Wi-Fi: Performance
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-04/Sona%20TI351%20-%20Family%20%281%29.png
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/wifi-modules-bluetooth/sona-mt320-wifi-6-bluetooth-5-3-module
+  repositories: []
+name: "Sona\u2122 MT320"
+ref: ezurio/sonatm-mt320
+release_date: null
+sku: sonatm-mt320
+spec: null
+status: ''
+vendor: ezurio

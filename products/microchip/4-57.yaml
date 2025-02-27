@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: Microcontroller with Zigbee, Proprietary
+extra:
+  Current Consumption: '103'
+  Frequency: Cortex-M0+
+  Memory: '32'
+  Output Power: '4'
+  Package: 32/VQFN
+  RAM: '256'
+  Sensitivity: '-99'
+  Temperature Range: -40 to 125
+  Type: SoC
+  Voltage Range: 1.8 to 3.6
+  Wireless Protocols: Zigbee, Proprietary
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: '4.57'
+ref: microchip/4-57
+release_date: null
+sku: 4-57
+spec: null
+status: ''
+vendor: microchip

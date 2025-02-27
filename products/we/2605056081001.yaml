@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Tarvos-I USB radio stick
+extra:
+  Current Consumption (mA): '3.6'
+  Expected Lifetime (years): '>10'
+  Frequency Range: 868 - 868.6
+  Max Output Power (dBm): '400'
+  Sensitivity (dBm): '-112'
+  Supply Voltage (V): '2'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: '2605056081001'
+ref: we/2605056081001
+release_date: null
+sku: '2605056081001'
+spec: null
+status: Active
+vendor: we

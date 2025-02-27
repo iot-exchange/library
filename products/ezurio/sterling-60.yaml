@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: A Laird Wifi module that can be integrated with OpenWRT.
+extra:
+  compatibility: OpenWRT
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: Sterling-60
+ref: ezurio/sterling-60
+release_date: null
+sku: sterling-60
+spec: null
+status: ''
+vendor: ezurio

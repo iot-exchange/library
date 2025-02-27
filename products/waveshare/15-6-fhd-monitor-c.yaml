@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "15.6inch 10-Point Capacitive Touch Monitor (C), 1920 \xD7 1080 Full\
+  \ HD, IPS screen, Optical Bonding Toughened Glass Panel, Type-C / mini HDMI Display\
+  \ Interface"
+extra:
+  Price: $179.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/5/15.6inch-fhd-monitor-c-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/15.6inch-fhd-monitor-c.htm
+  repositories: []
+name: "15.6\u2033 FHD Monitor (C)"
+ref: waveshare/15-6-fhd-monitor-c
+release_date: null
+sku: 15-6-fhd-monitor-c
+spec: null
+status: ''
+vendor: waveshare

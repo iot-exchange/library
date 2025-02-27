@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Seeed Studio Grove Base for XIAO - with embedded battery management chip
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/7/-/7-l76k-gnss-module-for-seeed-studio-xiao-feature.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-Shield-for-Seeeduino-XIAO-p-4621.html
+  repositories: []
+name: '103020312'
+ref: seeedstudio/103020312
+release_date: null
+sku: '103020312'
+spec: null
+status: ''
+vendor: seeedstudio

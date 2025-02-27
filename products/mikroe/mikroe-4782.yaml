@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: BarGraph 4 Click is a compact add-on board that contains four green four-segment
+  LED bar graph displays. This board features the TLC59283, a 16-channel, constant-current
+  sink light-emitting diode (LED) driver from Texas Instruments. Depending on the
+  operating VCC, each channel can be individually controlled with a simple SPI serial
+  communications protocol...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/bargraph-4-click/bargraph-4-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/bargraph-4-click
+  repositories: []
+name: MIKROE-4782
+ref: mikroe/mikroe-4782
+release_date: null
+sku: mikroe-4782
+spec: null
+status: ''
+vendor: mikroe

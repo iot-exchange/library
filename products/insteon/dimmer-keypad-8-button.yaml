@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Regular price: $79.95
+  Sale price: $79.95
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/keypad-8-button-front-800x800.jpg?v=1660780137&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/dimmer-keypad-8-button
+  repositories: []
+name: Dimmer Keypad, 8-Button
+ref: insteon/dimmer-keypad-8-button
+release_date: null
+sku: dimmer-keypad-8-button
+spec: null
+status: ''
+vendor: insteon

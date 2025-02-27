@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Electronic Clock for Raspberry Pi Pico, Accurate RTC, Multi Functions,
+  LED Digits
+extra:
+  Price: $23.63 - $24.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-clock-green-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pico-clock-green.htm
+  repositories: []
+name: Pico-Clock-Green-EN
+ref: waveshare/pico-clock-green-en
+release_date: null
+sku: pico-clock-green-en
+spec: null
+status: Out of Stock
+vendor: waveshare

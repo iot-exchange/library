@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: JST 2 Pin power connector
+extra:
+  length: 10 cm
+  type: 2pin JST connector
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductjst2mm1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/JST-2-Pin-power-connector-p-649.html
+  repositories: []
+name: '321050009'
+ref: seeedstudio/321050009
+release_date: null
+sku: '321050009'
+spec: null
+status: ''
+vendor: seeedstudio

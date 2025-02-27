@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: A type of LTE module designed for the Internet of Things (IoT) with medium
+  data rates, optimized for applications requiring moderate data speeds.
+extra:
+  Applications: Smart meters, wearable devices
+  Data Rate: Medium
+  Power Efficiency: High
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: LTE Cat M1 Module
+ref: fibocom/lte-cat-m1-module
+release_date: null
+sku: lte-cat-m1-module
+spec: null
+status: ''
+vendor: fibocom

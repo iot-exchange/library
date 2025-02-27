@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Nano Base Board (C) for Raspberry Pi Compute Module 4, Same Size as the
+  CM4, Onboard 8MP Camera
+extra:
+  Price: $28.97 - $29.99
+  SKU: '23451'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-nano-c-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/cm4-nano-c.htm
+  repositories: []
+name: CM4-NANO-C
+ref: waveshare/cm4-nano-c
+release_date: null
+sku: cm4-nano-c
+spec: null
+status: ''
+vendor: waveshare

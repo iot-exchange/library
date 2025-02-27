@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: QFN24 TO DIP24 (B), Programmer Adapter
+extra:
+  Price: $70.99 - $73.99
+  SKU: '6886'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/q/f/qfn24-to-dip24_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/qfn24-to-dip24.htm
+  repositories: []
+name: QFN24 TO DIP24 (B)
+ref: waveshare/qfn24-to-dip24-b
+release_date: null
+sku: qfn24-to-dip24-b
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ISM 868/915MHz Active FPC Antenna (W3312B0100) is a small but powerful
+  flat patch multiband antenna designed for use in 868MHz and 915MHz frequency bands
+  for low-power ISM and remote control applications, M2M and IoT, metering, industry
+  automation, and many more.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ism-868915mhz-active-pcb-antenna/ism-868915mhz-active-pcb-antenna-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ism-868915mhz-active-pcb-antenna
+  repositories: []
+name: MIKROE-5708
+ref: mikroe/mikroe-5708
+release_date: null
+sku: mikroe-5708
+spec: null
+status: ''
+vendor: mikroe

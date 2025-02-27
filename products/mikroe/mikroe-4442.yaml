@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Expand 8 Click is a compact add-on board that contains a multi-port I/O
+  expander with bi-directional input/outputs. This board features the MAX7317, 10-Port
+  SPI-interfaced I/O expander with overvoltage and hot-insertion protection from Analog
+  Devices. The MAX7317 provides microprocessors with 10 I/O ports rated to 7V. Each
+  port can be individually...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/expand-8-click/expand-8-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/expand-8-click
+  repositories: []
+name: MIKROE-4442
+ref: mikroe/mikroe-4442
+release_date: null
+sku: mikroe-4442
+spec: null
+status: ''
+vendor: mikroe

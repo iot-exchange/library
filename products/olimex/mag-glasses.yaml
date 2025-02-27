@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 5.40 EUR
+  discountedPrice2: 4.80 EUR
+  price: 6.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/MAG-GLASSES/images/thumbs/200x150/MAG-GLASSES.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/Soldering/MAG-GLASSES/
+  repositories: []
+name: MAG-GLASSES
+ref: olimex/mag-glasses
+release_date: null
+sku: mag-glasses
+spec: null
+status: ''
+vendor: olimex

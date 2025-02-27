@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LPWA Package including ME310G1 module, SIM card, NExT global connectivity
+  plan, NExT connectivity management portal, and OneEdge for device and data management.
+extra:
+  suitableFor: Telematics, Asset tracking, Smart buildings, Security and surveillance,
+    Retail and payments, Connected health care
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/02/me310g1-ww-cyber.jpg
+  - https://www.telit.com/wp-content/uploads/2024/10/TC_ME310G1_dyn-234x200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/me310g1/
+  repositories: []
+name: ME310G1
+ref: telit/me310g1
+release_date: null
+sku: me310g1
+spec: null
+status: ''
+vendor: telit

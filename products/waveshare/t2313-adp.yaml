@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: T2313+ ADP, AVR Programmer Adapter
+extra:
+  Price: $22.99 - $25.99
+  SKU: '2982'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/2/t2313-adp_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/t2313-adp.htm
+  repositories: []
+name: T2313+ ADP
+ref: waveshare/t2313-adp
+release_date: null
+sku: t2313-adp
+spec: null
+status: ''
+vendor: waveshare

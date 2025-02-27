@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Misc/PUSH-PULL-SOLENOID-5V/images/thumbs/200x150/Push-Pull.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Misc/PUSH-PULL-SOLENOID-5V/
+  repositories: []
+name: PUSH-PULL-SOLENOID-5V
+ref: olimex/push-pull-solenoid-5v
+release_date: null
+sku: push-pull-solenoid-5v
+spec: null
+status: ''
+vendor: olimex

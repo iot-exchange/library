@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: "4x Cortex\xAE-A53 cores @ 1.5 GHz (NXP i.MX 8M Nano), 1x Cortex\xAE\
+  -M7 core @ 600 MHz (NXP i.MX 8M Nano), Wi-Fi 5 (802.11ac) Bluetooth 5.0"
+extra:
+  Dimensions (L x W): 69.6 x 40
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ezurio.com/system-on-module/nxp-imx8/nitrogen8m-nano-som
+  repositories: []
+name: Nitrogen8M Nano SOM
+ref: ezurio/nitrogen8m-nano-som
+release_date: null
+sku: nitrogen8m-nano-som
+spec: null
+status: Active
+vendor: ezurio

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Camera Module 3 Wide is a compact camera from Raspberry
+  Pi with FOV, presenting 120 degrees Diagonal FOV. It offers an IMX708 12-megapixel
+  sensor with HDR, and features phase detection autofocus and IR cut filter.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993029-raspberry-pi-camera-3-noir-45font.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993028-raspberry-pi-camera-3-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-Camera-3-Wide-p-5576.html
+  - https://www.seeedstudio.com/Raspberry-Pi-Camera-3-NoIR-p-5575.html
+  repositories: []
+name: '114993029'
+ref: seeedstudio/114993029
+release_date: null
+sku: '114993029'
+spec: null
+status: ''
+vendor: seeedstudio

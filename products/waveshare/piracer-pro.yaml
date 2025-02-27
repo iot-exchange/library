@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: PiRacer Pro, High Speed AI Racing Robot Powered by Raspberry Pi 4, Supports
+  DonkeyCar Project, Pro Version
+extra:
+  Price Range: $193.99 - $262.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/piracer-pro-ai-kit-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/piracer-pro-ai-kit.htm
+  repositories: []
+name: piracer_pro
+ref: waveshare/piracer-pro
+release_date: null
+sku: piracer-pro
+spec: null
+status: ''
+vendor: waveshare

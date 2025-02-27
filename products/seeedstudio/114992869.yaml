@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "A battery-powered IP66 wireless CO2, air temp and humi sensor, range\
+  \ from 400 to 10000 ppm, -40\xB0C to 85\xB0C, and 0 to 100 %RH, equipped with built-in\
+  \ Bluetooth and APP service for OTA configuration and remote device management.\
+  \ Used in smart farming, smart yard, smart city, and industrial carbon detection\
+  \ solutions."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/f/i/first_page_all-31_1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/SenseCAP-S2103-LoRaWAN-CO2-Temperature-and-Humidity-Sensor-p-5356.html
+  repositories: []
+name: '114992869'
+ref: seeedstudio/114992869
+release_date: null
+sku: '114992869'
+spec: null
+status: ''
+vendor: seeedstudio

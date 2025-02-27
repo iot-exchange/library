@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: IMX 415
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/accessories/as001/thumb_camera_4k.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/camera4k
+  repositories: []
+name: Camera 4K
+ref: radxa/camera-4k
+release_date: null
+sku: camera-4k
+spec: null
+status: ''
+vendor: radxa

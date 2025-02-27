@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Antenna type: RF pad
+  Current consumption: '2.2'
+  Dimensions (mm): 27 x 17 x 3.8
+  Expected lifetime: '>10 years'
+  Frequency range: 865 - 867
+  Max data rate: '100'
+  Output power: '20000'
+  Sensitivity: '-124'
+  Voltage: '3.7'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - javascript:;
+  repositories: []
+name: '2609031181060'
+ref: we/2609031181060
+release_date: null
+sku: '2609031181060'
+spec: null
+status: New
+vendor: we

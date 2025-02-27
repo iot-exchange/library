@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "1872\xD71404, 10.3inch flexible E-Ink display HAT for Raspberry Pi"
+extra:
+  Price: $238.89 - $243.99
+  SKU: '16712'
+  price: $238.89  -  $243.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.3inch-e-paper-hat-d-1_3.jpg
+  models: []
+  products:
+  - "https://www.waveshare.com/product/10.3inch-e-paper-hat-d.htm \"1872\xD71404,\
+    \ 10.3inch flexible E-Ink display HAT for Raspberry Pi\""
+  - https://www.waveshare.com/product/10.3inch-e-paper-hat-d.htm
+  repositories: []
+name: 10.3inch e-Paper HAT (D)
+ref: waveshare/10-3inch-e-paper-hat-d
+release_date: null
+sku: 10-3inch-e-paper-hat-d
+spec: null
+status: ''
+vendor: waveshare

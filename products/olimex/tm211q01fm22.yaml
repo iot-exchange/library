@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Connectors/TM211Q01FM22/images/thumbs/200x150/TM211Q01FM22-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Connectors/TM211Q01FM22/
+  repositories: []
+name: TM211Q01FM22
+ref: olimex/tm211q01fm22
+release_date: null
+sku: tm211q01fm22
+spec: null
+status: ''
+vendor: olimex

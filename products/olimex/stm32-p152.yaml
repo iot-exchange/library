@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 17.96 EUR
+  discountedPrice2: 15.96 EUR
+  price: 19.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/ST/STM32-P152/images/thumbs/200x150/STM32-P152-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/ST/STM32-P152/
+  repositories: []
+name: STM32-P152
+ref: olimex/stm32-p152
+release_date: null
+sku: stm32-p152
+spec: null
+status: ''
+vendor: olimex

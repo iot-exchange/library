@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Jetson Orin Nano AI Development Kit For Embedded And Edge Systems, Options
+  for 4GB/8GB Memory Jetson Orin Nano Module
+extra:
+  Multi Options: ''
+  Price: $389.99 -  $634.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-orin-nano-4g-dev-kit-1_10.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/jetson-orin-nano-dev-kit.htm
+  repositories: []
+name: jetson_orin_nano_dev_kit
+ref: waveshare/jetson-orin-nano-dev-kit
+release_date: null
+sku: jetson-orin-nano-dev-kit
+spec: null
+status: ''
+vendor: waveshare

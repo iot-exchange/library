@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 0.46 EUR
+  discountedPrice2: 0.41 EUR
+  price: 0.51 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/RFID-Tags/125/RFID125-KEY/images/thumbs/200x150/RFID-KEYFOB.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/RFID-Tags/125/RFID125-KEY/
+  repositories: []
+name: RFID125-KEY
+ref: olimex/rfid125-key
+release_date: null
+sku: rfid125-key
+spec: null
+status: ''
+vendor: olimex

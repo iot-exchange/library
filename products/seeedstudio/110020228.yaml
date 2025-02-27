@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "Grove Creator Kit \u0251 is perfect for whom want a cost-effective and\
+  \ beginner-friendly electronic learning kit. By 20 different functional Grove modules,\
+  \ along with simple Grove connections, the kit includes the full tutorial and provides\
+  \ a fine environment to learn electronics with Arduino and Raspberry Pi."
+extra:
+  Price: $46.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110020228-font.jpg
+  - https://www.seeedstudio.com/img/t
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-Creator-Kit-p-5453.html
+  - "https://www.seeedstudio.com/Grove-Creator-Kit-\u0251-p-110020228.html"
+  repositories: []
+name: '110020228'
+ref: seeedstudio/110020228
+release_date: null
+sku: '110020228'
+spec: null
+status: ''
+vendor: seeedstudio

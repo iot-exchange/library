@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "1.69inch Round LCD Display Module with Touch panel, Micro LCD Display,\
+  \ 240\xD7280 Resolution, IPS, SPI And I2C Communication, 262K Display Color"
+extra:
+  Price: $13.97 - $14.99
+  SKU: '27057'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.69inch-touch-lcd-module-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/1.69inch-touch-lcd-module.htm
+  repositories: []
+name: 1.69inch Touch LCD Module
+ref: waveshare/1-69inch-touch-lcd-module
+release_date: null
+sku: 1-69inch-touch-lcd-module
+spec: null
+status: ''
+vendor: waveshare

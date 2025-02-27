@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: GNSS ZOE Click is a evaluation board for ultra small ZOE-M8Q GNSS SiP
+  receiver from u-blox. It meets stringent requirements in versatile industrial and
+  consumer applications, such as UAVs, vehicles and assets tracking.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gnss-zoe-click/gnss-zoe-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/gnss-zoe-click
+  repositories: []
+name: MIKROE-3660
+ref: mikroe/mikroe-3660
+release_date: null
+sku: mikroe-3660
+spec: null
+status: ''
+vendor: mikroe

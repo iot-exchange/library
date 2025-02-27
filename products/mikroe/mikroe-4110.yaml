@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: DIGI POT 6 Click is a compact add-on board used as a digitally controlled
+  potentiometer. This board features the MCP41HV51, 8-bit dual power rails digital
+  potentiometer with SPI serial interface and volatile memory from Microchip.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/digi-pot-6-click/digi-pot-6-click-home_default-1.jpg?v=100
+  models: []
+  products: []
+  repositories: []
+name: MIKROE-4110
+ref: mikroe/mikroe-4110
+release_date: null
+sku: mikroe-4110
+spec: null
+status: ''
+vendor: mikroe

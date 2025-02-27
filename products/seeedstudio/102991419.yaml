@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: This version of the Raspberry Pi Compute Module 4 includes a high-performance
+  64-bit quad-core processor, 1GB LPDDR4 RAM, 8GB eMMC, dual-display support at resolutions
+  up to 4K, hardware video decode at up to 4Kp60, Gigabit Ethernet, USB 2.0, dual
+  camera interfaces, PCIe Gen 2 x1 interface, and dual-band 2.4/5.0GHz wireless LAN
+  and Bluetooth 5.0.
+extra:
+  Bluetooth: '5.0'
+  Processor: 64-bit quad-core
+  RAM: 1GB
+  Wi-Fi: 2.4/5.0GHz
+  eMMC: 8GB
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/s/k/sku102991376_0.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-Compute-Module-CM4101008-p-5850.html
+  repositories: []
+name: '102991419'
+ref: seeedstudio/102991419
+release_date: null
+sku: '102991419'
+spec: null
+status: ''
+vendor: seeedstudio

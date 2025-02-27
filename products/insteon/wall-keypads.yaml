@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Control multiple devices
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://images.squarespace-cdn.com/content/v1/53fce470e4b0374adfdd30bc/1417016339797-GUBOJWNXO7M0Q5QMOP21/keypads.png
+  models: []
+  products:
+  - https://www.insteon.com/wall-keypads
+  repositories: []
+name: wall-keypads
+ref: insteon/wall-keypads
+release_date: null
+sku: wall-keypads
+spec: null
+status: ''
+vendor: insteon

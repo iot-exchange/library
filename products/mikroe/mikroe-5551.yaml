@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: 'GNSS L-Band Active Antenna (LBAND01D-S6-00) is an active patch antenna
+  from Inpaq Technology, optimized for the GNSS L-Band. The antenna has a 3m cable
+  with SMA PLUG male connector on the end, allowing easy positioning. This is the
+  right product if you want a perfect active antenna for positioning and timing system
+  applications. NOTE: Order on Request...'
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gnss-l-band-active-antenna/gnss-l-band-active-antenna-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/gnss-l-band-active-antenna
+  repositories: []
+name: MIKROE-5551
+ref: mikroe/mikroe-5551
+release_date: null
+sku: mikroe-5551
+spec: null
+status: Unavailable
+vendor: mikroe

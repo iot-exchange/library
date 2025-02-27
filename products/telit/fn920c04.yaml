@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/02/FN920C04_dynamic_thumb-268x200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/fn920c04/
+  repositories: []
+name: FN920C04
+ref: telit/fn920c04
+release_date: null
+sku: fn920c04
+spec: null
+status: ''
+vendor: telit

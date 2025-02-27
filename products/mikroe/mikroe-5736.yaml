@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Thermo 30 Click is a compact add-on board that accurately measures temperature.\
+  \ This board features the STS32-DIS-10KS, a third-generation, high-reliability,\
+  \ certified digital temperature sensor from Sensirion. It is a digitally calibrated\
+  \ and ISO17025-certified temperature sensor with an operating temperature range\
+  \ of -40 to 125\xB0C. The temperature sensor..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thermo-30-click/thermo-30-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/thermo-30-click
+  repositories: []
+name: MIKROE-5736
+ref: mikroe/mikroe-5736
+release_date: null
+sku: mikroe-5736
+spec: null
+status: ''
+vendor: mikroe

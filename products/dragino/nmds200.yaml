@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: "NB-IoT Microwave Radar Distance Sensor24Ghz Microwave Radar detects\
+  \ two objects distanceReliable for condensation / dusty environmentMeasure Range:\
+  \ 0.5m ~ 20mAccuracy: \xB110cmHorizontal Angel: 78\xB0Vertical Angel: 23\xB0"
+extra:
+  Accuracy: "\xB110cm"
+  Horizontal Angle: "78\xB0"
+  Range: 0.5m ~ 20m
+  Technology: NB-IoT
+  Vertical Angle: "23\xB0"
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/0bfc0ce99892772fc285e10ee3943d9a_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/distance-level-sensor/item/248-nmds200.html
+  repositories: []
+name: NMDS200
+ref: dragino/nmds200
+release_date: null
+sku: nmds200
+spec: null
+status: ''
+vendor: dragino

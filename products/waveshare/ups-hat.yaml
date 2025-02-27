@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Uninterruptible Power Supply UPS HAT For Raspberry Pi, Stable 5V Power
+  Output
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/p/ups-hat-4_6.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ups-hat.htm
+  repositories: []
+name: ups_hat
+ref: waveshare/ups-hat
+release_date: null
+sku: ups-hat
+spec: null
+status: ''
+vendor: waveshare

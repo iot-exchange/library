@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Expected lifetime: '>10 years'
+  Production: active
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/WE-MCA_WCO#74889502450
+  repositories: []
+name: '74889502450'
+ref: we/74889502450
+release_date: null
+sku: '74889502450'
+spec: null
+status: Active
+vendor: we

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Connectors/FEMALE-2x13-STD/images/thumbs/200x150/2x13.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Connectors/FEMALE-2x13-STD/
+  repositories: []
+name: FEMALE-2x13-STD
+ref: olimex/female-2x13-std
+release_date: null
+sku: female-2x13-std
+spec: null
+status: ''
+vendor: olimex

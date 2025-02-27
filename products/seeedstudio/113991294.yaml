@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: reComputer R1000 is a powerful and flexible industry Raspberry Pi IoT
+  gateway & controller, CM4-powered, with AI capabilities. With 3*RS485, dual-ethernets,
+  BACnet, and Modbus support, equipped with all the necessary features that a robust
+  and reliable industrial edge IoT device needs. With compatibility with AI NPU accelerator,
+  it's a perfect fit for remote access control, especially BMS, BAS, and iBMS.
+extra:
+  RAM: 4GB
+  Storage: 16GB eMMC
+  eMMC: 16GB
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/113991294-2_1.jpeg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-2246.html?bazaar4_retailer-products%5Bpage%5D=2#113991294
+  - https://www.seeedstudio.com/reComputer-R1024-10-p-5923.html
+  repositories: []
+name: '113991294'
+ref: seeedstudio/113991294
+release_date: null
+sku: '113991294'
+spec: null
+status: ''
+vendor: seeedstudio

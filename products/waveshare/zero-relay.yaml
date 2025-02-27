@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Industrial 6-ch Relay Module for Raspberry Pi Zero, RS485/CAN, Isolated
+  Protections
+extra:
+  Multi Options: ''
+  Price: $37.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rpi-zero-relay-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rpi-zero-relay.htm "Industrial 6-ch Relay Module
+    for Raspberry Pi Zero, RS485/CAN, Isolated Protections"
+  - https://www.waveshare.com/product/rpi-zero-relay.htm
+  repositories: []
+name: zero_relay
+ref: waveshare/zero-relay
+release_date: null
+sku: zero-relay
+spec: null
+status: ''
+vendor: waveshare

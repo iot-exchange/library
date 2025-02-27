@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Serial Bus Servo Driver HAT, Integrates ESP32 and Servo Control Circuit,
+  Suitable for ST / RSBL Series Serial Bus Servos
+extra:
+  Price: $17.97 - $18.99
+  SKU: '27577'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/u/bus-servo-driver-hat-a-1_1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/u/bus-servo-driver-hat-a-2_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/bus-servo-driver-hat-a.htm
+  repositories: []
+name: Bus Servo Driver HAT (A)
+ref: waveshare/bus-servo-driver-hat-a
+release_date: null
+sku: bus-servo-driver-hat-a
+spec: null
+status: ''
+vendor: waveshare

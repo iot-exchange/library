@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "ZigBee Click is a compact add-on board that contains a fully integrated\
+  \ Zigbee transceiver with a 32-bit ARM\xAE Cortex M3TM microprocessor, Flash and\
+  \ RAM memory, and peripherals. This board features the ETRX357, 2.4 GHz Zigbee Radio\
+  \ module from Silicon Labs, which has been designed to be easily integrated and\
+  \ to provide a fast, simple, and low-cost wireless..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/zigbee-click/zigbee-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/cart?add=1&id_product=2826
+  - https://www.mikroe.com/zigbee-click
+  repositories: []
+name: MIKROE-4277
+ref: mikroe/mikroe-4277
+release_date: null
+sku: mikroe-4277
+spec: null
+status: ''
+vendor: mikroe

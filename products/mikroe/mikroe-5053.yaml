@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "H-Bridge MOSFET board represents a small-sized adapter board that allows\
+  \ you to connect all brushed DC motors (BDC) to a H-Bridge Driver Click board\u2122\
+  . This board consists of five 5.08mm pitch screw terminals, with four of them on\
+  \ the left side suitable for a target H-Bridge Driver Click board\u2122 connection\
+  \ with appropriate high and low side gate drive..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/h-bridge-mosfet-board/h-bridge-mosfet-board-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=67#H-Bridge-MOSFET-board
+  repositories: []
+name: MIKROE-5053
+ref: mikroe/mikroe-5053
+release_date: null
+sku: mikroe-5053
+spec: null
+status: ''
+vendor: mikroe

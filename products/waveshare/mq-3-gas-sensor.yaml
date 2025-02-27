@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: $4.39  -  $5.09
+extra:
+  Part No.: MQ-3 Gas Sensor
+  SKU: '9530'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/q/mq-3-gas-sensor_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/mq-3-gas-sensor.htm
+  repositories: []
+name: MQ-3 Gas Sensor
+ref: waveshare/mq-3-gas-sensor
+release_date: null
+sku: mq-3-gas-sensor
+spec: null
+status: ''
+vendor: waveshare

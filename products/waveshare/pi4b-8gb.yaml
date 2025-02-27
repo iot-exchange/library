@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi 4 Model B 8GB RAM, Completely Upgraded
+extra:
+  SKU: '18055'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4b-ram-8gb.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/raspberry-pi-4-model-b-8gb-ram.htm
+  repositories: []
+name: PI4B-8GB
+ref: waveshare/pi4b-8gb
+release_date: null
+sku: pi4b-8gb
+spec: null
+status: ''
+vendor: waveshare

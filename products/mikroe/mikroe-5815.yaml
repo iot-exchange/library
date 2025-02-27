@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: USB UART ISO Click is a compact add-on board that offers a completely
+  isolated differential pair of lines of the USB physical interface. This board features
+  the ISOUSB111, a full/low-speed isolated USB repeater from Texas Instruments. It
+  is a USB 2.0-compliant device that supports low-speed (1.5Mbps) and full-speed (12Mbps)
+  signaling, USB On-The-Go (OtG),...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/usb-uart-iso-click/usb-uart-iso-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/usb-uart-iso-click
+  repositories: []
+name: MIKROE-5815
+ref: mikroe/mikroe-5815
+release_date: null
+sku: mikroe-5815
+spec: null
+status: ''
+vendor: mikroe

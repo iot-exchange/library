@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC3230SF
+  repositories: []
+name: CC3230SF
+ref: ti/cc3230sf
+release_date: null
+sku: cc3230sf
+spec: null
+status: ''
+vendor: ti

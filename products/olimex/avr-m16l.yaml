@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/AVR/Header/AVR-M16L/images/thumbs/200x150/AVR-M16L-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/AVR/Header/AVR-M16L/
+  repositories: []
+name: AVR-M16L
+ref: olimex/avr-m16l
+release_date: null
+sku: avr-m16l
+spec: null
+status: ''
+vendor: olimex

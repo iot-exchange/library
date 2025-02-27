@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: NEW Radio Module 2.4 GHz without firmware
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o783101v214%20Single_OPHELIA-III_2611011022000.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/OPHELIA-III
+  repositories: []
+name: Ophelia-III
+ref: we/ophelia-iii
+release_date: null
+sku: ophelia-iii
+spec: null
+status: ''
+vendor: we

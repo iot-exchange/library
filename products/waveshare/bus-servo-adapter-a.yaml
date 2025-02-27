@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Serial Bus Servo Driver Board, Integrates Servo Power Supply And Control
+  Circuit, Applicable for ST/SC Series Serial Bus Servos
+extra:
+  Price: $4.99
+  SKU: '25514'
+  price: $4.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/u/bus-servo-adapter-a-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/u/bus-servo-adapter-a-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/bus-servo-adapter-a.htm
+  repositories: []
+name: Bus Servo Adapter (A)
+ref: waveshare/bus-servo-adapter-a
+release_date: null
+sku: bus-servo-adapter-a
+spec: null
+status: ''
+vendor: waveshare

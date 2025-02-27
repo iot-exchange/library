@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: A free tool that provides a unified development environment that includes
+  the SDK and industry-leading development tools.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/developer-tools/simplicity-studio
+  repositories: []
+name: Simplicity Studio
+ref: silicon-labs/simplicity-studio
+release_date: null
+sku: simplicity-studio
+spec: null
+status: ''
+vendor: silicon-labs

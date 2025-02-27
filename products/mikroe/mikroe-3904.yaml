@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: TFT Color Display with Touch Screen (4.3") is a color active matrix thin
+  film transistor(TFT) liquid crystal display (LCD).
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/43-tft-color-display-with-capacitive-touch-screen/43-tft-color-display-with-capacitive-touch-screen-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/43-tft-color-display-with-capacitive-touch-screen
+  repositories: []
+name: MIKROE-3904
+ref: mikroe/mikroe-3904
+release_date: null
+sku: mikroe-3904
+spec: null
+status: ''
+vendor: mikroe

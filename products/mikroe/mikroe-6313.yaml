@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Thermostat 6 Click is a compact add-on board designed for precise temperature
+  monitoring and automated control of external devices. This board features the MCP6022
+  rail-to-rail operational amplifier and the AZ9403-1C-5DE SPDT relay, ensuring reliable
+  temperature processing and powerful device control. It also features a connector
+  for integrating an NTC...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thermostat-6-click/thermostat-6-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/thermostat-6-click
+  repositories: []
+name: MIKROE-6313
+ref: mikroe/mikroe-6313
+release_date: null
+sku: mikroe-6313
+spec: null
+status: ''
+vendor: mikroe

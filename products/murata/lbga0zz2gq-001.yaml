@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Highly integrated single band GNSS module which supports BDS-3 and is
+  capable of tracking all global civil navigation systems in L1 band.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/products/connectivitymodule/gnss/overview/lineup/type2gq
+  repositories: []
+name: LBGA0ZZ2GQ-001
+ref: murata/lbga0zz2gq-001
+release_date: null
+sku: lbga0zz2gq-001
+spec: null
+status: ''
+vendor: murata

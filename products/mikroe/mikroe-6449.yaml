@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Hall Current 21 Click is a compact add-on board designed for precise\
+  \ current measurement across a wide frequency range, ideal for fast and accurate\
+  \ monitoring applications. This board features the ACS37030, a galvanically-isolated\
+  \ current sensor from Allegro Microsystems. It provides bidirectional current sensing\
+  \ with a range of \xB165A and a sensitivity of..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/hall-current-21-click/hall-current-21-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/hall-current-21-click
+  repositories: []
+name: MIKROE-6449
+ref: mikroe/mikroe-6449
+release_date: null
+sku: mikroe-6449
+spec: null
+status: ''
+vendor: mikroe

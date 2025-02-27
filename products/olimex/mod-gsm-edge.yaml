@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  bulkPrice: 63.96 EUR
+  discountedPrice: 71.96 EUR
+  price: 79.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/RF/MOD-GSM-EDGE/images/thumbs/200x150/MOD-GSM-EDGE-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/RF/MOD-GSM-EDGE/
+  repositories: []
+name: MOD-GSM-EDGE
+ref: olimex/mod-gsm-edge
+release_date: null
+sku: mod-gsm-edge
+spec: null
+status: ''
+vendor: olimex

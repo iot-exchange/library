@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: "ESP32-S3-EYE is a small-sized AI development board. It is based on the\
+  \ ESP32-S3 SoC and ESP-WHO, Espressif\u2019s AI development framework. It features\
+  \ a 2-Megapixel camera, an LCD display, and a microphone, which are used for image\
+  \ recognition and audio processing. ESP32-S3-EYE offers plenty of storage, with\
+  \ an 8 MB Octal PSRAM and a 8 MB flash. It also supports image transmission via\
+  \ Wi-Fi and debugging through a Micro-USB port."
+extra:
+  Flash / PSRAM: 8 MB Flash + 8 MB PSRAM
+  Getting Started: User Guide
+  Interfaces: USB
+  Related Products: ESP32-S3-WROOM-1
+  UI: Camera, LCD, Microphone, Buttons, TF card
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/dev-board/ESP32-S3-EYE_S.png
+  models: []
+  products:
+  - https://github.com/espressif/esp-who/blob/master/docs/en/get-started/ESP32-S3-EYE_Getting_Started_Guide.md
+  repositories: []
+name: ESP32-S3-EYE
+ref: espressif/esp32-s3-eye
+release_date: null
+sku: esp32-s3-eye
+spec: null
+status: ''
+vendor: espressif

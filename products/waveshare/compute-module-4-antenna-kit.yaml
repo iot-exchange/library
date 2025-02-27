@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Compute Module 4 Antenna Kit, Certified for Use with CM4
+  / CM5
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/compute-module-4-antenna-kit-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/compute-module-4-antenna-kit.htm
+  repositories: []
+name: Compute Module 4 Antenna Kit
+ref: waveshare/compute-module-4-antenna-kit
+release_date: null
+sku: compute-module-4-antenna-kit
+spec: null
+status: ''
+vendor: waveshare

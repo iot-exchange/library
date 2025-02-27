@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32-S2/ESP32-S2-Kaluga-1/images/thumbs/200x150/ESP32-S2-Kaluga-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/IoT/ESP32-S2/ESP32-S2-Kaluga-1/
+  repositories: []
+name: ESP32-S2-Kaluga-1
+ref: olimex/esp32-s2-kaluga-1
+release_date: null
+sku: esp32-s2-kaluga-1
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: VertexCom G3-PLC + RF Dual Mode processor with integrated sub-1GHz RF
+  Transceiver.
+extra:
+  Frequency Bands: 'ISM: 315, 433, 490, 868, 915, 920 MHz; Licensed: 230, 600, 839-847
+    MHz'
+  Int. LNA: Rx Sensitivity -109dBm/50 Kbps
+  Int. Power Amplifier: Tx Power +20 dBm
+  Max. Data Rate: 400 kbps
+  Modulation: OOK, (G)FSK, 4(G)FSK and GMSK
+  RF Channel Hopping: ''
+  Radio Frequency: IEEE 802.15.4g
+links:
+  datasheets: []
+  examples: []
+  images:
+  - http://www.vertexcom.com/images/Dual_Mode.png
+  models: []
+  products: []
+  repositories: []
+name: VC6312
+ref: vertexcom/vc6312
+release_date: null
+sku: vc6312
+spec: null
+status: ''
+vendor: vertexcom

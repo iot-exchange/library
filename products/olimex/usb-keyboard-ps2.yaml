@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/USB-Modules/USB-KEYBOARD-PS2/images/thumbs/200x150/PS2-USB-KEYBOARD2.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/USB-Modules/USB-KEYBOARD-PS2/
+  repositories: []
+name: USB-KEYBOARD-PS2
+ref: olimex/usb-keyboard-ps2
+release_date: null
+sku: usb-keyboard-ps2
+spec: null
+status: ''
+vendor: olimex

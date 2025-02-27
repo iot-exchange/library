@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: ESP32-S3 ETH Development Board, 10/100Mbps RJ45 Ethernet port, Wi-Fi
+  & Bluetooth Support, 240MHz Dual Core Processor, ESP32 Ethernet Development Board
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-eth-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/esp32-s3-eth.htm
+  - https://www.waveshare.com/product/esp32-s3-eth.htm "ESP32-S3 ETH Development Board,
+    10/100Mbps RJ45 Ethernet port, Wi-Fi & Bluetooth Support, 240MHz Dual Core Processor,
+    ESP32 Ethernet Development Board"
+  repositories: []
+name: ESP32-S3 ETH Development Board
+ref: waveshare/esp32-s3-eth-development-board
+release_date: null
+sku: esp32-s3-eth-development-board
+spec: null
+status: ''
+vendor: waveshare

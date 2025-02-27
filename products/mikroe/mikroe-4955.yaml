@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: MCP251863 Click is a compact add-on board representing a complete CAN
+  solution used as a control node in a CAN network. This board features the MCP251863,
+  an IC representing a compact solution with a CAN FD controller (MCP2518FD) and a
+  CAN transceiver in one package (ATA6563) from Microchip. A high-speed CAN transceiver
+  provides a physical connection with...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mcp251863-click/mcp251863-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=63#MCP251863-Click
+  repositories: []
+name: MIKROE-4955
+ref: mikroe/mikroe-4955
+release_date: null
+sku: mikroe-4955
+spec: null
+status: ''
+vendor: mikroe

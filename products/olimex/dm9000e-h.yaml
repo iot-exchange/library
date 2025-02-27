@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/Ethernet/DM9000E-H/images/thumbs/200x150/DM9000E-H-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/Ethernet/DM9000E-H/
+  repositories: []
+name: DM9000E-H
+ref: olimex/dm9000e-h
+release_date: null
+sku: dm9000e-h
+spec: null
+status: ''
+vendor: olimex

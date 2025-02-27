@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Smoke Chamber represents a piece of equipment specially designed by Analog
+  Devices that enables users to make smoke and aerosol detection applications as simple
+  as possible. It comes with a plastic stand circular shape of 11.5mm diameter and
+  attachable rivets or self-tapping screws for the chamber-board attachment so that
+  users can create a more positive...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/smoke-chamber/smoke-chamber-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/smoke-chamber
+  repositories: []
+name: MIKROE-5297
+ref: mikroe/mikroe-5297
+release_date: null
+sku: mikroe-5297
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Game HAT for Raspberry Pi
+extra:
+  Price: $43.59 - $44.99
+  SKU: '15154'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/a/game-hat-3_7.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/a/game-hat-package_3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/game-hat.htm
+  repositories: []
+name: Game HAT (EN)
+ref: waveshare/game-hat-en
+release_date: null
+sku: game-hat-en
+spec: null
+status: ''
+vendor: waveshare

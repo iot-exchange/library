@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Buck 15 Click is a compact add-on board for precision voltage regulation\
+  \ across various applications. This board features the TPS62903, a synchronous step-down\
+  \ DC/DC converter from Texas Instruments. It is known for its adaptability, rapid\
+  \ transient response, and high output voltage accuracy of \xB11.5% across all operating\
+  \ temperatures."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/buck-15-click/buck-15-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/buck-15-click
+  repositories: []
+name: MIKROE-6044
+ref: mikroe/mikroe-6044
+release_date: null
+sku: mikroe-6044
+spec: null
+status: ''
+vendor: mikroe

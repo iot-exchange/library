@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Smart DOF 2 Click is a compact add-on board with a highly advanced integrated
+  6-axis IMU measurement unit. This board features the LSM6DSV16XTR, a high-performance
+  6-axis IMU with sensor fusion, ASC, MLC, Qvar, and OIS/EIS paths from STMicroelectronics.
+  The IMU unit features an accelerometer and gyroscope that can be turned off independently
+  of each...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/smart-dof-2-click/smart-dof-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/smart-dof-2-click
+  repositories: []
+name: MIKROE-5672
+ref: mikroe/mikroe-5672
+release_date: null
+sku: mikroe-5672
+spec: null
+status: ''
+vendor: mikroe

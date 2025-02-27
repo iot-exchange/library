@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/StencilPrinters/SD-240-Raquel-18cm/images/thumbs/200x150/SD-240-raq.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/StencilPrinters/SD-240-Raquel-18cm/
+  repositories: []
+name: SD-240-Raquel-18cm
+ref: olimex/sd-240-raquel-18cm
+release_date: null
+sku: sd-240-raquel-18cm
+spec: null
+status: ''
+vendor: olimex

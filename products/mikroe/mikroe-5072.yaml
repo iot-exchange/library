@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Mikromedia 3 for PIC32MZ CAPACITIVE is not limited to multimedia-based
+  applications only. USB, digital motion sensor, battery charging functionality, SD
+  card reader and much more expands its capabilities.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-3-for-pic32mz-capacitive-fpi-with-bezel/mikromedia-3-for-pic32mz-capacitive-fpi-with-bezel-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/mikromedia-3-for-pic32mz-capacitive-fpi-with-bezel
+  repositories: []
+name: MIKROE-5072
+ref: mikroe/mikroe-5072
+release_date: null
+sku: mikroe-5072
+spec: null
+status: ''
+vendor: mikroe

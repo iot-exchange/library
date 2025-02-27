@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 'S-Light-01 ambient light sensor, or illuminance sensor, measures the
+  ambient illuminance. Each sensor is calibrated and offers excellent accuracy and
+  consistency. Applications are: scientific research, solar farms, greenhouse, weather
+  station etc.'
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/3/1/314990739_front-05.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/light-intensity-sensor-p-a-4863.html
+  repositories: []
+name: '314990739'
+ref: seeedstudio/314990739
+release_date: null
+sku: '314990739'
+spec: null
+status: ''
+vendor: seeedstudio

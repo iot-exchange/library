@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Wireless IoT gateway with Serial Port and LTE AWS Greengrass or Ezurio
+  Linux
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-10/IG60-SERIAL-LTE-FRONT-Angle1.png
+  models: []
+  products:
+  - https://www.ezurio.com/iot-devices/iot-gateways/sentrius-ig60-serial-and-ig60-serial-lte-wireless-iot-gateways
+  repositories: []
+name: IG60-SERIAL-LTE
+ref: ezurio/ig60-serial-lte
+release_date: null
+sku: ig60-serial-lte
+spec: null
+status: ''
+vendor: ezurio

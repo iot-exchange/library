@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: USB To TTL (UART) Communication Module
+extra:
+  Price: $5.65 - $5.99
+  SKU: '11324'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/t/ft232-usb-uart-board-micro-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ft232-usb-uart-board-micro.htm
+  repositories: []
+name: FT232 USB UART Board (micro)
+ref: waveshare/ft232-usb-uart-board-micro
+release_date: null
+sku: ft232-usb-uart-board-micro
+spec: null
+status: ''
+vendor: waveshare

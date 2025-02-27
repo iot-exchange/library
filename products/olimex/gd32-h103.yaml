@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 15.95 EUR
+  price2: 15.15 EUR
+  price3: 14.36 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/ST/STM32-H103/images/thumbs/200x150/STM32-H103-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/ST/GD32-H103/
+  repositories: []
+name: GD32-H103
+ref: olimex/gd32-h103
+release_date: null
+sku: gd32-h103
+spec: null
+status: ''
+vendor: olimex

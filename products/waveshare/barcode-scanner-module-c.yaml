@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: 2D Codes Scanner Module (C), Supports High Accuracy Barcode Scanning,
+  Barcode/QR code Reader
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/a/barcode-scanner-module-c-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/barcode-scanner-module-c.htm
+  repositories: []
+name: Barcode Scanner Module (C)
+ref: waveshare/barcode-scanner-module-c
+release_date: null
+sku: barcode-scanner-module-c
+spec: null
+status: ''
+vendor: waveshare

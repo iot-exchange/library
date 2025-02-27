@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Atmel-ICE Full Kit
+extra:
+  Price: $288.63 - $289.99
+  SKU: '11023'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/t/atmel-ice.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/atmel-ice.htm
+  repositories: []
+name: Atmel-ICE
+ref: waveshare/atmel-ice
+release_date: null
+sku: atmel-ice
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: UVA Click is a compact add-on board used to detect solar UV index. This
+  board features the GUVA-C32SM, an ultraviolet light sensor capable of measuring
+  UV index between 0 to 14 from GenUV. It contains the GaN-based chip die, amplifiers,
+  ADC, digital control logic, and I2C interface circuit to measure UVA volumes, working
+  in the spectral range of...
+extra:
+  discountedPrice: $14.50
+  originalPrice: $29.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/uva-click/uva-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/uva-click
+  repositories: []
+name: MIKROE-4911
+ref: mikroe/mikroe-4911
+release_date: null
+sku: mikroe-4911
+spec: null
+status: Reduced price!
+vendor: mikroe

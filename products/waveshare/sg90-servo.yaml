@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: SG90 Micro Servo
+extra:
+  Price: $1.39 - $1.69
+  SKU: '15286'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/g/sg90-servo-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/sg90-servo.htm
+  repositories: []
+name: SG90 Servo
+ref: waveshare/sg90-servo
+release_date: null
+sku: sg90-servo
+spec: null
+status: ''
+vendor: waveshare

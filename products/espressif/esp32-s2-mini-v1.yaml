@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: For flashing / testing ESP32-S2-MINI-1 / ESP32-S2-MINI-2 / ESP32-S3-MINI-1
+  modules (must be used with ESP-BAT32 for testing)
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/production_testing_guide_en.pdf
+  repositories: []
+name: ESP32-S2-MINI-V1
+ref: espressif/esp32-s2-mini-v1
+release_date: null
+sku: esp32-s2-mini-v1
+spec: null
+status: ''
+vendor: espressif

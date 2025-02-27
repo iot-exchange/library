@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Smart Buck 3 Click is a compact add-on board that contains a high-frequency
+  synchronous step-down DC-DC converter. This board features the TPS62366A, a processor
+  supply with I2C compatible interface and a remote sense from Texas Instruments.
+  As input, it uses voltages in the range of 2.5V up to 5.5V, including support for
+  common battery technologies. As...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/smart-buck-3-click/smart-buck-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/smart-buck-3-click
+  repositories: []
+name: MIKROE-5741
+ref: mikroe/mikroe-5741
+release_date: null
+sku: mikroe-5741
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 15.95 EUR
+  price2: 14.36 EUR
+  price3: 12.76 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/FPGA/iCE40/iCE40-DIO/images/thumbs/200x150/iCE40-DIO-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/FPGA/iCE40/iCE40-DIO/open-source-hardware
+  repositories: []
+name: iCE40-DIO
+ref: olimex/ice40-dio
+release_date: null
+sku: ice40-dio
+spec: null
+status: ''
+vendor: olimex

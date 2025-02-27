@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: HAPTIC 2 Click is a compact add-on board that contains a linear vibration
+  driver. This board features the LC898302AXA, a motor driver dedicated to LRA and
+  ERM applications from onsemi. Controlled by only one pin, it allows crisp vibration
+  thanks to automatic braking and over-driving feature and ignores the deviation of
+  resonance frequency thanks to...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/haptic-2-click/haptic-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/haptic-2-click
+  repositories: []
+name: MIKROE-4452
+ref: mikroe/mikroe-4452
+release_date: null
+sku: mikroe-4452
+spec: null
+status: ''
+vendor: mikroe

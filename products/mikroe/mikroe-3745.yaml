@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Terminal click is a mikroBUS\u2122 socket expansion board, which provides\
+  \ an easy and elegant solution for adding the external connection capability to\
+  \ the click board\u2122, plugged on a mikroBUS\u2122. Featuring stacking headers\
+  \ makes it easy way for expanding the connectivity of the development system with\
+  \ the mikroBUS\u2122, while keeping the bus free to use with any..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/terminal-click/terminal-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/terminal-click
+  repositories: []
+name: MIKROE-3745
+ref: mikroe/mikroe-3745
+release_date: null
+sku: mikroe-3745
+spec: null
+status: ''
+vendor: mikroe

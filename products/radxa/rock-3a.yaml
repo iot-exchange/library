@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: A Credit Card Sized SBC with Rich Interfaces
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/rock3/rock_3a/thumb_rock3a.webp
+  models: []
+  products:
+  - https://radxa.com/products/rock3/3a
+  repositories: []
+name: ROCK 3A
+ref: radxa/rock-3a
+release_date: null
+sku: rock-3a
+spec: null
+status: ''
+vendor: radxa

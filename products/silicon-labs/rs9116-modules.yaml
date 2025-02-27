@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: RS9116 Wi-Fi NCP Modules
+extra:
+  Application MCU: UART, SPI, SDIO, USB CDC
+  Frequency Bands: Dual Band (2.4/5), Single Band (2.4)
+  Key Peripherals: ''
+  Onboard IP Support: ''
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/wi-fi/rs9116-wi-fi-ncp-modules
+  repositories: []
+name: RS9116 Modules
+ref: silicon-labs/rs9116-modules
+release_date: null
+sku: rs9116-modules
+spec: null
+status: ''
+vendor: silicon-labs

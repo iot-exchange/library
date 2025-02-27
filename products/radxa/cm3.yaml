@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: A Feature Rich Embedded SoM
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/cm/cm3/thumb_cm3.webp
+  models: []
+  products:
+  - https://radxa.com/products/cm/cm3
+  repositories: []
+name: CM3
+ref: radxa/cm3
+release_date: null
+sku: cm3
+spec: null
+status: ''
+vendor: radxa

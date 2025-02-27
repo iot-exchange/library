@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: M.2 M KEY To A KEY Adapter, for PCIe Devices, Supports USB Conversion
+extra:
+  Price: $7.31 - $7.99
+  SKU: '20315'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/_/m.2-m-key-to-m.2-a-key-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/m.2-m-key-to-m.2-a-key.htm
+  repositories: []
+name: M.2 M KEY TO M.2 A KEY
+ref: waveshare/m-2-m-key-to-m-2-a-key
+release_date: null
+sku: m-2-m-key-to-m-2-a-key
+spec: null
+status: ''
+vendor: waveshare

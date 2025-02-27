@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Our new high-performance, secure microcontroller
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/e4b0bb5623cb3b72aab5d7ccf42c1d6c/3f4ea/ZqjqcB5LeNNTxmLK_2350productshot.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/rp2350/
+  repositories: []
+name: RP2350
+ref: raspberrypi/rp2350
+release_date: null
+sku: rp2350
+spec: null
+status: ''
+vendor: raspberrypi

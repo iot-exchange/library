@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://miromico.ch/en/products/details/miro-insight-lux
+  repositories: []
+name: miro Insight Lux
+ref: miromico/miro-insight-lux
+release_date: null
+sku: miro-insight-lux
+spec: null
+status: ''
+vendor: miromico

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/SLD-SPONGE/images/thumbs/200x150/sponge.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/Soldering/SLD-SPONGE/
+  repositories: []
+name: SLD-SPONGE
+ref: olimex/sld-sponge
+release_date: null
+sku: sld-sponge
+spec: null
+status: ''
+vendor: olimex

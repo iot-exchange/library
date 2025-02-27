@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: USB Micro B Female to USB-C Male Adapter, Suit for Raspberry Pi 4B
+extra:
+  Price: $1.15 - $1.49
+  SKU: '16922'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-micro-b-to-usb-c-adapter-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/usb-micro-b-to-usb-c-adapter.htm
+  - https://www.waveshare.com/product/usb-micro-b-to-usb-c-adapter.htm "USB Micro
+    B Female to USB-C Male Adapter, Suit for Raspberry Pi 4B"
+  repositories: []
+name: USB Micro-B to USB-C Adapter
+ref: waveshare/usb-micro-b-to-usb-c-adapter
+release_date: null
+sku: usb-micro-b-to-usb-c-adapter
+spec: null
+status: ''
+vendor: waveshare

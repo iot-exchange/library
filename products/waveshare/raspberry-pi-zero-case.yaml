@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Official Raspberry Pi Zero/Zero W Case
+extra:
+  Price: $4.65 - $4.99
+  SKU: '13571'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-zero-case-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/raspberry-pi-zero-case.htm
+  repositories: []
+name: Raspberry Pi Zero Case
+ref: waveshare/raspberry-pi-zero-case
+release_date: null
+sku: raspberry-pi-zero-case
+spec: null
+status: ''
+vendor: waveshare

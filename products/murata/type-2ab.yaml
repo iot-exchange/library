@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Type 2AB UWB module.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/products/connectivitymodule/ultra-wide-band/qorvo
+  repositories: []
+name: Type 2AB
+ref: murata/type-2ab
+release_date: null
+sku: type-2ab
+spec: null
+status: ''
+vendor: murata

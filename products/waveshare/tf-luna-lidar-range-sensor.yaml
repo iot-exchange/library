@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: TF-Luna Lidar Ranging Sensor, 8m Ranging Distance, Low Power & Compact
+  Size, Easy to integrate, Mini Laser ranging module, TOF Ranging Principle
+extra:
+  Price: $23.97 - $24.99
+  SKU: '24893'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/f/tf-luna-lidar-range-sensor-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/tf-luna-lidar-range-sensor.htm
+  repositories: []
+name: TF-Luna LiDAR Range Sensor
+ref: waveshare/tf-luna-lidar-range-sensor
+release_date: null
+sku: tf-luna-lidar-range-sensor
+spec: null
+status: ''
+vendor: waveshare

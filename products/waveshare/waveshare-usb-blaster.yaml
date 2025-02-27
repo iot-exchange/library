@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Waveshare USB Blaster Download Cable, compatible with ALTERA USB Blaster
+  FPGA/CPLD programmer, high-speed FT245+CPLD solution
+extra:
+  Price: $23.29 - $24.99
+  SKU: '3893'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-blaster-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/usb-blaster.htm
+  repositories: []
+name: Waveshare USB Blaster
+ref: waveshare/waveshare-usb-blaster
+release_date: null
+sku: waveshare-usb-blaster
+spec: null
+status: ''
+vendor: waveshare

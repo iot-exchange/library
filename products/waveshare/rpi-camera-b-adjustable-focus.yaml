@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: $14.97  -  $15.99
+extra:
+  Part No.: RPi Camera (B)
+  SKU: '8193'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rpi_camera_b_.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rpi-camera-b.htm
+  repositories: []
+name: RPi Camera (B), Adjustable-Focus
+ref: waveshare/rpi-camera-b-adjustable-focus
+release_date: null
+sku: rpi-camera-b-adjustable-focus
+spec: null
+status: ''
+vendor: waveshare

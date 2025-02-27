@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: 32-bit RISC-V MCU & 2.4 GHz Wi-Fi & Bluetooth 5 (LE)
+extra:
+  Core: Single Core
+  Development Board: N/A
+  Dimensions (mm): N/A
+  Flash (MB): N/A
+  Footprint: N/A
+  Footprint Link: ''
+  Module: ESP8684H2X, ESP8684H4X
+  PSRAM (MB): N/A
+  Pins: '14'
+  RAM/ROM (KB): 576 KB ROM, 272 KB SRAM (16 KB for cache)
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP8684_S_0.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp8684_datasheet_en.pdf
+  repositories: []
+name: ESP32-C2
+ref: espressif/esp32-c2
+release_date: null
+sku: esp32-c2
+spec: null
+status: ''
+vendor: espressif

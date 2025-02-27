@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: The Vela IF820 delivers Classic Bluetooth and migration to Bluetooth
+  LE with a single part.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/537x300/filters:fill(white)/filters:background_color(white)/2024-03/Vela%20IF820%20-%20Modules.png
+  models: []
+  products:
+  - https://www.ezurio.com/resources/blog/coming-soon-vela-if820-bluetooth-5-dual-mode-modules
+  repositories: []
+name: Vela IF820
+ref: ezurio/vela-if820
+release_date: null
+sku: vela-if820
+spec: null
+status: Coming Soon
+vendor: ezurio

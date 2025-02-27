@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: IPD 2 Click is a compact add-on board for efficient and reliable high-side
+  switching in automotive applications. This board features the BV2HD070EFU-C, an
+  automotive-grade two-channel high-side switch from ROHM Semiconductor with advanced
+  protection and diagnostic functionalities.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ipd-2-click/ipd-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ipd-2-click
+  repositories: []
+name: MIKROE-6314
+ref: mikroe/mikroe-6314
+release_date: null
+sku: mikroe-6314
+spec: null
+status: ''
+vendor: mikroe

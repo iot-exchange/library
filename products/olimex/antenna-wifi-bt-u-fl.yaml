@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/RF/ANTENNA-WIFI-BT-U.FL/images/thumbs/200x150/ANTENNA-WIFI-BT-U.FL.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/RF/ANTENNA-WIFI-BT-U-FL/
+  repositories: []
+name: ANTENNA-WIFI-BT-U-FL
+ref: olimex/antenna-wifi-bt-u-fl
+release_date: null
+sku: antenna-wifi-bt-u-fl
+spec: null
+status: ''
+vendor: olimex

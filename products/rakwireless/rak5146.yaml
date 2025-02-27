@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Gateway Concentrator Module for LoRaWAN, SX1303 LoRa Core (SPI or USB,
+  GPS, LBT). A mini-PCIe form factor module based on the Semtech SX1303 and SX126X.
+  This module transforms your IoT gateway by enabling Listen Before Talk (LBT) and
+  fine-time stamp functionalities.
+extra:
+  Core: Semtech SX1303/SX126X
+  Form Factor: mini-PCIe
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://res.rakwireless.com/tracked/products/concentrator-modules/product-wislink-concentrator-lorawan-rak5146@2x.png?fm=webp&w=650
+  models: []
+  products:
+  - https://store.rakwireless.com/products/wislink-concentrator-module-sx1303-rak5146-lorawan?_gl=1%2Arzrn0b%2A_ga%2AMTAxNDQxODg0OC4xNzEyNTU1MzQ4%2A_ga_9MEJ39NSTZ%2AMTcxNTA1MzA0NC4yNDMuMS4xNzE1MDUzMDU3LjQ3LjAuMA..&utm_campaign=RAKwireless&utm_medium=ConcentratorModulesforLoRaWAN&utm_source=ConcentratorModulesforLoRaWAN&variant=39677269409990??utm_source=ConcentratorModulesforLoRaWAN&utm_medium=ConcentratorModulesforLoRaWAN&utm_campaign=RAKwireless
+  repositories: []
+name: RAK5146
+ref: rakwireless/rak5146
+release_date: null
+sku: rak5146
+spec: null
+status: ''
+vendor: rakwireless

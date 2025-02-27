@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Seeed Studio XIAO RP2040 is compatible with the Raspberry Pi RP2040 ecosystem
+  as they share the same RP2040 chip. It supports multiple languages including C /
+  MicroPython / CircuitPython. This will be a great tool for you to get started with
+  MicroPython.
+extra:
+  price: $2.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/f/i/first_1_1.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/s/e/seeed_studio_xiao_starter_kit_-_all_seeed_studio_xiao_series_deve_after_1_.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Seeed-XIAO-Starter-Kit-p-5378.html
+  - https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
+  repositories: []
+name: '110010044'
+ref: seeedstudio/110010044
+release_date: null
+sku: '110010044'
+spec: null
+status: ''
+vendor: seeedstudio

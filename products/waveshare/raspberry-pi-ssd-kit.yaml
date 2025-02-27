@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Official Raspberry Pi SSD Kit, Includes 256GB / 512GB High-speed Solid
+  State Drive And Raspberry Pi M.2 HAT+, Complies With PCIe Gen 3 Standard, Suitable
+  For Raspberry Pi 5
+extra:
+  Multi Options: ''
+  Price: $44.99 - $64.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-ssd-kit-256gb-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-ssd-kit-256gb-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/raspberry-pi-ssd-kit.htm
+  repositories: []
+name: Raspberry Pi SSD Kit
+ref: waveshare/raspberry-pi-ssd-kit
+release_date: null
+sku: raspberry-pi-ssd-kit
+spec: null
+status: ''
+vendor: waveshare

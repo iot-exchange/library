@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/PCB/SMT-PROTOBOARD/images/thumbs/200x150/SMT-PROTOTYPE-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/PCB/SMT-PROTOBOARD/open-source-hardware
+  repositories: []
+name: SMT-PROTOBOARD
+ref: olimex/smt-protoboard
+release_date: null
+sku: smt-protoboard
+spec: null
+status: ''
+vendor: olimex

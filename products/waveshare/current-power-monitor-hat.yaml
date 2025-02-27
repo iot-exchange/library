@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 4-ch Current/Voltage/Power Monitor HAT for Raspberry Pi, I2C/SMBus
+extra:
+  Price: $18.63 - $19.99
+  SKU: '17539'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/u/current-power-monitor-hat-1_1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/u/current-power-monitor-hat-2_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/current-power-monitor-hat.htm
+  repositories: []
+name: Current/Power Monitor HAT
+ref: waveshare/current-power-monitor-hat
+release_date: null
+sku: current-power-monitor-hat
+spec: null
+status: ''
+vendor: waveshare

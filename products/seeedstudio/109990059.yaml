@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: 'Introduction: Classic Computing Shield provides all of the hardware
+  needed to recreate classic computing systems on the Papilio DUO'
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproduct109990059201.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Classic-Computing-Shield-V1-01.html
+  repositories: []
+name: '109990059'
+ref: seeedstudio/109990059
+release_date: null
+sku: '109990059'
+spec: null
+status: ''
+vendor: seeedstudio

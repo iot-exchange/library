@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: The Arduino Sensor Kit is a joint electronics starter kit from Seeed
+  and Arduino. It integrates 10 commonly used electronics modules on one PCB, so no
+  breadboard, no soldering, and even no wiring are required. The Arduino content team
+  has also prepared a step-by-step tutorial for this kit. All these features make
+  it an ideal Arduino starter kit for Steam education and online teaching.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991455_preview-07.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/Arduino-Sensor-Kit-Base-p-4743.html
+  repositories: []
+name: '103030375'
+ref: seeedstudio/103030375
+release_date: null
+sku: '103030375'
+spec: null
+status: ''
+vendor: seeedstudio

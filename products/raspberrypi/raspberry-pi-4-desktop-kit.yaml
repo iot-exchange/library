@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Full desktop computer kit - just connect to HDMI display(s)
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/edb980577a310edd205b5372efe9bc22/3f4ea/15c25bce-9820-4787-abe8-b6a9815a94c8_4B%2BDESKTOP%2BFEATURED.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/raspberry-pi-4-desktop-kit/
+  repositories: []
+name: Raspberry Pi 4 Desktop Kit
+ref: raspberrypi/raspberry-pi-4-desktop-kit
+release_date: null
+sku: raspberry-pi-4-desktop-kit
+spec: null
+status: ''
+vendor: raspberrypi

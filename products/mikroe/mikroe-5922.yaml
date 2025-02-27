@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LED Flash 3 Click is a compact add-on board representing a powerful flash/torch
+  solution. This board features the KTD2691, an inductor-less, single-flash LED driver
+  from Kinetic Technologies. It includes one current source that can drive up to 1.5A
+  of LED flash current or up to 376mA of torch current. No matter the mode used, it
+  allows you to control the...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/led-flash-3-click/led-flash-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/led-flash-3-click
+  repositories: []
+name: MIKROE-5922
+ref: mikroe/mikroe-5922
+release_date: null
+sku: mikroe-5922
+spec: null
+status: ''
+vendor: mikroe

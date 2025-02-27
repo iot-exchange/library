@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  bulkPrice: 5.36 EUR
+  discountedPrice: 5.65 EUR
+  price: 5.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/Ethernet/MOD-POE/images/thumbs/200x150/MOD-POE-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/Ethernet/MOD-POE/
+  repositories: []
+name: MOD-POE
+ref: olimex/mod-poe
+release_date: null
+sku: mod-poe
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "BLE TINY Click is a compact add-on board that provides BLE connectivity\
+  \ for any embedded application. This board features the DA14531MOD, SmartBond TINY\
+  \ module based on the world\u2019s smallest and lowest power Bluetooth 5.1 System-on-Chip\
+  \ (SoC) from Renesas. This Click board\u2122 is effectively future-proofed due to\
+  \ a combination of Bluetooth 5.1 compliance and..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ble-tiny-click/ble-tiny-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ble-tiny-click
+  repositories: []
+name: MIKROE-4582
+ref: mikroe/mikroe-4582
+release_date: null
+sku: mikroe-4582
+spec: null
+status: ''
+vendor: mikroe

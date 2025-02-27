@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: A590 is a 5G+C-V2X module that applicable to smart internet of vehicles.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.neoway.com/Uploads/Picture/2021/12/13/s61b6b25844b5a.jpg
+  models: []
+  products:
+  - https://www.neoway.com/products/wireless-communication/821.html
+  repositories: []
+name: A590
+ref: neoway/a590
+release_date: null
+sku: a590
+spec: null
+status: ''
+vendor: neoway

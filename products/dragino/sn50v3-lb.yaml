@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: Waterproof Long Range Wireless LoRa Sensor Node
+extra:
+  Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865
+  Battery: 8500mAh Li/SOCl2 Battery (SN50v3-LB), Solar panel + 3000mAh Li-ion battery
+    (SN50v3-LS)
+  Open-Source hardware/software: ''
+  Support Bluetooth: v5.1 and LoRaWAN remote configure
+  Support wireless OTA update firmware: ''
+  Ultra-low power consumption: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/665e3353c5a0a1298b58f0408e39e998_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lora-lorawan-end-node/item/260-sn50v3-lb-ls.html
+  repositories: []
+name: SN50v3-LB
+ref: dragino/sn50v3-lb
+release_date: null
+sku: sn50v3-lb
+spec: null
+status: ''
+vendor: dragino

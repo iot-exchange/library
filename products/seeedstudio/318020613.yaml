@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Fibreglass Long Range antenna with gain of 7dBi, frequency range 902-930MHz
+  and 92cm length.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/3/1/318020613_first-min_1.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/Lora-Fiberglass-Antenna-900-930MHz-7dBi-920mm-p-4926.html
+  repositories: []
+name: '318020613'
+ref: seeedstudio/318020613
+release_date: null
+sku: '318020613'
+spec: null
+status: ''
+vendor: seeedstudio

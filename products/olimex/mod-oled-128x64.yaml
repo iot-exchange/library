@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  bulkPrice: 5.56 EUR
+  discountedPrice: 6.26 EUR
+  price: 6.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/LCD/MOD-OLED-128x64/images/thumbs/200x150/MOD-OLED-128x64-3.JPG
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/LCD/MOD-OLED-128x64/open-source-hardware
+  repositories: []
+name: MOD-OLED-128x64
+ref: olimex/mod-oled-128x64
+release_date: null
+sku: mod-oled-128x64
+spec: null
+status: ''
+vendor: olimex

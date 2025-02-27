@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Protect and secure your Raspberry Pi 5 with Raspberry Pi Bumper
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/bumper/
+  repositories: []
+name: Raspberry Pi Bumper
+ref: raspberrypi/raspberry-pi-bumper
+release_date: null
+sku: raspberry-pi-bumper
+spec: null
+status: ''
+vendor: raspberrypi

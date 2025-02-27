@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: DC Motor 12 Click is a compact add-on board with a brushed DC motor driver.
+  This board features the TB9054FTG, a PWM-type, dual-channel, H-bridge, brushed DC
+  motor driver from Toshiba Semiconductor. The TB9054FTG is rated for an operating
+  voltage range from 4.5V to 28V, with the motor controlled directly through a PWM
+  signal or SPI serial interface. In...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dc-motor-12-click/dc-motor-12-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/dc-motor-12-click
+  repositories: []
+name: MIKROE-5374
+ref: mikroe/mikroe-5374
+release_date: null
+sku: mikroe-5374
+spec: null
+status: ''
+vendor: mikroe

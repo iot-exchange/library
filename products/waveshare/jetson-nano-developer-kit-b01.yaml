@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: NVIDIA Jetson Nano Developer Kit (B01), Upgraded 2-lanes CSI
+extra:
+  Price: $299.65 - $299.99
+  SKU: '17700'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-nano-developer-kit-b01-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/jetson-nano-developer-kit-b01.htm
+  repositories: []
+name: Jetson Nano Developer Kit (B01)
+ref: waveshare/jetson-nano-developer-kit-b01
+release_date: null
+sku: jetson-nano-developer-kit-b01
+spec: null
+status: Out of Stock
+vendor: waveshare

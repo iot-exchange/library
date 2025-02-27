@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: The ZG23 is an optimized low power, high performance, sub-GHz SoC that
+  provides up to 512 kB of Flash and 64 kB of RAM for Z-Wave Mesh and Z-Wave Long
+  Range.
+extra:
+  Ideal for: Smart home, hospitality, MDU & smart cities
+  Security: "Highest level of IoT security, Secure Vault\u2122"
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.silabs.com/content/siliconlabs/en/wireless/z-wave/800-series-modem-soc.thumb.256.144.png
+  models: []
+  products:
+  - https://www.silabs.com/wireless/z-wave/800-series-modem-soc
+  repositories: []
+name: EFR32ZG23
+ref: silicon-labs/efr32zg23
+release_date: null
+sku: efr32zg23
+spec: null
+status: ''
+vendor: silicon-labs

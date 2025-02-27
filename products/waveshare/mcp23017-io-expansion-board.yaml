@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: MCP23017 IO Expansion Board, Expands 16 I/O Pins
+extra:
+  SKU: '15391'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/c/mcp23017-io-expansion-board-4.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/c/mcp23017-io-expansion-board-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/mcp23017-io-expansion-board.htm
+  repositories: []
+name: MCP23017 IO Expansion Board
+ref: waveshare/mcp23017-io-expansion-board
+release_date: null
+sku: mcp23017-io-expansion-board
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: EV-Kit Tyhone-e
+extra:
+  Expected lifetime: '>10 years'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/THYONE-E#2612019021001
+  repositories: []
+name: '2612019021001'
+ref: we/2612019021001
+release_date: null
+sku: '2612019021001'
+spec: null
+status: New
+vendor: we

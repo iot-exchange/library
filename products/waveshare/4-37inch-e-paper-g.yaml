@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: "4.37inch E-Paper (G) raw display, 512 \xD7 368, Red/Yellow/Black/White"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/_/4.37inch-e-paper-g-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/4.37inch-e-paper-g.htm
+  repositories: []
+name: 4.37inch e-Paper (G)
+ref: waveshare/4-37inch-e-paper-g
+release_date: null
+sku: 4-37inch-e-paper-g
+spec: null
+status: ''
+vendor: waveshare

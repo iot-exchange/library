@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Wi-Fi 6 + Bluetooth Module
+extra:
+  Category: Professional Wi-Fi
+  Chipset: NXP IW611
+  Wi-Fi: Utility
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-03/Sona%20MT320%20Family%281%29.png
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/wifi-modules-bluetooth/sona-nx611-wifi-6-bluetooth-5-4-module
+  repositories: []
+name: "Sona\u2122 NX611"
+ref: ezurio/sonatm-nx611
+release_date: null
+sku: sonatm-nx611
+spec: null
+status: ''
+vendor: ezurio

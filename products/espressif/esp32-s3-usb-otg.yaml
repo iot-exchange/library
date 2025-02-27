@@ -1,0 +1,32 @@
+alternatives: []
+certifications: []
+description: ESP32-S3-USB-OTG is targeting at applications based on USB interface.
+  It is equipped with the ESP32-S3-MINI-1-N8 module. Combined with the Wi-Fi functionality
+  provided by the SoC, the USB interface can be used for video streaming over Wi-Fi,
+  accessing the Internet through a 4G hotspot, connecting to a wireless USB disk,
+  and many other applications.
+extra:
+  Demo Code: https://github.com/espressif/esp-dev-kits/tree/master/esp32-s3-usb-otg
+  Flash: 8 MB
+  Flash / PSRAM: 8 MB Flash embedded in chip
+  Getting Started: User Guide, Demo Code
+  Interfaces: USB Device, USB Host, SD Card
+  Related Products: ESP32-S3-MINI-1
+  UI: LCD Screen, LED, Button
+  User Guide: https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32s3/esp32-s3-usb-otg/index.html
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/dev-board/ESP32-S3-USB-OTG-1_S.png
+  models: []
+  products:
+  - https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32s3/esp32-s3-usb-otg/index.html
+  repositories: []
+name: ESP32-S3-USB-OTG
+ref: espressif/esp32-s3-usb-otg
+release_date: null
+sku: esp32-s3-usb-otg
+spec: null
+status: ''
+vendor: espressif

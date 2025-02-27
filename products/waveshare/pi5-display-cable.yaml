@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: DSI FPC Flexible Cable For Raspberry Pi 5, 22Pin To 15Pin, Options For
+  200 / 300 / 500mm
+extra:
+  Multi Options: ''
+  Price: $0.89 - $2.89
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-display-cable-200mm-1_3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pi5-display-cable.htm
+  repositories: []
+name: pi5_display_cable
+ref: waveshare/pi5-display-cable
+release_date: null
+sku: pi5-display-cable
+spec: null
+status: ''
+vendor: waveshare

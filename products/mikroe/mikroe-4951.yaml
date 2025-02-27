@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Terminal 2 Click is an adapter Click board\u2122 used as a mikroBUS\u2122\
+  \ socket expansion board. It provides an easy and elegant solution for adding the\
+  \ external connection capability to the Click board\u2122, plugged on a mikroBUS\u2122\
+  \ socket. Featuring two 9-position 2.54mm pitch terminal blocks makes it an easy\
+  \ way to expand the development system's connectivity with..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/terminal-2-click/terminal-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/terminal-2-click
+  repositories: []
+name: MIKROE-4951
+ref: mikroe/mikroe-4951
+release_date: null
+sku: mikroe-4951
+spec: null
+status: ''
+vendor: mikroe

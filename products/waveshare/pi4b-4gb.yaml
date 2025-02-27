@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi 4 Model B 4GB RAM, Completely Upgraded
+extra:
+  Price: $62.65 - $62.99
+  SKU: '16785'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4b-ram-4gb.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/raspberry-pi-4-model-b-4gb-ram.htm "Raspberry
+    Pi 4 Model B 4GB RAM, Completely Upgraded"
+  - https://www.waveshare.com/product/raspberry-pi-4-model-b-4gb-ram.htm
+  repositories: []
+name: PI4B-4GB
+ref: waveshare/pi4b-4gb
+release_date: null
+sku: pi4b-4gb
+spec: null
+status: ''
+vendor: waveshare

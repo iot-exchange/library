@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: KLAYERS USB TO RS232/485/TTL Interface Converter, Industrial Isolation
+extra:
+  Price: $48.97 - $49.99
+  SKU: '23826'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-rs232-485-ttl-kl-3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/usb-to-rs232-485-ttl-kl.htm
+  repositories: []
+name: USB TO RS232/485/TTL (KL)
+ref: waveshare/usb-to-rs232-485-ttl-kl
+release_date: null
+sku: usb-to-rs232-485-ttl-kl
+spec: null
+status: ''
+vendor: waveshare

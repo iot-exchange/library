@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: $11.09  -  $12.99
+extra:
+  Part No.: OV2640 Camera Board
+  SKU: '8532'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/v/ov2640-camera-board_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ov2640-camera-board.htm
+  repositories: []
+name: OV2640 Camera Board
+ref: waveshare/ov2640-camera-board
+release_date: null
+sku: ov2640-camera-board
+spec: null
+status: ''
+vendor: waveshare

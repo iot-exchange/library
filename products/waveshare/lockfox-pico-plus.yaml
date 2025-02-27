@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: LuckFox Pico Plus RV1103 Linux Micro Development Board, Integrates ARM
+  Cortex-A7/RISC-V MCU/NPU/ISP Processors, With Ethernet Port
+extra:
+  Multi Options: ''
+  Price: $9.99 -  $10.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/u/luckfox-pico-plus-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/luckfox-pico-plus.htm
+  repositories: []
+name: lockfox_pico_plus
+ref: waveshare/lockfox-pico-plus
+release_date: null
+sku: lockfox-pico-plus
+spec: null
+status: ''
+vendor: waveshare

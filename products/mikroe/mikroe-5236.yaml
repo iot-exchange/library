@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: "4G LTE 2 Click - Data is a compact add-on board providing a secure-cloud\
+  \ multi-band solution offering universal connectivity and reliable performance.\
+  \ This board features the u-blox LARA-R6001D, the world\u2019s smallest LTE Cat\
+  \ 1 module with global coverage and a built-in MQTT client, representing a data-only\
+  \ solution. Equipped with familiar AT commands set..."
+extra:
+  discountedPrice: $77.50
+  originalPrice: $155.00
+  specialDeal: 50% OFF
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/4g-lte-2-click-data/4g-lte-2-click-data-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/4g-lte-2-click-data "4G LTE 2 Click - Data"
+  repositories: []
+name: MIKROE-5236
+ref: mikroe/mikroe-5236
+release_date: null
+sku: mikroe-5236
+spec: null
+status: Reduced price!
+vendor: mikroe

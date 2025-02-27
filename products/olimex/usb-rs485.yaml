@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/USB-Modules/USB-RS485/images/thumbs/200x150/USB-RS485-2.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/USB-Modules/USB-RS485/
+  repositories: []
+name: USB-RS485
+ref: olimex/usb-rs485
+release_date: null
+sku: usb-rs485
+spec: null
+status: ''
+vendor: olimex

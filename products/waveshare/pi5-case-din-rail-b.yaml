@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: DIN rail ABS Case for Raspberry Pi 5, large inner space, injection moduling
+extra:
+  Price: $3.65 - $3.99
+  SKU: '26682'
+  price: $3.65 - $3.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-case-din-rail-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pi5-case-din-rail-b.htm
+  repositories: []
+name: PI5-CASE-DIN-RAIL-B
+ref: waveshare/pi5-case-din-rail-b
+release_date: null
+sku: pi5-case-din-rail-b
+spec: null
+status: ''
+vendor: waveshare

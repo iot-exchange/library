@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Industrial Grade Serial Server RS232/485 To WiFi and Ethernet, Modbus
+  Gateway, MQTT Gateway, Metal Case
+extra:
+  Multi Options: ''
+  Price: $29.99 -  $33.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs232-485-to-wifi-eth-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rs232-485-to-wifi-eth-b.htm
+  repositories: []
+name: rs232_485_to_wifi_eth_b
+ref: waveshare/rs232-485-to-wifi-eth-b
+release_date: null
+sku: rs232-485-to-wifi-eth-b
+spec: null
+status: ''
+vendor: waveshare

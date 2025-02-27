@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/Accessories/PC-MIC-3.5MM/images/thumbs/200x150/mic.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/Accessories/PC-MIC-3-5MM/
+  repositories: []
+name: PC-MIC-3-5MM
+ref: olimex/pc-mic-3-5mm
+release_date: null
+sku: pc-mic-3-5mm
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: New LoRaWAN + BLE Sensor Platform for Long Range IoT Applications
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/537x300/filters:fill(white)/filters:background_color(white)/2024-10/RS1xx-v3-web_01.png
+  models: []
+  products:
+  - https://www.ezurio.com/resources/blog/new-lorawan-ble-sensor-platform-long-range-iot-applications
+  repositories: []
+name: Sentrius RS1xx Series
+ref: ezurio/sentrius-rs1xx-series
+release_date: null
+sku: sentrius-rs1xx-series
+spec: null
+status: ''
+vendor: ezurio

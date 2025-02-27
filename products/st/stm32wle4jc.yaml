@@ -1,0 +1,42 @@
+alternatives: []
+certifications: []
+description: Sub-GHz Wireless Microcontrollers. Arm Cortex-M4 @48 MHz with 256 Kbytes
+  of Flash memory, 64 Kbytes of SRAM. (G)FSK, (G)MSK, BPSK modulations. AES 256-bit.
+  Multiprotocol System-on-Chip.
+extra:
+  Core: Arm Cortex-M4
+  Data Rate (kbps) max: '-'
+  Data Rate (kbps) min: '-'
+  Encryption: AES 256-bit
+  Flash Memory: 256 Kbytes
+  Frequency: 48 MHz
+  Grade: Industrial
+  Modulations: (G)FSK, (G)MSK, BPSK
+  "Operating Temperature (\xB0C) max": '105'
+  "Operating Temperature (\xB0C) min": '-40'
+  Operating Voltage (V) max: '3.6'
+  Operating Voltage (V) min: '1.8'
+  Output Power (dBm) max: '22'
+  Output Power (dBm) min: '-16'
+  Package: UFBGA 73 5x5x0.6 P 0.5 mm
+  RX current (mA) typ: '4.82'
+  RX sensitivity (dBm) typ: '-148'
+  SRAM: 64 Kbytes
+  "Standby Current (\xB5A) typ": '0.071'
+  TX current (mA) @ Max Output Power: '-'
+  Type: Multiprotocol System-on-Chip
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.st.com/en/microcontrollers-microprocessors/stm32wle4jc.html
+  repositories: []
+name: STM32WLE4JC
+ref: st/stm32wle4jc
+release_date: null
+sku: stm32wle4jc
+spec: null
+status: Active
+vendor: st

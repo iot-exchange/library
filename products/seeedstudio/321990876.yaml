@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: It is able to connect to an antenna for better coverage and connect to
+  SenseCAP M1 Indoor Gateway and SenseCAP ONE Outdoor Gateway for better data transmission.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.seeedstudio.com/img/z
+  models: []
+  products:
+  - https://www.seeedstudio.com/RF-Cable-N-Female-to-RP-SMA-Male-CFD400-Black-3m-p-321990876.html
+  repositories: []
+name: '321990876'
+ref: seeedstudio/321990876
+release_date: null
+sku: '321990876'
+spec: null
+status: ''
+vendor: seeedstudio

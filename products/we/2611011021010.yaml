@@ -1,0 +1,39 @@
+alternatives: []
+certifications: []
+description: Thetis-I USB radio stick
+extra:
+  ANTConn: internal antenna
+  Expected lifetime: '>10 years'
+  Frequency Range: 2402 - 2480
+  Frequency Range (MHz): 2402 - 2480
+  Output Power: '400'
+  "PTx, 50 \u2126(dBm)": "\u2013"
+  PTx, e.r.p.(dBm): "\u2013"
+  Product series: Thetis-I
+  Rb max.(kbps): '1000'
+  "Rxsens, 50 \u2126(dBm)": "\u2013"
+  Rxsens, e.r.p.(dBm): "\u2013"
+  Sensitivity: '-90'
+  VDD max.(V): "\u2013"
+  VDD min.(V): "\u2013"
+  dLoS(m): '315'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o346344v214%20Single_Thetis-I_2611011021010.jpg
+  - https://www.we-online.com/components/media/o169586v214%20Single_Thyone-I_%202611011021000%20.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/THETIS-I_MESH#2611011021010
+  - https://www.we-online.com/components/products/manual/2611011021010_Thetis-I 2611011021010
+    Manual_rev1.6.pdf
+  - https://www.we-online.com/en/components/products/THETIS-I#2611011021010
+  repositories: []
+name: '2611011021010'
+ref: we/2611011021010
+release_date: null
+sku: '2611011021010'
+spec: null
+status: Active
+vendor: we

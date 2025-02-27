@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "10.1inch Capacitive Touch LCD (F), 1024 \xD7 600, Toughened Glass, IPS\
+  \ Panel"
+extra:
+  Price: $67.27 - $69.99
+  SKU: '22520'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.1inch-capacitive-touch-lcd-f-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/10.1inch-capacitive-touch-lcd-f.htm
+  repositories: []
+name: 10.1inch Capacitive Touch LCD (F)
+ref: waveshare/10-1inch-capacitive-touch-lcd-f
+release_date: null
+sku: 10-1inch-capacitive-touch-lcd-f
+spec: null
+status: ''
+vendor: waveshare

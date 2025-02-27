@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: "14inch / 15.6inch / 18.5inch Dual-Screen Portable Monitor, Dual-1080p\
+  \ High Definition Foldable Screen, 100%sRGB, 178\xB0 Wide Viewing Angle, Built-in\
+  \ Gravity Sensor, Hi-Fi Speaker"
+extra:
+  Multi Options: ''
+  Price: $224.99 -  $279.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/5/15.6inch-dual-monitor-1.jpg
+  models: []
+  products:
+  - "https://www.waveshare.com/product/15.6inch-dual-monitor.htm \"14inch / 15.6inch\
+    \ / 18.5inch Dual-Screen Portable Monitor, Dual-1080p High Definition Foldable\
+    \ Screen, 100%sRGB, 178\xB0 Wide Viewing Angle, Built-in Gravity Sensor, Hi-Fi\
+    \ Speaker\""
+  repositories: []
+name: "14\u2033/15.6\u2033/18.5\u2033 Dual Monitor"
+ref: waveshare/14-15-6-18-5-dual-monitor
+release_date: null
+sku: 14-15-6-18-5-dual-monitor
+spec: null
+status: ''
+vendor: waveshare

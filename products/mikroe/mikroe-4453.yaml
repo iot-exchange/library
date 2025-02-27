@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: I2C MUX 5 Click is a compact add-on board with translating I2C and SMBus
+  switch intended for applications with I2C slave address conflicts. This board features
+  the LTC4306, a 4-channel, 2-wire bus multiplexer with bus buffers to provide capacitive
+  isolation between the upstream and downstream buses from Analog Devices. Through
+  software control, the...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/i2c-mux-5-click/i2c-mux-5-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/i2c-mux-5-click
+  repositories: []
+name: MIKROE-4453
+ref: mikroe/mikroe-4453
+release_date: null
+sku: mikroe-4453
+spec: null
+status: ''
+vendor: mikroe

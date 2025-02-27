@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: SiBRAIN is a standardized microcontroller add-on board, which allows
+  very simple installation and replacement of the microcontroller unit (MCU) on a
+  development board equipped with the SiBRAIN Card socket.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/sibrain-for-dspic33ep512mu814/sibrain-for-dspic33ep512mu814-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/mcu-card-13-for-stm32-stm32f101zg/mcu-card-13-for-stm32-stm32f101zg-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/mcu-card-13-for-stm32-stm32f101zg
+  - https://www.mikroe.com/sibrain-for-dspic33ep512mu814
+  repositories: []
+name: MIKROE-4659
+ref: mikroe/mikroe-4659
+release_date: null
+sku: mikroe-4659
+spec: null
+status: ''
+vendor: mikroe

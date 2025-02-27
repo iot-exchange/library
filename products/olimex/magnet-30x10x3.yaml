@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 1.44 EUR
+  discountedPrice2: 1.28 EUR
+  price: 1.60 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/MAGNET-30x10x3/images/thumbs/200x150/MAGNET-30x10x3.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/MAGNET-30x10x3/
+  repositories: []
+name: MAGNET-30x10x3
+ref: olimex/magnet-30x10x3
+release_date: null
+sku: magnet-30x10x3
+spec: null
+status: ''
+vendor: olimex

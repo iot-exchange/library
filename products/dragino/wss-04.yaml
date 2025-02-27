@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: RS485 Rain/Snow detect sensor Surface heating to dry grid electrode uses
+  Electroless Nickel/Immersion Gold design for resist corrosion
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/e9ad9fee9d0bc73e0b2c055eb0b268ce_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/agriculture-weather-station/item/217-wss-04.html
+  repositories: []
+name: WSS-04
+ref: dragino/wss-04
+release_date: null
+sku: wss-04
+spec: null
+status: ''
+vendor: dragino

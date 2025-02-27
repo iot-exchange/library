@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Solar Energy 2 Click is a compact add-on board that can recharge a battery
+  by harvesting the solar power of the Sun or by other means. This board features
+  the EM8500, a power management controller with an energy harvesting interface from
+  EM Microelectronic. The controller is specifically designed for efficient harvesting
+  over various DC sources such as...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/solar-energy-2-click/solar-energy-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/solar-energy-2-click
+  repositories: []
+name: MIKROE-5594
+ref: mikroe/mikroe-5594
+release_date: null
+sku: mikroe-5594
+spec: null
+status: ''
+vendor: mikroe

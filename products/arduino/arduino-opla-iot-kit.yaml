@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Includes the components needed to build amazing IoT projects.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.arduino.cc/wiki/static/a6a763f53b3fa1d69238a3d81b7857b1/4b190/opla-iot-kit.jpg
+  models: []
+  products:
+  - https://store.arduino.cc/products/arduino-opla-iot-kit
+  repositories: []
+name: "Arduino Opl\xE0 IoT Kit"
+ref: arduino/arduino-opla-iot-kit
+release_date: null
+sku: arduino-opla-iot-kit
+spec: null
+status: ''
+vendor: arduino

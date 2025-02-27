@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Original Global Shutter Camera Module, Supports C/CS mount
+  lenses, 1.6MP, High-speed Motion photography
+extra:
+  Price: $55.31  -  $55.99
+  SKU: '24385'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-global-shutter-camera-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/raspberry-pi-global-shutter-camera.htm
+  repositories: []
+name: Raspberry Pi Global Shutter Camera
+ref: waveshare/raspberry-pi-global-shutter-camera
+release_date: null
+sku: raspberry-pi-global-shutter-camera
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Accel 22 Click is a compact add-on board that contains an acceleration\
+  \ sensor. This board features the ADXL367, an ultra-low-power, high-performance\
+  \ three-axis accelerometer from Analog Devices. The ADXL367 allows selectable full-scale\
+  \ acceleration measurements in ranges of \xB12g, \xB14g, and \xB18g in three axes,\
+  \ with a resolution of 0.25 mg/LSB on the \xB12g..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/accel-22-click/accel-22-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/accel-22-click
+  repositories: []
+name: MIKROE-4896
+ref: mikroe/mikroe-4896
+release_date: null
+sku: mikroe-4896
+spec: null
+status: ''
+vendor: mikroe

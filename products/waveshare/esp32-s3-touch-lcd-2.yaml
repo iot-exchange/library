@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "ESP32-S3 2inch Capacitive Touch Display Development Board, 240\xD7320\
+  \ Pixels, IPS Panel, 32-bit LX7 Dual-core Processor, Supports WiFi & Bluetooth,\
+  \ Onboard Camera Interface, ESP32 With Display"
+extra:
+  Multi Options: ''
+  Price: $16.99 -  $21.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-2-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/esp32-s3-touch-lcd-2.htm
+  repositories: []
+name: ESP32-S3-Touch-LCD-2
+ref: waveshare/esp32-s3-touch-lcd-2
+release_date: null
+sku: esp32-s3-touch-lcd-2
+spec: null
+status: ''
+vendor: waveshare

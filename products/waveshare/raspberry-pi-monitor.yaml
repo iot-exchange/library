@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "Official Raspberry Pi 15.6inch Monitor, 1920\xD71080 Resolution, Standard\
+  \ HDMI Port, IPS, VESA Mounting Support, With Angle-adjustable Stand And Speakers"
+extra:
+  Multi Options: ''
+  Price: $129.99 -  $135.99
+  price: $129.99 -  $135.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-500-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-monitor-red-white-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/raspberry-pi-500.htm
+  - https://www.waveshare.com/product/raspberry-pi-monitor-red-white.htm
+  repositories: []
+name: Raspberry Pi Monitor
+ref: waveshare/raspberry-pi-monitor
+release_date: null
+sku: raspberry-pi-monitor
+spec: null
+status: ''
+vendor: waveshare

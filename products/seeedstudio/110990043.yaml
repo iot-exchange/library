@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: A great kit of 500 resistors with nicely organized
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductresk.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/RESK-Resistor-Kit-p-1484.html
+  repositories: []
+name: '110990043'
+ref: seeedstudio/110990043
+release_date: null
+sku: '110990043'
+spec: null
+status: ''
+vendor: seeedstudio

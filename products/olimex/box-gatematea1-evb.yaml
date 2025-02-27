@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/FPGA/GateMate/BOX-GateMateA1-EVB/images/thumbs/200x150/box-gatemate.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/FPGA/GateMate/BOX-GateMateA1-EVB/
+  repositories: []
+name: BOX-GateMateA1-EVB
+ref: olimex/box-gatematea1-evb
+release_date: null
+sku: box-gatematea1-evb
+spec: null
+status: ''
+vendor: olimex

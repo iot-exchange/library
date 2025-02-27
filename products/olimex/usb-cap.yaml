@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/USB-Modules/USB-CAP/images/thumbs/200x150/USB-CAP-2.png
+  models: []
+  products:
+  - https://www.olimex.com/Products/USB-Modules/USB-CAP/
+  repositories: []
+name: USB-CAP
+ref: olimex/usb-cap
+release_date: null
+sku: usb-cap
+spec: null
+status: ''
+vendor: olimex

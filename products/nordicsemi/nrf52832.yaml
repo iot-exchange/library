@@ -1,0 +1,45 @@
+alternatives: []
+certifications: []
+description: Versatile Bluetooth 5.4 SoC supporting Bluetooth Low Energy, Bluetooth
+  mesh and NFC.
+extra:
+  ADC: 12-bit
+  ADC, Comparator: 'Yes'
+  Arm CryptoCell: ''
+  Arm TrustZone: ''
+  CPU: 64 MHz Cortex-M4 with FPU
+  Flash: 512/256 KB
+  High-Speed SPI: ''
+  Interfaces: UART, SPI, TWI, PDM, I2S, PWM
+  NFC: NFC-A
+  Operating temperature: "-40 to 85 \xB0C"
+  PWM, PDM, I2S: 'Yes'
+  Packages: 6x6 mm QFN48 (32 GPIOs) 3.0x3.2 mm WLCSP50 (32 GPIOs)
+  QSPI: ''
+  RAM: 64/32 KB
+  Root-of-Trust: ''
+  Secure key storage: ''
+  Security: 128-bit AES
+  Supply voltage range: 1.7 to 3.6 V
+  TWI/SPI/UART: 2xTWI/SPI, SPI, 2xUART
+  TX Power: +4 dBm
+  UART, SPI, TWI, PDM, I2S, PWM: 'Yes'
+  USB: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52832-WLCSP-3.0--3.2-stacked_web.png?h=250&iar=0&mh=250&w=242&hash=6106C28940E4B5E0E43618E2B4FBCB86
+  - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52832-WLCSP-3.0--3.2-stacked_web.png?h=52&iar=0&mw=50&w=50&hash=BA89D526E187BA2A8CE3FE1D8C4DF2A1
+  - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52832-WLCSP-3.0--3.2-stacked_web.png?h=500&iar=0&mh=500&w=485&hash=44FFC6222E851F03EA6158F47F3216E1
+  models: []
+  products:
+  - https://www.nordicsemi.com/Products/nRF52832
+  repositories: []
+name: nRF52832
+ref: nordicsemi/nrf52832
+release_date: null
+sku: nrf52832
+spec: null
+status: ''
+vendor: nordicsemi

@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: CAN bus Module (B) for Raspberry Pi Pico, enabling long range communication
+  through SPI
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-can-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pico-can-b.htm
+  repositories: []
+name: Pico-CAN-B
+ref: waveshare/pico-can-b
+release_date: null
+sku: pico-can-b
+spec: null
+status: ''
+vendor: waveshare

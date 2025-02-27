@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Active Cooler is an official accessory designed for the
+  Raspberry Pi 5, providing an alternative cooling solution for sustained heavy load
+  usage without a case. It combines a large metal heatsink with a variable-speed blower,
+  powered and controlled via the fan connector.
+extra:
+  Features: Large metal heatsink, variable-speed blower
+  Function: Cooling solution for heavy load usage
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-106990428-27w-usb-c-power-supply-first.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993229-active-cooler-first.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-Active-Cooler-p-5813.html
+  repositories: []
+name: '114993229'
+ref: seeedstudio/114993229
+release_date: null
+sku: '114993229'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Accel 20 Click is a compact add-on board that contains an acceleration
+  sensor. This board features the KX134-1211, a digital output 3-axis accelerometer
+  optimized for machine condition monitoring from Rohm Semiconductor.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/accel-20-click/accel-20-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/accel-20-click
+  repositories: []
+name: MIKROE-4888
+ref: mikroe/mikroe-4888
+release_date: null
+sku: mikroe-4888
+spec: null
+status: ''
+vendor: mikroe

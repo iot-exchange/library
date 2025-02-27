@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Temp&Hum 16 Click is a compact add-on board that represents temperature\
+  \ and humidity sensing solutions. This board features the WSEN-HIDS (2525020210001),\
+  \ a MEMS-based capacitive humidity sensor with an integrated ASIC and I2C and SPI\
+  \ serial communication from W\xFCrth Elektronik. A silicon-based temperature sensor\
+  \ is also integrated within the same..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/temphum-16-click/temphum-16-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=81#Temp&Hum-16-Click
+  repositories: []
+name: MIKROE-4733
+ref: mikroe/mikroe-4733
+release_date: null
+sku: mikroe-4733
+spec: null
+status: ''
+vendor: mikroe

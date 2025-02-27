@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Pack of 5 pcs
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/BATHOLDER-2XAAA-SET/images/thumbs/200x150/BATHOLDER_2XAAA-removebg-preview.png
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/BATHOLDER-2XAAA-SET/
+  repositories: []
+name: BATHOLDER-2XAAA-SET
+ref: olimex/batholder-2xaaa-set
+release_date: null
+sku: batholder-2xaaa-set
+spec: null
+status: ''
+vendor: olimex

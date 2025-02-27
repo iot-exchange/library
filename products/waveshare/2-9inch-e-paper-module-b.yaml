@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "2.9inch E-Paper E-Ink Display Module (B), 296\xD7128, Red / Black /\
+  \ White, SPI"
+extra:
+  Price: $16.95 - $18.99
+  SKU: '13339'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.9inch-e-paper-module-b-1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/2.9inch-e-paper-module-b.htm
+  repositories: []
+name: 2.9inch e-Paper Module (B)
+ref: waveshare/2-9inch-e-paper-module-b
+release_date: null
+sku: 2-9inch-e-paper-module-b
+spec: null
+status: ''
+vendor: waveshare

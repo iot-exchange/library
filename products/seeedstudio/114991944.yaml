@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Micro USB to Type-C Adapter Adapter is designed to connect a Type-C device
+  with a standard Micro-USB cable for charging, sync, or data transfer. Now you can
+  easily connect your USB-C powered Raspberry Pi 4 to any charger or computer.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114991944-micro-usb-to-type-c-adapter-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Micro-USB-to-Type-C-Adapter-p-4091.html
+  repositories: []
+name: '114991944'
+ref: seeedstudio/114991944
+release_date: null
+sku: '114991944'
+spec: null
+status: ''
+vendor: seeedstudio

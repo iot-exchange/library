@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/GNSS-G020-00.html
+  repositories: []
+name: G020-00
+ref: fibocom/g020-00
+release_date: null
+sku: g020-00
+spec: null
+status: ''
+vendor: fibocom

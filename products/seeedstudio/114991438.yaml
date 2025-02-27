@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: This kit is the perfect solution for you to communicate with your vehicle's
+  OBD-II interface without visiting a mechanic. It includes a Serial CAN Bus module,
+  an OBD-II Connector, and other accessories to help you do all the diagnostics and
+  data logging with ease. We also provide a tutorial which is based on Arduino and
+  you can easily obtain data from your vehicle by following this tutorial.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2017-11bazaar619187_bazaar613020_img_4697aa.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/OBD-II-CAN-BUS-Development-Kit-p-2993.html
+  repositories: []
+name: '114991438'
+ref: seeedstudio/114991438
+release_date: null
+sku: '114991438'
+spec: null
+status: ''
+vendor: seeedstudio

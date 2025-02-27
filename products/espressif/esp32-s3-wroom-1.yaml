@@ -1,0 +1,38 @@
+alternatives: []
+certifications: []
+description: ESP32-S3-WROOM-1 is a powerful, generic Wi-Fi + Bluetooth LE MCU module
+  that has a Dual core CPU, a rich set of peripherals, and provides acceleration for
+  neural network computing and signal processing workloads. It is an ideal choice
+  for a wide variety of application scenarios related to AI + Internet of Things (AIoT),
+  such as wake word detection and speech commands recognition, face detection and
+  recognition, smart home, smart appliance, smart control panel, smart speaker etc.
+extra:
+  Antenna: PCB antenna
+  Chip Embedded: ESP32-S3, ESP32-S3R2, ESP32-S3R8
+  Development Board: '[ESP32-DevKitC](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-devkitc.html),
+    [ESP32-S3-DevKitC-1](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitc-1.html),
+    [ESP32-S3-BOX-3](https://github.com/espressif/esp-box), [ESP32-S3-BOX](https://github.com/espressif/esp-box),
+    [ESP32-S3-EYE](https://github.com/espressif/esp-who/blob/master/docs/en/get-started/ESP32-S3-EYE_Getting_Started_Guide.md),
+    [ESP32-S3-Korvo-1](https://github.com/espressif/esp-skainet/blob/master/docs/en/hw-reference/esp32s3/user-guide-korvo-1.md),
+    [ESP32-S3-Korvo-2](https://docs.espressif.com/projects/esp-adf/en/latest/design-guide/dev-boards/user-guide-esp32-s3-korvo-2-lcd.html),
+    [ESP32-S3-LCD-EV-Board](https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32s3/esp32-s3-lcd-ev-board/index.html)'
+  Dimensions (mm): "18\xD725.5\xD73.1"
+  Flash (MB): 4, 8, 16
+  PSRAM (MB): N/A
+  Pins: '41'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-S3-WROOM-1%20S_0.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+  repositories: []
+name: ESP32-S3-WROOM-1
+ref: espressif/esp32-s3-wroom-1
+release_date: null
+sku: esp32-s3-wroom-1
+spec: null
+status: ''
+vendor: espressif

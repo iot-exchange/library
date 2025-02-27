@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2023/12/ME910C1-module-Hero-266x200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/me910c1-series/
+  repositories: []
+name: ME910C1
+ref: telit/me910c1
+release_date: null
+sku: me910c1
+spec: null
+status: ''
+vendor: telit

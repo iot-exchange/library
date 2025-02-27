@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 'MDBT42Q is a BT 4.0, BT 4.1 and BT 4.2 stack (Bluetooth low energy or
+  BLE) module designed based on Nordic nRF52832 SoC solution, which incorporates:
+  GPIO, SPI, UART, I2C, I2S, PWM and ADC interfaces for connecting peripherals and
+  sensors.'
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedimg2016-11bx6z8xnu3aembambjp4xlczm.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/MDBT42Q-nRF52832-based-BLE-module.html
+  repositories: []
+name: '317030213'
+ref: seeedstudio/317030213
+release_date: null
+sku: '317030213'
+spec: null
+status: ''
+vendor: seeedstudio

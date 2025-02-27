@@ -1,0 +1,18 @@
+alternatives: []
+certifications: []
+description: Single-chip Wireless Audio and Data Streaming
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: MiGLO
+ref: nxp/miglo
+release_date: null
+sku: miglo
+spec: null
+status: ''
+vendor: nxp

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Regular price: $54.95
+  Sale price: $54.95
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Insteon_Smart_Dimmer_Module.png?v=1724707823&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/dimmer-module
+  repositories: []
+name: Dimmer Module
+ref: insteon/dimmer-module
+release_date: null
+sku: dimmer-module
+spec: null
+status: ''
+vendor: insteon

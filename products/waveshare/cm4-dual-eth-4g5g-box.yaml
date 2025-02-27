@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Dual Gigabit Ethernet 5G/4G Mini-Computer Based on Raspberry Pi Compute
+  Module 4 (NOT Included), Metal Case, with Cooling Fan
+extra:
+  Price: $69.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-dual-eth-4g-5g-box-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/cm4-dual-eth-4g-5g-box.htm "Dual Gigabit Ethernet
+    5G/4G Mini-Computer Based on Raspberry Pi Compute Module 4 (NOT Included), Metal
+    Case, with Cooling Fan"
+  - https://www.waveshare.com/product/cm4-dual-eth-4g-5g-box.htm
+  repositories: []
+name: cm4_dual_eth_4g5g_box
+ref: waveshare/cm4-dual-eth-4g5g-box
+release_date: null
+sku: cm4-dual-eth-4g5g-box
+spec: null
+status: ''
+vendor: waveshare

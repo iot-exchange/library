@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "RNG Click is a random number generator (RNG) is a device that generates\
+  \ a sequence of numbers or symbols that cannot be reasonably predicted better than\
+  \ by a random chance. This Click board\u2122 is true hardware random-number generator\
+  \ (HRNG), which generate genuinely random numbers. Random number generators have\
+  \ applications in gambling, statistical..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rng-click/rng-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/rng-click
+  repositories: []
+name: MIKROE-4090
+ref: mikroe/mikroe-4090
+release_date: null
+sku: mikroe-4090
+spec: null
+status: Unavailable
+vendor: mikroe

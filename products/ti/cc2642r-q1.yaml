@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC2642R-Q1
+  repositories: []
+name: CC2642R-Q1
+ref: ti/cc2642r-q1
+release_date: null
+sku: cc2642r-q1
+spec: null
+status: ''
+vendor: ti

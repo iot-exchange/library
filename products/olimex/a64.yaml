@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/IC/A64/images/thumbs/200x150/A64.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/IC/A64/
+  repositories: []
+name: A64
+ref: olimex/a64
+release_date: null
+sku: a64
+spec: null
+status: ''
+vendor: olimex

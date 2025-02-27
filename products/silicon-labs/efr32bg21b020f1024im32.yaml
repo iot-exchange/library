@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  BLE: 'Yes'
+  CSS: 'No'
+  FSK-Sub-GHz: 'No'
+  Flash: 1024 kB
+  For Battery Power: 'No'
+  Max TX Power: +20 dBm
+  Package Type: QFN32
+  RAM: 96 kB
+  Recommended Kit: EFR32xG21 Bluetooth Starter Kit
+  Secure Vault: 'Yes'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/bluetooth/efr32bg21-series-2-socs/device.efr32bg21b020f1024im32
+  - https://www.silabs.com/wireless/bluetooth/efr32bg21-series-2-socs/device.efr32bg21b020f1024im32?tab=specs
+  repositories: []
+name: EFR32BG21B020F1024IM32
+ref: silicon-labs/efr32bg21b020f1024im32
+release_date: null
+sku: efr32bg21b020f1024im32
+spec: null
+status: ''
+vendor: silicon-labs

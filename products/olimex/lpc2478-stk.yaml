@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 122.36 EUR
+  discountedPrice2: 108.76 EUR
+  price: 135.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC2478-STK/images/thumbs/200x150/LPC2478-STK-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/NXP/LPC2478-STK/
+  repositories: []
+name: LPC2478-STK
+ref: olimex/lpc2478-stk
+release_date: null
+sku: lpc2478-stk
+spec: null
+status: ''
+vendor: olimex

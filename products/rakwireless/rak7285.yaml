@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: The RAK7285 WisGate Edge Ultra, featuring full-duplex, facilitates simultaneous
+  data transmission and reception, reducing delays and increasing network capacity.
+  Its innovative cavity filter technology minimizes interference, while integrated
+  lightning protection ensures network resilience, making it ideal for sectors requiring
+  real-time data exchange.
+extra:
+  Applications: Suitable for a range of applications
+  Interference Minimization: Has cavity filter to minimize out-of-band interference
+  Lightning Protection: Comes with built-in lightning protection
+  Remote Management: Remote management with WisDM
+  Simultaneous Communication: Allows for simultaneous two-way communication
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://res.rakwireless.com/tracked/products/wisgate-edge/wisgate-edge-gateways-rak7285-updated.png?fm=webp
+  models: []
+  products:
+  - https://news.rakwireless.com/high-density-connectivity-with-the-wisgate-edge-ultra-a-full-duplex-lorawan-gateway
+  - https://store.rakwireless.com/products/wisgate-edge-ultra-full-duplex-the-ultimate-lora-gateway-for-iot-solutions-rak7285-rak7285c?m=3&h=wisgate-edge?utm_source=WisGate&utm_medium=WisGate&utm_campaign=RAKwireless
+  repositories: []
+name: RAK7285
+ref: rakwireless/rak7285
+release_date: null
+sku: rak7285
+spec: null
+status: ''
+vendor: rakwireless

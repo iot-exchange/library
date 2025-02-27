@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 16mm Telephoto Lens for Raspberry Pi High Quality Camera
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/6/16mm-telephoto-lens-for-pi-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/6/16mm-telephoto-lens-for-pi-5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/16mm-telephoto-lens-for-pi.htm "16mm Telephoto
+    Lens for Raspberry Pi High Quality Camera"
+  - https://www.waveshare.com/product/16mm-telephoto-lens-for-pi.htm
+  repositories: []
+name: 16mm Telephoto Lens for Pi
+ref: waveshare/16mm-telephoto-lens-for-pi
+release_date: null
+sku: 16mm-telephoto-lens-for-pi
+spec: null
+status: ''
+vendor: waveshare

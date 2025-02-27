@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "5inch Capacitive Touch Screen LCD (H) Slimmed-down Version, 800\xD7\
+  480, HDMI, Toughened Glass Panel, Low Power"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/o/touch-screen_22.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/i/5inch-hdmi-lcd-h-v4-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/5inch-hdmi-lcd-h-v4.htm
+  repositories: []
+name: 5inch HDMI LCD (H) V4
+ref: waveshare/5inch-hdmi-lcd-h-v4
+release_date: null
+sku: 5inch-hdmi-lcd-h-v4
+spec: null
+status: ''
+vendor: waveshare

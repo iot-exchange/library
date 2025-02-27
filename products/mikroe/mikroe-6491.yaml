@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "XBee 4 Click is a compact add-on board for reliable wireless communication\
+  \ in industrial and commercial applications. This board features the XBRR-24Z8,\
+  \ a Zigbee 3.0 module from DIGI International, featuring a Silicon Labs EFR32MG\
+  \ transceiver chipset for efficient data transmission. Operating at 2.4GHz, it supports\
+  \ Zigbee Mesh networking, Bluetooth\xAE Low..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/xbee-4-click/xbee-4-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/xbee-4-click
+  repositories: []
+name: MIKROE-6491
+ref: mikroe/mikroe-6491
+release_date: null
+sku: mikroe-6491
+spec: null
+status: ''
+vendor: mikroe

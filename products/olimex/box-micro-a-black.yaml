@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 11.40 EUR
+  discountedPrice2: 10.80 EUR
+  price: 12.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/BOXES/BOX-MICRO-A/images/thumbs/200x150/A20-MICRO-A-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/BOXES/BOX-MICRO-A-BLACK/
+  repositories: []
+name: BOX-MICRO-A-BLACK
+ref: olimex/box-micro-a-black
+release_date: null
+sku: box-micro-a-black
+spec: null
+status: ''
+vendor: olimex

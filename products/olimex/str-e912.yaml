@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 103.46 EUR
+  discountedPrice2: 91.96 EUR
+  price: 114.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/ST/STR-E912/images/thumbs/200x150/STR-E912-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/ST/STR-E912/
+  repositories: []
+name: STR-E912
+ref: olimex/str-e912
+release_date: null
+sku: str-e912
+spec: null
+status: ''
+vendor: olimex

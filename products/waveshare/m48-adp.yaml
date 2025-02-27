@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: M48+ ADP, Programmer Adapter
+extra:
+  Price: $47.99 - $50.99
+  SKU: '409'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/4/m48-adp_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/m48-adp.htm
+  repositories: []
+name: M48+ ADP
+ref: waveshare/m48-adp
+release_date: null
+sku: m48-adp
+spec: null
+status: ''
+vendor: waveshare

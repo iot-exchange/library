@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "AudioAmp 3 Click is a stereo audio amplifier, capable of delivering\
+  \ up to 79W per channel with the 4\u2126 load. It is based on the TAS5414, a class-D\
+  \ integrated amplifier, which utilizes a highly efficient switching scheme. Advanced\
+  \ EMI Suppression with Spread Spectrum Control allows using ferrite bead filters\
+  \ instead of bulky inductors, still maintaining the..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/audioamp-3-click/audioamp-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/audioamp-3-click "AudioAmp 3 Click"
+  repositories: []
+name: MIKROE-3901
+ref: mikroe/mikroe-3901
+release_date: null
+sku: mikroe-3901
+spec: null
+status: ''
+vendor: mikroe

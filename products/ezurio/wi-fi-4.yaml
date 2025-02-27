@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Higher throughput
+extra:
+  Maximum Link Rate: 600Mb/s
+  Use Case: Faster delivery of records and firmware updates.
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: Wi-Fi 4
+ref: ezurio/wi-fi-4
+release_date: null
+sku: wi-fi-4
+spec: null
+status: ''
+vendor: ezurio

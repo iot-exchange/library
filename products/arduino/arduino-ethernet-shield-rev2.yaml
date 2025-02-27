@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.arduino.cc/wiki/static/2d03e30d2e94ac99bfc9862619cfb727/4b190/ethernet-shield.jpg
+  models: []
+  products:
+  - https://store.arduino.cc/products/arduino-ethernet-shield-2
+  repositories: []
+name: Arduino Ethernet Shield Rev2
+ref: arduino/arduino-ethernet-shield-rev2
+release_date: null
+sku: arduino-ethernet-shield-rev2
+spec: null
+status: ''
+vendor: arduino

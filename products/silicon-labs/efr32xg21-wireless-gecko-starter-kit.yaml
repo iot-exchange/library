@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: The EFR32xG21 Wireless Gecko Starter Kit (SLWSTK6006A) includes everything
+  needed to enable developers to create a mesh network and evaluate the EFR32xG21A
+  with Secure Element and the EFR32xG21B with Secure Vault Series 2 Wireless Gecko
+  SoCs. This kit provides the common baseboard and comes with 6 xG21A modules (SLWRB418xA).
+  If you want to evaluate the EFR32xG21B you must buy the xG21B modules (SLWRB4181C
+  +10 dBm) separately.
+extra:
+  MSRP: $533.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/efr32xg21-wireless-gecko-starter-kit.jpg
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/efr32xg21-wireless-starter-kit
+  repositories: []
+name: EFR32xG21 Wireless Gecko Starter Kit
+ref: silicon-labs/efr32xg21-wireless-gecko-starter-kit
+release_date: null
+sku: efr32xg21-wireless-gecko-starter-kit
+spec: null
+status: ''
+vendor: silicon-labs

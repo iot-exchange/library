@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: The SuperCAP UPS LTC3350 Module is a high-efficiency, reliable power
+  backup solution specifically designed for the reComputer R1000 series to ensure
+  safe shutdowns. This module incorporates robust components and controllers to provide
+  seamless power continuity and protection for your systems.
+extra:
+  price: $24.90
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-110992004-supercap_ups_ltc3350_module-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/SuperCAP-UPS-LTC3350-Module-p-5934.html
+  repositories: []
+name: '110992004'
+ref: seeedstudio/110992004
+release_date: null
+sku: '110992004'
+spec: null
+status: ''
+vendor: seeedstudio

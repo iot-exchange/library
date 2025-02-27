@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "3D Hall 7 click is a very accurate, magnetic field sensing Click board\u2122\
+  , used to measure the intensity of the magnetic field across three perpendicular\
+  \ axes. It is equipped with the AK09970N, a high sensitivity 3D magnetic sensor\
+  \ IC, from AsahiKASEI. This IC has a separate Hall sensing element on each axis,\
+  \ which allows a very accurate and reliable..."
+extra:
+  Discounted Price: $13.00
+  Original Price: $20.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/3d-hall-7-click/3d-hall-7-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/3d-hall-7-click
+  repositories: []
+name: MIKROE-3629
+ref: mikroe/mikroe-3629
+release_date: null
+sku: mikroe-3629
+spec: null
+status: Reduced price!
+vendor: mikroe

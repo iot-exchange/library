@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: NVIDIA Jetson AGX Orin 32GB module deliver up to 200 TOPS of AI performance
+  with power configurable between 15W and 40W. This gives you more than 6X the performance
+  of Jetson AGX Xavier in the same compact form-factor for robotics and other autonomous
+  machine use cases.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/9/0/900-13701-0040-000-2t_1.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993389-aluminum-heatsink-with-fan-for-jetson-agx-orin-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/NVIDIA-Jetson-AGX-Orin-Module-32GB-p-5956.html
+  repositories: []
+name: '206001693'
+ref: seeedstudio/206001693
+release_date: null
+sku: '206001693'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 1.8inch colorful display module for micro:bit, 160x128
+extra:
+  Price: $19.29 - $19.99
+  SKU: '14718'
+  price: $19.29 - $19.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.8inch-lcd-for-micro-bit-4_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/1.8inch-lcd-for-micro-bit.htm
+  repositories: []
+name: 1.8inch LCD for micro:bit
+ref: waveshare/1-8inch-lcd-for-micro-bit
+release_date: null
+sku: 1-8inch-lcd-for-micro-bit
+spec: null
+status: ''
+vendor: waveshare

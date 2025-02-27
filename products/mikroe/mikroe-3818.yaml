@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "Secure SOIC Click is universal, socket based click board, specifically\
+  \ designed for the Microchip CryptoAuthentication\u2122 devices in an 8-pin SOIC\
+  \ package."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/secure-soic-click/secure-soic-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/secure-soic-click
+  repositories: []
+name: MIKROE-3818
+ref: mikroe/mikroe-3818
+release_date: null
+sku: mikroe-3818
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: ESP32-C3-LCDKit is a development board used for evaluating rotary knob
+  applications. The board consists of a mainboard and a subboard.
+extra:
+  Flash: 4 MB
+  Interfaces: I/O USB-C
+  Related Products: ESP32-C3-MINI-1
+  UI: LCD Screen, Speaker, LED, Buttons, EC11 rotary encoder, Infrared sensor
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://docs.espressif.com/projects/espressif-esp-dev-kits/zh_CN/latest/esp32c3/esp32-c3-lcdkit/index.html
+  repositories: []
+name: ESP32-C3-LCDKit
+ref: espressif/esp32-c3-lcdkit
+release_date: null
+sku: esp32-c3-lcdkit
+spec: null
+status: ''
+vendor: espressif

@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: ESP32-WROOM-DA is a powerful Wi-Fi + Bluetooth + Bluetooth LE MCU module,
+  which has the same layout of pins as ESP32-WROOM-32E, facilitating quick and easy
+  migration between these two modules.
+extra:
+  Antenna: Two complementary PCB antennas
+  Chip Embedded: ESP32-D0WD-V3
+  Development Board: ESP32-DevKitC
+  Dimensions (mm): 35.6x34.4x3.5
+  Flash (MB): 4,8,16
+  PSRAM (MB): N/A
+  Pins: '41'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp32-wroom-da_datasheet_en.pdf
+  repositories: []
+name: ESP32-WROOM-DA
+ref: espressif/esp32-wroom-da
+release_date: null
+sku: esp32-wroom-da
+spec: null
+status: End of Life
+vendor: espressif

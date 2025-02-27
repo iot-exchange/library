@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: SIM7600G-H 4G LTE Module HAT for Jetson Nano
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/s/i/sim7600g-h-4g-for-jetson-nano-1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/SIM7600G-H-4G-LTE-Module-HAT-for-Jetson-Nano-p-4495.html
+  repositories: []
+name: '113990838'
+ref: seeedstudio/113990838
+release_date: null
+sku: '113990838'
+spec: null
+status: ''
+vendor: seeedstudio

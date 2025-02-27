@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "Using the SOM as the Core of Your Device. This blog post is the first\
+  \ of a part in a series showcasing how Ezurio\u2019s 60 Series SOM serves as a versatile\
+  \ inclusion for your wireless or IoT design project."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/537x300/filters:fill(white)/filters:background_color(white)/2020-06/Barcode%20Scanner%20with%2060%20SOM.png
+  models: []
+  products:
+  - https://www.ezurio.com/resources/blog/60-som-configurations-using-som-core-your-device
+  repositories: []
+name: 60 SOM Configurations
+ref: ezurio/60-som-configurations
+release_date: null
+sku: 60-som-configurations
+spec: null
+status: ''
+vendor: ezurio

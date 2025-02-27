@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Smart Buck 4 Click is a compact add-on board that contains a high-frequency
+  synchronous step-down DC-DC converter. This board features the LTS3562, a quad synchronous
+  step-down DC-DC regulator from Analog Devices. It uses voltages in the range of
+  2.85V up to 5.5V as input. As output, the converter can scale voltage from 425mV
+  up to 3.755V in 25mV steps,...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/smart-buck-4-click/smart-buck-4-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/smart-buck-4-click
+  repositories: []
+name: MIKROE-5750
+ref: mikroe/mikroe-5750
+release_date: null
+sku: mikroe-5750
+spec: null
+status: ''
+vendor: mikroe

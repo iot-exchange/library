@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/PIC/Proto/PIC-P40-USB/images/thumbs/200x150/PIC-P40-USB-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/PIC/Proto/PIC-P40-USB/
+  repositories: []
+name: PIC-P40-USB
+ref: olimex/pic-p40-usb
+release_date: null
+sku: pic-p40-usb
+spec: null
+status: ''
+vendor: olimex

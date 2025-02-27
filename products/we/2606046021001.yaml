@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: Thalassa USB radio stick
+extra:
+  Antenna Type: chip antenna (integrated antenna)
+  Current Consumption: '500'
+  Data Rate: "\u2013"
+  Dimensions: 67.75 x 23.65 x 12
+  Expected lifetime: '>10 years'
+  Frequency Range: 2400 - 2483.5
+  Output Power: '100'
+  Production: active
+  Sensitivity: '-6'
+  Supply Voltage: "\u2013"
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/components/products/datasheet/2609031181000.pdf
+  repositories: []
+name: '2606046021001'
+ref: we/2606046021001
+release_date: null
+sku: '2606046021001'
+spec: null
+status: ''
+vendor: we

@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: Microcontroller with Zigbee, Proprietary
+extra:
+  Current Consumption: '103'
+  Frequency: Cortex-M0+
+  Memory: 256 + 512
+  Output Power: '4'
+  Package: 32/TQFN
+  RAM: '32'
+  Sensitivity: '-99'
+  Temperature Range: -40 to 125
+  Type: SoC
+  Voltage Range: 1.8 to 3.6
+  Wireless Protocols: Zigbee, Proprietary
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: '6.07'
+ref: microchip/6-07
+release_date: null
+sku: 6-07
+spec: null
+status: ''
+vendor: microchip

@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: The ESP8684-DevKitM-1 is an entry-level development board based on ESP8684-MINI-1
+  or ESP8684-MINI-1U. This board integrates complete Wi-Fi and Bluetooth LE functions.
+  Most of the I/O pins on the module are broken out to the pin headers on both sides
+  of this board for easy interfacing. Developers can either connect peripherals with
+  jumper wires or mount ESP8684-DevKitM-1 on a breadboard.
+extra:
+  Flash / PSRAM: 4 MB Flash
+  Interfaces: I/O USB
+  Related Products: ESP8684-MINI-1, ESP8684-MINI-1U
+  UI: Buttons, LEDs
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/dev-board/ESP8684-DevKitM-1_S.png
+  models: []
+  products:
+  - https://www.espressif.com/en/products/devkits/ESP8684-DevKitM-1
+  repositories: []
+name: ESP8684-DevKitM-1
+ref: espressif/esp8684-devkitm-1
+release_date: null
+sku: esp8684-devkitm-1
+spec: null
+status: ''
+vendor: espressif

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: TOF (time of flight) Mini Laser Range Sensor, UART / I2C Communication
+  Support, Long Range
+extra:
+  Price: $8.65  -  $8.99
+  SKU: '28761'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/o/tof-laser-range-sensor-mini-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/tof-laser-range-sensor-mini.htm
+  repositories: []
+name: TOF Laser Range Sensor Mini
+ref: waveshare/tof-laser-range-sensor-mini
+release_date: null
+sku: tof-laser-range-sensor-mini
+spec: null
+status: ''
+vendor: waveshare

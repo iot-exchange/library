@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Development Kit, LR1110, 490MHz for China and Asia
+extra:
+  Chipset: LR1110
+  Region: China & Asia
+  Type: DVK
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.semtech.com/products/wireless-rf/lora-edge/lr1110dvk1tgks
+  repositories: []
+name: LR1110DVK1TGKS
+ref: semtech/lr1110dvk1tgks
+release_date: null
+sku: lr1110dvk1tgks
+spec: null
+status: ''
+vendor: semtech

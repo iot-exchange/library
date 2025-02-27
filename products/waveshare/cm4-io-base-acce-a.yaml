@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: CM4-IO-BASE-A + USB HDMI Adapter, for Raspberry Pi Compute Module 4
+extra:
+  Price: $21.63 - $22.99
+  SKU: '20269'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-io-base-acce-a-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/cm4-io-base-acce-a.htm
+  repositories: []
+name: CM4-IO-BASE-Acce A
+ref: waveshare/cm4-io-base-acce-a
+release_date: null
+sku: cm4-io-base-acce-a
+spec: null
+status: ''
+vendor: waveshare

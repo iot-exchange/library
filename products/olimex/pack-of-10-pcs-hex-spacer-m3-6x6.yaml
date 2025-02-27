@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Fasteners/HEX-SPACER-M3-6X6/images/thumbs/200x150/HEX-spacer-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Fasteners/HEX-SPACER-M3-6X6/
+  repositories: []
+name: Pack of 10 pcs HEX-SPACER-M3-6X6
+ref: olimex/pack-of-10-pcs-hex-spacer-m3-6x6
+release_date: null
+sku: pack-of-10-pcs-hex-spacer-m3-6x6
+spec: null
+status: ''
+vendor: olimex

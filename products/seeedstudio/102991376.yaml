@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Compute Module 4 - 2GB RAM, 2.4/5.0GHz Wi-Fi & Bluetooth
+  5.0 (CM4102000) This version of the Raspberry Pi Compute Module 4 includes a high-performance
+  64-bit quad-core processor, 2GB LPDDR4 RAM, dual-display support at resolutions
+  up to 4K, hardware video decode at up to 4Kp60, Gigabit Ethernet, USB 2.0, dual
+  camera interfaces, PCIe Gen 2 x1 interface, and dual-band 2.4/5.0GHz wireless LAN
+  and Bluetooth 5.0.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991376_top.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-Compute-Module-CM4102000-p-4718.html
+  repositories: []
+name: '102991376'
+ref: seeedstudio/102991376
+release_date: null
+sku: '102991376'
+spec: null
+status: ''
+vendor: seeedstudio

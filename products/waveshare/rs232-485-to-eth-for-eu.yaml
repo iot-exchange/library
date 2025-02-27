@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Industrial RS232/RS485 to Ethernet Converter for EU
+extra:
+  Price: $38.31  -  $38.99
+  SKU: '16530'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs232485_to_eth_for_eu__2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rs232-485-to-eth-for-eu.htm
+  repositories: []
+name: RS232/485 TO ETH (for EU)
+ref: waveshare/rs232-485-to-eth-for-eu
+release_date: null
+sku: rs232-485-to-eth-for-eu
+spec: null
+status: ''
+vendor: waveshare

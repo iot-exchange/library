@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 'Americas (AT&T, T-Mobile, Verizon, Sprint, Planned: Semtech)'
+extra:
+  Bands: 'LTE: B2, B4, B5, B12, B13, B14, B25, B26, B66, B71'
+  Edge Processing: "\u2013"
+  Fallback: "\u2013"
+  Region (Carrier): 'Americas (AT&T, T-Mobile, Verizon, Sprint, Planned: Semtech)'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.sierrawireless.com/iot-modules/smart-modules/rc7611/
+  repositories: []
+name: RC7611
+ref: sierrawireless/rc7611
+release_date: null
+sku: rc7611
+spec: null
+status: ''
+vendor: sierrawireless

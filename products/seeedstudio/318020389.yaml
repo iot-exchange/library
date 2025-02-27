@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Long Range Antenna for devices from the E5 series with maximal gain of
+  2.6dBi and frequency of 902-928MHz
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/3/1/318020389_package-03_1.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/External-Antenna-915MHZ-2-6dBi-SMA-L195mm-p-5047.html
+  repositories: []
+name: '318020389'
+ref: seeedstudio/318020389
+release_date: null
+sku: '318020389'
+spec: null
+status: ''
+vendor: seeedstudio

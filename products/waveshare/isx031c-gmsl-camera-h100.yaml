@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ISX031 3MP GMSL Camera Module, IP67 Protection Degree, More Durable
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/s/isx031c-gmsl-camera-h100-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/isx031c-gmsl-camera-h100.htm
+  repositories: []
+name: ISX031C-GMSL-Camera-H100
+ref: waveshare/isx031c-gmsl-camera-h100
+release_date: null
+sku: isx031c-gmsl-camera-h100
+spec: null
+status: ''
+vendor: waveshare

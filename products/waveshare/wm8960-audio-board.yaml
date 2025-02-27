@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: WM8960 Stereo CODEC Audio Module, Play/Record
+extra:
+  Price: $10.97 - $11.99
+  SKU: '15019'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/m/wm8960-audio-board-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/m/wm8960-audio-board-3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/wm8960-audio-board.htm
+  repositories: []
+name: WM8960 Audio Board
+ref: waveshare/wm8960-audio-board
+release_date: null
+sku: wm8960-audio-board
+spec: null
+status: ''
+vendor: waveshare

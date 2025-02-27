@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: N-VIDIA Jetson Orin NX AI Development Module, System-on-Module, NANO
+  Size, Options for Memory
+extra:
+  Multi Options: ''
+  Price: $524.99 - $899.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-orin-nx-16gb-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/jetson-orin-nx.htm
+  repositories: []
+name: jetson_orin_nx
+ref: waveshare/jetson-orin-nx
+release_date: null
+sku: jetson-orin-nx
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Waveshare RP2350A USB Mini Development Board, Based On Raspberry Pi RP2350A
+  Dual-core & Dual-architecture Microcontroller, 150MHz Operating Frequency
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2350-usb-a-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rp2350-usb-a.htm
+  repositories: []
+name: RP2350-USB-A
+ref: waveshare/rp2350-usb-a
+release_date: null
+sku: rp2350-usb-a
+spec: null
+status: ''
+vendor: waveshare

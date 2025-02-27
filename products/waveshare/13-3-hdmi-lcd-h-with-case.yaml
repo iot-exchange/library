@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "13.3inch Capacitive Touch Screen LCD with Case, 1920\xD71080, HDMI,\
+  \ IPS, Various Systems Support"
+extra:
+  Price: $172.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/3/13.3hk-f.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/3/13.3hk-m.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/13.3inch-hdmi-lcd-h-with-case.htm
+  repositories: []
+name: "13.3\u2033 HDMI LCD (H) (with case)"
+ref: waveshare/13-3-hdmi-lcd-h-with-case
+release_date: null
+sku: 13-3-hdmi-lcd-h-with-case
+spec: null
+status: ''
+vendor: waveshare

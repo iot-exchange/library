@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "7.9inch Capacitive Touch Display for Raspberry Pi, 400\xD71280, IPS,\
+  \ DSI Interface"
+extra:
+  SKU: '22293'
+  price: $76.27 - $78.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/_/7.9inch-dsi-lcd-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/7.9inch-dsi-lcd.htm
+  repositories: []
+name: 7.9inch DSI LCD
+ref: waveshare/7-9inch-dsi-lcd
+release_date: null
+sku: 7-9inch-dsi-lcd
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Family EV-Board Thyone-I 2.4 GHz
+extra:
+  Expected lifetime: '>10 years'
+  Production: active
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/components/products/manual/2611149021001_Manual Family
+    Boards_rev1.5.pdf
+  - https://www.we-online.com/en/components/products/THYONE-I_MESH#2611149021001
+  - https://www.we-online.com/en/components/products/THYONE-I#2611149021001
+  repositories: []
+name: '2611149021001'
+ref: we/2611149021001
+release_date: null
+sku: '2611149021001'
+spec: null
+status: Active i
+vendor: we

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/IC/GL850G/images/thumbs/200x150/GL850.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/IC/GL850G/
+  repositories: []
+name: GL850G
+ref: olimex/gl850g
+release_date: null
+sku: gl850g
+spec: null
+status: ''
+vendor: olimex

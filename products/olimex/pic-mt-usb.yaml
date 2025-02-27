@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/PIC/Development/PIC-MT-USB/images/thumbs/200x150/PIC-MT-USB-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/PIC/Development/PIC-MT-USB/
+  repositories: []
+name: PIC-MT-USB
+ref: olimex/pic-mt-usb
+release_date: null
+sku: pic-mt-usb
+spec: null
+status: ''
+vendor: olimex

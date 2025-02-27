@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  bulkPrice: 17.96 EUR
+  discountedPrice: 18.95 EUR
+  price: 19.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/RFID/MOD-RFID1356-BOX/images/thumbs/200x150/MOD-RFID1356-BOX.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/RFID/MOD-RFID1356-BOX/
+  repositories: []
+name: MOD-RFID1356-BOX
+ref: olimex/mod-rfid1356-box
+release_date: null
+sku: mod-rfid1356-box
+spec: null
+status: ''
+vendor: olimex

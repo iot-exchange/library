@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: 1 pin dual-female jumper wire 100mm 50pcs pack
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductjw100n.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/1-pin-dual-female-jumper-wire-100mm-50pcs-pack-p-260.html
+  repositories: []
+name: '110990032'
+ref: seeedstudio/110990032
+release_date: null
+sku: '110990032'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/USB-Modules/USB-ISO-HS/images/thumbs/200x150/USB-ISO-HS-1w.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/USB-Modules/USB-ISO-HS/
+  repositories: []
+name: USB-ISO-HS
+ref: olimex/usb-iso-hs
+release_date: null
+sku: usb-iso-hs
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Nano GPS 3 Click is a compact add-on board that provides fast positioning
+  capabilities. This board features the ORG1511, a GPS/GNSS module with an integrated
+  antenna from OriginGPS.
+extra:
+  discountPercentage: 35%
+  discountedPrice: $38.35
+  originalPrice: $59.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/nano-gps-3-click/nano-gps-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/nano-gps-3-click
+  repositories: []
+name: MIKROE-5782
+ref: mikroe/mikroe-5782
+release_date: null
+sku: mikroe-5782
+spec: null
+status: Reduced price!
+vendor: mikroe

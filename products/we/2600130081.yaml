@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Hyperion-I 868 MHz
+extra:
+  Expected lifetime: '>10 years'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o152550v214%20Single_WIRL_ACCE_2600130041_Hyperion-ll.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/WIRL_ACCE_2600130081#2600130081
+  repositories: []
+name: '2600130081'
+ref: we/2600130081
+release_date: null
+sku: '2600130081'
+spec: null
+status: Active
+vendor: we

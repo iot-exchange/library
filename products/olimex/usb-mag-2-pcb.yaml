@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Cables/USB-MAG-2-PCB/images/thumbs/200x150/USB-MAG-2-PCB.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Cables/USB-MAG-2-PCB/
+  repositories: []
+name: USB-MAG-2-PCB
+ref: olimex/usb-mag-2-pcb
+release_date: null
+sku: usb-mag-2-pcb
+spec: null
+status: ''
+vendor: olimex

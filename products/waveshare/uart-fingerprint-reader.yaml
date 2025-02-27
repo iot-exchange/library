@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: UART Fingerprint Reader
+extra:
+  Price: $41.63 - $42.99
+  SKU: '8552'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/a/uart-fingerprint-reader_l_1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/uart-fingerprint-reader.htm
+  repositories: []
+name: UART Fingerprint Reader
+ref: waveshare/uart-fingerprint-reader
+release_date: null
+sku: uart-fingerprint-reader
+spec: null
+status: ''
+vendor: waveshare

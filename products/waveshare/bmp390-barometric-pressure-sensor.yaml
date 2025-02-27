@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: BMP390 High Precision Barometric Pressure Sensor, Barometric Pressure
+  / Altitude / Temperature Measuring
+extra:
+  SKU: '24658'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/m/bmp390-barometric-pressure-sensor-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/bmp390-barometric-pressure-sensor.htm
+  repositories: []
+name: BMP390 Barometric Pressure Sensor
+ref: waveshare/bmp390-barometric-pressure-sensor
+release_date: null
+sku: bmp390-barometric-pressure-sensor
+spec: null
+status: ''
+vendor: waveshare

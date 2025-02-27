@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: VisionFive2 RISC-V Single Board Computer, StarFive JH7110 Processor with
+  Integrated 3D GPU, base on Linux
+extra:
+  Price: $62.99 - $145.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/v/i/visionfive2-1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/visionfive2.htm
+  repositories: []
+name: visionfive
+ref: waveshare/visionfive
+release_date: null
+sku: visionfive
+spec: null
+status: ''
+vendor: waveshare

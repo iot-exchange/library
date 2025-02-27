@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LR 14 Click - 868MHz is a compact add-on board for low-power, long-range
+  wireless communication in IoT networks. This board features the RAK3172, a Class
+  A/B/C LoRaWAN 1.0.3-compliant module from RAKwireless Technology, featuring the
+  STM32WLE5CC ARM Cortex-M4 32-bit chip. This board supports LoRaWAN and LoRa Point-to-Point
+  communication modes and...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lr-14-click/lr-14-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/lr-14-click
+  repositories: []
+name: MIKROE-6303
+ref: mikroe/mikroe-6303
+release_date: null
+sku: mikroe-6303
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "2.8inch LCD Display Module with Touch panel, Embedded with ST7789T3\
+  \ Display Driver and CST328 Capacitive Touch Controller, TFT Display, 240\xD7320\
+  \ Resolution"
+extra:
+  SKU: '27579'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.8inch-capacitive-touch-lcd-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/2.8inch-capacitive-touch-lcd.htm
+  repositories: []
+name: 2.8inch Capacitive Touch LCD
+ref: waveshare/2-8inch-capacitive-touch-lcd
+release_date: null
+sku: 2-8inch-capacitive-touch-lcd
+spec: null
+status: ''
+vendor: waveshare

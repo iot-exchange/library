@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 'India, China (Planned: Semtech)'
+extra:
+  Bands: 'LTE: B1, B3, B5, B8, B40, B41*'
+  Edge Processing: "\u2713"
+  Fallback: 2G, 3G
+  Region (Carrier): 'India, China (Planned: Semtech)'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.sierrawireless.com/iot-modules/smart-modules/wp7608-1/
+  repositories: []
+name: WP7608-1
+ref: sierrawireless/wp7608-1
+release_date: null
+sku: wp7608-1
+spec: null
+status: ''
+vendor: sierrawireless

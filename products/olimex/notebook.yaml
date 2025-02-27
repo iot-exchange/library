@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Swag/NOTEBOOK/images/thumbs/200x150/notebook1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Swag/NOTEBOOK/
+  repositories: []
+name: NOTEBOOK
+ref: olimex/notebook
+release_date: null
+sku: notebook
+spec: null
+status: ''
+vendor: olimex

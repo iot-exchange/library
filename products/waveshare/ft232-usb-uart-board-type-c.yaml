@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: FT232 USB UART Board (Type C), USB To UART (TTL) Communication Module,
+  USB-C Connector
+extra:
+  Price: $5.65 - $5.99
+  SKU: '20646'
+  price: $5.65 - $5.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/t/ft232-usb-uart-board-type-c-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ft232-usb-uart-board-type-c.htm
+  repositories: []
+name: FT232 USB UART Board (Type C)
+ref: waveshare/ft232-usb-uart-board-type-c
+release_date: null
+sku: ft232-usb-uart-board-type-c
+spec: null
+status: ''
+vendor: waveshare

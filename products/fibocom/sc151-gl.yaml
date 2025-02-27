@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 5G smart module for global use with advanced processing capabilities
+  and seamless 5G connectivity.
+extra:
+  Bands: '5G Sub-6: n1/2/3/5/7/8/12/14/20/25/28/30/38/40/41/48/66/71'
+  Form Factor: LGA
+  Region: Global*
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/5GSmartModule-SC151-GL.html
+  repositories: []
+name: SC151-GL
+ref: fibocom/sc151-gl
+release_date: null
+sku: sc151-gl
+spec: null
+status: ''
+vendor: fibocom

@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "Mikromedia 5 CAPACITIVE shield is the perfect way to expand the functionalities\
+  \ of your mikromedia 5 CAPACITIVE with 4 mikroBUS\u2122 sockets - add any functionality\
+  \ from our ever-growing range of Click boards\u2122. We are fully stocked with everything\
+  \ from sensors and wifi transceivers to motor control and audio amplifiers. The\
+  \ board features 4 mikroBUS\u2122..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-5-capacitive-shield/mikromedia-5-capacitive-shield-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/mikromedia-5-capacitive-shield "Mikromedia 5 Capacitive
+    shield"
+  repositories: []
+name: MIKROE-3632
+ref: mikroe/mikroe-3632
+release_date: null
+sku: mikroe-3632
+spec: null
+status: ''
+vendor: mikroe

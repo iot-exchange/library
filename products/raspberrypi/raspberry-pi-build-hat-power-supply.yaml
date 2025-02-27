@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Power your Raspberry Pi Build HAT projects with the Raspberry Pi Build
+  HAT Power Supply
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/15c1f88b85fbf5d66f428fc8ecf97bf2/3f4ea/b447e3a3-102b-4b80-9d74-293035f38ed8_Power%2BSupply%2BHERO.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/build-hat-power-supply/
+  repositories: []
+name: Raspberry Pi Build HAT Power Supply
+ref: raspberrypi/raspberry-pi-build-hat-power-supply
+release_date: null
+sku: raspberry-pi-build-hat-power-supply
+spec: null
+status: ''
+vendor: raspberrypi

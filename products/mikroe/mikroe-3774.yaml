@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Secure 5 Click includes the ATECC508A, a secure CryptoAuthentication\u2122\
+  \ device from Microchip, which is equipped with an EEPROM array which can be used\
+  \ for storing of up to 16 keys, certificates, consumption logging, security configurations\
+  \ and other types of secure data. The ATECC508A equipped on this click board\u2122\
+  , supports the SWI interface with a..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/secure-5-click/secure-5-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=122#Secure-5-Click
+  repositories: []
+name: MIKROE-3774
+ref: mikroe/mikroe-3774
+release_date: null
+sku: mikroe-3774
+spec: null
+status: ''
+vendor: mikroe

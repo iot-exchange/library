@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Radxa mEdge-RK3588S
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/medge/medge-rk3588s/thumb_nx5.webp
+  models: []
+  products:
+  - https://radxa.com/products/medge/nx5
+  repositories: []
+name: NX5(mEdge-RK3588S)
+ref: radxa/nx5-medge-rk3588s
+release_date: null
+sku: nx5-medge-rk3588s
+spec: null
+status: ''
+vendor: radxa

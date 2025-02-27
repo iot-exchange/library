@@ -1,0 +1,53 @@
+alternatives: []
+certifications: []
+description: Wi-Fi and Bluetooth module for consumer and industrial equipment.
+extra:
+  Additional Info: ''
+  Bluetooth: 'Yes'
+  Certification: 'Yes'
+  Chip: CYW43455
+  Current Consumption: 420mA @ 11b (2.4GHz)
+  Dimensions: 7.9 x 7.3 x 1.1 mm
+  Enclosure: Shielded Resin
+  Frequency: 2.4GHz, 5GHz
+  I/O Voltage: 'Yes'
+  Interfaces: SDIO, UART, PCM/I2S
+  Manufacturer: Infineon
+  Market: Consumer
+  Material: Shielded Resin
+  Mounting Type: SMT
+  Operating Temperature: "-30\u2103 to 85\u2103"
+  Packaging: Tape and Reel
+  Power Consumption: 420mA @ 11b (2.4GHz), 370mA @ 11g (2.4GHz), 360mA @ 11n (2.4GHz),
+    330mA @ 11a (5GHz), 310mA @ 11n (5GHz), 340mA @ 11ac (5GHz)
+  Processor: 'No'
+  SDK: Linux,i.MX Yocto,MCUXpresso
+  Sleep Current: 130mA @ 433Mbps (5GHz)
+  Status: 'Yes'
+  Target Market: Consumer
+  Temperature Range: "-30\u2103 to 85\u2103"
+  Voltage: 1.8V,3.3V
+  Voltage Range: 1.8V,3.3V
+  Wi-Fi: 'Yes'
+  dimensions: 7.9 x 7.3 x 1.1 mm
+  idleCurrent: 130mA @ 433Mbps (5GHz)
+  interface: SDIO, UART, PCM/I2S
+  powerConsumption: 420mA @ 11b (2.4GHz), 370mA @ 11g (2.4GHz), 360mA @ 11n (2.4GHz),
+    330mA @ 11a (5GHz), 310mA @ 11n (5GHz), 340mA @ 11ac (5GHz)
+  processor: Linux,i.MX Yocto,MCUXpresso
+  temperatureRange: "-30\u2103 to 85\u2103"
+  voltage: 1.8V,3.3V
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: Type 1MW
+ref: murata/type-1mw
+release_date: null
+sku: type-1mw
+spec: null
+status: ''
+vendor: murata

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: "NEW WiFi & Bluetooth\xAE LE 2.4 GHz Radio Module"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o786825v214%20Single_Stephano-I_2617011025000.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/STEPHANO-I
+  repositories: []
+name: Stephano-I & EV-Kits
+ref: we/stephano-i-ev-kits
+release_date: null
+sku: stephano-i-ev-kits
+spec: null
+status: ''
+vendor: we

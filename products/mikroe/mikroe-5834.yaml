@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: DB9 Cable Female-to-Female (2m) cable excels in establishing secure serial
+  data connections. Its robust connectors ensure reliability, catering to networking,
+  console access, and serial peripherals. Combining durability with flexibility, it
+  accommodates various environments, from industrial applications to home setups,
+  making it an indispensable solution.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/db9-cable-female-to-female-2m/db9-cable-female-to-female-2m-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/db9-cable-female-to-female-2m
+  repositories: []
+name: MIKROE-5834
+ref: mikroe/mikroe-5834
+release_date: null
+sku: mikroe-5834
+spec: null
+status: ''
+vendor: mikroe

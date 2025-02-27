@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: UV Sensor
+extra:
+  Price: $7.89 - $8.99
+  SKU: '9537'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/v/uv-sensor_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/uv-sensor.htm
+  repositories: []
+name: UV Sensor
+ref: waveshare/uv-sensor
+release_date: null
+sku: uv-sensor
+spec: null
+status: ''
+vendor: waveshare

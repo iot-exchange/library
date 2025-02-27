@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/USB-Modules/USB-4SERIAL/images/thumbs/200x150/USB-4SERIAL-1w.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/USB-Modules/USB-4SERIAL/open-source-hardware
+  repositories: []
+name: USB-4SERIAL
+ref: olimex/usb-4serial
+release_date: null
+sku: usb-4serial
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LightRanger 7 Click is a compact add-on board capable of precise distance
+  measurement and motion tracking. This board features the AFBR-S50, a medium-range
+  3D multipixel Time-of-Flight (ToF) sensor from Broadcom.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lightranger-7-click/lightranger-7-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/nanobeacon-click/nanobeacon-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/cart?add=1&id_product=3718&ipa=598
+  - https://www.mikroe.com/lightranger-7-click
+  repositories: []
+name: MIKROE-5842
+ref: mikroe/mikroe-5842
+release_date: null
+sku: mikroe-5842
+spec: null
+status: ''
+vendor: mikroe

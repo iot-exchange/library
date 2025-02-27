@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 200x200, 1.54inch E-Ink raw display panel
+extra:
+  Price: $5.31 - $5.99
+  SKU: '12561'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.54inch-e-paper-4.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/1.54inch-e-paper.htm
+  repositories: []
+name: 1.54inch e-Paper
+ref: waveshare/1-54inch-e-paper
+release_date: null
+sku: 1-54inch-e-paper
+spec: null
+status: ''
+vendor: waveshare

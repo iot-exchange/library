@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Nixie Power Click is a booster Click board\u2122 designed to provide\
+  \ high voltage for powering Nixie Tube Shields. This board features the LM2577 step-up\
+  \ voltage regulator enabling a two-stage boost conversion from 5V to 150V. It also\
+  \ integrates a 16-bit I/O expander MCP23017 for precise Shields control via the\
+  \ I2C interface and ADDR SEL jumpers for easy I2C..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/nixie-power-click/nixie-power-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/nixie-power-click
+  repositories: []
+name: MIKROE-6496
+ref: mikroe/mikroe-6496
+release_date: null
+sku: mikroe-6496
+spec: null
+status: ''
+vendor: mikroe

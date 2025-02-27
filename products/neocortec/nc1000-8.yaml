@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: EU 868 MHz SRD, CE APPROVED
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://neocortec.com/wp-content/uploads/2019/04/nc1000.png
+  models: []
+  products:
+  - https://neocortec.com/the-neocortec-nc1000-8-wireless-mesh-network-module/
+  repositories: []
+name: NC1000-8
+ref: neocortec/nc1000-8
+release_date: null
+sku: nc1000-8
+spec: null
+status: ''
+vendor: neocortec

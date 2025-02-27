@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: An easy-to-deploy, industrial-grade 4G cellular station, Sensor Hub uses
+  the MODBUS-RTU RS485 protocol to communicate with sensors and is able to collect
+  various sensor data simultaneously. IP66-rated, waterproof and dustproof, Sensor
+  Hub 4G Data Logger is suitable for long-term, reliable outdoor applications such
+  as in smart agriculture, smart weather stations and smart city, etc.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/2/0/206001060_front-05.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/4G-Sensor-Hub-Global-DC-Only-p-4881.html
+  repositories: []
+name: '114992171'
+ref: seeedstudio/114992171
+release_date: null
+sku: '114992171'
+spec: null
+status: ''
+vendor: seeedstudio

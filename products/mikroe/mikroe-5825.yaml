@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: DAC 15 Click is a compact add-on board that provides a highly accurate
+  digital-to-analog conversion on two channels. This board features the DAC80502,
+  a dual 16-bit 1-LSB INL voltage-output DAC from Texas Instruments. The DAC operates
+  at a wide power supply range and is a low-power device with as low as 1mA per channel
+  at 5.5V.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dac-15-click/dac-15-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/dac-15-click
+  repositories: []
+name: MIKROE-5825
+ref: mikroe/mikroe-5825
+release_date: null
+sku: mikroe-5825
+spec: null
+status: ''
+vendor: mikroe

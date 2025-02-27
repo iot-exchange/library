@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: LoRaWAN Temperature & Humidity Sensor
+extra:
+  Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865
+  Battery: 8500mAh Li-SOCI2 battery or solar powered + Li-ion battery
+  Measure range: "-40\xB0C ~ 80\xB0C"
+  Support Bluetooth: v5.1 and LoRaWAN remote configure
+  Support wireless OTA update firmware: ''
+  Temperature & Humidity alarm: ''
+  Ultra-low power consumption: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/fd57315048b2a0e2ee02ed04b0927842_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/temperature-humidity-sensor/item/265-s31b-lb-ls.html
+  repositories: []
+name: S31B-LB
+ref: dragino/s31b-lb
+release_date: null
+sku: s31b-lb
+spec: null
+status: ''
+vendor: dragino

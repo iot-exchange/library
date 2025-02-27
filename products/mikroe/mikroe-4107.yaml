@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "The CAN FD 4 Click is a Click board\u2122 that features the NCV7344D10R2G,\
+  \ a Controller Area Network (CAN) transceiver, from onsemi. This Click board\u2122\
+  \ provides differential transmit capability to the bus and differential receive\
+  \ capability to the CAN controller. The CAN FD 4 click can be used for various applications\
+  \ such as automotive and industrial..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/can-fd-4-click/can-fd-4-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/can-fd-4-click
+  repositories: []
+name: MIKROE-4107
+ref: mikroe/mikroe-4107
+release_date: null
+sku: mikroe-4107
+spec: null
+status: ''
+vendor: mikroe

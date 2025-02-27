@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/RaspberryPi/PICO/RP2040-PICO-W/images/thumbs/200x150/RP2040-PICO-W-HDRw.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/RaspberryPi/PICO/RP2040-PICO-W/
+  repositories: []
+name: RP2040-PICO-W
+ref: olimex/rp2040-pico-w
+release_date: null
+sku: rp2040-pico-w
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Ambient 16 Click is a compact add-on board used to measure the amount
+  of the present ambient light. This board features the BH1726NUC, a 16-bit digital-output
+  ambient light sensor with an I2C interface from Rohm Semiconductor. The BH1726NUC
+  can detect a wide range of illuminance up to 30klx and provides excellent responsivity
+  close to the human eyes.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ambient-16-click/ambient-16-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ambient-16-click
+  repositories: []
+name: MIKROE-4933
+ref: mikroe/mikroe-4933
+release_date: null
+sku: mikroe-4933
+spec: null
+status: ''
+vendor: mikroe

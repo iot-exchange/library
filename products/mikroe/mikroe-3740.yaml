@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Button Power Click is a very interesting interactive gadget on a Click\
+  \ board\u2122. It is an integrated capacitive touch sensor display in the form of\
+  \ a button. By utilizing an advanced capacitive touch sensing technology, the CTHS15CIC05ONOFF\
+  \ sensor can successfully replace the traditional mechanical button, allowing very\
+  \ simplified yet reliable user..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/button-power-click/button-power-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/button-power-click
+  repositories: []
+name: MIKROE-3740
+ref: mikroe/mikroe-3740
+release_date: null
+sku: mikroe-3740
+spec: null
+status: ''
+vendor: mikroe

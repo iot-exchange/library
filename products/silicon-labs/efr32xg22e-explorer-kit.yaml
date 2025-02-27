@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: The EFR32xG22E Explorer Kit is an ultra-low-cost, small form factor development
+  and evaluation platform focused on rapid prototyping and concept creation of Bluetooth
+  LE IoT applications.
+extra:
+  MSRP: $20.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/multiprotocol/xg22-ek2710a-explorer-kit.png
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/efr32xg22e-explorer-kit
+  repositories: []
+name: EFR32xG22E Explorer Kit
+ref: silicon-labs/efr32xg22e-explorer-kit
+release_date: null
+sku: efr32xg22e-explorer-kit
+spec: null
+status: ''
+vendor: silicon-labs

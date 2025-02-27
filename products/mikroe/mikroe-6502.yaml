@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Nickel-plated Brass NTC Thermistor Probe, the A1004BT22P0 thermistor
+  from TE Connectivity, is a reliable temperature sensor designed for HVAC/R and surface
+  sensing applications. The A1004BT22P0 combines precision with durability in a nickel-plated
+  brass package. This probe features a 22 AWG zipcord wire with an open-end connection,
+  a 3048mm (120-inch)...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/nickel-plated-brass-ntc-thermistor-probe/nickel-plated-brass-ntc-thermistor-probe-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/nickel-plated-brass-ntc-thermistor-probe
+  repositories: []
+name: MIKROE-6502
+ref: mikroe/mikroe-6502
+release_date: null
+sku: mikroe-6502
+spec: null
+status: ''
+vendor: mikroe

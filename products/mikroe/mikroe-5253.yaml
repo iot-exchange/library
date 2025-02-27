@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: USB 3.1 Type C Female to USB 3.0 A Male Data Adapter converts the USB-C
+  head data into the ordinary USB 3.0 data cable, representing at the same time the
+  new USB 3.1 design that supports charging and data transfer features.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/usb-31-type-c-female-to-usb-30-a-male-data-adapter/usb-31-type-c-female-to-usb-30-a-male-data-adapter-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/usb-31-type-c-female-to-usb-30-a-male-data-adapter
+  repositories: []
+name: MIKROE-5253
+ref: mikroe/mikroe-5253
+release_date: null
+sku: mikroe-5253
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Proximity 18 Click is a compact add-on board that provides a close-range
+  proximity sensing solution. This board features the VCNL3036X01, a high-resolution
+  digital proximity sensor from Vishay Semiconductors. Besides the proximity sensing
+  element, the VCNL3036X01 also integrates a mux and a driver for three external LEDs,
+  which are located near the chip...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/proximity-18-click/proximity-18-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/proximity-18-click "Proximity 18 Click"
+  repositories: []
+name: MIKROE-5300
+ref: mikroe/mikroe-5300
+release_date: null
+sku: mikroe-5300
+spec: null
+status: ''
+vendor: mikroe

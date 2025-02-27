@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Thermostat 3 Click is a general-purpose thermostat Click board\u2122\
+  \ designed to be used with any temperature sensor based on the MAX31855 sensor design.\
+  \ The Click board\u2122 is equipped with a 2-pin female socket for thermocouple\
+  \ connection. The K-type thermocouple can be connected directly into the socket,\
+  \ allowing the MAX31855 to take care of the..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thermostat-3-click/thermostat-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/thermostat-3-click
+  repositories: []
+name: MIKROE-3724
+ref: mikroe/mikroe-3724
+release_date: null
+sku: mikroe-3724
+spec: null
+status: ''
+vendor: mikroe

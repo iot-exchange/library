@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: MCU Card is a standardized add-on board, which allows very simple installation
+  and replacement of the microcontroller unit (MCU) on a development board equipped
+  with the MCU Card socket. By introducing the new MCU Card standard, we have ensured
+  the absolute compatibility between the development board and any of the supported
+  MCUs, regardless of their pin...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mcu-card-5-for-stm32-stm32l021k4/mcu-card-5-for-stm32-stm32l021k4-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/mcu-card-5-for-stm32-stm32l021k4
+  repositories: []
+name: MIKROE-3730
+ref: mikroe/mikroe-3730
+release_date: null
+sku: mikroe-3730
+spec: null
+status: ''
+vendor: mikroe

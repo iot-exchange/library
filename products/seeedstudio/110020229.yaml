@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "Grove Creator Kit - \u03B2 - 30 Grove functional modules in one box,\
+  \ cost-effective, free&detailed tutorials, beginner-friendly, project-helper"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110020269_front-05.jpg
+  - https://www.seeedstudio.com/img/v
+  models: []
+  products:
+  - "https://www.seeedstudio.com/Grove-Creator-Kit-\u03B2-p-110020229.html"
+  repositories: []
+name: '110020229'
+ref: seeedstudio/110020229
+release_date: null
+sku: '110020229'
+spec: null
+status: ''
+vendor: seeedstudio

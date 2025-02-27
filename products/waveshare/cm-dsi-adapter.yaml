@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Compute Module DSI Display Adapter, 22PIN To 15PIN
+extra:
+  Price: $2.48 - $2.99
+  SKU: '19134'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm-dsi-adapter-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-m.2-a-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/cm-dsi-adapter.htm "Compute Module DSI Display
+    Adapter, 22PIN To 15PIN"
+  - https://www.waveshare.com/product/cm-dsi-adapter.htm
+  - https://www.waveshare.com/product/pcie-to-m.2-a.htm
+  repositories: []
+name: CM-DSI-ADAPTER
+ref: waveshare/cm-dsi-adapter
+release_date: null
+sku: cm-dsi-adapter
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 0.95 EUR
+  price2: 0.86 EUR
+  price3: 0.76 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Breadboarding/JUMPER-WIRES/JW-240x10/images/thumbs/200x150/JW.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Breadboarding/JUMPER-WIRES/JW-240x10/
+  repositories: []
+name: JW-240x10
+ref: olimex/jw-240x10
+release_date: null
+sku: jw-240x10
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: USB 3.2 Gen1 HUB HAT for Raspberry Pi, 4x USB 3.2 Gen1 Ports, Driver-Free
+extra:
+  Price: $17.97 - $18.99
+  SKU: '17584'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-3.2-gen1-hub-hat-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/usb-3.2-gen1-hub-hat.htm
+  repositories: []
+name: USB 3.2 Gen1 HUB HAT
+ref: waveshare/usb-3-2-gen1-hub-hat
+release_date: null
+sku: usb-3-2-gen1-hub-hat
+spec: null
+status: ''
+vendor: waveshare

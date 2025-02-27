@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Air Velocity Click is a compact add-on board that measures direct airspeed.
+  This board features the FS3000-1005, a surface-mount type air velocity module utilizing
+  a MEMS thermopile-based sensor from Renesas. This I2C-configurable air velocity
+  module features a digital output with a 12-bit resolution with a wide operational
+  range of 0-7.2meter/second...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/air-velocity-click/air-velocity-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/air-velocity-click
+  repositories: []
+name: MIKROE-5448
+ref: mikroe/mikroe-5448
+release_date: null
+sku: mikroe-5448
+spec: null
+status: ''
+vendor: mikroe

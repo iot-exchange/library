@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: "The RFM95 transceivers feature the LoRa\u2122 long range modem that\
+  \ provides ultra-long range spread spectrum communication and high interference\
+  \ immunity whilst minimising current consumption."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.seeedstudio.com/RFM95-Ultra-long-Range-Transceiver-Module-LoRa-Module-support-868M-frequency-p-2807.html
+  repositories: []
+name: '109990166'
+ref: seeedstudio/109990166
+release_date: null
+sku: '109990166'
+spec: null
+status: ''
+vendor: seeedstudio

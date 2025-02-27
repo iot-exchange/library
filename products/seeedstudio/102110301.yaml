@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi 4 Computer Model B 4GB
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/4/g/4g.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-4-Computer-Model-B-4GB-p-4077.html
+  repositories: []
+name: '102110301'
+ref: seeedstudio/102110301
+release_date: null
+sku: '102110301'
+spec: null
+status: ''
+vendor: seeedstudio

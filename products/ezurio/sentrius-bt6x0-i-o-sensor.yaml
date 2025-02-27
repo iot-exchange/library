@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Robust, secure, IP67-Certified Bluetooth LE Long Range industrial sensors.
+  Support for Thermistor, AC Current, and Ultrasonic/Pressure external sensors
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-10/BT6101.png
+  models: []
+  products:
+  - https://www.ezurio.com/bt6x0-series
+  repositories: []
+name: Sentrius BT6x0 I/O Sensor
+ref: ezurio/sentrius-bt6x0-i-o-sensor
+release_date: null
+sku: sentrius-bt6x0-i-o-sensor
+spec: null
+status: ''
+vendor: ezurio

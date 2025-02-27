@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 2.70 EUR
+  discountedPrice2: 2.40 EUR
+  price: 3.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Switches/WATER-PROOF-BUTTONS/images/thumbs/200x150/but-12mm.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Switches/BUTTON-16MM-WHITE/
+  repositories: []
+name: BUTTON-16MM-WHITE
+ref: olimex/button-16mm-white
+release_date: null
+sku: button-16mm-white
+spec: null
+status: ''
+vendor: olimex

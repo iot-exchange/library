@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Perfect NAS/Router Solution
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/accessories/ra012/thumb_taco.webp
+  models: []
+  products:
+  - https://radxa.com/products/io-board/taco
+  repositories: []
+name: Taco
+ref: radxa/taco
+release_date: null
+sku: taco
+spec: null
+status: ''
+vendor: radxa

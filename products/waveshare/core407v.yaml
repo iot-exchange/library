@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Core407V, STM32F4 Core Board
+extra:
+  Price: $20.29 - $21.99
+  SKU: '5852'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.waveshare.com/product/core407v.htm
+  repositories: []
+name: Core407V
+ref: waveshare/core407v
+release_date: null
+sku: core407v
+spec: null
+status: ''
+vendor: waveshare

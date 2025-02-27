@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 2.13inch / 2.66inch / 2.9inch / 3.5inch Dot Matrix e-Paper display, Electronic
+  Shelf Label Series, Red/Yellow/Black/White, Cloud Platform Refreshing Support
+extra:
+  Multi Options: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esl-epaper-2.13g-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/esl-epaper-series.htm
+  repositories: []
+name: ESL-ePaper series
+ref: waveshare/esl-epaper-series
+release_date: null
+sku: esl-epaper-series
+spec: null
+status: ''
+vendor: waveshare

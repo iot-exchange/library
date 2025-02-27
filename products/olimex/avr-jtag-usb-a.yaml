@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/AVR/Programmers/AVR-JTAG-USB-A/images/thumbs/200x150/AVR-JTAG-USB-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/AVR/Programmers/AVR-JTAG-USB-A/
+  repositories: []
+name: AVR-JTAG-USB-A
+ref: olimex/avr-jtag-usb-a
+release_date: null
+sku: avr-jtag-usb-a
+spec: null
+status: ''
+vendor: olimex

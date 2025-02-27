@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Door open/close detect, open alarmDoor open/close statisticsconnect two
+  door sensorsNB-IoT Bands:B1/B3/B8/B5/B20/B28 @H-FDD
+extra:
+  Bands: B1/B3/B8/B5/B20/B28 @H-FDD
+  Technology: NB-IoT
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/b320775de3c297425b69dccc362220a9_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lorawan-nb-iot-door-sensor-water-leak/item/247-nds03a.html
+  repositories: []
+name: NDS03A
+ref: dragino/nds03a
+release_date: null
+sku: nds03a
+spec: null
+status: ''
+vendor: dragino

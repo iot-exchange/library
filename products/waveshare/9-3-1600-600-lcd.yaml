@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "9.3inch Capacitive Touch Display, High Brightness, 1600\xD7600, Optical\
+  \ Bonding Toughened Glass Panel, HDMI Interface, IPS"
+extra:
+  Price: $99.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/9/_/9.3inch-1600x600-lcd-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/9.3inch-1600x600-lcd.htm
+  repositories: []
+name: 9.3_1600_600_lcd
+ref: waveshare/9-3-1600-600-lcd
+release_date: null
+sku: 9-3-1600-600-lcd
+spec: null
+status: ''
+vendor: waveshare

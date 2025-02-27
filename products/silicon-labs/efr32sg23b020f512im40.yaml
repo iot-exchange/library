@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  BLE: 'No'
+  CSS: 'No'
+  FSK-Sub-GHz: 'Yes'
+  Flash: 512 kB
+  For Battery Power: 'Yes'
+  Max TX Power: +20 dBm
+  Package Type: QFN40
+  RAM: 64 kB
+  Recommended Kit: EFR32xG23 Pro Kit +20 dBm
+  Secure Vault: 'Yes'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/amazon-sidewalk/efr32sg23-sub-ghz-wireless-socs/device.efr32sg23b020f512im40
+  repositories: []
+name: EFR32SG23B020F512IM40
+ref: silicon-labs/efr32sg23b020f512im40
+release_date: null
+sku: efr32sg23b020f512im40
+spec: null
+status: ''
+vendor: silicon-labs

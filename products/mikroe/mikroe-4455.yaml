@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "BLDC Motor with Hall sensor, from the 42BLF motor series, represents\
+  \ the star wiring type Brushless DC Motor with Hall Effect angle of 120\xB0. With\
+  \ a motor length of 47mm and a weight of 0.29kg, this BLDC motor is rated for a\
+  \ voltage value of 24VDC, at a speed of 4000 \xB1 10% RPM. It performs its Normal\
+  \ mode of operation at a temperature range of -20 to +50..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/motor-bldc-42blf01-with-hall-sensor/motor-bldc-42blf01-with-hall-sensor-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/motor-bldc-42blf01-with-hall-sensor "BLDC Motor with Hall
+    sensor"
+  repositories: []
+name: MIKROE-4455
+ref: mikroe/mikroe-4455
+release_date: null
+sku: mikroe-4455
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: "M12 High Resolution Lens, 14MP, 184.6\xB0 Ultra wide angle, 2.72mm Focal\
+  \ length, Compatible with Raspberry Pi High Quality Camera M12"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/s/ws1842714-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ws1842714.htm
+  repositories: []
+name: WS1842714
+ref: waveshare/ws1842714
+release_date: null
+sku: ws1842714
+spec: null
+status: ''
+vendor: waveshare

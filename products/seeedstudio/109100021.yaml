@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: The L76K GNSS Module offers global tracking through GPS, BeiDou, GLONASS,
+  and QZSS. Designed for the Seeed Studio XIAO series module with a compact form and
+  low power consumption, it's perfect for asset tracking and robotics.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/x/i/xiao_-preview-25.png
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/7/-/7-l76k-gnss-module-for-seeed-studio-xiao-feature.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/L76K-GNSS-Module-for-Seeed-Studio-XIAO-p-5864.html
+  repositories: []
+name: '109100021'
+ref: seeedstudio/109100021
+release_date: null
+sku: '109100021'
+spec: null
+status: ''
+vendor: seeedstudio

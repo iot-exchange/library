@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Breadboarding/Relays/BB-RELAY3-12V/images/thumbs/200x150/BB-RELAY3-12V-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Breadboarding/Relays/BB-RELAY3-12V/
+  repositories: []
+name: BB-RELAY3-12V
+ref: olimex/bb-relay3-12v
+release_date: null
+sku: bb-relay3-12v
+spec: null
+status: ''
+vendor: olimex

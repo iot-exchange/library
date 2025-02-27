@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "ZIF to Terminal Block for BLDC represents a small-sized adapter board\
+  \ that allows you to connect all BLDC motors without a Hall sensor and a flexprint\
+  \ port to target Brushless Click board\u2122. The adapter consists of one ZIF connector\
+  \ ZIF1004UH with four pins of 1.0mm pitch, and two 2.54mm pitch screw terminals\
+  \ on opposite sides of the board. Connect the..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/zif-to-terminal-block-for-bldc/zif-to-terminal-block-for-bldc-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/zif-to-terminal-block-for-bldc
+  repositories: []
+name: MIKROE-4774
+ref: mikroe/mikroe-4774
+release_date: null
+sku: mikroe-4774
+spec: null
+status: ''
+vendor: mikroe

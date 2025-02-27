@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Couplers/COUPLER-5MM8MM-FLEX/images/thumbs/200x150/COUPLER-5X5MM-FLEX.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Couplers/COUPLER-5MM8MM-FLEX/
+  repositories: []
+name: COUPLER-5MM8MM-FLEX
+ref: olimex/coupler-5mm8mm-flex
+release_date: null
+sku: coupler-5mm8mm-flex
+spec: null
+status: ''
+vendor: olimex

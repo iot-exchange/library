@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/SMT/SMEMA-F-1M-PANEL/images/thumbs/200x150/SMEMA-F-1M-PANEL.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/SMT/SMEMA-F-1M-PANEL/
+  repositories: []
+name: SMEMA-F-1M-PANEL
+ref: olimex/smema-f-1m-panel
+release_date: null
+sku: smema-f-1m-panel
+spec: null
+status: ''
+vendor: olimex

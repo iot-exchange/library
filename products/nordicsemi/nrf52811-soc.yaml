@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: Bluetooth 5.4 SoC supporting Bluetooth Low Energy, Bluetooth Direction
+  Finding and Thread
+extra:
+  ADC: 12-bit ADC
+  CPU: 64 MHz Cortex-M4
+  Flash: 192 KB
+  Interfaces: UART, SPI, TWI, PDM
+  RAM: 24 KB
+  Security: 128-bit AES
+  TX Power: +4 dBm
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52811-WLCSP-2.482-x-2.464-stakced_web.png?h=250&iar=0&mh=250&w=250&hash=1AF45EC9FD191F7E09C68025656EDEEB
+  models: []
+  products:
+  - https://www.nordicsemi.com/Products/nRF52811
+  repositories: []
+name: nRF52811 SoC
+ref: nordicsemi/nrf52811-soc
+release_date: null
+sku: nrf52811-soc
+spec: null
+status: ''
+vendor: nordicsemi

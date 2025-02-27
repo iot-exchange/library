@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: Herse
+extra:
+  Current Consumption: '100'
+  Data Rate: '2.2'
+  Dimensions: 17 x 27 x 3.6
+  Expected lifetime: '>10 years'
+  Frequency Range: 433.75 - 434.75
+  Output Power: '1000'
+  Production: active
+  Sensitivity: '-107'
+  Supply Voltage: '3.6'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/components/products/datasheet/2605031141000.pdf
+  repositories: []
+name: '2605031141000'
+ref: we/2605031141000
+release_date: null
+sku: '2605031141000'
+spec: null
+status: ''
+vendor: we

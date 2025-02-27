@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: RP2040-Zero, a Pico-like MCU Board Based on Raspberry Pi MCU RP2040,
+  Mini ver.
+extra:
+  Multi Options: ''
+  Price: $3.99 -  $4.99
+  price: $3.99 -  $4.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-zero-2.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-zero-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-plus-1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rp2040-zero.htm
+  repositories: []
+name: rp2040_zero
+ref: waveshare/rp2040-zero
+release_date: null
+sku: rp2040-zero
+spec: null
+status: ''
+vendor: waveshare

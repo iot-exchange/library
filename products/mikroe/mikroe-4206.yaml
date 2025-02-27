@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: DAC 6 Click is a compact add-on board that contains a fully-featured,
+  general-purpose voltage-output digital-to-analog converter. This board features
+  the DAC104S085, 10-bit, micro-power, a quad digital-to-analog converter with rail-to-rail
+  output, from Texas Instruments. It uses the 3-wire SPI serial interface for communication,
+  that operates at clock...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/magneto-8-click/magneto-8-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/dac-6-click/dac-6-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/cart?add=1&id_product=2813
+  - https://www.mikroe.com/dac-6-click
+  - https://www.mikroe.com/magneto-8-click
+  repositories: []
+name: MIKROE-4206
+ref: mikroe/mikroe-4206
+release_date: null
+sku: mikroe-4206
+spec: null
+status: ''
+vendor: mikroe

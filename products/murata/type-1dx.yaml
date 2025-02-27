@@ -1,0 +1,51 @@
+alternatives: []
+certifications: []
+description: Consumer equipment, Industrial Equipment
+extra:
+  Bluetooth: 5.1 BR/EDR/LE
+  Chipset: CYW4343W
+  Dimension: 6.95 x 5.15 x 1.1 mm
+  ETSI Report: 'Yes'
+  FCC/ISED Certified: 'Yes'
+  Frequency: 2.4GHz
+  Grade: Consumer
+  Host Interface (802.15.4): PCM
+  Host Interface (Bluetooth): UART
+  Host Interface (Wi-Fi): SDIO
+  IC Manufacturer: Infineon
+  Integrated Antenna: 'No'
+  Interface Voltage: 1.8V,3.3V
+  MIC (Japan) Certified: 'Yes'
+  Mounting Type: SMT
+  Operating Temperature (degC): "-30\u2103 to 70\u2103"
+  Package: Shielded Resin
+  Packaging: Tape and Reel
+  Peripheral Interface: 'No'
+  Platform: ''
+  Processor: Linux,WICED,Modus,i.MX Yocto,MCUXpresso
+  Receive Mode Current: 47mA @ 11Mbps (2.4GHz)47mA @ 54Mbps (2.4GHz)47mA @ 65Mbps
+    (2.4GHz)
+  RoHS Support: 'Yes'
+  Sleep Mode Current (Bluetooth): ''
+  Sleep Mode Current (Wi-Fi): ''
+  Supply Voltage: 3.35V to 4.2V
+  Technology: Wi-Fi,Bluetooth
+  Transmit Mode Current (Bluetooth): ''
+  Transmit Mode Current (Wi-Fi): 320mA @ 11Mbps270mA @ 54Mbps260mA @ 65Mbps
+  Wi-Fi: Wi-Fi 4
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth#series-lineup
+  - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth#product-lineup
+  repositories: []
+name: Type 1DX
+ref: murata/type-1dx
+release_date: null
+sku: type-1dx
+spec: null
+status: ''
+vendor: murata

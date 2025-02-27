@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/IoT/LTE/USB-gLINK-ANT/images/thumbs/200x150/gLINK.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/IoT/LTE/USB-gLINK-ANT/open-source-hardware
+  repositories: []
+name: USB-gLINK-ANT
+ref: olimex/usb-glink-ant
+release_date: null
+sku: usb-glink-ant
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTECat1-MC116-NA.html
+  repositories: []
+name: MC116-NA
+ref: fibocom/mc116-na
+release_date: null
+sku: mc116-na
+spec: null
+status: ''
+vendor: fibocom

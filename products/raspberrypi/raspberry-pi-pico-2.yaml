@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Our next-generation microcontroller board, built using RP2350.
+extra:
+  price: $5
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/868bfbc6641ed9bbbf331c9afcb4236a/3f4ea/Z0Qq7q8jQArT1QmI_HARDWAREPAGEupdared.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/raspberry-pi-pico-2/
+  repositories: []
+name: Raspberry Pi Pico 2
+ref: raspberrypi/raspberry-pi-pico-2
+release_date: null
+sku: raspberry-pi-pico-2
+spec: null
+status: ''
+vendor: raspberrypi

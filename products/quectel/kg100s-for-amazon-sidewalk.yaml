@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ARM Cortex M33  BLE 5.1  CSS  EFR32BG21B  FSK  SX1262
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.quectel.com/content/uploads/2024/03/Amazon-KG100S.png
+  models: []
+  products:
+  - https://www.quectel.com/product/kg100s-amazon-sidewalk-module/
+  repositories: []
+name: KG100S for Amazon Sidewalk
+ref: quectel/kg100s-for-amazon-sidewalk
+release_date: null
+sku: kg100s-for-amazon-sidewalk
+spec: null
+status: ''
+vendor: quectel

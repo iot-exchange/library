@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/03/TC_ME310M1_Dynamic-234x200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/me310m1-series/
+  repositories: []
+name: ME310M1
+ref: telit/me310m1
+release_date: null
+sku: me310m1
+spec: null
+status: ''
+vendor: telit

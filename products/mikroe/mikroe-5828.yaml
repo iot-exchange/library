@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: NanoBeacon Click is a compact add-on board that provides a powerful and
+  efficient Bluetooth beacon solution. This board features the IN100, an ultra-low
+  power Bluetooth 5.3 Beacon SoC from InPlay.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/nanobeacon-click/nanobeacon-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/nanobeacon-click
+  repositories: []
+name: MIKROE-5828
+ref: mikroe/mikroe-5828
+release_date: null
+sku: mikroe-5828
+spec: null
+status: ''
+vendor: mikroe

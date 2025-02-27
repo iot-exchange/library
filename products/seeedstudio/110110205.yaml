@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: reRouter CM4 102032 - Raspberry Pi Based Mini Router, Travel Router,
+  Dual Gigabit Ethernet, OpenWRT OS
+extra:
+  Capabilities: Precise sweep spectrum analysis, fast detection, continuous monitoring
+  Display: Advanced touch all-screen display
+  Features: Spectrum Analyzer, Power Meter, Signal Tracking Generator
+  ethernet_ports: dual Gigabit
+  os: OpenWRT
+  ram: 2GB
+  storage: 32GB eMMC
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-110110110.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/RF-Explorer-Pro-p-5736.html
+  - https://www.seeedstudio.com/reRouter-CM4102032-p-5734.html
+  repositories: []
+name: '110110205'
+ref: seeedstudio/110110205
+release_date: null
+sku: '110110205'
+spec: null
+status: ''
+vendor: seeedstudio

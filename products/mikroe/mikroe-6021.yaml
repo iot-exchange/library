@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "LYRA 24P Click is a compact add-on board for high-performance wireless\
+  \ connectivity in IoT devices running on Bluetooth. This board features the LYRA\
+  \ 24P (453-00145R), a secure high-performance wireless module from Ezurio. It features\
+  \ a 32-bit ARM\xAE Cortex\xAE-M33 core at 39MHz, Bluetooth\xAE Low Energy (BLE)\
+  \ 5.3 connectivity, and industry-leading Secure Vault\xAE..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lyra-24p-click/lyra-24p-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/lyra-24p-click
+  repositories: []
+name: MIKROE-6021
+ref: mikroe/mikroe-6021
+release_date: null
+sku: mikroe-6021
+spec: null
+status: ''
+vendor: mikroe

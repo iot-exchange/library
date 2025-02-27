@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Create impressive vision AI applications and neural network models with
+  the Sony IMX500 Intelligent vision sensor
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/f2579e5a68ee8d2dffa82cb61f2d75e0/3f4ea/ZuG-thoQrfVKl-2R_AICameramain.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/ai-camera/
+  repositories: []
+name: Raspberry Pi AI Camera
+ref: raspberrypi/raspberry-pi-ai-camera
+release_date: null
+sku: raspberry-pi-ai-camera
+spec: null
+status: ''
+vendor: raspberrypi

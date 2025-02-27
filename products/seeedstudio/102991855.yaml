@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: The J501 GMSL Extension Board is designed for J501 carrier board. You
+  could use this extension to connect up to 8 GMSL camera. This carrier board is using
+  the deserializer 'max96724'.
+extra:
+  Price: $139.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102991855-reserver-industrial-j501-gmsl-extension-board-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/reServer-Industrial-J501-GMSL-extension-board-p-5949.html
+  repositories: []
+name: '102991855'
+ref: seeedstudio/102991855
+release_date: null
+sku: '102991855'
+spec: null
+status: ''
+vendor: seeedstudio

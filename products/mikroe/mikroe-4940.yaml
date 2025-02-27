@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Load Cell 6 Click is a compact add-on board representing a weigh scale
+  solution. This board features the MAX11270, a high-performance 24-bit delta-sigma
+  ADC that achieves excellent 130dB SNR while dissipating an ultra-low 10mW.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/load-cell-6-click/load-cell-6-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/load-cell-6-click
+  repositories: []
+name: MIKROE-4940
+ref: mikroe/mikroe-4940
+release_date: null
+sku: mikroe-4940
+spec: null
+status: ''
+vendor: mikroe

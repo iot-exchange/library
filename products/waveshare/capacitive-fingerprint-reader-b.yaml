@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: High precision Capacitive Fingerprint Reader (B), UART/USB dual ports
+extra:
+  Price: $39.63 - $40.99
+  SKU: '20679'
+  price: $39.63 - $40.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/a/capacitive-fingerprint-reader-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/capacitive-fingerprint-reader-b.htm
+  repositories: []
+name: Capacitive Fingerprint Reader (B)
+ref: waveshare/capacitive-fingerprint-reader-b
+release_date: null
+sku: capacitive-fingerprint-reader-b
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: A cooling solution for Raspberry Pi 5 combining a heatsink and a temperature-controlled
+  blower fan
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/active-cooler/
+  repositories: []
+name: Raspberry Pi Active Cooler
+ref: raspberrypi/raspberry-pi-active-cooler
+release_date: null
+sku: raspberry-pi-active-cooler
+spec: null
+status: ''
+vendor: raspberrypi

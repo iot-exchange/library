@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: The IP68 Waterproof 5-pin Aviation Connector SPI1310/P5 can be connected
+  to electrical devices such as sensors and equip the devices with waterproof functionality.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/101060004_1.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/SP1310-P5-5-D18-5x48mm-D4-D6-5-IP68-40-85-5A-p-4894.html
+  repositories: []
+name: '320991108'
+ref: seeedstudio/320991108
+release_date: null
+sku: '320991108'
+spec: null
+status: ''
+vendor: seeedstudio

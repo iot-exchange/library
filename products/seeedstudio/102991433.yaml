@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Compute Module 4 - 4GB RAM, 16GB eMMC, 2.4/5.0GHz Wi-Fi
+  & Bluetooth 5.0 (CM4104016)
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991421_preview-07_2_2.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-Compute-Module-CM4104016-p-5222.html
+  repositories: []
+name: '102991433'
+ref: seeedstudio/102991433
+release_date: null
+sku: '102991433'
+spec: null
+status: ''
+vendor: seeedstudio

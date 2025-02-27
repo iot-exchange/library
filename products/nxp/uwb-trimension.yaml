@@ -1,0 +1,18 @@
+alternatives: []
+certifications: []
+description: "Trimension\xAE Ultra-Wideband (UWB) | NXP Semiconductors"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: UWB-TRIMENSION
+ref: nxp/uwb-trimension
+release_date: null
+sku: uwb-trimension
+spec: null
+status: ''
+vendor: nxp

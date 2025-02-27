@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: CODEGRIP for AVR is a fast USB-C programmer and hardware debugger. Smart
+  engineering allows CODEGRIP to support 8-bit Atmel AVR microcontrollers in a single
+  programmer.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/codegrip-for-avr-over-usb-c/codegrip-for-avr-over-usb-c-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/codegrip-for-avr-over-usb-c
+  repositories: []
+name: MIKROE-5322
+ref: mikroe/mikroe-5322
+release_date: null
+sku: mikroe-5322
+spec: null
+status: ''
+vendor: mikroe

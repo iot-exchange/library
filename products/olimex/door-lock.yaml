@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Misc/DOOR-LOCK/images/thumbs/200x150/doorlock.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Misc/DOOR-LOCK/
+  repositories: []
+name: DOOR-LOCK
+ref: olimex/door-lock
+release_date: null
+sku: door-lock
+spec: null
+status: ''
+vendor: olimex

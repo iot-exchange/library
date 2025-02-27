@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Magnetic Rotary 2 Click is a compact add-on board used for accurate magnet-position
+  sensing. This board features the AEAT-9922, an angular magnetic rotary sensor providing
+  accurate angular measurement over a full 360 degrees of rotation.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/magnetic-rotary-2-click/magnetic-rotary-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/magnetic-rotary-2-click
+  repositories: []
+name: MIKROE-4952
+ref: mikroe/mikroe-4952
+release_date: null
+sku: mikroe-4952
+spec: null
+status: ''
+vendor: mikroe

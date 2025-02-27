@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "POT 3 Click is a Click board\u2122 with the accurate selectable reference\
+  \ voltage output. By employing a high-quality 11mm, metal shaft potentiometer, this\
+  \ Click board\u2122 can provide very accurate voltage output. The onboard high-resolution\
+  \ 12-bit ADC can detect even the smallest move, faithfully capturing the smoothness\
+  \ of the slider movement, while digitizing..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/pot-3-click/pot-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/pot-3-click
+  repositories: []
+name: MIKROE-3691
+ref: mikroe/mikroe-3691
+release_date: null
+sku: mikroe-3691
+spec: null
+status: Unavailable
+vendor: mikroe

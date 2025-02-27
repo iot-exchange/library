@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/ServoMotors/MS-ARM-2/images/thumbs/200x150/MS-ARM-2-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/ServoMotors/MS-ARM-2/
+  repositories: []
+name: MS-ARM-2
+ref: olimex/ms-arm-2
+release_date: null
+sku: ms-arm-2
+spec: null
+status: ''
+vendor: olimex

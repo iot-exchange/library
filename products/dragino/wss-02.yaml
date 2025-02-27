@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: RS485 wind speed / direction sensorPC enclosure, resist corrosion
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/be4e4fd1bcb87d92f342f6e3e3e1d9e2_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/agriculture-weather-station/item/208-wss-02.html
+  repositories: []
+name: WSS-02
+ref: dragino/wss-02
+release_date: null
+sku: wss-02
+spec: null
+status: ''
+vendor: dragino

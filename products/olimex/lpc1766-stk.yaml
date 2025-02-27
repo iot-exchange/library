@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 68.36 EUR
+  discountedPrice2: 60.76 EUR
+  price: 75.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC1766-STK/images/thumbs/200x150/LPC-1766STK-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/NXP/LPC1766-STK/
+  repositories: []
+name: LPC1766-STK
+ref: olimex/lpc1766-stk
+release_date: null
+sku: lpc1766-stk
+spec: null
+status: ''
+vendor: olimex

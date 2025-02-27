@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: The final revision of our third-generation single-board computer
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/532b4c25752c4235d76cc41051baf9ab/3f4ea/877fb653-7b43-4931-9cee-977a22571f65_3b%2BAngle%2B2%2Brefresh.jpg
+  - https://assets.raspberrypi.com/static/f2e9242911c5d63868b22a8f5d3da8a6/3f4ea/bef8cda3-64ea-4098-bf18-8e731a6e9a0d_3b%2B%2BAngle%2B2.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/
+  - https://www.raspberrypi.com/products/raspberry-pi-3-model-b/
+  repositories: []
+name: Raspberry Pi 3 Model B+
+ref: raspberrypi/raspberry-pi-3-model-b
+release_date: null
+sku: raspberry-pi-3-model-b
+spec: null
+status: ''
+vendor: raspberrypi

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Magnetic base with N-type to RP-SMA female CFD200 Cable with 2m length
+  to extend the connection length between an Antenna(with N-type connector) and a
+  Gateway(with RP-SMA Female connector).
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/3/2/321990855_preview-07.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/RF-Cable-N-Female-to-RP-SMA-male-LMR200-Black-2m-p-5020.html
+  repositories: []
+name: '321990855'
+ref: seeedstudio/321990855
+release_date: null
+sku: '321990855'
+spec: null
+status: ''
+vendor: seeedstudio

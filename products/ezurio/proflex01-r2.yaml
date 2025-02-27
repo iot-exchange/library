@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: EOL
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/proflex01-r2-zigbee-module-front.png
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/ramp-ism-modules/proprietary-24-ghz-zigbee-802154-modules/proflex01-r2
+  repositories: []
+name: ProFLEX01-R2
+ref: ezurio/proflex01-r2
+release_date: null
+sku: proflex01-r2
+spec: null
+status: End Of Life
+vendor: ezurio

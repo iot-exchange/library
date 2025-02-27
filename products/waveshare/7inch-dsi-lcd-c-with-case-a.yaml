@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "7inch Capacitive Touch IPS Display for Raspberry Pi, with Protection\
+  \ Case, 1024\xD7600, DSI Interface"
+extra:
+  Price: $65.27 - $67.99
+  SKU: '20430'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/i/7inch-dsi-lcd-c-with-case-a-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/7inch-dsi-lcd-c-with-case-a.htm
+  - "https://www.waveshare.com/product/7inch-dsi-lcd-c-with-case-a.htm \"7inch Capacitive\
+    \ Touch IPS Display for Raspberry Pi, with Protection Case, 1024\xD7600, DSI Interface\""
+  repositories: []
+name: 7inch DSI LCD (C) (with case A)
+ref: waveshare/7inch-dsi-lcd-c-with-case-a
+release_date: null
+sku: 7inch-dsi-lcd-c-with-case-a
+spec: null
+status: ''
+vendor: waveshare

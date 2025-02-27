@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Waveshare RP2350-GEEK Development Board, Based On RP2350 Microcontroller,
+  With 1.14inch 65K Color LCD, USB Debugging Downloader
+extra:
+  Price: $10.31 - $10.99
+  SKU: '29330'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2350-geek-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rp2350-geek.htm
+  - https://www.waveshare.com/product/rp2350-geek.htm "Waveshare RP2350-GEEK Development
+    Board, Based On RP2350 Microcontroller, With 1.14inch 65K Color LCD, USB Debugging
+    Downloader"
+  repositories: []
+name: RP2350-GEEK
+ref: waveshare/rp2350-geek
+release_date: null
+sku: rp2350-geek
+spec: null
+status: ''
+vendor: waveshare

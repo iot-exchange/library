@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/Car/ELM327-USB/images/thumbs/200x150/ELM327-USB.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/Car/ELM327-USB/
+  repositories: []
+name: ELM327-USB
+ref: olimex/elm327-usb
+release_date: null
+sku: elm327-usb
+spec: null
+status: ''
+vendor: olimex

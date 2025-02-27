@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: The Raspberry Pi Official case with Fan for Pi 5 is a refined version
+  of the Pi 4 case, with improved thermal features and a variable-speed fan.
+extra:
+  Color: Red/White
+  Features: Improved thermal features, variable-speed fan
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/6/-/6-114070241-ice-tower-cooler-for-raspberry-pi5-feature.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993246-official-case-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-Official-Case-with-Fan-for-Pi-5-Red-White-p-5816.html
+  repositories: []
+name: '114993246'
+ref: seeedstudio/114993246
+release_date: null
+sku: '114993246'
+spec: null
+status: ''
+vendor: seeedstudio

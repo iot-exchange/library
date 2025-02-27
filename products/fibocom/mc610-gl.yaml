@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTECat1-MC610-GL.html
+  repositories: []
+name: MC610-GL
+ref: fibocom/mc610-gl
+release_date: null
+sku: mc610-gl
+spec: null
+status: ''
+vendor: fibocom

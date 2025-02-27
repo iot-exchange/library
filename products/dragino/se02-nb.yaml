@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: NB-IoT Soil Moisture & EC Sensor. Monitor Soil Moisture, Temperature,
+  and Conductivity.
+extra:
+  Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85
+  Battery: 8500mAh
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/d6e0c71ca3722c71ddd73a242718257f_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/agriculture-weather-station/item/334-se02-nb.html
+  repositories: []
+name: SE02-NB
+ref: dragino/se02-nb
+release_date: null
+sku: se02-nb
+spec: null
+status: ''
+vendor: dragino

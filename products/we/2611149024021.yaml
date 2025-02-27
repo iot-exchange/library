@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Family EV-Board Setebos-I 2.4 GHz
+extra:
+  Expected lifetime: '>10 years'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/SETEBOS-I_BLE#2611149024021
+  - https://www.we-online.com/components/products/manual/2611149024021_Manual Family
+    Boards_rev1.5.pdf
+  - https://www.we-online.com/en/components/products/SETEBOS-I_PROPRIETARY#2611149024021
+  repositories: []
+name: '2611149024021'
+ref: we/2611149024021
+release_date: null
+sku: '2611149024021'
+spec: null
+status: Active
+vendor: we

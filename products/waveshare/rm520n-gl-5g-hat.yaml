@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: RM520N-GL 5G HAT for Raspberry Pi with Case, Quad Antennas LTE-A, Global
+  Band, GNSS Positioning, Support 3GPP 16, 4G/3G
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/m/rm520n-gl-5g-hat-with-case-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rm520n-gl-5g-hat-with-case.htm
+  repositories: []
+name: rm520n_gl_5g_hat
+ref: waveshare/rm520n-gl-5g-hat
+release_date: null
+sku: rm520n-gl-5g-hat
+spec: null
+status: ''
+vendor: waveshare

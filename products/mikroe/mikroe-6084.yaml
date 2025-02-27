@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "M-BUS RF 3 Click is a compact add-on board designed for utility metering\
+  \ and various telemetry applications. This board features the Metis-II, an 868MHz\
+  \ radio module from W\xFCrth Elektronik."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/m-bus-rf-3-click/m-bus-rf-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/m-bus-rf-3-click
+  repositories: []
+name: MIKROE-6084
+ref: mikroe/mikroe-6084
+release_date: null
+sku: mikroe-6084
+spec: null
+status: ''
+vendor: mikroe

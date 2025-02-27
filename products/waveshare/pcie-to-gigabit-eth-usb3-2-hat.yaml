@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: PCIe To Gigabit Ethernet And USB 3.2 Gen1 HAT For Raspberry Pi 5, 3x
+  USB 3.2 Gen1, 1x Gigabit Ethernet, Driver-Free, Plug And Play, Raspberry Pi 5 PCIe
+  HAT
+extra:
+  Price: $28.63 - $29.99
+  SKU: '27541'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-gigabit-eth-usb3.2-hat-plus-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pcie-to-gigabit-eth-usb3.2-hat-plus.htm
+  repositories: []
+name: PCIe TO Gigabit ETH USB3.2 HAT+
+ref: waveshare/pcie-to-gigabit-eth-usb3-2-hat
+release_date: null
+sku: pcie-to-gigabit-eth-usb3-2-hat
+spec: null
+status: ''
+vendor: waveshare

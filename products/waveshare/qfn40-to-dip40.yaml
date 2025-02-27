@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: QFN40 TO DIP40, Programmer Adapter
+extra:
+  Price: $97.99 - $101.99
+  SKU: '6884'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/q/f/qfn40-to-dip40_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/qfn40-to-dip40.htm
+  repositories: []
+name: QFN40 TO DIP40
+ref: waveshare/qfn40-to-dip40
+release_date: null
+sku: qfn40-to-dip40
+spec: null
+status: ''
+vendor: waveshare

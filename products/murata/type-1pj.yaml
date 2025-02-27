@@ -1,0 +1,50 @@
+alternatives: []
+certifications: []
+description: Wi-Fi and Bluetooth module for consumer and industrial equipment.
+extra:
+  Additional Info: ''
+  Bluetooth: 'Yes'
+  Certification: 'Yes'
+  Chip: QCA9377-3
+  Current Consumption: 90mA @ 433Mbps (5GHz)
+  Dimensions: 7.2 x 7.4 x 1.25 mm
+  Enclosure: Shielded Resin
+  Frequency: 2.4GHz, 5GHz
+  I/O Voltage: 'Yes'
+  Interfaces: SDIO, UART, PCM/I2S
+  Manufacturer: Qualcomm
+  Market: Consumer
+  Material: Shielded Resin
+  Mounting Type: SMT
+  Operating Temperature: "-30\u2103 to 85\u2103"
+  Packaging: Tape and Reel
+  Power Consumption: 90mA @ 433Mbps (5GHz)
+  Processor: 'No'
+  SDK: Linux
+  Sleep Current: ''
+  Status: 'Yes'
+  Target Market: Consumer
+  Temperature Range: "-30\u2103 to 85\u2103"
+  Voltage: 1.8V,3.3V
+  Voltage Range: 1.8V,3.3V
+  Wi-Fi: 'Yes'
+  dimensions: 7.2 x 7.4 x 1.25 mm
+  interface: SDIO, UART, PCM/I2S
+  powerConsumption: 90mA @ 433Mbps (5GHz)
+  processor: Linux
+  temperatureRange: "-30\u2103 to 85\u2103"
+  voltage: 1.8V,3.3V
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: Type 1PJ
+ref: murata/type-1pj
+release_date: null
+sku: type-1pj
+spec: null
+status: ''
+vendor: murata

@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: It is based on the Nordic nRF52840 BLE and Semtech LR1110 LoRa design.
+  Compatible with Meshtastic firmware, it is a plug-and-play development kit for building
+  your low-power Meshtastic tracker devices.
+extra:
+  features: Nordic nRF52840 BLE and Semtech LR1110 LoRa design
+  price: $30.90
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-321010822-usb-cable_type-a-to-2p-with-magnetic-type-white-1000mm-45font.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/_/1_17_2.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Wio-Tracker-1110-Dev-Board-for-Meshtastic-p-5914.html
+  repositories: []
+name: '114993370'
+ref: seeedstudio/114993370
+release_date: null
+sku: '114993370'
+spec: null
+status: ''
+vendor: seeedstudio

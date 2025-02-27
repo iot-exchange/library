@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Pressure 19 Click is a compact add-on board that contains a board-mount
+  pressure sensor. This board features the MLX90817, a factory-calibrated absolute
+  pressure sensor delivering ratiometric analog output from Melexis Technologies.
+  The MLX90817 comes with a configurable host interface that supports I2C serial communication
+  and configurable signal...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/pressure-19-click/pressure-19-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/h-bridge-10-click/h-bridge-10-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/pressure-19-click
+  - https://www.mikroe.com/h-bridge-10-click
+  repositories: []
+name: MIKROE-5089
+ref: mikroe/mikroe-5089
+release_date: null
+sku: mikroe-5089
+spec: null
+status: ''
+vendor: mikroe

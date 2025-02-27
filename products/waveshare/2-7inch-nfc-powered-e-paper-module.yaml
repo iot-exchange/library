@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: 2.7inch Passive NFC-Powered E-Paper Module, No Battery
+extra:
+  SKU: '18136'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.7inch-nfc-powered-e-paper-module-1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/2.7inch-nfc-powered-e-paper-module.htm
+  repositories: []
+name: 2.7inch NFC-Powered e-Paper Module
+ref: waveshare/2-7inch-nfc-powered-e-paper-module
+release_date: null
+sku: 2-7inch-nfc-powered-e-paper-module
+spec: null
+status: Out of Stock
+vendor: waveshare

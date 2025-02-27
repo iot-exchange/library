@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Industrial 8-Channel Relay Module for Raspberry Pi Pico, Multi Protection
+extra:
+  Price: $17.29 - $18.99
+  SKU: '20218'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-relay-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pico-relay-b.htm
+  repositories: []
+name: Pico-Relay-B
+ref: waveshare/pico-relay-b
+release_date: null
+sku: pico-relay-b
+spec: null
+status: ''
+vendor: waveshare

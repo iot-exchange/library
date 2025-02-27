@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/MOTOR-F201210/images/thumbs/200x150/N30F.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/MOTOR-F201210/
+  repositories: []
+name: MOTOR-F201210
+ref: olimex/motor-f201210
+release_date: null
+sku: motor-f201210
+spec: null
+status: ''
+vendor: olimex

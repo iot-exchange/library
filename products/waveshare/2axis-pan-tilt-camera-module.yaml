@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "360\xB0 Omnidirectional High-Torque 2-Axis Expandable Pan-Tilt Camera\
+  \ Module, Driven By Serial Bus Servos, Based On General Driver Board For Robots"
+extra:
+  Price: $109.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/-/2-axis-pan-tilt-camera-module-3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/2-axis-pan-tilt-camera-module.htm
+  repositories: []
+name: 2axis_pan_tilt_camera_module
+ref: waveshare/2axis-pan-tilt-camera-module
+release_date: null
+sku: 2axis-pan-tilt-camera-module
+spec: null
+status: ''
+vendor: waveshare

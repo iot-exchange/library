@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: A powerful, general-purpose 2.4G Wi-Fi 6 and Bluetooth LE module, an
+  ideal choice for smart homes, industrial automation, health care, consumer electronics,
+  etc.
+extra:
+  Antenna: PCB Antenna
+  Chip Embedded: ESP32-C61HR2
+  Development Board: ESP32-C61-DevKitC-1-N8R2
+  Dimensions (mm): "18.0 \xD7 25.5 \xD7 3.1"
+  Flash (MB): '2'
+  PSRAM (MB): '8'
+  Pins: '29'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-C61-WROOM-1_S_0.png
+  models: []
+  products:
+  - https://products.espressif.com/#/product-selector?language=en
+  repositories: []
+name: ESP32-C61-WROOM-1
+ref: espressif/esp32-c61-wroom-1
+release_date: null
+sku: esp32-c61-wroom-1
+spec: null
+status: ''
+vendor: espressif

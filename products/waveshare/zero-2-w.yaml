@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Zero 2 W / WH / WHC, Five Times Faster, Quad-core ARM Processor
+extra:
+  Price: $21.99 - $74.49
+  price: $21.99 -  $74.49
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-zero-2-w-single-unit-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-zero-2-w-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/raspberry-pi-zero-2-w.htm
+  repositories: []
+name: zero_2_w
+ref: waveshare/zero-2-w
+release_date: null
+sku: zero-2-w
+spec: null
+status: ''
+vendor: waveshare

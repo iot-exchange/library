@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 2.25 EUR
+  discountedPrice2: 2.00 EUR
+  price: 2.50 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/ShaftSupport/SUPPORT-SHF12/images/thumbs/200x150/SHF12.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/ShaftSupport/SUPPORT-SHF12/
+  repositories: []
+name: SUPPORT-SHF12
+ref: olimex/support-shf12
+release_date: null
+sku: support-shf12
+spec: null
+status: ''
+vendor: olimex

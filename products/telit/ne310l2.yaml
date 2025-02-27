@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/11/TC_NE310L2_dyn-234x200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/ne310l2/
+  repositories: []
+name: NE310L2
+ref: telit/ne310l2
+release_date: null
+sku: ne310l2
+spec: null
+status: ''
+vendor: telit

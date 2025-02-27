@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: It is a high performance, robust rubber duck model for 400-900MHz range.
+  It is ideal choice for Pro Audio and Video professionals. It covers all TV and Digital
+  TV Broadcast (DTVB) and the range used for all UHF Wireless Microphones from major
+  brands.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedimg2016-11lrouunoeyrphccdt1q8v9nqo.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Rubber-Duck-UHF-400-900MHz-SMA-Articulated-Antenna-p-2738.html
+  repositories: []
+name: '109990205'
+ref: seeedstudio/109990205
+release_date: null
+sku: '109990205'
+spec: null
+status: ''
+vendor: seeedstudio

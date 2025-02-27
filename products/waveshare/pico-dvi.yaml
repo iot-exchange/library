@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "7/10.1 inch DVI Display Module for Raspberry Pi Pico, IPS panel, 1024\xD7\
+  600 Pixel, DVI interface Communication"
+extra:
+  Multi Options: ''
+  Price: $27.99 -  $34.99
+  price: $27.99 -  $34.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-dvi-7inch-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pico-dvi.htm
+  repositories: []
+name: pico_dvi
+ref: waveshare/pico-dvi
+release_date: null
+sku: pico-dvi
+spec: null
+status: ''
+vendor: waveshare

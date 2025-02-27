@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Power Over Ethernet HAT (G) For Raspberry Pi 5 / CM 5, 5V 5A Output,
+  Supports 802.3af/at Network Standard, Raspberry Pi 5 PoE HAT
+extra:
+  Multi Options: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/o/poe-hat-g-1_3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/poe-hat-g.htm "Power Over Ethernet HAT (G) For Raspberry
+    Pi 5 / CM 5, 5V 5A Output, Supports 802.3af/at Network Standard, Raspberry Pi
+    5 PoE HAT"
+  repositories: []
+name: poe_hat_g
+ref: waveshare/poe-hat-g
+release_date: null
+sku: poe-hat-g
+spec: null
+status: ''
+vendor: waveshare

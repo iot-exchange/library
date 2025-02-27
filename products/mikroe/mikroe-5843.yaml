@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Brushless 26 Click is a compact add-on board that controls brushless
+  DC motors with any MCU. This board features the DRV8317H, a three-phase PWM motor
+  driver from Texas Instruments. It provides three integrated MOSFET half-bridges
+  for driving three-phase brushless DC (BLDC) motors with 5V, 9V, 12V, or 18V DC rails
+  or 2s to 4s batteries.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/brushless-26-click/brushless-26-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/brushless-26-click
+  repositories: []
+name: MIKROE-5843
+ref: mikroe/mikroe-5843
+release_date: null
+sku: mikroe-5843
+spec: null
+status: ''
+vendor: mikroe

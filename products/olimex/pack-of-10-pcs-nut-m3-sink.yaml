@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Fasteners/NUT-M3-SINK/images/thumbs/200x150/NUT-SINK-M3.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Fasteners/NUT-M3-SINK/
+  repositories: []
+name: Pack of 10 pcs NUT-M3-SINK
+ref: olimex/pack-of-10-pcs-nut-m3-sink
+release_date: null
+sku: pack-of-10-pcs-nut-m3-sink
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.arduino.cc/wiki/static/847ff61571f98635781e1f1bfccf10d9/4b190/uno-mini-le.jpg
+  models: []
+  products:
+  - https://store.arduino.cc/products/uno-mini-le
+  repositories: []
+name: Arduino UNO Mini Limited Edition
+ref: arduino/arduino-uno-mini-limited-edition
+release_date: null
+sku: arduino-uno-mini-limited-edition
+spec: null
+status: ''
+vendor: arduino

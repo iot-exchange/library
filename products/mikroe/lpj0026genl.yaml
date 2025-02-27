@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: RJ45 Ethernet Jack with LEDs (LPJ0026GENL) is eight-pin 2.54mm
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rj45-ethernet-jack-with-leds/rj45-ethernet-jack-with-leds-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/rj45-ethernet-jack-with-leds
+  repositories: []
+name: LPJ0026GENL
+ref: mikroe/lpj0026genl
+release_date: null
+sku: lpj0026genl
+spec: null
+status: ''
+vendor: mikroe

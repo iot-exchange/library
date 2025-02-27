@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: BM78 Click is a compact add-on board designed to integrate dual-mode
+  Bluetooth wireless capability into various projects. This board features the BM78,
+  a fully certified 2.4GHz Bluetooth (BR/EDR/LE) wireless module from Microchip. The
+  BM78 module includes an on-board Bluetooth stack, power management subsystem, 2.4GHz
+  transceiver, and RF power amplifier....
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/bm78-click/bm78-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/bm78-click
+  repositories: []
+name: MIKROE-6114
+ref: mikroe/mikroe-6114
+release_date: null
+sku: mikroe-6114
+spec: null
+status: ''
+vendor: mikroe

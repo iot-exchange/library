@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "5inch Resistive Touch Screen LCD, 800\xD7480, HDMI, Low Power"
+extra:
+  Price: $33.97 - $34.99
+  SKU: '10563'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/a/5ap-m.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/5inch-hdmi-lcd.htm
+  repositories: []
+name: 5inch HDMI LCD
+ref: waveshare/5inch-hdmi-lcd
+release_date: null
+sku: 5inch-hdmi-lcd
+spec: null
+status: ''
+vendor: waveshare

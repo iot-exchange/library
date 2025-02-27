@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC2340R2
+  repositories: []
+name: CC2340R2
+ref: ti/cc2340r2
+release_date: null
+sku: cc2340r2
+spec: null
+status: New
+vendor: ti

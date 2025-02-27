@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Test & Burn-in Socket
+extra:
+  Price: $56.99 - $59.99
+  SKU: '3556'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/p/fpq-64-0.5-06_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/fpq-64-0.5-06.htm
+  repositories: []
+name: FPQ-64-0.5-06
+ref: waveshare/fpq-64-0-5-06
+release_date: null
+sku: fpq-64-0-5-06
+spec: null
+status: ''
+vendor: waveshare

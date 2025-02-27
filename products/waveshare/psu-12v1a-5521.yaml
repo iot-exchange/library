@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Power supply, power adapter, 12V/1A, DC jack output, OD 5.5mm, ID 2.1mm,
+  Option For US / EU / UK Plugs
+extra:
+  Price: $6.49
+  multiOptions: Multi Options
+  price: $6.49
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/s/psu-12v1a-5.5-2.1-us-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/psu-12v1a-5.5-2.1.htm "Power supply, power adapter,
+    12V/1A, DC jack output, OD 5.5mm, ID 2.1mm, Option For US / EU / UK Plugs"
+  - https://www.waveshare.com/product/psu-12v1a-5.5-2.1.htm
+  repositories: []
+name: psu_12v1a_5521
+ref: waveshare/psu-12v1a-5521
+release_date: null
+sku: psu-12v1a-5521
+spec: null
+status: ''
+vendor: waveshare

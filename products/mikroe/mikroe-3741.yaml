@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: BATT-MON Click is a very versatile, high accuracy, multiple-chemistry
+  battery gauge for applications single-cell batteries. It can be used for various
+  applications, ranging from smartphones, notebook / laptops, power tools, vacuums,
+  to energy storage systems (ESS), while providing the output voltage at the same
+  time.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/batt-mon-click/batt-mon-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/opto-encoder-3-click/opto-encoder-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/batt-mon-click
+  - https://www.mikroe.com/opto-encoder-3-click
+  repositories: []
+name: MIKROE-3741
+ref: mikroe/mikroe-3741
+release_date: null
+sku: mikroe-3741
+spec: null
+status: ''
+vendor: mikroe

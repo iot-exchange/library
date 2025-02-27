@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Relay 5 Click is a compact add-on board with general-purpose I2C-controlled
+  relays that any host MCU can control. This board features three J1031C3VDC.15S,
+  a high-current single-pole double-throw (SPDT) signal relays controlled by the PCA9538A,
+  a low-voltage 8-bit I/O port expander from NXP Semiconductors. Highly sensitive,
+  the J1031C3VDC.15S offers a low...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/relay-5-click/relay-5-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/relay-5-click
+  repositories: []
+name: MIKROE-5675
+ref: mikroe/mikroe-5675
+release_date: null
+sku: mikroe-5675
+spec: null
+status: ''
+vendor: mikroe

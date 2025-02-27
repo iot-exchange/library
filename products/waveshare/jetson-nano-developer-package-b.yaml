@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Jetson Nano Development Pack (Type B), with Camera, TF Card
+extra:
+  Multi Options: ''
+  Price: $34.99 -  $332.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-nano-developer-kit-package-c_9.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-nano-developer-kit-package-b_8.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/jetson-nano-developer-kit-package-c.htm
+  - https://www.waveshare.com/jetson-nano-developer-kit-package-b.htm
+  - https://www.waveshare.com/jetson-nano-developer-kit-package-b.htm "Jetson Nano
+    Development Pack (Type B), with Camera, TF Card"
+  repositories: []
+name: Jetson Nano Developer Package B
+ref: waveshare/jetson-nano-developer-package-b
+release_date: null
+sku: jetson-nano-developer-package-b
+spec: null
+status: ''
+vendor: waveshare

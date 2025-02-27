@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Silent Step 3 Click is the complete integrated bipolar step motor driver
+  solution, rich with many features that allow extremely smooth and silent operation
+  of the connected motor.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/silent-step-3-click/silent-step-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/silent-step-3-click
+  repositories: []
+name: MIKROE-3676
+ref: mikroe/mikroe-3676
+release_date: null
+sku: mikroe-3676
+spec: null
+status: ''
+vendor: mikroe

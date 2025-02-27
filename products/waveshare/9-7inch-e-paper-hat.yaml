@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 1200x825, 9.7inch E-Ink display HAT for Raspberry Pi
+extra:
+  Price: $167.89 - $172.99
+  SKU: '15195'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/9/_/9.7inch-e-paper-hat-intro_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/9.7inch-e-paper-hat.htm
+  repositories: []
+name: 9.7inch e-Paper HAT
+ref: waveshare/9-7inch-e-paper-hat
+release_date: null
+sku: 9-7inch-e-paper-hat
+spec: null
+status: ''
+vendor: waveshare

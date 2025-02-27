@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Bluetooth Module
+extra:
+  2MPHY: ''
+  802.15.4 / Matter / Thread: ''
+  BLE: x
+  Classic BT: x
+  LE Long Range: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/BT860ST.png
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/bt860-series-bluetooth-module
+  repositories: []
+name: BT860 Series
+ref: ezurio/bt860-series
+release_date: null
+sku: bt860-series
+spec: null
+status: ''
+vendor: ezurio

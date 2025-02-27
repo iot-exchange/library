@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "ESP32-C61-DevKitC-1 is an entry-level development board based on ESP32-C61-WROOM-1,\
+  \ embedded with 8 MB SPI flash and 2 MB PSRAM. This board integrates complete 2.4G\
+  \ Wi-Fi 6 and Bluetooth\xAE Low Energy functions."
+extra:
+  Flash: 8 MB
+  Interfaces: I/O USB
+  PSRAM: 2 MB
+  Related Products: ESP32-C6-WROOM-1
+  UI: Buttons, LEDs
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32c61/esp32-c61-devkitc-1/user_guide.html
+  repositories: []
+name: ESP32-C61-DevKitC-1
+ref: espressif/esp32-c61-devkitc-1
+release_date: null
+sku: esp32-c61-devkitc-1
+spec: null
+status: ''
+vendor: espressif

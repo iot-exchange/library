@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/EYE-PROTECT/images/thumbs/200x150/EYE-PROTECT.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/Soldering/EYE-PROTECT/
+  repositories: []
+name: EYE-PROTECT
+ref: olimex/eye-protect
+release_date: null
+sku: eye-protect
+spec: null
+status: ''
+vendor: olimex

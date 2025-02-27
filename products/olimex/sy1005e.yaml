@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 6.26 EUR
+  discountedPrice2: 5.56 EUR
+  price: 6.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Power/SY1005E/images/thumbs/200x150/Power-Supply.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Power/SY1005E/
+  repositories: []
+name: SY1005E
+ref: olimex/sy1005e
+release_date: null
+sku: sy1005e
+spec: null
+status: ''
+vendor: olimex

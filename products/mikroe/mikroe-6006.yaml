@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: NeoMesh Click - 868MHz is a compact add-on board with a low-power, long-range
+  transceiver, ideal for Mesh wireless networking. This board features the NC1000C-8,
+  a wireless Mesh network module from NeoCortec.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/neomesh-click-868mhz/neomesh-click-868mhz-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/neomesh-click-868mhz
+  repositories: []
+name: MIKROE-6006
+ref: mikroe/mikroe-6006
+release_date: null
+sku: mikroe-6006
+spec: null
+status: ''
+vendor: mikroe

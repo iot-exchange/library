@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/PIC/Programmers/PIC-ICSP/images/thumbs/200x150/PIC-ICSP.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/PIC/Programmers/PIC-ICSP/
+  repositories: []
+name: PIC-ICSP
+ref: olimex/pic-icsp
+release_date: null
+sku: pic-icsp
+spec: null
+status: ''
+vendor: olimex

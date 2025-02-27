@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Pack of 10 pcs
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Fasteners/NUT-DIN439-M3/images/thumbs/200x150/NUT-DIN439.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Fasteners/NUT-DIN439-M3/
+  repositories: []
+name: NUT-DIN439-M3
+ref: olimex/nut-din439-m3
+release_date: null
+sku: nut-din439-m3
+spec: null
+status: ''
+vendor: olimex

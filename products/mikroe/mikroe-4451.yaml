@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: pH Click Bundle - This bundle gives you everything you need to take high
+  accuracy, interference-free pH readings. It allows users to combine pH Plastic Probe
+  BNC with pH Click to read pH values with the same accuracy and capabilities as with
+  some other solutions from AtlasScientific.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ph-click-bundle/ph-click-bundle-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ph-click-bundle
+  repositories: []
+name: MIKROE-4451
+ref: mikroe/mikroe-4451
+release_date: null
+sku: mikroe-4451
+spec: null
+status: Unavailable
+vendor: mikroe

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Cables/USB-MAG-2-CABLE/images/thumbs/200x150/USB-MAG-2-CABLE.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Cables/USB-MAG-2-CABLE/
+  repositories: []
+name: USB-MAG-2-CABLE
+ref: olimex/usb-mag-2-cable
+release_date: null
+sku: usb-mag-2-cable
+spec: null
+status: ''
+vendor: olimex

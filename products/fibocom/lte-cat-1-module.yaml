@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Designed for medium-rate IoT connections, offering higher data rates
+  than LTE Cat M modules.
+extra:
+  Applications: Smart home appliances, security systems
+  Data Rate: Higher than Cat M
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: LTE Cat 1 Module
+ref: fibocom/lte-cat-1-module
+release_date: null
+sku: lte-cat-1-module
+spec: null
+status: ''
+vendor: fibocom

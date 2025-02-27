@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/EEG/OpenEEG/EEG-DIGITAL-PCB/images/thumbs/200x150/EEG-DIGITAL-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/EEG/OpenEEG/EEG-DIGITAL-PCB/open-source-hardware
+  repositories: []
+name: EEG-DIGITAL-PCB
+ref: olimex/eeg-digital-pcb
+release_date: null
+sku: eeg-digital-pcb
+spec: null
+status: ''
+vendor: olimex

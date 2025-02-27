@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 38.00 EUR
+  discountedPrice2: 36.00 EUR
+  price: 40.00 EUR
+  price1: 40.00 EUR
+  price2: 38.00 EUR
+  price3: 36.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/LCD/LCD-OLinuXino-5CTS/images/thumbs/200x150/LCD-OLinuXino-5CTS.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/LCD/LCD-OLinuXino-5CTS/
+  repositories: []
+name: LCD-OLinuXino-5CTS
+ref: olimex/lcd-olinuxino-5cts
+release_date: null
+sku: lcd-olinuxino-5cts
+spec: null
+status: ''
+vendor: olimex

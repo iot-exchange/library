@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Part No.:OpenEPM1270 Package B, CPLD Development Board
+extra:
+  Price: $61.19 - $64.99
+  SKU: '5634'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/openepm1270-package-b_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/openepm1270-package-b.htm
+  repositories: []
+name: OpenEPM1270 Package B
+ref: waveshare/openepm1270-package-b
+release_date: null
+sku: openepm1270-package-b
+spec: null
+status: Out of Stock
+vendor: waveshare

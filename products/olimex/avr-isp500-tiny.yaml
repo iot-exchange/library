@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/AVR/Programmers/AVR-ISP500-TINY/images/thumbs/200x150/AVR-ISP500-TINY-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/AVR/Programmers/AVR-ISP500-TINY/
+  repositories: []
+name: AVR-ISP500-TINY
+ref: olimex/avr-isp500-tiny
+release_date: null
+sku: avr-isp500-tiny
+spec: null
+status: ''
+vendor: olimex

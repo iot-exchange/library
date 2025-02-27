@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 12.95 EUR
+  price2: 11.66 EUR
+  price3: 10.36 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Duino/MSP430/OLIMEXINO-5510/images/thumbs/200x150/OLIMEXINO-5510-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Duino/MSP430/OLIMEXINO-5510/open-source-hardware
+  repositories: []
+name: OLIMEXINO-5510
+ref: olimex/olimexino-5510
+release_date: null
+sku: olimexino-5510
+spec: null
+status: ''
+vendor: olimex

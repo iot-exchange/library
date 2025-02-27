@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Grove - 2-Channel SPDT Relay
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2018-08bazaar903307_1.jpg
+  - https://www.seeedstudio.com/img/aj
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-2-Channel-SPDT-Relay-p-103020132.html
+  repositories: []
+name: '103020132'
+ref: seeedstudio/103020132
+release_date: null
+sku: '103020132'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: L298 Dual H-Bridge Motor Driver
+extra:
+  details: Double H driver module uses ST L298N dual full-bridge driver, an integrated
+    monolithic circuit in a 15-lead Multiwatt and PowerSO20 packages
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductl2981.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/L298-Dual-H-Bridge-Motor-Driver-p-284.html
+  repositories: []
+name: '105990007'
+ref: seeedstudio/105990007
+release_date: null
+sku: '105990007'
+spec: null
+status: ''
+vendor: seeedstudio

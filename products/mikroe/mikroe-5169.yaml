@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Step Down 3 Click is a compact add-on board that steps down the voltage
+  from its input to its output. This board features the ST1PS03, a nano-quiescent
+  miniaturized synchronous step-down converter with a load switch from STMicroelectronics.
+  The ST1PS03 can provide up to 400mA output current with an input voltage ranging
+  from 1.8V to 5.5V, specifically...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/step-down-3-click/step-down-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/step-down-3-click
+  repositories: []
+name: MIKROE-5169
+ref: mikroe/mikroe-5169
+release_date: null
+sku: mikroe-5169
+spec: null
+status: ''
+vendor: mikroe

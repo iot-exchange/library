@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: This is a 4-pin, 2.0mm pitch, 90D Grove Female Header pack with 20pcs,
+  which is suitable to solder onto a module and enable it to connect with other development
+  boards in the Grove Ecosystem.
+extra:
+  angle: 90D
+  pins: '4'
+  pitch: 2.0mm
+  quantity: 20pcs
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114020164_-front-23.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-Female-Header-SMD-4P-2.0mm-90D-20Pcs-p-4590.html
+  repositories: []
+name: '114020164'
+ref: seeedstudio/114020164
+release_date: null
+sku: '114020164'
+spec: null
+status: ''
+vendor: seeedstudio

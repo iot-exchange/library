@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Supports multiprotocol features for devices operating in multiple networks
+  based on the 802.15.4 standard.
+extra:
+  features: Concurrent listening, dynamic multi-protocol operations
+  protocols: Zigbee, Thread
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: MG21
+ref: silicon-labs/mg21
+release_date: null
+sku: mg21
+spec: null
+status: ''
+vendor: silicon-labs

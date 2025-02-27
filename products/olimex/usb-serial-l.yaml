@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/USB-Modules/USB-SERIAL-L/images/thumbs/200x150/USB-SERIAL-L-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/USB-Modules/USB-SERIAL-L/
+  repositories: []
+name: USB-SERIAL-L
+ref: olimex/usb-serial-l
+release_date: null
+sku: usb-serial-l
+spec: null
+status: ''
+vendor: olimex

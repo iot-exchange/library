@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrices:
+  - 45.08 EUR
+  - 44.16 EUR
+  - 43.24 EUR
+  - 42.32 EUR
+  price: 46.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/SOM204/A20/A20-SOM204/images/thumbs/200x150/A20-SOM204-T.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/SOM204/A20/T2-SOM204-1Gs16Me16G-M-I/
+  repositories: []
+name: T2-SOM204-1Gs16Me16G-M-I
+ref: olimex/t2-som204-1gs16me16g-m-i
+release_date: null
+sku: t2-som204-1gs16me16g-m-i
+spec: null
+status: ''
+vendor: olimex

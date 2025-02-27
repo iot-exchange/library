@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LDO Click is a compact add-on board designed to regulate the output voltage
+  of a power supply to a lower level with a very low dropout voltage. This board features
+  the TPS7A83A, a low-noise, low-dropout linear regulator (LDO) from Texas Instruments
+  capable of sourcing 2A with only 200mV of maximum dropout. The TPS7A8300A has a
+  pin-programmable output...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ldo-click/ldo-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ldo-click
+  repositories: []
+name: MIKROE-5645
+ref: mikroe/mikroe-5645
+release_date: null
+sku: mikroe-5645
+spec: null
+status: ''
+vendor: mikroe

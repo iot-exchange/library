@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: This bundle allows you to quickly create various display applications
+  based on a wide range of technologies, such as capacitive or resistive touch panels,
+  OLED or TFT screen technology, and much more. The bundle includes two types of connectors
+  male and female, that fully meet the DISCON displays standard. The connectors measure
+  51x5mm and consist of 40...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/discon-connector-bundle/discon-connector-bundle-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/discon-connector-bundle
+  repositories: []
+name: MIKROE-5490
+ref: mikroe/mikroe-5490
+release_date: null
+sku: mikroe-5490
+spec: null
+status: ''
+vendor: mikroe

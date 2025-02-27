@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "Magnetic Rotary 5 Click is a compact add-on board for accurate magnet-position\
+  \ sensing. This board features the AS5134, a contactless magnetic rotary encoder\
+  \ from ams for accurate angular measurement over a full turn of 360\xBA."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/magnetic-rotary-5-click/magnetic-rotary-5-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/cart?add=1&id_product=3624
+  - https://www.mikroe.com/magnetic-rotary-5-click
+  repositories: []
+name: MIKROE-5691
+ref: mikroe/mikroe-5691
+release_date: null
+sku: mikroe-5691
+spec: null
+status: ''
+vendor: mikroe

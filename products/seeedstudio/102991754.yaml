@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Grove for Scratch is an expansion board that allows various Grove modules
+  to be controlled from Scratch via USB cable.
+extra:
+  Price: $49.90
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-grove-for-scratch-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-for-Scratch-p-5528.html
+  repositories: []
+name: '102991754'
+ref: seeedstudio/102991754
+release_date: null
+sku: '102991754'
+spec: null
+status: ''
+vendor: seeedstudio

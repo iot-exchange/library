@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: "2.36inch E-Paper Module (G), 296 \xD7 168, Red/Yellow/Black/White"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.36inch-e-paper-module-g-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/2.36inch-e-paper-module-g.htm
+  repositories: []
+name: 2.36inch e-Paper Module (G)
+ref: waveshare/2-36inch-e-paper-module-g
+release_date: null
+sku: 2-36inch-e-paper-module-g
+spec: null
+status: ''
+vendor: waveshare

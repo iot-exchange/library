@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: NECTO Studio Monthly subscription is the quickest and easiest way to
+  unlock your NECTO Studio for ALL supported compilers (mikroC AI for ARM, mikroC
+  AI for PIC, mikroC AI for PIC32, mikroC AI for dsPIC, mikroC AI for AVR and GCC
+  toolchain for RISC-V).
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.mikroe.com/img/af
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=56#MIKROE-5266
+  repositories: []
+name: MIKROE-5266
+ref: mikroe/mikroe-5266
+release_date: null
+sku: mikroe-5266
+spec: null
+status: ''
+vendor: mikroe

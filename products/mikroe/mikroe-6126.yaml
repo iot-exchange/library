@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Step Down 12 Click is a compact add-on board for reliable DC-DC step-down
+  applications. Based on Texas Instruments' TPS62902 synchronous step-down converter,
+  it features the DCS-Control topology, which combines hysteretic, voltage mode, and
+  current mode control for precision and fast response to voltage changes. Supporting
+  a wide input voltage range of 3V...
+extra:
+  price: $21.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/step-down-12-click/step-down-12-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/step-down-12-click
+  repositories: []
+name: MIKROE-6126
+ref: mikroe/mikroe-6126
+release_date: null
+sku: mikroe-6126
+spec: null
+status: ''
+vendor: mikroe

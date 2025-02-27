@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: With the rise of the popularity of RISC-V, it was not a matter of will
+  we support it. It was just a matter of time. In one of the latest NECTO updates
+  we have added full support for RISC-V architecture. Just like our newest T-shirt
+  says "Everybody plays it safe. We're gonna RISC-V it." It is 100% cotton, in navy
+  blue color, and it comes in various...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/necto-risc-v-t-shirt-male-m/necto-risc-v-t-shirt-male-m-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/necto-risc-v-t-shirt-male-m
+  repositories: []
+name: MIKROE-5697
+ref: mikroe/mikroe-5697
+release_date: null
+sku: mikroe-5697
+spec: null
+status: ''
+vendor: mikroe

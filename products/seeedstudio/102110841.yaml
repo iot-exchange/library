@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "A607 Carrier Board for Jetson Orin\u2122 NX/Orin\u2122 Nano. A607 Jetson\
+  \ Carrier Board is a powerful extension board that supports Jetson Orin\u2122 NX/Nano\
+  \ modules. It features 2 GbE network port, pre-installed SMD WiFi/BlueTooth, M.2\
+  \ Key M for SSD. It also contains CAN/I2C/RS232/RS485/SPI/UART, 6x USB ports, a\
+  \ fan, RTC, and flexible 12-36V power supply."
+extra:
+  Price: $419.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/_/_/__1-102110841-a607-carrier-board-for-jetson-orin__nxnano-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/A607-Carrier-Board-for-Jetson-Orin-NX-Nano-p-5634.html
+  repositories: []
+name: '102110841'
+ref: seeedstudio/102110841
+release_date: null
+sku: '102110841'
+spec: null
+status: ''
+vendor: seeedstudio

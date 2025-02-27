@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Price: $10.99 - $11.99
+  SKU: '10514'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/0/_/0.95inch-rgb-oled-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/0.95inch-rgb-oled-b.htm
+  repositories: []
+name: 0.95inch RGB OLED (B)
+ref: waveshare/0-95inch-rgb-oled-b
+release_date: null
+sku: 0-95inch-rgb-oled-b
+spec: null
+status: ''
+vendor: waveshare

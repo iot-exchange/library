@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: This is a 3PCs pack of XIAO ESP32C3, an mini thumb-size dev board that
+  adopts the RISC-V architecture, supporting both Wi-Fi and BLE wireless connectivities.
+  With the support of Arduino IDE, MicroPython, CircuitPython, PlatformIO, ESP IDF,
+  Zephyr, Matter, ESPNow, Meshtastic, WLED, ESPHome, Home Assistant, Ubidots, it\'s
+  a perfect kit for you to build your IoT projects.
+extra:
+  discount: $1.35 (10%)
+  original_price: $13.49
+  price: $12.14
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/w/e/wechatimg496_3.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/w/e/wechatimg496_4.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C3-3PCS-p-5920.html
+  repositories: []
+name: '102010572'
+ref: seeedstudio/102010572
+release_date: null
+sku: '102010572'
+spec: null
+status: ''
+vendor: seeedstudio

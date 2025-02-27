@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Pack of 10 pcs
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Fasteners/SPRING-WASHER-DIN127-M3/images/thumbs/200x150/SPRING-WASHER-DIN127.png
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Fasteners/SPRING-WASHER-DIN127-M3/
+  repositories: []
+name: SPRING-WASHER-DIN127-M3
+ref: olimex/spring-washer-din127-m3
+release_date: null
+sku: spring-washer-din127-m3
+spec: null
+status: ''
+vendor: olimex

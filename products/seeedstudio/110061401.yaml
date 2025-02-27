@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: Due to component shortage, J2012 is discontinued, we recommend reComputer
+  J2021, built with Jetson Xavier NX 8GB module, rich set of IOs carrier boards, aluminum
+  case, cooling fan, pre-installed JetPack System, for your next AI application development
+  and deployment.
+extra:
+  case: Aluminum
+  cooling: Fan
+  module: Jetson Xavier NX 8GB
+  pre-installed: JetPack System
+  price: $699.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/r/e/recomputer_all-22.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Jetson-20-1-H2-p-5329.html
+  repositories: []
+name: '110061401'
+ref: seeedstudio/110061401
+release_date: null
+sku: '110061401'
+spec: null
+status: ''
+vendor: seeedstudio

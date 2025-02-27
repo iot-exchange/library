@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "Compass 5 Click is a compact add-on board that contains a 3-axis magnetometer\
+  \ device suitable for compass application. This board features the AK09918C, a 3-axis\
+  \ electronic compass with high sensitive Hall sensor technology from AKM Semiconductor.\
+  \ This Click board\u2122, an I2C configurable compass, incorporates magnetic sensors\
+  \ for detecting terrestrial..."
+extra:
+  price: $18.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/compass-5-click/compass-5-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/compass-5-click
+  repositories: []
+name: MIKROE-4366
+ref: mikroe/mikroe-4366
+release_date: null
+sku: mikroe-4366
+spec: null
+status: ''
+vendor: mikroe

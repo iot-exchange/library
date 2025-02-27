@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi cases combine high-quality construction with a clean, minimalist
+  design. They protect your Raspberry Pi and make it look great at the same time.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/case/
+  repositories: []
+name: Raspberry Pi Case
+ref: raspberrypi/raspberry-pi-case
+release_date: null
+sku: raspberry-pi-case
+spec: null
+status: ''
+vendor: raspberrypi

@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Bluetooth Module
+extra:
+  2MPHY: ''
+  802.15.4 / Matter / Thread: ''
+  BLE: x
+  Classic BT: ''
+  LE Long Range: x
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/BT830_SA.png
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-42-and-40-modules/bt830-series-bluetooth-module
+  repositories: []
+name: BT830 Series
+ref: ezurio/bt830-series
+release_date: null
+sku: bt830-series
+spec: null
+status: ''
+vendor: ezurio

@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Antenna type: ''
+  Current consumption: ''
+  Dimensions (mm): 17 x 27 x 3.8
+  Expected lifetime: '>10 years'
+  Frequency range: 169.4125 - 169.475
+  Max data rate: ''
+  Output power: '3000'
+  Sensitivity: ''
+  Voltage: ''
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/TITANIA#2607046211001
+  - https://www.we-online.com/en/components/products/TITANIA#2607011111000
+  repositories: []
+name: '2607046211001'
+ref: we/2607046211001
+release_date: null
+sku: '2607046211001'
+spec: null
+status: Active
+vendor: we

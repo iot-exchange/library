@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "6DOF IMU 7 Click is an advanced 6-axis motion tracking Click board\u2122\
+  , which utilizes the ICM-20649, a high-performance integrated motion sensor, equipped\
+  \ with a 3-axis gyroscope, and a 3-axis accelerometer. There is a MEMS structure\
+  \ hermetically sealed and bonded at wafer level. Data streams from each axis are\
+  \ fed to a signal processing engine, offering..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/6dof-imu-7-click/6dof-imu-7-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/6dof-imu-7-click
+  repositories: []
+name: MIKROE-3776
+ref: mikroe/mikroe-3776
+release_date: null
+sku: mikroe-3776
+spec: null
+status: ''
+vendor: mikroe

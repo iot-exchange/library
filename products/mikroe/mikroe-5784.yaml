@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Hall Current 16 Click is a compact add-on board that contains a precise
+  solution for AC/DC current sensing. This board features the ACS37002, a 400kHz high-accuracy
+  current sensor from Allegro Microsystems. This sensor features pin-selectable gains
+  that can be used to configure the device to one of the four defined sensitivities
+  and corresponding current...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/hall-current-16-click/hall-current-16-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/hall-current-16-click
+  repositories: []
+name: MIKROE-5784
+ref: mikroe/mikroe-5784
+release_date: null
+sku: mikroe-5784
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Microphone with PH2.0 female connector is an electret microphone, an
+  electrostatic capacitor-based microphone, which eliminates the need for a polarizing
+  power supply by using permanently-charged material. Housed in a compact package
+  with diameters as small as 6mm and attached via a lead terminated with a PH2.0 female
+  connector, this omnidirectional...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/microphone-with-ph20-female-connector/microphone-with-ph20-female-connector-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/microphone-with-ph20-female-connector
+  repositories: []
+name: MIKROE-5455
+ref: mikroe/mikroe-5455
+release_date: null
+sku: mikroe-5455
+spec: null
+status: ''
+vendor: mikroe

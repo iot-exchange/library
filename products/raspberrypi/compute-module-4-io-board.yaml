@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: A development platform and reference base-board design for our most powerful
+  Compute Module yet
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/00f25b55c04f97bc5203348e74d229aa/3f4ea/ffca9135-b704-41be-a1d4-994c30aad012_Module%2Band%2BIO%2BBoard%2B2_1.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/compute-module-4-io-board/
+  repositories: []
+name: Compute Module 4 IO Board
+ref: raspberrypi/compute-module-4-io-board
+release_date: null
+sku: compute-module-4-io-board
+spec: null
+status: ''
+vendor: raspberrypi

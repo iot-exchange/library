@@ -1,0 +1,31 @@
+alternatives: []
+certifications: []
+description: "SE250B4 smart module development kit featuring Qualcomm\xAE QCM2290\
+  \ and Android and Linux."
+extra:
+  CPU: Quad-core A53 @ 2.0 GHz
+  Camera Support: One or two cameras up to 25 MP (13+13 MP)
+  Cellular Radio: Multimode 4G, 3G and 2G
+  GNSS: Onboard multiconstellation GNSS positioning receiver
+  GPU: Adreno 702
+  Interface Support: Digital and analog interface support, including LCD screens and
+    touch screens
+  USB Support: USB 3.1, SPI, I2C and UART
+  Video Support: Recording and playback of 1080p video at 30 FPS
+  Wireless Technology: "Wi-Fi and Bluetooth\xAE"
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2023/02/SE250B4-2023_dynamic-271x200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/se250b4-series/
+  repositories: []
+name: SE250B4
+ref: telit/se250b4
+release_date: null
+sku: se250b4
+spec: null
+status: ''
+vendor: telit

@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Includes a set of easy-to-use plug and make nodes that can be combined
+  in any way.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.arduino.cc/wiki/static/bee6308385f37d5f45bfe98a270fb55d/4b190/plug-and-make-kit.jpg
+  models: []
+  products:
+  - https://store.arduino.cc/products/plug-and-make-kit
+  repositories: []
+name: Arduino Plug and Make Kit
+ref: arduino/arduino-plug-and-make-kit
+release_date: null
+sku: arduino-plug-and-make-kit
+spec: null
+status: ''
+vendor: arduino

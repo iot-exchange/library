@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Jetson A205 is an extension board specifically for NVIDIA Jetson Nano
+  / Xavier NX/TX2 NX. With the powerful NVIDIA controlling module(not included) and
+  its peripheral interfaces such as SATA and CSI camera interfaces, it's good for
+  diverse edge AI applications like automated optical inspection, robotics, drone,
+  3D modeling, etc, suitable in manufacturing, logistics, retail, agriculture, and
+  other industries.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - ./img/as
+  models: []
+  products:
+  - https://www.seeedstudio.com/A205-Carrier-Board-for-Jetson-Nano-Xavier-NX-p-5133.html
+  repositories: []
+name: '114110048'
+ref: seeedstudio/114110048
+release_date: null
+sku: '114110048'
+spec: null
+status: ''
+vendor: seeedstudio

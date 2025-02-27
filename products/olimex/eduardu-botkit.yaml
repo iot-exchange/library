@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Duino/AVR/eduArdu/images/thumbs/200x150/eduArdu-QS.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Duino/AVR/eduArdu-BotKit/open-source-hardware
+  repositories: []
+name: eduArdu-BotKit
+ref: olimex/eduardu-botkit
+release_date: null
+sku: eduardu-botkit
+spec: null
+status: ''
+vendor: olimex

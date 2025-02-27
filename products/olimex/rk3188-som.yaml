@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  10+ pcs: 45.00 EUR
+  100+ pcs: 37.50 EUR
+  1000+ pcs: 35.00 EUR
+  50+ pcs: 40.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/SOM/RK3188/RK3188-SOM/images/thumbs/200x150/rk3188-som.PNG
+  models: []
+  products:
+  - https://www.olimex.com/Products/SOM/RK3188/RK3188-SOM/
+  repositories: []
+name: RK3188-SOM
+ref: olimex/rk3188-som
+release_date: null
+sku: rk3188-som
+spec: null
+status: ''
+vendor: olimex

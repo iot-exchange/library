@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Zero To 3B Adapter, Alternative Solution for Raspberry Pi
+  3 Model B/B+
+extra:
+  SKU: '22382'
+  price: $13.97 - $14.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/z/e/zero-to-pi3-adapter-a-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-io-base-b-6.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/jetson-xavier-nx-dev-kit.htm
+  - https://www.waveshare.com/product/zero-to-pi3-adapter-a.htm
+  repositories: []
+name: Zero-to-Pi3-Adapter (A)
+ref: waveshare/zero-to-pi3-adapter-a
+release_date: null
+sku: zero-to-pi3-adapter-a
+spec: null
+status: ''
+vendor: waveshare

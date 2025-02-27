@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Nano Base Board (A) for Raspberry Pi Compute Module 4, Same Size as the
+  CM4
+extra:
+  Price: $14.31 - $14.99
+  SKU: '21634'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-nano-a-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/cm4-nano-a.htm
+  repositories: []
+name: CM4-NANO-A
+ref: waveshare/cm4-nano-a
+release_date: null
+sku: cm4-nano-a
+spec: null
+status: ''
+vendor: waveshare

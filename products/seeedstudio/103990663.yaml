@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi M.2 HAT+ is an official M.2 connector accessory for the
+  Raspberry Pi 5, supports the connection of M.2-format PCIe and NVMe devices to the
+  PCIe FPC connector on Raspberry Pi 5.
+extra:
+  price: $12.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993306-ochin-tiny-carrier-board-v2-45font_1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-M-2-HAT-for-Raspberry-Pi-5-p-5881.html
+  repositories: []
+name: '103990663'
+ref: seeedstudio/103990663
+release_date: null
+sku: '103990663'
+spec: null
+status: ''
+vendor: seeedstudio

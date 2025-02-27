@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: SolidSwitch 2 Click is a compact add-on board that contains a load switching
+  device. This board features the L9026, an automotive eight-channel relay driver
+  from STMicroelectronics. The L9026 incorporates two high-side drivers and six configurable
+  high-side/low-side drivers driven by an SPI interface or by two dedicated parallel
+  inputs.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/solidswitch-2-click/solidswitch-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/solidswitch-2-click
+  repositories: []
+name: MIKROE-5313
+ref: mikroe/mikroe-5313
+release_date: null
+sku: mikroe-5313
+spec: null
+status: ''
+vendor: mikroe

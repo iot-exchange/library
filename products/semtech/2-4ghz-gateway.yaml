@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: LoRa Core Development Kit, 2.4GHz ISM Band
+extra:
+  Product Applicability: SX1280
+  Region: Worldwide
+  Type: Shield
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.semtech.com/products/wireless-rf/lora-core/sx1280zxxxxgw1
+  repositories: []
+name: 2.4GHz Gateway
+ref: semtech/2-4ghz-gateway
+release_date: null
+sku: 2-4ghz-gateway
+spec: null
+status: ''
+vendor: semtech

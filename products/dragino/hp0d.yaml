@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Outdoor LoRaWAN Gateway SX1302 + 2 * SX1250 10 programmable parallel
+  demodulation paths Full Hotspot for Helium, Approval.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/ffe144b59c409587b4c9211fb31afdfe_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lora-lorawan-gateway/item/195-hp0d.html
+  repositories: []
+name: HP0D
+ref: dragino/hp0d
+release_date: null
+sku: hp0d
+spec: null
+status: ''
+vendor: dragino

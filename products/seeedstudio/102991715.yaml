@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Ai-WB2-32S-Kit is a development board based on the Ai-WB2-32S module.
+  This module is equipped with a BL602 chip as the core processor and supports Wi-Fi&BT.
+  It can be widely used in the Internet of Things(IoT), mobile devices, wearable electronic
+  devices, smart homes, and other fields.
+extra:
+  Price: $3.50
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991715_preview-07.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Ai-WB2-32S-Kit-p-5452.html
+  repositories: []
+name: '102991715'
+ref: seeedstudio/102991715
+release_date: null
+sku: '102991715'
+spec: null
+status: ''
+vendor: seeedstudio

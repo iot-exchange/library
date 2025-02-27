@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Humidity Click is a compact add-on board used to sense the amount of
+  water vapor in the air. This board features the HIH-5030, an analog output relative
+  humidity sensor from Honeywell Sensing and Productivity Solutions. The HIH-5031
+  is a covered, condensation-resistant, integrated circuit humidity sensor that is
+  factory-fitted with a hydrophobic filter...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/humidity-click/humidity-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/humidity-click
+  repositories: []
+name: MIKROE-4878
+ref: mikroe/mikroe-4878
+release_date: null
+sku: mikroe-4878
+spec: null
+status: ''
+vendor: mikroe

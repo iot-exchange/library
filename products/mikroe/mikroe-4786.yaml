@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: DC Motor 18 Click is a compact add-on board that contains a brushed DC
+  motor driver. This board features the TB9051FTG, an automotive PWM-type single-channel
+  H-Bridge DC brushed motor driver from Toshiba Semiconductor. The Forward/Reverse/Brake
+  mode can be selected according to PWM control signals.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dc-motor-18-click/dc-motor-18-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/dc-motor-18-click
+  repositories: []
+name: MIKROE-4786
+ref: mikroe/mikroe-4786
+release_date: null
+sku: mikroe-4786
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: This is an 8-megapixel camera with a FOV (field-of-view) of 77 degrees,
+  which is suitable to use with the NVIDIA Jetson Nano and NVIDIA Jetson Xavier NX
+  Development Kits.
+extra:
+  Camera Resolution: 8MP
+  Compatibility: NVIDIA Jetson Nano/ Xavier NX
+  Field of View: 77 degrees
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992260_-preview-19.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/IMX219-77-Camera-77-FOV-Applicable-for-Jetson-Nano-p-4608.html
+  repositories: []
+name: '114992260'
+ref: seeedstudio/114992260
+release_date: null
+sku: '114992260'
+spec: null
+status: ''
+vendor: seeedstudio

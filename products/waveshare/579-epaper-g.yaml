@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: 5.79inch e-Paper display (G), e-ink display, 792x272, Red/Yellow/Black/White,
+  SPI Interface
+extra:
+  Multi Options: ''
+  multiOptions: Multi Options
+  price: $17.99 -  $27.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/_/5.79inch-e-paper-module-g-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/5.79inch-e-paper-module-g.htm
+  - https://www.waveshare.com/product/5.79inch-e-paper-module-g.htm "5.79inch e-Paper
+    display (G), e-ink display, 792x272, Red/Yellow/Black/White, SPI Interface"
+  repositories: []
+name: 579_epaper_g
+ref: waveshare/579-epaper-g
+release_date: null
+sku: 579-epaper-g
+spec: null
+status: ''
+vendor: waveshare

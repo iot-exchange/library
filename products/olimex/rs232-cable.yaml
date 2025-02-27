@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Cables/RS232-CABLE/images/thumbs/200x150/RS232.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Cables/RS232-CABLE/
+  repositories: []
+name: RS232-CABLE
+ref: olimex/rs232-cable
+release_date: null
+sku: rs232-cable
+spec: null
+status: ''
+vendor: olimex

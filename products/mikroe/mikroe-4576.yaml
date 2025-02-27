@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "Charger 6 Click is a compact add-on board that represents a single-cell\
+  \ battery charger. This board features the BQ25601, an I2C controlled battery charger\
+  \ for high input voltage and narrow voltage DC power path management from Texas\
+  \ Instruments. This buck charger supports USB, and it\u2019s optimized for USB voltage\
+  \ input. The low impedance power path..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/charger-6-click/charger-6-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/charger-6-click
+  - https://www.mikroe.com/cart?add=1&id_product=3028
+  repositories: []
+name: MIKROE-4576
+ref: mikroe/mikroe-4576
+release_date: null
+sku: mikroe-4576
+spec: null
+status: ''
+vendor: mikroe

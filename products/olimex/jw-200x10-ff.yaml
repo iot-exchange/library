@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 0.95 EUR
+  price2: 0.86 EUR
+  price3: 0.76 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Breadboarding/JUMPER-WIRES/JW-200x10-FF/images/thumbs/200x150/JW.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Breadboarding/JUMPER-WIRES/JW-200x10-FF/
+  repositories: []
+name: JW-200x10-FF
+ref: olimex/jw-200x10-ff
+release_date: null
+sku: jw-200x10-ff
+spec: null
+status: ''
+vendor: olimex

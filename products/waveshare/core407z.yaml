@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Core407Z, STM32F4 Core Board
+extra:
+  Price: $19.95 - $21.99
+  SKU: '6446'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.waveshare.com/product/core407z.htm
+  repositories: []
+name: Core407Z
+ref: waveshare/core407z
+release_date: null
+sku: core407z
+spec: null
+status: ''
+vendor: waveshare

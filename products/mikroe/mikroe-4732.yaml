@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: DAC 10 Click is a compact add-on board that contains a fully-featured,
+  highly accurate digital-to-analog converter. This board features the DAC53401, a
+  10-bit voltage-output smart digital-to-analog converter from Texas Instruments.
+  This device consumes extremely low power and has a nonvolatile memory (NVM), an
+  internal reference, and an I2C serial...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dac-10-click/dac-10-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/dac-10-click
+  repositories: []
+name: MIKROE-4732
+ref: mikroe/mikroe-4732
+release_date: null
+sku: mikroe-4732
+spec: null
+status: ''
+vendor: mikroe

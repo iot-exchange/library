@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/SMT/SMEMA-MM-1M/images/thumbs/200x150/SMEMA-MM-1M.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/SMT/SMEMA-MM-1M/
+  repositories: []
+name: SMEMA-MM-1M
+ref: olimex/smema-mm-1m
+release_date: null
+sku: smema-mm-1m
+spec: null
+status: ''
+vendor: olimex

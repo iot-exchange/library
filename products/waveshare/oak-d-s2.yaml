@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 12MP, OpenCV AI Machine Vision Kit, Depth Measuring, Image Recognition
+extra:
+  SKU: '22642'
+  price: $246.59 - $249.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/a/oak-d-s2-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/a/oak-d-s2-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/oak-d-s2.htm
+  repositories: []
+name: OAK-D-S2
+ref: waveshare/oak-d-s2
+release_date: null
+sku: oak-d-s2
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Power/Lipo-battery/BATTERY-LIPO2200mAh/images/thumbs/200x150/lipo2200mah.JPG
+  models: []
+  products:
+  - https://www.olimex.com/Products/Power/Lipo-battery/BATTERY-LIPO2200mAh/
+  repositories: []
+name: BATTERY-LIPO2200mAh
+ref: olimex/battery-lipo2200mah
+release_date: null
+sku: battery-lipo2200mah
+spec: null
+status: ''
+vendor: olimex

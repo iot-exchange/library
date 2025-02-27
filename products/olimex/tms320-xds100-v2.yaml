@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 52.20 EUR
+  discountedPrice2: 49.46 EUR
+  price: 54.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/DSP/Emulators/TMS320-XDS100-V2/images/thumbs/200x150/TMS320-JTAG-USB.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/DSP/Emulators/TMS320-XDS100-V2/
+  repositories: []
+name: TMS320-XDS100-V2
+ref: olimex/tms320-xds100-v2
+release_date: null
+sku: tms320-xds100-v2
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Description of Product 1
+extra:
+  attribute1: value1
+  attribute2: value2
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.enocean.com/en/products/images/product1.jpg
+  models: []
+  products:
+  - https://www.enocean.com/en/products/product1
+  repositories: []
+name: Product1
+ref: enocean/product1
+release_date: null
+sku: product1
+spec: null
+status: Available
+vendor: enocean

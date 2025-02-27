@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: The Dual Gigabit Carrier Board designed for Raspberry Pi Compute Module
+  4 is equipped with Dual Gigabit Ethernet ports and dual USB 3.0 ports, making it
+  suitable for soft router applications. We have pre-installed a Raspberry Pi Compute
+  Module 4 with 4GB RAM and 32GB eMMC to enable fast boot-up times and a smooth overall
+  experience.This CM4 carried board is ideal for HTPC makers, Linux developers, software
+  router enthusiasts, and the majority of regular Raspberry Pi users.
+extra:
+  price: $108.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110110090-cm4_carrier_board_with_cm4_preview-07_1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Dual-GbE-Carrier-Board-with-4GB-RAM-32GB-eMMC-RPi-CM-4-p-4898.html
+  repositories: []
+name: '110110090'
+ref: seeedstudio/110110090
+release_date: null
+sku: '110110090'
+spec: null
+status: ''
+vendor: seeedstudio

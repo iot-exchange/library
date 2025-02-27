@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 2.25 EUR
+  discountedPrice2: 2.00 EUR
+  price: 2.50 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Breadboarding/Sensors/PIR-SB312/images/thumbs/200x150/PIR2.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Breadboarding/Sensors/PIR-SB312/
+  repositories: []
+name: PIR-SB312
+ref: olimex/pir-sb312
+release_date: null
+sku: pir-sb312
+spec: null
+status: ''
+vendor: olimex

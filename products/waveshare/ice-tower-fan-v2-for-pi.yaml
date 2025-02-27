@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Low-Profile ICE Tower Cooling Fan for Raspberry Pi 4B/3B+/3B, Super Heat
+  Dissipation
+extra:
+  Price Range: $13.63 - $14.99
+  SKU: '18549'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ice-tower-fan-v2-for-pi-1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ice-tower-fan-v2-for-pi.htm
+  repositories: []
+name: ICE Tower Fan V2 for Pi
+ref: waveshare/ice-tower-fan-v2-for-pi
+release_date: null
+sku: ice-tower-fan-v2-for-pi
+spec: null
+status: ''
+vendor: waveshare

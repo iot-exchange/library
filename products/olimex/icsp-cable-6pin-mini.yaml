@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 1.50 EUR
+  price2: 1.35 EUR
+  price3: 1.20 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Cables/ICSP-CABLE-6pin-MINI/images/thumbs/200x150/ICSP-CABLE-6PIN-MINI.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Cables/ICSP-CABLE-6pin-MINI/
+  repositories: []
+name: ICSP-CABLE-6pin-MINI
+ref: olimex/icsp-cable-6pin-mini
+release_date: null
+sku: icsp-cable-6pin-mini
+spec: null
+status: ''
+vendor: olimex

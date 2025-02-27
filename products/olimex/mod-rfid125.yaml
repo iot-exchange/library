@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  bulkPrice: 7.96 EUR
+  discountedPrice: 8.96 EUR
+  price: 9.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/RFID/MOD-RFID125/images/thumbs/200x150/MOD-RFID125-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/RFID/MOD-RFID125/
+  repositories: []
+name: MOD-RFID125
+ref: olimex/mod-rfid125
+release_date: null
+sku: mod-rfid125
+spec: null
+status: ''
+vendor: olimex

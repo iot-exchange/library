@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Test & Burn-in Socket
+extra:
+  Price: $43.59 - $46.99
+  SKU: '6565'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/t/ots-56-0.5-01_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ots-56-0.5-01.htm
+  repositories: []
+name: OTS-56-0.5-01
+ref: waveshare/ots-56-0-5-01
+release_date: null
+sku: ots-56-0-5-01
+spec: null
+status: ''
+vendor: waveshare

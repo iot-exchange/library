@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: DC-DC Buck Mini Module, Compact Size And Easy To Integrate, Configurable
+  3.3V Or 5V buck voltage regulation output, Immersion Gold Process, DC Buck Converter
+extra:
+  Multi Options: ''
+  Price: $2.99 - $3.49
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/c/dc5-36-to-dc3v3-5-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/dc5-36-to-dc3v3-5.htm
+  repositories: []
+name: DC5-36-TO-DC3V3-5
+ref: waveshare/dc5-36-to-dc3v3-5
+release_date: null
+sku: dc5-36-to-dc3v3-5
+spec: null
+status: ''
+vendor: waveshare

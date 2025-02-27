@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Zero 2W To CM3 Adapter, Alternative Solution for Raspberry
+  Pi CM3 / CM3+
+extra:
+  SKU: '22590'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/z/e/zero-to-cm3-adapter-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/zero-to-cm3-adapter.htm
+  repositories: []
+name: Zero-to-CM3-Adapter
+ref: waveshare/zero-to-cm3-adapter
+release_date: null
+sku: zero-to-cm3-adapter
+spec: null
+status: ''
+vendor: waveshare

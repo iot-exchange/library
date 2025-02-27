@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: LTE Cat.1-US Click is a compact add-on board containing a low-power LTE-IoT
+  connectivity solution. This board features the ELS61 (ELS61-US), a multi-band wireless
+  module from Thales. The ELS61-US delivers highly efficient Cat 1 LTE connectivity
+  for M2M IoT solutions offering seamless fallback to 2G and 3G networks. The best
+  in the class solution enables...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: MIKROE-3885
+ref: mikroe/mikroe-3885
+release_date: null
+sku: mikroe-3885
+spec: null
+status: ''
+vendor: mikroe

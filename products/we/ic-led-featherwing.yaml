@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: NEW
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o802609v209%20IC-LED_FEATHERWING_SINGLE.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/OPTO_ICLED_FEATHERWING_2
+  repositories: []
+name: IC LED FeatherWing
+ref: we/ic-led-featherwing
+release_date: null
+sku: ic-led-featherwing
+spec: null
+status: ''
+vendor: we

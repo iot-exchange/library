@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/Home-Server/GNUhealth-LIME2/images/thumbs/200x150/GNUhealth.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/Home-Server/GNUhealth-LIME2/open-source-hardware
+  repositories: []
+name: GNUhealth-LIME2
+ref: olimex/gnuhealth-lime2
+release_date: null
+sku: gnuhealth-lime2
+spec: null
+status: ''
+vendor: olimex

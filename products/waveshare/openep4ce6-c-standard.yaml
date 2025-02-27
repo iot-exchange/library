@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Part No.:OpenEP4CE6-C Standard, ALTERA Development Board
+extra:
+  Price: $46.95 - $48.99
+  SKU: '6724'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/openep4ce6-c-standard_l_1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/openep4ce6-c-standard.htm
+  repositories: []
+name: OpenEP4CE6-C Standard
+ref: waveshare/openep4ce6-c-standard
+release_date: null
+sku: openep4ce6-c-standard
+spec: null
+status: ''
+vendor: waveshare

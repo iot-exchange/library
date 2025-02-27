@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: NB-IoT Sensor Node
+extra:
+  1 x I2C Interface: ''
+  1 x UART Interface: ''
+  3 x Digital IN/OUT: ''
+  3 x Interrupt In: ''
+  3 x one-wire interfaces: ''
+  Battery: 8500mAh for long term use
+  NB-IoT Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85 @H-FDD
+  Open Source: ''
+  Support Bluetooth v5.1 remote configure and update firmware: ''
+  Ultra Low Power Consumption: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/63955aa9869cf7707ada1662dbfb31e2_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/nb-iot/item/291-sn50v3-nb.html
+  repositories: []
+name: SN50v3-NB
+ref: dragino/sn50v3-nb
+release_date: null
+sku: sn50v3-nb
+spec: null
+status: ''
+vendor: dragino

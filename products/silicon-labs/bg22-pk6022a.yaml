@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: BG22 Bluetooth Dual Polarized Antenna Array Pro Kit
+extra:
+  MSRP: $299.00
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/bluetooth/bgm22-pro-kit
+  repositories: []
+name: BG22-PK6022A
+ref: silicon-labs/bg22-pk6022a
+release_date: null
+sku: bg22-pk6022a
+spec: null
+status: ''
+vendor: silicon-labs

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Ambient 3 Click is calibrated XYZ chromatic smart lighting director,
+  providing the measurement data in digital format over the I2C interface. It utilizes
+  the AS7225, a miniature light sensor with UART and I2C interfaces.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ambient-3-click/ambient-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ambient-3-click
+  repositories: []
+name: MIKROE-3686
+ref: mikroe/mikroe-3686
+release_date: null
+sku: mikroe-3686
+spec: null
+status: ''
+vendor: mikroe

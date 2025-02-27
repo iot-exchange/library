@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Pack of 10 pcs
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Fasteners/SCREW-DIN7985-M3X35/images/thumbs/200x150/DIN7985-P.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Fasteners/SCREW-DIN7985-M3X35/
+  repositories: []
+name: SCREW-DIN7985-M3X35
+ref: olimex/screw-din7985-m3x35
+release_date: null
+sku: screw-din7985-m3x35
+spec: null
+status: ''
+vendor: olimex

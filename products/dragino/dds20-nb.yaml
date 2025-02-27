@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: NB-IoT Ultrasonic liquid level sensor
+extra:
+  Accuracy: "\xB1(5mm+S*0.5%) (S: Measure Value)"
+  Battery: 8500mAh for long term use
+  Liquid Level Measurement by Ultrasonic technology: ''
+  Measure through container: No need to contact Liquid
+  Multiply Sampling and one uplink: ''
+  NB-IoT Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85 @H-FDD
+  Support BLE remote configure and update firmware: ''
+  Ultra-low power consumption: ''
+  Valid level range: 20mm - 2000mm
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/778faba3e3dc8c6c6db24b403da494ae_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/distance-level-sensor/item/299-dds20-nb.html
+  repositories: []
+name: DDS20-NB
+ref: dragino/dds20-nb
+release_date: null
+sku: dds20-nb
+spec: null
+status: ''
+vendor: dragino

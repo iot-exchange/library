@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/JTAG/ARM-JTAG-SWD/images/thumbs/200x150/ARM-JTAG-SWD.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/JTAG/ARM-JTAG-SWD/
+  repositories: []
+name: ARM-JTAG-SWD
+ref: olimex/arm-jtag-swd
+release_date: null
+sku: arm-jtag-swd
+spec: null
+status: ''
+vendor: olimex

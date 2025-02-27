@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 45.95 EUR
+  price2: 41.36 EUR
+  price3: 36.76 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/MSP430/Starter/MSP430-169STK/images/thumbs/200x150/MSP430-169STK.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/MSP430/Starter/MSP430-169STK/
+  repositories: []
+name: MSP430-169STK
+ref: olimex/msp430-169stk
+release_date: null
+sku: msp430-169stk
+spec: null
+status: ''
+vendor: olimex

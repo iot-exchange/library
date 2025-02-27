@@ -1,0 +1,31 @@
+alternatives: []
+certifications: []
+description: 32-bit RISC-V MCU & 2.4 GHz Wi-Fi & Bluetooth 5 (LE)
+extra:
+  Core: Single Core
+  Development Board: ESP32-C3-DevKitM-1, ESP32-C3-DevKitC-02, ESP32-C3-DevKit-RUST-1,
+    ESP32-C3-AWS-ExpressLink-DevKit, ESP32-C3-Lyra
+  Dimensions (mm): QFN 5x5
+  Flash (MB): N/A
+  Footprint: https://www.espressif.com/sites/default/files/chips-dxf/ESP32-C3.dxf
+  Footprint Link: https://www.espressif.com/sites/default/files/chips-dxf/ESP32-C3.dxf
+  Module: ESP32-C3-WROOM-02, ESP32-C3-WROOM-02U, ESP32-C3-MINI-1, ESP32-C3-MINI-1U
+  PSRAM (MB): N/A
+  Pins: '32'
+  RAM/ROM (KB): 400 KB RAM, 384 KB ROM, 8 KB RTC SRAM
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP32-C3_S.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf
+  repositories: []
+name: ESP32-C3
+ref: espressif/esp32-c3
+release_date: null
+sku: esp32-c3
+spec: null
+status: ''
+vendor: espressif

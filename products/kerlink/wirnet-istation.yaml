@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Kerlink Wirnet iStation is perfectly designed to reliably and seamlessly
+  power outdoor LPWA IoT networks, for massive IoT use cases. This LoRaWAN gateway
+  meets the standard requirements of public operators, MVNOs, cable operators, tower
+  cos, private businesses or public authorities, to deploy evolutive and reliable
+  IoT connectivity.
+extra:
+  features: Zero-touch provisioning, remote monitoring, advanced radio configuration,
+    ethernet or cellular backhauling options.
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.kerlink.com/wp-content/uploads/2019/06/Wirnet-iStation-1-340x340.png
+  models: []
+  products:
+  - https://www.kerlink.com/product/wirnet-istation/
+  repositories: []
+name: Wirnet iStation
+ref: kerlink/wirnet-istation
+release_date: null
+sku: wirnet-istation
+spec: null
+status: ''
+vendor: kerlink

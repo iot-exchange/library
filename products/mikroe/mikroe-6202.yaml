@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Power Monitor 2 Click is a compact add-on board for precise power monitoring\
+  \ of connected load devices. This board features two INA219 12-bit I2C-output digital\
+  \ power monitors from Texas Instruments. This Click board\u2122 monitors current\
+  \ and voltage on two separate power rails - 3.3V and 5V - of an onboard mikroBUS\u2122\
+  \ socket, providing real-time digital..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/power-monitor-2-click/power-monitor-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/power-monitor-2-click
+  repositories: []
+name: MIKROE-6202
+ref: mikroe/mikroe-6202
+release_date: null
+sku: mikroe-6202
+spec: null
+status: ''
+vendor: mikroe

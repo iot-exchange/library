@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Vibration ERM Motor 9K RPM 3V (VC1026B002F) represents the Eccentric
+  Rotating Mass vibration motor (ERM), also known as a pager DC motor, with an offset
+  (non-symmetric) mass attached to the shaft specially designed by Vybronics. This
+  coin-sized vibration motor comes with a metallic case circular shape of 10mm diameter
+  and draws a maximum of 85mA while...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/vibration-erm-motor-9k-rpm-3v/vibration-erm-motor-9k-rpm-3v-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/vibration-erm-motor-9k-rpm-3v
+  repositories: []
+name: MIKROE-5309
+ref: mikroe/mikroe-5309
+release_date: null
+sku: mikroe-5309
+spec: null
+status: ''
+vendor: mikroe

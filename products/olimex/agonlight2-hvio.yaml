@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Retro-Computers/AgonLight2-HvIO/images/thumbs/200x150/AgonLight2-HvIO-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Retro-Computers/AgonLight2-HvIO/open-source-hardware
+  repositories: []
+name: AgonLight2-HvIO
+ref: olimex/agonlight2-hvio
+release_date: null
+sku: agonlight2-hvio
+spec: null
+status: ''
+vendor: olimex

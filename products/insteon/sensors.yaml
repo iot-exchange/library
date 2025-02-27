@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Give your home some sense
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://images.squarespace-cdn.com/content/v1/53fce470e4b0374adfdd30bc/1417016389273-J4ZI132AWWZ5L4QVSTZ4/image-asset.png
+  models: []
+  products:
+  - https://www.insteon.com/sensors
+  repositories: []
+name: sensors
+ref: insteon/sensors
+release_date: null
+sku: sensors
+spec: null
+status: ''
+vendor: insteon

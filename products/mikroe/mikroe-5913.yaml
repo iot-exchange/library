@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: H-Bridge 15 Click is a compact add-on board with an H-Bridge gate driver,
+  also known as a full-bridge pre-driver. This board features the DRV8834, a dual-bridge
+  stepper or DC motor driver from Texas Instruments. It is capable of current-control
+  driving of two DC motors or one stepper motor. The output current is 1.5A and up
+  to 2.2A at peak per H-Bridge....
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/h-bridge-15-click/h-bridge-15-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/h-bridge-15-click
+  repositories: []
+name: MIKROE-5913
+ref: mikroe/mikroe-5913
+release_date: null
+sku: mikroe-5913
+spec: null
+status: ''
+vendor: mikroe

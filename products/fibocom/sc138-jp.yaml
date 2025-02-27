@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 4G premium module tailored for the Japan market.
+extra:
+  Bands: 'LTE: B1/3/8/18/19/21/26/28/41'
+  Form Factor: LGA / LCC
+  Region: Japan
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTE-SC138-JP.html
+  repositories: []
+name: SC138-JP
+ref: fibocom/sc138-jp
+release_date: null
+sku: sc138-jp
+spec: null
+status: ''
+vendor: fibocom

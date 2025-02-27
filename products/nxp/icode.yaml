@@ -1,0 +1,18 @@
+alternatives: []
+certifications: []
+description: "ICODE\xAE | NXP Semiconductors"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: ICODE
+ref: nxp/icode
+release_date: null
+sku: icode
+spec: null
+status: ''
+vendor: nxp

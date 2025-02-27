@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "3.5inch Resistive Touch Display (C) for Raspberry Pi, 480\xD7320, 125MHz\
+  \ High-Speed SPI"
+extra:
+  Price: $25.97 - $26.99
+  SKU: '15811'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/_/3.5rcp-m.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/3.5inch-rpi-lcd-c.htm
+  repositories: []
+name: 3.5inch RPi LCD (C)
+ref: waveshare/3-5inch-rpi-lcd-c
+release_date: null
+sku: 3-5inch-rpi-lcd-c
+spec: null
+status: ''
+vendor: waveshare

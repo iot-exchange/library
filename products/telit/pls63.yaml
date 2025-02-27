@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/11/TC_PLS63_dyn-285x200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/pls63/
+  repositories: []
+name: PLS63
+ref: telit/pls63
+release_date: null
+sku: pls63
+spec: null
+status: ''
+vendor: telit

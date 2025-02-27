@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: NB-IoT Distance Detection Sensor
+extra:
+  Accuracy: "\xB1(1cm+S*0.3%) (S: Distance)"
+  Bands: B1/B3/B8/B5/B20/B28
+  Distance Range: 280~7500 mm
+  Measure Angle: "40\xB0"
+  Power Consumption: Ultra Low
+  Sensing Method: Ultrasonic
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/f0ba2bfd8f936a77d3b146acfe9443c7_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/distance-level-sensor/item/176-ndds75.html
+  repositories: []
+name: NDDS75
+ref: dragino/ndds75
+release_date: null
+sku: ndds75
+spec: null
+status: ''
+vendor: dragino

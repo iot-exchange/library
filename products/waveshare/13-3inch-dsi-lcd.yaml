@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "13.3inch High Resolution DSI Capacitive Touch Display, 1920 \xD7 1080,\
+  \ IPS, Toughened Glass Panel, DSI Interface, 10-Point Touch, Full Metal Back Panel"
+extra:
+  Price: $153.59  -  $156.99
+  SKU: '29369'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/3/13.3inch-dsi-lcd-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/13.3inch-dsi-lcd.htm
+  repositories: []
+name: 13.3inch DSI LCD
+ref: waveshare/13-3inch-dsi-lcd
+release_date: null
+sku: 13-3inch-dsi-lcd
+spec: null
+status: ''
+vendor: waveshare

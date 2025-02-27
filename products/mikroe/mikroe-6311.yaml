@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LTE IoT 12 Click is a compact add-on board designed for low-power LTE
+  Cat M1, NB-IoT, and EGPRS communication in IoT applications. This board features
+  the BG95-M3 multi-mode data-only from Quectel, which also integrates GNSS (GPS,
+  GLONASS, BDS, Galileo, QZSS) for precise location tracking. The board supports a
+  wide range of LTE and 2G bands, offers...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lte-iot-12-click/lte-iot-12-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/lte-iot-12-click
+  repositories: []
+name: MIKROE-6311
+ref: mikroe/mikroe-6311
+release_date: null
+sku: mikroe-6311
+spec: null
+status: ''
+vendor: mikroe

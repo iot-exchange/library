@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "10.3inch e-Paper e-Ink Raw Display, 1872\xD71404, Black / White, 16\
+  \ Grey Scales, Parallel Port, without PCB"
+extra:
+  Price Range: $156.59 - $159.99
+  SKU: '18436'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.3inch-e-paper-1_1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/10.3inch-e-paper.htm
+  repositories: []
+name: 10.3inch e-Paper
+ref: waveshare/10-3inch-e-paper
+release_date: null
+sku: 10-3inch-e-paper
+spec: null
+status: ''
+vendor: waveshare

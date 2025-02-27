@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: L76B GNSS Module for Raspberry Pi Pico, GPS / BDS / QZSS Support
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-gps-l76b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pico-gps-l76b.htm
+  repositories: []
+name: Pico-GPS-L76B
+ref: waveshare/pico-gps-l76b
+release_date: null
+sku: pico-gps-l76b
+spec: null
+status: ''
+vendor: waveshare

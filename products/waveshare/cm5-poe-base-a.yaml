@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Compute Module 5 IO Board With PoE Feature, For All Variants
+  Of CM5
+extra:
+  Multi Options: ''
+  Price: $31.99 - $44.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm5-poe-box-a-2.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm5-poe-box-a-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/cm5-poe-base-a.htm
+  repositories: []
+name: CM5-PoE-BASE-A
+ref: waveshare/cm5-poe-base-a
+release_date: null
+sku: cm5-poe-base-a
+spec: null
+status: ''
+vendor: waveshare

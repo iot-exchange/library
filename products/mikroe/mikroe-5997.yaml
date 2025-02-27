@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: DTMF Click is a compact add-on board designed for projects that demand
+  reliable telephony interactions. This board features the CMX865A, a DTMF Codec/FSK
+  Combo multi-standard modem from CML Micro. The CMX865A excels in encoding and decoding
+  DTMF signals, alongside supporting FSK data transmission compatible with V.23, V.21,
+  Bell 103, and Bell 202...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dtmf-click/dtmf-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/dtmf-click
+  repositories: []
+name: MIKROE-5997
+ref: mikroe/mikroe-5997
+release_date: null
+sku: mikroe-5997
+spec: null
+status: ''
+vendor: mikroe

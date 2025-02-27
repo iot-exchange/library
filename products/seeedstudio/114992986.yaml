@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: SenseCAP S2110 Sensor Builder is a quick tool for IoT developers to build
+  IoT sensors and applications and a custom open-source LoRaWAN device with low development
+  cost.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114992986-sensecap-s2110-grove-to-modbus-rs485-converter-first-_2_1_.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/SenseCAP-XIAO-LoRaWAN-Controller-p-5474.html
+  repositories: []
+name: '114992986'
+ref: seeedstudio/114992986
+release_date: null
+sku: '114992986'
+spec: null
+status: ''
+vendor: seeedstudio

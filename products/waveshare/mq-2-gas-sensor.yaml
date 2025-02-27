@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: $3.79  -  $4.49
+extra:
+  Part No.: MQ-2 Gas Sensor
+  SKU: '9529'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/q/mq-2-gas-sensor_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/mq-2-gas-sensor.htm
+  repositories: []
+name: MQ-2 Gas Sensor
+ref: waveshare/mq-2-gas-sensor
+release_date: null
+sku: mq-2-gas-sensor
+spec: null
+status: ''
+vendor: waveshare

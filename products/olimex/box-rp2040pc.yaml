@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/RaspberryPi/PICO/RP2040pc/images/thumbs/200x150/RP2040pc.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/RaspberryPi/PICO/BOX-RP2040PC/open-source-hardware
+  repositories: []
+name: BOX-RP2040PC
+ref: olimex/box-rp2040pc
+release_date: null
+sku: box-rp2040pc
+spec: null
+status: ''
+vendor: olimex

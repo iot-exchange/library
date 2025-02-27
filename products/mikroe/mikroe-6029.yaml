@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: NFC 5 Click is a compact add-on board designed for advanced NFC applications.
+  This board features the ST25R3918, a multipurpose NFC transceiver from STMicroelectronics.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/nfc-5-click/nfc-5-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/nfc-5-click
+  repositories: []
+name: MIKROE-6029
+ref: mikroe/mikroe-6029
+release_date: null
+sku: mikroe-6029
+spec: null
+status: ''
+vendor: mikroe

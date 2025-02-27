@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: LoRaWAN v1.0.3 Class A protocol Monitor water waste Upload water flow
+  volume Outdoor Use Remote configure parameters via LoRa Downlink
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/3b3e749011568df066956f2034087c10_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/water-meter-flow-sensor/item/222-sw3l.html
+  repositories: []
+name: SW3L
+ref: dragino/sw3l
+release_date: null
+sku: sw3l
+spec: null
+status: ''
+vendor: dragino

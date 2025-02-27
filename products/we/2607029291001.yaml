@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: EV-Kit Telesto-I incl. ext. antenna
+extra:
+  Expected lifetime: '>10 years'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/TELESTO-I#2607029291001
+  - https://www.we-online.com/en/components/products/TELESTO-I_MESH#2607029291001
+  repositories: []
+name: '2607029291001'
+ref: we/2607029291001
+release_date: null
+sku: '2607029291001'
+spec: null
+status: Active i
+vendor: we

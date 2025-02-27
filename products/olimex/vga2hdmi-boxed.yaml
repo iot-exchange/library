@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Retro-Computers/VGA2HDMI/images/thumbs/200x150/VGA2HDMI-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Retro-Computers/VGA2HDMI-BOXED/open-source-hardware
+  repositories: []
+name: VGA2HDMI-BOXED
+ref: olimex/vga2hdmi-boxed
+release_date: null
+sku: vga2hdmi-boxed
+spec: null
+status: ''
+vendor: olimex

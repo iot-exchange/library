@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: Cordelia-I
+extra:
+  ANTConn: RF connector pad for external antenna and internal PCB antenna
+  Frequency Range (MHz): 2412 - 2472
+  "PTx, 50 \u2126(dBm)": '16'
+  PTx, e.r.p.(dBm): '18'
+  Rb max.(kbps): '72200'
+  "Rxsens, 50 \u2126(dBm)": '-92'
+  Rxsens, e.r.p.(dBm): '-94'
+  VDD max.(V): '3.6'
+  VDD min.(V): '2.1'
+  dLoS(m): '400'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o817405v209%20Single_Cordelia.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/CORDELIA-I#2610011025010
+  repositories: []
+name: '2610011025010'
+ref: we/2610011025010
+release_date: null
+sku: '2610011025010'
+spec: null
+status: New
+vendor: we

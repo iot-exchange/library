@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: 2.4GHz Rod Antenna for XIAO ESP32C3
+extra:
+  Price: $59.90
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-103990623-2.4ghz-rod-antenna-for-xiao-esp32c3-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/2-4GHz-2-81dBi-Antenna-for-XIAO-ESP32C3-p-5475.html
+  repositories: []
+name: '103990623'
+ref: seeedstudio/103990623
+release_date: null
+sku: '103990623'
+spec: null
+status: ''
+vendor: seeedstudio

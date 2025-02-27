@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Customizable and modular LoRaWAN indoor gateway.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://miromico.ch/files/miromico/media-data/product_images/Gateways/miro_Edge_indoor/jpg/miro_Edge_indoor_868_915_LTE_side_2500px.jpg
+  models: []
+  products:
+  - https://miromico.ch/en/products/details/miroEdge_LoRaWAN
+  repositories: []
+name: miro Edge
+ref: miromico/miro-edge
+release_date: null
+sku: miro-edge
+spec: null
+status: ''
+vendor: miromico

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: ISO ADC 6 Click is a compact add-on board that contains an eight-channel
+  isolated ADC. This board features the AD7124-8, an 8-channel, low noise, low power,
+  24-bit, sigma-delta ADC from Analog Devices. The ADC has a programmable gain array
+  (PGA) that allows gains of 1, 2, 4, 8, 16, 32, 64, and 128. Additionally, the ADC
+  contains a 2.5V reference, which...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/iso-adc-6-click/iso-adc-6-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/iso-adc-6-click
+  repositories: []
+name: MIKROE-5901
+ref: mikroe/mikroe-5901
+release_date: null
+sku: mikroe-5901
+spec: null
+status: ''
+vendor: mikroe

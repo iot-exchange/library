@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Mini Uninterruptible Power Supply module, Supports charging And Power
+  output at the same time, 5V 2.5A Output
+extra:
+  Price: $16.29 - $17.99
+  SKU: '24760'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/p/ups-module-mini-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ups-module-mini.htm
+  repositories: []
+name: UPS Module Mini
+ref: waveshare/ups-module-mini
+release_date: null
+sku: ups-module-mini
+spec: null
+status: ''
+vendor: waveshare

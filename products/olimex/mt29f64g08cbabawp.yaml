@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/IC/NAND-Flash-8GB/images/thumbs/200x150/MT29F64G08CBABAWP.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/IC/MT29F64G08CBABAWP/
+  repositories: []
+name: MT29F64G08CBABAWP
+ref: olimex/mt29f64g08cbabawp
+release_date: null
+sku: mt29f64g08cbabawp
+spec: null
+status: ''
+vendor: olimex

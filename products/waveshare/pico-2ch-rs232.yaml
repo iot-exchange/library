@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 2-Channel RS232 Module for Raspberry Pi Pico, SP3232EEN Transceiver,
+  UART To RS232
+extra:
+  Price: $6.31 - $6.99
+  SKU: '19979'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-2ch-rs232-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pico-2ch-rs232.htm
+  repositories: []
+name: Pico-2CH-RS232
+ref: waveshare/pico-2ch-rs232
+release_date: null
+sku: pico-2ch-rs232
+spec: null
+status: ''
+vendor: waveshare

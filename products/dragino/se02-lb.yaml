@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LoRaWAN Soil Moisture & EC Sensor. Monitor Soil Moisture, Temperature,
+  and Conductivity.
+extra:
+  Bands: EU433, CN470, EU868, IN865, KR920, AS923, AU915, US915
+  Battery: 8500mAh Li/SOCl2
+  Probe Length: 2.5m
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/e9432fccf28a953514f077b86e5e657a_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/agriculture-weather-station/item/335-se02-lb.html
+  repositories: []
+name: SE02-LB
+ref: dragino/se02-lb
+release_date: null
+sku: se02-lb
+spec: null
+status: ''
+vendor: dragino

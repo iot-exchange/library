@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  100+ pcs: 28.80 EUR
+  1000+ pcs: 27.60 EUR
+  50+ pcs: 29.40 EUR
+  500+ pcs: 28.20 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/SOM204/A20/A20-SOM204/images/thumbs/200x150/A20-SOM204-T.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/SOM204/A20/A20-SOM204-1G-M/
+  repositories: []
+name: A20-SOM204-1G-M
+ref: olimex/a20-som204-1g-m
+release_date: null
+sku: a20-som204-1g-m
+spec: null
+status: ''
+vendor: olimex

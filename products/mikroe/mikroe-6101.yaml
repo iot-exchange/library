@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "VCP Monitor 6 Click is a compact add-on board designed for precise digital\
+  \ power monitoring applications. This board features the INA780A, a 16-bit I2C-output\
+  \ digital power monitor with EZShunt\u2122 technology from Texas Instruments. Capable\
+  \ of measuring currents up to 20A and supporting voltages up to 85V, it accurately\
+  \ monitors current, voltage, and..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/vcp-monitor-6-click/vcp-monitor-6-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/vcp-monitor-6-click
+  repositories: []
+name: MIKROE-6101
+ref: mikroe/mikroe-6101
+release_date: null
+sku: mikroe-6101
+spec: null
+status: ''
+vendor: mikroe

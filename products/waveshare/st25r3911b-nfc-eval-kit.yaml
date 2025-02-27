@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ST25R3911B NFC Evaluation Kit, NFC Reader + TF Card + USB Cable
+extra:
+  Price: $35.63 - $36.99
+  SKU: '17767'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/st25r3911b-nfc-eval-kit-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/st25r3911b-nfc-eval-kit.htm
+  repositories: []
+name: ST25R3911B NFC Eval Kit
+ref: waveshare/st25r3911b-nfc-eval-kit
+release_date: null
+sku: st25r3911b-nfc-eval-kit
+spec: null
+status: ''
+vendor: waveshare

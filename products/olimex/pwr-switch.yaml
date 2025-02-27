@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Duino/Shields/PWR-SWITCH/images/thumbs/200x150/PWR-SWITCHa.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Duino/Shields/PWR-SWITCH/
+  repositories: []
+name: PWR-SWITCH
+ref: olimex/pwr-switch
+release_date: null
+sku: pwr-switch
+spec: null
+status: ''
+vendor: olimex

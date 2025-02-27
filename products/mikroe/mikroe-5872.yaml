@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Temp Alarm Click is a compact add-on board that adds temperature alarm
+  functionalities to your project. This board features the PTMP4718, a high-accuracy
+  remote and local temperature sensor from Texas Instruments.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/temp-alarm-click/temp-alarm-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/temp-alarm-click
+  repositories: []
+name: MIKROE-5872
+ref: mikroe/mikroe-5872
+release_date: null
+sku: mikroe-5872
+spec: null
+status: ''
+vendor: mikroe

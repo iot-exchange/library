@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "hexadecimal display to your application. This board features the LDT-M2804RI,\
+  \ a three-digit seven-segment display from Lumex. The display has a 0.28\u201D height,\
+  \ red LED segments, gray faces, and white diffused segments. All three digits come\
+  \ with a following dot."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/7-seg-2-click/7-seg-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/7-seg-2-click
+  - https://www.mikroe.com/cart?add=1&id_product=3837
+  repositories: []
+name: MIKROE-6005
+ref: mikroe/mikroe-6005
+release_date: null
+sku: mikroe-6005
+spec: null
+status: ''
+vendor: mikroe

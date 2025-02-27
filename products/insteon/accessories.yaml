@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Keypad button kits and more
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.insteon.com/accessories
+  repositories: []
+name: accessories
+ref: insteon/accessories
+release_date: null
+sku: accessories
+spec: null
+status: ''
+vendor: insteon

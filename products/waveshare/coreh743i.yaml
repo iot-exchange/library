@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: CoreH743I, STM32 STM32H743IIT6 MCU core board
+extra:
+  Price: $47.29 - $48.99
+  SKU: '16635'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/coreh743i-3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/coreh743i.htm
+  repositories: []
+name: CoreH743I
+ref: waveshare/coreh743i
+release_date: null
+sku: coreh743i
+spec: null
+status: ''
+vendor: waveshare

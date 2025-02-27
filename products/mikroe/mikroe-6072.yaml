@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: DIGI IN Click is a compact add-board that converts industrial inputs
+  into serialized SPI-compatible output. This board features the MAX22199, an octal
+  industrial digital input from Analog Devices. It stands out for its compliance with
+  the IEC 61131-2 standard, ensuring reliability and efficiency. This board processes
+  eight 7-24V current-sinking inputs,...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/digi-in-click/digi-in-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/digi-in-click
+  repositories: []
+name: MIKROE-6072
+ref: mikroe/mikroe-6072
+release_date: null
+sku: mikroe-6072
+spec: null
+status: ''
+vendor: mikroe

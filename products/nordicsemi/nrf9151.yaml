@@ -1,0 +1,44 @@
+alternatives: []
+certifications: []
+description: Low power SiP for cellular IoT and DECT NR+ Multimode LTE-M/NB-IoT with
+  GNSS and DECT NR+ modem 700-2200 MHz LTE band support 1.9 GHz NR+ band support Certified
+  for global operation Dedicated application processor and memory 64 MHz Arm Cortex-M33
+  1 MB flash + 256 KB RAM Arm TrustZone + Arm CryptoCell
+extra:
+  Arm Trustzone: "\u2714\uFE0F"
+  CPU: Arm Cortex-M33 @ 64MHz
+  Certified Bands: 1-5, 8, 12, 13, 17-20, 25, 26, 28, 65, 66, 85
+  Crypto acceleration: Arm Cryptocell 310
+  DECT NR+: "\u2714\uFE0F"
+  Flash: 1 MB
+  Flash / RAM: 1 MB / 256 KB
+  Frequency: 700-2200 MHz (LTE) 1.9GHz (NR+)
+  Integrated PMIC, passives & Xtral: "\u2714\uFE0F"
+  LTE Band Support: 700-2200 MHz
+  LTE-M: 3GPP rel 14
+  Maximum TX Power: 23 dBm
+  NB-IoT: 3GPP rel 14
+  NR+ Band Support: 1.9 GHz
+  Operating temperature: "-40 to 85\xB0C"
+  Package options: 11x12x1 mm LGA
+  Power Class 5 20dBm: ''
+  Pre-certified: "\u2714\uFE0F"
+  Processor: 64 MHz Arm Cortex-M33
+  RAM: 256 KB
+  Supply Voltage Range: 3.0 to 5.5 V
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.nordicsemi.com/-/media/Images/Products/SiP/nRF9151-SiP/nRF9151_SiP_Front-small.png?h=250&iar=0&mh=250&w=273&hash=6AAFE7A9844CAAAE8B5804A8B8364DFE
+  models: []
+  products:
+  - https://www.nordicsemi.com/Products/nRF9151
+  repositories: []
+name: nRF9151
+ref: nordicsemi/nrf9151
+release_date: null
+sku: nrf9151
+spec: null
+status: ''
+vendor: nordicsemi

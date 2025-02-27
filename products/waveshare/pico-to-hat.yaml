@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "GPIO Expander For Raspberry Pi Pico, 1x Raspberry Pi Standard 40PIN,\
+  \ 1x Pico 2\xD720PIN"
+extra:
+  Price: $7.31 - $7.99
+  SKU: '20477'
+  price: $7.31 - $7.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-to-hat-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pico-to-hat.htm
+  repositories: []
+name: Pico-To-HAT
+ref: waveshare/pico-to-hat
+release_date: null
+sku: pico-to-hat
+spec: null
+status: ''
+vendor: waveshare

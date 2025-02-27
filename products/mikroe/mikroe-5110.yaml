@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Thermo 24 Click is a compact add-on board that contains the 4th generation
+  temperature sensing solution from Sensirion. This board features the STS40-AD1B,
+  a high-accuracy ultra-low-power temperature sensor.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thermo-24-click/thermo-24-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/thermo-24-click
+  repositories: []
+name: MIKROE-5110
+ref: mikroe/mikroe-5110
+release_date: null
+sku: mikroe-5110
+spec: null
+status: ''
+vendor: mikroe

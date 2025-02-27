@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Luckfox Core3576 Module, Rockchip RK3576 Octa-Core 2.2GHz Processor,
+  big.LITTLE Architecture, 6 TOPS Computing Power NPU, Options For RAM And eMMC
+extra:
+  Multi Options: ''
+  Price: $52.99 -  $82.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/core357604000-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/core3576-module.htm
+  repositories: []
+name: Core3576 Module
+ref: waveshare/core3576-module
+release_date: null
+sku: core3576-module
+spec: null
+status: ''
+vendor: waveshare

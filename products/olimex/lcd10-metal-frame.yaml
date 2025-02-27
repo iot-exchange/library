@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 17.10 EUR
+  discountedPrice2: 16.20 EUR
+  price: 18.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/LCD/LCD10-METAL-FRAME/images/thumbs/200x150/LCD10-METAL-FRAME-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/LCD/LCD10-METAL-FRAME/
+  repositories: []
+name: LCD10-METAL-FRAME
+ref: olimex/lcd10-metal-frame
+release_date: null
+sku: lcd10-metal-frame
+spec: null
+status: ''
+vendor: olimex

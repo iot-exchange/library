@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: RP2350 Microcontroller Development Board, With 1.69inch Touch LCD, Rounded
+  Corners, Dual-core & Dual-architecture Design, Accelerometer And Gyroscope Sensor
+extra:
+  Price: $21.31  -  $21.99
+  SKU: '30126'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.waveshare.com/product/rp2350-touch-lcd-1.69.htm
+  repositories: []
+name: RP2350-Touch-LCD-1.69
+ref: waveshare/rp2350-touch-lcd-1-69
+release_date: null
+sku: rp2350-touch-lcd-1-69
+spec: null
+status: ''
+vendor: waveshare

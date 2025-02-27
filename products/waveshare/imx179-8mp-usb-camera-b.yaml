@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: IMX179 8MP USB Camera, Fixed-focus, Auto Focusing
+extra:
+  Price: $27.63 - $28.99
+  SKU: '25817'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb-matrix-p5-64x32-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx179-8mp-usb-camera-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rgb-matrix-p5-64x32.htm
+  - https://www.waveshare.com/product/imx179-8mp-usb-camera-b.htm
+  repositories: []
+name: IMX179 8MP USB Camera (B)
+ref: waveshare/imx179-8mp-usb-camera-b
+release_date: null
+sku: imx179-8mp-usb-camera-b
+spec: null
+status: ''
+vendor: waveshare

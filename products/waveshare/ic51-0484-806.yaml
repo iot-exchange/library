@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Test & Burn-in Socket
+extra:
+  Price: $58.29 - $59.99
+  SKU: '3149'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ic51-0484-806_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ic51-0484-806.htm
+  repositories: []
+name: IC51-0484-806
+ref: waveshare/ic51-0484-806
+release_date: null
+sku: ic51-0484-806
+spec: null
+status: ''
+vendor: waveshare

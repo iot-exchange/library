@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: "ESP32-LCD-Kit is an HMI (Human Machine Interface) development board\
+  \ based on ESP32-DevKitC (need to purchase if you didn\u2019t have one). ESP32-LCDKit\
+  \ is integrated with such peripherals as SD-Card, DAC-Audio, and can be connected\
+  \ an external display."
+extra:
+  Flash: N/A
+  I/O: ''
+  LCD: Speaker
+  PSRAM: ''
+  USB: ''
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32/esp32-lcdkit/user_guide.html
+  repositories: []
+name: ESP32-LCDKit
+ref: espressif/esp32-lcdkit
+release_date: null
+sku: esp32-lcdkit
+spec: null
+status: ''
+vendor: espressif

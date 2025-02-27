@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: QFN20 TO DIP20, Programmer Adapter
+extra:
+  Price: $75.99 - $78.99
+  SKU: '6882'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/q/f/qfn20-to-dip20_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/qfn20-to-dip20.htm
+  repositories: []
+name: QFN20 TO DIP20
+ref: waveshare/qfn20-to-dip20
+release_date: null
+sku: qfn20-to-dip20
+spec: null
+status: ''
+vendor: waveshare

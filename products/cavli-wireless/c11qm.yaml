@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: LTE Cat 1 module with integrated GNSS and in-built iSIM, designed for
+  low power consumption and efficient performance.
+extra:
+  Cellular Bands Supported: 'INDIA:: B1/B3/B5/B8/B38/B40/B41'
+  Cellular Connectivity Download & Uplink Speed: 'Cat 1:: DL 10Mbps & UL 5 Mbps; GSM::
+    DL 236.8Kbps & UL 236.8 Kbps'
+  Interfaces: uSIM x1, ADC x2, USB 2.0 x1, GPIO x4, I2C x1, SDC x2, PCM x1, SPI x1,
+    UART x4, Network Status Indicator x1, Power ON Status Indicator x1
+  Key Highlights: LTE Cat 1bis, Integrated GNSS, In-built iSIM, Powered by Cavli Hubble
+    Platform, Power Saving Mode, Low Power Consumption, Form Factor Design, USB 2.0
+    Interface, Open SDK Support, Applicable regions - (India)
+  OS: ThreadX OS
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.cavliwireless.com/assets/images/modules/c-series/C11QM.png
+  models: []
+  products:
+  - https://www.cavliwireless.com/c-series/c11qm.html
+  repositories: []
+name: C11QM
+ref: cavli-wireless/c11qm
+release_date: null
+sku: c11qm
+spec: null
+status: ''
+vendor: cavli-wireless

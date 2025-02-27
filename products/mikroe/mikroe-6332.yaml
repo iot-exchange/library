@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Rotary Switch Click is a compact add-on board for applications requiring
+  precise rotary input. This board is based on the RDS6-16S-1065-1-SMT, a 16-position
+  notched cap surface-mount rotary DIP switch from Same Sky.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rotary-switch-click/rotary-switch-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/rotary-switch-click
+  repositories: []
+name: MIKROE-6332
+ref: mikroe/mikroe-6332
+release_date: null
+sku: mikroe-6332
+spec: null
+status: ''
+vendor: mikroe

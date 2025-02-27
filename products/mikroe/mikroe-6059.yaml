@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: DAC 17 Click is a compact add-on board that establishes precise voltage
+  output control in various electronic applications. This board features the DAC7558,
+  a 12-bit, octal-channel voltage output digital-to-analog (DAC) from Texas Instruments.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dac-17-click/dac-17-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/dac-17-click
+  repositories: []
+name: MIKROE-6059
+ref: mikroe/mikroe-6059
+release_date: null
+sku: mikroe-6059
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/i/5inch-dsi-lcd-b-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/5inch-dsi-lcd-b.htm
+  repositories: []
+name: "5inch Capacitive IPS Touch Display for Raspberry Pi, 800\xD7480, DSI Interface,\
+  \ Low Power"
+ref: waveshare/5inch-capacitive-ips-touch-display-for-raspberry-pi-800x480-dsi-interface-low-power
+release_date: null
+sku: 5inch-capacitive-ips-touch-display-for-raspberry-pi-800x480-dsi-interface-low-power
+spec: null
+status: ''
+vendor: waveshare

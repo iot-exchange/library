@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Thermo 22 Click is a compact add-on board that provides an accurate temperature
+  measurement. This board features the TMP75C, a high-precision digital temperature
+  sensor from Texas Instruments. The TMP75C houses an integrated digital temperature
+  sensor with a 12-bit analog-to-digital converter (ADC), a reference circuit, and
+  serial interface logic.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thermo-22-click/thermo-22-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=67#Thermo-22-Click
+  repositories: []
+name: MIKROE-5068
+ref: mikroe/mikroe-5068
+release_date: null
+sku: mikroe-5068
+spec: null
+status: ''
+vendor: mikroe

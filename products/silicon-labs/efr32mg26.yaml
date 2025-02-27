@@ -1,0 +1,33 @@
+alternatives: []
+certifications: []
+description: Zigbee and Thread EFR32MG26 SoCs (Series 2)
+extra:
+  Flash: 3200 kB
+  Flash (kB): '3200'
+  Frequency Bands: 2.4 GHz
+  Frequency Bands (MHz): 2.4 GHz
+  GPIO: 28, 32, 49, 64
+  MCU Core: ARM Cortex-M33
+  Output Power Range: -20 19.5 dBm
+  Output Power Range (dBm): -20 19.5
+  RAM: 512 kB
+  RAM (kB): '512'
+  RX Current (mA): '6.2'
+  RX Sensitivity (dBm): '-105.4'
+  Security: AES-128, AES-256, ECC, SHA-1, SHA-2, Secure Enclave
+  TX Current (mA) 0 dBm: '5.9'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/zigbee/efr32mg26-series-2-socs
+  repositories: []
+name: EFR32MG26
+ref: silicon-labs/efr32mg26
+release_date: null
+sku: efr32mg26
+spec: null
+status: ''
+vendor: silicon-labs

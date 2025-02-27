@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Industrial Isolated USB To RS232/485 Converter, Original FT4232HL Chip,
+  Supports USB To 2-Ch RS232 + 2-Ch RS232/485
+extra:
+  Price: $31.97 - $32.99
+  SKU: '26681'
+  price: $31.97 - $32.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-4ch-rs232-485-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/usb-to-4ch-rs232-485.htm
+  repositories: []
+name: USB TO 4CH RS232/485
+ref: waveshare/usb-to-4ch-rs232-485
+release_date: null
+sku: usb-to-4ch-rs232-485
+spec: null
+status: ''
+vendor: waveshare

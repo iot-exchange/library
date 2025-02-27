@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Retro-Computers/Neo6502/images/thumbs/200x150/Neo6502-a.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Retro-Computers/Neo6502/open-source-hardware
+  repositories: []
+name: Neo6502
+ref: olimex/neo6502
+release_date: null
+sku: neo6502
+spec: null
+status: ''
+vendor: olimex

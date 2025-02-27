@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: AD-SWIO 2 Click is a quad-channel software configurable input/output
+  solution based on AD74413R, for building and process control application.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ad-swio-2-click/ad-swio-2-click-home_default-1.jpg?v=100
+  models: []
+  products: []
+  repositories: []
+name: MIKROE-3861
+ref: mikroe/mikroe-3861
+release_date: null
+sku: mikroe-3861
+spec: null
+status: ''
+vendor: mikroe

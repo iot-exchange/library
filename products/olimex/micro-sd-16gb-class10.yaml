@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Storage/MICRO-SD-CLASS10/images/thumbs/200x150/SD-Card128.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Storage/MICRO-SD-16GB-CLASS10/
+  repositories: []
+name: MICRO-SD-16GB-CLASS10
+ref: olimex/micro-sd-16gb-class10
+release_date: null
+sku: micro-sd-16gb-class10
+spec: null
+status: ''
+vendor: olimex

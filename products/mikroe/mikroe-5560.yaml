@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LED Driver 18 Click is a compact add-on board that simplifies the control
+  of multiple LEDs. This board features the TLC5947, a 24-channel LED driver from
+  Texas Instruments. Each channel is individually adjustable with 4096 pulse-width
+  modulated (PWM) steps and has a programmable current value of all channels with
+  a maximum of 30mA of LED current per...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/led-driver-18-click/led-driver-18-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/led-driver-18-click
+  repositories: []
+name: MIKROE-5560
+ref: mikroe/mikroe-5560
+release_date: null
+sku: mikroe-5560
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: BT Audio 2 Click is Bluetooth audio stream add on board based on BM62
+  module from Microchip. It's a Stereo Audio module which is fully qualified Bluetooth
+  v5.0 dual-mode (BDR/EDR/BLE) to be added in any wireless audio and voice application.
+  With features like high resolution up to 24-bit, 96 kHz audio data format, Bluetooth
+  Low Energy data rate up to...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/bt-audio-2-click/bt-audio-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/bt-audio-2-click
+  repositories: []
+name: MIKROE-4117
+ref: mikroe/mikroe-4117
+release_date: null
+sku: mikroe-4117
+spec: null
+status: ''
+vendor: mikroe

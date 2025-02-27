@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Router Board for CM4 module (with two full-speed gigabit
+  network ports, low cost, Wifi and working as a router with Openwrt)
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/103110042_preview-07.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/CM4-Router-Board-p-5211.html
+  repositories: []
+name: '103110042'
+ref: seeedstudio/103110042
+release_date: null
+sku: '103110042'
+spec: null
+status: ''
+vendor: seeedstudio

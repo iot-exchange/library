@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/5G-FG370-EAU.html
+  repositories: []
+name: FG370-EAU
+ref: fibocom/fg370-eau
+release_date: null
+sku: fg370-eau
+spec: null
+status: ''
+vendor: fibocom

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Weight Sensor (Load Cell) 0-500g
+extra:
+  application: Applicable to electronic scale, price computing scale, electronic platform
+    scale, digital scale; parcel post scale, electronic balance and all varieties
+    of commercial scales by single load cell
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductloadcell500.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Weight-Sensor-Load-Cell-0-500g-p-525.html
+  repositories: []
+name: '314990000'
+ref: seeedstudio/314990000
+release_date: null
+sku: '314990000'
+spec: null
+status: ''
+vendor: seeedstudio

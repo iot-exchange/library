@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/Gas/SNS-MQ7/images/thumbs/200x150/MQ-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Sensors/Gas/SNS-MQ7/
+  repositories: []
+name: SNS-MQ7
+ref: olimex/sns-mq7
+release_date: null
+sku: sns-mq7
+spec: null
+status: ''
+vendor: olimex

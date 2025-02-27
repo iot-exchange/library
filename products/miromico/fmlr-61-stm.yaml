@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: "LoRa\xAE and LoRaWAN\xAE IoT modules built on Semtech's SX1261 chipset."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://miromico.ch/files/miromico/media-data/product_images/FMLR_Module/FMLR-61-STM/jpg/FMLR-61-STM_2500px.jpg
+  models: []
+  products:
+  - https://miromico.ch/en/products/details/FMLR-61-STM
+  repositories: []
+name: FMLR-61-STM
+ref: miromico/fmlr-61-stm
+release_date: null
+sku: fmlr-61-stm
+spec: null
+status: ''
+vendor: miromico

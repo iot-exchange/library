@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/ST/STM32-103STK/images/thumbs/200x150/STM32-103STK-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/ST/STM32-103STK/
+  repositories: []
+name: STM32-103STK
+ref: olimex/stm32-103stk
+release_date: null
+sku: stm32-103stk
+spec: null
+status: ''
+vendor: olimex

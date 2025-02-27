@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Our highest-fidelity digital to analogue converter, providing an outstanding
+  signal-to-noise ratio
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/b3009e19603fe466a482b23e497c59ed/3f4ea/f2445333-779b-4c59-889a-58cfa0d32b56_DAC%2BPro.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/dac-pro/
+  repositories: []
+name: Raspberry Pi DAC Pro
+ref: raspberrypi/raspberry-pi-dac-pro
+release_date: null
+sku: raspberry-pi-dac-pro
+spec: null
+status: ''
+vendor: raspberrypi

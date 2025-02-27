@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: 5-Wire Jumper to JST Female Adapter (10cm) is a simple five-wire cable
+  with ZHR-5, a 1.5mm pitch disconnectable crimp connector on the one side, and a
+  standard wire cable connector on the other compatible with 2.54mm spacing pin headers.
+  The ZHR-5 low insertion connector allows this jumper wire set to make mating between
+  various devices and environments,...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/5-wire-jumper-to-jst-female-adapter-10cm/5-wire-jumper-to-jst-female-adapter-10cm-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/5-wire-jumper-to-jst-female-adapter-10cm
+  repositories: []
+name: MIKROE-5474
+ref: mikroe/mikroe-5474
+release_date: null
+sku: mikroe-5474
+spec: null
+status: ''
+vendor: mikroe

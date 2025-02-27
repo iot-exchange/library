@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Interface Protection Adapter Board For Raspberry Pi Compute Module 4
+  Series, Physical Protection For Frequent Plugging And Unplugging Of CM4
+extra:
+  Price: $6.65 -  $6.99
+  SKU: '27782'
+  price: $6.65  -  $6.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-adapter-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/cm4-adapter.htm
+  repositories: []
+name: CM4-ADAPTER
+ref: waveshare/cm4-adapter
+release_date: null
+sku: cm4-adapter
+spec: null
+status: ''
+vendor: waveshare

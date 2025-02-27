@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LED Driver 16 Click is a compact add-on board that simplifies the control
+  of multiple LEDs. This board features the PCA9745B, an SPI-configurable sixteen-channel
+  constant current LED driver from NXP Semiconductors. Each LED output has an 8-bit
+  resolution (256 steps) fixed-frequency individual PWM controller that operates at
+  31.25kHz with an adjustable...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/led-driver-16-click/led-driver-16-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/led-driver-16-click
+  repositories: []
+name: MIKROE-5534
+ref: mikroe/mikroe-5534
+release_date: null
+sku: mikroe-5534
+spec: null
+status: ''
+vendor: mikroe

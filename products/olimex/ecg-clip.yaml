@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/Biofeedback/ECG-CLIP/images/thumbs/200x150/ECG-CLIP-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/Biofeedback/ECG-CLIP/
+  repositories: []
+name: ECG-CLIP
+ref: olimex/ecg-clip
+release_date: null
+sku: ecg-clip
+spec: null
+status: ''
+vendor: olimex

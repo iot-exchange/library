@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 0.46 EUR
+  discountedPrice2: 0.41 EUR
+  price: 0.51 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/RFID-Tags/125/RFID125-CSH/images/thumbs/200x150/RFID-CLAMSHELL.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/RFID-Tags/125/RFID125-CSH/
+  repositories: []
+name: RFID125-CSH
+ref: olimex/rfid125-csh
+release_date: null
+sku: rfid125-csh
+spec: null
+status: ''
+vendor: olimex

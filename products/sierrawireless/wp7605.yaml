@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: 'Japan (NTT Docomo (data only), Softbank (data only/LTE only), KDDI (data
+  only), Planned: Semtech)'
+extra:
+  Bands: 'LTE: B1, B3, B8, B11, B18, B19, B21'
+  Edge Processing: "\u2713"
+  Fallback: 3G
+  Region (Carrier): 'Japan (NTT Docomo (data only), Softbank (data only/LTE only),
+    KDDI (data only), Planned: Semtech)'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.sierrawireless.com/iot-modules/smart-modules/wp7605/
+  repositories: []
+name: WP7605
+ref: sierrawireless/wp7605
+release_date: null
+sku: wp7605
+spec: null
+status: ''
+vendor: sierrawireless

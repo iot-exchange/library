@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/3DPrinters/PRUSA-I3-3D-PRINTER/images/thumbs/200x150/PRUSA-I3-3D-PRINTER-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/3DPrinters/PRUSA-I3-3D-PRINTER/
+  repositories: []
+name: PRUSA-I3-3D-PRINTER
+ref: olimex/prusa-i3-3d-printer
+release_date: null
+sku: prusa-i3-3d-printer
+spec: null
+status: ''
+vendor: olimex

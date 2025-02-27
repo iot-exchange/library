@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Relay 6 Click is a compact add-on board for precise load control and
+  monitoring applications. This board features four 9913-05-20TRs, a reed relay from
+  Coto Technology, well-known for its ultra-miniature SMD design, which offers the
+  smallest footprint in the market. These four relays each have four load connection
+  terminals and blue LED indicators that...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/relay-6-click/relay-6-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/relay-6-click
+  repositories: []
+name: MIKROE-6001
+ref: mikroe/mikroe-6001
+release_date: null
+sku: mikroe-6001
+spec: null
+status: ''
+vendor: mikroe

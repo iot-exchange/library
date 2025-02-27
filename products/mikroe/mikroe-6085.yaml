@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Thyone-I Click is a compact add-on board for wireless communication\
+  \ in various devices like control systems, remote controls, and sensor nodes. This\
+  \ board features the WIRL-PRO2 Thyone-I module from W\xFCrth Elektronik."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/battery-source-click/battery-source-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/thyone-i-click/thyone-i-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/thyone-i-click
+  - https://www.mikroe.com/battery-source-click
+  repositories: []
+name: MIKROE-6085
+ref: mikroe/mikroe-6085
+release_date: null
+sku: mikroe-6085
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Core3566 Module Kit, Rockchip RK3566 Quad-core Processor, Compatible
+  With Raspberry Pi CM4
+extra:
+  Multi Options: ''
+  Price: $62.99 - $143.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/core3566102032-1_3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/core3566-kit.htm
+  repositories: []
+name: core3566_kit
+ref: waveshare/core3566-kit
+release_date: null
+sku: core3566-kit
+spec: null
+status: ''
+vendor: waveshare

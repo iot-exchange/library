@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Fusion for STM32 v8 is a development board for STM32 ARM architecture
+  devices. It contains many on-board modules necessary for device development, including
+  multimedia, Ethernet, USB, and others.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/fusion-for-stm32-v8-with-stm32f407zg-over-usb-c/fusion-for-stm32-v8-with-stm32f407zg-over-usb-c-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/cart?add=1&id_product=3479
+  - https://www.mikroe.com/fusion-for-stm32-v8-with-stm32f407zg-over-usb-c
+  repositories: []
+name: MIKROE-5406
+ref: mikroe/mikroe-5406
+release_date: null
+sku: mikroe-5406
+spec: null
+status: ''
+vendor: mikroe

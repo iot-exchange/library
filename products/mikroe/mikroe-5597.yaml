@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "RS485 Isolator 3 Click is a compact add-on board that provides electrical\
+  \ isolation and signal conditioning for RS485 communication systems. This board\
+  \ features the ADM2763E, a 500kbps, 5.7kV RMS, signal-isolated RS-485 transceiver\
+  \ from Analog Devices. The ADM2763E is protected against \u2265\xB112 kV contact\
+  \ and \u2265\xB115 kV air IEC 61000-4-2 electrostatic discharge..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rs485-isolator-3-click/rs485-isolator-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/rs485-isolator-3-click
+  repositories: []
+name: MIKROE-5597
+ref: mikroe/mikroe-5597
+release_date: null
+sku: mikroe-5597
+spec: null
+status: ''
+vendor: mikroe

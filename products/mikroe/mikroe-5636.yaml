@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: H-Bridge 11 Click is a compact add-on board that allows a voltage to
+  be applied across a load in either direction. This board features the MAX22200,
+  an octal serial-controlled solenoid and motor driver from Analog Devices. The MAX22200
+  is SPI-configurable and rated for an operating voltage range from 4.5V to 36V. Each
+  channel features a low impedance...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/h-bridge-11-click/h-bridge-11-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/h-bridge-11-click
+  repositories: []
+name: MIKROE-5636
+ref: mikroe/mikroe-5636
+release_date: null
+sku: mikroe-5636
+spec: null
+status: ''
+vendor: mikroe

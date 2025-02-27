@@ -1,0 +1,53 @@
+alternatives: []
+certifications: []
+description: Wi-Fi and Bluetooth module for consumer and industrial equipment.
+extra:
+  Additional Info: ''
+  Bluetooth: 'Yes'
+  Certification: 'Yes'
+  Chip: CYW43012
+  Current Consumption: 200mA @ 11b (2.4GHz)
+  Dimensions: 10.0 x 7.2 x 1.4 mm
+  Enclosure: Shielded Resin
+  Frequency: 2.4GHz, 5GHz
+  I/O Voltage: 'Yes'
+  Interfaces: SDIO, UART, PCM/I2S
+  Manufacturer: Infineon
+  Market: Consumer
+  Material: Shielded Resin
+  Mounting Type: SMT
+  Operating Temperature: "-20\u2103 to 70\u2103"
+  Packaging: Tape and Reel
+  Power Consumption: 200mA @ 11b (2.4GHz), 150mA @ 11g (2.4GHz), 140mA @ 11n (2.4GHz),
+    230mA @ 11a (5GHz), 210mA @ 11n (5GHz), 190mA @ 11ac (5GHz)
+  Processor: 'No'
+  SDK: Linux,WICED,Modus,i.MX Yocto,MCUXpresso
+  Sleep Current: 20mA @ 78Mbps (5GHz)
+  Status: 'Yes'
+  Target Market: Consumer
+  Temperature Range: "-20\u2103 to 70\u2103"
+  Voltage: 1.8V
+  Voltage Range: 1.8V
+  Wi-Fi: 'Yes'
+  dimensions: 10.0 x 7.2 x 1.4 mm
+  idleCurrent: 20mA @ 78Mbps (5GHz)
+  interface: SDIO, UART, PCM/I2S
+  powerConsumption: 200mA @ 11b (2.4GHz), 150mA @ 11g (2.4GHz), 140mA @ 11n (2.4GHz),
+    230mA @ 11a (5GHz), 210mA @ 11n (5GHz), 190mA @ 11ac (5GHz)
+  processor: Linux,WICED,Modus,i.MX Yocto,MCUXpresso
+  temperatureRange: "-20\u2103 to 70\u2103"
+  voltage: 1.8V
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: Type 1LV
+ref: murata/type-1lv
+release_date: null
+sku: type-1lv
+spec: null
+status: ''
+vendor: murata

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: MICRF RX Click is a compact add-on board for high-sensitivity applications,
+  including remote keyless entry, tire pressure monitoring systems, and remote actuation
+  systems. This board features the MICRF220, an ASK/OOK 315MHz receiver with RSSI
+  and squelch capabilities from Microchip.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/micrf-rx-click/micrf-rx-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/micrf-rx-click
+  repositories: []
+name: MIKROE-6014
+ref: mikroe/mikroe-6014
+release_date: null
+sku: mikroe-6014
+spec: null
+status: ''
+vendor: mikroe

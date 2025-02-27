@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "2030 Cavity Speaker, 8\u03A9 2W, High-quality Sound, Compact Size, 4PIN\
+  \ PH1.25 Connector"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/8/o/8ohm-2w-speaker-1.jpg
+  models: []
+  products:
+  - "https://www.waveshare.com/product/8ohm-2w-speaker.htm \"2030 Cavity Speaker,\
+    \ 8\u03A9 2W, High-quality Sound, Compact Size, 4PIN PH1.25 Connector\""
+  repositories: []
+name: "8\u03A9 2W Speaker"
+ref: waveshare/8o-2w-speaker
+release_date: null
+sku: 8o-2w-speaker
+spec: null
+status: ''
+vendor: waveshare

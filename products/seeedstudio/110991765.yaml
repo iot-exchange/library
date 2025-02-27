@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 860-930MHz dual-band -3dBi Omnidirectional Indoor/Outdoor Antenna for
+  Long Range, LoRaWAN LongFi and ISM applications. SenseCAP M2 Data Only Hotspot and
+  Light Hotspot indoor antenna.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110991765_feature-02.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/LoRa-Indoor-Antenna-Kit-860-930MHz-3dBi-295mm-p-5434.html
+  repositories: []
+name: '110991765'
+ref: seeedstudio/110991765
+release_date: null
+sku: '110991765'
+spec: null
+status: ''
+vendor: seeedstudio

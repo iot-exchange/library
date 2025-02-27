@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: R800C GSM/GPRS HAT For Raspberry Pi
+extra:
+  Price: $18.29 - $19.99
+  SKU: '23459'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/8/r800c-gsm-gprs-hat-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/r800c-gsm-gprs-hat.htm
+  repositories: []
+name: R800C GSM/GPRS HAT
+ref: waveshare/r800c-gsm-gprs-hat
+release_date: null
+sku: r800c-gsm-gprs-hat
+spec: null
+status: ''
+vendor: waveshare

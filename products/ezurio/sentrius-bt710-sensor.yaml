@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Our Sentrius BT710 tracker provides user alerts and RTLS location capabilities
+  over long-range Bluetooth 5. Serves contact tracing and workplace safety applications
+  to fight COVID-19.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2020-11/Clip-front_0.png
+  models: []
+  products:
+  - https://www.ezurio.com/iot-devices/bluetooth-iot-devices/sentrius-bt710-contact-tracer-multi-sensor
+  repositories: []
+name: Sentrius BT710 Sensor
+ref: ezurio/sentrius-bt710-sensor
+release_date: null
+sku: sentrius-bt710-sensor
+spec: null
+status: ''
+vendor: ezurio

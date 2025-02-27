@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: VGA PS2 Board
+extra:
+  Price: $3.39 - $3.99
+  SKU: '4954'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/v/g/vga-ps2-board-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/vga-ps2-board.htm
+  repositories: []
+name: VGA PS2 Board
+ref: waveshare/vga-ps2-board
+release_date: null
+sku: vga-ps2-board
+spec: null
+status: ''
+vendor: waveshare

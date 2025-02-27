@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 4-digit 8-segment Display Module for Raspberry Pi Pico, SPI-compatible
+extra:
+  Price: $3.65 - $3.99
+  SKU: '19806'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-8seg-led-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pico-8seg-led.htm
+  repositories: []
+name: Pico-8SEG-LED
+ref: waveshare/pico-8seg-led
+release_date: null
+sku: pico-8seg-led
+spec: null
+status: ''
+vendor: waveshare

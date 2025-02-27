@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Proximity 19 Click is a compact add-on board designed for precise proximity
+  sensing in various applications. This board features the RPR-0720, a digital optical
+  proximity sensor from ROHM Semiconductor. The RPR-0720 integrates an infrared VCSEL
+  (IrVCSEL) and an IC with an I2C interface, featuring a detection range adjustable
+  from 1 to 15mm.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/proximity-19-click/proximity-19-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/proximity-19-click
+  repositories: []
+name: MIKROE-6062
+ref: mikroe/mikroe-6062
+release_date: null
+sku: mikroe-6062
+spec: null
+status: ''
+vendor: mikroe

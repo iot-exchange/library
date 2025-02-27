@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Bluetooth Low Energy module suitable for IoT applications.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ezurio.com/partners/technology/wirepas
+  - ''
+  repositories: []
+name: BL53xx
+ref: ezurio/bl53xx
+release_date: null
+sku: bl53xx
+spec: null
+status: ''
+vendor: ezurio

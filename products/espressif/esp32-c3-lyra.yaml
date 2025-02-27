@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: ESP32-C3-Lyra is an ESP32-C3-based audio development board produced by
+  Espressif for controlling light with audio.
+extra:
+  Flash: 4 MB
+  Interfaces: I/O UART
+  Related Products: ESP32-C3-WROOM-02
+  UI: Key, RGB, Microphone, Speaker
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://docs.espressif.com/projects/esp-adf/en/latest/design-guide/dev-boards/user-guide-esp32-c3-lyra.html
+  repositories: []
+name: ESP32-C3-Lyra
+ref: espressif/esp32-c3-lyra
+release_date: null
+sku: esp32-c3-lyra
+spec: null
+status: ''
+vendor: espressif

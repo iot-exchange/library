@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: STLINK-V3MINIE, In-Circuit Debugger And Programmer For STM32
+extra:
+  SKU: '22943'
+  price: $28.97 - $29.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/stlink-v3minie-2.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/stlink-v3minie-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/stlink-v3minie.htm
+  repositories: []
+name: STLINK-V3MINIE
+ref: waveshare/stlink-v3minie
+release_date: null
+sku: stlink-v3minie
+spec: null
+status: ''
+vendor: waveshare

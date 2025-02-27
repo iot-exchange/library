@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Regular price: $39.95
+  Sale price: $39.95
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Insteon_Leak_Sensor.png?v=1724710951&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/water-leak-sensor
+  repositories: []
+name: Leak Sensor
+ref: insteon/leak-sensor
+release_date: null
+sku: leak-sensor
+spec: null
+status: ''
+vendor: insteon

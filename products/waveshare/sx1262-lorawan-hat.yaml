@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: SX1262 LoRaWAN Node Module Expansion Board for Raspberry Pi, With Magnetic
+  CB antenna, Options For Frequency Band And GNSS Function
+extra:
+  Multi Options: ''
+  Price: $15.99 - $24.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/x/sx1262-868-915m-lorawan-hat-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/x/sx1262-433-470m-lorawan-hat-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/sx1262-lorawan-hat.htm
+  repositories: []
+name: sx1262_lorawan_hat
+ref: waveshare/sx1262-lorawan-hat
+release_date: null
+sku: sx1262-lorawan-hat
+spec: null
+status: ''
+vendor: waveshare

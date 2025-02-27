@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: OV5640 Camera Board (A), 5 Megapixel (2592x1944)
+extra:
+  Price: $18.29 - $19.99
+  SKU: '13926'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/v/ov5640-camera-board-a-4.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/v/ov5640-camera-board-a-intro.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/ov5640-camera-board-a.htm
+  repositories: []
+name: OV5640 Camera Board (A)
+ref: waveshare/ov5640-camera-board-a
+release_date: null
+sku: ov5640-camera-board-a
+spec: null
+status: ''
+vendor: waveshare

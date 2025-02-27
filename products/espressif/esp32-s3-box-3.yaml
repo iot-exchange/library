@@ -1,0 +1,33 @@
+alternatives: []
+certifications: []
+description: The ESP32-S3-BOX-3 is a next-generation development tool designed for
+  AIoT, Edge AI, and IIoT applications. It is based on the powerful ESP32-S3 SoC and
+  features a compact and beautiful enclosure also provides rich assemblies, empowering
+  developers to easily customize and expand its functionality. Leveraging Espressif's
+  reliable software solutions such as ESP-BOX, ESP-SR, ESP-Rainmaker, and ESP-Matter,
+  the ESP32-S3-BOX-3 is capable of meeting the needs of prototyping new projects or
+  building complex IoT systems. It strikes a perfect balance between form and function,
+  propelling the future of development board ecology.
+extra:
+  Flash / PSRAM: 1.8V 16 MB Quad Flash + 1.8V 16 MB Octal PSRAM
+  Getting Started: User Guide, Demo Code
+  Interfaces: "USB-C, USB-A, I/O, Pmod\u2122 Compatible Interlace, MicroSD Slot, 18650\
+    \ Battery Slot"
+  Related Products: ESP32-S3-WROOM-1
+  UI: LCD Screen, Microphones, Speaker, LED, Buttons, Temp&Hum Sensor, Radar, IR Sensor
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/dev-board/ESP32-S3-BOX-3_S.png
+  models: []
+  products:
+  - https://github.com/espressif/esp-box
+  repositories: []
+name: ESP32-S3-BOX-3
+ref: espressif/esp32-s3-box-3
+release_date: null
+sku: esp32-s3-box-3
+spec: null
+status: ''
+vendor: espressif

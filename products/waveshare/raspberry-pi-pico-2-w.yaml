@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Pico 2 W Microcontroller Board, Based on Official RP2350
+  Chip, Dual-core & Dual-architecture Design, Supports WIFI and Bluetooth
+extra:
+  Multi Options: ''
+  Price: $7.99 -  $50.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-pico-2-w-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/raspberry-pi-pico-2-w.htm
+  repositories: []
+name: Raspberry Pi Pico 2 W
+ref: waveshare/raspberry-pi-pico-2-w
+release_date: null
+sku: raspberry-pi-pico-2-w
+spec: null
+status: ''
+vendor: waveshare

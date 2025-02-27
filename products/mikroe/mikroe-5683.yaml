@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "DIGI POT 13 Click is a compact add-on board that contains a digitally\
+  \ controlled potentiometer. This board features the MAX5419, a 256-tap non-volatile\
+  \ digital potentiometer from Analog Devices. On this Click board\u2122, one digitally\
+  \ I2C-controlled potentiometer is realized with typical end-to-end resistance values\
+  \ of 200k\u03A9. It can operate from both 3.3V and..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/digi-pot-13-click/digi-pot-13-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/digi-pot-13-click
+  repositories: []
+name: MIKROE-5683
+ref: mikroe/mikroe-5683
+release_date: null
+sku: mikroe-5683
+spec: null
+status: ''
+vendor: mikroe

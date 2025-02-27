@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Temp&Hum 21 Click is a compact add-on board representing temperature\
+  \ and humidity sensing solution. This board features the HIH8130-021-001, a highly\
+  \ accurate, fully-calibrated digital humidity and temperature sensor from Honeywell\
+  \ Sensing and Productivity Solutions. This sensor, characterized by its high accuracy\
+  \ (\xB12% RH and \xB10.5\xB0C over a wide..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/temphum-21-click/temphum-21-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/temphum-21-click
+  repositories: []
+name: MIKROE-5240
+ref: mikroe/mikroe-5240
+release_date: null
+sku: mikroe-5240
+spec: null
+status: ''
+vendor: mikroe

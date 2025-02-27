@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 17.95 EUR
+  price2: 16.16 EUR
+  price3: 14.36 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/MSP430/Starter/MSP430-5510STK/images/thumbs/200x150/MSP430-5510STK-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/MSP430/Starter/MSP430-5510STK/
+  repositories: []
+name: MSP430-5510STK
+ref: olimex/msp430-5510stk
+release_date: null
+sku: msp430-5510stk
+spec: null
+status: ''
+vendor: olimex

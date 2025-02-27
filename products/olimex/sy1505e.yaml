@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 7.84 EUR
+  discountedPrice2: 7.43 EUR
+  price: 8.25 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Power/SY1505E/images/thumbs/200x150/SY1505E.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Power/SY1505E/
+  repositories: []
+name: SY1505E
+ref: olimex/sy1505e
+release_date: null
+sku: sy1505e
+spec: null
+status: ''
+vendor: olimex

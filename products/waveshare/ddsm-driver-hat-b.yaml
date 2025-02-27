@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Direct Drive Servo Motor Driver Board (B), Integrates ESP32 and Control
+  Circuit, 2.4G WiFi Support, Suitable for DDSM400 Hub Motor, ESP Now Support
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/d/ddsm-driver-hat-b-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ddsm-driver-hat-b.htm
+  repositories: []
+name: DDSM Driver HAT (B)
+ref: waveshare/ddsm-driver-hat-b
+release_date: null
+sku: ddsm-driver-hat-b
+spec: null
+status: ''
+vendor: waveshare

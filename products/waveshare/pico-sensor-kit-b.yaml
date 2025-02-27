@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Pico Entry-Level Sensor Kit, Including Pico Expansion Board
+  and 15 common modules, All-in-one design
+extra:
+  Multi Options: ''
+  Price: $43.99 - $48.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-sensor-kit-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pico-sensor-kit-b.htm
+  repositories: []
+name: pico_sensor_kit_b
+ref: waveshare/pico-sensor-kit-b
+release_date: null
+sku: pico-sensor-kit-b
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  bulkPrice: 6.26 EUR
+  discountedPrice: 6.60 EUR
+  price: 6.95 EUR
+  price1: 6.95 EUR
+  price2: 6.60 EUR
+  price3: 6.26 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/Time/MOD-RTC2/images/thumbs/200x150/MOD-RTC2.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/Time/MOD-RTC2/open-source-hardware
+  repositories: []
+name: MOD-RTC2
+ref: olimex/mod-rtc2
+release_date: null
+sku: mod-rtc2
+spec: null
+status: ''
+vendor: olimex

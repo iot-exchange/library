@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: The iWRAP is an embedded Bluetooth stack for Bluegiga Legacy Bluetooth
+  classic modules.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/developer-tools/bluegiga-iwrap-bluetooth-classic-software-stack
+  repositories: []
+name: Bluegiga iWRAP Bluetooth Classic Software
+ref: silicon-labs/bluegiga-iwrap-bluetooth-classic-software
+release_date: null
+sku: bluegiga-iwrap-bluetooth-classic-software
+spec: null
+status: ''
+vendor: silicon-labs

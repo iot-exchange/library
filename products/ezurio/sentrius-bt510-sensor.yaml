@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Our Sentrius BT510 Sensor utilizes Bluetooth 5, including long-range
+  LE Coded PHY, to send proximity, accelerometer, and open/close data. Years of readings
+  on a single coin-cell battery.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-10/bt510-bluetooth-sensor.png
+  models: []
+  products:
+  - https://www.ezurio.com/iot-devices/iot-sensors/bt510-bluetooth-5-long-range-ip67-temperature-sensor
+  repositories: []
+name: Sentrius BT510 Sensor
+ref: ezurio/sentrius-bt510-sensor
+release_date: null
+sku: sentrius-bt510-sensor
+spec: null
+status: ''
+vendor: ezurio

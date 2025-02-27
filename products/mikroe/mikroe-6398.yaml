@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Smart DOF 5 Click is a compact add-on board designed for precise motion
+  and orientation detection in automotive applications. This board features the ASM330LHHXG1,
+  a high-accuracy 6-axis inertial measurement unit (IMU) from STMicroelectronics.
+  It features a 3-axis accelerometer and a 3-axis gyroscope and supports dual operating
+  modes (high-performance and...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/smart-dof-5-click/smart-dof-5-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/smart-dof-5-click
+  repositories: []
+name: MIKROE-6398
+ref: mikroe/mikroe-6398
+release_date: null
+sku: mikroe-6398
+spec: null
+status: ''
+vendor: mikroe

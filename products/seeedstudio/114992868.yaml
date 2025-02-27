@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "A battery-powered IP66 wireless light intensity sensor, range from 0\
+  \ to 160000 lux, with an accuracy of \xB15% and a resolution of 1 lux. It is equipped\
+  \ with built-in Bluetooth and APP service for OTA configuration and remote device\
+  \ management. Used in smart farming, smart yard, smart city, and hydroponics solutions."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.seeedstudio.com/img/e
+  models: []
+  products:
+  - https://www.seeedstudio.com/SenseCAP-S2102-LoRaWAN-Wireless-Light-Intensity-Sensor-p-114992868.html
+  repositories: []
+name: '114992868'
+ref: seeedstudio/114992868
+release_date: null
+sku: '114992868'
+spec: null
+status: ''
+vendor: seeedstudio

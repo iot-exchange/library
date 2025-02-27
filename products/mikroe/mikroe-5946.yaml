@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: AD-SWIO 3 Click is a compact add-on board representing a software configurable
+  input/output solution for various purposes. This board features the AD74115H, a
+  single-channel, software-configurable input and output with HART mode from Analog
+  Devices. It provides many functionality for analog input, analog output, digital
+  input, digital output, 2-wire,...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ad-swio-3-click/ad-swio-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ad-swio-3-click
+  repositories: []
+name: MIKROE-5946
+ref: mikroe/mikroe-5946
+release_date: null
+sku: mikroe-5946
+spec: null
+status: ''
+vendor: mikroe

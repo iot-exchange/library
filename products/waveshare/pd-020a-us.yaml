@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: PD20W Fast Charger, USB Type-C Wall Charger Block, US Plug, intelligently
+  adjusts the charging rate
+extra:
+  Price: $4.65  -  $4.99
+  SKU: '25102'
+  price: $4.65 - $4.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/d/pd-020a-us-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pd-020a-us.htm
+  repositories: []
+name: PD-020A-US
+ref: waveshare/pd-020a-us
+release_date: null
+sku: pd-020a-us
+spec: null
+status: ''
+vendor: waveshare

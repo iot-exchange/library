@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: DC Motor 20 Click is a compact add-on board that contains a brushed DC
+  motor driver. This board features the TC78H651AFNG, a dual H-bridge driver for one
+  or two DC brushed motors, which incorporates DMOS with low ON resistance in output
+  transistors from Toshiba Semiconductor. The Forward/Reverse/Stop mode can be selected
+  according to the state of its...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dc-motor-20-click/dc-motor-20-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/dc-motor-20-click
+  repositories: []
+name: MIKROE-4884
+ref: mikroe/mikroe-4884
+release_date: null
+sku: mikroe-4884
+spec: null
+status: ''
+vendor: mikroe

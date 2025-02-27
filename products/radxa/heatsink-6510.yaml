@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Specialized for Radxa ZERO 2 Pro
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/heatsink/ae017b/thumb_heatsink_8418b.webp
+  - https://radxa.com/heatsink/ae012/thumb_heatsink_6510.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/heatsink-6510
+  repositories: []
+name: Heatsink 6510
+ref: radxa/heatsink-6510
+release_date: null
+sku: heatsink-6510
+spec: null
+status: ''
+vendor: radxa

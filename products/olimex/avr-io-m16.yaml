@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - ./img/dz
+  models: []
+  products:
+  - ./url/ea
+  repositories: []
+name: AVR-IO-M16
+ref: olimex/avr-io-m16
+release_date: null
+sku: avr-io-m16
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 43.70 EUR
+  discountedPrice2: 41.40 EUR
+  price: 46.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/ST/STM32-LCD/images/thumbs/200x150/STM32-LCD-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/ST/STM32-LCD/
+  repositories: []
+name: STM32-LCD
+ref: olimex/stm32-lcd
+release_date: null
+sku: stm32-lcd
+spec: null
+status: ''
+vendor: olimex

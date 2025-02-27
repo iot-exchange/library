@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: RTL8822CE Wireless NIC, 2.4G/5GHz Dual-Band WiFi 5, Bluetooth 5.0, High
+  Speed And Low Latency, RTL8822CE-CG core, High Speed Wireless Card
+extra:
+  SKU: '27476'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/i/wireless-rtl8822ce-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/wireless-rtl8822ce.htm
+  repositories: []
+name: Wireless-RTL8822CE
+ref: waveshare/wireless-rtl8822ce
+release_date: null
+sku: wireless-rtl8822ce
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 44.96 EUR
+  discountedPrice2: 39.96 EUR
+  price: 49.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/MAXQ/Starter/MAXQ-2000STK/images/thumbs/200x150/AMXQ-2000STK.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/MAXQ/Starter/MAXQ-2000STK/
+  repositories: []
+name: MAXQ-2000STK
+ref: olimex/maxq-2000stk
+release_date: null
+sku: maxq-2000stk
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/SMT/SAMSUNG-SMT-NOZZLE-CN400/images/thumbs/200x150/CN220.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/SMT/SAMSUNG-SMT-NOZZLE-CN400/
+  repositories: []
+name: SAMSUNG-SMT-NOZZLE-CN400
+ref: olimex/samsung-smt-nozzle-cn400
+release_date: null
+sku: samsung-smt-nozzle-cn400
+spec: null
+status: ''
+vendor: olimex

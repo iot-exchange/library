@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 45.60 EUR
+  discountedPrice2: 43.20 EUR
+  price: 48.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/STMP1/STMP157-OLinuXino-LIME2/images/thumbs/200x150/STMP157-OLINUXINO-LIME2.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/STMP1/STMP157-OLinuXino-LIME2H-EXT/open-source-hardware
+  repositories: []
+name: STMP157-OLinuXino-LIME2H-EXT
+ref: olimex/stmp157-olinuxino-lime2h-ext
+release_date: null
+sku: stmp157-olinuxino-lime2h-ext
+spec: null
+status: ''
+vendor: olimex

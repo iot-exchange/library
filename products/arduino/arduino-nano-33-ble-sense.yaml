@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: A board with embedded sensors such as temperature/humidity, pressure,
+  gesture, microphone and more.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.arduino.cc/wiki/static/283e4d99b4af180a39e62bd90e2829e9/4b190/nano-ble-sense.jpg
+  models: []
+  products:
+  - https://store.arduino.cc/products/arduino-nano-33-ble-sense
+  repositories: []
+name: Arduino Nano 33 BLE Sense
+ref: arduino/arduino-nano-33-ble-sense
+release_date: null
+sku: arduino-nano-33-ble-sense
+spec: null
+status: ''
+vendor: arduino

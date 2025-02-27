@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Type-B USB cable is could be used for power supply and data transmission
+  and perfect for Arduino Uno, Arduino Diecimila and Freeduino to contact your computer
+  or devices. Also, the cable has a length of 1.5m which makes it useful if you want
+  the device to be far away from the power source.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesp3132165.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Type-B-USB-cable-for-Arduino-Diecimila-and-Freeduino-p-130.html
+  repositories: []
+name: '321010008'
+ref: seeedstudio/321010008
+release_date: null
+sku: '321010008'
+spec: null
+status: ''
+vendor: seeedstudio

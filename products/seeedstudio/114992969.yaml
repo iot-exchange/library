@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "The Wio-WM1302 module is a new generation of LoRaWAN gateway module\
+  \ in mini-PCIe form-factor based on Semtech\xAE SX1302. It features extremely low\
+  \ power consumption and outstanding performance."
+extra:
+  Price: $25.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992969_1_1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/WM1302-LoRaWAN-Gateway-Module-SPI-US915-SKY66420-p-5455.html
+  repositories: []
+name: '114992969'
+ref: seeedstudio/114992969
+release_date: null
+sku: '114992969'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: MCU Card is a standardized add-on board, which allows very simple installation
+  and replacement of the microcontroller unit (MCU) on a development board equipped
+  with the MCU Card socket.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/sibrain-for-avr128da64/sibrain-for-avr128da64-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/sibrain-for-avr128da64
+  repositories: []
+name: MIKROE-5837
+ref: mikroe/mikroe-5837
+release_date: null
+sku: mikroe-5837
+spec: null
+status: ''
+vendor: mikroe

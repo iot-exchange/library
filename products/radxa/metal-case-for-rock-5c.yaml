@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Specialized for Radxa ROCK 5C
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/heatsink/ae026/thumb_heatsink_8420b.webp
+  - https://radxa.com/heatsink/ae019/thumb_metal_case_for_rock5c.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/metal-case-for-rock5c
+  repositories: []
+name: Metal Case for ROCK 5C
+ref: radxa/metal-case-for-rock-5c
+release_date: null
+sku: metal-case-for-rock-5c
+spec: null
+status: ''
+vendor: radxa

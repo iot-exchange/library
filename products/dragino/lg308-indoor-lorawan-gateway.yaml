@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: LoRaWAN Gateway SX1301 + 2 * SX1257 10 programmable parallel demodulation
+  paths Data-Only Hotspot, Not suitable for Helium Mining
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/1d36d23b156ead252433d4ce2c21c387_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lora-lorawan-gateway/item/140-lg308.html
+  repositories: []
+name: LG308 Indoor LoRaWAN Gateway
+ref: dragino/lg308-indoor-lorawan-gateway
+release_date: null
+sku: lg308-indoor-lorawan-gateway
+spec: null
+status: ''
+vendor: dragino

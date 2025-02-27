@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: High-quality and reliable, Raspberry Pi power supplies are specially
+  designed for use with our computers. They make sure your Raspberry Pi gets all the
+  power it needs for peak performance.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/482c5d65991c6c8bb532073edaf4382b/b53b5/power-supplies.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/power-supply/
+  repositories: []
+name: Raspberry Pi Power Supply
+ref: raspberrypi/raspberry-pi-power-supply
+release_date: null
+sku: raspberry-pi-power-supply
+spec: null
+status: ''
+vendor: raspberrypi

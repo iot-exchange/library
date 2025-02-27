@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/11/TC_TX82_dynamic-342x200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/tx82/
+  repositories: []
+name: TX82
+ref: telit/tx82
+release_date: null
+sku: tx82
+spec: null
+status: ''
+vendor: telit

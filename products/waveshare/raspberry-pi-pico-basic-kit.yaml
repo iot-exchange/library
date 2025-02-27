@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Pico Basic Kit, MicroPython Programming Learning Kit
+extra:
+  Price: $23.31 - $23.99
+  SKU: '19693'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-pico-basic-kit-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/raspberry-pi-pico-basic-kit.htm
+  repositories: []
+name: Raspberry-Pi-Pico-Basic-Kit
+ref: waveshare/raspberry-pi-pico-basic-kit
+release_date: null
+sku: raspberry-pi-pico-basic-kit
+spec: null
+status: ''
+vendor: waveshare

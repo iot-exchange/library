@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 15.95 EUR
+  price2: 14.36 EUR
+  price3: 12.76 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/MSP430/Proto/MSP430-P249/images/thumbs/200x150/MSP430-PXXX-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/MSP430/Proto/MSP430-P249/
+  repositories: []
+name: MSP430-P249
+ref: olimex/msp430-p249
+release_date: null
+sku: msp430-p249
+spec: null
+status: ''
+vendor: olimex

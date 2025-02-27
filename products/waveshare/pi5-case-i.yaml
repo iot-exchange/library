@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Aluminum Stripe Grooved Case For Raspberry Pi 5, Built-In Cooling Fan
+  And Heatsink Pillars
+extra:
+  SKU: '26714'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-case-i-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pi5-case-i.htm
+  - https://www.waveshare.com/product/pi5-case-i.htm "Aluminum Stripe Grooved Case
+    For Raspberry Pi 5, Built-In Cooling Fan And Heatsink Pillars"
+  repositories: []
+name: PI5-CASE-I
+ref: waveshare/pi5-case-i
+release_date: null
+sku: pi5-case-i
+spec: null
+status: ''
+vendor: waveshare

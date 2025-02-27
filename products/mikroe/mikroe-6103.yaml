@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Fan 9 Click is a compact add-on board designed for high-power fan applications
+  requiring low noise and minimal vibration. This board features the A5932, an automotive-grade
+  three-phase sinusoidal sensorless fan controller from Allegro Microsystems. This
+  board operates with a power supply range of 12V to 42V, using a sinusoidal drive
+  to reduce audible...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/fan-9-click/fan-9-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/fan-9-click
+  repositories: []
+name: MIKROE-6103
+ref: mikroe/mikroe-6103
+release_date: null
+sku: mikroe-6103
+spec: null
+status: ''
+vendor: mikroe

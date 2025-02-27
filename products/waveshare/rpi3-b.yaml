@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi 3 Model B
+extra:
+  Price: $134.65 - $134.99
+  SKU: '11491'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rpi3-b-1_14.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rpi3-b.htm
+  repositories: []
+name: RPi3 B
+ref: waveshare/rpi3-b
+release_date: null
+sku: rpi3-b
+spec: null
+status: ''
+vendor: waveshare

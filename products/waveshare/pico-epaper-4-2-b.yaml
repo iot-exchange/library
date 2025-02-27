@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: "4.2inch E-Paper E-Ink Display Module (B) for Raspberry Pi Pico, 400\xD7\
+  300, Red / Black / White, SPI"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-epaper-4.2-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pico-epaper-4.2-b.htm
+  repositories: []
+name: Pico-ePaper-4.2-B
+ref: waveshare/pico-epaper-4-2-b
+release_date: null
+sku: pico-epaper-4-2-b
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Built in remote control
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://images.squarespace-cdn.com/content/v1/53fce470e4b0374adfdd30bc/1417016349202-WECDYZNMZGQR1BPHHMIO/outlets.png
+  models: []
+  products:
+  - https://www.insteon.com/outlets-menu
+  repositories: []
+name: wall-outlets
+ref: insteon/wall-outlets
+release_date: null
+sku: wall-outlets
+spec: null
+status: ''
+vendor: insteon

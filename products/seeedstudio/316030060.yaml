@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: This Crazyflie 2.x - Spare 7x16 mm coreless DC motor with connector is
+  a replacement part that can be used for the Crazyflie 2.X quadcopter. The motor
+  has a coreless design and a size of 7x16 mm and comes equipped with a Molex picoblade
+  2P connector for easy installation.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedimg2016-06bwdglpqnw7xsmlcv5yaz6j1k.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Crazyflie-2-0-Spare-7x16-mm-coreless-DC-motor-with-connector-p-2115.html
+  repositories: []
+name: '316030060'
+ref: seeedstudio/316030060
+release_date: null
+sku: '316030060'
+spec: null
+status: ''
+vendor: seeedstudio

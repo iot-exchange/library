@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/608ZZ/images/thumbs/200x150/608zz.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-608ZZ/
+  repositories: []
+name: BEARING-608ZZ
+ref: olimex/bearing-608zz
+release_date: null
+sku: bearing-608zz
+spec: null
+status: ''
+vendor: olimex

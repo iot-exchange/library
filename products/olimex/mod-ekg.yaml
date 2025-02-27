@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  bulkPrice: 20.76 EUR
+  discountedPrice: 23.36 EUR
+  price: 25.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/Biofeedback/MOD-EKG/images/thumbs/200x150/MOD-EKG-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/Biofeedback/MOD-EKG/open-source-hardware
+  repositories: []
+name: MOD-EKG
+ref: olimex/mod-ekg
+release_date: null
+sku: mod-ekg
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Connectors/SOIC8-ADAPTER/images/thumbs/200x150/SOIC8-ADAPTER.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Connectors/SOIC8-ADAPTER/
+  repositories: []
+name: SOIC8-ADAPTER
+ref: olimex/soic8-adapter
+release_date: null
+sku: soic8-adapter
+spec: null
+status: ''
+vendor: olimex

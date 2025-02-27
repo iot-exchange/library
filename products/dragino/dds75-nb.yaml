@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: NB-IoT Distance Detection Sensor
+extra:
+  Accuracy: "\xB1(1cm+S*0.3%) (S: Distance)"
+  Battery: 8500mAh for long term use
+  Distance Detection by Ultrasonic technology: ''
+  Flat object range: 280mm - 7500mm
+  Measure Angle: "40\xB0"
+  Multiply Sampling and one uplink: ''
+  NB-IoT Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85 @H-FDD
+  Support BLE remote configure and update firmware: ''
+  Ultra-low power consumption: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/7d0d25bfcaa1421c2931a4f0387462aa_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/distance-level-sensor/item/301-dds75-nb.html
+  repositories: []
+name: DDS75-NB
+ref: dragino/dds75-nb
+release_date: null
+sku: dds75-nb
+spec: null
+status: ''
+vendor: dragino

@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC2651R3SIPA
+  repositories: []
+name: CC2651R3SIPA
+ref: ti/cc2651r3sipa
+release_date: null
+sku: cc2651r3sipa
+spec: null
+status: ''
+vendor: ti

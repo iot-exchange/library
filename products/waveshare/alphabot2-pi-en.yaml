@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: AlphaBot2 robot building kit for Raspberry Pi 3 Model B
+extra:
+  Price: $229.49 - $232.99
+  SKU: '12912'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/l/alphabot2-pi-3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/alphabot2-pi.htm
+  repositories: []
+name: AlphaBot2-Pi (EN)
+ref: waveshare/alphabot2-pi-en
+release_date: null
+sku: alphabot2-pi-en
+spec: null
+status: Out of Stock
+vendor: waveshare

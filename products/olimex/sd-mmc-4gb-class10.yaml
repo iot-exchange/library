@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Storage/SD-MMC-4GB-CLASS10/images/thumbs/200x150/SD-MMC-4GB-CLASS10-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Storage/SD-MMC-4GB-CLASS10/
+  repositories: []
+name: SD-MMC-4GB-CLASS10
+ref: olimex/sd-mmc-4gb-class10
+release_date: null
+sku: sd-mmc-4gb-class10
+spec: null
+status: ''
+vendor: olimex

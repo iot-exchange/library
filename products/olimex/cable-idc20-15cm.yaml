@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 1.90 EUR
+  discountedPrice2: 1.80 EUR
+  price: 2.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Cables/CABLE-IDC20-15CM/images/thumbs/200x150/CABLE-IDC20-15CM.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Cables/CABLE-IDC20-15CM/
+  repositories: []
+name: CABLE-IDC20-15CM
+ref: olimex/cable-idc20-15cm
+release_date: null
+sku: cable-idc20-15cm
+spec: null
+status: ''
+vendor: olimex

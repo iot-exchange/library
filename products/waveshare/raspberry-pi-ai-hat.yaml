@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Official Raspberry Pi AI HAT+, Build-in Hailo-8 AI Accelerator To Quickly
+  Build A Wide Range Of AI-powered Applications, Options for 13 TOPS / 26 TOPS
+extra:
+  Multi Options: ''
+  Price: $79.99 -  $129.99
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.waveshare.com/product/raspberry-pi-ai-hat-plus.htm
+  repositories: []
+name: Raspberry Pi AI HAT+
+ref: waveshare/raspberry-pi-ai-hat
+release_date: null
+sku: raspberry-pi-ai-hat
+spec: null
+status: ''
+vendor: waveshare

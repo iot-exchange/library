@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: Proprietary 2.4 GHz EFR32FG22 SoCs (Series 2)
+extra:
+  Flash (kB): '512'
+  Frequency Range (MHz): 2400 2483.5
+  GPIO: 18, 26
+  MCU Core: ARM Cortex-M33
+  Max Output Power (dBm): '6'
+  Peak RX Sensitivity: -102.1 (250 kbit/s OQPSK)
+  RAM (kB): '32'
+  Security: AES-128, AES-256, ECC, SHA-1, SHA-2
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/proprietary/efr32fg22-series-2-2-4-ghz-socs
+  repositories: []
+name: EFR32FG22 Series 2 SoCs
+ref: silicon-labs/efr32fg22-series-2-socs
+release_date: null
+sku: efr32fg22-series-2-socs
+spec: null
+status: ''
+vendor: silicon-labs

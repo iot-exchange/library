@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: TCS34725 Color Sensor, High Sensitivity, I2C
+extra:
+  Price: $8.31 - $8.99
+  SKU: '16131'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/c/tcs34725-color-sensor-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/tcs34725-color-sensor.htm "TCS34725 Color Sensor, High
+    Sensitivity, I2C"
+  - https://www.waveshare.com/tcs34725-color-sensor.htm
+  repositories: []
+name: TCS34725 Color Sensor
+ref: waveshare/tcs34725-color-sensor
+release_date: null
+sku: tcs34725-color-sensor
+spec: null
+status: ''
+vendor: waveshare

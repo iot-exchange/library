@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: ESP32-C3-DevKit-RUST-1 is based on the ESP32-C3, a single-core Wi-Fi
+  and Bluetooth 5 (LE) microcontroller SoC. This special board includes the ESP32-C3-MINI-1
+  module, a 6DoF IMU, a temperature and humidity sensor, a Li-Ion battery charger,
+  and a Type-C USB.
+extra:
+  Flash: 4 MB
+  Interfaces: I/O USB type-C
+  Related Products: ESP32-C3-MINI-1
+  UI: Button, LED, IMU, Temperature and humidity sensor
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://github.com/esp-rs/esp-rust-board/tree/v1.2
+  repositories: []
+name: ESP32-C3-DevKit-RUST-1
+ref: espressif/esp32-c3-devkit-rust-1
+release_date: null
+sku: esp32-c3-devkit-rust-1
+spec: null
+status: ''
+vendor: espressif

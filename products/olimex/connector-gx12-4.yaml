@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Connectors/CONNECTOR-GX12-4/images/thumbs/200x150/GX12-4a.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Connectors/CONNECTOR-GX12-4/
+  repositories: []
+name: CONNECTOR-GX12-4
+ref: olimex/connector-gx12-4
+release_date: null
+sku: connector-gx12-4
+spec: null
+status: ''
+vendor: olimex

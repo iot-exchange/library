@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "BL653 Click is a compact add-on board for long-range Bluetooth Low Energy\
+  \ (LE) connectivity in next-generation industrial IoT applications. This board features\
+  \ the BL653 module from Ezurio and is powered by Nordic\u2019s nRF52833 silicon;\
+  \ it integrates a powerful Cortex-M4F microcontroller with 512kB flash memory and\
+  \ 128kB RAM. It supports Bluetooth v5.4..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/bl653-click/bl653-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/bl653-click
+  repositories: []
+name: MIKROE-6433
+ref: mikroe/mikroe-6433
+release_date: null
+sku: mikroe-6433
+spec: null
+status: ''
+vendor: mikroe

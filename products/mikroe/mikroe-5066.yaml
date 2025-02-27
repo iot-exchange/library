@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ADC 17 Click is a compact add-on board that contains a high-performance
+  data converter. This board features the MAX11645, a low-power two-channel 12-bit
+  analog-to-digital converter from Analog Devices.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/adc-17-click/adc-17-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/adc-17-click
+  repositories: []
+name: MIKROE-5066
+ref: mikroe/mikroe-5066
+release_date: null
+sku: mikroe-5066
+spec: null
+status: ''
+vendor: mikroe

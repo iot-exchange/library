@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Temp ISO Click is a compact add-on board for accurate and isolated temperature
+  measurements in high-voltage environments. This board features the ISOTMP35-Q1,
+  an automotive-grade isolated temperature sensor with analog output from Texas Instruments.
+  This sensor integrates a robust isolation barrier with a withstand voltage of up
+  to 3000VRMS, a linear...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/temp-iso-click/temp-iso-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/temp-iso-click
+  repositories: []
+name: MIKROE-6417
+ref: mikroe/mikroe-6417
+release_date: null
+sku: mikroe-6417
+spec: null
+status: ''
+vendor: mikroe

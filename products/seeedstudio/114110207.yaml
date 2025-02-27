@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Jetson AGX Orin 32GB H01 Kit is built with Jetson AGX Orin 32GB Module,
+  offering 200 TOPs AI performance as well as a carrier board including PCIe X16,
+  GbE, 10GbE, 3* USB 3.2, HDMI 2.1, M.2 Key M, M.2 Key E, 2.4/5GHz Wi-Fi, Bluetooth,
+  16 lane MIPI CSI-2, 40-Pin header. The kit is pre-installed with JetPack 5.0.2,
+  has a heatsink with a cooling fan and an aluminum case, while being an alternative
+  option for the Jetson AGX Orin Dev Kit.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114110207-jetson-agx-orin-32gb-h01-kit-45fotn_1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/AGX-Orin-32GB-H01-Kit-p-5569.html
+  repositories: []
+name: '114110207'
+ref: seeedstudio/114110207
+release_date: null
+sku: '114110207'
+spec: null
+status: ''
+vendor: seeedstudio

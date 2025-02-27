@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "Powerful and compact edge AI device with NVIDIA\xAE Jetson Orin\u2122\
+  \ NX SoM, pre-built Jetpack 5.1.1, 128GB SSD, 4x USB 3.2, HDMI, GbE, carrier board\
+  \ also includes M.2 key E for WIFI, M.2 Key M for SSD, RTC, CAN, 40-pin and more."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110110145_1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/reComputer-J4012-w-o-power-adapter-p-5628.html
+  repositories: []
+name: '110110184'
+ref: seeedstudio/110110184
+release_date: null
+sku: '110110184'
+spec: null
+status: ''
+vendor: seeedstudio

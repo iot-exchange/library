@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: 20kg.cm Bus Servo Motor, 106PRM High Speed, Large Torque, With 360 Degrees
+  High Precision Magnetic Encoder
+extra:
+  Price: $20.63  -  $21.99
+  SKU: '25127'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/st3215-hs-servo-motor-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/st3215-hs-servo-motor.htm "20kg.cm Bus Servo
+    Motor, 106PRM High Speed, Large Torque, With 360 Degrees High Precision Magnetic
+    Encoder"
+  - https://www.waveshare.com/product/st3215-hs-servo-motor.htm
+  repositories: []
+name: ST3215-HS Servo Motor
+ref: waveshare/st3215-hs-servo-motor
+release_date: null
+sku: st3215-hs-servo-motor
+spec: null
+status: ''
+vendor: waveshare

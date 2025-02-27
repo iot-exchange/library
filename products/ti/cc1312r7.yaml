@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC1312R7
+  repositories: []
+name: CC1312R7
+ref: ti/cc1312r7
+release_date: null
+sku: cc1312r7
+spec: null
+status: ''
+vendor: ti

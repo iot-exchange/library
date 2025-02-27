@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: High-torque Serial Bus Servo, RoArm-M2 Desktop Robotic Arm Kit, Based
+  On ESP32, 4-DOF
+extra:
+  Multi Options: ''
+  Price: $189.99 - $299.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/o/roarm-m2-s-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/roarm-m2-s.htm
+  repositories: []
+name: RoArm-M2
+ref: waveshare/roarm-m2
+release_date: null
+sku: roarm-m2
+spec: null
+status: ''
+vendor: waveshare

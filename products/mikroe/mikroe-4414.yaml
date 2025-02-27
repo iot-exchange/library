@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "DIGI POT 7 Click is a compact add-on board used as a digitally controlled\
+  \ potentiometer. This board features the AD5175, a single-channel 1024-position\
+  \ digital rheostat with less than \xB11% end-to-end resistor tolerance error and\
+  \ 50-time programmable wiper memory from Analog Devices. This I2C configurable IC\
+  \ is designed to operate as a variable resistor for..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/digi-pot-7-click/digi-pot-7-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/digi-pot-7-click
+  repositories: []
+name: MIKROE-4414
+ref: mikroe/mikroe-4414
+release_date: null
+sku: mikroe-4414
+spec: null
+status: ''
+vendor: mikroe

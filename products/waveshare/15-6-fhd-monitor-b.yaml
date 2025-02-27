@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "15.6inch Monitor with Stand, Thin and Light Design, IPS screen, 1920\
+  \ \xD7 1080 Full HD, 100%sRGB High Color Gamut, No Touch"
+extra:
+  Multi Options: ''
+  Price: $109.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/5/15.6inch-fhd-monitor-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/15.6inch-fhd-monitor-b.htm
+  repositories: []
+name: "15.6\u2033 FHD Monitor (B)"
+ref: waveshare/15-6-fhd-monitor-b
+release_date: null
+sku: 15-6-fhd-monitor-b
+spec: null
+status: ''
+vendor: waveshare

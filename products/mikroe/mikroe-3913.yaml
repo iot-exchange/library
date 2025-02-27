@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: GSR click bundle - measure the electrical activity of muscles.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gsr-click-bundle/gsr-click-bundle-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/gsr-click-bundle "GSR click Bundle"
+  repositories: []
+name: MIKROE-3913
+ref: mikroe/mikroe-3913
+release_date: null
+sku: mikroe-3913
+spec: null
+status: ''
+vendor: mikroe

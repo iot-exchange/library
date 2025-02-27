@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Brushless 18 Click is a compact add-on board that controls three-phase
+  sensorless brushless DC (BLDC) motors. This board features the ATmega8A, an 8-bit
+  microcontroller from Microchip, ensuring precise and efficient motor control.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/brushless-18-click/brushless-18-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/brushless-18-click
+  repositories: []
+name: MIKROE-6395
+ref: mikroe/mikroe-6395
+release_date: null
+sku: mikroe-6395
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: EFR32xG27 Wireless 2.4 GHz +8 dBm Radio Board
+extra:
+  MSRP: $11.00
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/xg27-rb4194a-efr32xg27-8-dbm-wireless-radio-board
+  repositories: []
+name: xG27-RB4194A
+ref: silicon-labs/xg27-rb4194a
+release_date: null
+sku: xg27-rb4194a
+spec: null
+status: ''
+vendor: silicon-labs

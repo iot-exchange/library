@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: LoRaWAN Soil pH Sensor
+extra:
+  Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
+  Battery: 8500mAh Li/SOCl2 Battery (SPH01-LB), Solar panel + 3000mAh Li-ion battery
+    (SPH01-LS)
+  Features: Monitor soil pH with temperature compensation, Monitor soil temperature,
+    Monitor Battery Level, Support pH calibration by end user, Support Bluetooth v5.1
+    and LoRaWAN remote configure, Support wireless OTA update firmware
+  Power Consumption: Ultra Low Power Consumption
+  Type: LoRaWAN 1.0.3 Class A
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/600eb6612b31632f6c618c9c012d873d_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/agriculture-weather-station/item/279-sph01-lb-ls.html
+  repositories: []
+name: SPH01-LB/LS
+ref: dragino/sph01-lb-ls
+release_date: null
+sku: sph01-lb-ls
+spec: null
+status: ''
+vendor: dragino

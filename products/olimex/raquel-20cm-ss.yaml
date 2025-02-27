@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/StencilPrinters/RAQUEL-10CM-SS/images/thumbs/200x150/RAQ1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/StencilPrinters/RAQUEL-20CM-SS/
+  repositories: []
+name: RAQUEL-20CM-SS
+ref: olimex/raquel-20cm-ss
+release_date: null
+sku: raquel-20cm-ss
+spec: null
+status: ''
+vendor: olimex

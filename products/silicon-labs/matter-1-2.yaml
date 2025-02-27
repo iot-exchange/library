@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: What's New With Matter 1.2
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/blog/whats-new-with-matter-1-2
+  repositories: []
+name: Matter 1.2
+ref: silicon-labs/matter-1-2
+release_date: null
+sku: matter-1-2
+spec: null
+status: ''
+vendor: silicon-labs

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 200x200, 1.54inch E-Ink display module, three-color
+extra:
+  Price: $9.63 - $10.99
+  SKU: '13338'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.54inch-e-paper-module-b-5_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/1.54inch-e-paper-module-b.htm
+  repositories: []
+name: 1.54inch e-Paper Module (B)
+ref: waveshare/1-54inch-e-paper-module-b
+release_date: null
+sku: 1-54inch-e-paper-module-b
+spec: null
+status: ''
+vendor: waveshare

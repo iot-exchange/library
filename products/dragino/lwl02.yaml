@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LoRaWAN Water Leak Sensor
+extra:
+  Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
+  Battery Life: Last for several years
+  Power: 2 x AAA
+  Power Consumption: Ultra Low
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/b262fcb3a88d76445a5d5d6ad933cf2d_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lorawan-nb-iot-door-sensor-water-leak/item/180-lwl02.html
+  repositories: []
+name: LWL02
+ref: dragino/lwl02
+release_date: null
+sku: lwl02
+spec: null
+status: ''
+vendor: dragino

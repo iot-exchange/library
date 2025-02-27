@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Seeed Studio Expansion Board Base for XIAO with Grove OLED - IIC, Uart,
+  Analog/Digital
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/z/h/zheng1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Seeeduino-XIAO-Expansion-board-p-4746.html
+  repositories: []
+name: '103030356'
+ref: seeedstudio/103030356
+release_date: null
+sku: '103030356'
+spec: null
+status: ''
+vendor: seeedstudio

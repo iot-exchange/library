@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "ODYSSEY - X86J4125864 v2 features Quad-core Intel\xAE Celeron\xAE J4125\
+  \ and RP2040 co-processor, equipping dual 2.5GbE interfaces and multiple wireless\
+  \ connectivities, supporting 4K output, carrying sufficient storage capability,\
+  \ equipment expandability, and fan heat dissipation, operated by multiple OS(pre-installed\
+  \ Win 11 Pro), all of which indicate that it can be an ideal mini PC, a functional\
+  \ router, a media center or other development applications by your definition."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110991824-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/ODYSSEY-Blue-J4125-v2-128GB-p-5532.html
+  repositories: []
+name: '110991824'
+ref: seeedstudio/110991824
+release_date: null
+sku: '110991824'
+spec: null
+status: ''
+vendor: seeedstudio

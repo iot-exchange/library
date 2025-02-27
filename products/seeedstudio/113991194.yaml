@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: A BLE Location Beacon for location-based services, asset tracking, navigation,
+  and other applications, especially for SenseCAP T1000 Tracker.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-113991194-e5-location-beacon-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/E5-Location-Beacon-p-5791.html
+  repositories: []
+name: '113991194'
+ref: seeedstudio/113991194
+release_date: null
+sku: '113991194'
+spec: null
+status: ''
+vendor: seeedstudio

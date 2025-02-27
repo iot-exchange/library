@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Power over Ethernet HAT (C) for Raspberry Pi 3B+/4B, 802.3af/at-compliant
+extra:
+  Price: $18.63 - $19.99
+  SKU: '19445'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/o/poe-hat-c-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/poe-hat-c.htm
+  repositories: []
+name: PoE HAT (C)
+ref: waveshare/poe-hat-c
+release_date: null
+sku: poe-hat-c
+spec: null
+status: ''
+vendor: waveshare

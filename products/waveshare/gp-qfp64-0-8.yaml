@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: GP-QFP64-0.8, Programmer Adapter
+extra:
+  Price: $73.99 - $79.99
+  SKU: '3265'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/p/gp-qfp64-0.8_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/gp-qfp64-0.8.htm
+  repositories: []
+name: GP-QFP64-0.8
+ref: waveshare/gp-qfp64-0-8
+release_date: null
+sku: gp-qfp64-0-8
+spec: null
+status: ''
+vendor: waveshare

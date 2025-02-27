@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Soldering-Kits/Beginner/FOSDEM-MUSIC-BOX/images/thumbs/200x150/FOSDEM-MUSIC-BOX.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Soldering-Kits/Beginner/FOSDEM-MUSIC-BOX/open-source-hardware
+  repositories: []
+name: FOSDEM-MUSIC-BOX
+ref: olimex/fosdem-music-box
+release_date: null
+sku: fosdem-music-box
+spec: null
+status: ''
+vendor: olimex

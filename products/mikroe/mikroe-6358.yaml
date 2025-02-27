@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: YOU GET EVERYTHING YOU NEED Camera for streaming Planet Debug FRAME contains
+  an IP camera with a high resolution of 2592x1944px. You can change settings such
+  as contrast, sharpness, and orientation. And even though this camera is fixed, you
+  can adjust focus and zoom. This camera will provide a visible, fixed angle of view,
+  making it easy to...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/planet-debug-frame/planet-debug-frame-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/planet-debug-frame
+  repositories: []
+name: MIKROE-6358
+ref: mikroe/mikroe-6358
+release_date: null
+sku: mikroe-6358
+spec: null
+status: ''
+vendor: mikroe

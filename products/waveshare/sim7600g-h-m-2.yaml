@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: SIM7600G-H-M.2 SIMCom Original 4G LTE Cat-4 Module, Global Coverage,
+  GNSS, M.2 Connector
+extra:
+  Price: $36.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim7600g-h-m.2-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/sim7600x-h-m2.htm
+  - https://www.waveshare.com/product/sim7600x-h-m2.htm "SIM7600G-H-M.2 SIMCom Original
+    4G LTE Cat-4 Module, Global Coverage, GNSS, M.2 Connector"
+  repositories: []
+name: SIM7600G-H-M.2
+ref: waveshare/sim7600g-h-m-2
+release_date: null
+sku: sim7600g-h-m-2
+spec: null
+status: ''
+vendor: waveshare

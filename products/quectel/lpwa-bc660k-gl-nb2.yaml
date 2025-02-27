@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ADC temp check  Cat NB2  eSIM  PSM_EINT
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.quectel.com/content/uploads/2024/03/BC660K-GL_Layered.png
+  models: []
+  products:
+  - https://www.quectel.com/product/lpwa-bc660k-gl-nb2/
+  repositories: []
+name: LPWA BC660K-GL NB2
+ref: quectel/lpwa-bc660k-gl-nb2
+release_date: null
+sku: lpwa-bc660k-gl-nb2
+spec: null
+status: ''
+vendor: quectel

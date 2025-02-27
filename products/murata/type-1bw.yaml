@@ -1,0 +1,49 @@
+alternatives: []
+certifications: []
+description: Consumer equipment, Industrial Equipment
+extra:
+  Bluetooth: 5.0 BR/EDR/LE
+  Chipset: CYW433340
+  Dimension: ''
+  ETSI Report: 'No'
+  FCC/ISED Certified: 'No'
+  Frequency: 2.4GHz, 5GHz
+  Grade: Consumer
+  Host Interface (Bluetooth): WICED
+  Host Interface (Wi-Fi): 'No'
+  IC Manufacturer: Infineon
+  Integrated Antenna: 'No'
+  Interface Voltage: 'No'
+  MIC (Japan) Certified: 'No'
+  Mounting Type: SMT
+  Operating Temperature (degC): ''
+  Package: Shielded Resin
+  Packaging: Tape and Reel
+  Peripheral Interface: 'No'
+  Platform: ''
+  Processor: ''
+  Receive Mode Current: ''
+  RoHS Support: 'Yes'
+  Sleep Mode Current (Bluetooth): ''
+  Sleep Mode Current (Wi-Fi): ''
+  Supply Voltage: 1.8V,3.3V
+  Technology: Wi-Fi,Bluetooth,FM
+  Transmit Mode Current (Bluetooth): ''
+  Transmit Mode Current (Wi-Fi): ''
+  Wi-Fi: Wi-Fi 4
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth#series-lineup
+  - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth#product-lineup
+  repositories: []
+name: Type 1BW
+ref: murata/type-1bw
+release_date: null
+sku: type-1bw
+spec: null
+status: ''
+vendor: murata

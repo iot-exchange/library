@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "The Heart Rate 9 click is a Click board\u2122 which features PIC16F1779\
+  \ 8-bit MCU and SFH 7060 heart rate and pulse oximetry monitoring sensor. This click\
+  \ has an algorithm for processing data from the sensor and it can send data for\
+  \ 3 different diodes (green, ir, red) who give out a diagram of the heartbeat and\
+  \ its frequency per minute. The data has shown that..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/heart-rate-9-click/heart-rate-9-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=118#Heart-Rate-9-Click
+  repositories: []
+name: MIKROE-3822
+ref: mikroe/mikroe-3822
+release_date: null
+sku: mikroe-3822
+spec: null
+status: ''
+vendor: mikroe

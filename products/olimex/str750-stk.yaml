@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 80.96 EUR
+  discountedPrice2: 71.96 EUR
+  price: 89.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/ST/STR750-STK/images/thumbs/200x150/STR-750-STK.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/ST/STR750-STK/
+  repositories: []
+name: STR750-STK
+ref: olimex/str750-stk
+release_date: null
+sku: str750-stk
+spec: null
+status: ''
+vendor: olimex

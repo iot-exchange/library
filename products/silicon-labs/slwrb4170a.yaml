@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  2.4 GHz: "\u2714"
+  Bluetooth 5: "\u2714"
+  Bluetooth Mesh: "\u2714"
+  Flash (kB): '1024'
+  Frequency Band: 868-915 MHz
+  Output Power (dBm): '19'
+  RAM (kB): '256'
+  Sub-GHz: "\u2714"
+  Thread: "\u2714"
+  Wi-SUN: "\u2714"
+  Zigbee: "\u2714"
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/zigbee/slwrb4170a-efr32mg12-radio-board
+  repositories: []
+name: SLWRB4170A
+ref: silicon-labs/slwrb4170a
+release_date: null
+sku: slwrb4170a
+spec: null
+status: ''
+vendor: silicon-labs

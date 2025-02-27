@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: $3.39  -  $3.99
+extra:
+  Part No.: RS232 Board
+  SKU: '3965'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs232-board_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rs232-board.htm
+  repositories: []
+name: RS232 Board
+ref: waveshare/rs232-board
+release_date: null
+sku: rs232-board
+spec: null
+status: ''
+vendor: waveshare

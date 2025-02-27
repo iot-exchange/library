@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: PoE Ethernet / USB HUB HAT for Raspberry Pi Zero, 1x RJ45, 3x USB
+extra:
+  Price: $23.63 - $24.99
+  SKU: '19635'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/o/poe-eth-usb-hub-hat-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/poe-eth-usb-hub-hat.htm
+  repositories: []
+name: PoE/ETH/USB HUB HAT
+ref: waveshare/poe-eth-usb-hub-hat
+release_date: null
+sku: poe-eth-usb-hub-hat
+spec: null
+status: ''
+vendor: waveshare

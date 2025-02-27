@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Industrial USB TO 8CH TTL Converter, USB to UART, Multi Protection Circuits,
+  Multi Systems Support, USB To TTL Adapter
+extra:
+  Price: $25.97 - $26.99
+  SKU: '27076'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-8ch-ttl-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/usb-to-8ch-tt.htm
+  repositories: []
+name: USB TO 8CH TTL
+ref: waveshare/usb-to-8ch-ttl
+release_date: null
+sku: usb-to-8ch-ttl
+spec: null
+status: ''
+vendor: waveshare

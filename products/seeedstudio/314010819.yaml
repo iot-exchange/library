@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "The PT1000 temperature sensor accurately measures temperatures between\
+  \ -50\xB0C and 300\xB0C, making it an excellent choice for industrial applications.\
+  \ This platinum resistance temperature sensor is suitable for measuring the temperature\
+  \ of gases, liquids, and solids."
+extra:
+  application: industrial applications
+  price: $9.90
+  temperatureRange: "-50\xB0C to 300\xB0C"
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-314010819-pt1000-temperature-sensor-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/PT1000-Temperature-Sensor-p-5827.html
+  repositories: []
+name: '314010819'
+ref: seeedstudio/314010819
+release_date: null
+sku: '314010819'
+spec: null
+status: ''
+vendor: seeedstudio

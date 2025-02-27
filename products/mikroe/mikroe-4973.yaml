@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Clock Gen 6 Click is a compact add-on board representing a digital oscillator
+  solution. This board features the MIC1557, an IttyBitty CMOS RC oscillator designed
+  to provide rail-to-rail pulses for precise time delay or frequency generation from
+  Microchip Technology.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/clock-gen-6-click/clock-gen-6-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/clock-gen-6-click
+  repositories: []
+name: MIKROE-4973
+ref: mikroe/mikroe-4973
+release_date: null
+sku: mikroe-4973
+spec: null
+status: ''
+vendor: mikroe

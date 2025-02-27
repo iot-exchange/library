@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Equipped with Syntiant AI chip, optimized for voice data Keyword detection.
+  Operates at ultralow power consumption (<1mW).
+extra:
+  Power Consumption: <1mW
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/products/connectivitymodule/edge-ai/overview/lineup/type2da
+  repositories: []
+name: Type2DA
+ref: murata/type2da
+release_date: null
+sku: type2da
+spec: null
+status: ''
+vendor: murata

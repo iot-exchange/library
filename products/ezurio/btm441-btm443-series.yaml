@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Bluetooth Module
+extra:
+  2MPHY: ''
+  802.15.4 / Matter / Thread: ''
+  BLE: x
+  Classic BT: ''
+  LE Long Range: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/TRBLU23.png
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-20-21-and-30-modules/btm441-btm443-series-bluetooth-module
+  repositories: []
+name: BTM441 & BTM443 Series
+ref: ezurio/btm441-btm443-series
+release_date: null
+sku: btm441-btm443-series
+spec: null
+status: ''
+vendor: ezurio

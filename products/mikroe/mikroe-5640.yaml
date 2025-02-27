@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: ADC 22 Click is a compact add-on board with a high-performance data converter.
+  This board features the ADS8665, a high-speed single-supply SAR ADC data acquisition
+  system with programmable bipolar input ranges from Texas Instruments. It features
+  a high-speed, high-precision A/D converter based on successive approximation (SAR).
+  This 12-bit resolution ADC...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/adc-22-click/adc-22-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/adc-22-click
+  repositories: []
+name: MIKROE-5640
+ref: mikroe/mikroe-5640
+release_date: null
+sku: mikroe-5640
+spec: null
+status: ''
+vendor: mikroe

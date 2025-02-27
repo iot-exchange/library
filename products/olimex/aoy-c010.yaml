@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/AOY-C010/images/thumbs/200x150/AOY-C001-C008-C010.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/Soldering/AOY-C010/
+  repositories: []
+name: AOY-C010
+ref: olimex/aoy-c010
+release_date: null
+sku: aoy-c010
+spec: null
+status: ''
+vendor: olimex

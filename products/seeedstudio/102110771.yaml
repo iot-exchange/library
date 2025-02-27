@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: EdgeBox-RPI-200 is not only an industrial raspberry pi/linux gateway
+  and IIoT gateway, but also an all-in-one Raspberry Pi-based edge computing controllers
+  that combines multiple industrial purposes. Designed as high-scalability and rugged
+  industrial hardware, mounted with rich IO resources, and supported by the great
+  Raspberry Pi industrial software ecosystem, it is an ideal choice for smart automation
+  and Industrial Internet of Things(IIoT) solutions.
+extra:
+  Network: WiFi
+  RAM: 4GB
+  Storage: 16GB eMMC
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114110130-ov5647-160-fov--ir-camera-module-for-raspberry-pi-3b_4b-45-font.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/i/m/image_4.jpeg
+  models: []
+  products:
+  - https://www.seeedstudio.com/EdgeBox-RPi-200-CM4104016-p-5486.html
+  repositories: []
+name: '102110771'
+ref: seeedstudio/102110771
+release_date: null
+sku: '102110771'
+spec: null
+status: ''
+vendor: seeedstudio

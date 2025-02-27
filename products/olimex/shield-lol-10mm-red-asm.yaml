@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Duino/Shields/SHIELD-LOL-10MM/images/thumbs/200x150/LOL-10MM-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Duino/Shields/SHIELD-LOL-10MM-RED-ASM/open-source-hardware
+  repositories: []
+name: SHIELD-LOL-10MM-RED-ASM
+ref: olimex/shield-lol-10mm-red-asm
+release_date: null
+sku: shield-lol-10mm-red-asm
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Retro-Computers/ESP32-SBC-FabGL/images/thumbs/200x150/FabGL-1w.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Retro-Computers/ESP32-SBC-FabGL/open-source-hardware
+  repositories: []
+name: ESP32-SBC-FabGL
+ref: olimex/esp32-sbc-fabgl
+release_date: null
+sku: esp32-sbc-fabgl
+spec: null
+status: ''
+vendor: olimex

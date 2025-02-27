@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: "SenseCAP T1000-B LoRaWAN Tracker for Indoor and Outdoor Positioning\
+  \ is a card-size LoRaWAN\xAE tracker that utilizes GNSS/Wi-Fi/Bluetooth for precise\
+  \ indoor & outdoor location tracking. It assures reliable tracking across various\
+  \ applications."
+extra:
+  Applications: Indoor and outdoor location tracking
+  Tracking Technology: GNSS/Wi-Fi/Bluetooth
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993073-sensecap-card-tracker-t1000-a_1.jpg
+  - https://www.seeedstudio.com/img/p
+  models: []
+  products:
+  - https://www.seeedstudio.com/SenseCAP-T1000-B-LoRaWAN-Tracker-for-Indoor-and-Outdoor-Positioning
+  - https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-B-p-5698.html
+  repositories: []
+name: '114993106'
+ref: seeedstudio/114993106
+release_date: null
+sku: '114993106'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Luckfox Pico Ultra RV1106 Linux Micro Development Board, Integrates ARM
+  Cortex-A7/RISC-V MCU/NPU/ISP Processors
+extra:
+  Price: $15.99 - $56.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/u/luckfox-pico-ultra-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/luckfox-pico-ultra.htm
+  repositories: []
+name: Luckfox Pico Ultra
+ref: waveshare/luckfox-pico-ultra
+release_date: null
+sku: luckfox-pico-ultra
+spec: null
+status: ''
+vendor: waveshare

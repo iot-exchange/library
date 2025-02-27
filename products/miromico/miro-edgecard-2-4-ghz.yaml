@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: LoRa gateway card for 2.4 GHz ISM band.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://miromico.ch/files/miromico/media-data/product_images/Gateways/miro_EdgeCard/jpg/miro_EdgeCard_GWC_2G4.jpg
+  models: []
+  products:
+  - https://miromico.ch/en/products/details/miro-EdgeCard-2-4-GHz
+  repositories: []
+name: miro EdgeCard 2.4 GHz
+ref: miromico/miro-edgecard-2-4-ghz
+release_date: null
+sku: miro-edgecard-2-4-ghz
+spec: null
+status: ''
+vendor: miromico

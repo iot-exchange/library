@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/5G-FM190W-GL.html
+  repositories: []
+name: FM190W-GL
+ref: fibocom/fm190w-gl
+release_date: null
+sku: fm190w-gl
+spec: null
+status: ''
+vendor: fibocom

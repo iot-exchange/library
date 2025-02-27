@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: SenseCAP CO2, Temperature and Humidity Sensor with RS485&SDI-12
+extra:
+  Applications: Greenhouses, cities, poultry farms, transportation stations
+  Communication Protocols: Modbus-RTU/ASCII RS485, SDI-12
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101991029.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/SenseCAP-CO2-Temperature-and-Humidity-Sensor-with-RS485-SDI-12-p-5720.html
+  repositories: []
+name: '101991029'
+ref: seeedstudio/101991029
+release_date: null
+sku: '101991029'
+spec: null
+status: ''
+vendor: seeedstudio

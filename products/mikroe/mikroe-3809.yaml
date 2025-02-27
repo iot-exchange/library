@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "This bundle comes with the eINK click adapter and e-Paper display 1.54\u201D\
+  . Which provides you an easy start of any project where the e-paper display is needed.\
+  \ The E-Ink technology is a reasonably new technology with a promising future, widely\
+  \ commercialized by the E-INK company. The content displayed on the E-INK (also\
+  \ known as E-Paper) display does not..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.mikroe.com/e-paper-bundle-1 "E-Paper Bundle 1"
+  repositories: []
+name: MIKROE-3809
+ref: mikroe/mikroe-3809
+release_date: null
+sku: mikroe-3809
+spec: null
+status: Unavailable
+vendor: mikroe

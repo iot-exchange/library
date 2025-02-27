@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Grove Beginner Kit for Arduino - All-in-one Arduino Compatible Board
+  with 10 Sensors and 12 Projects with Free Course
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.seeedstudio.com/img/n
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-110061162-grove-beginner-kit-for-arduino-first.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-Beginner-Kit-for-Arduino-p-110061162.html
+  repositories: []
+name: '110061162'
+ref: seeedstudio/110061162
+release_date: null
+sku: '110061162'
+spec: null
+status: ''
+vendor: seeedstudio

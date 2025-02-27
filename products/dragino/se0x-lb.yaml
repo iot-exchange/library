@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "LoRaWAN 1.0.3 Class A protocolBands:EU433/CN470/EU868/IN865/KR920/AS923/AU915/US915External\
+  \ 4 \xD7 sensor probes, probe length: 2.5mMonitor Soil Moisture, Temperature and\
+  \ ConductivitySupport Bluetooth v5.1 and LoRaWAN remote configureSupport wireless\
+  \ OTA update firmware8500mAh Battery for long-term use"
+extra:
+  Catalog: Agriculture & Weather Station
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/68497d6cb194485d2759fde9466457b7_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/agriculture-weather-station/item/351-se0x-lb.html
+  repositories: []
+name: SE0X-LB
+ref: dragino/se0x-lb
+release_date: null
+sku: se0x-lb
+spec: null
+status: ''
+vendor: dragino

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 0.90 EUR
+  discountedPrice2: 0.80 EUR
+  price: 1.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/MG-ACC/images/thumbs/200x150/MOTOR-ACC.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/MG-ACC/
+  repositories: []
+name: MG-ACC
+ref: olimex/mg-acc
+release_date: null
+sku: mg-acc
+spec: null
+status: ''
+vendor: olimex

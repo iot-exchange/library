@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: DHT11 Temperature-Humidity Sensor
+extra:
+  Price: $3.39 - $3.99
+  SKU: '9535'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/e/temperature-humidity-sensor_l_1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/temperature-humidity-sensor.htm
+  repositories: []
+name: DHT11 Temperature-Humidity Sensor
+ref: waveshare/dht11-temperature-humidity-sensor
+release_date: null
+sku: dht11-temperature-humidity-sensor
+spec: null
+status: ''
+vendor: waveshare

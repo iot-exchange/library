@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "Concentrator Module: M.2 Form Factor Innovation for LoRaWAN\xAE Applications.\
+  \ These concentrator modules feature Semtech's advanced SX1303 core. They support\
+  \ M.2 slots in 3042 and 2280 form factors. They are created to transform industrial\
+  \ PCs and IoT gateways with M.2 slots into high-performance gateways for LoRaWAN."
+extra:
+  Core: Semtech SX1303
+  Form Factor: M.2
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://res.rakwireless.com/tracked/products/wislink/rak5166.png?fm=webp
+  models: []
+  products:
+  - https://store.rakwireless.com/products/rak5166-rak5167-concentrator-card-m-2-form-factor-innovation-for-lorawan-applications-sx1303-lora-core-usb-gps-lbt?m=3&h=wislink-lorawan-concentrators-module-sx1302-sx1303-sx1308-sx1301&variant=43455400640710??utm_source=ConcentratorModulesforLoRaWAN&utm_medium=ConcentratorModulesforLoRaWAN&utm_campaign=RAKwireless
+  repositories: []
+name: RAK5166/RAK5167
+ref: rakwireless/rak5166-rak5167
+release_date: null
+sku: rak5166-rak5167
+spec: null
+status: ''
+vendor: rakwireless

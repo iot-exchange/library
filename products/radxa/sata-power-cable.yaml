@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Specialized SATA Power Interface for Radxa SBC
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/accessories/ac055/thumb_sata_power_cable.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/sata-power-cable
+  repositories: []
+name: SATA Power Cable
+ref: radxa/sata-power-cable
+release_date: null
+sku: sata-power-cable
+spec: null
+status: ''
+vendor: radxa

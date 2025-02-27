@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-LMK6UU/images/thumbs/200x150/LMK.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-LMK6UU/
+  repositories: []
+name: BEARING-LMK6UU
+ref: olimex/bearing-lmk6uu
+release_date: null
+sku: bearing-lmk6uu
+spec: null
+status: ''
+vendor: olimex

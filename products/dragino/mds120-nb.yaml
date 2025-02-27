@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: NB-IoT Microwave Radar Distance Sensor
+extra:
+  60Ghz Microwave Radar for distance detection: ''
+  Accuracy: "\xB1(2cm+SX0.3%) S: Measure Value"
+  Battery: 8500mAh for long term use
+  Measure Range: 15 ~ 1200cm
+  Measurement Angle: 25 degrees horizontal and 23 degrees vertical
+  Multiply Sampling and one uplink: ''
+  NB-IoT Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85 @H-FDD
+  Support Bluetooth v5.1 remote configure and update firmware: ''
+  Ultra-low power consumption: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/7ab716354432ee12f19b58c60471093b_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/distance-level-sensor/item/298-mds120-nb.html
+  repositories: []
+name: MDS120-NB
+ref: dragino/mds120-nb
+release_date: null
+sku: mds120-nb
+spec: null
+status: ''
+vendor: dragino

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: The LDS02 is a LoRaWAN Door and Window Sensor to detect door open/close
+  status and send uplinks to IoT platforms via the LoRaWAN network. It can be used
+  for burglar detection for home security and property protection.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/101990921_preview-16_2.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/LoRaWAN-Door-and-Window-Sensor-US915-p-5291.html
+  repositories: []
+name: '101990922'
+ref: seeedstudio/101990922
+release_date: null
+sku: '101990922'
+spec: null
+status: ''
+vendor: seeedstudio

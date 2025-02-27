@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "The SMD Black mikroBUS\u2122 socket has a stronger design for easier\
+  \ interfacing with Click boards\u2122. It features horizontal supports between 8-pin\
+  \ connectors and a 45\xB0 chamfered lower edge, ensuring a perfect fit and alignment.\
+  \ All pins are clearly labeled for secure placement. These sockets are packaged\
+  \ in plastic anti-static shipping tubes for safe..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/socket-mikrobus-16-smd/socket-mikrobus-16-smd-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/socket-mikrobust-16-smd
+  repositories: []
+name: MIKROE-4248
+ref: mikroe/mikroe-4248
+release_date: null
+sku: mikroe-4248
+spec: null
+status: ''
+vendor: mikroe

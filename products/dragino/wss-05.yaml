@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: RS485 Temperature, Humidity, Illuminance, Pressure sensor
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/aa5045f13216477abf2a0e16a08acd59_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/agriculture-weather-station/item/218-wss-05.html
+  repositories: []
+name: WSS-05
+ref: dragino/wss-05
+release_date: null
+sku: wss-05
+spec: null
+status: ''
+vendor: dragino

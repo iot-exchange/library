@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: MAX-M8Q GNSS HAT for Raspberry Pi, Multi-constellation Receiver Support,
+  GPS, Beidou, Galileo, GLONASS
+extra:
+  Price: $33.29 - $34.99
+  SKU: '18233'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/a/max-m8q-gnss-hat-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/max-m8q-gnss-hat.htm
+  repositories: []
+name: MAX-M8Q GNSS HAT
+ref: waveshare/max-m8q-gnss-hat
+release_date: null
+sku: max-m8q-gnss-hat
+spec: null
+status: ''
+vendor: waveshare

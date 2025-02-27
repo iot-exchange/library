@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "As Low As $38\nChipset (MPU)\n1x Cortex\xAE-A55 cores @ up to 1.4 GHz\
+  \ (NXP i.MX 91) \nWireless Specification\n(optional) Wi-Fi 6E Bluetooth 5.4 \nDimensions\
+  \ (L x W)\n82 x 50"
+extra:
+  Chipset (MPU): "1x Cortex\xAE-A55 cores @ up to 1.4 GHz (NXP i.MX 91)"
+  Dimensions (L x W): 82 x 50
+  Wireless Specification: (optional) Wi-Fi 6E Bluetooth 5.4
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-09/Nitrogen%2091%20front.png
+  models: []
+  products:
+  - https://www.ezurio.com/product/nitrogen91-smarc
+  repositories: []
+name: Nitrogen91 SMARC
+ref: ezurio/nitrogen91-smarc
+release_date: null
+sku: nitrogen91-smarc
+spec: null
+status: ''
+vendor: ezurio

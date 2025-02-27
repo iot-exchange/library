@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: SM24240, Two-Phase Stepper Motor
+extra:
+  Price: $5.39 - $5.99
+  SKU: '15948'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/m/sm24240-0.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/sm24240.htm
+  - https://www.waveshare.com/sm24240.htm "SM24240, Two-Phase Stepper Motor"
+  repositories: []
+name: SM24240
+ref: waveshare/sm24240
+release_date: null
+sku: sm24240
+spec: null
+status: ''
+vendor: waveshare

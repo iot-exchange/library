@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: ADC 24 Click is a compact add-on board for high-speed analog to digital
+  conversion. This board features the AD7490, a 12-bit, 16-channel successive approximation
+  ADC from Analog Devices, optimized for efficient power usage with a consumption
+  of just 2.5mA from a 5V supply while achieving up to 1MSPS throughput rates. The
+  board features 16 single-ended...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/adc-24-click/adc-24-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/adc-24-click
+  repositories: []
+name: MIKROE-6039
+ref: mikroe/mikroe-6039
+release_date: null
+sku: mikroe-6039
+spec: null
+status: ''
+vendor: mikroe

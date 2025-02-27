@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: USB Port High Definition HDMI Video Capture Card, for Gaming / Streaming
+  / Cameras, HDMI to USB
+extra:
+  Multi Options: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-to-usb-adapter-1_1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-to-usb-adapter-2_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/hdmi-to-usb-adapter.htm
+  repositories: []
+name: usb_to_hdmi_adapter
+ref: waveshare/usb-to-hdmi-adapter
+release_date: null
+sku: usb-to-hdmi-adapter
+spec: null
+status: ''
+vendor: waveshare

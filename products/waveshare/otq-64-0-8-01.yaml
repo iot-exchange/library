@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Test & Burn-in Socket
+extra:
+  Price: $56.59 - $59.99
+  SKU: '5015'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/t/otq-64-0.8-01_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/otq-64-0.8-01.htm
+  repositories: []
+name: OTQ-64-0.8-01
+ref: waveshare/otq-64-0-8-01
+release_date: null
+sku: otq-64-0-8-01
+spec: null
+status: ''
+vendor: waveshare

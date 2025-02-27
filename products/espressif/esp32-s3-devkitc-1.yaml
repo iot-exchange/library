@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: ESP32-S3 general-purpose development board, based on ESP32-S3-WROOM-1/1U
+  or ESP32-S3-WROOM-2/2U. It has all the ESP32-S3 pins exposed and is easy to connect
+  and use.
+extra:
+  Flash / PSRAM: 8 MB Flash 8 MB Flash + 3.3V 2 MB Quad PSRAM 8 MB Flash + 3.3V 8
+    MB Octal PSRAM 32 MB Flash + 1.8V 8 MB Octal PSRAM (Suitable for ESP32-S3-WROOM-2)
+  Getting Started: User Guide
+  Interfaces: I/O USB
+  Related Products: ESP32-S3-WROOM-1, ESP32-S3-WROOM-1U, ESP32-S3-WROOM-2, ESP32-S3-WROOM-2U
+  UI: Buttons, LEDs
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/dev-board/ESP32-S3-DevKitC-1%20%E5%B0%8F.png
+  models: []
+  products:
+  - https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitc-1.html
+  repositories: []
+name: ESP32-S3-DevKitC-1
+ref: espressif/esp32-s3-devkitc-1
+release_date: null
+sku: esp32-s3-devkitc-1
+spec: null
+status: ''
+vendor: espressif

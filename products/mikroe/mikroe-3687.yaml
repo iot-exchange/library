@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "13DOF 2 click is an advanced 13-axis motion tracking Click board\u2122\
+  , which utilizes two different sensor ICs onboard: BME680, Volatile Organic Compounds\
+  \ (VOCs), humidity, pressure and temperature sensor and BMX160, a 9-axis sensor\
+  \ consisting of a 3-axis, low-g accelerometer, a low power 3-axis gyroscope and\
+  \ a 3-axis geomagnetic sensor."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/13dof-2-click/13dof-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/13dof-2-click
+  repositories: []
+name: MIKROE-3687
+ref: mikroe/mikroe-3687
+release_date: null
+sku: mikroe-3687
+spec: null
+status: Unavailable
+vendor: mikroe

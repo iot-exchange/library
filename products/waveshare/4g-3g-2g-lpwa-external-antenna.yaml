@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: 4G High Gain SMA Antenna, 4G/3G/2G/LPWA Support
+extra:
+  Price: $1.42 - $1.59
+  SKU: '21121'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/g/4g-3g-2g-lpwa-external-antenna-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/4g-3g-2g-lpwa-external-antenna.htm
+  - https://www.waveshare.com/product/4g-3g-2g-lpwa-external-antenna.htm "4G High
+    Gain SMA Antenna, 4G/3G/2G/LPWA Support"
+  repositories: []
+name: 4G/3G/2G/LPWA External Antenna
+ref: waveshare/4g-3g-2g-lpwa-external-antenna
+release_date: null
+sku: 4g-3g-2g-lpwa-external-antenna
+spec: null
+status: ''
+vendor: waveshare

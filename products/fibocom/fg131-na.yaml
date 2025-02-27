@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/5GRedCap-FG131-NA.html
+  repositories: []
+name: FG131-NA
+ref: fibocom/fg131-na
+release_date: null
+sku: fg131-na
+spec: null
+status: ''
+vendor: fibocom

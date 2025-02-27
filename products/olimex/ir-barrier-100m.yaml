@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 24.00 EUR
+  price2: 21.60 EUR
+  price3: 19.20 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/IR-BARRIER-100M/images/thumbs/200x150/IR-BAR-2.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Sensors/IR-BARRIER-100M/
+  repositories: []
+name: IR-BARRIER-100M
+ref: olimex/ir-barrier-100m
+release_date: null
+sku: ir-barrier-100m
+spec: null
+status: ''
+vendor: olimex

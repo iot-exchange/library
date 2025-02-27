@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Mini HDMI C/Male to HDMI A/Female adapter designed for use with Raspberry
+  Pi Zero computers
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/mini-hdmi-c-male-to-standard-hdmi-a-female-adapter/
+  repositories: []
+name: Mini HDMI C/Male to HDMI A/Female adapter
+ref: raspberrypi/mini-hdmi-c-male-to-hdmi-a-female-adapter
+release_date: null
+sku: mini-hdmi-c-male-to-hdmi-a-female-adapter
+spec: null
+status: ''
+vendor: raspberrypi

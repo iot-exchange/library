@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: GSM/GPRS/GNSS/Bluetooth HAT for Raspberry Pi
+extra:
+  Price: $28.29 - $29.99
+  SKU: '13460'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/s/gsm-gprs-gnss-hat-1_6.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/gsm-gprs-gnss-hat.htm
+  repositories: []
+name: GSM/GPRS/GNSS HAT
+ref: waveshare/gsm-gprs-gnss-hat
+release_date: null
+sku: gsm-gprs-gnss-hat
+spec: null
+status: ''
+vendor: waveshare

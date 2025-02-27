@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Cables/USB-CABLE-AM-AM/images/thumbs/200x150/USB-CABLE-AM-AM-1.8M.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Cables/USB-CABLE-AM-AM-1-8M/
+  repositories: []
+name: USB-CABLE-AM-AM-1-8M
+ref: olimex/usb-cable-am-am-1-8m
+release_date: null
+sku: usb-cable-am-am-1-8m
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: GLOBAL USAGE IN 2.4 GHz ISM BAND, CE FCC IC PRE APPROVED
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://neocortec.com/wp-content/uploads/2019/04/nc2400.png
+  models: []
+  products:
+  - https://neocortec.com/the-neocortec-nc2400-wireless-mesh-network-module-series/
+  repositories: []
+name: NC2400
+ref: neocortec/nc2400
+release_date: null
+sku: nc2400
+spec: null
+status: ''
+vendor: neocortec

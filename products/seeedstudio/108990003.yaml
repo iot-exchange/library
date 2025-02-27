@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Small size and high torque, Mainly used in air conditioner louver, small
+  cooling heating fan and Automatic curtains etc
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/p/e/perspective_3_6.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Small-Size-and-High-Torque-Stepper-Motor-24BYJ48-p-1922.html
+  repositories: []
+name: '108990003'
+ref: seeedstudio/108990003
+release_date: null
+sku: '108990003'
+spec: null
+status: ''
+vendor: seeedstudio

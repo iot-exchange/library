@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 2.95 EUR
+  price2: 2.80 EUR
+  price3: 2.66 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Soldering-Kits/MUSICAL-BADGE/images/thumbs/200x150/MUSICAL-BADGE.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Soldering-Kits/MUSICAL-BADGE/open-source-hardware
+  repositories: []
+name: MUSICAL-BADGE
+ref: olimex/musical-badge
+release_date: null
+sku: musical-badge
+spec: null
+status: ''
+vendor: olimex

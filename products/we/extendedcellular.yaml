@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: EXTENDEDCellular (LTE-M/NB-IoT)
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o684494v214%20Single_Cellular.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/cellular
+  repositories: []
+name: EXTENDEDCellular
+ref: we/extendedcellular
+release_date: null
+sku: extendedcellular
+spec: null
+status: ''
+vendor: we

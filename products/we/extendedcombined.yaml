@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: EXTENDEDCombined Radio Protocols
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o811200v214%20Family_Setebos-I_2611011021020.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/combined
+  repositories: []
+name: EXTENDEDCombined
+ref: we/extendedcombined
+release_date: null
+sku: extendedcombined
+spec: null
+status: ''
+vendor: we

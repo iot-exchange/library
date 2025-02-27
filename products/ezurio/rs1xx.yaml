@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Supports Bluetooth 4.2 for short range, local communications, as well
+  as LoRaWAN for long-range data transmission.
+extra:
+  Class: A
+  Downlink Latency: High
+  Power Efficiency: High
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-10/RS1xx-v3-web_02.png
+  models: []
+  products:
+  - https://www.ezurio.com/support/faqs/what-lorawan-class-device-the-sentrius-rs1xx-sensor-supports
+  - https://www.ezurio.com/iot-devices/lorawan-iot-devices/sentrius-rs1xx-lora-enabled-sensors
+  repositories: []
+name: RS1xx
+ref: ezurio/rs1xx
+release_date: null
+sku: rs1xx
+spec: null
+status: ''
+vendor: ezurio

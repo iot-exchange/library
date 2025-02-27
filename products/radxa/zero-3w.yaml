@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: A Light, Compact and Tiny SBC
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/zero/3w/thumb_zero3w.webp
+  models: []
+  products:
+  - https://radxa.com/products/zeros/zero3w
+  repositories: []
+name: ZERO 3W
+ref: radxa/zero-3w
+release_date: null
+sku: zero-3w
+spec: null
+status: ''
+vendor: radxa

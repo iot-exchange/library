@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Wi-Fi Module
+extra:
+  Category: Enterprise Wi-Fi
+  Chipset: QCA AR6003
+  SDIO: x
+  Wi-Fi: Utility
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2025-01/sterling-lwb-wifi-bluetooth-smart-ready-module-base-left.png
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/wi-fi-bt-modules/45-series-wi-fi-module
+  repositories: []
+name: 45 Series
+ref: ezurio/45-series
+release_date: null
+sku: 45-series
+spec: null
+status: ''
+vendor: ezurio

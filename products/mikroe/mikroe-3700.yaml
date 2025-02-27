@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "NO2 2 Click is a gas sensor Click board\u2122, equipped with the MiCS-2714,\
+  \ a compact metal oxide (MOS) sensor. This sensor reacts to the presence of nitrogen\
+  \ dioxide (NO2) and hydrogen (H2). Its impedance changes as a result of a catalytic\
+  \ reaction, allowing it to be used in a voltage divider configuration. This voltage\
+  \ can be sampled by an accurate A/D..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/no2-2-click/no2-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=122#NO2-2-Click
+  repositories: []
+name: MIKROE-3700
+ref: mikroe/mikroe-3700
+release_date: null
+sku: mikroe-3700
+spec: null
+status: ''
+vendor: mikroe

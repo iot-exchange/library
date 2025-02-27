@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: USB to RS485/422 Industrial Grade Isolated Converter, Onboard Original
+  FT232RL and SP485EEN, Multiple Protection
+extra:
+  price: $16.97 - $17.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-rs485-422-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/usb-to-rs485-422.htm
+  repositories: []
+name: USB TO RS485/422
+ref: waveshare/usb-to-rs485-422
+release_date: null
+sku: usb-to-rs485-422
+spec: null
+status: ''
+vendor: waveshare

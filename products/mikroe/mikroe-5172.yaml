@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: microSD card 32 GB is a very popular storage media, which offers huge
+  amounts of storage area. SD Cards are on the market for quite some time. They are
+  constantly evolving and improving, offering higher memory capacities, faster data
+  rates, shorter access times, etc. The SD Card standard was first introduced in August
+  1999 by joint efforts between...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/microsd-32gb/microsd-32gb-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/microsd-32gb
+  repositories: []
+name: MIKROE-5172
+ref: mikroe/mikroe-5172
+release_date: null
+sku: mikroe-5172
+spec: null
+status: ''
+vendor: mikroe

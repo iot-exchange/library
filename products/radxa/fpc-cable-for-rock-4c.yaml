@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Camera 8M 219 on ROCK 4C+
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/accessories/ac004/thumb_rock4cp_camera_8m219.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/fpc-cable-004
+  repositories: []
+name: FPC Cable for ROCK 4C+
+ref: radxa/fpc-cable-for-rock-4c
+release_date: null
+sku: fpc-cable-for-rock-4c
+spec: null
+status: ''
+vendor: radxa

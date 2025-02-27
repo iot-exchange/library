@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Test & Burn-in Socket
+extra:
+  Price: $47.59 - $50.99
+  SKU: '3612'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/t/ots-32-0.5-08_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ots-32-0.5-08.htm
+  repositories: []
+name: OTS-32-0.5-08
+ref: waveshare/ots-32-0-5-08
+release_date: null
+sku: ots-32-0-5-08
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 58.46 EUR
+  discountedPrice2: 51.96 EUR
+  price: 64.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-E2468/images/thumbs/200x150/LPC-E2468-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-E2468/
+  repositories: []
+name: LPC-E2468
+ref: olimex/lpc-e2468
+release_date: null
+sku: lpc-e2468
+spec: null
+status: ''
+vendor: olimex

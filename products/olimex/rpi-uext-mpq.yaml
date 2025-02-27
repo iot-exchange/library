@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/RaspberryPi/RPI-UEXT-MPQ/images/thumbs/200x150/RPI-UEXT-MPQaw.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/RaspberryPi/RPI-UEXT-MPQ/open-source-hardware
+  repositories: []
+name: RPi-UEXT-MPQ
+ref: olimex/rpi-uext-mpq
+release_date: null
+sku: rpi-uext-mpq
+spec: null
+status: ''
+vendor: olimex

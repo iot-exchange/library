@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: The Lipo Rider Plus from Seeed is not only a Fast Charger but also a
+  Strong PowerBoost, supports up to 3A charging current, boost output integration,
+  output up to 5V/2.4A, can also output 3.3V /250mA.
+extra:
+  additional output: 3.3V /250mA
+  boost output: 5V/2.4A
+  charging current: up to 3A
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/l/i/lipo-rider-plus-v1.0-preview.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Lipo-Rider-Plus-p-4204.html
+  repositories: []
+name: '106990290'
+ref: seeedstudio/106990290
+release_date: null
+sku: '106990290'
+spec: null
+status: ''
+vendor: seeedstudio

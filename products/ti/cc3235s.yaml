@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC3235S
+  repositories: []
+name: CC3235S
+ref: ti/cc3235s
+release_date: null
+sku: cc3235s
+spec: null
+status: ''
+vendor: ti

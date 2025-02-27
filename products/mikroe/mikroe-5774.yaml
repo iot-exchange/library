@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Pressure 22 Click is a compact add-on board that contains a board-mount
+  pressure sensor. This board features the MS5839-02BA, an ultra-compact chlorine-resistant
+  digital pressure and temperature sensor from TE Connectivity. The sensor is a small
+  digital altimeter operating from 300 up to 1200mbar, optimized for applications
+  where chlorine and saline are...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/pressure-22-click/pressure-22-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/pressure-22-click
+  - https://www.mikroe.com/thermo-k-3-click
+  repositories: []
+name: MIKROE-5774
+ref: mikroe/mikroe-5774
+release_date: null
+sku: mikroe-5774
+spec: null
+status: ''
+vendor: mikroe

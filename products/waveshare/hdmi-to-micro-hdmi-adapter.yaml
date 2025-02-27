@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: HDMI Female to Micro HDMI Male Adapter, Suit for Raspberry Pi 4B
+extra:
+  Price: $1.48 - $2.79
+  SKU: '16796'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-to-micro-hdmi-adapter-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/hdmi-to-micro-hdmi-adapter.htm
+  - https://www.waveshare.com/product/hdmi-to-micro-hdmi-adapter.htm "HDMI Female
+    to Micro HDMI Male Adapter, Suit for Raspberry Pi 4B"
+  repositories: []
+name: HDMI to Micro HDMI Adapter
+ref: waveshare/hdmi-to-micro-hdmi-adapter
+release_date: null
+sku: hdmi-to-micro-hdmi-adapter
+spec: null
+status: ''
+vendor: waveshare

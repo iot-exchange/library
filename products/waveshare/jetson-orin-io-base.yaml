@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Waveshare Jetson Orin Nano/NX Development Board Based on Jetson Orin
+  Nano and Jetson Orin NX module
+extra:
+  SKU: '24726'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-orin-io-base-1_1_3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/jetson-orin-io-base.htm
+  repositories: []
+name: JETSON-ORIN-IO-BASE
+ref: waveshare/jetson-orin-io-base
+release_date: null
+sku: jetson-orin-io-base
+spec: null
+status: ''
+vendor: waveshare

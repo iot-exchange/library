@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Non-invasive AC Current Sensor (100A max)
+extra:
+  usage: Suitable for the current measuring Monitoring and protection of AC motor
+    Lighting equipment Air compressor
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductcurrent100a.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Non-invasive-AC-Current-Sensor-100A-ma-p-547.html
+  repositories: []
+name: '101990029'
+ref: seeedstudio/101990029
+release_date: null
+sku: '101990029'
+spec: null
+status: ''
+vendor: seeedstudio

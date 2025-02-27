@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Current Limit 7 Click is a compact add-on board representing a current-limiting\
+  \ solution. This board features the MAX14575A, an adjustable current-limit switch\
+  \ from Analog Devices. This Click board\u2122 features internal current limiting\
+  \ to prevent damage to host devices due to faulty load conditions, has a low 32m\u03A9\
+  \ on-resistance, and operates from a 2.3V to..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/current-limit-7-click/current-limit-7-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=67#Current-Limit-7-Click
+  repositories: []
+name: MIKROE-4972
+ref: mikroe/mikroe-4972
+release_date: null
+sku: mikroe-4972
+spec: null
+status: ''
+vendor: mikroe

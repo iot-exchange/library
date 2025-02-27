@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: End-Device Certified cellular modem with LTE-M/NB-IoT and long-range
+  Bluetooth
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2025-01/Pinnacle-100-Low-Angle.png
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/cellular-solutions/pinnacle-100-cellular-lte-m-nb-iot-bluetooth-5-modem
+  repositories: []
+name: Pinnacle 100
+ref: ezurio/pinnacle-100
+release_date: null
+sku: pinnacle-100
+spec: null
+status: ''
+vendor: ezurio

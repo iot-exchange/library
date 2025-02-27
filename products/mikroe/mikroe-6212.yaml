@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Mikromedia 4 for Kinetis Resistive is not limited to multimedia-based
+  applications only. USB, digital motion sensor, battery charging functionality, SD
+  card reader and much more expands its use beyond the multimedia.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-4-for-kinetis-resistive/mikromedia-4-for-kinetis-resistive-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/mikromedia-4-for-kinetis-resistive
+  repositories: []
+name: MIKROE-6212
+ref: mikroe/mikroe-6212
+release_date: null
+sku: mikroe-6212
+spec: null
+status: ''
+vendor: mikroe

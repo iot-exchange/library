@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Force 2 Click is a mikroBUS\u2122 add-on board with circuitry for implementing\
+  \ Honeywell\u2019s FSS1500NGT Series force sensors into your projects (with a single\
+  \ zone force sensing resistor included with the click). This Click board\u2122 utilizes\
+  \ FSS1500NGT force sensor which is designed to be one of the most reliable force\
+  \ sensor available as illustrated by 20 million..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/force-2-click/force-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/force-2-click
+  repositories: []
+name: MIKROE-4046
+ref: mikroe/mikroe-4046
+release_date: null
+sku: mikroe-4046
+spec: null
+status: ''
+vendor: mikroe

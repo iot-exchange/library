@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: 1.54inch NFC-Powered e-Paper, No Battery, Wireless Powering & Data Transfer
+extra:
+  Price: $26.63 - $27.99
+  SKU: '17953'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.54inch-nfc-powered-e-paper-bw-7.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.54inch-nfc-powered-e-paper-bw-4.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/1.54inch-nfc-powered-e-paper-bw.htm "1.54inch
+    NFC-Powered e-Paper, No Battery, Wireless Powering & Data Transfer"
+  - https://www.waveshare.com/product/1.54inch-nfc-powered-e-paper-bw.htm
+  repositories: []
+name: 1.54inch NFC-Powered e-Paper (BW)
+ref: waveshare/1-54inch-nfc-powered-e-paper-bw
+release_date: null
+sku: 1-54inch-nfc-powered-e-paper-bw
+spec: null
+status: ''
+vendor: waveshare

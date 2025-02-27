@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 11.95 EUR
+  price2: 11.35 EUR
+  price3: 10.76 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Duino/STM32/OLIMEXINO-STM32F3/images/thumbs/200x150/OLIMEXINO-STM32F3.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Duino/STM32/OLIMEXINO-GD32F3/open-source-hardware
+  repositories: []
+name: OLIMEXINO-GD32F3
+ref: olimex/olimexino-gd32f3
+release_date: null
+sku: olimexino-gd32f3
+spec: null
+status: ''
+vendor: olimex

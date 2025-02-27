@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: Telesto-III with integrated antenna
+extra:
+  Connector: SMA
+  Dimensions: 74 x 23.65 x 12
+  Expected Lifetime: '>10 years'
+  Frequency Range: 902.5 - 927.5
+  Output Power: '40'
+  Sensitivity: '-74'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/TELESTO-III_MESH#2609011091000
+  - https://www.we-online.com/components/products/manual/2609011091000_Telesto-III
+    2609011x9100x Manual_rev2.13.pdf
+  repositories: []
+name: '2609011091000'
+ref: we/2609011091000
+release_date: null
+sku: '2609011091000'
+spec: null
+status: Active
+vendor: we

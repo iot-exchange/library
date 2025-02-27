@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: 2-Channel Wi-Fi AC Relay, Powered by XIAO ESP32-C3, Native Support ESPhome
+  and Home Assistant, Built-in Power Meter
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/_/1_79.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/Dual-Smart-Relay-Module-for-XIAO-p-6309.html
+  repositories: []
+name: '114993526'
+ref: seeedstudio/114993526
+release_date: null
+sku: '114993526'
+spec: null
+status: ''
+vendor: seeedstudio

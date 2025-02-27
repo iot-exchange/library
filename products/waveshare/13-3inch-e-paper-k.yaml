@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "960\xD7680, 13.3inch E-Ink raw display, SPI interface, without PCB"
+extra:
+  Price: $146.59 - $149.99
+  SKU: '25725'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/3/13.3inch-e-paper-k-1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/13.3inch-e-paper-k.htm
+  repositories: []
+name: 13.3inch e-Paper (K)
+ref: waveshare/13-3inch-e-paper-k
+release_date: null
+sku: 13-3inch-e-paper-k
+spec: null
+status: ''
+vendor: waveshare

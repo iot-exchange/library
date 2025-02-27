@@ -1,0 +1,35 @@
+alternatives: []
+certifications: []
+description: C-Series LTE Cat 4 IoT Module with USB, UART, and LCD interfaces.
+extra:
+  Cellular Bands Supported: 'EMEA / APAC: LTE - B1 / B3 / B5 / B8 / B20 / B40 | GSM
+    - 900/1800 MHz; NA: LTE - B2 / B4 / B5 / B12 / B13 / B25 / B26 / B66 | GSM - 900
+    / 1800 MHz'
+  Cellular Connectivity Download & Uplink Speed: 'LTE Cat 4: 150 Mbps (DL), 50 Mbps
+    (UL); 2G: 236.8 Kbps (DL), 236.8 Kbps (UL)'
+  Fallback Capability: 2G fallback capability
+  Form Factor: LGA and MiniPCIe
+  GNSS Support: Integrated GNSS positioning
+  Interfaces: 9xGPIO, 1xUSB HS, 3xUART, 1xSDH, 2xADC, 1xPCM, 1xUSIM, 1xI2C, 1xSPI,
+    1xSDC, 1xSGMII, 1xJTAG, 1xLCD, 1xMAIN_ANT, 1xSDIO, 1xGNSS_ANT, 1xDIV_ANT
+  Key Highlights: GNSS Support, USB 2.0 Interface, LTE Cat 4, 2G Fallback, VoLTE Support,
+    DFOTA, Open SDK Support, SMS over IMS/SG/CS, Deep Sleep Mode, USB OTG Support,
+    LCD Interface, Applicable regions - (APAC, EMEA, N.America)
+  Network Speeds: 150 Mbps download and 50 Mbps upload
+  OS: Yocto Linux
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.cavliwireless.com/assets/images/modules/c-series/webp-img/C20QM.webp
+  models: []
+  products:
+  - https://www.cavliwireless.com/c-series/c20qm.html
+  repositories: []
+name: C20QM
+ref: cavli-wireless/c20qm
+release_date: null
+sku: c20qm
+spec: null
+status: ''
+vendor: cavli-wireless

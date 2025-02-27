@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: LoRaWAN LiDAR ToF Distance Sensor
+extra:
+  Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
+  Battery: 8500mAh Li/SOCl2 Battery (LDS40-LB), Solar panel + 3000mAh Li-ion battery
+    (LDS40-LS)
+  Features: "Laser technology for distance detection, Measure Distance: 0.1m ~ 40m,\
+    \ FOV : 3\xB0, Support Bluetooth v5.1 and LoRaWAN remote configure, Support wireless\
+    \ OTA update firmware"
+  Power Consumption: Ultra Low Power Consumption
+  Type: LoRaWAN 1.0.3 Class A
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/d382bd8ae87d9139df6458192532657c_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/distance-level-sensor/item/283-lds40-lb-ls.html
+  repositories: []
+name: LDS40-LB/LS
+ref: dragino/lds40-lb-ls
+release_date: null
+sku: lds40-lb-ls
+spec: null
+status: ''
+vendor: dragino

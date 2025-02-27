@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: The Raspberry Pi USB 3 Hub enhances your device connectivity by transforming
+  a single USB-A port into four. It features an optional external USB-C power input
+  to support high-power peripherals, while lower-power devices can operate without
+  the need for external power. Perfect for expanding your setup with ease and efficiency.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/2/_/2_raspberry_pi_usb_hub.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-USB-3-0-Hub-p-6262.html
+  repositories: []
+name: '103990704'
+ref: seeedstudio/103990704
+release_date: null
+sku: '103990704'
+spec: null
+status: ''
+vendor: seeedstudio

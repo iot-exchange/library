@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/HandTools/PGC-TR25/images/thumbs/200x150/PGC-TR25-00.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/HandTools/PGC-TR25/
+  repositories: []
+name: PGC-TR25
+ref: olimex/pgc-tr25
+release_date: null
+sku: pgc-tr25
+spec: null
+status: ''
+vendor: olimex

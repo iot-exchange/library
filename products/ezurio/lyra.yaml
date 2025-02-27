@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Bluetooth module for medical and wellness devices.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ezurio.com/partners/technology/wirepas
+  - ''
+  repositories: []
+name: Lyra
+ref: ezurio/lyra
+release_date: null
+sku: lyra
+spec: null
+status: ''
+vendor: ezurio

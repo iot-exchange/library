@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Stepper Motor HAT for Raspberry Pi, Drives Two Stepper Motors
+extra:
+  SKU: '15669'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/stepper-motor-hat-1_4.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/stepper-motor-hat-2_1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/stepper-motor-hat.htm
+  repositories: []
+name: Stepper Motor HAT
+ref: waveshare/stepper-motor-hat
+release_date: null
+sku: stepper-motor-hat
+spec: null
+status: ''
+vendor: waveshare

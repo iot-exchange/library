@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "DIGI POT 11 Click is a compact add-on board representing a digitally\
+  \ controlled potentiometer. This board features a double pack of the MAX5387, a\
+  \ dual, 256-tap, volatile, low-voltage linear taper digital potentiometer from Analog\
+  \ Devices. This way, four digitally I2C-controlled potentiometers are realized with\
+  \ end-to-end resistance values of 50k\u03A9...."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/digi-pot-11-click/digi-pot-11-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/digi-pot-11-click
+  repositories: []
+name: MIKROE-5318
+ref: mikroe/mikroe-5318
+release_date: null
+sku: mikroe-5318
+spec: null
+status: ''
+vendor: mikroe

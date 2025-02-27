@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: Proteus-III
+extra:
+  Antenna type: RF pad and internal antenna
+  Data rate (kbps): '2000'
+  Expected lifetime: '>10 years'
+  Frequency range: 2402 - 2480
+  Max Voltage (V): '3.6'
+  Output power: '400'
+  Sensitivity: '-90'
+  Voltage (V): '1.8'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/PROTEUS-III#2611011024000
+  repositories: []
+name: '2611011024000'
+ref: we/2611011024000
+release_date: null
+sku: '2611011024000'
+spec: null
+status: Active
+vendor: we

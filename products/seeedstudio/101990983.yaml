@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: LHT52 monitors environment temperature and humidity and sends these values
+  via long-range wireless LoRaWAN protocol. It targets professional wireless sensor
+  network applications such as food service, smart metering, smart cities, building
+  automation, and so on.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/101990983_front-14_1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Indoor-LoRaWAN-Air-Temperature-and-Humidity-Sensor-EU868-p-5386.html
+  repositories: []
+name: '101990983'
+ref: seeedstudio/101990983
+release_date: null
+sku: '101990983'
+spec: null
+status: ''
+vendor: seeedstudio

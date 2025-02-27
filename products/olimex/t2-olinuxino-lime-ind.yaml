@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 35.15 EUR
+  discountedPrice2: 33.30 EUR
+  price: 37.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-LIME/images/thumbs/200x150/A20-OLINUXINO-LIME-n8GB1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/A20/T2-OLinuXino-LIME-IND/open-source-hardware
+  repositories: []
+name: T2-OLinuXino-LIME-IND
+ref: olimex/t2-olinuxino-lime-ind
+release_date: null
+sku: t2-olinuxino-lime-ind
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "7inch Capacitive Touch Screen LCD (C), 1024\xD7600, HDMI, IPS, Low Power"
+extra:
+  Price: $42.29 - $43.99
+  SKU: '11199'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/c/7cp-m_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/7inch-hdmi-lcd-c.htm
+  repositories: []
+name: 7inch HDMI LCD (C)
+ref: waveshare/7inch-hdmi-lcd-c
+release_date: null
+sku: 7inch-hdmi-lcd-c
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: "ESP32-MINI-1 is a highly-integrated, small-sized Wi-Fi+Bluetooth\xAE\
+  +Bluetooth\xAE LE MCU module that has a rich set of peripherals. This module is\
+  \ an ideal choice for a wide variety of IoT applications, ranging from home automation,\
+  \ smart building, consumer electronics to industrial control, especially suitable\
+  \ for applications within a compact space, such as bulbs, switches and sockets."
+extra:
+  Antenna: PCB antenna
+  Development Board: ESP32-DevKitM-1
+  Flash: 4 MB embedded in chip
+  Footprint: "13.2\xD719\xD72.4"
+  PSRAM: N/A
+  Pins: '55'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-MINI-1%20S.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp32-mini-1_datasheet_en.pdf
+  repositories: []
+name: ESP32-MINI-1
+ref: espressif/esp32-mini-1
+release_date: null
+sku: esp32-mini-1
+spec: null
+status: ''
+vendor: espressif

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "UVC Light Click is Click board\u2122 with ultraviolet LEDs with 275nm\
+  \ wavelength which can be complemented with UVC Click for measuring exact dose of\
+  \ UV radiation. UVC radiation refers to wavelengths shorter than 280 nm. Because\
+  \ of the spectral sensitivity of DNA, only the UVC region demonstrates significant\
+  \ germicidal properties. As evident by multiple..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/uvc-light-click/uvc-light-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/uvc-light-click
+  repositories: []
+name: MIKROE-4177
+ref: mikroe/mikroe-4177
+release_date: null
+sku: mikroe-4177
+spec: null
+status: ''
+vendor: mikroe

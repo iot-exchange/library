@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/AVR/Proto/AVR-USB-162/images/thumbs/200x150/AVR-USB-162-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/AVR/Proto/AVR-USB-162/
+  repositories: []
+name: AVR-USB-162
+ref: olimex/avr-usb-162
+release_date: null
+sku: avr-usb-162
+spec: null
+status: ''
+vendor: olimex

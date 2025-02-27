@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 1x8 Male Pin Header TH - 1.5mm pitch (5 pcs) is a high-quality connector
+  featuring a unique 1.5mm pitch, ideal for compact and specialized designs. With
+  eight pins in a single row and a 2.2mm pin length, this header ensures reliable
+  connections and easy integration into your circuit board. Its 4mm body width maintains
+  a low profile, and the sleek black...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.mikroe.com/1x8-male-header-15mm-pitch
+  repositories: []
+name: MIKROE-6252
+ref: mikroe/mikroe-6252
+release_date: null
+sku: mikroe-6252
+spec: null
+status: ''
+vendor: mikroe

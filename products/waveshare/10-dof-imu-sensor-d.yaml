@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: 10 DOF IMU Sensor, ICM20948 Onboard, Low Power, High Precision
+extra:
+  Price: $16.63 - $17.99
+  SKU: '15965'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10-dof-imu-sensor-d-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/10-dof-imu-sensor-d.htm
+  - https://www.waveshare.com/10-dof-imu-sensor-d.htm "10 DOF IMU Sensor, ICM20948
+    Onboard, Low Power, High Precision"
+  repositories: []
+name: 10 DOF IMU Sensor (D)
+ref: waveshare/10-dof-imu-sensor-d
+release_date: null
+sku: 10-dof-imu-sensor-d
+spec: null
+status: ''
+vendor: waveshare

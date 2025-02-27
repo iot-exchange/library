@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 5.00 EUR
+  price2: 4.50 EUR
+  price3: 4.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Cables/SATA-CABLE-SET/images/thumbs/200x150/SATA-CABLE-SET.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Cables/SATA-CABLE-SET/
+  repositories: []
+name: SATA-CABLE-SET
+ref: olimex/sata-cable-set
+release_date: null
+sku: sata-cable-set
+spec: null
+status: ''
+vendor: olimex

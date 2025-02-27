@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  FOTA: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.simcom.com/Uploads/image/20240829/66d04c7f7cb3d.png
+  models: []
+  products:
+  - https://www.simcom.com/product/SIM7070G-HP-S.html
+  repositories: []
+name: SIM7070G-HP-S
+ref: simcom/sim7070g-hp-s
+release_date: null
+sku: sim7070g-hp-s
+spec: null
+status: ''
+vendor: simcom

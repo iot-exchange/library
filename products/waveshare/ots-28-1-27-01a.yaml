@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: OTS-28-1.27-01A, Test & Burn-in Socket
+extra:
+  Price: $38.59 - $41.99
+  SKU: '3588'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/t/ots-28-1.27-01a_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ots-28-1.27-01a.htm
+  repositories: []
+name: OTS-28-1.27-01A
+ref: waveshare/ots-28-1-27-01a
+release_date: null
+sku: ots-28-1-27-01a
+spec: null
+status: ''
+vendor: waveshare

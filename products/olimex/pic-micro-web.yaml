@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/PIC/Development/PIC-MICRO-WEB/images/thumbs/200x150/PIC-MICRO-WEB-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/PIC/Development/PIC-MICRO-WEB/
+  repositories: []
+name: PIC-MICRO-WEB
+ref: olimex/pic-micro-web
+release_date: null
+sku: pic-micro-web
+spec: null
+status: ''
+vendor: olimex

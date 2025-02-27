@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: This is the sensor expansion package of the Bittle robot dog. It can
+  give Bittle robot dog visual recognition, voice recognition, feeling environment,
+  and other abilities, making it a smart dog~
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/b/i/bittle-sensor-kit-main_1_.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/CH-Bittle-p-4922.html
+  repositories: []
+name: '114992505'
+ref: seeedstudio/114992505
+release_date: null
+sku: '114992505'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "reComputer Industrial J3010- Fanless Edge AI Device with Jetson Orin\u2122\
+  \ Nano 4GB features NVIDIA Jetson Orin\u2122 Nano 4GB module for 20 TOPS AI performance\
+  \ and supports hybrid connectivities including 2 RJ-45 Ethernet ports, 1 RS232/422/485\
+  \ & CAN port, etc. Fanless with versatile mounting options allows deployment for\
+  \ more harsh environments and heavier loads."
+extra:
+  Price: $799.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110110192.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/reComputer-Industrial-J3010-p-5686.html
+  repositories: []
+name: '110110192'
+ref: seeedstudio/110110192
+release_date: null
+sku: '110110192'
+spec: null
+status: ''
+vendor: seeedstudio

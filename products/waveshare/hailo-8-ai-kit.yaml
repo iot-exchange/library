@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Hailo-8 M.2 AI Accelerator Module, Based On The 26TOPS Hailo-8 AI Processor,
+  Optional For PCIe To M.2 Adapter Board, Suitable For Raspberry Pi 5
+extra:
+  Multi Options: ''
+  Price: $179.99 -  $187.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/h/a/hailo-8-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/hailo-8.htm
+  repositories: []
+name: hailo_8_ai_kit
+ref: waveshare/hailo-8-ai-kit
+release_date: null
+sku: hailo-8-ai-kit
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: A complete Bluetooth Smart software stack for Bluegiga Legacy Bluetooth
+  Smart products.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/developer-tools/bluegiga-bluetooth-smart-software-stack
+  repositories: []
+name: Bluegiga Bluetooth Smart Software
+ref: silicon-labs/bluegiga-bluetooth-smart-software
+release_date: null
+sku: bluegiga-bluetooth-smart-software
+spec: null
+status: ''
+vendor: silicon-labs

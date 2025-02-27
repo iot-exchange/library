@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: "reServer for Jetson is a powerful inference server on the edge powered\
+  \ by Jetson Xavier NX 16GB, which delivers up to 21 TOPs AI performance. It provides\
+  \ a high-speed 2.5-Gigabit Ethernet port and supports hybrid connectivity including\
+  \ 4G/5G, Long Range. reServer for Jetson with pre-installed Jetpack, 256GB SSD,\
+  \ reServer is able to equip up to two 3.5\u201D SATA internal hard disk drives or\
+  \ two 2.5\" SATA internal hard disk drives to acquire more storage."
+extra:
+  Price: $1,199.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.seeedstudio.com/img/x
+  - https://www.seeedstudio.com/img/r
+  models: []
+  products:
+  - https://www.seeedstudio.com/reserver-j2032-nvidia-jetson-xavier-nx-16gb-ai-nvr.html
+  - https://www.seeedstudio.com/reServer-J2032-NVIDIA-Jetson-Xavier-NX-16GB-AI-NVR-for-Video-Analytics-p-110061403.html
+  repositories: []
+name: '110061403'
+ref: seeedstudio/110061403
+release_date: null
+sku: '110061403'
+spec: null
+status: ''
+vendor: seeedstudio

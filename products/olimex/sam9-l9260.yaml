@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 99.95 EUR
+  price2: 89.96 EUR
+  price3: 79.96 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/Atmel/SAM9-L9260/images/thumbs/200x150/SAM9-L9260-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/Atmel/SAM9-L9260/
+  repositories: []
+name: SAM9-L9260
+ref: olimex/sam9-l9260
+release_date: null
+sku: sam9-l9260
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o716916v214%20feathers-2-800px.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/SENSOR_BLE__FEATHERWING_KIT_2
+  repositories: []
+name: SensorBLE FeatherWing Kit
+ref: we/sensorble-featherwing-kit
+release_date: null
+sku: sensorble-featherwing-kit
+spec: null
+status: ''
+vendor: we

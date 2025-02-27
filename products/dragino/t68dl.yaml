@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: LoRaWAN 1.0.3 Class ALoRaWAN Temperature sensorBands:EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915Built-in
+  2400mAh battery
+extra:
+  Catalog: Temperature & Humidity Sensor
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/3abb66d58aa91d2b7b16f08ee38a95c0_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/temperature-humidity-sensor/item/352-t68dl.html
+  repositories: []
+name: T68DL
+ref: dragino/t68dl
+release_date: null
+sku: t68dl
+spec: null
+status: ''
+vendor: dragino

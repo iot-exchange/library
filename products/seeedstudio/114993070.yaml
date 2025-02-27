@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "SenseCAP Indicator D1L, 4-Inch Touch Screen IoT development platform\
+  \ powered by ESP32S3 & RP2040. SenseCAP Indicator is a 4-inch touch screen driven\
+  \ by ESP32 and RP2040 dual-MCU and supports Wi-Fi/BLE/LoRa\xAE communication. It\
+  \ is a fully open-source powerful IoT development platform for developers. One-stop\
+  \ ODM Fusion service is also available for customization and quick scale-up."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-indicator_1.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/SenseCAP-Indicator-D1L-p-5646.html
+  repositories: []
+name: '114993070'
+ref: seeedstudio/114993070
+release_date: null
+sku: '114993070'
+spec: null
+status: ''
+vendor: seeedstudio

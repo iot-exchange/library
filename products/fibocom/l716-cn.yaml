@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Bands: 'LTE: B1/3/5/8/34/38/39/40/41'
+  Form Factor: LGA / LCC
+  Region: China
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTECat-L716-CN.html
+  repositories: []
+name: L716-CN
+ref: fibocom/l716-cn
+release_date: null
+sku: l716-cn
+spec: null
+status: ''
+vendor: fibocom

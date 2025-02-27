@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Proximity and ambient light sensor expansion
+extra:
+  Price: $31.99 - $32.99
+  SKU: '11140'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/x/-/x-nucleo-6180xa1-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/x-nucleo-6180xa1.htm
+  repositories: []
+name: X-NUCLEO-6180XA1
+ref: waveshare/x-nucleo-6180xa1
+release_date: null
+sku: x-nucleo-6180xa1
+spec: null
+status: ''
+vendor: waveshare

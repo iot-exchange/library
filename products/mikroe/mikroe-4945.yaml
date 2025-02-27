@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: 168 positions high-speed female SMT connector, compatible with SiBRAIN
+  add-on boards.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/168-pin-high-speed-female-connector-header-smd/168-pin-high-speed-female-connector-header-smd-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/168-pin-high-speed-female-connector-header-smd
+  repositories: []
+name: MIKROE-4945
+ref: mikroe/mikroe-4945
+release_date: null
+sku: mikroe-4945
+spec: null
+status: ''
+vendor: mikroe

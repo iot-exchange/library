@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Waveshare RP2350-Plus Development Board, A Low-cost, High-performance
+  Pico-like MCU Board Based On Raspberry Pi RP2350A Dual-core & Dual-architecture
+  Microcontroller
+extra:
+  Multi Options: ''
+  Price: $5.99 -  $7.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2350-plus-1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rp2350-plus.htm
+  repositories: []
+name: RP2350-Plus
+ref: waveshare/rp2350-plus
+release_date: null
+sku: rp2350-plus
+spec: null
+status: ''
+vendor: waveshare

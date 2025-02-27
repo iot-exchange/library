@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-028-FPC-Pwr-Main/images/thumbs/200x150/TERES-028-Pwr-Kbd-Main.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-028-FPC-Pwr-Main/
+  repositories: []
+name: TERES-028-FPC-Pwr-Main
+ref: olimex/teres-028-fpc-pwr-main
+release_date: null
+sku: teres-028-fpc-pwr-main
+spec: null
+status: ''
+vendor: olimex

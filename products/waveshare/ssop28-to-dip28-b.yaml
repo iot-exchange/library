@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: SSOP28 TO DIP28 (B), Programmer Adapter
+extra:
+  Price: $42.59 - $45.99
+  SKU: '3806'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/s/ssop28-to-dip28-b_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ssop28-to-dip28-b.htm
+  repositories: []
+name: SSOP28 TO DIP28 (B)
+ref: waveshare/ssop28-to-dip28-b
+release_date: null
+sku: ssop28-to-dip28-b
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "The Spresense project consists of an Arduino compatible board with Sony\u2019\
+  s high-performance CXD5602 micro-controller. The CXD5602 has built-in GPS and high-resolution\
+  \ audio capabilities."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/_/_/__4__1.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/Spresense-Main-Board-CXD5602-Microcomputer-for-IoT-Application-p-2846.html
+  repositories: []
+name: '102110203'
+ref: seeedstudio/102110203
+release_date: null
+sku: '102110203'
+spec: null
+status: ''
+vendor: seeedstudio

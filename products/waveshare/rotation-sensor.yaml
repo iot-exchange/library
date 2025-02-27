@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Rotation Sensor
+extra:
+  Price: $2.99 - $3.49
+  SKU: '9533'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/o/rotation-sensor_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rotation-sensor.htm
+  repositories: []
+name: Rotation Sensor
+ref: waveshare/rotation-sensor
+release_date: null
+sku: rotation-sensor
+spec: null
+status: ''
+vendor: waveshare

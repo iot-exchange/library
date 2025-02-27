@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Wireless BE200 NIC, Gigabit Tri-Band Wi-Fi 7, IEEE 802.11a/b/g/n/ac/be/ax
+  Standard, Bluetooth 5.4
+extra:
+  Price: $21.31 - $21.99
+  SKU: '29333'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/i/wireless-be200-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/wireless-be200.htm
+  - https://www.waveshare.com/product/wireless-be200.htm "Wireless BE200 NIC, Gigabit
+    Tri-Band Wi-Fi 7, IEEE 802.11a/b/g/n/ac/be/ax Standard, Bluetooth 5.4"
+  repositories: []
+name: Wireless-BE200
+ref: waveshare/wireless-be200
+release_date: null
+sku: wireless-be200
+spec: null
+status: ''
+vendor: waveshare

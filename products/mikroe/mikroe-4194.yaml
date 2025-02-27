@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Thermostat 4 Click is complete solution that senses the temperature of
+  a physical system and can performs actions so that the system's temperature is maintained
+  near a desired setpoint. It's based on Texas Instruments TMP392, a resistor programmable
+  temperature switch.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thermostat-4-click/thermostat-4-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/thermostat-4-click
+  repositories: []
+name: MIKROE-4194
+ref: mikroe/mikroe-4194
+release_date: null
+sku: mikroe-4194
+spec: null
+status: ''
+vendor: mikroe

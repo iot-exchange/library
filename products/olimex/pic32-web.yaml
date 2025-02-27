@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 18.00 EUR
+  discountedPrice2: 17.06 EUR
+  price: 18.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/PIC/Development/PIC32-WEB/images/thumbs/200x150/PIC32-WEB-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/PIC/Development/PIC32-WEB/
+  repositories: []
+name: PIC32-WEB
+ref: olimex/pic32-web
+release_date: null
+sku: pic32-web
+spec: null
+status: ''
+vendor: olimex

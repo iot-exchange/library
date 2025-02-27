@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: EXTENDEDProprietary & Wirepas
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o153217v214%20Image_Online_Catalog_ProprietaerandWirepas.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/proprietary_wirepas
+  repositories: []
+name: EXTENDEDProprietary
+ref: we/extendedproprietary
+release_date: null
+sku: extendedproprietary
+spec: null
+status: ''
+vendor: we

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "A battery-powered IP66 wireless air temperature and humidity sensor,\
+  \ range from -40\xB0C to 85\xB0C and 0 to 100 %RH, equipped with built-in Bluetooth\
+  \ and APP service for OTA configuration and remote device management. Used in smart\
+  \ farming, smart yard, smart city, and smart cold chain solutions."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.seeedstudio.com/img/n
+  models: []
+  products:
+  - https://www.seeedstudio.com/SenseCAP-S2101-LoRaWAN-Air-Temperature-and-Humidity-Sensor-p-114992867.html
+  repositories: []
+name: '114992867'
+ref: seeedstudio/114992867
+release_date: null
+sku: '114992867'
+spec: null
+status: ''
+vendor: seeedstudio

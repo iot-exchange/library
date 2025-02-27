@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Retro-Computers/AgonOrigins/images/thumbs/200x150/AgonOrigins-1w.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Retro-Computers/BOX-AgonOrigins/open-source-hardware
+  repositories: []
+name: BOX-AgonOrigins
+ref: olimex/box-agonorigins
+release_date: null
+sku: box-agonorigins
+spec: null
+status: ''
+vendor: olimex

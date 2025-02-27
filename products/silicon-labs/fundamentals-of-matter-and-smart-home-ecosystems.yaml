@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/whitepapers/fundamentals-of-matter-and-smart-home-ecosystems
+  repositories: []
+name: Fundamentals of Matter and Smart Home Ecosystems
+ref: silicon-labs/fundamentals-of-matter-and-smart-home-ecosystems
+release_date: null
+sku: fundamentals-of-matter-and-smart-home-ecosystems
+spec: null
+status: ''
+vendor: silicon-labs

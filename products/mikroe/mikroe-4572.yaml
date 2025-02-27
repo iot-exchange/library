@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: CAN FD 6 Click is a compact add-on board containing a CAN transceiver
+  that supports a Controller Area Network (CAN) and Controller Area Network Flexible
+  Data-Rate (CAN FD) protocols. This board features the TCAN4550, a CAN FD controller
+  that provides an interface between the CAN bus and the CAN protocol controller up
+  to 5 megabits per second (Mbps) from...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/can-fd-6-click/can-fd-6-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/can-fd-6-click
+  repositories: []
+name: MIKROE-4572
+ref: mikroe/mikroe-4572
+release_date: null
+sku: mikroe-4572
+spec: null
+status: ''
+vendor: mikroe

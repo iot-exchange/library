@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Specialized for Radxa ROCK 5 ITX
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/heatsink/ae017b/thumb_heatsink_8418b.webp
+  - https://radxa.com/heatsink/ae018/thumb_metal_case_for_rock5a.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/heatsink-8418b
+  repositories: []
+name: Heatsink 8418B
+ref: radxa/heatsink-8418b
+release_date: null
+sku: heatsink-8418b
+spec: null
+status: ''
+vendor: radxa

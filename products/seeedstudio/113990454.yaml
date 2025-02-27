@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: LTE Cat 1 Pi HAT (USA - VZW)
+extra:
+  Compatibility: Raspberry Pi 1 Model B+ and up to Raspberry Pi 4
+  Type: Open-source cellular extension modem
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.seeedstudio.com/img/n
+  models: []
+  products:
+  - https://www.seeedstudio.com/LTE-Cat-1-Pi-HAT-USA-VZW-p-113990454.html
+  repositories: []
+name: '113990454'
+ref: seeedstudio/113990454
+release_date: null
+sku: '113990454'
+spec: null
+status: ''
+vendor: seeedstudio

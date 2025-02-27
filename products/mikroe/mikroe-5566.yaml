@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: RJ45 Ethernet Jack with LEDs (LPJ0026GENL) is eight-pin 2.54mm pitch
+  RJ45 connector (the abbreviation, RJ45, stands for Registered Jack-45) from LINK-PP
+  used for standard networking cable. The LPJ0026GENL complies with the IEEE802.3u
+  and FCC standards requirement and is compatible with the design for 10/100 BASE
+  transmission over UTP-5 cable.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rj45-ethernet-jack-with-leds/rj45-ethernet-jack-with-leds-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/rj45-ethernet-jack-with-leds
+  repositories: []
+name: MIKROE-5566
+ref: mikroe/mikroe-5566
+release_date: null
+sku: mikroe-5566
+spec: null
+status: ''
+vendor: mikroe

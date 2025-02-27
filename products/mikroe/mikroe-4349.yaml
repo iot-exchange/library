@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Fingerprint 3 Click bundle - Build a capacitive fingerprint scanner solution
+  with a two-color ring indicator. This bundle allows users to secure their projects
+  with a biometric all-in-one fingerprint sensor that will make fingerprint detection
+  and verification super simple.
+extra:
+  Price: $32.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/fingerprint-3-click-bundle/fingerprint-3-click-bundle-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/cart?add=1&id_product=2856
+  - https://www.mikroe.com/fingerprint-3-click-bundle
+  repositories: []
+name: MIKROE-4349
+ref: mikroe/mikroe-4349
+release_date: null
+sku: mikroe-4349
+spec: null
+status: ''
+vendor: mikroe

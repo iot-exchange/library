@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/IC/H5TQ2G83CFR-H9C/
+  repositories: []
+name: H5TQ2G83CFR-H9C
+ref: olimex/h5tq2g83cfr-h9c
+release_date: null
+sku: h5tq2g83cfr-h9c
+spec: null
+status: ''
+vendor: olimex

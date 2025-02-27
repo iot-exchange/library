@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "MLX90640 IR Array Thermal Imaging Camera, 32\xD724 Pixels, 110\xB0 FOV"
+extra:
+  Price: $53.29 - $54.99
+  Price Range: $53.29 - $54.99
+  SKU: '17219'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/l/mlx90640-d110-thermal-camera-3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/mlx90640-d110-thermal-camera.htm
+  repositories: []
+name: MLX90640-D110 Thermal Camera
+ref: waveshare/mlx90640-d110-thermal-camera
+release_date: null
+sku: mlx90640-d110-thermal-camera
+spec: null
+status: ''
+vendor: waveshare

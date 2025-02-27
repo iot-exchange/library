@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "A203 Mini PC is a powerful and extremely small intelligent edge computer\
+  \ to bring modern AI to the edge, the smaller form factor than the Jetson NX Developer\
+  \ Kit delivers the same AI power up to 21 TOPs. The full system comes with a rich\
+  \ set of IOs\u2014 HDMI, USBs, RS232, CAN, etc."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114110147-a203minipc-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/A203-Mini-PC-with-128GB-SSD-p-5494.html
+  repositories: []
+name: '114110147'
+ref: seeedstudio/114110147
+release_date: null
+sku: '114110147'
+spec: null
+status: ''
+vendor: seeedstudio

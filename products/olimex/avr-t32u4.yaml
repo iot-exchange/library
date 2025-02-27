@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Duino/AVR/AVR-T32U4/images/thumbs/200x150/AVR-T32U4-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Duino/AVR/AVR-T32U4/open-source-hardware
+  repositories: []
+name: AVR-T32U4
+ref: olimex/avr-t32u4
+release_date: null
+sku: avr-t32u4
+spec: null
+status: ''
+vendor: olimex

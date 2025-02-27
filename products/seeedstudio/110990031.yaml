@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Grove - Universal 4 Pin 20cm Unbuckled Cable (5 PCs Pack)
+extra:
+  comparison: Compared with the Electronic Brick system, the Grove System uses only
+    1 type of cable, (the Electronic Brick system uses 4)
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductgroveuni1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-Universal-4-Pin-20cm-Unbuckled-Cable-5-PCs-Pack-p-749.html
+  repositories: []
+name: '110990031'
+ref: seeedstudio/110990031
+release_date: null
+sku: '110990031'
+spec: null
+status: ''
+vendor: seeedstudio

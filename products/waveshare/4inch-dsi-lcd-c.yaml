@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: "4inch DSI Round Touch Display, 720 \xD7 720, IPS, 10-Point Touch"
+extra:
+  SKU: '24603'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/i/4inch-dsi-lcd-c-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/4inch-dsi-lcd-c.htm
+  repositories: []
+name: 4inch DSI LCD (C)
+ref: waveshare/4inch-dsi-lcd-c
+release_date: null
+sku: 4inch-dsi-lcd-c
+spec: null
+status: ''
+vendor: waveshare

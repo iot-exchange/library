@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 89.95 EUR
+  price2: 80.96 EUR
+  price3: 71.96 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/Atmel/SAM7-LA2/images/thumbs/200x150/SAL7-LA2-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/Atmel/SAM7-LA2/
+  repositories: []
+name: SAM7-LA2
+ref: olimex/sam7-la2
+release_date: null
+sku: sam7-la2
+spec: null
+status: ''
+vendor: olimex

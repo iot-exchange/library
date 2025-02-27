@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth/overview/nxp-imx
+  repositories: []
+name: "Wi-Fi \xAE + Bluetooth\xAE Modules for NXP i.MX"
+ref: murata/wi-fi-r-bluetooth-r-modules-for-nxp-i-mx
+release_date: null
+sku: wi-fi-r-bluetooth-r-modules-for-nxp-i-mx
+spec: null
+status: ''
+vendor: murata

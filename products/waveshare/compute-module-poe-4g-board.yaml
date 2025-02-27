@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Compute Module Industrial IoT Base Board, 4G / PoE Feature, For Raspberry
+  Pi CM4S / CM3 Series
+extra:
+  Price: $92.95 - $94.99
+  SKU: '18866'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/compute-module-poe-4g-board-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/compute-module-poe-4g-board.htm
+  repositories: []
+name: Compute Module PoE 4G Board
+ref: waveshare/compute-module-poe-4g-board
+release_date: null
+sku: compute-module-poe-4g-board
+spec: null
+status: ''
+vendor: waveshare

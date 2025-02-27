@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Pico W Microcontroller Board, Built-in WiFi, Based on Official
+  RP2040 Dual-core Processor
+extra:
+  options: Multi Options
+  price: $6.99 - $36.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-pico-w-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-pico-w-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/raspberry-pi-pico-w.htm
+  repositories: []
+name: pico_w
+ref: waveshare/pico-w
+release_date: null
+sku: pico-w
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: The Wireless Gecko family of products is fully supported in the OpenThread
+  GitHub and has been certified as a Thread Certified Component.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: Wireless Gecko
+ref: silicon-labs/wireless-gecko
+release_date: null
+sku: wireless-gecko
+spec: null
+status: ''
+vendor: silicon-labs

@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: Wireless Zigbee SoCs
+extra:
+  Flash (kB): "\u2014"
+  GPIO: '0'
+  MCU Core: ARM Cortex-M3
+  Output Power Range (dBm): -55 8
+  RAM (kB): 128, 192
+  RX Current (mA): '25'
+  RX Sensitivity (dBm): '-102'
+  Security: AES-128
+  TX Current (mA) 0 dBm: '31'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/zigbee/em35x-zigbee-socs
+  repositories: []
+name: EM35x
+ref: silicon-labs/em35x
+release_date: null
+sku: em35x
+spec: null
+status: ''
+vendor: silicon-labs

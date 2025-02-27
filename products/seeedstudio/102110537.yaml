@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Pico is equipped with the powerful RP2040 chip, features
+  high performance and rich on-board interfaces/resouces, yet offered a relatively
+  low price. It is perfectly designed for the beginners to electronics, pretty suitable
+  for IoT controlling applications.
+extra:
+  price: $4.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102110537_preview-07.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-Pico-p-4832.html
+  repositories: []
+name: '102110537'
+ref: seeedstudio/102110537
+release_date: null
+sku: '102110537'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: This ePaper Breakout Board is designed for SeeedStudio XIAO series boards
+  for allowing you driving ePaper display seamlessly. It also comes with a 8-pin 2.54
+  header for supporting additional microcontroll connections. Supporting plug and
+  play, it is suitable for a wide range of ePaper displays.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/4/-/4-105990172-epaper-breakout-board-45back.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/ePaper-Breakout-Board-p-5804.html
+  repositories: []
+name: '105990172'
+ref: seeedstudio/105990172
+release_date: null
+sku: '105990172'
+spec: null
+status: ''
+vendor: seeedstudio

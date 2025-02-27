@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Dedicated Cooling Fan for Jetson Nano, PWM Adjustment
+extra:
+  Price: $2.65 - $2.99
+  SKU: '16681'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/a/fan-4020-pwm-5v-1_1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/fan-4020-pwm-5v.htm
+  - https://www.waveshare.com/fan-4020-pwm-5v.htm "Dedicated Cooling Fan for Jetson
+    Nano, PWM Adjustment"
+  repositories: []
+name: Fan-4020-PWM-5V
+ref: waveshare/fan-4020-pwm-5v
+release_date: null
+sku: fan-4020-pwm-5v
+spec: null
+status: ''
+vendor: waveshare

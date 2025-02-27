@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Outdoor LoRaWAN Gateway
+extra:
+  Chipset: SX1301 + 2 * SX1257
+  Demodulation Paths: 10 programmable parallel demodulation paths
+  Mining: Not suitable for Helium Mining
+  Type: Data-Only Hotspot
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/9f6d22dec5a20bcdd01cd84e98637764_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lora-lorawan-gateway/item/160-dlos8.html
+  repositories: []
+name: DLOS8
+ref: dragino/dlos8
+release_date: null
+sku: dlos8
+spec: null
+status: ''
+vendor: dragino

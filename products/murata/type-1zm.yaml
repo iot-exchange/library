@@ -1,0 +1,48 @@
+alternatives: []
+certifications: []
+description: Wi-Fi 5 module with Bluetooth support
+extra:
+  Bluetooth: 5.1 BR/EDR/LE
+  Chipset: 88W8987
+  Dimension: 10.2 x 9.3 x 1.3 mm
+  ETSI Report: 'Yes'
+  FCC/ISED Certified: 'Yes'
+  Frequency: 2.4GHz, 5GHz
+  Grade: Consumer
+  Host Interface (Bluetooth): UART
+  Host Interface (Wi-Fi): SDIO
+  IC Manufacturer: NXP
+  Integrated Antenna: 'No'
+  Interface Voltage: 'Yes'
+  MIC (Japan) Certified: 'Yes'
+  Mounting Type: SMT
+  Operating Temperature (degC): "-30\u2103 to 85\u2103"
+  Package: Shielded Resin
+  Packaging: Tape and Reel
+  Peripheral Interface: PCM
+  Platform: Linux,MCUXpresso,i.MX Yocto
+  Processor: 'No'
+  Receive Mode Current: 64 mA @ 11b (2.4GHz)64 mA @ 11g (2.4GHz)64 mA @ 11n (2.4GHz)79
+    mA @ 11a (5GHz)91 mA @ 11n (5GHz)102 mA @ 11ac (5GHz)
+  RoHS Support: 'Yes'
+  Sleep Mode Current (Bluetooth): ''
+  Sleep Mode Current (Wi-Fi): ''
+  Supply Voltage: 1.8V
+  Technology: Wi-Fi,Bluetooth
+  Transmit Mode Current (Bluetooth): ''
+  Transmit Mode Current (Wi-Fi): 384 mA @ 11b (2.4GHz)336 mA @ 11g (2.4GHz)316 mA
+    @ 11n (2.4GHz)408 mA @ 11a (5GHz)387 mA @ 11n (5GHz)376 mA @ 11ac (5GHz)
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: Type 1ZM
+ref: murata/type-1zm
+release_date: null
+sku: type-1zm
+spec: null
+status: ''
+vendor: murata

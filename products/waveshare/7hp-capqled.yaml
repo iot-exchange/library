@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "7inch QLED Quantum Dot Display, Capacitive Touch, 1024\xD7600, G+G Toughened\
+  \ Glass Panel, Various Systems Support"
+extra:
+  Price Range: $59.59 - $62.99
+  SKU: '18625'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/q/7qp-caplcd-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/7hp-capqled.htm
+  repositories: []
+name: 7HP-CAPQLED
+ref: waveshare/7hp-capqled
+release_date: null
+sku: 7hp-capqled
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "128\xD780, 1.02inch E-Ink display module, black/white dual-color"
+extra:
+  Price: $13.63 - $14.99
+  SKU: '17575'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.02inch-e-paper-module-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/1.02inch-e-paper-module.htm
+  repositories: []
+name: 1.02inch e-Paper Module
+ref: waveshare/1-02inch-e-paper-module
+release_date: null
+sku: 1-02inch-e-paper-module
+spec: null
+status: ''
+vendor: waveshare

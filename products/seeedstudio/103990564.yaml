@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: The Wio Terminal Battery Chassis is a must-have extension board for Wio-Terminal
+  Dev Board as it provides an external power source for Wio Terminal to enhance its
+  portability and compactness. It has a 650mAH rechargeable lithium polymer battery,
+  battery charging/discharging status LED, 4 Grove Analog/Digital Ports, 1 Grove I2C
+  Port, and 1 Grove UART Port, as well as the ABS enclosure for aesthetic and protection.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102010388-seeed-studio-xiao-samd21-_pre-soldered_.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Wio-Terminal-Chassis-Battery-650mAh-p-4756.html
+  repositories: []
+name: '103990564'
+ref: seeedstudio/103990564
+release_date: null
+sku: '103990564'
+spec: null
+status: ''
+vendor: seeedstudio

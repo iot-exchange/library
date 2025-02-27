@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 44.96 EUR
+  discountedPrice2: 39.96 EUR
+  price: 49.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC2378-STK/images/thumbs/200x150/LPC2378-STK-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/NXP/LPC2378-STK/
+  repositories: []
+name: LPC2378-STK
+ref: olimex/lpc2378-stk
+release_date: null
+sku: lpc2378-stk
+spec: null
+status: ''
+vendor: olimex

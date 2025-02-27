@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: USB to I2C 2 Click is a compact add-on board that contains a general-purpose
+  USB to I2C serial interface. This board features the FT201X, a full-speed USB to
+  I2C protocol slave IC from FTDI. The FT201X converts USB2.0 full-speed to an I2C
+  serial interface capable of operating up to 3.4MBit/s, with low power consumption
+  (typical 8mA). The entire USB...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/usb-to-i2c-2-click/usb-to-i2c-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/usb-to-i2c-2-click
+  repositories: []
+name: MIKROE-5065
+ref: mikroe/mikroe-5065
+release_date: null
+sku: mikroe-5065
+spec: null
+status: ''
+vendor: mikroe

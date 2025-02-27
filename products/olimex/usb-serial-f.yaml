@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Cables/USB-Serial-Cable/USB-SERIAL-F/images/thumbs/200x150/USB-SERIAL-F-NEW.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Cables/USB-Serial-Cable/USB-SERIAL-F/
+  repositories: []
+name: USB-SERIAL-F
+ref: olimex/usb-serial-f
+release_date: null
+sku: usb-serial-f
+spec: null
+status: ''
+vendor: olimex

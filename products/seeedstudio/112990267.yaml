@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: Here comes NVMe M.2 2280 Internal SSD with 1TB capacity, compatible with
+  Desktops and laptops that accept PCIe NVMe Gen 3x4. It includes a cooling fin which
+  is applicable to all 2280 SSDs.
+extra:
+  capacity: 1TB
+  price: $74.99
+  type: NVMe M.2 2280
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-112990267-nvme-m.2-2280-ssd-1tb-45font.jpg
+  - https://www.seeedstudio.com/img/aj
+  models: []
+  products:
+  - https://www.seeedstudio.com/NVMe-M.2-2280-SSD-1TB.html
+  - https://www.seeedstudio.com/NVMe-M-2-2280-SSD-1TB-p-5767.html
+  repositories: []
+name: '112990267'
+ref: seeedstudio/112990267
+release_date: null
+sku: '112990267'
+spec: null
+status: ''
+vendor: seeedstudio

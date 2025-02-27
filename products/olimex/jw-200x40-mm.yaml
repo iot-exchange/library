@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Breadboarding/JUMPER-WIRES/JW-300x40-MM/images/thumbs/200x150/JW-300x40-MM.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Breadboarding/JUMPER-WIRES/JW-200x40-MM/
+  repositories: []
+name: JW-200x40-MM
+ref: olimex/jw-200x40-mm
+release_date: null
+sku: jw-200x40-mm
+spec: null
+status: ''
+vendor: olimex

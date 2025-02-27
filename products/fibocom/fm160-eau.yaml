@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/5G-FM160-EAU.html
+  repositories: []
+name: FM160-EAU
+ref: fibocom/fm160-eau
+release_date: null
+sku: fm160-eau
+spec: null
+status: ''
+vendor: fibocom

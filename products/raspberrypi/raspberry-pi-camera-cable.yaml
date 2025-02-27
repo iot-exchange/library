@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Shielded cable to connect a CSI camera to the 22-way connector on Raspberry
+  Pi 5 and all Zero models
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/d556892f98cb23bf358c8ed6c1aef494/3f4ea/762a3acf-49fb-4ea6-a00f-03493fcfb53c_Camera%2Bcable.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/camera-cable/
+  repositories: []
+name: Raspberry Pi Camera Cable
+ref: raspberrypi/raspberry-pi-camera-cable
+release_date: null
+sku: raspberry-pi-camera-cable
+spec: null
+status: ''
+vendor: raspberrypi

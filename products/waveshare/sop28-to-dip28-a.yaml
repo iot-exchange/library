@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: SOP28 TO DIP28 (A), Programmer Adapter
+extra:
+  Price: $35.59 - $38.99
+  SKU: '3785'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/o/sop28-to-dip28_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/sop28-to-dip28.htm
+  repositories: []
+name: SOP28 TO DIP28 (A)
+ref: waveshare/sop28-to-dip28-a
+release_date: null
+sku: sop28-to-dip28-a
+spec: null
+status: ''
+vendor: waveshare

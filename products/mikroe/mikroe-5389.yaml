@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Piezo Buzzer (EPT-14A4005P) is an electronic device used to produce a
+  tone, alarm, or sound from Sanco Electronic. This TH buzzer has a resonant frequency
+  of 4000Hz, draws a maximum current of 2mA, and is an excellent choice for various
+  applications including alarms and warning systems in automobiles and consumer electronics,
+  and much more, thanks to its...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/piezo-buzzer-14mm/piezo-buzzer-14mm-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/piezo-buzzer-14mm "Piezo Buzzer (14mm)"
+  repositories: []
+name: MIKROE-5389
+ref: mikroe/mikroe-5389
+release_date: null
+sku: mikroe-5389
+spec: null
+status: ''
+vendor: mikroe

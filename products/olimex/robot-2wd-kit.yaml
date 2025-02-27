@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 11.40 EUR
+  discountedPrice2: 10.80 EUR
+  price: 12.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/KITS/ROBOT-2WD-KIT/images/thumbs/200x150/ROBOT-2WD-KIT-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/KITS/ROBOT-2WD-KIT/
+  repositories: []
+name: ROBOT-2WD-KIT
+ref: olimex/robot-2wd-kit
+release_date: null
+sku: robot-2wd-kit
+spec: null
+status: ''
+vendor: olimex

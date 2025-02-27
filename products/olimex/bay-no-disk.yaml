@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/Home-Server/BAY-NO-DISK/images/thumbs/200x150/BAY-XXX.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/Home-Server/BAY-NO-DISK/
+  repositories: []
+name: BAY-NO-DISK
+ref: olimex/bay-no-disk
+release_date: null
+sku: bay-no-disk
+spec: null
+status: ''
+vendor: olimex

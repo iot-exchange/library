@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  USB3.1: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.simcom.com/Uploads/image/20250207/67a5bb157bac8.png
+  models: []
+  products:
+  - https://www.simcom.com/product/A8200SA.html
+  repositories: []
+name: A8200SA
+ref: simcom/a8200sa
+release_date: null
+sku: a8200sa
+spec: null
+status: ''
+vendor: simcom

@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Measure 400 ~ 700nm wavelength nature light's Photosynthetically Available
+  Radiation.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/7539a1b30386b8951ffea14c91e802dc_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/agriculture-weather-station/item/220-wss-07.html
+  repositories: []
+name: WSS-07
+ref: dragino/wss-07
+release_date: null
+sku: wss-07
+spec: null
+status: ''
+vendor: dragino

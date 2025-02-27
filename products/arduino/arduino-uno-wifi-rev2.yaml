@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.arduino.cc/wiki/static/2462abb48e99c32e3e728eec9dad3e24/4b190/uno-wifi-r2.jpg
+  models: []
+  products:
+  - https://store.arduino.cc/products/arduino-uno-wifi-rev2
+  repositories: []
+name: Arduino UNO WiFi Rev2
+ref: arduino/arduino-uno-wifi-rev2
+release_date: null
+sku: arduino-uno-wifi-rev2
+spec: null
+status: ''
+vendor: arduino

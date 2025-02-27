@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Sense HAT (C) for Raspberry Pi, Onboard Multi Powerful Sensors, Supports
+  External Sensors
+extra:
+  Price: $20.29 - $21.99
+  SKU: '23229'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/e/sense-hat-c-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-one-3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/sense-hat-c.htm
+  repositories: []
+name: Sense HAT (C)
+ref: waveshare/sense-hat-c
+release_date: null
+sku: sense-hat-c
+spec: null
+status: ''
+vendor: waveshare

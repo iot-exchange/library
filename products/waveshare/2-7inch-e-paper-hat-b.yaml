@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "2.7inch e-Paper e-Ink Display HAT (B) For Raspberry Pi, 264\xD7176,\
+  \ Red / Black / White, SPI"
+extra:
+  Price: $17.29 - $18.99
+  SKU: '13357'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.7inch-e-paper-hat-b-2_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/2.7inch-e-paper-hat-b.htm
+  repositories: []
+name: 2.7inch e-Paper HAT (B)
+ref: waveshare/2-7inch-e-paper-hat-b
+release_date: null
+sku: 2-7inch-e-paper-hat-b
+spec: null
+status: Out of Stock
+vendor: waveshare

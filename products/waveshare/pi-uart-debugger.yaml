@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: USB To UART Debugger Module for Raspberry Pi 5, Type-A Port, Onboard
+  UART Connector, High Baud Rate Transmission
+extra:
+  Price: $3.65 - $3.99
+  SKU: '26619'
+  price: $3.65 - $3.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi-uart-debugger-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pi-uart-debugger.htm
+  repositories: []
+name: Pi UART Debugger
+ref: waveshare/pi-uart-debugger
+release_date: null
+sku: pi-uart-debugger
+spec: null
+status: ''
+vendor: waveshare

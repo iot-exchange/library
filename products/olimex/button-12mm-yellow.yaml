@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 1.35 EUR
+  discountedPrice2: 1.20 EUR
+  price: 1.50 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Switches/WATER-PROOF-BUTTONS/images/thumbs/200x150/but-12mm.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Switches/BUTTON-12MM-YELLOW/
+  repositories: []
+name: BUTTON-12MM-YELLOW
+ref: olimex/button-12mm-yellow
+release_date: null
+sku: button-12mm-yellow
+spec: null
+status: ''
+vendor: olimex

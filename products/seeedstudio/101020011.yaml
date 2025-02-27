@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "Grove \u2013 Temperature & Humidity Sensor is based on DHT11, which\
+  \ has high measurement accuracy and wide range, and low-cost."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductgrove20co220sensor.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/g/r/grove-temperature-humidity-sensor-dht11-preview.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html
+  repositories: []
+name: '101020011'
+ref: seeedstudio/101020011
+release_date: null
+sku: '101020011'
+spec: null
+status: ''
+vendor: seeedstudio

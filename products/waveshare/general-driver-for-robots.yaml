@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: General Driver board for Robots, Based on ESP32, multi-functional, supports
+  WIFI, Bluetooth and ESP-NOW communications
+extra:
+  Price: $27.31 - $27.99
+  SKU: '23730'
+  price: $27.31 - $27.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/e/general-driver-for-robots-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/general-driver-for-robots.htm "General Driver
+    board for Robots, Based on ESP32, multi-functional, supports WIFI, Bluetooth and
+    ESP-NOW communications"
+  - https://www.waveshare.com/product/general-driver-for-robots.htm
+  repositories: []
+name: General Driver for Robots
+ref: waveshare/general-driver-for-robots
+release_date: null
+sku: general-driver-for-robots
+spec: null
+status: ''
+vendor: waveshare

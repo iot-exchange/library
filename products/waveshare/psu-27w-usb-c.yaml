@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 27W USB Type-C Power Supply, PD Power Supply, Option For US / EU / UK
+  Plugs, Suitable for Raspberry Pi 5
+extra:
+  Multi Options: ''
+  Price: $7.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/s/psu-27w-usb-c-us-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/psu-27w-usb-c.htm
+  repositories: []
+name: psu_27w_usb_c
+ref: waveshare/psu-27w-usb-c
+release_date: null
+sku: psu-27w-usb-c
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Bluetooth Module
+extra:
+  2MPHY: ''
+  802.15.4 / Matter / Thread: ''
+  BLE: x
+  Classic BT: x
+  LE Long Range: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/tiwi-ub1-soc-bluetooth-module-front1.jpg
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-42-and-40-modules/tiwi-ub1-bluetooth-module
+  repositories: []
+name: TiWi-uB1
+ref: ezurio/tiwi-ub1
+release_date: null
+sku: tiwi-ub1
+spec: null
+status: ''
+vendor: ezurio

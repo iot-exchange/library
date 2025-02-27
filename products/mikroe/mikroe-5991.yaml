@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LTE Cat.4 3 Click is a compact add-on board representing a multi-band
+  and multi-mode solution, offering universal connectivity and reliable performance.
+  This board features the LARA-L6004D-01B, an LTE Cat 4 module in the smallest form
+  factor from u-blox. The module supports an LTE Cat 4 FDD and an LTE Cat 4 TDD radio
+  access technology (RAT), with a 3G...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lte-cat4-3-click-data/lte-cat4-3-click-data-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/lte-cat4-3-click-data
+  repositories: []
+name: MIKROE-5991
+ref: mikroe/mikroe-5991
+release_date: null
+sku: mikroe-5991
+spec: null
+status: ''
+vendor: mikroe

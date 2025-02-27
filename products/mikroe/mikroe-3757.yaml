@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LTE Cat.1-EU Click is a compact add-on board containing a low-power LTE-IoT
+  connectivity solution. This board features the ELS61 (ELS61-EU), a multi-band wireless
+  module from Thales. The ELS61-EU delivers highly efficient Cat 1 LTE connectivity
+  for M2M IoT solutions offering seamless fallback to 2G and 3G networks. The best
+  in the class solution enables...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lte-cat1-eu-click-for-europe/lte-cat1-eu-click-for-europe-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/lte-cat1-eu-click-for-europe "LTE Cat.1-EU Click (for Europe)"
+  repositories: []
+name: MIKROE-3757
+ref: mikroe/mikroe-3757
+release_date: null
+sku: mikroe-3757
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: EFR32BG22 Based Modules (Series 2)
+extra:
+  Core: ARM Cortex-M33
+  Flash (KB): 352, 512
+  RAM (KB): '32'
+  RX Sensitivity: '5.4'
+  Security: AES-128, AES-256, ECC, SHA-1, SHA-2
+  TX Current @ 0 dBm: '8'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/bluetooth/efr32bg22-series-2-modules
+  repositories: []
+name: EFR32BG22 Modules
+ref: silicon-labs/efr32bg22-modules
+release_date: null
+sku: efr32bg22-modules
+spec: null
+status: ''
+vendor: silicon-labs

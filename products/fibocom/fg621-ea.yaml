@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: LTE Cat 6 Modules
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTECat-FG621-EA.html
+  repositories: []
+name: FG621-EA
+ref: fibocom/fg621-ea
+release_date: null
+sku: fg621-ea
+spec: null
+status: ''
+vendor: fibocom

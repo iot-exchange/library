@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Test & Burn-in Socket
+extra:
+  Price Range: $103.59 - $106.99
+  SKU: '3573'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/q/f/qfn-4856b-0.5-01_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/qfn-4856b-0.5-01.htm
+  repositories: []
+name: QFN-48(56)B-0.5-01
+ref: waveshare/qfn-48-56-b-0-5-01
+release_date: null
+sku: qfn-48-56-b-0-5-01
+spec: null
+status: ''
+vendor: waveshare

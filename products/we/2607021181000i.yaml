@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: Tarvos-II
+extra:
+  Current Consumption (mA): '3.6'
+  Expected Lifetime (years): 2-5
+  Expected lifetime: 2-5 years
+  Frequency Range: 868 - 870
+  Max Output Power (dBm): '2000'
+  Production: active
+  Sensitivity (dBm): '-117'
+  Supply Voltage (V): '2'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/components/products/manual/2607021181000_Tarvos-II 260702118100x
+    Manual_rev4.4.pdf
+  repositories: []
+name: 2607021181000i
+ref: we/2607021181000i
+release_date: null
+sku: 2607021181000i
+spec: null
+status: NRND
+vendor: we

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: DeviceDrive Click is a complete Cloud-on-Module solution with Wi-Fi functionality
+  and an integrated PCB antenna. The onboard ESP-WROOM-02 module comes preloaded with
+  DeviceDrive firmware which completely offloads Wi-Fi networking functionality from
+  the application processor.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/devicedrive-click/devicedrive-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/devicedrive-click
+  repositories: []
+name: MIKROE-3663
+ref: mikroe/mikroe-3663
+release_date: null
+sku: mikroe-3663
+spec: null
+status: ''
+vendor: mikroe

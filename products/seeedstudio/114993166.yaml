@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: The SenseCAP LoRaWAN Starter kit is designed specifically for beginners.
+  It includes the necessary parts for LoRaWAN. With this kit, you can learn and experience
+  with the entire architecture of LoRaWAN. You can also utilize the grove sensors
+  provided in the kit or choose your own sensor modules to build your own LoRaWAN
+  projects.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993166-sensecap-lorawan-starter-kit-eu-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/SenseCAP-LoRaWAN-Starter-Kit-EU868-p-5789.html
+  repositories: []
+name: '114993166'
+ref: seeedstudio/114993166
+release_date: null
+sku: '114993166'
+spec: null
+status: ''
+vendor: seeedstudio

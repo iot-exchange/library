@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "ISO ADC 2 Click is a compact add-on board that represents a completely\
+  \ isolated 12-bit, 300 kSPS data acquisition system. This board features the AD7091R,\
+  \ successive-approximation analog-to-digital converter (ADC) from Analog Devices.\
+  \ It uses the 3-wire SPI serial interface for data communication, achieving up to\
+  \ 1 MSPS throughput rate. This Click board\u2122..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/iso-adc-2-click/iso-adc-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/iso-adc-2-click
+  repositories: []
+name: MIKROE-4166
+ref: mikroe/mikroe-4166
+release_date: null
+sku: mikroe-4166
+spec: null
+status: ''
+vendor: mikroe

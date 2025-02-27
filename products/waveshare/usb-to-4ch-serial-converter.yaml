@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Industrial USB To 4-Ch Serial Converter, Original FT4232HL Chip, Supports
+  USB To RS232/485/422/TTL
+extra:
+  Price: $25.97 - $26.99
+  SKU: '25790'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-4ch-serial-converter-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/usb-to-4ch-serial-converter.htm
+  repositories: []
+name: USB TO 4CH Serial Converter
+ref: waveshare/usb-to-4ch-serial-converter
+release_date: null
+sku: usb-to-4ch-serial-converter
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: BLE iBeacon
+extra:
+  Battery Life: 4~5 year
+  Broadcast Interval: 500ms
+  Distance: 100meters in open area
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/ee68a9df1200997b07be8fb0bbdb9f29_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/tracker/item/166-bcn01.html
+  repositories: []
+name: BCN01
+ref: dragino/bcn01
+release_date: null
+sku: bcn01
+spec: null
+status: EOL
+vendor: dragino

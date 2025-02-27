@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: RS485 CAN HAT for Raspberry Pi
+extra:
+  Price: $12.97 - $13.99
+  SKU: '14882'
+  price: $12.97 - $13.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs485-can-hat-1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rs485-can-hat.htm
+  repositories: []
+name: RS485 CAN HAT
+ref: waveshare/rs485-can-hat
+release_date: null
+sku: rs485-can-hat
+spec: null
+status: ''
+vendor: waveshare

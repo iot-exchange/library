@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/CHN-T907-3C/images/thumbs/200x150/CHN-T907-3C.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/Soldering/CHN-T907-3C/
+  repositories: []
+name: CHN-T907-3C
+ref: olimex/chn-t907-3c
+release_date: null
+sku: chn-t907-3c
+spec: null
+status: ''
+vendor: olimex

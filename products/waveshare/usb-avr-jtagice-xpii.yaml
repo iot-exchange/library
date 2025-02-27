@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: USB AVR JTAGICE XPII, AVR Programmers & Debuggers
+extra:
+  Price: $144.99 - $148.99
+  SKU: '3150'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-avr-jtagice-xpii_l.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/usb-avr-jtagice-xpii.htm
+  repositories: []
+name: USB AVR JTAGICE XPII
+ref: waveshare/usb-avr-jtagice-xpii
+release_date: null
+sku: usb-avr-jtagice-xpii
+spec: null
+status: ''
+vendor: waveshare

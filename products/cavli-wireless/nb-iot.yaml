@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Narrowband IoT (NB-IoT) is a LPWAN technology developed to enable a wide
+  range of devices and services to be connected using cellular telecommunication bands.
+extra:
+  Connection Density: Supports about 50,000 devices per network cell
+  Cost Efficiency: Lower budget due to minimal bandwidth requirements
+  Penetration: Deep in dense urban environments
+  Power Usage: Low
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.cavliwireless.com/blog/what-is-narrowband-iot.html
+  repositories: []
+name: NB-IoT
+ref: cavli-wireless/nb-iot
+release_date: null
+sku: nb-iot
+spec: null
+status: ''
+vendor: cavli-wireless

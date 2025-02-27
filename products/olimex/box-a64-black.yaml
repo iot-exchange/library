@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A64/BOX-A64-BLACK/images/thumbs/200x150/BOX-A64.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/A64/BOX-A64-BLACK/
+  repositories: []
+name: BOX-A64-BLACK
+ref: olimex/box-a64-black
+release_date: null
+sku: box-a64-black
+spec: null
+status: ''
+vendor: olimex

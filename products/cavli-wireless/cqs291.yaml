@@ -1,0 +1,33 @@
+alternatives: []
+certifications: []
+description: LTE Cat 4 2G Fallback Android 3GPP Release 10
+extra:
+  Cellular Bands Supported: "WW: B1 /B2 /B3 /B4 /B5 /B7 /B8 /B12 /B13 /B18 /B19 /B20\
+    \ /B25 /B26 /B28 /B38 /B40 /B41 /B66 /B71 | GSM \u2013 900/1800 MHz"
+  Cellular Connectivity Download & Uplink Speed: 'LTE Cat 4: 150Mbps (DL) & 50 Mbps
+    (UL); GSM: 236.8Kbps (DL) & 236.8 Kbps (UL)'
+  Interfaces: 1xLCD (DSI), 2xCamera (CSI), 2xCCI I2C, 2xAnalog Audio Out, 2xAnalog
+    Audio In, 2xDigital Audio In, 1xUSB 2.0(OTG Support), 1xUSIM, 3xUART, 1xJTAG,
+    37xGPIO, 1xSDC 3.0, 1xADC, 2xI2C, 2xI3C, 1xSPI, 1xTouch Interface (I2C), 1xVIB_DRV,
+    1xWi-FI & Bluetooth ANT, 1xMain ANT, 1xDIV ANT, 1xGNSS ANT
+  Key Highlights: "ARM Cortex-A53 64-bit Processor (Quad-core), Qualcomm Adreno\u2122\
+    \ 702 GPU, 2G Fallback, Integrated eSIM, Integrated LCD Touchscreen interface,\
+    \ Baseband Chipset: QWM2290, GNSS: Inbuilt (L1 Capable), Middleware: LA2.1 Middleware\
+    \ for 2 wheelers"
+  OS: Android 12 + Service packs up to Android 14
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.cavliwireless.com/assets/images/modules/c-series/webp-img/CQS291.webp
+  models: []
+  products:
+  - https://www.cavliwireless.com/c-series/cqs291.html
+  repositories: []
+name: CQS291
+ref: cavli-wireless/cqs291
+release_date: null
+sku: cqs291
+spec: null
+status: ''
+vendor: cavli-wireless

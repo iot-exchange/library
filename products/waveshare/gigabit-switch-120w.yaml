@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 120W Gigabit Ethernet PoE Switch, 4x PoE+ Ports, Up To 30W Per Port,
+  802.3af/at Compliant, Fanless Design, High-Speed 10/100/1000M Ethernet Port, Network
+  Switch PoE
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/i/gigabit-poe-switch-120w-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/gigabit-poe-switch-120w.htm
+  repositories: []
+name: gigabit_switch_120w
+ref: waveshare/gigabit-switch-120w
+release_date: null
+sku: gigabit-switch-120w
+spec: null
+status: ''
+vendor: waveshare

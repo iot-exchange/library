@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: CN/US/EU Power Supply Adapter, 45W, 19V/2.37A, OD 5.5mm, ID 2.5mm, DC
+  Plug
+extra:
+  Multi Options: ''
+  Price: $9.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/s/psu-19v2.37a-5.5-2.5-cn-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/psu-19v2.37a-5.5-2.5.htm
+  repositories: []
+name: psu_19v2.37a
+ref: waveshare/psu-19v2-37a
+release_date: null
+sku: psu-19v2-37a
+spec: null
+status: ''
+vendor: waveshare

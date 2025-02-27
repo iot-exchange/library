@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: UT-L 7-SEG B Click is a compact add-on board that presents an easy solution
+  for adding a numeric or hexadecimal display to your application. This board features
+  two blue JSS-5611BUB-21s, ultra-thin single-digit numeric displays from Ningbo Junsheng
+  Electronics.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ut-l-7-seg-b-click/ut-l-7-seg-b-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ut-l-7-seg-b-click
+  repositories: []
+name: MIKROE-5824
+ref: mikroe/mikroe-5824
+release_date: null
+sku: mikroe-5824
+spec: null
+status: ''
+vendor: mikroe

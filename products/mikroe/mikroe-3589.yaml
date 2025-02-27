@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: 10-pin 0.10" ARM Cortex Debug Adapter comes with flat cable with IDC
+  2x5 0.10" pitch connectors.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.mikroe.com/img/ai
+  models: []
+  products: []
+  repositories: []
+name: MIKROE-3589
+ref: mikroe/mikroe-3589
+release_date: null
+sku: mikroe-3589
+spec: null
+status: ''
+vendor: mikroe

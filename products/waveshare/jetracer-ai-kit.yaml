@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: JetRacer AI Kit B, AI Racing Robot Powered by Jetson Nano, comes with
+  Waveshare Jetson Nano Dev Kit
+extra:
+  Multi Options: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetracer-ai-kit-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/jetracer-ai-kit.htm
+  repositories: []
+name: JetRacer AI Kit
+ref: waveshare/jetracer-ai-kit
+release_date: null
+sku: jetracer-ai-kit
+spec: null
+status: ''
+vendor: waveshare

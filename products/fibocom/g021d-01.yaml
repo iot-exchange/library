@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/GNSS-G021D-01.html
+  repositories: []
+name: G021D-01
+ref: fibocom/g021d-01
+release_date: null
+sku: g021d-01
+spec: null
+status: ''
+vendor: fibocom

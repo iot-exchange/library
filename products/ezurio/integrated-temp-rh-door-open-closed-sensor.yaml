@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Integrated temperature and relative humidity, plus cabled door open/closed
+  assembly, ideal for cold chain and heating/cooling applications.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2025-01/rs1xx-integrated-open-close-relative_3.png
+  models: []
+  products:
+  - https://www.ezurio.com/iot-devices/lorawan-iot-devices/sentrius-rs1xx-lora-enabled-sensors
+  repositories: []
+name: Integrated Temp/RH + Door Open/Closed Sensor
+ref: ezurio/integrated-temp-rh-door-open-closed-sensor
+release_date: null
+sku: integrated-temp-rh-door-open-closed-sensor
+spec: null
+status: ''
+vendor: ezurio

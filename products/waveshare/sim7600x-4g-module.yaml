@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: SIM7600X 4G Communication Module, Multi-band Support, Compatible with
+  4G/3G/2G, With GNSS Positioning
+extra:
+  Multi Options: ''
+  Price: $51.99 - $59.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim7600g-h-4g-module-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/sim7600g-h-4g-module.htm
+  repositories: []
+name: sim7600x_4g_module
+ref: waveshare/sim7600x-4g-module
+release_date: null
+sku: sim7600x-4g-module
+spec: null
+status: ''
+vendor: waveshare

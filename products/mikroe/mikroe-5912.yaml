@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: UT-S 7-SEG B 2 Click is a compact add-on board that presents an easy
+  solution for adding a numeric or hexadecimal display to your application. This board
+  features the TLC5947, a constant-current sink LED driver from Texas Instruments,
+  alongside six ultra-thin blue single-digit numeric displays, the JSS-3011BUB-21.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ut-s-7-seg-b-2-click/ut-s-7-seg-b-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ut-s-7-seg-b-2-click
+  repositories: []
+name: MIKROE-5912
+ref: mikroe/mikroe-5912
+release_date: null
+sku: mikroe-5912
+spec: null
+status: ''
+vendor: mikroe

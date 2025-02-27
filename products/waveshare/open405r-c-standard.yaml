@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Open405R-C Standard, STM32F4 Development Board
+extra:
+  Price: $32.89 - $34.99
+  SKU: '8881'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/open405r-c-3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/open405r-c-standard.htm
+  repositories: []
+name: Open405R-C Standard
+ref: waveshare/open405r-c-standard
+release_date: null
+sku: open405r-c-standard
+spec: null
+status: ''
+vendor: waveshare

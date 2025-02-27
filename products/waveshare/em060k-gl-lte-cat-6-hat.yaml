@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi LTE Cat 6 Communication HAT, LTE-A Global Multi-band, GNSS
+  Positioning, comes with EM060K-GL Module
+extra:
+  Price: $92.27 - $94.99
+  SKU: '24387'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/m/em060k-gl-lte-cat-6-hat-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/m/em060k-gl-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/em060k-gl-lte-cat-6-hat.htm
+  repositories: []
+name: EM060K-GL LTE Cat-6 HAT
+ref: waveshare/em060k-gl-lte-cat-6-hat
+release_date: null
+sku: em060k-gl-lte-cat-6-hat
+spec: null
+status: ''
+vendor: waveshare

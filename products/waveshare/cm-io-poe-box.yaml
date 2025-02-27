@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Mini-computer Add-ons Based on Raspberry Pi Compute Module
+extra:
+  Price: $49.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm-io-poe-box-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/cm-io-poe-box.htm
+  repositories: []
+name: CM-IO-POE-BOX
+ref: waveshare/cm-io-poe-box
+release_date: null
+sku: cm-io-poe-box
+spec: null
+status: ''
+vendor: waveshare

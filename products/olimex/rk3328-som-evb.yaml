@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/SOM/RK3328/RK3328-SOM-EVB/images/thumbs/200x150/RK3328-EVB-a.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/SOM/RK3328/RK3328-SOM-EVB/open-source-hardware
+  repositories: []
+name: RK3328-SOM-EVB
+ref: olimex/rk3328-som-evb
+release_date: null
+sku: rk3328-som-evb
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 71.96 EUR
+  discountedPrice2: 63.96 EUR
+  price: 79.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-E2294-8MB/images/thumbs/200x150/LPC-E2294-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-E2294-8MB/
+  repositories: []
+name: LPC-E2294-8MB
+ref: olimex/lpc-e2294-8mb
+release_date: null
+sku: lpc-e2294-8mb
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.arduino.cc/wiki/static/2ff70e489e19094e062c441e5f5910e9/41099/leonardo.jpg
+  models: []
+  products:
+  - https://store.arduino.cc/products/arduino-leonardo-with-headers
+  repositories: []
+name: Arduino Leonardo
+ref: arduino/arduino-leonardo
+release_date: null
+sku: arduino-leonardo
+spec: null
+status: ''
+vendor: arduino

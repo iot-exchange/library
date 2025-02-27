@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Regular price: From $39.95
+  Sale price: From $39.95
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/files/home-access-hero_b07a92da-9433-4170-b21a-fb31ca0ff245.png?v=1734638467&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/hub-account-access
+  repositories: []
+name: Insteon Hub Account Access
+ref: insteon/insteon-hub-account-access
+release_date: null
+sku: insteon-hub-account-access
+spec: null
+status: ''
+vendor: insteon

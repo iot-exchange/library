@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "The AMR current Click is product is \xB120A fully integrated bi-directional\
+  \ analog output current sensors that deliver both high accuracy and high bandwidth.\
+  \ This state-of-the-art Anisotropic Magneto Resistive (AMR) sensor technology provides\
+  \ inherently low noise, excellent linearity and repeatability."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/amr-current-click/amr-current-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/amr-current-click
+  repositories: []
+name: MIKROE-3812
+ref: mikroe/mikroe-3812
+release_date: null
+sku: mikroe-3812
+spec: null
+status: ''
+vendor: mikroe

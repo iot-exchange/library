@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Duino/PIC32/PIC32-T795/images/thumbs/200x150/PIC32-T795-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Duino/PIC32/PIC32-T795/open-source-hardware
+  repositories: []
+name: PIC32-T795
+ref: olimex/pic32-t795
+release_date: null
+sku: pic32-t795
+spec: null
+status: ''
+vendor: olimex

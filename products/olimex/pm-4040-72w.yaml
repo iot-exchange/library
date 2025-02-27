@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 5.40 EUR
+  discountedPrice2: 4.80 EUR
+  price: 6.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/PM-4040-72W/images/thumbs/200x150/PM-4040-72W.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Sensors/PM-4040-72W/
+  repositories: []
+name: PM-4040-72W
+ref: olimex/pm-4040-72w
+release_date: null
+sku: pm-4040-72w
+spec: null
+status: ''
+vendor: olimex

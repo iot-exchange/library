@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Frequency Range (MHz): 150-960
+  Link Budget (dB): '151'
+  LoRa BW (kHz): 125-500
+  LoRa IP Generation: '2'
+  Max Sensitivity (dBm): '-129'
+  Rx Current (mA): '4.6'
+  SF: 5-11
+  Tx Power (dBm): '+22'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.semtech.com/products/wireless-rf/lora-connect/llcc68
+  repositories: []
+name: LLCC68
+ref: semtech/llcc68
+release_date: null
+sku: llcc68
+spec: null
+status: Active
+vendor: semtech

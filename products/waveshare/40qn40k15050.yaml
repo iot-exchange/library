@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Test & Burn-in Socket
+extra:
+  Price Range: $85.99 - $88.99
+  SKU: '6873'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/0/40qn40s15050_l_1_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/40qn40k15050.htm
+  repositories: []
+name: 40QN40K15050
+ref: waveshare/40qn40k15050
+release_date: null
+sku: 40qn40k15050
+spec: null
+status: ''
+vendor: waveshare

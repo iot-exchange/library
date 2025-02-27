@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Storage/USB-FLASH-8GB-THN-U202W0080E4/images/thumbs/200x150/USB-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Storage/USB-FLASH-8GB \(THN-U202W0080E4\)/
+  repositories: []
+name: USB-FLASH-8GB (THN-U202W0080E4)
+ref: olimex/usb-flash-8gb-thn-u202w0080e4
+release_date: null
+sku: usb-flash-8gb-thn-u202w0080e4
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "10.1inch IPS Capacitive Touch Display, 800\xD71280, Optical Bonding\
+  \ Toughened Glass Panel, DSI Interface, 10-Point Touch"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/101m-8001280-ips-ct-k-1.jpg
+  models: []
+  products:
+  - "https://www.waveshare.com/product/101m-8001280-ips-ct-k.htm \"10.1inch IPS Capacitive\
+    \ Touch Display, 800\xD71280, Optical Bonding Toughened Glass Panel, DSI Interface,\
+    \ 10-Point Touch\""
+  - https://www.waveshare.com/product/101m-8001280-ips-ct-k.htm
+  repositories: []
+name: 101M-8001280-IPS-CT-K
+ref: waveshare/101m-8001280-ips-ct-k
+release_date: null
+sku: 101m-8001280-ips-ct-k
+spec: null
+status: ''
+vendor: waveshare

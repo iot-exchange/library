@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Camera/CAMERA-OV5647-5MPIX/images/thumbs/200x150/RPi-CAM-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Camera/CAMERA-OV5647-5MPIX/
+  repositories: []
+name: CAMERA-OV5647-5MPIX
+ref: olimex/camera-ov5647-5mpix
+release_date: null
+sku: camera-ov5647-5mpix
+spec: null
+status: ''
+vendor: olimex

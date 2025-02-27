@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: PCIe To M.2 Adapter With PoE Function For Raspberry Pi 5, Supports NVMe
+  Protocol M.2 Solid State Drive, High-speed Reading/Writing, Raspberry Pi 5 PoE HAT
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/o/poe-m.2-hat-plus-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/o/poe-m.2-hat-plus-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/poe-m.2-hat-plus.htm
+  repositories: []
+name: POE M.2 HAT+
+ref: waveshare/poe-m-2-hat
+release_date: null
+sku: poe-m-2-hat
+spec: null
+status: ''
+vendor: waveshare

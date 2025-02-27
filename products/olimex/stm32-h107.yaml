@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/ST/STM32-H107/images/thumbs/200x150/STM32-H107-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/ST/STM32-H107/
+  repositories: []
+name: STM32-H107
+ref: olimex/stm32-h107
+release_date: null
+sku: stm32-h107
+spec: null
+status: ''
+vendor: olimex

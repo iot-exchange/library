@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "USB-C Sink 4 Click is a compact add-on board designed to enable devices\
+  \ to draw power through the USB Type-C interface. This board features the CYPD3178,\
+  \ a USB Type-C power sink controller from Infineon. This Click board\u2122 includes\
+  \ a controller with an integrated USB Type-C transceiver, load switch control with\
+  \ soft start, and system-level fault..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/usb-c-sink-4-click/usb-c-sink-4-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/cart?add=1&id_product=4021
+  - https://www.mikroe.com/usb-c-sink-4-click
+  repositories: []
+name: MIKROE-6174
+ref: mikroe/mikroe-6174
+release_date: null
+sku: mikroe-6174
+spec: null
+status: ''
+vendor: mikroe

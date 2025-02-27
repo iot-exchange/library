@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: EEPROM 11 Click is a compact add-on board with a highly reliable, nonvolatile
+  memory solution. This board features the S-34C04AB, an EEPROM for DIMM serial presence
+  detection from ABLIC.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/eeprom-11-click/eeprom-11-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/eeprom-11-click
+  repositories: []
+name: MIKROE-5889
+ref: mikroe/mikroe-5889
+release_date: null
+sku: mikroe-5889
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: USB TO 8CH RS485 Industrial Grade Isolated Converter, USB To RS485 Adapter,
+  Multiple Protection Circuits, Wall-mount And Rail-Mount Support
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-8ch-rs485-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-8ch-rs485-2.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-touch-lcd-1.69-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rp2040-touch-lcd-1.69.htm
+  - https://www.waveshare.com/product/usb-to-8ch-rs485.htm
+  repositories: []
+name: USB TO 8CH RS485
+ref: waveshare/usb-to-8ch-rs485
+release_date: null
+sku: usb-to-8ch-rs485
+spec: null
+status: ''
+vendor: waveshare

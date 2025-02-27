@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: The Crazyflie 2.0 DWM1000 Loco Positioning Deck is a Tag in a Loco Positioning
+  system and measures the distances to Anchors. The distances are used to estimate
+  the absolute position of the Crazyflie 2.X in the room, which can be used for autonomous
+  flight. The position is calculated on-board the Crazyflie and there is no need for
+  an external computer for position estimation.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/l/o/loco-deck-400px-1_1024x1024.jpeg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Crazyflie-2-0-DWM1000-Deck-p-2938.html
+  repositories: []
+name: '114990655'
+ref: seeedstudio/114990655
+release_date: null
+sku: '114990655'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/AVR/Programmers/AVR-PG2B/images/thumbs/200x150/AVR-PG2B-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/AVR/Programmers/AVR-PG2B/
+  repositories: []
+name: AVR-PG2B
+ref: olimex/avr-pg2b
+release_date: null
+sku: avr-pg2b
+spec: null
+status: ''
+vendor: olimex

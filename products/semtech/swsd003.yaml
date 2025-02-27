@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Semtech Software Development Kit
+extra:
+  Product Applicability: LR1110, LR1120, LR1121, SX1261, SX1262, SX1268
+  Type: SW Dev Kit
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://github.com/Lora-net/SWSD003
+  repositories: []
+name: SWSD003
+ref: semtech/swsd003
+release_date: null
+sku: swsd003
+spec: null
+status: ''
+vendor: semtech

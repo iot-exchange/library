@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  10+ pcs: 27.00 EUR
+  100+ pcs: 22.50 EUR
+  1000+ pcs: 21.00 EUR
+  50+ pcs: 24.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A33/A33-OLinuXino/images/thumbs/200x150/A33-OLinuXino-4GB.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/A33/A33-OLinuXino/open-source-hardware
+  repositories: []
+name: A33-OLinuXino
+ref: olimex/a33-olinuxino
+release_date: null
+sku: a33-olinuxino
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-623ZZ-UYM/images/thumbs/200x150/623zz.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-623ZZ-UYM/
+  repositories: []
+name: BEARING-623ZZ-UYM
+ref: olimex/bearing-623zz-uym
+release_date: null
+sku: bearing-623zz-uym
+spec: null
+status: ''
+vendor: olimex

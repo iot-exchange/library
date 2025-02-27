@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Test & Burn-in Socket
+extra:
+  Price Range: $85.99 - $88.99
+  SKU: '6876'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/0/20qn40t13030_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/20qn40t13030.htm
+  repositories: []
+name: 20QN40T13030
+ref: waveshare/20qn40t13030
+release_date: null
+sku: 20qn40t13030
+spec: null
+status: ''
+vendor: waveshare

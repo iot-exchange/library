@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/PIC/Programmers/PIC-PG2/images/thumbs/200x150/PIC-PG2-TOP.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/PIC/Programmers/PIC-PG2/
+  repositories: []
+name: PIC-PG2
+ref: olimex/pic-pg2
+release_date: null
+sku: pic-pg2
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Current Limit 10 Click is a compact add-on board representing a current-limiting
+  solution for your application. This board features the HS2950P, a load protection
+  HotSwitch from Semtech. It features a wide input voltage range of 2.7V up to 29V
+  and can provide up to 5A output current. The HS2950P features an adjustable current
+  limit, over-voltage...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/current-limit-10-click/current-limit-10-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/current-limit-10-click
+  repositories: []
+name: MIKROE-5938
+ref: mikroe/mikroe-5938
+release_date: null
+sku: mikroe-5938
+spec: null
+status: ''
+vendor: mikroe

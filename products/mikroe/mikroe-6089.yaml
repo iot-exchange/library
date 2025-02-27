@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: SolidSwitch 6 Click is a compact add-on board for reliable load management
+  in automotive power distribution systems. This board features the VNF1048F, a high-side
+  switch controller with intelligent e-fuse protection from STMicroelectronics. This
+  board supports an input voltage range of 6V to 48V, controls external MOSFET, and
+  offers essential protection...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/solidswitch-6-click/solidswitch-6-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/solidswitch-6-click
+  repositories: []
+name: MIKROE-6089
+ref: mikroe/mikroe-6089
+release_date: null
+sku: mikroe-6089
+spec: null
+status: ''
+vendor: mikroe

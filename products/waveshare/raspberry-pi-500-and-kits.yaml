@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi 500, A Fast, Powerful Computer Built Into A High-quality
+  Keyboard (US). Quad-core Arm Processor, WIFI/Bluetooth Support, Dual-4K Outputs
+extra:
+  Multi Options: ''
+  Price: $95.99 -  $251.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-500-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/raspberry-pi-500.htm
+  repositories: []
+name: Raspberry Pi 500 and Kits
+ref: waveshare/raspberry-pi-500-and-kits
+release_date: null
+sku: raspberry-pi-500-and-kits
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: The Grove-SEN54 is a comprehensive solution for measuring essential air
+  quality parameters including particulate matter, VOC, humidity, and temperature.
+  Its advanced algorithms make integration into HVAC and Air Purifier systems effortless.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/111_all-04.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-All-in-one-Environmental-Sensor-SEN54-p-5374.html
+  repositories: []
+name: '101021013'
+ref: seeedstudio/101021013
+release_date: null
+sku: '101021013'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,54 @@
+alternatives: []
+certifications: []
+description: Wi-Fi 4 module for consumer and industrial equipment.
+extra:
+  Additional Info: ''
+  Bluetooth: 'Yes'
+  Certification: 'Yes'
+  Chip: CYW43907
+  Current Consumption: 380mA @ 11Mbps (2.4GHz)
+  Dimensions: 10.0 x 10.0 x 1.2 mm
+  Enclosure: Shielded Resin
+  Frequency: 2.4GHz, 5GHz
+  GPIO: 'No'
+  I/O Voltage: 3.3V
+  Interfaces: GPIO/SPI/UART/I2C/Ethernet (RMII)
+  Manufacturer: Infineon
+  Market: Consumer
+  Material: Shielded Resin
+  Mounting Type: SMT
+  Operating Temperature: "-30\u2103 to 85\u2103"
+  Packaging: Tape and Reel
+  Power Consumption: 380mA @ 11Mbps (2.4GHz), 320mA @ 54Mbps (2.4GHz), 310mA @ 65Mbps
+    (2.4GHz), 330mA @ 54Mbps (5GHz), 320mA @ 65Mbps (5GHz)
+  Processor: ARM Cortex-R4
+  SDK: ElectricImp
+  Sleep Current: 100mA
+  Status: 'Yes'
+  Target Market: Consumer
+  Temperature Range: "-30\u2103 to 85\u2103"
+  Voltage: 3.13V to 3.63V
+  Voltage Range: 3.13V to 3.63V
+  Wi-Fi: 'Yes'
+  dimensions: 10.0 x 10.0 x 1.2 mm
+  idleCurrent: 100mA
+  interface: GPIO/SPI/UART/I2C/Ethernet (RMII)
+  powerConsumption: 380mA @ 11Mbps (2.4GHz), 320mA @ 54Mbps (2.4GHz), 310mA @ 65Mbps
+    (2.4GHz), 330mA @ 54Mbps (5GHz), 320mA @ 65Mbps (5GHz)
+  processor: ARM Cortex-R4
+  temperatureRange: "-30\u2103 to 85\u2103"
+  voltage: 3.13V to 3.63V
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: Type 1GC-imp005
+ref: murata/type-1gc-imp005
+release_date: null
+sku: type-1gc-imp005
+spec: null
+status: ''
+vendor: murata

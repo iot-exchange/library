@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/Distance/SNS-GP2Y0A21YK0F/images/thumbs/200x150/SNS-GP2Y0A21YK0F.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Sensors/Distance/SNS-GP2Y0A21YK0F/
+  repositories: []
+name: SNS-GP2Y0A21YK0F
+ref: olimex/sns-gp2y0a21yk0f
+release_date: null
+sku: sns-gp2y0a21yk0f
+spec: null
+status: ''
+vendor: olimex

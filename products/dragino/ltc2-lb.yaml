@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: 'LoRaWAN 1.0.3 Class ABands:CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865Max:
+  2 x monitor temperature channelsSupport 3 -wire PT-100Temperature alarmDatalog FeatureSupport
+  Bluetooth v5.1 remote configure and wireless OTA update firmware8500mAh Li/SOCl2
+  Battery'
+extra:
+  Catalog: Temperature & Humidity Sensor
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/f50c152c7848dac24210d3ad3ad22154_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/temperature-humidity-sensor/item/343-ltc2-lb.html
+  repositories: []
+name: LTC2-LB
+ref: dragino/ltc2-lb
+release_date: null
+sku: ltc2-lb
+spec: null
+status: ''
+vendor: dragino

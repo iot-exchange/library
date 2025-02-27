@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: RPLIDAR S2 is a new generation of low-cost two-dimensional laser ranging
+  radar, which can perform a 360-degree omni-directional laser ranging scan within
+  a 30-meter radius of a two-dimensional plane, and generate a flat point cloud map
+  of the space in which it is located information. It can be used in practical applications
+  such as map surveying and positioning and navigation.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/11410048_preview-07-min.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/RPLiDAR-S2-Low-Cost-360-Degree-Laser-Range-Scanner-30M-Range-p-5198.html
+  repositories: []
+name: '114992738'
+ref: seeedstudio/114992738
+release_date: null
+sku: '114992738'
+spec: null
+status: ''
+vendor: seeedstudio

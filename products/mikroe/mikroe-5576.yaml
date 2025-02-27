@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Angle 9 Click is a compact add-on board that detects the absolute position\
+  \ of a permanent magnet. This board features the AAS33001, a precision angle sensor\
+  \ with incremental and motor commutation outputs and on-chip linearization from\
+  \ Allegro Microsystems. It is a contactless angle sensor for 0\xB0 to 360\xB0 angular\
+  \ position, rotation speed, and directional..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/angle-9-click/angle-9-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/angle-9-click
+  repositories: []
+name: MIKROE-5576
+ref: mikroe/mikroe-5576
+release_date: null
+sku: mikroe-5576
+spec: null
+status: ''
+vendor: mikroe

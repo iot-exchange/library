@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-024-LiPo-battery/images/thumbs/200x150/TERES-024-LiPo-7000mAh.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-024-LiPo-9500mAh/
+  repositories: []
+name: TERES-024-LiPo-9500mAh
+ref: olimex/teres-024-lipo-9500mah
+release_date: null
+sku: teres-024-lipo-9500mah
+spec: null
+status: ''
+vendor: olimex

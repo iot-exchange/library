@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  100+ pcs: 13.92 EUR
+  1000+ pcs: 13.34 EUR
+  50+ pcs: 14.21 EUR
+  500+ pcs: 13.63 EUR
+  discountedPrices:
+  - 14.21 EUR
+  - 13.92 EUR
+  - 13.63 EUR
+  - 13.34 EUR
+  price: 14.50 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/IoT/NB-IoT/NB-IoT-BC66/images/thumbs/200x150/BC66.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/IoT/NB-IoT/NB-IoT-BC66H/
+  repositories: []
+name: NB-IoT-BC66H
+ref: olimex/nb-iot-bc66h
+release_date: null
+sku: nb-iot-bc66h
+spec: null
+status: ''
+vendor: olimex

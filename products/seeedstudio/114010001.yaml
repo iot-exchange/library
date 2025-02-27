@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Our latest heat sink for the XIAO ESP32S3 Sense offers top-notch cooling.
+  It's designed to solve cooling problems, especially during intensive tasks like
+  using the camera. While XIAO C3 and XIAO C6 generate little heat, you can still
+  use this heat sink if extra cooling is needed.
+extra:
+  Quantity: 2pcs
+  quantity: 2pcs
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114010001-aluminum-heat-sink-for-xiao-_2pcs_-.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Aluminum-Heat-Sink-For-XIAO-2pcs-p-5972.html
+  repositories: []
+name: '114010001'
+ref: seeedstudio/114010001
+release_date: null
+sku: '114010001'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: 24GHz mmWave Sensor - Human Static Presence Module Lite is an antenna-integrated,
+  high-sensitivity mmwave radar sensor that is based on the FMCW principle. It is
+  user-friendly by providing visual debugging and configuration tools. It can flexibly
+  adapt to various scenarios as multiple underlying parameters is configurable. With
+  Arduino support, it is an easy-to-use and cost-effective choice for various human
+  presence-detecting applications.
+extra:
+  price: $6.90
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.seeedstudio.com/24GHz-mmWave-Sensor-Human-Static-Presence-Module-Lite-p-5524.html
+  repositories: []
+name: '101991030'
+ref: seeedstudio/101991030
+release_date: null
+sku: '101991030'
+spec: null
+status: ''
+vendor: seeedstudio

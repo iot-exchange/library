@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Opto Encoder 5 Click is a compact add-on board that offers non-contact\
+  \ switching with unparalleled accuracy and precision. This board features the OPB666N,\
+  \ a Photologic\xAE slotted optical switch from TT Electronics, ensuring top-notch\
+  \ performance and reliability. It integrates an 890nm infrared LED and a monolithic\
+  \ integrated circuit with a photodiode,..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/opto-encoder-5-click/opto-encoder-5-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/opto-encoder-5-click
+  repositories: []
+name: MIKROE-6056
+ref: mikroe/mikroe-6056
+release_date: null
+sku: mikroe-6056
+spec: null
+status: ''
+vendor: mikroe

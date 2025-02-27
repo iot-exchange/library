@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Wireless, anywhere control
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://images.squarespace-cdn.com/content/v1/53fce470e4b0374adfdd30bc/1417016362092-CCJW0G3JTRIP000J6E3A/remotes.png
+  models: []
+  products:
+  - https://www.insteon.com/mini-remotes-menu
+  repositories: []
+name: remotes
+ref: insteon/remotes
+release_date: null
+sku: remotes
+spec: null
+status: ''
+vendor: insteon

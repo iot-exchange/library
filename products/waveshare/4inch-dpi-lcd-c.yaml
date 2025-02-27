@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: "4inch Square Capacitive Touch Screen LCD (C) for Raspberry Pi, 720\xD7\
+  720, DPI, IPS, Toughened Glass Cover, Low Power"
+extra:
+  Price: $53.29 - $54.99
+  SKU: '19742'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/i/4inch-dpi-lcd-c-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/o/touch-screen_19.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/4inch-dpi-lcd-c.htm
+  - "https://www.waveshare.com/product/4inch-dpi-lcd-c.htm \"4inch Square Capacitive\
+    \ Touch Screen LCD (C) for Raspberry Pi, 720\xD7720, DPI, IPS, Toughened Glass\
+    \ Cover, Low Power\""
+  repositories: []
+name: 4inch DPI LCD (C)
+ref: waveshare/4inch-dpi-lcd-c
+release_date: null
+sku: 4inch-dpi-lcd-c
+spec: null
+status: ''
+vendor: waveshare

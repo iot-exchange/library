@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LTE IoT 17 Click is a compact add-on board designed for low-power, long-range
+  cellular communication in IoT applications. This board features the SIM7070E, a
+  multi-band LTE module from SIMCom that supports the European/Australian region's
+  Cat-M, Cat-NB, and GSM modes. Key features include a maximum 589kbps downlink and
+  1.1Mbps uplink rate, support of...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lte-iot-17-click/lte-iot-17-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/lte-iot-17-click
+  repositories: []
+name: MIKROE-6287
+ref: mikroe/mikroe-6287
+release_date: null
+sku: mikroe-6287
+spec: null
+status: ''
+vendor: mikroe

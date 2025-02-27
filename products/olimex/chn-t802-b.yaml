@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/CHN-T802-B/images/thumbs/200x150/CHN-T802-B.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/Soldering/CHN-T802-B/
+  repositories: []
+name: CHN-T802-B
+ref: olimex/chn-t802-b
+release_date: null
+sku: chn-t802-b
+spec: null
+status: ''
+vendor: olimex

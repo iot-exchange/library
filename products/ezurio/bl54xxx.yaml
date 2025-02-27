@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Advanced Bluetooth module with enhanced features.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ezurio.com/partners/technology/wirepas
+  - ''
+  repositories: []
+name: BL54xxx
+ref: ezurio/bl54xxx
+release_date: null
+sku: bl54xxx
+spec: null
+status: ''
+vendor: ezurio

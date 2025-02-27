@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "RF Switch Click is a Click board\u2122 equipped with the MASWSS0115,\
+  \ a GaAs PHEMT MMIC single-pole, double-throw (SPDT) switch developed by Macom for\
+  \ switching between small signal components such as filter banks, single-band LNAs,\
+  \ converters, etc. The MASWSS0115 is ideally suited for applications where a very\
+  \ small size and low cost are required."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rf-switch-click/rf-switch-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/rf-switch-click
+  repositories: []
+name: MIKROE-4168
+ref: mikroe/mikroe-4168
+release_date: null
+sku: mikroe-4168
+spec: null
+status: ''
+vendor: mikroe

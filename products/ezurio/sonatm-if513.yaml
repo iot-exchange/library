@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Wi-Fi 6E + Bluetooth Module
+extra:
+  Category: Professional Wi-Fi
+  Chipset: Infineon CYW55513
+  Wi-Fi: Low Power
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/Sona%20IF573%20-%20Family.png
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/wifi-modules-bluetooth/sona-if513-wifi-6e-bluetooth-5-4-module
+  repositories: []
+name: "Sona\u2122 IF513"
+ref: ezurio/sonatm-if513
+release_date: null
+sku: sonatm-if513
+spec: null
+status: ''
+vendor: ezurio

@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "A battery-powered IP66 wireless soil moisture, temperature, and EC sensor,\
+  \ range from 0 ~ 100% (m\xB3/m\xB3), -40 ~ 80\u2103, and 0 to 23 dS/m, equipped\
+  \ with built-in Bluetooth and APP service for OTA configuration and remote device\
+  \ management. Used in smart farming, smart yard, and environment monitoring solutions."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.seeedstudio.com/img/x
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/f/i/first_page_all-13.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/SenseCAP-S2105
+  - https://www.seeedstudio.com/SenseCAP-S2105-LoRaWAN-Soil-Temperature-Moisture-and-EC-Sensor-p-5358.html
+  repositories: []
+name: '114992871'
+ref: seeedstudio/114992871
+release_date: null
+sku: '114992871'
+spec: null
+status: ''
+vendor: seeedstudio

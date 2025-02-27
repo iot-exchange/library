@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: NEW Radio Module 868 MHz without firmware
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o826549v214%20top-WIRL-OCEANUS-2618011182000.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/OCEANUS-I
+  repositories: []
+name: Oceanus-I
+ref: we/oceanus-i
+release_date: null
+sku: oceanus-i
+spec: null
+status: ''
+vendor: we

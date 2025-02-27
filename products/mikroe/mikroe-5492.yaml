@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Smart Card 2 Click is a compact add-on board for reading smart cards.\
+  \ This board features Microchip\u2019s SEC1210, a low-power single-chip Smart Card\
+  \ controller with a UART interface. The SEC1210 bridge controller uses a combination\
+  \ of hardware and software to deliver high-performance and flexible design customization\
+  \ options. It is fully compliant with..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/smart-card-2-click/smart-card-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/smart-card-2-click
+  repositories: []
+name: MIKROE-5492
+ref: mikroe/mikroe-5492
+release_date: null
+sku: mikroe-5492
+spec: null
+status: ''
+vendor: mikroe

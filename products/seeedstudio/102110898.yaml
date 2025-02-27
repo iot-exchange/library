@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "BeagleV\xAE - Fire is an open-source RISC-V Single Board Computer coming\
+  \ with low-power FPGA fabric, designed for highly flexible custom scenarios. It\
+  \ offers 2GB memory and 16GB eMMC, along with versatile connectivity and rich extensions,\
+  \ perfect for various personal and professional applications."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102110898-beaglev-fire-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/BeagleV-Fire-p-5822.html
+  repositories: []
+name: '102110898'
+ref: seeedstudio/102110898
+release_date: null
+sku: '102110898'
+spec: null
+status: ''
+vendor: seeedstudio

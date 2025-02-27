@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: EtherCAT Click is a compact add-on board that provides a cost-effective
+  solution for realizing EtherCAT device solutions on various processors over the
+  SPI interface. This board features the LAN9252, a 2-port EtherCAT device controller
+  with dual integrated Ethernet PHYs from Microchip Technology. Each PHY contains
+  a full-duplex 100BASE-TX transceiver and...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ethercat-click/ethercat-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ethercat-click
+  repositories: []
+name: MIKROE-2851
+ref: mikroe/mikroe-2851
+release_date: null
+sku: mikroe-2851
+spec: null
+status: ''
+vendor: mikroe

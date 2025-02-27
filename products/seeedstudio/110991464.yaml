@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 'This is the re_computer case: Vesa Mounting Bracket that allows installing
+  the re_computer case to the back of the monitor using the standard Vesa Mounting
+  Holes.'
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/s/t/stereo_1.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/VESA-Mounting-Plate-for-re-computer-Case-p-4731.html
+  repositories: []
+name: '110991464'
+ref: seeedstudio/110991464
+release_date: null
+sku: '110991464'
+spec: null
+status: ''
+vendor: seeedstudio

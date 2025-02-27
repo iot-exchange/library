@@ -1,0 +1,31 @@
+alternatives: []
+certifications: []
+description: The ESP32-S3-USB-Bridge is a mini development board based on the ESP32-S3
+  chip, featuring the onboard ESP32-S3-MINI-1 module, WS2812 RGB LED, serial communication
+  indicator light, and a target chip control button. It offers optional USB Type-C
+  (default) or USB Type-A interfaces. Built upon Espressif's ESP-USB-Bridge project,
+  it supports functions such as USB to serial, USB to JTAG, drag-and-drop programming,
+  wireless debugging, and wireless programming. This board can be used for debugging
+  and programming ESP series chips and other chips.
+extra:
+  Flash / PSRAM: 4 MB Flash + 2 MB PSRAM
+  Getting Started: Getting Started, Demo Code
+  Interfaces: I/O USB-C
+  Related Products: ESP32-S3-MINI-1
+  UI: Buttons, LEDs
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/dev-board/ESP32-S3-USB-Bridge_S_0.png
+  models: []
+  products:
+  - https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp32-s3-usb-bridge/index.html
+  repositories: []
+name: ESP32-S3-USB-Bridge
+ref: espressif/esp32-s3-usb-bridge
+release_date: null
+sku: esp32-s3-usb-bridge
+spec: null
+status: ''
+vendor: espressif

@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: For industrial customers migrating from Compute Module 3 or Compute Module
+  3+
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/692d80437e77df1ce6cc3ee34cdffe1c/3f4ea/f9f6f1a2077642df08aaf872277c84c959d0867d_cm303.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/compute-module-4s/
+  repositories: []
+name: Compute Module 4S
+ref: raspberrypi/compute-module-4s
+release_date: null
+sku: compute-module-4s
+spec: null
+status: ''
+vendor: raspberrypi

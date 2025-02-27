@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: LoRaWAN Analog Sensor
+extra:
+  1 x 0~20mA input: ''
+  1 x 0~30v input: ''
+  5v and 12v output to power external sensor: ''
+  Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865
+  Battery: 8500mAh Li/SOCl2 Battery (PS-LB-NA), Solar panel + 3000mAh Li-ion battery
+    (PS-LS-NA)
+  Support Bluetooth: v5.1 and LoRaWAN remote configure
+  Support wireless OTA update firmware: ''
+  Ultra-low power consumption: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/aee44fc32e47f07b5fe3050745ad94ac_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lora-lorawan-end-node/item/258-ps-lb-ls-na.html
+  repositories: []
+name: PS-LB-NA
+ref: dragino/ps-lb-na
+release_date: null
+sku: ps-lb-na
+spec: null
+status: ''
+vendor: dragino

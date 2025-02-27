@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Breadboarding/RGB-LEDs/RGB-12-C50/images/thumbs/200x150/RGB-12-C50-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Breadboarding/RGB-LEDs/RGB-12-C50/
+  repositories: []
+name: RGB-12-C50
+ref: olimex/rgb-12-c50
+release_date: null
+sku: rgb-12-c50
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: AlphaBot, Raspberry Pi robot building kit
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/l/alphabot-20.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/alphabot-pi.htm
+  repositories: []
+name: AlphaBot-Pi (EN)
+ref: waveshare/alphabot-pi-en
+release_date: null
+sku: alphabot-pi-en
+spec: null
+status: Out of Stock
+vendor: waveshare

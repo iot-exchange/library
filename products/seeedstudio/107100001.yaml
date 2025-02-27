@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: reSpeaker 2-Mics Pi HAT V2.0 for Raspberry Pi - TLV320AIC3104 Audio Codec,
+  2 Analog Microphones, 3 APA102 RGB LEDs, 3.5mm Audio Jack, User Button, attached
+  with NLU software algorithms, VAD,DOA, KWS
+extra:
+  Audio Codec: TLV320AIC3104
+  Features: NLU software algorithms, VAD, DOA, KWS
+  Microphones: 2 Analog Microphones
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.seeedstudio.com/reSpeaker-2-Mics-Pi-HAT-V2-0-for-Raspberry-Pi-p-107100001.html
+  repositories: []
+name: '107100001'
+ref: seeedstudio/107100001
+release_date: null
+sku: '107100001'
+spec: null
+status: ''
+vendor: seeedstudio

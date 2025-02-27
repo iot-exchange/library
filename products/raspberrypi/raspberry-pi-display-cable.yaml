@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Shielded cable to connect a DSI display to the 22-way connector on Raspberry
+  Pi 5
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/ba2efda6cf68cc36ab6ce4fcd229b5ea/3f4ea/f89b8471-3058-4451-8aaa-49c26dc75e65_Display%2Bcable.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/display-cable/
+  repositories: []
+name: Raspberry Pi Display Cable
+ref: raspberrypi/raspberry-pi-display-cable
+release_date: null
+sku: raspberry-pi-display-cable
+spec: null
+status: ''
+vendor: raspberrypi

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/ServoMotors/MS-R-9.5-55-MG/images/thumbs/200x150/MS-R-9.5-55-MG.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/ServoMotors/MS-R-9-5-55-MG/
+  repositories: []
+name: MS-R-9-5-55-MG
+ref: olimex/ms-r-9-5-55-mg
+release_date: null
+sku: ms-r-9-5-55-mg
+spec: null
+status: ''
+vendor: olimex

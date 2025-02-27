@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Retro-Computers/BOX-CERBERUS2100/images/thumbs/200x150/box-cerberus2100-aw.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Retro-Computers/BOX-CERBERUS2100/open-source-hardware
+  repositories: []
+name: BOX-CERBERUS2100
+ref: olimex/box-cerberus2100
+release_date: null
+sku: box-cerberus2100
+spec: null
+status: ''
+vendor: olimex

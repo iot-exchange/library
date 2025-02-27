@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Up to 48 (North America)
+extra:
+  Dimensions (H x L): 5.08 x 25.4
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/AC4490-1X1.png
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/ramp-ism-modules/proprietary-900-mhz-modules/ac4490-1x1
+  repositories: []
+name: AC4490-1x1
+ref: ezurio/ac4490-1x1
+release_date: null
+sku: ac4490-1x1
+spec: null
+status: EOL
+vendor: ezurio

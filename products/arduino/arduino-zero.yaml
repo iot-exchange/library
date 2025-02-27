@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.arduino.cc/wiki/static/b4cbfd68b285e731408fd10c6b1fd79b/41099/zero.jpg
+  models: []
+  products:
+  - https://store.arduino.cc/products/arduino-zero
+  repositories: []
+name: Arduino Zero
+ref: arduino/arduino-zero
+release_date: null
+sku: arduino-zero
+spec: null
+status: ''
+vendor: arduino

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "296\xD7128, 2.9inch flexible E-Ink display HAT for Raspberry Pi"
+extra:
+  Price: $18.95 - $20.99
+  SKU: '16565'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.9inch-e-paper-hat-d-1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/2.9inch-e-paper-hat-d.htm
+  - "https://www.waveshare.com/product/2.9inch-e-paper-hat-d.htm \"296\xD7128, 2.9inch\
+    \ flexible E-Ink display HAT for Raspberry Pi\""
+  repositories: []
+name: 2.9inch e-Paper HAT (D)
+ref: waveshare/2-9inch-e-paper-hat-d
+release_date: null
+sku: 2-9inch-e-paper-hat-d
+spec: null
+status: ''
+vendor: waveshare

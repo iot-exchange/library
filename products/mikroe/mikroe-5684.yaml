@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: HW Monitor Click is a compact add-on board used to monitor and regulate
+  the performance of various hardware components within an embedded system. This board
+  features the LM96080, an I2C-configurable system hardware monitor from Texas Instruments
+  that contains a 10-bit delta-sigma ADC capable of measuring seven positive voltages
+  and local temperature. The...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/hw-monitor-click/hw-monitor-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/hw-monitor-click
+  repositories: []
+name: MIKROE-5684
+ref: mikroe/mikroe-5684
+release_date: null
+sku: mikroe-5684
+spec: null
+status: ''
+vendor: mikroe

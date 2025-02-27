@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Universal E-Paper Raw Panel Driver Shield (B) For Arduino, Onboard MX25R6435F
+  Flash Chip, Supports Expanding External RAM
+extra:
+  Price: $7.95 - $9.99
+  SKU: '26506'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/-/e-paper-shield-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/e-paper-shield-b.htm
+  repositories: []
+name: e-Paper Shield (B)
+ref: waveshare/e-paper-shield-b
+release_date: null
+sku: e-paper-shield-b
+spec: null
+status: ''
+vendor: waveshare

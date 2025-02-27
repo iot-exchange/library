@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "EasyPull Click is a compact add-on board designed to easily configure\
+  \ mikroBUS\u2122 signals into pull-up or pull-down states, perfect for various applications.\
+  \ It features a universal setup with 4.7k\u03A9 resistors to ensure stable performance\
+  \ across vital communication lines such as SPI, UART, I2C, and standard mikroBUS\u2122\
+  \ signals (AN, RST, PWM, INT). The board..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/easypull-click/easypull-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/easypull-click
+  repositories: []
+name: MIKROE-6053
+ref: mikroe/mikroe-6053
+release_date: null
+sku: mikroe-6053
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Micro HDMI to HDMI Multifunctional Adapter, Compatible with Raspberry
+  Pi 5 / 4B, Two Power Supply Methods, Supports Dual 4K Outputs
+extra:
+  SKU: '27009'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-connector-adapter-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pi5-connector-adapter.htm
+  repositories: []
+name: Pi5 Connector Adapter
+ref: waveshare/pi5-connector-adapter
+release_date: null
+sku: pi5-connector-adapter
+spec: null
+status: ''
+vendor: waveshare

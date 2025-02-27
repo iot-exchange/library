@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/HandTools/PGC-00SA/images/thumbs/200x150/PGC-00SA.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/HandTools/PGC-00SA/
+  repositories: []
+name: PGC-00SA
+ref: olimex/pgc-00sa
+release_date: null
+sku: pgc-00sa
+spec: null
+status: ''
+vendor: olimex

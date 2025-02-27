@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Waveshare ESP32-GEEK Development Board, Based On ESP32-S3R2 Controller
+  Chip, With 1.14inch 65K Color LCD, Supports WiFi & Bluetooth LE
+extra:
+  Price: $12.31 - $12.99
+  SKU: '26405'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/-/4-ch-rs485-to-eth-b-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-geek-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/esp32-s3-geek.htm
+  repositories: []
+name: ESP32-S3-GEEK
+ref: waveshare/esp32-s3-geek
+release_date: null
+sku: esp32-s3-geek
+spec: null
+status: ''
+vendor: waveshare

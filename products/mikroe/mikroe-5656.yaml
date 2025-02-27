@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "DIGI POT 12 Click is a compact add-on board that contains a digitally\
+  \ controlled potentiometer. This board features the AD5142A, a dual-channel, 256-position\
+  \ nonvolatile digital potentiometer from Analog Devices. On this Click board\u2122\
+  , two digitally I2C-controlled potentiometers are realized with end-to-end resistance\
+  \ of 10K\u03A9 and wiper resistance of only..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/digi-pot-12-click/digi-pot-12-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/digi-pot-12-click
+  repositories: []
+name: MIKROE-5656
+ref: mikroe/mikroe-5656
+release_date: null
+sku: mikroe-5656
+spec: null
+status: ''
+vendor: mikroe

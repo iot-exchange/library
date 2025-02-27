@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Current 11 Click is a compact add-on board for industrial and commercial
+  current-sensing applications. This board features the ACS37600K (ACS37600KOKATN-006B5-C),
+  a programmable linear Hall-effect sensor IC from Allegro Microsystems. This sensor
+  features a chopper-stabilized Hall-effect front-end for precise magnetic flux detection,
+  with a sensitivity of...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/current-11-click/current-11-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/current-11-click
+  repositories: []
+name: MIKROE-6166
+ref: mikroe/mikroe-6166
+release_date: null
+sku: mikroe-6166
+spec: null
+status: ''
+vendor: mikroe

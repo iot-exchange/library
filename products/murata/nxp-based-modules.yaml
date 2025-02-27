@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth/overview/nxp-based-modules
+  repositories: []
+name: NXP Based Modules
+ref: murata/nxp-based-modules
+release_date: null
+sku: nxp-based-modules
+spec: null
+status: ''
+vendor: murata

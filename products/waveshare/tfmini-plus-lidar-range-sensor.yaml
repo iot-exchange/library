@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: TFmini Plus Laser Ranging Sensor, 12m Ranging Distance, High Frame Rate,
+  Small Blind Zone, High Accuracy
+extra:
+  Price: $48.63 - $49.99
+  SKU: '24895'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/f/tfmini-plus-lidar-range-sensor-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/tfmini-plus-lidar-range-sensor.htm
+  repositories: []
+name: TFmini Plus LiDAR Range Sensor
+ref: waveshare/tfmini-plus-lidar-range-sensor
+release_date: null
+sku: tfmini-plus-lidar-range-sensor
+spec: null
+status: ''
+vendor: waveshare

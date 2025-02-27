@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  bulkPrice: 31.96 EUR
+  discountedPrice: 35.96 EUR
+  price: 39.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/MP3/MOD-MP3-X-BAT/images/thumbs/200x150/MOD-MP3-X-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/MP3/MOD-MP3-X-BAT/
+  repositories: []
+name: MOD-MP3-X-BAT
+ref: olimex/mod-mp3-x-bat
+release_date: null
+sku: mod-mp3-x-bat
+spec: null
+status: ''
+vendor: olimex

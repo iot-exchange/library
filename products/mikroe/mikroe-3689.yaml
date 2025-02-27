@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "Proximity 11 Click is a close-range proximity sensing Click board\u2122\
+  , equipped with the RPR-0521RS, a very accurate and power-efficient proximity and\
+  \ ambient Light Sensor with IrLED. It allows an accurate proximity detection for\
+  \ a maximum distance of 100mm. The proprietary LED current driving technique eliminates\
+  \ the need for calibration, simplifying the..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/proximity-11-click/proximity-11-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/proximity-11-click
+  - https://www.mikroe.com/shop?p=125#MIKROE-3689
+  repositories: []
+name: MIKROE-3689
+ref: mikroe/mikroe-3689
+release_date: null
+sku: mikroe-3689
+spec: null
+status: ''
+vendor: mikroe

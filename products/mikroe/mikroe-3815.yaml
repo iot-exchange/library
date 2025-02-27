@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "The GMR Angle Click is a Click board\u2122 that features the TLI5012B\
+  \ E1000, which is a pre-calibrated 360\xB0 angle sensor that detects the orientation\
+  \ of a magnetic field."
+extra:
+  discount: 35% OFF
+  originalPrice: $20.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gmr-angle-click/gmr-angle-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/gmr-angle-click
+  repositories: []
+name: MIKROE-3815
+ref: mikroe/mikroe-3815
+release_date: null
+sku: mikroe-3815
+spec: null
+status: Reduced price!
+vendor: mikroe

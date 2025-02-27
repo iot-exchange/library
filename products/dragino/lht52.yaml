@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: LoRaWAN Temperature & Humidity sensor Bands:EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
+  Support 2 x AAA batteries Monitor Internal Temperature, Humidity, and optional External
+  Temperature
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/ffb67c0cbdf3cc4dd2a13b69ce367cd4_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/temperature-humidity-sensor/item/199-lht52.html
+  repositories: []
+name: LHT52
+ref: dragino/lht52
+release_date: null
+sku: lht52
+spec: null
+status: ''
+vendor: dragino

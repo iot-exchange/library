@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: NB-IoT HAT for Raspberry Pi, for Europe, Asia, Africa, Australia
+extra:
+  Price: $19.31 - $19.99
+  SKU: '15936'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim7020e-nb-iot-hat-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/sim7020e-nb-iot-hat.htm "NB-IoT HAT for Raspberry Pi,
+    for Europe, Asia, Africa, Australia"
+  - https://www.waveshare.com/sim7020e-nb-iot-hat.htm
+  repositories: []
+name: SIM7020E NB-IoT HAT
+ref: waveshare/sim7020e-nb-iot-hat
+release_date: null
+sku: sim7020e-nb-iot-hat
+spec: null
+status: ''
+vendor: waveshare

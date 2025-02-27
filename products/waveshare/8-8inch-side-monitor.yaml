@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "8.8inch IPS Side Monitor, 480\xD71920, HDMI, HiFi Speaker, No Touch"
+extra:
+  Price: $94.27  -  $96.99
+  SKU: '20818'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/8/_/8.8inch-side-monitor-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/8/_/8.8inch-side-monitor-7.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/8.8inch-side-monitor.htm
+  - "https://www.waveshare.com/product/8.8inch-side-monitor.htm \"8.8inch IPS Side\
+    \ Monitor, 480\xD71920, HDMI, HiFi Speaker, No Touch\""
+  repositories: []
+name: 8.8inch Side Monitor
+ref: waveshare/8-8inch-side-monitor
+release_date: null
+sku: 8-8inch-side-monitor
+spec: null
+status: ''
+vendor: waveshare

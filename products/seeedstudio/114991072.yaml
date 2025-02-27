@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Note The updated version of this product is now available at Crazyflie-Z-ranger
+  v2 deck
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2017-09bazaar554717_3.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Crazyflie-2-0-Z-ranger-deck-board.html
+  repositories: []
+name: '114991072'
+ref: seeedstudio/114991072
+release_date: null
+sku: '114991072'
+spec: null
+status: ''
+vendor: seeedstudio

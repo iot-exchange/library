@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Why USB-PD Needs SurgeSwitch Protection
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://play.vidyard.com/oWXJMWwewRFgEYBiCT3uen.jpg?&play_button=1
+  models: []
+  products:
+  - ''
+  repositories: []
+name: USB-PD SurgeSwitch
+ref: semtech/usb-pd-surgeswitch
+release_date: null
+sku: usb-pd-surgeswitch
+spec: null
+status: ''
+vendor: semtech

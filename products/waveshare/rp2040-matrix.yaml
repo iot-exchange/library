@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "Waveshare RP2040-Matrix Development Board, Onboard 5\xD75 RGB LED Matrix,\
+  \ Based On Official RP2040 Dual Core Processor"
+extra:
+  Price: $7.31 - $7.99
+  SKU: '24594'
+  price: $7.31 - $7.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/f/tfmini-i-lidar-range-sensor-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-matrix-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rp2040-matrix.htm
+  repositories: []
+name: RP2040-Matrix
+ref: waveshare/rp2040-matrix
+release_date: null
+sku: rp2040-matrix
+spec: null
+status: ''
+vendor: waveshare

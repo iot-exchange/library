@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "Temp&Hum 22 Click is a compact add-on board representing temperature\
+  \ and humidity sensing solution. This board features the SHT41A, a 4th generation\
+  \ automotive-grade relative humidity and temperature sensor from Sensirion. The\
+  \ SHT41A is characterized by its high accuracy (\xB12% RH and \xB10.3\xB0C over\
+  \ a wide operating temperature range) and high resolution..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/temphum-22-click/temphum-22-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/temphum-22-click
+  - https://www.mikroe.com/cart?add=1&id_product=3417
+  repositories: []
+name: MIKROE-5310
+ref: mikroe/mikroe-5310
+release_date: null
+sku: mikroe-5310
+spec: null
+status: ''
+vendor: mikroe

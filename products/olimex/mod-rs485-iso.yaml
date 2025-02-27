@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  bulkPrice: 13.56 EUR
+  discountedPrice: 15.26 EUR
+  price: 16.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/Interface/MOD-RS485-ISO/images/thumbs/200x150/MOD-RS485-ISO-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/Interface/MOD-RS485-ISO/open-source-hardware
+  repositories: []
+name: MOD-RS485-ISO
+ref: olimex/mod-rs485-iso
+release_date: null
+sku: mod-rs485-iso
+spec: null
+status: ''
+vendor: olimex

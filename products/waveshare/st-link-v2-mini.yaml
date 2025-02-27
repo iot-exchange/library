@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ST-LINK/V2 (mini), STM Programmers & Debuggers
+extra:
+  Price: $8.31 - $8.99
+  SKU: '10053'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/st-link-v2-mini-1_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/st-link-v2-mini-stm32.htm
+  repositories: []
+name: ST-LINK/V2 (mini)
+ref: waveshare/st-link-v2-mini
+release_date: null
+sku: st-link-v2-mini
+spec: null
+status: ''
+vendor: waveshare

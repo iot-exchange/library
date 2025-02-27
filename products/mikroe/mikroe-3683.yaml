@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "eINK Click is an adapter Click board\u2122, used to interface a compatible\
+  \ eINK display with the host MCU. The most distinctive feature of the eINK displays\
+  \ is their very low power consumption and the ability to retain the information,\
+  \ even after disconnecting from the power source. The power is consumed only when\
+  \ the display content is changing."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/eink-click-without-display/eink-click-without-display-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/eink-click-without-display
+  repositories: []
+name: MIKROE-3683
+ref: mikroe/mikroe-3683
+release_date: null
+sku: mikroe-3683
+spec: null
+status: ''
+vendor: mikroe

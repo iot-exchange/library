@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC3350
+  repositories: []
+name: CC3350
+ref: ti/cc3350
+release_date: null
+sku: cc3350
+spec: null
+status: New
+vendor: ti

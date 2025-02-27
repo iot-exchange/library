@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: This is a USB 3.1 cable with USB Type C male connectors on both sides.
+  Cable comes with USB Type C Female to USB Type A Male adapter, making it compatible
+  with USB 2.0 and USB 3.0 host slots as well. Cable is 1.5 meters long and compatible
+  with the new 8th generation of Mikroe development tools.
+extra:
+  Price: $10.80
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/usb-c-to-usb-c-20-cable-with-adapter-to-usb-30-type-a-male/usb-c-to-usb-c-20-cable-with-adapter-to-usb-30-type-a-male-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/usb-c-to-usb-c-20-cable-with-adapter-to-usb-30-type-a-male
+  repositories: []
+name: MIKROE-3643
+ref: mikroe/mikroe-3643
+release_date: null
+sku: mikroe-3643
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: "An RS485 temp and humi sensor ranges from 0~100%RH and -40~80\u2103\
+  . Used in applications like smart city, smart agriculture, environmental monitoring,\
+  \ etc. with SenseCAP Data Logger for seamless data collection and management."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.seeedstudio.com/RS485-Temperature-and-Humidity-Sensor-p-5235.html
+  repositories: []
+name: '101990881'
+ref: seeedstudio/101990881
+release_date: null
+sku: '101990881'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 26.95 EUR
+  price2: 24.26 EUR
+  price3: 21.56 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Duino/Shields/SHIELD-LOL-10MM/images/thumbs/200x150/LOL-10MM-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Duino/Shields/SHIELD-LOL-10MM-BLUE-ASM/open-source-hardware
+  repositories: []
+name: SHIELD-LOL-10MM-BLUE-ASM
+ref: olimex/shield-lol-10mm-blue-asm
+release_date: null
+sku: shield-lol-10mm-blue-asm
+spec: null
+status: ''
+vendor: olimex

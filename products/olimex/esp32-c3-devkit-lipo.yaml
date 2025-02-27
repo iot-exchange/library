@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32-C3/ESP32-C3-DevKit-Lipo/images/thumbs/200x150/ESP32-C3-2.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/IoT/ESP32-C3/ESP32-C3-DevKit-Lipo/open-source-hardware
+  repositories: []
+name: ESP32-C3-DevKit-Lipo
+ref: olimex/esp32-c3-devkit-lipo
+release_date: null
+sku: esp32-c3-devkit-lipo
+spec: null
+status: ''
+vendor: olimex

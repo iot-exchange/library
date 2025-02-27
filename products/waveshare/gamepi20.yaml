@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: GamePi20, Mini Video Game Console Based on Raspberry Pi Zero
+extra:
+  Price: $57.95 - $59.99
+  SKU: '16866'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/a/gamepi20-7.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/gamepi20.htm
+  repositories: []
+name: GamePi20
+ref: waveshare/gamepi20
+release_date: null
+sku: gamepi20
+spec: null
+status: ''
+vendor: waveshare

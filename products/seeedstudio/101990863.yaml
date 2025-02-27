@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "An IP65 RS485 H2S Sensor measures the hydrogen sulfide concentration\
+  \ ranges - from 0~100ppm, air temperature(-40~85\u2103), and humidity(10~95%RH).\
+  \ Use in farming areas, industry areas and meteorological monitoring. Use the sensor\
+  \ with SenseCAP 4G Data Logger for seamless data collection and management."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101990862.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/RS485-H2S-Sensor-Connector-p-5114.html
+  repositories: []
+name: '101990863'
+ref: seeedstudio/101990863
+release_date: null
+sku: '101990863'
+spec: null
+status: ''
+vendor: seeedstudio

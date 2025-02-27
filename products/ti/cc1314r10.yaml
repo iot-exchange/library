@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC1314R10
+  repositories: []
+name: CC1314R10
+ref: ti/cc1314r10
+release_date: null
+sku: cc1314r10
+spec: null
+status: New
+vendor: ti

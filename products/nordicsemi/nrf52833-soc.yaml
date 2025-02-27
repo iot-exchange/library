@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: Bluetooth 5.4 SoC supporting Bluetooth Low Energy, Bluetooth mesh, Bluetooth
+  Direction Finding, NFC, Thread and Zigbee
+extra:
+  ADC: 12-bit ADC
+  CPU: 64 MHz Arm Cortex-M4 with FPU
+  Flash: 512 KB
+  Interfaces: UART, SPI, TWI, PDM, HS-SPI, I2S, PWM
+  RAM: 128 KB
+  Security: 128-bit AES CCM
+  TX Power: +8 dBm
+  USB: USB 2.0
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52833-WLCSP-3.175-x-3.175-stacked_web.png?h=250&iar=0&mh=250&w=254&hash=2B9361F9CBA6FF34492EB34D0412645A
+  models: []
+  products:
+  - https://www.nordicsemi.com/Products/nRF52833
+  repositories: []
+name: nRF52833 SoC
+ref: nordicsemi/nrf52833-soc
+release_date: null
+sku: nrf52833-soc
+spec: null
+status: ''
+vendor: nordicsemi

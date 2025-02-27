@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Evaluation Kit with Interface Board (2x), SX1233, 915MHz
+extra:
+  Chipset: SX1233
+  Region: North America
+  Type: Evaluation Kit
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.semtech.com/products/wireless-rf/frequency-shift-keying-fsk/sx1233-33ska915
+  repositories: []
+name: SX1233-33SKA915
+ref: semtech/sx1233-33ska915
+release_date: null
+sku: sx1233-33ska915
+spec: null
+status: ''
+vendor: semtech

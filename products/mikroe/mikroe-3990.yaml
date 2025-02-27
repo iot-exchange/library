@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "The Ambient 11 Click is a Click board\u2122 equipped with the VEML6035,\
+  \ a low power, high sensitivity, I2C ambient light sensor from Vishay Semiconductors.\
+  \ Because of the possibilities its features offer, the Ambient 11 Click can be used\
+  \ as an ambient light sensor for mobile devices, industrial lighting operation,\
+  \ and as an optical switch for consumer,..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ambient-11-click/ambient-11-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ambient-11-click
+  repositories: []
+name: MIKROE-3990
+ref: mikroe/mikroe-3990
+release_date: null
+sku: mikroe-3990
+spec: null
+status: ''
+vendor: mikroe

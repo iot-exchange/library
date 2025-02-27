@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/PIC/Proto/PIC-P26J50/images/thumbs/200x150/PIC-P26J50-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/PIC/Proto/PIC-P26J50/
+  repositories: []
+name: PIC-P26J50
+ref: olimex/pic-p26j50
+release_date: null
+sku: pic-p26j50
+spec: null
+status: ''
+vendor: olimex

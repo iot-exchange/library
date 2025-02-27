@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Power Over Ethernet HAT (F) For Raspberry Pi 5 / CM 5, High Power, Onboard
+  Cooling Fan, With Metal Heatsink, Supports 802.3af/at network standard
+extra:
+  Price: $20.63 - $21.99
+  SKU: '26399'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/o/poe-hat-f-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/poe-hat-f.htm
+  repositories: []
+name: PoE HAT (F)
+ref: waveshare/poe-hat-f
+release_date: null
+sku: poe-hat-f
+spec: null
+status: ''
+vendor: waveshare

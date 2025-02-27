@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Ambient 21 Click is a compact add-on board used to measure the amount
+  ambient light present. This board features ams AG's TSL2591, a very-high sensitivity
+  light-to-digital converter that transforms light intensity to a digital signal output
+  that can be directly communicated via a I2C interface. It combines one broadband
+  photodiode (visible plus infrared)...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ambient-21-click/ambient-21-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ambient-21-click
+  repositories: []
+name: MIKROE-5529
+ref: mikroe/mikroe-5529
+release_date: null
+sku: mikroe-5529
+spec: null
+status: ''
+vendor: mikroe

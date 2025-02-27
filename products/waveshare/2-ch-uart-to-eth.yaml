@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: 2-CH UART To Ethernet Converter, Serial Port Transparent Transmission
+  Module
+extra:
+  Price: $11.63 - $12.99
+  SKU: '20655'
+  price: $11.63 - $12.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/-/2-ch-uart-to-eth-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/2-ch-uart-to-eth.htm
+  repositories: []
+name: 2-CH UART TO ETH
+ref: waveshare/2-ch-uart-to-eth
+release_date: null
+sku: 2-ch-uart-to-eth
+spec: null
+status: ''
+vendor: waveshare

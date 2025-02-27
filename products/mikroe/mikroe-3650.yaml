@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Charger 11 Click is a LiFePO4 (lithium iron phosphate) battery charger.
+  This click can be used for Low-Cost LiFePO4 battery chargers, or Power Tools, toys,
+  backup energy storage solutions, etc. Charger 11 is based on MCP73123T controller
+  which has some extra features enabling charging without too much hassle. This click
+  board has charging current control...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/charger-11-click/charger-11-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/charger-11-click
+  repositories: []
+name: MIKROE-3650
+ref: mikroe/mikroe-3650
+release_date: null
+sku: mikroe-3650
+spec: null
+status: ''
+vendor: mikroe

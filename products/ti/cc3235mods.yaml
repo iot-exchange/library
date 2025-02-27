@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC3235MODS
+  repositories: []
+name: CC3235MODS
+ref: ti/cc3235mods
+release_date: null
+sku: cc3235mods
+spec: null
+status: ''
+vendor: ti

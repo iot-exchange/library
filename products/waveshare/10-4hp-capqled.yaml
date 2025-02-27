@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "10.4inch QLED Quantum Dot Display, Capacitive Touch, High Brightness,\
+  \ 1600\xD7720, Optical Bonding Toughened Glass Panel, HDMI Interface"
+extra:
+  Price: $109.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.4hp-capqled-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/10.4hp-capqled.htm
+  repositories: []
+name: 10.4hp_capqled
+ref: waveshare/10-4hp-capqled
+release_date: null
+sku: 10-4hp-capqled
+spec: null
+status: ''
+vendor: waveshare

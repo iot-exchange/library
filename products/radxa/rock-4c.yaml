@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: A High Compatibility SBC with Dual Display and 4K
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/rock4/rock4c+/thumb_rock4c+.webp
+  models: []
+  products:
+  - https://radxa.com/products/rock4/4cp
+  repositories: []
+name: ROCK 4C+
+ref: radxa/rock-4c
+release_date: null
+sku: rock-4c
+spec: null
+status: ''
+vendor: radxa

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: The 1.69-inch LCD Display Module boasts a remarkable 240x280 resolution
+  and a vibrant spectrum of 262K colors. With its IPS technology, the display ensures
+  clear and colorful visuals.
+extra:
+  price: $11.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-104990802-1.69inch-240_280-resolution-ips-lcd-display-module-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/1-69inch-240-280-Resolution-IPS-LCD-Display-Module-p-5755.html
+  - https://www.seeedstudio.com/1-47inch-172x320-Resolution-LCD-Display-Module-p-5756.html
+  repositories: []
+name: '104990802'
+ref: seeedstudio/104990802
+release_date: null
+sku: '104990802'
+spec: null
+status: ''
+vendor: seeedstudio

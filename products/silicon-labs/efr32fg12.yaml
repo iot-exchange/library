@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: EFR32FG12 wireless solutions combine an energy-friendly microcontroller
+  (MCU) with a highly integrated radio transceiver supporting sub-GHz and 2.4 GHz
+  proprietary wireless protocols and proprietary modulation schemes including OOK,
+  shaped FSK, shaped OQPSK with DSSS, with and without FEC. Our solution provides
+  industry-leading energy efficiency, ultra-fast wakeup times, a scalable power amplifier,
+  an integrated 2.4 GHz balun and extensive MCU features. The devices are well suited
+  for any battery-operated application and other systems requiring high performance
+  and low energy consumption.
+extra:
+  Flash: 512 - 1024 kB
+  MCU core: ARM Cortex-M4
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/proprietary/efr32fg12-series-1-sub-ghz-2-4-ghz-socs
+  - https://wi-sun.org/product/wsa0258-efr32fg12/
+  repositories: []
+name: EFR32FG12
+ref: silicon-labs/efr32fg12
+release_date: null
+sku: efr32fg12
+spec: null
+status: ''
+vendor: silicon-labs

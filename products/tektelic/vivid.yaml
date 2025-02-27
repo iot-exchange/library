@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: "LORAWAN\xAE PIR SMART ROOM SENSOR"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://tektelic.com/wp-content/uploads/VIVID-2000x2000-ISO.png
+  models: []
+  products:
+  - https://tektelic.com/products/sensors/vivid-pir-smart-room-sensor/
+  repositories: []
+name: VIVID
+ref: tektelic/vivid
+release_date: null
+sku: vivid
+spec: null
+status: ''
+vendor: tektelic

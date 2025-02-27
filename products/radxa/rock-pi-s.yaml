@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Small in size, full in features
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/rockpi/pis/thumb_rock_pi_s.webp
+  models: []
+  products:
+  - https://radxa.com/products/rockpi/pis
+  repositories: []
+name: ROCK Pi S
+ref: radxa/rock-pi-s
+release_date: null
+sku: rock-pi-s
+spec: null
+status: ''
+vendor: radxa

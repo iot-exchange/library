@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Ultra-compact, low-power narrowband (NB-IoT) industrial module series
+  with GNSS capability
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.st.com/en/wireless-connectivity/st87m01.html
+  repositories: []
+name: ST87M01
+ref: st/st87m01
+release_date: null
+sku: st87m01
+spec: null
+status: ''
+vendor: st

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: GNSS RTK Click is a compact add-on board used to enhance the precision
+  of position data derived from satellite-based positioning systems. This board features
+  the ZED-F9P, a multi-band GNSS module with integrated multi-band Real Time Kinematics
+  (RTK) technology offering centimeter-level accuracy from U-blox. This module concurrently
+  uses GNSS signals from...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gnss-rtk-click/gnss-rtk-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/gnss-rtk-click
+  repositories: []
+name: MIKROE-4456
+ref: mikroe/mikroe-4456
+release_date: null
+sku: mikroe-4456
+spec: null
+status: ''
+vendor: mikroe

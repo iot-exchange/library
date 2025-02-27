@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: 'Wio Terminal LoRaWAN Field Tester Kit: Plug and Play LongFi Network
+  Monitor for Helium Network'
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/w/i/wioterminal-lora-feature-1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/WioField-Tester-Kit-p-5282.html
+  repositories: []
+name: '114992777'
+ref: seeedstudio/114992777
+release_date: null
+sku: '114992777'
+spec: null
+status: ''
+vendor: seeedstudio

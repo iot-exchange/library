@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: SOT6 TO DIP6 (B), Programmer Adapter
+extra:
+  Price: $33.99 - $36.99
+  SKU: '3811'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/o/sot6-to-dip6-b_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/sot6-to-dip6-b.htm
+  repositories: []
+name: SOT6 TO DIP6 (B)
+ref: waveshare/sot6-to-dip6-b
+release_date: null
+sku: sot6-to-dip6-b
+spec: null
+status: ''
+vendor: waveshare

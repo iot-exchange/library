@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Pack of 10 pcs
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Fasteners/NUT-DIN985-M3/images/thumbs/200x150/din985.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Fasteners/NUT-DIN985-M3/
+  repositories: []
+name: NUT-DIN985-M3
+ref: olimex/nut-din985-m3
+release_date: null
+sku: nut-din985-m3
+spec: null
+status: ''
+vendor: olimex

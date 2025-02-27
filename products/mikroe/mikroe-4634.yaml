@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: MR Angle Click is a compact add-on board that contains a magnetoresistive
+  sensor with an integrated amplifier. This board features the KMZ60, a high precision
+  sensor for magnetic angle measurement with single-ended cosine and sine outputs
+  from NXP Semiconductors.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mr-angle-click/mr-angle-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/mr-angle-click
+  repositories: []
+name: MIKROE-4634
+ref: mikroe/mikroe-4634
+release_date: null
+sku: mikroe-4634
+spec: null
+status: ''
+vendor: mikroe

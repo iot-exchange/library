@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/02/TC_ELS63_dynamic-347x200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/els63/
+  repositories: []
+name: ELS63
+ref: telit/els63
+release_date: null
+sku: els63
+spec: null
+status: ''
+vendor: telit

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%201000'%3E%3C/svg%3E
+  models: []
+  products:
+  - https://tektelic.com/products/gateways/kona-micro-lite-iot-gateway/
+  repositories: []
+name: KONA MICRO LITE GATEWAY
+ref: tektelic/kona-micro-lite-gateway
+release_date: null
+sku: kona-micro-lite-gateway
+spec: null
+status: ''
+vendor: tektelic

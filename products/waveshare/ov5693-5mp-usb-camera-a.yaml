@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: OV5693 5MP USB Camera, Fixed-focus, Auto Focusing, M12 Camera Module
+extra:
+  SKU: '24710'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/v/ov5693-5mp-usb-camera-a-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ov5693-5mp-usb-camera-a.htm
+  repositories: []
+name: OV5693 5MP USB Camera (A)
+ref: waveshare/ov5693-5mp-usb-camera-a
+release_date: null
+sku: ov5693-5mp-usb-camera-a
+spec: null
+status: ''
+vendor: waveshare

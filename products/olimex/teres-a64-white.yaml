@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/KITS/TERES-A64-WHITE/images/thumbs/200x150/laptop-10.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/DIY-Laptop/KITS/TERES-A64-WHITE/open-source-hardware
+  repositories: []
+name: TERES-A64-WHITE
+ref: olimex/teres-a64-white
+release_date: null
+sku: teres-a64-white
+spec: null
+status: ''
+vendor: olimex

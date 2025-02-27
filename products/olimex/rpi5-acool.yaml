@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/RaspberryPi/RPi5-ACOOL/images/thumbs/200x150/RPi5-ACOOL4w.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/RaspberryPi/RPi5-ACOOL/
+  repositories: []
+name: RPi5-ACOOL
+ref: olimex/rpi5-acool
+release_date: null
+sku: rpi5-acool
+spec: null
+status: ''
+vendor: olimex

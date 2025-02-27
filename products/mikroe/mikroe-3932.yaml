@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LPCXpresso Click Shield Expand functionalities of your boards Xpressly
+  LPCXpresso Click Shield designed to support multiple NXP development platforms which
+  use Arduino connector and equip them with two mikroBUS sockets. Start your development
+  with ease on LPCXpresso platform and get immediate access to hundreds of Click boards
+  in our offer.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lpcxpresso-click-shield/lpcxpresso-click-shield-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=115#LPCXpresso-Click-Shield
+  repositories: []
+name: MIKROE-3932
+ref: mikroe/mikroe-3932
+release_date: null
+sku: mikroe-3932
+spec: null
+status: ''
+vendor: mikroe

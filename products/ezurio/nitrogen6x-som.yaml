@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Chipset (MPU) NXP i.MX 6 (Single, Dual Lite, Dual, Quad, Quad PLUS)
+extra:
+  Dimensions (L x W): 57 x 63.5
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2023-01/Nitrogen6-SOM-Transparent.png
+  models: []
+  products:
+  - https://www.ezurio.com/system-on-module/nxp-imx6/nitrogen6-som
+  repositories: []
+name: Nitrogen6X SOM
+ref: ezurio/nitrogen6x-som
+release_date: null
+sku: nitrogen6x-som
+spec: null
+status: Active
+vendor: ezurio

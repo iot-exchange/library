@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Capacitive Fingerprint Reader
+extra:
+  Price: $35.63 - $36.99
+  SKU: '13694'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/a/capacitive-fingerprint-reader-3_3.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/a/capacitive-fingerprint-reader-1_3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/capacitive-fingerprint-reader.htm
+  repositories: []
+name: Capacitive Fingerprint Reader
+ref: waveshare/capacitive-fingerprint-reader
+release_date: null
+sku: capacitive-fingerprint-reader
+spec: null
+status: ''
+vendor: waveshare

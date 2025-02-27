@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: HW Monitor 3 Click is a compact add-on board designed for precise voltage
+  monitoring and supervision in critical systems. This board features the TPS389006,
+  a six-channel window voltage supervisor IC from Texas Instruments.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/hw-monitor-3-click/hw-monitor-3-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/temp-iso-click/temp-iso-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/temp-iso-click
+  - https://www.mikroe.com/cart?add=1&id_product=4057
+  - https://www.mikroe.com/hw-monitor-3-click
+  repositories: []
+name: MIKROE-6346
+ref: mikroe/mikroe-6346
+release_date: null
+sku: mikroe-6346
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: MX1.25 4Pin To USB Cable, USB Type-A Female Port, Approx. 30cm Total
+  Length
+extra:
+  Price Range: $1.02 - $1.19
+  SKU: '29663'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/x/mx1.25-4p-to-usb-cable-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/mx1.25-4p-to-usb-cable.htm
+  repositories: []
+name: MX1.25-4P To USB Cable
+ref: waveshare/mx1-25-4p-to-usb-cable
+release_date: null
+sku: mx1-25-4p-to-usb-cable
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Expand 15 Click is a compact add-on board that contains a multi-channel
+  I/O expander. This board features the TCAL6416, a general-purpose I/O expansion
+  for most microcontroller families from Texas Instruments. The TCAL6416 comes in
+  one P-port configuration and allows easy addition of I/O through a standard I2C
+  serial interface. P port is user-configurable...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/expand-15-click/expand-15-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/expand-15-click
+  repositories: []
+name: MIKROE-5679
+ref: mikroe/mikroe-5679
+release_date: null
+sku: mikroe-5679
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: "The world\u2019s first global Gigabit LTE mPCIe card."
+extra:
+  certifications: Certified to support deployments worldwide.
+  rf_front_ends: "Incorporates the industry\u2019s top-performing RF front-ends."
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: LM960
+ref: telit/lm960
+release_date: null
+sku: lm960
+spec: null
+status: ''
+vendor: telit

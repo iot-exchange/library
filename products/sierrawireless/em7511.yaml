@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Bands: 'LTE: B1, B2, B3, B4, B5, B7, B8, B9, B12, B13, B14, B18, B19, B20, B26,
+    B29, B30, B32, B41, B42, B43, B46, B48, B66'
+  Fallback: 3G
+  Region (Carrier): "Americas (AT&T \u2013 FirstNet, Verizon, Sprint, Telus, US Cellular,\
+    \ SouthernLINC, Rogers, T-Mobile)"
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.sierrawireless.com/iot-modules/4g-modules/em7511/
+  repositories: []
+name: EM7511
+ref: sierrawireless/em7511
+release_date: null
+sku: em7511
+spec: null
+status: ''
+vendor: sierrawireless

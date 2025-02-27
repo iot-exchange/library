@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 4.50 EUR
+  discountedPrice2: 4.00 EUR
+  price: 5.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Power/PWR-90-240V-3.3V1.5A/images/thumbs/200x150/PWR-220V-5V1A-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Power/PWR-90-240V-3.3V1.5A/
+  repositories: []
+name: PWR-90-240V-3.3V1.5A
+ref: olimex/pwr-90-240v-3-3v1-5a
+release_date: null
+sku: pwr-90-240v-3-3v1-5a
+spec: null
+status: ''
+vendor: olimex

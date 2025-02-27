@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/IC/SY7208/images/thumbs/200x150/SY.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/IC/SY7208/
+  repositories: []
+name: Pack of 10 pcs SY7208
+ref: olimex/pack-of-10-pcs-sy7208
+release_date: null
+sku: pack-of-10-pcs-sy7208
+spec: null
+status: ''
+vendor: olimex

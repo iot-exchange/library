@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "Current 10 Click is a compact add-on board designed for reliable current\
+  \ measurements. This board features the CT455, an XtremeSense\u2122 TMR coreless\
+  \ current sensor from Allegro Microsystems."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/current-10-click/current-10-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/current-10-click
+  repositories: []
+name: MIKROE-6385
+ref: mikroe/mikroe-6385
+release_date: null
+sku: mikroe-6385
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 22.95 EUR
+  price2: 20.66 EUR
+  price3: 18.36 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Duino/Shields/SHIELD-LOL-5MM/images/thumbs/200x150/LOL-5MM-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Duino/Shields/SHIELD-LOL-5MM-GREEN-ASM/open-source-hardware
+  repositories: []
+name: SHIELD-LOL-5MM-GREEN-ASM
+ref: olimex/shield-lol-5mm-green-asm
+release_date: null
+sku: shield-lol-5mm-green-asm
+spec: null
+status: ''
+vendor: olimex

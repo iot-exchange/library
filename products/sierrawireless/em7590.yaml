@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: 4G LTE Advanced Pro (Cat-13)
+extra:
+  Bands: 'LTE: B1, B2, B3, B4, B5, B7, B8, B9, B12, B13, B14, B18, B19, B20, B25,
+    B26, B28, B29, B32, B38, B39, B40, B41, B42, B43, B48, B66, B71, B106*'
+  Fallback: 3G
+  Region (Carrier): 'Global (AT&T (FirstNet), Verizon, T-Mobile, SouthernLINC, Orange,
+    Telstra, Planned: NTT Docomo, Anterix)'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.sierrawireless.com/iot-modules/4g-modules/em7590/
+  repositories: []
+name: EM7590
+ref: sierrawireless/em7590
+release_date: null
+sku: em7590
+spec: null
+status: ''
+vendor: sierrawireless

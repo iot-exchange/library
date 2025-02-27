@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Cellular LPWA solution for IoT applications.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.telit.com/blog/nb-iot-lte-m-cellular-iot-for-5g-world/
+  repositories: []
+name: LTE-M
+ref: telit/lte-m
+release_date: null
+sku: lte-m
+spec: null
+status: ''
+vendor: telit

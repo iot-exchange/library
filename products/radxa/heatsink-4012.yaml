@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Compatible with ROCK 3B / 5B / 5B+
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/heatsink/ae004/thumb_heatsink_4012.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/heatsink-4012
+  repositories: []
+name: Heatsink 4012
+ref: radxa/heatsink-4012
+release_date: null
+sku: heatsink-4012
+spec: null
+status: ''
+vendor: radxa

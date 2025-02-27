@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "3.5inch Capacitive Touch Screen LCD For Raspberry Pi, 640\xD7480, DPI,\
+  \ IPS, Toughened Glass Cover, Low Power"
+extra:
+  Price: $28.29 - $29.99
+  SKU: '19173'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/_/3.5inch-dpi-lcd-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/3.5inch-dpi-lcd.htm
+  - "https://www.waveshare.com/product/3.5inch-dpi-lcd.htm \"3.5inch Capacitive Touch\
+    \ Screen LCD For Raspberry Pi, 640\xD7480, DPI, IPS, Toughened Glass Cover, Low\
+    \ Power\""
+  repositories: []
+name: 3.5inch DPI LCD
+ref: waveshare/3-5inch-dpi-lcd
+release_date: null
+sku: 3-5inch-dpi-lcd
+spec: null
+status: ''
+vendor: waveshare

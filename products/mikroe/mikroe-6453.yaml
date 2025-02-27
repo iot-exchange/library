@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: NFC 7 Click - I2C is an add-on board that integrates NFC functionality
+  in various applications. This board features the PN7160 (PN7160A1HN/C100), a Near
+  Field Communication (NFC) controller from NXP that is compliant with NFC Forum and
+  NCI 2.0 standards. The board features an I2C communication interface, low-power
+  consumption modes, and a new-generation...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/nfc-7-click-i2c/nfc-7-click-i2c-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/nfc-7-click-i2c
+  repositories: []
+name: MIKROE-6453
+ref: mikroe/mikroe-6453
+release_date: null
+sku: mikroe-6453
+spec: null
+status: ''
+vendor: mikroe

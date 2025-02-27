@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Ultra Low Power (3mA RX) RF Transceiver 310-510MHz
+extra:
+  Data Rates (kbps): 0.78 - 150
+  Frequency Range (MHz): 300 - 510
+  Link Budget (dB): '122'
+  Rx Current (mA): '3'
+  Sensitivity (dBm): '-110'
+  Tx Power (dBm): '12.5'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.semtech.com/products/wireless-rf/frequency-shift-keying-fsk/sx1212
+  repositories: []
+name: SX1212
+ref: semtech/sx1212
+release_date: null
+sku: sx1212
+spec: null
+status: Active
+vendor: semtech

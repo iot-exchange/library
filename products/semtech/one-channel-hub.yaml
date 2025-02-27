@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: One-Channel Hub and ESP32 for 868MHz and 915MHz
+extra:
+  Product Applicability: SX1261, SX1262, SX1268, LR1110, LR1120, LR1121, LLCC68
+  Region: EU, NA
+  Type: Packet Forwarder
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.semtech.com/products/wireless-rf/lora-core/one-channel-hub
+  repositories: []
+name: One Channel Hub
+ref: semtech/one-channel-hub
+release_date: null
+sku: one-channel-hub
+spec: null
+status: ''
+vendor: semtech

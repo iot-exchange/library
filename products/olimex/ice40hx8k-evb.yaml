@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/FPGA/iCE40/iCE40HX8K-EVB/images/thumbs/200x150/iCE40HX8K-EVB.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/FPGA/iCE40/iCE40HX8K-EVB/open-source-hardware
+  repositories: []
+name: iCE40HX8K-EVB
+ref: olimex/ice40hx8k-evb
+release_date: null
+sku: ice40hx8k-evb
+spec: null
+status: ''
+vendor: olimex

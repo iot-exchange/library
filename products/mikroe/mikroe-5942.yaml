@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Red Pitaya Click Shield Enrich your future projects with Red Pitaya\
+  \ and your favorite Click boards\u2122 Elevate your engineering and programming\
+  \ with the Red Pitaya Click Shield! Seamlessly integrate the Red Pitaya board with\
+  \ our extensive Click board\u2122 library via mikroBUS\u2122 sockets to unlock limitless\
+  \ potential from a single host board."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/red-pitaya-click-shield/red-pitaya-click-shield-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/red-pitaya-click-shield
+  repositories: []
+name: MIKROE-5942
+ref: mikroe/mikroe-5942
+release_date: null
+sku: mikroe-5942
+spec: null
+status: ''
+vendor: mikroe

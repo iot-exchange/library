@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: USB 2.0 Micro Female to USB Type C Male Adapter represents a high-speed
+  type C connector that converts the USB-C 2.0 micro head data into the ordinary USB
+  2.0 data cable. It has a data transfer rate of up to 480Mbps and supports high-power
+  charging and quick data transfer alongside a reversible plug orientation and cable
+  direction. Based on its compact...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/adapter-usb-micro-female-to-usb-c-male/adapter-usb-micro-female-to-usb-c-male-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/adapter-usb-micro-female-to-usb-c-male
+  repositories: []
+name: MIKROE-5277
+ref: mikroe/mikroe-5277
+release_date: null
+sku: mikroe-5277
+spec: null
+status: ''
+vendor: mikroe

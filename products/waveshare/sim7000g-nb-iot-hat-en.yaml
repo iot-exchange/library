@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: SIM7000G NB-IoT / Cat-M / EDGE / GPRS HAT for Raspberry Pi, GNSS, Global
+  Band Support
+extra:
+  Price: $35.29 - $36.99
+  SKU: '20681'
+  price: $35.29 - $36.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim7000g-nb-iot-hat-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/sim7000g-nb-iot-hat.htm
+  repositories: []
+name: SIM7000G NB-IoT HAT (EN)
+ref: waveshare/sim7000g-nb-iot-hat-en
+release_date: null
+sku: sim7000g-nb-iot-hat-en
+spec: null
+status: ''
+vendor: waveshare

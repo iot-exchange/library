@@ -1,0 +1,35 @@
+alternatives: []
+certifications: []
+description: Zigbee and Thread EFR32MG12 Based Modules (Series 1)
+extra:
+  Flash (kB): '1024'
+  Frequency Bands (MHz): 2.4 GHz, Sub-GHz
+  GPIO: '25'
+  MCU Core: ARM Cortex-M4
+  Max Flash/RAM (kB): 1024/256
+  Output Power Range (dBm): -30 19
+  RAM (kB): '256'
+  RX Current (mA): '[8.4](https://www.silabs.com/wireless/zigbee/efr32mg12-series-1-socs?sl-l2attributefilterkey=sl:rxcurrent&sl-l2attributefiltervalue=8.4&sl-l2columnname=RX%20Current%20(mA)#device-table-with-filters),
+    [11](https://www.silabs.com/wireless/zigbee/efr32mg12-series-1-socs?sl-l2attributefilterkey=sl:rxcurrent&sl-l2attributefiltervalue=11&sl-l2columnname=RX%20Current%20(mA)#device-table-with-filters)'
+  RX Sensitivity (dBm): '-102'
+  "Secure Vault\u2122": Base
+  Security: AES-128, AES-256, ECC, SHA-1, SHA-2
+  TX Current (0 dBm): '8.5'
+  TX Current (mA) 0 dBm: '10'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/zigbee/efr32mg12-series-1-socs
+  - https://wi-sun.org/product/wsa0259-efr32mg12/
+  - https://www.silabs.com/wireless/zigbee/efr32mg12-series-1-modules
+  repositories: []
+name: EFR32MG12
+ref: silicon-labs/efr32mg12
+release_date: null
+sku: efr32mg12
+spec: null
+status: ''
+vendor: silicon-labs

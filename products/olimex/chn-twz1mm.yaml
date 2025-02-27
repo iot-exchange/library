@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 0.63 EUR
+  discountedPrice2: 0.56 EUR
+  price: 0.70 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/HandTools/CHN-TWZ1MM/images/thumbs/200x150/CHN-TWZ1MM.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/HandTools/CHN-TWZ1MM/
+  repositories: []
+name: CHN-TWZ1MM
+ref: olimex/chn-twz1mm
+release_date: null
+sku: chn-twz1mm
+spec: null
+status: ''
+vendor: olimex

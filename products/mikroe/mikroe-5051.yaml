@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Multi Stepper Click is a compact add-on board that contains a bipolar
+  stepper motor driver. This board features the TB67S261FTG, a PHASE-in controlled
+  bipolar stepping motor driver from Toshiba Semiconductor. It supports a PWM constant-current
+  control drive and full-, half-, and quarter-step operation for less motor noise
+  and smoother control. It has a...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/multi-stepper-click-tb67s261/multi-stepper-click-tb67s261-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=63#Multi-Stepper-Click-TB67S261
+  - https://www.mikroe.com/cart?add=1&id_product=3296
+  repositories: []
+name: MIKROE-5051
+ref: mikroe/mikroe-5051
+release_date: null
+sku: mikroe-5051
+spec: null
+status: ''
+vendor: mikroe

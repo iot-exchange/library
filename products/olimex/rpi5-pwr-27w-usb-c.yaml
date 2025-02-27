@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/RaspberryPi/RPi5-PWR-27W-USB-C/images/thumbs/200x150/Rpi5-pwr-27w-2.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/RaspberryPi/RPi5-PWR-27W-USB-C/
+  repositories: []
+name: RPi5-PWR-27W-USB-C
+ref: olimex/rpi5-pwr-27w-usb-c
+release_date: null
+sku: rpi5-pwr-27w-usb-c
+spec: null
+status: ''
+vendor: olimex

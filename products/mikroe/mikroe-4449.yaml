@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Charger 3 Click is a compact add-on board that represents a standalone
+  battery charger with thermal regulation. This board features the TP4056, a complete
+  constant-current/constant-voltage linear charger for single-cell lithium-ion batteries
+  from NanJing Top Power ASIC Corp. The charge voltage of the TP4056 is specified
+  at 4.2V with the charge current...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/charger-3-click/charger-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/charger-3-click
+  repositories: []
+name: MIKROE-4449
+ref: mikroe/mikroe-4449
+release_date: null
+sku: mikroe-4449
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: I2C to SPI Click is an all-in-one solution which allows serving as an
+  interface between a standard I2C-bus of a microcontroller and an SPI bus, which
+  allows the microcontroller to communicate directly with SPI devices through its
+  I2C-bus. It is equipped with the stacking headers, so it can be easily connected.
+  By offering an I2C-bus slave-transmitter or...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/i2c-to-spi-click/i2c-to-spi-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/i2c-to-spi-click
+  repositories: []
+name: MIKROE-3743
+ref: mikroe/mikroe-3743
+release_date: null
+sku: mikroe-3743
+spec: null
+status: ''
+vendor: mikroe

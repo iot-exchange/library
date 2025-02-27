@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  bulkPrice: 4.76 EUR
+  discountedPrice: 5.36 EUR
+  price: 5.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/LED/MOD-RGB/images/thumbs/200x150/MOD-RGB-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/LED/MOD-RGB/open-source-hardware
+  repositories: []
+name: MOD-RGB
+ref: olimex/mod-rgb
+release_date: null
+sku: mod-rgb
+spec: null
+status: ''
+vendor: olimex

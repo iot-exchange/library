@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 5G DONGLE Expansion Board, USB 3.2 Port, Aluminum Alloy Case, Quad Antennas,
+  Onboard M.2 Key B Interface, Options For 5G Module
+extra:
+  Multi Options: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-3.2-gen1-5g-dongle-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/usb-3.2-gen1-5g-dongle.htm
+  repositories: []
+name: USB 3.2 Gen1 5G DONGLE
+ref: waveshare/usb-3-2-gen1-5g-dongle
+release_date: null
+sku: usb-3-2-gen1-5g-dongle
+spec: null
+status: ''
+vendor: waveshare

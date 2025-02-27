@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: OAK-D-POE Development Kit with PoE Feature, OpenCV AI Machine Vision
+  Kit, IP67 Waterproof
+extra:
+  Price: $456.59 - $459.99
+  SKU: '21086'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/a/oak-d-poe-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/oak-d-poe.htm
+  repositories: []
+name: OAK-D-POE
+ref: waveshare/oak-d-poe
+release_date: null
+sku: oak-d-poe
+spec: null
+status: ''
+vendor: waveshare

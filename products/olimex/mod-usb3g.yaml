@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/USB-Modules/MOD-USB3G/images/thumbs/200x150/MOD-USB3G-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/USB-Modules/MOD-USB3G/
+  repositories: []
+name: MOD-USB3G
+ref: olimex/mod-usb3g
+release_date: null
+sku: mod-usb3g
+spec: null
+status: ''
+vendor: olimex

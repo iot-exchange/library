@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Magneto 10 Click is a compact add-on board that contains a 3D magnetometer.
+  This board features the MLX90392, a +/-5mT range magnetometer for low-noise applications
+  from Melexis Technologies. The MLX90392, specially designed for micropower applications,
+  measures magnetic fields along the three axes (X, Y being in a plane parallel to
+  the surface of the...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/magneto-10-click/magneto-10-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/magneto-10-click
+  repositories: []
+name: MIKROE-4866
+ref: mikroe/mikroe-4866
+release_date: null
+sku: mikroe-4866
+spec: null
+status: ''
+vendor: mikroe

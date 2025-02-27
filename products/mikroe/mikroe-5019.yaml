@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "BATT-MON 2 Click is a compact add-on board representing a battery monitoring\
+  \ solution. This board features the MAX17262 from Analog Device, an ultra-low power\
+  \ I2C-configurable fuel-gauge IC with implemented ModelGauge\u2122 m5 algorithm.\
+  \ The MAX17262 monitors a single-cell battery pack (best performance for batteries\
+  \ with 100mAhr to 6Ahr capacity), providing..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/batt-mon-2-click/batt-mon-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/batt-mon-2-click
+  repositories: []
+name: MIKROE-5019
+ref: mikroe/mikroe-5019
+release_date: null
+sku: mikroe-5019
+spec: null
+status: ''
+vendor: mikroe

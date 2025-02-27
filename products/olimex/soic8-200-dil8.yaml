@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Connectors/SOIC8-200-DIL8/images/thumbs/200x150/SOIC8-200-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Connectors/SOIC8-200-DIL8/
+  repositories: []
+name: SOIC8-200-DIL8
+ref: olimex/soic8-200-dil8
+release_date: null
+sku: soic8-200-dil8
+spec: null
+status: ''
+vendor: olimex

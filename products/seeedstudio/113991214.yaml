@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: The LTE Cat 4 EC25-EFA-mini-PCIe is a Mini PCIe module that supports
+  LTE-FDD and WCDMA mobile communication technologies and integrates multiple GNSS
+  receivers for faster and more accurate positioning. All of these make it suitable
+  for M2M and IoT applications.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-113991214-lte-cat4-ec25-efa-mini-pcie-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/LTE-Cat-4-EC25-EFA-mini-PCIe-p-5824.html
+  - https://www.seeedstudio.com/Raspberry-Pi-2246.html?bazaar4_retailer-products%5Bpage%5D=2#113991214
+  repositories: []
+name: '113991214'
+ref: seeedstudio/113991214
+release_date: null
+sku: '113991214'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "UVC Click is an ultraviolet sensing board which complements UVC Light\
+  \ Click for a ultimate ultraviolet solution. The board is based on GUVC-T21GH ultraviolet\
+  \ sensor from GenUV, capable of measuring UVC spectrum in the range of 220nm up\
+  \ to 280nm and light intensity from 0mW/cm\xB2 up to 9.3mW/cm\xB2. With high sensitivity\
+  \ and good solar blindness, it can be a..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/uvc-click/uvc-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/uvc-click
+  repositories: []
+name: MIKROE-4144
+ref: mikroe/mikroe-4144
+release_date: null
+sku: mikroe-4144
+spec: null
+status: ''
+vendor: mikroe

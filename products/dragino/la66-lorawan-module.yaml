@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: LoRaWAN or Peer to Peer LoRa ProtocolMCU +SX1262 SoCSmall Size, Low Power
+  ConsumptionStable / Mature LoRaWAN StackAvailable in different frequency LoRaWAN
+  frequency bandsSMD Antenna pad and i-pex antenna connector
+extra:
+  Power Consumption: Low
+  Protocol: LoRaWAN or Peer to Peer
+  Size: Small
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/f7b9be29873ad525695063e6e748eae3_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lora/item/230-la66-lorawan-module.html
+  repositories: []
+name: LA66 LoRaWAN Module
+ref: dragino/la66-lorawan-module
+release_date: null
+sku: la66-lorawan-module
+spec: null
+status: ''
+vendor: dragino

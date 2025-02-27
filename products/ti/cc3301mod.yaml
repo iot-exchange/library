@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC3301MOD
+  repositories: []
+name: CC3301MOD
+ref: ti/cc3301mod
+release_date: null
+sku: cc3301mod
+spec: null
+status: New
+vendor: ti

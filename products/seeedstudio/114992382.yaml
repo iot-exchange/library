@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: USB Type-C Male to Female Extension Cable comes with a switch that can
+  be used to conveniently turn ON/OFF any device connected to the cable. Also, the
+  cable has a length of 28cm which makes it useful if you want the device to be far
+  away from the power source. It also can support currents up to 4A.
+extra:
+  current support: up to 4A
+  length: 28cm
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992382__front-05.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/Type-C-Extension-Cable-with-Switch-p-4734.html
+  repositories: []
+name: '114992382'
+ref: seeedstudio/114992382
+release_date: null
+sku: '114992382'
+spec: null
+status: ''
+vendor: seeedstudio

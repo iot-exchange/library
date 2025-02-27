@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: LoRaWAN Smart Distance Detector
+extra:
+  Alarm & Counting mode: ''
+  Built-in 2400mAh battery or power by external power source: ''
+  LiDAR distance detector: ''
+  LoRaWAN Class A protocol: ''
+  Periodically detect or continuously detect mode: ''
+  Range: 3 ~ 200cm
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/f5207093f4bafcb21c0c017e46b49f6e_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/distance-level-sensor/item/289-ds20l.html
+  repositories: []
+name: DS20L
+ref: dragino/ds20l
+release_date: null
+sku: ds20l
+spec: null
+status: ''
+vendor: dragino

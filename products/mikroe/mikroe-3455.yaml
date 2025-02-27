@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "Proximity 10 Click is a versatile proximity detection device on a Click\
+  \ board\u2122. It can detect a foreign object distanced up to 200cm. The Click board\u2122\
+  \ features a detection sensor IC that can trigger a programmable-event interrupts,\
+  \ which makes this Click board\u2122 capable of detecting even simple gesture movements."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/proximity-10-click/proximity-10-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=125#MIKROE-3455
+  repositories: []
+name: MIKROE-3455
+ref: mikroe/mikroe-3455
+release_date: null
+sku: mikroe-3455
+spec: null
+status: ''
+vendor: mikroe

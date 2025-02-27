@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: High Computations Smart Module Support Wi-Fi 6E & BT5.2
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://en.meigsmart.com/userfiles/images/2023/06/02/2023060216563803.png
+  models: []
+  products:
+  - https://en.meigsmart.com/productdetail/aicomputingmod930.html
+  repositories: []
+name: SNM930
+ref: meig-smart/snm930
+release_date: null
+sku: snm930
+spec: null
+status: ''
+vendor: meig-smart

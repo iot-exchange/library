@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Connectors/CON-USB3.0-PANEL/images/thumbs/200x150/CON-USB2.0-PANEL.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Connectors/CON-USB2-0-PANEL/
+  repositories: []
+name: CON-USB2-0-PANEL
+ref: olimex/con-usb2-0-panel
+release_date: null
+sku: con-usb2-0-panel
+spec: null
+status: ''
+vendor: olimex

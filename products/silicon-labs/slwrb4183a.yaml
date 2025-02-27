@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: EFR32xG22 Wireless Gecko 2.4 GHz +6 dBm, 4x4 QFN32 Radio Board
+extra:
+  MSRP: $29.00
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/slwrb4183a-efr32xg22-wireless-gecko-radio-board
+  repositories: []
+name: SLWRB4183A
+ref: silicon-labs/slwrb4183a
+release_date: null
+sku: slwrb4183a
+spec: null
+status: ''
+vendor: silicon-labs

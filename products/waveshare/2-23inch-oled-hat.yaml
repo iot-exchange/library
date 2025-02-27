@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "128\xD732, 2.23inch OLED display HAT for Raspberry Pi"
+extra:
+  Price: $14.97 - $15.99
+  SKU: '17009'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.23inch-oled-hat-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.23inch-oled-hat-8.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/2.23inch-oled-hat.htm
+  repositories: []
+name: 2.23inch OLED HAT
+ref: waveshare/2-23inch-oled-hat
+release_date: null
+sku: 2-23inch-oled-hat
+spec: null
+status: ''
+vendor: waveshare

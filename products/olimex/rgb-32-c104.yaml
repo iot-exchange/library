@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Breadboarding/RGB-LEDs/RGB-32-C104/images/thumbs/200x150/RGB-32-C104-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Breadboarding/RGB-LEDs/RGB-32-C104/
+  repositories: []
+name: RGB-32-C104
+ref: olimex/rgb-32-c104
+release_date: null
+sku: rgb-32-c104
+spec: null
+status: ''
+vendor: olimex

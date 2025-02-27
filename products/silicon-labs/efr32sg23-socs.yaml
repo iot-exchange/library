@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/amazon-sidewalk/efr32sg23-sub-ghz-wireless-socs
+  repositories: []
+name: EFR32SG23 SoCs
+ref: silicon-labs/efr32sg23-socs
+release_date: null
+sku: efr32sg23-socs
+spec: null
+status: ''
+vendor: silicon-labs

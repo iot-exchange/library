@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi 5, Options for 2GB/4GB/8GB/16GB RAM, BCM2712 processor,
+  2.4GHz quad-core 64-bit Arm Cortex-A76 CPU
+extra:
+  Price: $54.99 - $139.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-5-4gb-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/raspberry-pi-5.htm
+  repositories: []
+name: pi5
+ref: waveshare/pi5
+release_date: null
+sku: pi5
+spec: null
+status: ''
+vendor: waveshare

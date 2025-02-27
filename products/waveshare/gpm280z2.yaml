@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: GPM280 Portable game console based on Raspberry Pi Zero 2 W (optional),
+  WiFi
+extra:
+  options: Multi Options
+  price: $69.99 - $99.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/p/gpm280z20-2.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/p/gpm280z20-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/gpm280z2.htm
+  repositories: []
+name: gpm280z2
+ref: waveshare/gpm280z2
+release_date: null
+sku: gpm280z2
+spec: null
+status: ''
+vendor: waveshare

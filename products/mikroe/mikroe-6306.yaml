@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "IR Grid 4 Click is a compact add-on board for high-precision, non-contact\
+  \ temperature measurement and thermal imaging. This board is based on the MLX90641,\
+  \ a fully calibrated thermal IR array from Melexis. It captures temperature data\
+  \ across a 16x12 matrix (192 pixels) and accurately measures temperatures from -40\xB0\
+  C to +300\xB0C with a typical accuracy of..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ir-grid-4-click/ir-grid-4-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ir-grid-4-click
+  repositories: []
+name: MIKROE-6306
+ref: mikroe/mikroe-6306
+release_date: null
+sku: mikroe-6306
+spec: null
+status: ''
+vendor: mikroe

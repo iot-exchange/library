@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/USB-Modules/USB-CARD-READER/images/thumbs/200x150/USB-CARD-READER.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/USB-Modules/USB-CARD-READER/
+  repositories: []
+name: USB-CARD-READER
+ref: olimex/usb-card-reader
+release_date: null
+sku: usb-card-reader
+spec: null
+status: ''
+vendor: olimex

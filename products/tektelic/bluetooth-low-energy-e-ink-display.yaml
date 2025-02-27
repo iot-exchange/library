@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201663%201663'%3E%3C/svg%3E
+  models: []
+  products:
+  - https://tektelic.com/products/sensors/display-tablet/
+  repositories: []
+name: Bluetooth low energy E-INK Display
+ref: tektelic/bluetooth-low-energy-e-ink-display
+release_date: null
+sku: bluetooth-low-energy-e-ink-display
+spec: null
+status: ''
+vendor: tektelic

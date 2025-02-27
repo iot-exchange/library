@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Proximity 14 Click is a compact add-on board that contains a close-range
+  proximity sensing solution. This board features the VCNL36825T, a fully integrated
+  proximity sensor from Vishay Semiconductors. It combines a high-power VCSEL (vertical-cavity
+  surface-emitting laser) and a photodiode for proximity measurement and signal processing
+  IC in a single...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/proximity-14-click/proximity-14-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/proximity-14-click
+  repositories: []
+name: MIKROE-4744
+ref: mikroe/mikroe-4744
+release_date: null
+sku: mikroe-4744
+spec: null
+status: ''
+vendor: mikroe

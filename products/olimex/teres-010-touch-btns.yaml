@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-010-Touch-Btns/images/thumbs/200x150/TERES-010-Touch-Btns.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-010-Touch-Btns/
+  repositories: []
+name: TERES-010-Touch-Btns
+ref: olimex/teres-010-touch-btns
+release_date: null
+sku: teres-010-touch-btns
+spec: null
+status: ''
+vendor: olimex

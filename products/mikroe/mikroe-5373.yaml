@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: EasyPIC v8 for PIC24/dsPIC33 is a PIC24/dsPIC33 Development Board for
+  Microchip PIC24/dsPIC33 MCUs in DIP packaging. It features USB-C programmer/debugger
+  and contains many on-board modules necessary for device development, including multimedia,
+  CAN, LIN, and others.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/easypic-v8-for-pic24dspic33-over-usb-c/easypic-v8-for-pic24dspic33-over-usb-c-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=52#EasyPIC-v8-for-PIC24-dsPIC33-over-USB-C
+  repositories: []
+name: MIKROE-5373
+ref: mikroe/mikroe-5373
+release_date: null
+sku: mikroe-5373
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,31 @@
+alternatives: []
+certifications: []
+description: 32-bit RISC-V MCU with high-performance capabilities including powerful
+  image and voice processing.
+extra:
+  Core: HP Dual Core/LP Single Core
+  Development Board: <https://www.espressif.com/sites/default/files/chips-dxf/ESP32-P4.asc>
+  Dimensions (mm): QFN 10x10
+  Flash (MB): N/A
+  Module: <https://www.espressif.com/sites/default/files/chips-dxf/ESP32-P4.asc>
+  PSRAM (MB): '1632'
+  Pins: '104'
+  RAM/ROM (KB): 128 KB HP ROM, 16 KB LP ROM, 768 KB HP L2MEM, 32 KB LP SRAM, 8 KB
+    TCM
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP32-P4_S_0.png
+  models: []
+  products:
+  - https://www.espressif.com/en/support/documents/technical-documents?type=socs&series=ESP32-P4
+    Series
+  repositories: []
+name: ESP32-P4
+ref: espressif/esp32-p4
+release_date: null
+sku: esp32-p4
+spec: null
+status: ''
+vendor: espressif

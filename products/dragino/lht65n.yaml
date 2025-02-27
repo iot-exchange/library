@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: LoRaWAN 1.0.3 Class ALoRaWAN Temperature & Humidity sensorBands:EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915Built-in
+  2400mAh batteryMonitor Internal and External Temperature,Humidity
+extra:
+  Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
+  Battery: 2400mAh
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/7be335477876db854960134c6e137164_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/temperature-humidity-sensor/item/224-lht65n.html
+  repositories: []
+name: LHT65N
+ref: dragino/lht65n
+release_date: null
+sku: lht65n
+spec: null
+status: ''
+vendor: dragino

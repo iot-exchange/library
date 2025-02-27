@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/SMT/PASTE-APPLICATOR/images/thumbs/200x150/PASTE-APPLICATOR.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/SMT/PASTE-APPLICATOR/
+  repositories: []
+name: PASTE-APPLICATOR
+ref: olimex/paste-applicator
+release_date: null
+sku: paste-applicator
+spec: null
+status: ''
+vendor: olimex

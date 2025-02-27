@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Automation off the deep end
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.insteon.com/computer-interfaces
+  repositories: []
+name: computer-interfaces
+ref: insteon/computer-interfaces
+release_date: null
+sku: computer-interfaces
+spec: null
+status: ''
+vendor: insteon

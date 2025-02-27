@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Pico, a Low-Cost, High-Performance Microcontroller Board
+  with Flexible Digital Interfaces
+extra:
+  Multi Options: ''
+  Price: $3.99 - $43.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-pico-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/raspberry-pi-pico.htm
+  - https://www.waveshare.com/product/raspberry-pi-pico.htm "Raspberry Pi Pico, a
+    Low-Cost, High-Performance Microcontroller Board with Flexible Digital Interfaces"
+  repositories: []
+name: pico
+ref: waveshare/pico
+release_date: null
+sku: pico
+spec: null
+status: ''
+vendor: waveshare

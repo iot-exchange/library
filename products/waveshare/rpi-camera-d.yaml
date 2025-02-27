@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: RPi Camera (D)
+extra:
+  Price: $12.97 - $13.99
+  SKU: '11297'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rpi_camera_d__1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rpi-camera-d.htm
+  - https://www.waveshare.com/product/rpi-camera-d.htm "RPi Camera (D)"
+  repositories: []
+name: RPi Camera (D)
+ref: waveshare/rpi-camera-d
+release_date: null
+sku: rpi-camera-d
+spec: null
+status: ''
+vendor: waveshare

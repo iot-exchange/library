@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Industrial Grade Metal Case (D) for Raspberry Pi 5, Larger Internal Space,
+  Supports Installing Official Cooling Fan And Various HATs, Wall-mount and Rail-mount
+  Support
+extra:
+  Price Range: $5.65 - $5.99
+  SKU: '26087'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-case-d-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pi5-case-d.htm
+  repositories: []
+name: PI5-CASE-D
+ref: waveshare/pi5-case-d
+release_date: null
+sku: pi5-case-d
+spec: null
+status: ''
+vendor: waveshare

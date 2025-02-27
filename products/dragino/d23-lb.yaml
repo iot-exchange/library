@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: LoRaWAN Waterproof /Outdoor Temperature Sensor
+extra:
+  3 x DS18B20 Temperature sensors: ''
+  Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865
+  Battery: 8500mAh Li-SOCI2 battery or solar powered + Li-ion battery
+  Measure range: "-55\xB0C ~ 125\xB0C"
+  Support Bluetooth: v5.1 and LoRaWAN remote configure
+  Support wireless OTA update firmware: ''
+  Temperature alarm: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/5a61d31ed794cb758475f6c89477dfed_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/temperature-humidity-sensor/item/262-d23-lb-ls.html
+  repositories: []
+name: D23-LB
+ref: dragino/d23-lb
+release_date: null
+sku: d23-lb
+spec: null
+status: ''
+vendor: dragino

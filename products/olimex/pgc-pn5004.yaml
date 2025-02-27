@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/HandTools/PGC-PN5004/images/thumbs/200x150/PGC-PN5004-00.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/HandTools/PGC-PN5004/
+  repositories: []
+name: PGC-PN5004
+ref: olimex/pgc-pn5004
+release_date: null
+sku: pgc-pn5004
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/search/productsearch?cate=cgAntennas
+  repositories: []
+name: Antennas and related products
+ref: murata/antennas-and-related-products
+release_date: null
+sku: antennas-and-related-products
+spec: null
+status: ''
+vendor: murata

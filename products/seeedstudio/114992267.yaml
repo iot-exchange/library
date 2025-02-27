@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: "IMX219-77 Replacement Camera Module with 77\xB0 FOV for Raspberry Pi\
+  \ V2 Camera"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1--114992267-imx219-77-replacement-camera.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/IMX219-77-Camera-77-FOV-Applicable-for-Raspberry-Pi-V2-Camera-p-4605.html
+  repositories: []
+name: '114992267'
+ref: seeedstudio/114992267
+release_date: null
+sku: '114992267'
+spec: null
+status: ''
+vendor: seeedstudio

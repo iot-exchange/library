@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Current Limit 6 Click is a compact add-on board representing a current-limiting\
+  \ solution. This board features the MAX17608, adjustable overvoltage, and overcurrent\
+  \ protection device from Analog Devices. This Click board\u2122 is ideal for protecting\
+  \ systems with the flexible input overvoltage protection range from 4.5V to 60V,\
+  \ and the adjustable input..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/current-limit-6-click/current-limit-6-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/current-limit-6-click
+  repositories: []
+name: MIKROE-4915
+ref: mikroe/mikroe-4915
+release_date: null
+sku: mikroe-4915
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Circular NFC R25 Antenna is PCB antenna designed with the intention to
+  be used as extension of development boards and placed remotely on desired place
+  such as plastic casing, existing products, or even under displays. Antenna is designed
+  in circular shape with diameter of 25mm. Its important to mention that this antenna
+  can be used for NFC and RFID...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/circular-nfc-r25-antenna/circular-nfc-r25-antenna-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/circular-nfc-r25-antenna
+  repositories: []
+name: MIKROE-4004
+ref: mikroe/mikroe-4004
+release_date: null
+sku: mikroe-4004
+spec: null
+status: ''
+vendor: mikroe

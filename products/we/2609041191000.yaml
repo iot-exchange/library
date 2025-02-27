@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: Themisto-I
+extra:
+  Antenna Type: RF pad
+  Current Consumption: '400'
+  Data Rate: '2.2'
+  Dimensions: 17 x 27 x 3.8
+  Expected lifetime: '>10 years'
+  Frequency Range: 902.5 - 927.5
+  Output Power: '10500'
+  Production: active
+  Sensitivity: '-111'
+  Supply Voltage: '3.7'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/THEBE-II_MESH#2609031181000
+  - https://www.we-online.com/en/components/products/THEMISTO-I#2609041191000
+  repositories: []
+name: '2609041191000'
+ref: we/2609041191000
+release_date: null
+sku: '2609041191000'
+spec: null
+status: Active
+vendor: we

@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/5G-FG160-EAU.html
+  repositories: []
+name: FG160-EAU
+ref: fibocom/fg160-eau
+release_date: null
+sku: fg160-eau
+spec: null
+status: ''
+vendor: fibocom

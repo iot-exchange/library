@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "Hall Current 14 Click is a compact add-on board that contains a precise\
+  \ solution for AC/DC current sensing. This board features the MCS1801, a fully integrated\
+  \ Hall-effect-based isolated linear current sensor designed for the current range\
+  \ of \xB125A from Monolithic Power Systems (MPS)."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/hall-current-14-click/hall-current-14-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/hall-current-14-click
+  repositories: []
+name: MIKROE-5239
+ref: mikroe/mikroe-5239
+release_date: null
+sku: mikroe-5239
+spec: null
+status: ''
+vendor: mikroe

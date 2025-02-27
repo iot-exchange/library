@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/SMT/SPLICE-16MM-CT/images/thumbs/200x150/SPLICE-8MM-CT.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/SMT/SPLICE-16MM-CT/
+  repositories: []
+name: Pack of 100 pcs SPLICE-16MM-CT
+ref: olimex/pack-of-100-pcs-splice-16mm-ct
+release_date: null
+sku: pack-of-100-pcs-splice-16mm-ct
+spec: null
+status: ''
+vendor: olimex

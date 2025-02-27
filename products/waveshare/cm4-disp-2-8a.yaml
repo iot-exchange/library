@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "2.8\u2033 Touch Screen Expansion For Raspberry Pi Compute Module 4,\
+  \ Optical Bonding Display, Optional Interface Expander"
+extra:
+  Multi Options: ''
+  Price: $57.99 -  $69.99
+  multiOptions: Multi Options
+  price: $57.99 -  $69.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-disp-base-2.8a-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/cm4-disp-base-2.8a.htm
+  repositories: []
+name: cm4_disp_2.8a
+ref: waveshare/cm4-disp-2-8a
+release_date: null
+sku: cm4-disp-2-8a
+spec: null
+status: ''
+vendor: waveshare

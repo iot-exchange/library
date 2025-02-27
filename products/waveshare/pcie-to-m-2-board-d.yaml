@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: PCIe To M.2 Adapter Board (D) for Raspberry Pi 5, Compatible with 2280
+  / 2260 / 2242 / 2230 size NVMe Protocol M.2 SSD, Raspberry Pi 5 NVMe
+extra:
+  price: $7.81  -  $8.49
+  sku: '27709'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-m.2-board-d-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pcie-to-m.2-board-d.htm
+  - https://www.waveshare.com/product/pcie-to-m.2-board-d.htm "PCIe To M.2 Adapter
+    Board (D) for Raspberry Pi 5, Compatible with 2280 / 2260 / 2242 / 2230 size NVMe
+    Protocol M.2 SSD, Raspberry Pi 5 NVMe"
+  repositories: []
+name: PCIe TO M.2 Board (D)
+ref: waveshare/pcie-to-m-2-board-d
+release_date: null
+sku: pcie-to-m-2-board-d
+spec: null
+status: ''
+vendor: waveshare

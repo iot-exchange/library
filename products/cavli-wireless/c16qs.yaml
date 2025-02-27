@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: LTE Cat 1bis 3GPP Release 14
+extra:
+  Cellular Bands Supported: 'EMEA / APAC: B1 / B3 / B5 / B8 / B20; NA: B2 / B4 / B5
+    / B12 / B13 / B66; LA: B2 / B3 / B4 / B7 / B8 / B28; AN: B1 / B3 / B5 / B8 / B18
+    / B19 / B26 / B28'
+  Cellular Connectivity Download & Uplink Speed: 'LTE Cat 1bis: 10Mbps (DL), 5Mbps
+    (UL)'
+  Interfaces: 3xUART, 1xUSB2.0, 1xUSIM, 1xSWD, 2xADC, 1xI2S, 1xI2C, 1xSPI, 4xGPIO,
+    1xMain ANT, 1xGNSS ANT
+  Key Highlights: Integrated GNSS Support, Power Saving Modes, Compact Form Factor
+    Design, USB 2.0 Interface, LTE Cat 1bis, DFOTA, UART, Applicable regions - (APAC,
+    EMEA, N.A, S.A, AUS, NZ and GLOBAL)
+  OS: FreeRTOS
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.cavliwireless.com/assets/images/modules/c-series/webp-img/C16QS.webp
+  models: []
+  products: []
+  repositories: []
+name: C16QS
+ref: cavli-wireless/c16qs
+release_date: null
+sku: c16qs
+spec: null
+status: ''
+vendor: cavli-wireless

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: 10x10 RGB 2 Click is a compact add-on board designed for creating vibrant
+  LED displays and lighting solutions. This board features the IN-PC20TBT5R5G5B, an
+  RGB LED with an advanced IC for seamless operation from Inolux. The board features
+  a 10x10 matrix of "smart" RGB LEDs capable of dual-wire transmission and a sophisticated
+  control circuit for dynamic...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/10x10-rgb-2-click/10x10-rgb-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/10x10-rgb-2-click
+  repositories: []
+name: MIKROE-5976
+ref: mikroe/mikroe-5976
+release_date: null
+sku: mikroe-5976
+spec: null
+status: ''
+vendor: mikroe

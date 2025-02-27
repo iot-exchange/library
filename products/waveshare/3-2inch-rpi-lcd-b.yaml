@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "Part No.:3.2inch Resistive Touch Display (B) for Raspberry Pi, 320\xD7\
+  240, SPI"
+extra:
+  Price: $26.31 - $26.99
+  SKU: '9201'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/_/3.2inch-rpi-lcd-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/3.2inch-rpi-lcd-b.htm
+  repositories: []
+name: 3.2inch RPi LCD (B)
+ref: waveshare/3-2inch-rpi-lcd-b
+release_date: null
+sku: 3-2inch-rpi-lcd-b
+spec: null
+status: ''
+vendor: waveshare

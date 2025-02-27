@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Waveshare RP2040-ETH Mini Development Board, RP2040 Ethernet Port Module,
+  Based on Official RP2040 Dual Core Processor
+extra:
+  Price: $12.31 - $12.99
+  SKU: '24082'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-eth-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rp2040-eth.htm
+  repositories: []
+name: RP2040-ETH
+ref: waveshare/rp2040-eth
+release_date: null
+sku: rp2040-eth
+spec: null
+status: ''
+vendor: waveshare

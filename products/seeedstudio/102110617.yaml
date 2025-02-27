@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Zero 2 W (with quad-core CPU,Bluetooth 4.2,BLE,onboard antenna
+  ,etc.)
+extra:
+  Bluetooth: 4.2/BLE
+  Performance: 40% more single-threaded, five times more multi-threaded than original
+    Raspberry Pi Zero
+  Processor: Quad-core CPU
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-Zero-2-W-p-102110617.html
+  repositories: []
+name: '102110617'
+ref: seeedstudio/102110617
+release_date: null
+sku: '102110617'
+spec: null
+status: ''
+vendor: seeedstudio

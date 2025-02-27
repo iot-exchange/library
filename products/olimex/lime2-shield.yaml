@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 6.60 EUR
+  discountedPrice2: 6.26 EUR
+  price: 6.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A20/LIME2-SHIELD/images/thumbs/200x150/LIME2-SHIELD.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/A20/LIME2-SHIELD/open-source-hardware
+  repositories: []
+name: LIME2-SHIELD
+ref: olimex/lime2-shield
+release_date: null
+sku: lime2-shield
+spec: null
+status: ''
+vendor: olimex

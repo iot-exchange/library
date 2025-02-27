@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/matter/matter-bridge-for-non-matter-devices
+  repositories: []
+name: Matter Bridge for Non-Matter Devices
+ref: silicon-labs/matter-bridge-for-non-matter-devices
+release_date: null
+sku: matter-bridge-for-non-matter-devices
+spec: null
+status: ''
+vendor: silicon-labs

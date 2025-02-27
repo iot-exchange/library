@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/PAN-TILT-KIT/images/thumbs/200x150/PAN-TILT10.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/PAN-TILT-KIT/
+  repositories: []
+name: PAN-TILT-KIT
+ref: olimex/pan-tilt-kit
+release_date: null
+sku: pan-tilt-kit
+spec: null
+status: ''
+vendor: olimex

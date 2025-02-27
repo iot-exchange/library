@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Advanced remote control switch
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.insteon.com/wall-switches
+  repositories: []
+name: wall-switches
+ref: insteon/wall-switches
+release_date: null
+sku: wall-switches
+spec: null
+status: ''
+vendor: insteon

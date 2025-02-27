@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Bluetooth module for various applications.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ezurio.com/partners/technology/wirepas
+  - ''
+  repositories: []
+name: BL65x
+ref: ezurio/bl65x
+release_date: null
+sku: bl65x
+spec: null
+status: ''
+vendor: ezurio

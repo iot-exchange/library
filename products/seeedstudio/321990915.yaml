@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: The Official Raspberry Pi Micro-HDMI to Standard-Male Cable is a high-quality
+  cable designed for use with Raspberry Pi micro-HDMI ports. It provides plenty of
+  flexibility with its 2-meter length, making it perfect for use in home theaters
+  or offices.
+extra:
+  Length: 2Mtr
+  Price: $3.00
+  Type: Cable
+  length: 2 meters
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-321990915-.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Official-Raspberry-Pi-Micro-HDMI-To-Standard-Male-Cable-2Mtr-Black-p-5724.html
+  repositories: []
+name: '321990915'
+ref: seeedstudio/321990915
+release_date: null
+sku: '321990915'
+spec: null
+status: ''
+vendor: seeedstudio

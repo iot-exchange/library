@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: This is a low-power pure-offline voice recognition module with less than
+  100ms identification time and 150 pre-programmed commands. It uses the US516P6 voice
+  chip with a 32-bit RSIC architecture core, DSP instruction set, and FPU arithmetic
+  unit. Ideal for various smart devices like smart home appliances, toys, and lamps
+  that require voice control.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-107020149-grove---offline-voice-recognition-module-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-Offline-Voice-Recognition-Module-p-5861.html
+  repositories: []
+name: '107020149'
+ref: seeedstudio/107020149
+release_date: null
+sku: '107020149'
+spec: null
+status: ''
+vendor: seeedstudio

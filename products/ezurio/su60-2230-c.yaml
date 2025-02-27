@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Supports 4-addr mode and layer-2 bridging with Laird's specialized SUMMIT
+  Wifi stack.
+extra:
+  softwareVersion: 10.4.0.10 or newer
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/wifi-modules-bluetooth/summit-software-stack-60-series
+  repositories: []
+name: SU60-2230-C
+ref: ezurio/su60-2230-c
+release_date: null
+sku: su60-2230-c
+spec: null
+status: ''
+vendor: ezurio

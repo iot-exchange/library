@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Proximity 17 Click is a compact add-on board that contains a close-range
+  proximity sensing solution. This board features the TMD2635, a miniature proximity
+  sensor module from ams AG.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/proximity-17-click/proximity-17-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/proximity-17-click
+  repositories: []
+name: MIKROE-5084
+ref: mikroe/mikroe-5084
+release_date: null
+sku: mikroe-5084
+spec: null
+status: ''
+vendor: mikroe

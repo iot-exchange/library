@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Power Management HAT for Raspberry Pi, Supports charging And Power output
+  at the same time, Embedded RTC and Multiple Protection Circuits
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/o/power-management-hat-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/power-management-hat-b.htm
+  repositories: []
+name: Power Management HAT (B) (EN)
+ref: waveshare/power-management-hat-b-en
+release_date: null
+sku: power-management-hat-b-en
+spec: null
+status: ''
+vendor: waveshare

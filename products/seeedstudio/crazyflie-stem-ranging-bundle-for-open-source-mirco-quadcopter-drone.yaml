@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: With the STEM ranging bundle, you get everything you need for scripting
+  and learning how to operate a robot in 3 dimensions and react to objects around
+  it. We supply an easy-to-use Python API where you can use commands like "move forward
+  1 meter", program paths the Crazyflie will follow and "measure distance to the right".
+  You will also get access to the full logging framework where you easily can read
+  telemetry and measurement data.
+extra:
+  price: $50.00 - $403.00
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.seeedstudio.com/Crazyfile-STEM-ranging-bundle-for-Open-Source-Mirco-Quadcopter-Drone.html
+  repositories: []
+name: Crazyflie STEM Ranging Bundle for Open Source Mirco Quadcopter Drone
+ref: seeedstudio/crazyflie-stem-ranging-bundle-for-open-source-mirco-quadcopter-drone
+release_date: null
+sku: crazyflie-stem-ranging-bundle-for-open-source-mirco-quadcopter-drone
+spec: null
+status: ''
+vendor: seeedstudio

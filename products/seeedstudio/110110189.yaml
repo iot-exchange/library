@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: "reComputer Industrial J2012 - AI Device with Jetson\u2122 Xavier NX\
+  \ 16GB module. An industrial AI box with 21 TOPS AI performance, built with the\
+  \ NVIDIA Jetson\u2122 Xavier NX 16GB module. It features a rich set of IOs, enabling\
+  \ multiple connectivity options including 2x RJ-45 Ethernet ports(1 for POE-PSE\
+  \ 802.3 af), 1x RS232/422/485 & CAN port, 4x Isolated DI/DO. Compact size at 159mm\
+  \ x 155mm x 57mm and 1.57kg of weight. Fanless design with versatile mounting options\
+  \ allows deployment from -20 to 60 \u2103."
+extra:
+  Price: $1,099.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-110110189_recomputer_industrial_j2012_xavier_nx_16gb-first.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/reComputer-Industrial-J2012-p-5685.html
+  repositories: []
+name: '110110189'
+ref: seeedstudio/110110189
+release_date: null
+sku: '110110189'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/search/productsearch?cate=luLCFilterHPF
+  repositories: []
+name: High Pass Filter(HPF)
+ref: murata/high-pass-filter-hpf
+release_date: null
+sku: high-pass-filter-hpf
+spec: null
+status: ''
+vendor: murata

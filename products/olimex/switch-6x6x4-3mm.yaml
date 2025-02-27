@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 0.05 EUR
+  discountedPrice2: 0.04 EUR
+  price: 0.05 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Switches/SWITCH-6X6X4.3MM/images/thumbs/200x150/SW6X6x4.3.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Switches/SWITCH-6X6X4.3MM/
+  repositories: []
+name: SWITCH-6X6X4.3MM
+ref: olimex/switch-6x6x4-3mm
+release_date: null
+sku: switch-6x6x4-3mm
+spec: null
+status: ''
+vendor: olimex

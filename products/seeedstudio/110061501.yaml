@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "This is LoRa Antenna compatible for reTerminal DM, with 2 dBi Gain and\
+  \ -40\uFF5E+70 \u2103 operating temperature."
+extra:
+  Gain: 2 dBi
+  Price: $5.00
+  Type: Antenna
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-110061501_lora_antenna_kit_for_reterminal_dm-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/LoRa-Antenna-Kit-for-reTerminal-DM-p-5714.html
+  repositories: []
+name: '110061501'
+ref: seeedstudio/110061501
+release_date: null
+sku: '110061501'
+spec: null
+status: ''
+vendor: seeedstudio

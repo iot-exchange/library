@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: A Feature-Packed, Stylishly Pocket PC
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/palmshell/slim-x4l/thumb_slim_x4l.webp
+  models: []
+  products:
+  - https://palmshell.io/slim-x4l
+  repositories: []
+name: SLiM X4L
+ref: radxa/slim-x4l
+release_date: null
+sku: slim-x4l
+spec: null
+status: ''
+vendor: radxa

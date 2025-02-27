@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "The Boost 6 Click is a Click board\u2122 which features the TPS55332-Q1,\
+  \ a monolithic high-voltage switching regulator with integrated 3-A, 60-V power\
+  \ MOSFET. The device can be configured as a switch mode step-up power supply with\
+  \ voltage supervisor."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/boost-6-click/boost-6-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/boost-6-click
+  repositories: []
+name: MIKROE-3813
+ref: mikroe/mikroe-3813
+release_date: null
+sku: mikroe-3813
+spec: null
+status: ''
+vendor: mikroe

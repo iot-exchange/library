@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Grove - WS2813 RGB LED Strip Waterproof - 30 LED/m - 1m
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2018-08bazaar906594_30_1.jpg
+  - https://www.seeedstudio.com/img/ad
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-WS2813-RGB-LED-Strip-Waterproof-30-LED-m-1m-p-104020108.html
+  repositories: []
+name: '104020108'
+ref: seeedstudio/104020108
+release_date: null
+sku: '104020108'
+spec: null
+status: ''
+vendor: seeedstudio

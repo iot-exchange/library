@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: GNSS 14 Click is a compact add-on board that provides fast positioning
+  capability to your application. This board features the MIA-M10Q, a standard precision
+  GNSS module from u-blox. It has an exceptional sensitivity and acquisition time
+  for all L1 GNSS signals, attributed to its integrated M10 standard precision low-power
+  platform. The M10 platform...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gnss-14-click/gnss-14-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/gnss-14-click
+  repositories: []
+name: MIKROE-5995
+ref: mikroe/mikroe-5995
+release_date: null
+sku: mikroe-5995
+spec: null
+status: ''
+vendor: mikroe

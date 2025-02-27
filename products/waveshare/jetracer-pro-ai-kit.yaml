@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: JetRacer Pro AI Kit B, High Speed AI Racing Robot Powered by Jetson Nano,
+  Pro Version, comes with Waveshare Jetson Nano Dev Kit
+extra:
+  Multi Options: ''
+  Price: $249.99 - $549.99
+  Price Range: $249.99 - $549.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetracer-pro-ai-kit-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetracer-pro-ai-kit-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/jetracer-pro-ai-kit.htm
+  repositories: []
+name: JetRacer Pro AI Kit
+ref: waveshare/jetracer-pro-ai-kit
+release_date: null
+sku: jetracer-pro-ai-kit
+spec: null
+status: ''
+vendor: waveshare

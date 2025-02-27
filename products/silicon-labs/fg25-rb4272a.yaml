@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Bluetooth 5: "\u2714"
+  Flash (kB): '1920'
+  Frequency Band: 470-510 MHz
+  Output Power (dBm): '16'
+  RAM (kB): '512'
+  Wi-SUN: "\u2714"
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/proprietary/fg25-rb4272a-efr32fg25-470-mhz-16-dbm-radio-board
+  repositories: []
+name: FG25-RB4272A
+ref: silicon-labs/fg25-rb4272a
+release_date: null
+sku: fg25-rb4272a
+spec: null
+status: ''
+vendor: silicon-labs

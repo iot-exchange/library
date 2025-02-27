@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 32.95 EUR
+  price2: 29.66 EUR
+  price3: 26.36 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/MSP430/Starter/MSP430-EASYWEB-2/images/thumbs/200x150/MSP430-EASYWEB-2.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/MSP430/Starter/MSP430-EASYWEB-2/open-source-hardware
+  repositories: []
+name: MSP430-EASYWEB-2
+ref: olimex/msp430-easyweb-2
+release_date: null
+sku: msp430-easyweb-2
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: HDMI 4k Splitter, 1 In 4 Out, Share One HDMI source
+extra:
+  Price: $18.31 - $18.99
+  SKU: '23738'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-splitter-1in-4out-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/hdmi-splitter-1in-4out.htm
+  repositories: []
+name: HDMI-SPLITTER-1IN-4OUT
+ref: waveshare/hdmi-splitter-1in-4out
+release_date: null
+sku: hdmi-splitter-1in-4out
+spec: null
+status: ''
+vendor: waveshare

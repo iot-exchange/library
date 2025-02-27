@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi RTC Expansion Module v1.1
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedimg2016-08imrp3bm3egcqrlpznf9t0cj6.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-RTC-Expansion-Module-v1-1.html
+  repositories: []
+name: '114100001'
+ref: seeedstudio/114100001
+release_date: null
+sku: '114100001'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,33 @@
+alternatives: []
+certifications: []
+description: Bluetooth Low Energy EFR32BG21 Based Modules (Series 2)
+extra:
+  Core: ARM Cortex-M33
+  Flash (KB): '20'
+  Max Flash/RAM (kB): "[1024/96](https://www.silabs.com/wireless/bluetooth/efr32bg21-series-2-modules?sl-l2attributefilterkey=sl:familymaxflashram&sl-l2attributefiltervalue=1024/96&sl-l2columnname=Max%20Flash/RAM%20(kB)#device-table-with-filters),\
+    \ [20](https://www.silabs.com/wireless/bluetooth/efr32bg21-series-2-modules?sl-l2attributefilterkey=sl:familymaxflashram&sl-l2attributefiltervalue=20&sl-l2columnname=Max%20Flash/RAM%20(kB)#device-table-with-filters),\
+    \ [\u2014](https://www.silabs.com/wireless/bluetooth/efr32bg21-series-2-modules?sl-l2attributefilterkey=sl:familymaxflashram&sl-l2attributefiltervalue=&sl-l2columnname=Max%20Flash/RAM%20(kB)#device-table-with-filters)"
+  Output Power Range (dBm): -20 20
+  RAM (KB): '1024'
+  RX Current (mA): ''
+  RX Sensitivity: '5.4'
+  "Secure Vault\u2122": '[Base](https://www.silabs.com/wireless/bluetooth/efr32bg21-series-2-modules?sl-l2attributefilterkey=sl:securevault&sl-l2attributefiltervalue=Base&sl-l2columnname=#device-table-with-filters),
+    [Yes](https://www.silabs.com/wireless/bluetooth/efr32bg21-series-2-modules?sl-l2attributefilterkey=sl:securevault&sl-l2attributefiltervalue=Yes&sl-l2columnname=#device-table-with-filters)'
+  Security: ''
+  TX Current (0 dBm): '16.1'
+  TX Current @ 0 dBm: '20'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/bluetooth/efr32bg21-series-2-modules
+  repositories: []
+name: EFR32BG21 Modules
+ref: silicon-labs/efr32bg21-modules
+release_date: null
+sku: efr32bg21-modules
+spec: null
+status: ''
+vendor: silicon-labs

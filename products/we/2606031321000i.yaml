@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: Thalassa with U.FL connector
+extra:
+  Current Consumption: '500'
+  Data Rate: '2.7'
+  Dimensions: 16 x 27.5 x 3.2
+  Expected lifetime: 2-5 years
+  Frequency Range: 2400 - 2483.5
+  Output Power: '450'
+  Production: active
+  Sensitivity: '-102'
+  Supply Voltage: '3.6'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/components/products/datasheet/2606031321000.pdf
+  repositories: []
+name: 2606031321000i
+ref: we/2606031321000i
+release_date: null
+sku: 2606031321000i
+spec: null
+status: NRND
+vendor: we

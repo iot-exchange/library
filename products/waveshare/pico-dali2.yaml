@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: DALI2 expansion Module for ESP32-Pico series boards, Supports DALI communication
+  for customized control of multiple lighting groups
+extra:
+  SKU: '28643'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-dali2-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pico-dali2.htm
+  repositories: []
+name: Pico-DALI2
+ref: waveshare/pico-dali2
+release_date: null
+sku: pico-dali2
+spec: null
+status: ''
+vendor: waveshare

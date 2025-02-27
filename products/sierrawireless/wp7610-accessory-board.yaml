@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Mini Card Accessory Board
+extra:
+  Bands: 'LTE Cat-4: B2, B4, B5, B12, B13, B14, B17, B66'
+  Fallback: 3G
+  Region (Carrier): "Americas (AT&T \u2013 FirstNet, Verizon, Planned: Semtech)"
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.sierrawireless.com/iot-modules/4g-modules/wp7610-accessory-board/
+  repositories: []
+name: WP7610 Accessory Board
+ref: sierrawireless/wp7610-accessory-board
+release_date: null
+sku: wp7610-accessory-board
+spec: null
+status: ''
+vendor: sierrawireless

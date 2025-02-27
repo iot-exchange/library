@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrices:
+  - 24.50 EUR
+  - 24.00 EUR
+  - 23.50 EUR
+  - 23.00 EUR
+  price: 25.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/SOM/STMP1/STMP157-SOM-512/images/thumbs/200x150/STMP15X-SOM.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/SOM/STMP1/STMP151-SOM-512-IND/
+  repositories: []
+name: STMP151-SOM-512-IND
+ref: olimex/stmp151-som-512-ind
+release_date: null
+sku: stmp151-som-512-ind
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.arduino.cc/wiki/static/43b312baedaacd1674957ed27f4ab784/4b190/nano-motor-carrier.jpg
+  models: []
+  products:
+  - https://store.arduino.cc/products/arduino-nano-motor-carrier
+  repositories: []
+name: Arduino Nano Motor Carrier
+ref: arduino/arduino-nano-motor-carrier
+release_date: null
+sku: arduino-nano-motor-carrier
+spec: null
+status: ''
+vendor: arduino

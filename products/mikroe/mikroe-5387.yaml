@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Angle 10 Click is a compact add-on board that detects the absolute angular
+  position of a permanent magnet. This board features the AS5070A, a high-resolution
+  angular position sensor with an analog output for precise absolute angle measurement
+  from ams AG. Based on a Hall sensor technology, the AS5070A measures the orthogonal
+  component of the flux density...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/angle-10-click/angle-10-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/angle-10-click
+  repositories: []
+name: MIKROE-5387
+ref: mikroe/mikroe-5387
+release_date: null
+sku: mikroe-5387
+spec: null
+status: ''
+vendor: mikroe

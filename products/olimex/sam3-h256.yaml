@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 19.95 EUR
+  price2: 17.96 EUR
+  price3: 15.96 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/Atmel/SAM3-H256/images/thumbs/200x150/SAM3-H256-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/Atmel/SAM3-H256/
+  repositories: []
+name: SAM3-H256
+ref: olimex/sam3-h256
+release_date: null
+sku: sam3-h256
+spec: null
+status: ''
+vendor: olimex

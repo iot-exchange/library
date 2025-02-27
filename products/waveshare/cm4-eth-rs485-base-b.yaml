@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Dual ETH Quad RS485 Base Board (B) for Raspberry Pi Compute Module 4,
+  Gigabit Ethernet, 4CH Isolated RS485
+extra:
+  Price: $56.63  -  $57.99
+  SKU: '21666'
+  price: $56.63  -  $57.99
+  sku: '21666'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-eth-rs485-base-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/cm4-eth-rs485-base-b.htm
+  repositories: []
+name: CM4-ETH-RS485-BASE-B
+ref: waveshare/cm4-eth-rs485-base-b
+release_date: null
+sku: cm4-eth-rs485-base-b
+spec: null
+status: ''
+vendor: waveshare

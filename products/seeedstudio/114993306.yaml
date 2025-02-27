@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: The Ochin CM4v2 is a tiny carrier board for the Raspberry Pi Compute
+  Module equipped with the powerful Quad-core Cortex-A72 CPU and GPU, which features
+  a big RAM size, the CODECs, and Graphic Accelerators. It's designed for a wide range
+  of applications such as robotics, home automation, and IoT projects. The Raspberry
+  Pi Compute Module 4 is not included.
+extra:
+  price: $59.90
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993306-ochin-tiny-carrier-board-v2-45font_1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Ochin-Tiny-Carrier-Board-V2-for-Raspberry-Pi-CM4-p-5887.html
+  repositories: []
+name: '114993306'
+ref: seeedstudio/114993306
+release_date: null
+sku: '114993306'
+spec: null
+status: ''
+vendor: seeedstudio

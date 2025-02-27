@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 'RF Baud Rate: 76.8kbps Fixed'
+extra:
+  Channels: 'AC4790-1x1/-200: 16 channels, US/Canada; AC4790-1x1/-1000: 32 channels,
+    US/Canada; AC4790-1x1/-200/-1000: 8 channels, Australia/US/Canada'
+  Dimension (Height - mm): '5'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2019-06/ramp-ism-module_0.png
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/ramp-ism-modules/proprietary-900-mhz-modules/ac4790-series
+  repositories: []
+name: AC4790 Series
+ref: ezurio/ac4790-series
+release_date: null
+sku: ac4790-series
+spec: null
+status: Active
+vendor: ezurio

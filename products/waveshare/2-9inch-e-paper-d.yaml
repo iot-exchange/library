@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "296\xD7128, 2.9inch flexible E-Ink raw display panel"
+extra:
+  Price: $13.97 - $14.99
+  SKU: '16184'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.9inch-e-paper-d-3_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/2.9inch-e-paper-d.htm
+  - "https://www.waveshare.com/product/2.9inch-e-paper-d.htm \"296\xD7128, 2.9inch\
+    \ flexible E-Ink raw display panel\""
+  repositories: []
+name: 2.9inch e-Paper (D)
+ref: waveshare/2-9inch-e-paper-d
+release_date: null
+sku: 2-9inch-e-paper-d
+spec: null
+status: ''
+vendor: waveshare

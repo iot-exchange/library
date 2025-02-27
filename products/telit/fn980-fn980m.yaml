@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/10/TC_FN980_FN980m_group-208x200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/fn980-and-fn980m-data-cards-support-5g/
+  repositories: []
+name: FN980/FN980m
+ref: telit/fn980-fn980m
+release_date: null
+sku: fn980-fn980m
+spec: null
+status: ''
+vendor: telit

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "ODYSSEY - X86J4125800 v2 features Quad-core Intel\xAE Celeron\xAE J4125\
+  \ and RP2040 co-processor, equipping dual 2.5GbE interfaces and multiple wireless\
+  \ connectivities, supporting 4K output, carrying sufficient storage capability,\
+  \ equipment expandability, operated by multiple OS, all of which indicate that it\
+  \ can be an ideal mini PC, a functional router, a media center or other development\
+  \ applications by your definition."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.seeedstudio.com/ODYSSEY-X86J4125800-v2-p-5531.html
+  repositories: []
+name: '102110767'
+ref: seeedstudio/102110767
+release_date: null
+sku: '102110767'
+spec: null
+status: ''
+vendor: seeedstudio

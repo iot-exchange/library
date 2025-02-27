@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC2652RSIP
+  repositories: []
+name: CC2652RSIP
+ref: ti/cc2652rsip
+release_date: null
+sku: cc2652rsip
+spec: null
+status: ''
+vendor: ti

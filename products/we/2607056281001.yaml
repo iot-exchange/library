@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Tarvos-II Stick
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/components/products/manual/2607056281001_Tarvos-II Stick
+    2607056281001 Manual_rev1.4.pdf
+  repositories: []
+name: '2607056281001'
+ref: we/2607056281001
+release_date: null
+sku: '2607056281001'
+spec: null
+status: ''
+vendor: we

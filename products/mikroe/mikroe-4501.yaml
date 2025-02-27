@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Accel 15 Click is a compact add-on board that contains a longevity acceleration\
+  \ sensor. This board features the BMA490L, a high-performance 16-bit digital triaxial\
+  \ acceleration sensor with extended availability of up to ten years from Bosch Sensortec.\
+  \ It allows selectable full-scale acceleration measurements in ranges of \xB12g,\
+  \ \xB14g, \xB18g, and \xB116g in three..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/accel-15-click/accel-15-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/accel-15-click
+  repositories: []
+name: MIKROE-4501
+ref: mikroe/mikroe-4501
+release_date: null
+sku: mikroe-4501
+spec: null
+status: Unavailable
+vendor: mikroe

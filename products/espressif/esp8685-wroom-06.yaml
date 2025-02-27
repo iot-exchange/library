@@ -1,0 +1,31 @@
+alternatives: []
+certifications: []
+description: The ESP8685-WROOM-06 module is based on ESP8685, and can be either mounted
+  onto the surface of a PCB board, or vertically soldered to a PCB board. When surface
+  mounted, the module has 15 available GPIOs; when vertically soldered, the module
+  has 5 available GPIOs. ESP8685-WROOM-06 supports UART, SPI, I2C, LED PWM, I2S, RMT,
+  etc.
+extra:
+  Antenna: PCB antenna
+  Chip Embedded: ESP8685H4
+  Development Board: N/A
+  Dimensions (mm): "15.8\xD720.3\xD72.7"
+  Flash (MB): 2, 4
+  PSRAM (MB): N/A
+  Pins: '21'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP8685-WROOM-06%20S_0.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp8685-wroom-06_datasheet_en.pdf
+  repositories: []
+name: ESP8685-WROOM-06
+ref: espressif/esp8685-wroom-06
+release_date: null
+sku: esp8685-wroom-06
+spec: null
+status: ''
+vendor: espressif

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Inclinometer Click is a compact add-on board that offers best-in-class
+  characteristics for inclination measurements. This board features the SCL3300, a
+  high-performance inclinometer sensor component from Murata. The SCL3300 is a three-axis
+  inclinometer sensor designed and manufactured for high stability, reliability, and
+  quality requirements with angle...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/inclinometer-click/inclinometer-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=78#Inclinometer-Click
+  repositories: []
+name: MIKROE-4753
+ref: mikroe/mikroe-4753
+release_date: null
+sku: mikroe-4753
+spec: null
+status: ''
+vendor: mikroe

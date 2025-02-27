@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Indoor LoRaWAN Gateway SX1302 + 2 * SX1250 10 programmable parallel demodulation
+  paths Light Hotspot for Helium, Approval.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/bd3346ba561b5b55180dd1441a09d1ee_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lora-lorawan-gateway/item/202-hp0c.html
+  repositories: []
+name: HP0C
+ref: dragino/hp0c
+release_date: null
+sku: hp0c
+spec: null
+status: ''
+vendor: dragino

@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: "The Peltier Click is a Click board\u2122 which utilizes the SPV1050,\
+  \ an ultralow power energy harvester and battery charger from STMicroelectronics."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/peltier-click/peltier-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/peltier-click
+  repositories: []
+name: MIKROE-3814
+ref: mikroe/mikroe-3814
+release_date: null
+sku: mikroe-3814
+spec: null
+status: ''
+vendor: mikroe

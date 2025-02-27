@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "EZO Carrier Click - Oxygen is a compact add-on board suitable for determining\
+  \ the dissolved oxygen of a liquid in your application. This board features the\
+  \ EZO-DO\u2122, an ISO 5814 compliant embedded dissolved oxygen circuit board from\
+  \ Atlas Scientific. The EZO-DO\u2122 is a small yellow additional board that comes\
+  \ with the carrier board and allows you to read the..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ezo-carrier-click-oxygen/ezo-carrier-click-oxygen-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ezo-carrier-click-oxygen
+  repositories: []
+name: MIKROE-6010
+ref: mikroe/mikroe-6010
+release_date: null
+sku: mikroe-6010
+spec: null
+status: ''
+vendor: mikroe

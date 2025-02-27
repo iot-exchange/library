@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: Proteus-I with 50 Ohm RF pad
+extra:
+  ANTConn: RF pad
+  Frequency Range (MHz): 2402 - 2480
+  PTx, e.r.p.(dBm): '3'
+  Product series: Proteus-I & EV-Kits
+  Rb max.(kbps): '1000'
+  Rxsens, e.r.p.(dBm): '-96'
+  VDD max.(V): '3.6'
+  VDD min.(V): '1.8'
+  dLoS(m): '100'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o139383v214%20Single_Proteus-I_2608011024000.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/PROTEUS-I#2608011124000
+  repositories: []
+name: '2608011124000'
+ref: we/2608011124000
+release_date: null
+sku: '2608011124000'
+spec: null
+status: Active
+vendor: we

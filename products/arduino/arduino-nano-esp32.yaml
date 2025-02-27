@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.arduino.cc/wiki/static/1c4f828c21b084630f9ccebc0b879e4b/4b190/nano-esp32.jpg
+  models: []
+  products:
+  - https://store.arduino.cc/products/nano-esp32
+  repositories: []
+name: Arduino Nano ESP32
+ref: arduino/arduino-nano-esp32
+release_date: null
+sku: arduino-nano-esp32
+spec: null
+status: ''
+vendor: arduino

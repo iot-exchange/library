@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "The Step Down 2 click is a Click board\u2122 equipped with the L6986HTR,\
+  \ a synchronous step-down switching regulator with operating input voltages from\
+  \ 4V to 38V and output voltage adjustability ranges from 0.85 V to VIN. Because\
+  \ of the main possibilities its features offer, the Step Down 2 click is ideally\
+  \ used for programmable logic controllers (PLCs),..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/step-down-2-click/step-down-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=115#Step-Down-2-Click
+  repositories: []
+name: MIKROE-3895
+ref: mikroe/mikroe-3895
+release_date: null
+sku: mikroe-3895
+spec: null
+status: ''
+vendor: mikroe

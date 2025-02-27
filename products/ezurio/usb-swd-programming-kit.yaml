@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2021-04/453-00062-K1.png
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/programming-kits/usb-swd-programming-kit
+  repositories: []
+name: USB-SWD Programming Kit
+ref: ezurio/usb-swd-programming-kit
+release_date: null
+sku: usb-swd-programming-kit
+spec: null
+status: ''
+vendor: ezurio

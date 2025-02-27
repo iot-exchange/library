@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "SenseCAP S2100 - LoRaWAN\xAE Data Logger/DTU, Supports RS485/Analog/GPIO\
+  \ Interfaces, LoRaWAN Converter is a battery-powered IP66 wireless data logger/DTU\
+  \ supports RS485/Analog/GPIO sensors, equipped with built-in Bluetooth and APP service\
+  \ for OTA configuration and remote device management."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/f/i/first_page_all-13_1.jpg
+  - https://www.seeedstudio.com/img/v
+  models: []
+  products:
+  - https://www.seeedstudio.com/SenseCAP-S2100-LoRaWAN-Data-Logger-p-5361.html
+  - https://www.seeedstudio.com/SenseCAP-S2100
+  repositories: []
+name: '114992872'
+ref: seeedstudio/114992872
+release_date: null
+sku: '114992872'
+spec: null
+status: ''
+vendor: seeedstudio

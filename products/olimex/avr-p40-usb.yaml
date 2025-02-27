@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/AVR/Proto/AVR-P40-USB/images/thumbs/200x150/AVR-P40-USB.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/AVR/Proto/AVR-P40-USB/
+  repositories: []
+name: AVR-P40-USB
+ref: olimex/avr-p40-usb
+release_date: null
+sku: avr-p40-usb
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: NTAG213 is a versatile NFC tag with 144 bytes of user memory.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.nxp.com/products/wireless-connectivity/nfc-hf/ntag213:NTAG213
+  repositories: []
+name: NTAG213
+ref: nxp/ntag213
+release_date: null
+sku: ntag213
+spec: null
+status: ''
+vendor: nxp

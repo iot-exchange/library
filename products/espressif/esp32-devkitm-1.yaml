@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: ESP32-DevKitM-1 is a ESP32-MINI-1-based development board produced by
+  Espressif. Most of the I/O pins are broken out to the pin headers on both sides
+  for easy interfacing. Developers can either connect peripherals with jumper wires
+  or mount ESP32-DevKitM-1 on a breadboard.
+extra:
+  Flash / PSRAM: 4 MB Flash
+  Interfaces: I/O USB
+  Related Products: ESP32-MINI-1, ESP32-MINI-1U
+  UI: Buttons, LEDs
+links:
+  datasheets: []
+  examples: []
+  images:
+  - ./img/dr
+  models: []
+  products:
+  - https://www.espressif.com/en/products/devkits/ESP32-DevKitM-1
+  repositories: []
+name: ESP32-DevKitM-1
+ref: espressif/esp32-devkitm-1
+release_date: null
+sku: esp32-devkitm-1
+spec: null
+status: ''
+vendor: espressif

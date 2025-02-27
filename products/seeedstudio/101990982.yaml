@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: RS485 Multi-Depth Soil Moisture, Temperature and EC Sensor - Connector
+extra:
+  application: soil monitoring, agricultural greenhouses
+  price: $379.00
+  protection: IP68
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-113991275-sensecap-watcher-w1-b_1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/RS485-Multi-Depth-Soil-Moisture-Temperature-and-EC-Sensor-Connector-p-5387.html
+  repositories: []
+name: '101990982'
+ref: seeedstudio/101990982
+release_date: null
+sku: '101990982'
+spec: null
+status: ''
+vendor: seeedstudio

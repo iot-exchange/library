@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Buzzer Click is a compact add-on board for generating sound signals in
+  various electronic applications. This board features the CPT-7502-65-SMT-TR, a piezoelectric
+  buzzer transducer from Same Sky.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/buzzer-click/buzzer-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/buzzer-click
+  repositories: []
+name: MIKROE-6370
+ref: mikroe/mikroe-6370
+release_date: null
+sku: mikroe-6370
+spec: null
+status: ''
+vendor: mikroe

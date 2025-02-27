@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/StepperMotors/SM-12VDC-DRV/images/thumbs/200x150/SM-5VDC-DRV.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/StepperMotors/SM-12VDC-DRV/
+  repositories: []
+name: SM-12VDC-DRV
+ref: olimex/sm-12vdc-drv
+release_date: null
+sku: sm-12vdc-drv
+spec: null
+status: ''
+vendor: olimex

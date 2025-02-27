@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: LoRaWAN Soil Moisture & EC Sensor
+extra:
+  Bands: EU433, CN470,EU868,IN865,KR920,AS923,AU915,US915
+  Battery: 8500mAh Li/SOCl2 Battery (SE01-LB), Solar panel + 3000mAh Li-ion battery
+    (SE01-LS)
+  Features: Monitor Soil Moisture, Monitor Soil Temperature, Monitor Soil Conductivity
+    Temperature Compensation, Support Bluetooth v5.1 and LoRaWAN remote configure,
+    Support wireless OTA update firmware
+  Power Consumption: Ultra Low Power Consumption
+  Type: LoRaWAN Soil Moisture & EC Sensor
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/f8a458e18503c86603dc02339a944feb_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/agriculture-weather-station/item/277-se01-lb-ls.html
+  repositories: []
+name: SE01-LB/LS
+ref: dragino/se01-lb-ls
+release_date: null
+sku: se01-lb-ls
+spec: null
+status: ''
+vendor: dragino

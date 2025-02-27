@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-007-LCD-Frame/images/thumbs/200x150/TERES-007-LCD-Frame.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-007-LCD-Frame/
+  repositories: []
+name: TERES-007-LCD-Frame
+ref: olimex/teres-007-lcd-frame
+release_date: null
+sku: teres-007-lcd-frame
+spec: null
+status: ''
+vendor: olimex

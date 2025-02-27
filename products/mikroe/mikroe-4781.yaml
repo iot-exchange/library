@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Ambient 12 Click is a compact add-on board used to sense the amount of
+  the present ambient light. This board features the BH1620FVC, an analog current-output
+  type ambient light sensor from Rohm Semiconductor. It is characterized by spectral
+  sensitivity close to human eyes sensitivity and outputs current in proportion to
+  brightness.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ambient-12-click/ambient-12-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ambient-12-click
+  repositories: []
+name: MIKROE-4781
+ref: mikroe/mikroe-4781
+release_date: null
+sku: mikroe-4781
+spec: null
+status: ''
+vendor: mikroe

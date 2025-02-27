@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Sub-GHz Wireless Microcontrollers. Arm Cortex-M4 @48 MHz with 64 Kbytes
+  of Flash memory, 20 Kbytes of SRAM. G)FSK, (G)MSK, BPSK modulations. AES 256-bit.
+  Multiprotocol System-on-Chip.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.st.com/en/microcontrollers-microprocessors/stm32wle4c8.html
+  repositories: []
+name: STM32WLE4C8
+ref: st/stm32wle4c8
+release_date: null
+sku: stm32wle4c8
+spec: null
+status: ''
+vendor: st

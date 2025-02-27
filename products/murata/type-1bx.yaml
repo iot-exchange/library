@@ -1,0 +1,42 @@
+alternatives: []
+certifications: []
+description: Bluetooth 4.2 BR/EDR/LE module for consumer and industrial equipment.
+extra:
+  Bluetooth: 4.2 BR/EDR/LE
+  Chipset: CSR8811
+  Dimension: 5.0 x 4.5 x 1.0 mm
+  ETSI Report: 'No'
+  FCC/ISED Certified: 'No'
+  Frequency: 2.4GHz
+  Grade: Consumer
+  Host Interface (802.15.4): PCM
+  Host Interface (Bluetooth): UART
+  IC Manufacturer: Qualcomm
+  Integrated Antenna: 'No'
+  Interface Voltage: 1.8V,3.3V
+  MIC (Japan) Certified: 'No'
+  Mounting Type: SMT
+  Operating Temperature (degC): "-30\u2103 to 85\u2103"
+  Package: Resin
+  Packaging: Tape and Reel
+  Receive Mode Current: ''
+  RoHS Support: 'Yes'
+  Sleep Mode Current (Bluetooth): ''
+  Supply Voltage: 1.2V to 3.6V
+  Technology: Bluetooth
+  Transmit Mode Current (Bluetooth): 60mA @ 5 - 13dBm60mA @ 4 - 9dBm60mA @ -4 - 3dBm
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/products/connectivitymodule/bluetooth#series-lineup
+  repositories: []
+name: Type 1BX
+ref: murata/type-1bx
+release_date: null
+sku: type-1bx
+spec: null
+status: ''
+vendor: murata

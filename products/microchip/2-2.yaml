@@ -1,0 +1,40 @@
+alternatives: []
+certifications: []
+description: Microcontroller with Bluetooth LE, Zigbee, Thread, Proprietary
+extra:
+  Bluetooth: '5.2'
+  Core: ARM Cortex M4F
+  Current Consumption: '1.5'
+  Flash: '29'
+  Frequency: 64 MHz
+  Max Range (dBm): '-103'
+  Max Supply Voltage (V): '3.6'
+  Memory: '1024'
+  Microcontroller: 64 MHz, ARM Cortex M4F
+  Output Power: '12'
+  Package: 48/VQFN
+  RAM: '128'
+  Security Features: AES Engine, TRNG, SHA1, SHA224, SHA256
+  Sensitivity: '-103'
+  Supply Voltage (V): '1.9'
+  Temperature Range: -40 to 125
+  Tx Power (dBm): '12'
+  Type: SoC
+  Version: '3.0'
+  Voltage Range: 1.9 to 3.6
+  Wireless Protocols: Bluetooth LE, Zigbee, Thread, Proprietary
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - ''
+  repositories: []
+name: '2.2'
+ref: microchip/2-2
+release_date: null
+sku: 2-2
+spec: null
+status: ''
+vendor: microchip

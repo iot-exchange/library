@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32/BOX-ESP32-EVB-EA/images/thumbs/200x150/BOX-ESP32-EVB-EAd.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/IoT/ESP32/BOX-ESP32-EVB-EA/
+  repositories: []
+name: BOX-ESP32-EVB-EA
+ref: olimex/box-esp32-evb-ea
+release_date: null
+sku: box-esp32-evb-ea
+spec: null
+status: ''
+vendor: olimex

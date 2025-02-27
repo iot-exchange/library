@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Active
+extra:
+  Chipset (MCU): "x1 Cortex-M4F @ 800 MHz (via NXP\u2019s i.MX8M Quad processor)"
+  Chipset (MPU): "x4 Cortex-A53 @ 1.5 GHz (via NXP\u2019s i.MX8M Quad processor)"
+  Dimensions (L x W): 136.7 x 87
+  Wireless Specification: Wi-Fi 5 (802.11ac) Bluetooth 5
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/Nitrogen8M_SBC-e1550277453741.png
+  models: []
+  products:
+  - https://www.ezurio.com/single-board-computer/nxp-imx8/nitrogen8m-sbc
+  repositories: []
+name: Nitrogen8M SBC
+ref: ezurio/nitrogen8m-sbc
+release_date: null
+sku: nitrogen8m-sbc
+spec: null
+status: Active
+vendor: ezurio

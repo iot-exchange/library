@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 30.56 EUR
+  discountedPrice2: 27.16 EUR
+  price: 33.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-P2919/images/thumbs/200x150/LPC-P2919-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-P2919/
+  repositories: []
+name: LPC-P2919
+ref: olimex/lpc-p2919
+release_date: null
+sku: lpc-p2919
+spec: null
+status: ''
+vendor: olimex

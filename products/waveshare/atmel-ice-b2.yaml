@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Atmel-ICE Basic Kit, Comes with Additional Adapter and Cables
+extra:
+  Price: $228.63 - $229.99
+  SKU: '14638'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/t/atmel-ice-b2_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/atmel-ice-b2.htm
+  repositories: []
+name: Atmel-ICE-B2
+ref: waveshare/atmel-ice-b2
+release_date: null
+sku: atmel-ice-b2
+spec: null
+status: ''
+vendor: waveshare

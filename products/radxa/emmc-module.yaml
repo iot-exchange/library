@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Superior Performance, Storage Upgrade eMMC5.1
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/accessories/va001/thumb_emmc_module.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/emmc-module
+  repositories: []
+name: eMMC Module
+ref: radxa/emmc-module
+release_date: null
+sku: emmc-module
+spec: null
+status: ''
+vendor: radxa

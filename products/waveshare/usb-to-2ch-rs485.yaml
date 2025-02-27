@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: USB TO 2CH RS485 Industrial Grade Isolated Converter, USB To RS485 Adapter,
+  Onboard Original FT2232HL Chip, Stable And Reliable Communication
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/o/poe-splitter-25w-type-c-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-2ch-rs485-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/usb-to-2ch-rs485.htm
+  - https://www.waveshare.com/product/usb-to-2ch-rs485.htm "USB TO 2CH RS485 Industrial
+    Grade Isolated Converter, USB To RS485 Adapter, Onboard Original FT2232HL Chip,
+    Stable And Reliable Communication"
+  repositories: []
+name: USB TO 2CH RS485
+ref: waveshare/usb-to-2ch-rs485
+release_date: null
+sku: usb-to-2ch-rs485
+spec: null
+status: ''
+vendor: waveshare

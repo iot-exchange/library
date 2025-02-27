@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: LTE IoT 8 Click is a compact add-on board that contains a low-power solution
+  for LTE and NB-IoT connectivity. This board features the SKY66430-11, a multi-band
+  multi-chip System-in-Package (SiP) supporting 5G Massive IoT (LTE-M/NB-IoT) platforms
+  from Skyworks. The SiP integrates the entire RF front end, transceiver, power management,
+  memory, and baseband...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lte-iot-8-click/lte-iot-8-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/i2c-to-can-click/i2c-to-can-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/lte-iot-8-click
+  - https://www.mikroe.com/i2c-to-can-click
+  - https://www.mikroe.com/cart?add=1&id_product=3070
+  repositories: []
+name: MIKROE-4493
+ref: mikroe/mikroe-4493
+release_date: null
+sku: mikroe-4493
+spec: null
+status: ''
+vendor: mikroe

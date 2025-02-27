@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/IC/K4H511638J-LCCC/images/thumbs/200x150/HY5DU121622DTP-D43.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/IC/K4H511638J-LCCC/
+  repositories: []
+name: K4H511638J-LCCC
+ref: olimex/k4h511638j-lccc
+release_date: null
+sku: k4h511638j-lccc
+spec: null
+status: ''
+vendor: olimex

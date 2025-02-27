@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: This is an 8-megapixel camera with a FOV (field-of-view) of 200 degrees,
+  which is suitable to use with the NVIDIA Jetson Nano and NVIDIA Jetson Xavier NX
+  Development Kits.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992260_-preview-19.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/IMX219-200-Camera-200-FOV-Applicable-for-Jetson-Nano-p-4609.html
+  repositories: []
+name: '114992265'
+ref: seeedstudio/114992265
+release_date: null
+sku: '114992265'
+spec: null
+status: ''
+vendor: seeedstudio

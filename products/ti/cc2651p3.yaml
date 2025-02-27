@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC2651P3
+  repositories: []
+name: CC2651P3
+ref: ti/cc2651p3
+release_date: null
+sku: cc2651p3
+spec: null
+status: ''
+vendor: ti

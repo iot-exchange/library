@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Current 9 Click is a compact add-on board providing a precise and accurate\
+  \ current sensing solution. This board features the CT415-HSN830DR, high-bandwidth\
+  \ and ultra-low-noise XtremeSense\xAE TMR current sensor designed for the current\
+  \ range up to 30A from Allegro. This sensor also features an integrated current-carrying\
+  \ conductor which handles rated..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/current-9-click/current-9-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/current-9-click
+  repositories: []
+name: MIKROE-5319
+ref: mikroe/mikroe-5319
+release_date: null
+sku: mikroe-5319
+spec: null
+status: ''
+vendor: mikroe

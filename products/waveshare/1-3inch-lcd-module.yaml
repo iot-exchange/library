@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: 240x240, General 1.3inch LCD display Module, IPS, HD
+extra:
+  Price: $8.81 - $9.49
+  SKU: '15867'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.3inch-lcd-module-4_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/1.3inch-lcd-module.htm
+  - https://www.waveshare.com/1.3inch-lcd-module.htm "240x240, General 1.3inch LCD
+    display Module, IPS, HD"
+  repositories: []
+name: 1.3inch LCD Module
+ref: waveshare/1-3inch-lcd-module
+release_date: null
+sku: 1-3inch-lcd-module
+spec: null
+status: ''
+vendor: waveshare

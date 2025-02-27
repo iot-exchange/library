@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: RTC 19 Click is a compact add-on board that measures the passage of real-time.
+  This board features the MAX31334, an I2C-configurable real-time clock with an integrated
+  power switch from Analog Devices. The MAX31334 provides information like seconds,
+  minutes, hours, days, months, years, and dates based on a 32.768kHz quartz crystal
+  through an I2C serial...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rtc-19-click/rtc-19-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/rtc-19-click
+  repositories: []
+name: MIKROE-5426
+ref: mikroe/mikroe-5426
+release_date: null
+sku: mikroe-5426
+spec: null
+status: ''
+vendor: mikroe

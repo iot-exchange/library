@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC1352R
+  repositories: []
+name: CC1352R
+ref: ti/cc1352r
+release_date: null
+sku: cc1352r
+spec: null
+status: ''
+vendor: ti

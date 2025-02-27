@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: During the production testing, the signal board can be used as a standard
+  device for communication with the DUT (Provided by Espressif).
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/styles/medium/public/ESP-BAT32_L.png?itok=GItPXRV9
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/production_testing_guide_en.pdf
+  repositories: []
+name: ESP-BAT32
+ref: espressif/esp-bat32
+release_date: null
+sku: esp-bat32
+spec: null
+status: ''
+vendor: espressif

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-PCB3-TOUCH/images/thumbs/200x150/TERES-PCB3-TOUCH.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-PCB3-TOUCH/
+  repositories: []
+name: TERES-PCB3-TOUCH
+ref: olimex/teres-pcb3-touch
+release_date: null
+sku: teres-pcb3-touch
+spec: null
+status: ''
+vendor: olimex

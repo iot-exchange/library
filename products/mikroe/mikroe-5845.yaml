@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "Hall Current 17 Click is a compact add-on board that contains a precise\
+  \ solution for AC/DC current sensing. This board features the ACS37010, a high-accuracy\
+  \ current sensor from Allegro MicroSystems. The ACS37010 has a high operating bandwidth\
+  \ of 450kHz and a fast response time of 1.3\u03BCs response time."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/hall-current-17-click/hall-current-17-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/hall-current-17-click
+  repositories: []
+name: MIKROE-5845
+ref: mikroe/mikroe-5845
+release_date: null
+sku: mikroe-5845
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: $24.27  -  $26.99
+extra:
+  SKU: '6102'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/core407i_l.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/core407i.htm
+  repositories: []
+name: Core407I, STM32F4 Core Board
+ref: waveshare/core407i-stm32f4-core-board
+release_date: null
+sku: core407i-stm32f4-core-board
+spec: null
+status: ''
+vendor: waveshare

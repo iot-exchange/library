@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/DESOLDERING-PUMP-D-336A/images/thumbs/200x150/Desoldering-Pump-366--.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/Soldering/DESOLDERING PUMP D-336A/
+  repositories: []
+name: DESOLDERING PUMP D-336A
+ref: olimex/desoldering-pump-d-336a
+release_date: null
+sku: desoldering-pump-d-336a
+spec: null
+status: ''
+vendor: olimex

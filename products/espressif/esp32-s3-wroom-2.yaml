@@ -1,0 +1,32 @@
+alternatives: []
+certifications: []
+description: ESP32-S3-WROOM-2 is based on ESP32-S3R16V, with flash memory of Octal
+  32 MB and PSRAM memory of 16 MB. It provides acceleration for neural network computing
+  and signal processing workloads. They are an ideal choice for a wide variety of
+  application scenarios related to AI and Artificial Intelligence of Things (AIoT),
+  such as wake word detection and speech commands recognition, face detection and
+  recognition, smart home, smart appliances, smart control panel, smart speaker, etc.
+extra:
+  Antenna: PCB antenna
+  Chip Embedded: ESP32-S3R16V, ESP32-S3R8V(EOL)
+  Development Board: '[ESP32-S3-DevKitC-1](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitc-1.html)'
+  Dimensions (mm): "18\xD725.5\xD73.1"
+  Flash (MB): '32'
+  PSRAM (MB): '16'
+  Pins: '41'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-S3-WROOM-2%20S_0.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-2_datasheet_en.pdf
+  repositories: []
+name: ESP32-S3-WROOM-2
+ref: espressif/esp32-s3-wroom-2
+release_date: null
+sku: esp32-s3-wroom-2
+spec: null
+status: ''
+vendor: espressif

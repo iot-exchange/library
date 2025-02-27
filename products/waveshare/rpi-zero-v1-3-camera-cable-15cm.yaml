@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Zero V1.3 Camera Cable 15cm
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-zero-v1.3-camera-cable-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/raspberry-pi-zero-v1.3-camera-cable.htm
+  repositories: []
+name: RPi Zero V1.3 Camera Cable 15cm
+ref: waveshare/rpi-zero-v1-3-camera-cable-15cm
+release_date: null
+sku: rpi-zero-v1-3-camera-cable-15cm
+spec: null
+status: ''
+vendor: waveshare

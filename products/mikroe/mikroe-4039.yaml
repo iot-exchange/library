@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "The VCP Monitor Click is add-on board power monitor system. This Click\
+  \ board\u2122 is based on INA260AIPWR - precision digital current and power monitor\
+  \ with low-drift, integrated precision shunt resistor, from Texas Instruments. Therefore,\
+  \ using VCP Monitor Click, current, voltage and power can be monitored. The integrated\
+  \ current-sensing resistor ensures..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/vcp-monitor-click/vcp-monitor-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/vcp-monitor-click
+  repositories: []
+name: MIKROE-4039
+ref: mikroe/mikroe-4039
+release_date: null
+sku: mikroe-4039
+spec: null
+status: ''
+vendor: mikroe

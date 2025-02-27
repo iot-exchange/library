@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: 1.9inch Segment E-Paper Module, 91 Segments, I2C Bus, Ideal for Temperature
+  and humidity meter, Humidifier, Digital Meter
+extra:
+  SKU: '22689'
+  price: $12.31 - $12.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.9inch-segment-e-paper-module-1_1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.9inch-segment-e-paper-module-2_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/1.9inch-segment-e-paper-module.htm
+  repositories: []
+name: 1.9inch Segment e-Paper Module
+ref: waveshare/1-9inch-segment-e-paper-module
+release_date: null
+sku: 1-9inch-segment-e-paper-module
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: The ESP32-H2-WROOM-02C module is based on the ESP32-H2 chip, and can
+  be mounted onto the surface of a PCB board. It has 19 GPIOs, and the pin usage is
+  compatible with ESP8684-WROOM-02C/UC, ESP-WROOM-02D/U, ESP-WROOM-02.
+extra:
+  Antenna: PCB antenna
+  Chip Embedded: ESP32-H2FH2ESP32-H2FH4
+  Development Board: ESP32-Module-Prog-1(R), ESP-Module-Prog-SUB-02
+  Dimensions (mm): "18.0 \xD7 20.0 \xD7 3.2"
+  Flash (MB): 2, 4
+  Pins: '29'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-H2-WROOM-02C_S_0.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp32-h2-wroom-02c_datasheet_en.pdf
+  repositories: []
+name: ESP32-H2-WROOM-02C
+ref: espressif/esp32-h2-wroom-02c
+release_date: null
+sku: esp32-h2-wroom-02c
+spec: null
+status: ''
+vendor: espressif

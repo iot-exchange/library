@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/Adapters/UEXTx5/images/thumbs/200x150/UEXTx5-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/Adapters/UEXTx5/open-source-hardware
+  repositories: []
+name: UEXTx5
+ref: olimex/uextx5
+release_date: null
+sku: uextx5
+spec: null
+status: ''
+vendor: olimex

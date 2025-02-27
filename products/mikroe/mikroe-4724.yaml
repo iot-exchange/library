@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Heart Rate 10 Click is a compact add-on board suitable for heart rate
+  monitoring applications. This board features the MAX86916, an integrated optical
+  sensor with applications in bio-sensing, proximity, and color from Analog Devices.
+  The module includes internal LEDs, photodetectors, and low-noise electronics with
+  ambient-light-rejection circuitry and...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/heart-rate-10-click/heart-rate-10-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=81#Heart-Rate-10-Click
+  repositories: []
+name: MIKROE-4724
+ref: mikroe/mikroe-4724
+release_date: null
+sku: mikroe-4724
+spec: null
+status: ''
+vendor: mikroe

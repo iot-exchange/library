@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "The Buck 14 Click is a Click board\u2122 based around the BMR4613001/001,\
+  \ a PoL regulator from Flex. It's high-efficiency step-down converter which provides\
+  \ a highly regulated output voltage derived from the connected power source, rated\
+  \ from 4.5 to 14V. The regulated output voltage can be selected between 0.6V and\
+  \ 5V."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/buck-14-click/buck-14-click-home_default-1.jpg?v=100
+  models: []
+  products: []
+  repositories: []
+name: MIKROE-3847
+ref: mikroe/mikroe-3847
+release_date: null
+sku: mikroe-3847
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Pack of 10 pcs
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Fasteners/SCREW-DIN7985-M3X16/images/thumbs/200x150/DIN7985-P.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Fasteners/SCREW-DIN7985-M3X16/
+  repositories: []
+name: SCREW-DIN7985-M3X16
+ref: olimex/screw-din7985-m3x16
+release_date: null
+sku: screw-din7985-m3x16
+spec: null
+status: ''
+vendor: olimex

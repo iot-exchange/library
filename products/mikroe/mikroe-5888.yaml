@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: CAN FD 7 Click is a compact add-on board that contains a CAN transceiver
+  that supports both CAN and CAN FD protocols. This board features the TCAN1462, an
+  automotive fault-protected CAN FD transceiver from Texas Instruments.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/can-fd-7-click/can-fd-7-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/can-fd-7-click
+  repositories: []
+name: MIKROE-5888
+ref: mikroe/mikroe-5888
+release_date: null
+sku: mikroe-5888
+spec: null
+status: ''
+vendor: mikroe

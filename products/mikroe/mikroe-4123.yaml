@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: XPRO-Adapter Click is an adapter board for connecting Microchip Xplaned
+  Pro expansion boards with hundreds of mikroBUS based host boards. The Xplaned Pro
+  expansion header is standardized 20 pin connector which is allowing connection of
+  many Microchip/exAtmel expansion boards.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/xpro-adapter-click/xpro-adapter-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/xpro-adapter-click
+  repositories: []
+name: MIKROE-4123
+ref: mikroe/mikroe-4123
+release_date: null
+sku: mikroe-4123
+spec: null
+status: ''
+vendor: mikroe

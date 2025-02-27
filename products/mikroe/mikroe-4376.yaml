@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: ADC 12 Click is a compact add-on board that contains a fully-featured,
+  general-purpose analog-to-digital converter. This board features the ADS7828, a
+  low-power 12-bit data acquisition device that features a serial I2C interface and
+  an 8-channel multiplexer from Texas Instruments. The A/D converter features a sample-and-hold
+  amplifier and an internal,...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/adc-12-click/adc-12-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/adc-12-click
+  repositories: []
+name: MIKROE-4376
+ref: mikroe/mikroe-4376
+release_date: null
+sku: mikroe-4376
+spec: null
+status: ''
+vendor: mikroe

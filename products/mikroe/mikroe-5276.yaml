@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Load Cell 7 Click is a compact add-on board representing a weigh scale
+  solution. This board features the ADS1230, a high-precision 20-bit delta-sigma analog-to-digital
+  converter (ADC) with an outstanding noise performance from Texas Instruments. This
+  SPI-configurable ADC (read-only) offers selectable gain and data rate values, supporting
+  a full-scale...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/load-cell-7-click/load-cell-7-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/load-cell-7-click
+  repositories: []
+name: MIKROE-5276
+ref: mikroe/mikroe-5276
+release_date: null
+sku: mikroe-5276
+spec: null
+status: ''
+vendor: mikroe

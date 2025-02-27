@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrices:
+  - 15.19 EUR
+  - 14.88 EUR
+  - 14.57 EUR
+  - 14.26 EUR
+  price: 15.50 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/IoT/NB-IoT/NB-IoT-BC66/images/thumbs/200x150/BC66.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/IoT/NB-IoT/NB-IoT-BC660H-ANT/
+  repositories: []
+name: NB-IoT-BC660H-ANT
+ref: olimex/nb-iot-bc660h-ant
+release_date: null
+sku: nb-iot-bc660h-ant
+spec: null
+status: ''
+vendor: olimex

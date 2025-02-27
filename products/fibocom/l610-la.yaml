@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTECat1-L610-LA.html
+  repositories: []
+name: L610-LA
+ref: fibocom/l610-la
+release_date: null
+sku: l610-la
+spec: null
+status: ''
+vendor: fibocom

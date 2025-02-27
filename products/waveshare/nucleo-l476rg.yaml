@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: STM32 Nucleo-64 development board
+extra:
+  Price: $27.97 - $28.99
+  SKU: '11307'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/img_1248_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/nucleo-l476rg.htm
+  repositories: []
+name: NUCLEO-L476RG
+ref: waveshare/nucleo-l476rg
+release_date: null
+sku: nucleo-l476rg
+spec: null
+status: ''
+vendor: waveshare

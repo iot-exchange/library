@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: The Gear Stepper Motor Driver Pack includes a stepper motor and a motor
+  drive board. It's a four-phase eight-stepping stepper motor, and you can easily
+  control this stepper motor via the drive board. You can use this pack for position
+  control.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.seeedstudio.com/Gear-Stepper-Motor-Driver-Pack-p-3200.html
+  repositories: []
+name: '105990072'
+ref: seeedstudio/105990072
+release_date: null
+sku: '105990072'
+spec: null
+status: ''
+vendor: seeedstudio

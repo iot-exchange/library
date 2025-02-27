@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Color 16 Click is a compact add-on board providing an accurate color-sensing\
+  \ solution. This board features ams AG\u2019s AS7343, a 14-channel multi-purpose\
+  \ spectral sensor offering spectral response through a compatible I2C interface.\
+  \ It has a built-in aperture that controls the light entering the sensor array to\
+  \ increase accuracy, alongside precise optical..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/color-16-click/color-16-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/color-16-click
+  repositories: []
+name: MIKROE-5421
+ref: mikroe/mikroe-5421
+release_date: null
+sku: mikroe-5421
+spec: null
+status: ''
+vendor: mikroe

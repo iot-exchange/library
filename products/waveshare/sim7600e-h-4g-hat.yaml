@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: SIM7600E-H 4G HAT for Raspberry Pi, LTE Cat-4 4G / 3G / 2G, GNSS, for
+  Europe, Southeast Asia, West Asia, Africa
+extra:
+  Price: $69.29 - $70.99
+  SKU: '14952'
+  price: $69.29 - $70.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim7600e-h-4g-hat-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/sim7600e-h-4g-hat.htm
+  repositories: []
+name: SIM7600E-H 4G HAT
+ref: waveshare/sim7600e-h-4g-hat
+release_date: null
+sku: sim7600e-h-4g-hat
+spec: null
+status: ''
+vendor: waveshare

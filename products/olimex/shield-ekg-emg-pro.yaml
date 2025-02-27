@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 10.00 EUR
+  price2: 9.00 EUR
+  price3: 8.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Duino/Shields/SHIELD-EKG-EMG-PRO/images/thumbs/200x150/SHIELD-EKG-EMG-PRO.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Duino/Shields/SHIELD-EKG-EMG-PRO/
+  repositories: []
+name: SHIELD-EKG-EMG-PRO
+ref: olimex/shield-ekg-emg-pro
+release_date: null
+sku: shield-ekg-emg-pro
+spec: null
+status: ''
+vendor: olimex

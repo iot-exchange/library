@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: JetBot Professional Version ROS AI Kit B, Dual Controllers AI Robot,
+  Lidar Mapping, Vision Processing, comes with Waveshare Jetson Nano Dev Kit.
+extra:
+  Price: $229.99 - $529.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetbot-ros-ai-kit-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/jetbot-ros-ai-kit.htm
+  repositories: []
+name: jetbot_ros_ai_kit
+ref: waveshare/jetbot-ros-ai-kit
+release_date: null
+sku: jetbot-ros-ai-kit
+spec: null
+status: ''
+vendor: waveshare

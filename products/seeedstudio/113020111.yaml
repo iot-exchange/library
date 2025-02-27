@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "MCP2551 and MCP2515 I2C CAN-BUS Module enable your Arduino and other\
+  \ MCU to communicate to CAN-BUS to hack your vehicle. This module provides speed\
+  \ up to 1Mb/s. It also has a terminal block so you can connect to your vehicle\u2019\
+  s OBD-II port with two wires."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/113020111-45-font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/I2C-CAN-Bus-Module-p-5054.html
+  repositories: []
+name: '113020111'
+ref: seeedstudio/113020111
+release_date: null
+sku: '113020111'
+spec: null
+status: ''
+vendor: seeedstudio

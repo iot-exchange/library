@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: NB-IoT Soil pH Sensor
+extra:
+  Battery: 8500mAh Battery for long term use
+  Function: Monitor soil pH with temperature compensation, Monitor soil temperature
+  NB-IoT Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85 @H-FDD
+  Power Consumption: Ultra-low
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/753a82091bdf93df272697e1f26229c2_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/agriculture-weather-station/item/307-sph01-nb.html
+  repositories: []
+name: SPH01-NB
+ref: dragino/sph01-nb
+release_date: null
+sku: sph01-nb
+spec: null
+status: ''
+vendor: dragino

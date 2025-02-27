@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "WM1302 module is a new generation of Long Range gateway module in mini-PCIe\
+  \ form-factor based on Semtech\xAE SX1302 but without the SX1262. It features extremely\
+  \ low power consumption, and outstanding performance with CE certification."
+extra:
+  features: low power consumption, CE certification
+  price: $25.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993268-wm1302-lorawan-gateway-module-without-sx126_spi_---eu868-45font_1.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/1/-/1-101990793-industrial-turbidity_sensor.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/WM1302-LoRaWAN-Gateway-Module-Without-SX126-SPI-EU868-p-5847.html
+  repositories: []
+name: '114993268'
+ref: seeedstudio/114993268
+release_date: null
+sku: '114993268'
+spec: null
+status: ''
+vendor: seeedstudio

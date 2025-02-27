@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: USB Type-C Male To USB-A Female Adapter
+extra:
+  Price: $2.32 - $2.49
+  SKU: '23322'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-c-to-usb-a-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/usb-c-to-usb-a.htm
+  repositories: []
+name: USB-C TO USB-A
+ref: waveshare/usb-c-to-usb-a
+release_date: null
+sku: usb-c-to-usb-a
+spec: null
+status: ''
+vendor: waveshare

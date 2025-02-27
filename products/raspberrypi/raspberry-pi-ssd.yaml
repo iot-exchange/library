@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: A reliable, responsive, and high-performance PCIe Gen3-compliant SSD
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/ssd/
+  repositories: []
+name: Raspberry Pi SSD
+ref: raspberrypi/raspberry-pi-ssd
+release_date: null
+sku: raspberry-pi-ssd
+spec: null
+status: ''
+vendor: raspberrypi

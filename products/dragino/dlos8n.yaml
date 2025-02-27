@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Open Source Embedded Linux systemManaged by Web GUI, SSH via LAN or WiFiSX1302
+  + 2 * SX1250Support Semtech UDP packet forwarderSupport LoRaWAN Station ConnectionSupport
+  MQTTSAuto-ProvisionRemote Monitoring
+extra:
+  Management: Web GUI, SSH
+  System: Open Source Embedded Linux
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/7a6409a35f8223f856dc99651cb33cb1_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lora-lorawan-gateway/item/225-dlos8n.html
+  repositories: []
+name: DLOS8N
+ref: dragino/dlos8n
+release_date: null
+sku: dlos8n
+spec: null
+status: ''
+vendor: dragino

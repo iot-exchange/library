@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: The industrial-grade PAR sensor measures real-time photosynthetically
+  active radiation across the radiation range from 400 to 700 nm. It contains a Silicon
+  photodetector and generates a voltage signal that is directly proportional to the
+  PAR under the light source.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/3/1/314990734_front-05.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/PAR-2-5V-p-4831.html
+  repositories: []
+name: '314990734'
+ref: seeedstudio/314990734
+release_date: null
+sku: '314990734'
+spec: null
+status: ''
+vendor: seeedstudio

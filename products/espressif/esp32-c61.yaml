@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: 32-bit RISC-V MCU & 2.4 GHz Wi-Fi 6 & Bluetooth 5 (LE)
+extra:
+  Core: Single Core
+  Development Board: ESP32-C61-DevKitC-1
+  Dimensions (mm): "QFN 5\xD75"
+  Flash (MB): '04'
+  Footprint: N/A
+  Footprint Link: ''
+  Module: ESP32-C61-WROOM-1
+  PSRAM (MB): '20'
+  Pins: '40'
+  RAM/ROM (KB): 256 KB ROM, 320 KB SRAM
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP32-C61_S_0.png
+  models: []
+  products:
+  - https://products.espressif.com/#/product-selector?language=en
+  repositories: []
+name: ESP32-C61
+ref: espressif/esp32-c61
+release_date: null
+sku: esp32-c61
+spec: null
+status: ''
+vendor: espressif

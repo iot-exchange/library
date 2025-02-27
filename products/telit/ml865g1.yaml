@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/11/TC_ML865G1_dyn-236x200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/ml865g1-series/
+  repositories: []
+name: ML865G1
+ref: telit/ml865g1
+release_date: null
+sku: ml865g1
+spec: null
+status: ''
+vendor: telit

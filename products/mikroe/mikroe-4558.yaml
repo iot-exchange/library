@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: a high-accuracy ultra-low-power relative humidity, and a temperature
+  sensor combined with MOx based gas sensor. The SHT40 sensor offers linearized digital
+  output, provides constant...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/environment-2-click/environment-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/environment-2-click
+  - https://www.mikroe.com/cart?add=1&id_product=3003
+  repositories: []
+name: MIKROE-4558
+ref: mikroe/mikroe-4558
+release_date: null
+sku: mikroe-4558
+spec: null
+status: ''
+vendor: mikroe

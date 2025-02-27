@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: "15.6inch QLED Quantum Dot Display, 1920\xD71080, Optical Bonding Toughened\
+  \ Glass Panel, 100%sRGB, Metal Case, Thin and Light Design"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/5/15.6inch-qled-monitor-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/15.6inch-qled-monitor.htm
+  repositories: []
+name: 156_qled_monitor
+ref: waveshare/156-qled-monitor
+release_date: null
+sku: 156-qled-monitor
+spec: null
+status: ''
+vendor: waveshare

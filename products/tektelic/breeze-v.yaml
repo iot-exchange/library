@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: INDOOR AIR QUALITY, CO2 & OCCUPANCY SENSOR
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://tektelic.com/wp-content/uploads/BREEZE-V-ISO-1.png
+  models: []
+  products:
+  - https://tektelic.com/products/sensors/breeze-v-occupancy-sensor/
+  repositories: []
+name: BREEZE-V
+ref: tektelic/breeze-v
+release_date: null
+sku: breeze-v
+spec: null
+status: ''
+vendor: tektelic

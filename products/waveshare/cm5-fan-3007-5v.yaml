@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Dedicated 3007 Cooling Fan For Raspberry Pi Compute Module 5, Low Noise,
+  With Thermal Tapes, 5V Power Supply
+extra:
+  Price: $6.31 - $6.99
+  SKU: '29437'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm5-fan-3007-5v-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm5-fan-3007-5v-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/cm5-fan-3007-5v.htm
+  repositories: []
+name: CM5-FAN-3007-5V
+ref: waveshare/cm5-fan-3007-5v
+release_date: null
+sku: cm5-fan-3007-5v
+spec: null
+status: ''
+vendor: waveshare

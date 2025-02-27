@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 18650 Battery Holder Case with wire leads for soldering / connecting
+extra:
+  connection: wire leads for soldering
+  slots: '4'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/_/_/__20190826233640.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/18650-Battery-Holder-Case-4-Slot-p-4161.html
+  repositories: []
+name: '114090052'
+ref: seeedstudio/114090052
+release_date: null
+sku: '114090052'
+spec: null
+status: ''
+vendor: seeedstudio

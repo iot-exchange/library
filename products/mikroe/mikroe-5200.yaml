@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "EasyMx PRO v7a for STM32 ARM\xAE is a development board for STM32 ARM\xAE\
+  \ Cortex\u2122-M0, Cortex\u2122-M3, Cortex\u2122-M4 and Cortex\u2122-M7 devices.\
+  \ It features USB Type-C CODEGRIP programmer/debugger. It contains many on-board\
+  \ modules necessary for the development variety of applications, including multimedia,\
+  \ Ethernet, USB, CAN, and other."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/easymx-pro-v7a-for-stm32/easymx-pro-v7a-for-stm32-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/easymx-pro-v7a-for-stm32
+  repositories: []
+name: MIKROE-5200
+ref: mikroe/mikroe-5200
+release_date: null
+sku: mikroe-5200
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "TFmini Click is an adapter Click board\u2122 used to interface a compatible\
+  \ ToF (Time of Flight) LiDAR sensor with the host MCU. This board features one four\
+  \ positions 1.25mm connector suitable for a TFmini LiDAR module (TFmini Plus and\
+  \ TFmini-S) specially made to measure an object's distance. Depending on the used\
+  \ LiDAR module, it is possible to achieve..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/tfmini-click/tfmini-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=67#TFmini-Click
+  repositories: []
+name: MIKROE-4974
+ref: mikroe/mikroe-4974
+release_date: null
+sku: mikroe-4974
+spec: null
+status: ''
+vendor: mikroe

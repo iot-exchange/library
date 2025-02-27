@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: LCD1602 I2C Module, White color with blue background, 16x2 characters
+  LCD, 3.3V/5V
+extra:
+  price: $7.31 - $7.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/c/lcd1602-i2c-module-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/lcd1602-i2c-module.htm
+  repositories: []
+name: LCD1602 I2C Module
+ref: waveshare/lcd1602-i2c-module
+release_date: null
+sku: lcd1602-i2c-module
+spec: null
+status: ''
+vendor: waveshare

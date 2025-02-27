@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: EEPROM 12 Click is a compact add-on board that contains a highly reliable,
+  nonvolatile memory solution. This board features the M24256E, an EEPROM from STMicroelectronics.
+  It is a 256Kbit (32KB) EEPROM with a page size of 64 bytes and an additional identification
+  page with the same size. This identification page can be read or written and (later)...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/eeprom-12-click/eeprom-12-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/eeprom-12-click
+  repositories: []
+name: MIKROE-5893
+ref: mikroe/mikroe-5893
+release_date: null
+sku: mikroe-5893
+spec: null
+status: ''
+vendor: mikroe

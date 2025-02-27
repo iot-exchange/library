@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: RS Transceiver Click is a compact add-on board that offers an interface
+  between the TTL level UART and RS-232/RS-422/RS-485 communication buses. This board
+  features the XR34350, an RS-232/RS-422/RS-485 serial transceiver with internal termination
+  and wide output swing from MaxLinear. Integrated cable termination and four configuration
+  modes allow all.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rs-transceiver-click/rs-transceiver-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/rs-transceiver-click
+  repositories: []
+name: MIKROE-5746
+ref: mikroe/mikroe-5746
+release_date: null
+sku: mikroe-5746
+spec: null
+status: ''
+vendor: mikroe

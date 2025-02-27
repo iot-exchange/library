@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "DAC 12 Click is a compact add-on board that contains a highly accurate\
+  \ digital-to-analog converter. This board features the DAC60508, a general-purpose\
+  \ octal 12-bit analog voltage-output DAC from Texas Instruments. It includes a 2.5V,\
+  \ 5ppm/\xB0C internal reference, eliminating the need for an external precision\
+  \ reference in most applications, and supports..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dac-12-click/dac-12-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/dac-12-click
+  repositories: []
+name: MIKROE-5097
+ref: mikroe/mikroe-5097
+release_date: null
+sku: mikroe-5097
+spec: null
+status: ''
+vendor: mikroe

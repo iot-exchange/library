@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: "reComputer Mini J3011 is a tiny AI computer powered by NVIDIA\xAE Jetson\
+  \ Orin\u2122 Nano 8GB module, delivering up to 40 TOPS AI performance. It\u2018\
+  s equipped with PCIe port at the bottom to provide rich expansion capabilities,\
+  \ which also can be customized flexibly. The whole system is designed for embedding\
+  \ into autonomous machines such as drones, patrol robots, delivering robots, etc.\
+  \ It can directly occupy 54V DC input, able to be widely used in battery powered\
+  \ systems."
+extra:
+  Price: $599.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-recomputer-mini-j3040-_without-expansion-board__1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/reComputer-Mini-J3011-p-6356.html
+  repositories: []
+name: '102110999'
+ref: seeedstudio/102110999
+release_date: null
+sku: '102110999'
+spec: null
+status: ''
+vendor: seeedstudio

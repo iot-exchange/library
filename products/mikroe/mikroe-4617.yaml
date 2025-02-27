@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: LR 4 Click is a compact add-on board that contains a long-range transceiver.
+  This board features the 32001353, RF technology-based SRD transceiver, which operates
+  at a frequency of 868MHz from Mipot.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lr-4-click/lr-4-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/lr-4-click
+  repositories: []
+name: MIKROE-4617
+ref: mikroe/mikroe-4617
+release_date: null
+sku: mikroe-4617
+spec: null
+status: ''
+vendor: mikroe

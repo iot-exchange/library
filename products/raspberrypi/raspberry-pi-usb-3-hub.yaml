@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Provide extra connectivity for your devices with four additional USB
+  ports
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/usb-3-hub/
+  repositories: []
+name: Raspberry Pi USB 3 Hub
+ref: raspberrypi/raspberry-pi-usb-3-hub
+release_date: null
+sku: raspberry-pi-usb-3-hub
+spec: null
+status: ''
+vendor: raspberrypi

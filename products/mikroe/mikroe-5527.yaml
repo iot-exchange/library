@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: GNSS 12 Click is a compact add-on board that provides positioning, navigation,
+  and timing services. This board features the CAM-M8C, a professional-grade GNSS
+  module built on the high-performing M8 GNSS engine from u-blox. This module utilizes
+  concurrent reception of up to three GNSS systems (GPS/Galileo together with either
+  BeiDou or GLONASS), offering...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gnss-12-click/gnss-12-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/gnss-12-click
+  repositories: []
+name: MIKROE-5527
+ref: mikroe/mikroe-5527
+release_date: null
+sku: mikroe-5527
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: For flashing / testing ESP32-PICO-MINI-02U module (must be used with
+  ESP-BAT32 for testing)
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/production_testing_guide_en.pdf
+  repositories: []
+name: ESP32-PICO-MINI-V2
+ref: espressif/esp32-pico-mini-v2
+release_date: null
+sku: esp32-pico-mini-v2
+spec: null
+status: ''
+vendor: espressif

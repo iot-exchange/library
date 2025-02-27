@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 0.90 EUR
+  discountedPrice2: 0.80 EUR
+  price: 1.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/RFID-Tags/MIFARE/RFID1356-CSH-MIFARE/images/thumbs/200x150/RFID1356-MIFARE-CSH-2.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/RFID-Tags/MIFARE/RFID-NFC-STI-20MM/
+  repositories: []
+name: RFID1356-CSH-MIFARE
+ref: olimex/rfid1356-csh-mifare
+release_date: null
+sku: rfid1356-csh-mifare
+spec: null
+status: ''
+vendor: olimex

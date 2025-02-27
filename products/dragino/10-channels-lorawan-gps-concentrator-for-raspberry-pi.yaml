@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: LoRaWAN and GPS expansion board for Raspberry Pi. Supports RPI 2 / 3B
+  /3B+ Base on sx1301 + 2 * SX1257 10 programmable parallel demodulation paths
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/725ab2e5536ce3eac0a8dd17d083ff4e_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lora/item/149-lora-gps-hat.html
+  repositories: []
+name: 10 channels - LoRaWAN GPS Concentrator for Raspberry Pi
+ref: dragino/10-channels-lorawan-gps-concentrator-for-raspberry-pi
+release_date: null
+sku: 10-channels-lorawan-gps-concentrator-for-raspberry-pi
+spec: null
+status: ''
+vendor: dragino

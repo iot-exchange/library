@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: The 12MP, 8mm lens for Raspberry Pi Camera Sensor is well suited for
+  Raspberry Pi camera sensor with M12-mout connection. It provides 12 million pixel
+  camera capture, and 8mm focal length, designed for high quality image capture.
+extra:
+  Price: $22.90
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114993035.jpg
+  - ./img/ai
+  models: []
+  products:
+  - https://www.seeedstudio.com/12MP-8mm-lens-p-5581.html
+  repositories: []
+name: '114993035'
+ref: seeedstudio/114993035
+release_date: null
+sku: '114993035'
+spec: null
+status: ''
+vendor: seeedstudio

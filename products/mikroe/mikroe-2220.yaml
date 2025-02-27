@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Color 4 Click is a compact add-on board providing an accurate color-sensing\
+  \ solution. This board features the VEML6040 from Vishay Semiconductors, a 16-bit\
+  \ RGBW color sensor offering spectral response through a compatible I2C interface.\
+  \ The VEML6040 is based on the Filtron\u2122 technology and achieves the closest\
+  \ ambient light spectral sensitivity to..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/color-4-click/color-4-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/color-4-click
+  repositories: []
+name: MIKROE-2220
+ref: mikroe/mikroe-2220
+release_date: null
+sku: mikroe-2220
+spec: null
+status: ''
+vendor: mikroe

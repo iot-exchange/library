@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "reComputer J202 has nearly the same design and function as NVIDIA\xAE\
+  \ Jetson Xavier NX\u2122 carrier board, perfectly works with Jetson Nano/Xavier\
+  \ NX/TX2 NX module, and consists of 4x USB3.1 gen2 ports, M.2 key E for WIFI, M.2\
+  \ Key M for SSD, RTC, CAN, Raspberry Pi GPIO 40-pin, and so on."
+extra:
+  Price: $139.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991695---45font.jpg
+  - https://www.seeedstudio.com/img/p
+  models: []
+  products:
+  - https://www.seeedstudio.com/reComputer-J202-Carrier-Board-for-Jetson-Xavier-NX-p-5397.html
+  - https://www.seeedstudio.com/recomputer-j202-carrier-board-for-jetson-xavier-nx-nano-tx2-nx.html
+  repositories: []
+name: '102991695'
+ref: seeedstudio/102991695
+release_date: null
+sku: '102991695'
+spec: null
+status: ''
+vendor: seeedstudio

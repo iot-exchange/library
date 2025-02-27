@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "Arduino Nicla Vision - Dual Arm\xAE Cortex\xAE M7/M4, NXP SE050C2 Crypto\
+  \ chip, Wi-Fi, Bluetooth\xAE, 2 MP Color Camera, 6-Axis IMU, Distance/Time of Flight\
+  \ sensor, Microphone"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101021093---grove---nfc_st25dv64kc_-45font_1.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102080087-arduino-nicla-vision-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Nicla-Vision-p-5689.html
+  repositories: []
+name: '102080087'
+ref: seeedstudio/102080087
+release_date: null
+sku: '102080087'
+spec: null
+status: ''
+vendor: seeedstudio

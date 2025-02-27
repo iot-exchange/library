@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Switches/MAG-SW/images/thumbs/200x150/MAG-SW.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Switches/MAG-SW/
+  repositories: []
+name: MAG-SW
+ref: olimex/mag-sw
+release_date: null
+sku: mag-sw
+spec: null
+status: ''
+vendor: olimex

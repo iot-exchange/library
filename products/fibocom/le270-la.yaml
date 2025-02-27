@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTECat1-LE270-LA.html
+  repositories: []
+name: LE270-LA
+ref: fibocom/le270-la
+release_date: null
+sku: le270-la
+spec: null
+status: ''
+vendor: fibocom

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Official Raspberry Pi 4 Micro HDMI to Standard HDMI Cable, 1M, White
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi-official-micro-hdmi-cable-1m-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pi-official-micro-hdmi-cable-1m.htm
+  repositories: []
+name: PI-OFFICIAL-MICRO-HDMI-CABLE-1M
+ref: waveshare/pi-official-micro-hdmi-cable-1m
+release_date: null
+sku: pi-official-micro-hdmi-cable-1m
+spec: null
+status: ''
+vendor: waveshare

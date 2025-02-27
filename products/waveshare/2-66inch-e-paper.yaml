@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "296\xD7152, 2.66inch e-Paper E-Ink Raw Display Panel, Black / White"
+extra:
+  Price: $8.31 - $8.99
+  SKU: '18401'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.66inch-e-paper-1_3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/2.66inch-e-paper.htm
+  repositories: []
+name: 2.66inch e-Paper
+ref: waveshare/2-66inch-e-paper
+release_date: null
+sku: 2-66inch-e-paper
+spec: null
+status: ''
+vendor: waveshare

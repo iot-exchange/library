@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: MQTT Anywhere KIT is a great way to get started with building your custom
+  IoT Communication-as-a-Service SIM-based LPWA device. It comes preinstalled with
+  the Thingstream client SDK demo, which enables the device to connect to the Thingstream
+  global MQTT network and connectivity tools straight out of the box. Global connectivity
+  is achieved by connecting...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mqtt-anywhere-kit-page/mqtt-anywhere-kit-page-home_default-11.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/mqtt-anywhere-kit-page
+  repositories: []
+name: MIKROE-5619
+ref: mikroe/mikroe-5619
+release_date: null
+sku: mikroe-5619
+spec: null
+status: ''
+vendor: mikroe

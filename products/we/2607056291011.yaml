@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: Telesto-II
+extra:
+  Antenna Type: "\u2013"
+  Current Consumption: '38.4'
+  Data Rate: '2'
+  Dimensions: 17 x 27 x 3.8
+  Expected lifetime: '>10 years'
+  Frequency Range: 902.5 - 927.5
+  Output Power: '700'
+  Production: active
+  Sensitivity: '-99'
+  Supply Voltage: '3.6'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o139394v214%20Single_Thadeus_2605031141000.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/TELESTO-II#2607021191010
+  repositories: []
+name: '2607056291011'
+ref: we/2607056291011
+release_date: null
+sku: '2607056291011'
+spec: null
+status: Active
+vendor: we

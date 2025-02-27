@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: This camera module benefits from Fisheye Lens to achieve 62 Field of
+  View, utilizing the OV5647 sensor to reach 2592 x 1944 active array size image show,
+  supporting Raspberry Pi 3B+4B. It includes on-module 4 screw holes and an adjustable
+  3.6mm focal length lens, all of which make it suitable for large spaces camera shooting,
+  perfect for high-quality large landscape surveillance.
+extra:
+  Price: $7.90
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114110127-ov5647-69.1-fov-camera-module-for-raspberry-pi-3b_4b-font.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114110129-ov5647-75-fov--ir-camera-module-for-raspberry-pi-3b_4b-45-font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/OV5647-69-1-FOV-Camera-module-for-Raspberry-Pi-3B-4B-p-5484.html
+  repositories: []
+name: '114110127'
+ref: seeedstudio/114110127
+release_date: null
+sku: '114110127'
+spec: null
+status: ''
+vendor: seeedstudio

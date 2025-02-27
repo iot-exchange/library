@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: The reTerminal is a Human-Machine Interface facility, designed in modularization,
+  offered multiple interfaces and components. It is your hand-size, powerful, Raspberry
+  Pi-based all-in-one board, assisting you to develop individual IoT & AI projects
+  and being ready to materialize industrial-level monitor and control functions.
+extra:
+  price: $189.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/_/1/_1_8032_1.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/3/2/320991108_preview-07-min.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/ReTerminal-with-CM4-p-4904.html
+  repositories: []
+name: '110070048'
+ref: seeedstudio/110070048
+release_date: null
+sku: '110070048'
+spec: null
+status: ''
+vendor: seeedstudio

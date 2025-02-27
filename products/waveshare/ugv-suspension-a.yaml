@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: All-metal Compact UGV Suspension (A), High-strength Spring, 7.5KG Load
+  Capacity, Suitable for DDSM115 Hub Motor
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/g/ugv-suspension-a-2.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/g/ugv-suspension-a-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ugv-suspension-a.htm
+  repositories: []
+name: UGV Suspension (A)
+ref: waveshare/ugv-suspension-a
+release_date: null
+sku: ugv-suspension-a
+spec: null
+status: ''
+vendor: waveshare

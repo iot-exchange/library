@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Our third-generation Compute Module
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/ab04855fad5011458a6064dfc587d3a7/3f4ea/28acffb3-850a-4882-8d53-9aec76a4064f_Cm3%2B%2BANGLE%2B1%2BREFRESH.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/compute-module-3-plus/
+  repositories: []
+name: Compute Module 3+
+ref: raspberrypi/compute-module-3
+release_date: null
+sku: compute-module-3
+spec: null
+status: ''
+vendor: raspberrypi

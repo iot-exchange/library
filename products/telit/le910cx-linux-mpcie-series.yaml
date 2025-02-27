@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/11/TC_LE910Cx_mPCie_dynamic_236_200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/le910cx-mini-pcie-series/
+  repositories: []
+name: LE910Cx Linux mPCIe Series
+ref: telit/le910cx-linux-mpcie-series
+release_date: null
+sku: le910cx-linux-mpcie-series
+spec: null
+status: ''
+vendor: telit

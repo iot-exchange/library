@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: NB-IoT 4 Channels Current Sensor Converter. Supports maximum 4 current
+  sensors.
+extra:
+  Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85
+  Battery: 8500mAh Li/SOCl2 (For CS01-NB), Solar panel + 3000mAh Li-ion battery (For
+    CS01-NS)
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/d81dde7813bd99a2f6a5498a2ec932ec_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/distance-level-sensor/item/338-cs01-nb-ns.html
+  repositories: []
+name: CS01-NB/NS
+ref: dragino/cs01-nb-ns
+release_date: null
+sku: cs01-nb-ns
+spec: null
+status: ''
+vendor: dragino

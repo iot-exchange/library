@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Kerlink Wirnet iZeptoCell is perfectly designed to power indoor LPWA
+  IoT networks reliably and seamlessly for massive IoT use cases. This gateway leverages
+  Kerlink best-in-class expertise for radio performance, power management and connectivity
+  uptime.
+extra:
+  backhaul options: ethernet or cellular
+  features: zero-touch provisioning
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.kerlink.com/wp-content/uploads/2021/10/IZEPTOCEL-07-340x340.png
+  models: []
+  products:
+  - https://www.kerlink.com/product/wirnet-izeptocell-serie/
+  repositories: []
+name: Wirnet iZeptoCell
+ref: kerlink/wirnet-izeptocell
+release_date: null
+sku: wirnet-izeptocell
+spec: null
+status: ''
+vendor: kerlink

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: PAC1944 Click is a compact add-on board that contains an energy monitoring
+  solution. This board features the PAC1944, a multi-channel DC power/energy monitor
+  from Microchip Technology. It uses real-time calibration to minimize offset and
+  gain errors with no input filters required for this device. One major feature of
+  the PAC1944 design is a set of digital...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/pac1944-click/pac1944-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/pac1944-click
+  repositories: []
+name: MIKROE-4478
+ref: mikroe/mikroe-4478
+release_date: null
+sku: mikroe-4478
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: 3D Hall 4 Click is a compact add-on board that can detect the strength
+  of a magnetic field in all three dimensions. This board features the SENM3Dx, a
+  3D Hall magnetic sensor from SENIS. It is a CMOS-integrated magnetic field sensor
+  that allows the acquisition of all three magnetic field components at the same time
+  and in the same spot. The sensor is...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/3d-hall-4-click/3d-hall-4-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/3d-hall-4-click
+  repositories: []
+name: MIKROE-5925
+ref: mikroe/mikroe-5925
+release_date: null
+sku: mikroe-5925
+spec: null
+status: ''
+vendor: mikroe

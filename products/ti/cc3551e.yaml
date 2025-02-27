@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC3551E
+  repositories: []
+name: CC3551E
+ref: ti/cc3551e
+release_date: null
+sku: cc3551e
+spec: null
+status: New
+vendor: ti

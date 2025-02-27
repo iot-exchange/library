@@ -1,0 +1,32 @@
+alternatives: []
+certifications: []
+description: Mimas-I
+extra:
+  Expected lifetime: '>10 years'
+  Frequency Range (MHz): 169.40625 - 169.46875
+  L (mm): '3.8'
+  "PTx, 50 \u2126(dBm)": '2'
+  PTx, e.r.p.(dBm): '14'
+  Production: active
+  Rb max.(kbps): '27'
+  "Rxsens, 50 \u2126(dBm)": '3.6'
+  Rxsens, e.r.p.(dBm): '-115'
+  VDD max.(V): '17'
+  VDD min.(V): '4.8'
+  dLoS(m): '3000'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o139380v214%20Single_Mimas-I_2607011113000.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/MIMAS-I#2607011113000
+  repositories: []
+name: '2607011113000'
+ref: we/2607011113000
+release_date: null
+sku: '2607011113000'
+spec: null
+status: Active
+vendor: we

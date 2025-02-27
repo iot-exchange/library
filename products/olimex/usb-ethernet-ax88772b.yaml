@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/USB-Modules/USB-ETHERNET-AX88772B/images/thumbs/200x150/AX88772C.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/USB-Modules/USB-ETHERNET-AX88772B/
+  repositories: []
+name: USB-ETHERNET-AX88772B
+ref: olimex/usb-ethernet-ax88772b
+release_date: null
+sku: usb-ethernet-ax88772b
+spec: null
+status: ''
+vendor: olimex

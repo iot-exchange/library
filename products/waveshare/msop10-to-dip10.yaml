@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: MSOP10 TO DIP10, Programmer Adapter
+extra:
+  Price: $27.99 - $30.99
+  SKU: '3810'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/s/msop10-to-dip10_l_1_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/msop10-to-dip10.htm
+  repositories: []
+name: MSOP10 TO DIP10
+ref: waveshare/msop10-to-dip10
+release_date: null
+sku: msop10-to-dip10
+spec: null
+status: ''
+vendor: waveshare

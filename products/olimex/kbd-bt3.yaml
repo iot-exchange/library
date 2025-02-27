@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/Accessories/KBD-BT3/images/thumbs/200x150/KBD-BT3.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/Accessories/KBD-BT3/
+  repositories: []
+name: KBD-BT3
+ref: olimex/kbd-bt3
+release_date: null
+sku: kbd-bt3
+spec: null
+status: ''
+vendor: olimex

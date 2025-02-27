@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "VCP Monitor 5 Click is a compact add-on board designed for various applications'\
+  \ precise current, voltage, and temperature measurements. This board features the\
+  \ INA700A, a 16-bit digital power monitor from Texas Instruments based on an advanced\
+  \ EZShunt\u2122 technology for high-accuracy sensing. This board handles full-scale\
+  \ current measurements up to..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/vcp-monitor-5-click/vcp-monitor-5-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/vcp-monitor-5-click
+  repositories: []
+name: MIKROE-6091
+ref: mikroe/mikroe-6091
+release_date: null
+sku: mikroe-6091
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: ESP32-C6 general-purpose development board, based on ESP32-C6-MINI-1
+  or ESP32-C6-MINI-1U. It has all the ESP32-C6 pins exposed and is easy to connect
+  and use. Most of the I/O pins are broken out to the pin headers on both sides for
+  easy interfacing. Developers can either connect peripherals with jumper wires or
+  mount ESP32-C6-DevKitM-1 on a breadboard.
+extra:
+  Flash: 4 MB
+  Interfaces: I/O USB
+  Related Products: ESP32-C6-MINI-1, ESP32-C6-MINI-1U
+  UI: Buttons, LEDs
+  User Guide: https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32c6/esp32-c6-devkitm-1/index.html
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/dev-board/ESP32-C6-DevKitM-1_S_0.png
+  models: []
+  products:
+  - https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32c61/esp32-c61-devkitc-1/user_guide.html
+  - https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32c6/esp32-c6-devkitm-1/index.html
+  repositories: []
+name: ESP32-C6-DevKitM-1
+ref: espressif/esp32-c6-devkitm-1
+release_date: null
+sku: esp32-c6-devkitm-1
+spec: null
+status: ''
+vendor: espressif

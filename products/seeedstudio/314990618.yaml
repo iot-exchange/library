@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: An IP66 GPIO Water Leak Detector can monitor water leakage. Use in emergency
+  water leak situations like kitchens, power distribution rooms, and warehouses. Use
+  the sensor with SenseCAP Data Logger for seamless data collection and management.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/0/1/01_16.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/Water-Leak-Detector-p-4620.html
+  repositories: []
+name: '314990618'
+ref: seeedstudio/314990618
+release_date: null
+sku: '314990618'
+spec: null
+status: ''
+vendor: seeedstudio

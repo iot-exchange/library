@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Wheels/MG-WHEEL-43MM/images/thumbs/200x150/MG-WHEEL-43mm.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Wheels/MG-WHEEL-43MM/
+  repositories: []
+name: MG-WHEEL-43MM
+ref: olimex/mg-wheel-43mm
+release_date: null
+sku: mg-wheel-43mm
+spec: null
+status: ''
+vendor: olimex

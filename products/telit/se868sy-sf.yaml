@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/11/TC_SE868SY-SF_dyn-270x200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/se868sy-sf/
+  repositories: []
+name: SE868SY-SF
+ref: telit/se868sy-sf
+release_date: null
+sku: se868sy-sf
+spec: null
+status: ''
+vendor: telit

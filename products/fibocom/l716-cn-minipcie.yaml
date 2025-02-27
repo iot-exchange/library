@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Bands: 'LTE: B1/3/5/8/34/38/39/40/41'
+  Form Factor: MiniPCIe
+  Region: China
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTECat-L716-CN-MiniPCIe.html
+  repositories: []
+name: L716-CN-MiniPCIe
+ref: fibocom/l716-cn-minipcie
+release_date: null
+sku: l716-cn-minipcie
+spec: null
+status: ''
+vendor: fibocom

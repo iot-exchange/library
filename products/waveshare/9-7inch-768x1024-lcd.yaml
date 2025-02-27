@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "9.7inch Capacitive Touch Display, 768\xD71024, Toughened Glass Panel,\
+  \ HDMI Interface, IPS Panel, 10-Point Touch"
+extra:
+  SKU: '26698'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/9/_/9.7inch-768x1024-lcd-1.jpg
+  models: []
+  products:
+  - "https://www.waveshare.com/product/9.7inch-768x1024-lcd.htm \"9.7inch Capacitive\
+    \ Touch Display, 768\xD71024, Toughened Glass Panel, HDMI Interface, IPS Panel,\
+    \ 10-Point Touch\""
+  - https://www.waveshare.com/product/9.7inch-768x1024-lcd.htm
+  repositories: []
+name: 9.7inch 768x1024 LCD
+ref: waveshare/9-7inch-768x1024-lcd
+release_date: null
+sku: 9-7inch-768x1024-lcd
+spec: null
+status: ''
+vendor: waveshare

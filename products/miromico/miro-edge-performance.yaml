@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://miromico.ch/files/miromico/media-data/product_images/Gateways/miro_Edge_Performance/jpg/Thumb.png
+  models: []
+  products:
+  - https://miromico.ch/en/products/details/miroEdge-Performance
+  repositories: []
+name: miro Edge Performance
+ref: miromico/miro-edge-performance
+release_date: null
+sku: miro-edge-performance
+spec: null
+status: ''
+vendor: miromico

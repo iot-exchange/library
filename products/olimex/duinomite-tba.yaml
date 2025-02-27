@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Duino/Duinomite/DUINOMITE-TBA/images/thumbs/200x150/DUINOMITE-TBA-1.png
+  models: []
+  products:
+  - https://www.olimex.com/Products/Duino/Duinomite/DUINOMITE-TBA/open-source-hardware
+  repositories: []
+name: DUINOMITE-TBA
+ref: olimex/duinomite-tba
+release_date: null
+sku: duinomite-tba
+spec: null
+status: ''
+vendor: olimex

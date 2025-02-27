@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: The 12MP, 2.7mm wide-angle lens for Raspberry Pi Camera Sensor is well
+  suited for Raspberry Pi camera sensor with M12-mout connection. It provides 12 million
+  pixel camera capture, and wide angle lens, designed for high quality and wide angle
+  image capture.
+extra:
+  Price: $22.90
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114993034.jpg
+  - ./img/ak
+  models: []
+  products:
+  - https://www.seeedstudio.com/12MP-2-7mm-wide-angle-lens-p-5580.html
+  repositories: []
+name: '114993034'
+ref: seeedstudio/114993034
+release_date: null
+sku: '114993034'
+spec: null
+status: ''
+vendor: seeedstudio

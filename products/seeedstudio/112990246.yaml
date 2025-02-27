@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Here comes NVMe M.2 2280 Internal SSD with 256GB capacity, compatible
+  with Desktops & Laptops that accept PCIe NVMe Gen 3 drives.
+extra:
+  Price: $29.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.seeedstudio.com/img/ab
+  models: []
+  products:
+  - https://www.seeedstudio.com/256gb-nvme-m-2-pcle-gen3x4-2280-internal-ssd.html
+  repositories: []
+name: '112990246'
+ref: seeedstudio/112990246
+release_date: null
+sku: '112990246'
+spec: null
+status: ''
+vendor: seeedstudio

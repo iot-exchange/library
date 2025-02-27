@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "2.23inch OLED Display Module for Raspberry Pi Pico, 128\xD732, SPI/I2C"
+extra:
+  Price: $14.31 - $14.99
+  SKU: '19750'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-oled-2.23-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pico-oled-2.23.htm
+  repositories: []
+name: Pico-OLED-2.23
+ref: waveshare/pico-oled-2-23
+release_date: null
+sku: pico-oled-2-23
+spec: null
+status: ''
+vendor: waveshare

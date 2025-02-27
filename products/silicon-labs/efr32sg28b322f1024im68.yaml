@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  BLE: 'Yes'
+  CSS: 'No'
+  FSK-Sub-GHz: 'Yes'
+  Flash: 1024 kB
+  For Battery Power: 'Yes'
+  Max TX Power: +20 dBm
+  Package Type: QFN68
+  RAM: 256 kB
+  Recommended Kit: EFR32xG28 Pro Kit +20 dBm
+  Secure Vault: 'Yes'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/amazon-sidewalk/efr32sg28-dual-band-wireless-socs/device.efr32sg28b322f1024im68
+  repositories: []
+name: EFR32SG28B322F1024IM68
+ref: silicon-labs/efr32sg28b322f1024im68
+release_date: null
+sku: efr32sg28b322f1024im68
+spec: null
+status: ''
+vendor: silicon-labs

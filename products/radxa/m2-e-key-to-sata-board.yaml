@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: SATA Expansion Board
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/accessories/ra013/thumb_e_to_sata.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/m2-ekey-to-sata-board
+  repositories: []
+name: M2 E Key to SATA Board
+ref: radxa/m2-e-key-to-sata-board
+release_date: null
+sku: m2-e-key-to-sata-board
+spec: null
+status: ''
+vendor: radxa

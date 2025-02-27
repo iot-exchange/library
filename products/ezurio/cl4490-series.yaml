@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Active
+extra:
+  Dimensions (H x L x W): 35.56 x 111.76 x 68.58 mm
+  Protocols: FHSS Wireless Protocol
+  Transmit Power (Max): Up to +28 dBm
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/CL4490-Image.png
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/ramp-ism-modules/connexlink-cable-replacement/cl4490-series
+  repositories: []
+name: CL4490 Series
+ref: ezurio/cl4490-series
+release_date: null
+sku: cl4490-series
+spec: null
+status: Active
+vendor: ezurio

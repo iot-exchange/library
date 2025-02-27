@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  bulkPrice: 23.96 EUR
+  discountedPrice: 26.96 EUR
+  price: 29.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/MP3/MOD-MP3-X/images/thumbs/200x150/MOD-MP3-X-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/MP3/MOD-MP3-X/
+  repositories: []
+name: MOD-MP3-X
+ref: olimex/mod-mp3-x
+release_date: null
+sku: mod-mp3-x
+spec: null
+status: ''
+vendor: olimex

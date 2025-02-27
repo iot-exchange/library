@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Herse 433 MHz
+extra:
+  Expected lifetime: '>10 years'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o153862v214%20Single_WIRL_ACCE_2600130081_Hyperion-l.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/WIRL_ACCE_2600130041#2600130041
+  repositories: []
+name: '2600130041'
+ref: we/2600130041
+release_date: null
+sku: '2600130041'
+spec: null
+status: Active
+vendor: we

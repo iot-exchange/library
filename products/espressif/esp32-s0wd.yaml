@@ -1,0 +1,33 @@
+alternatives: []
+certifications: []
+description: "Not recommended for new designs \u2192ESP32-D0WD-V3 / ESP32-U4WDH"
+extra:
+  Core: Single core
+  Development Board: ESP32-DevKitC
+  Dimensions (mm): QFN 5x5
+  Flash (MB): N/A
+  Footprint: <https://www.espressif.com/sites/default/files/chips-dxf/ESP32-S0WD_Footprint.asc>
+  Footprint Link: <https://www.espressif.com/sites/default/files/chips-dxf/ESP32-S0WD_Footprint.asc>
+  MOQ: '5000'
+  Module: ESP32-SOLO-1
+  PSRAM (MB): N/A
+  Pins: '48'
+  RAM/ROM (KB): 520 KB SRAM 448 KB ROM 16 KB RTC SRAM
+  SPQ: '5000'
+  Variants: N/A
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP32-S0WD_S_1.png
+  models: []
+  products:
+  - http://espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
+  repositories: []
+name: ESP32-S0WD
+ref: espressif/esp32-s0wd
+release_date: null
+sku: esp32-s0wd
+spec: null
+status: Not recommended for new designs
+vendor: espressif

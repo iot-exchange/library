@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: An IP66 RS485 PAR sensor measures real-time photosynthetically active
+  radiation across the radiation range from 400 to 700 nm. Use in monitoring the PAR
+  applications like environmental monitoring and agricultural research. Use the sensor
+  with SenseCAP Sensor Hub 4G Data Logger for seamless data collection and management.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/3/1/314990735_front-05.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/RS485-S-PAR-02B-p-4830.html
+  repositories: []
+name: '314990735'
+ref: seeedstudio/314990735
+release_date: null
+sku: '314990735'
+spec: null
+status: ''
+vendor: seeedstudio

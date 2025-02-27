@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Dedicated Cooling Fan for Compute Module 4 IO Board, PWM Speed Adjustment
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/a/fan-4010-pwm-12v-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/fan-4010-pwm-12v.htm "Dedicated Cooling Fan
+    for Compute Module 4 IO Board, PWM Speed Adjustment"
+  repositories: []
+name: Fan-4010-PWM-12V
+ref: waveshare/fan-4010-pwm-12v
+release_date: null
+sku: fan-4010-pwm-12v
+spec: null
+status: ''
+vendor: waveshare

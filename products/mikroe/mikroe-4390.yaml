@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Buzz 3 Click is a compact add-on board that contains a sounder driver
+  that produces higher volume with a lower current. This board features the PAM8904,
+  a piezo-sounder driver with an integrated Multi-Mode charge pump boost converter
+  from Diodes Incorporated. With its wide input signal range of 20Hz to 300kHz, the
+  PAM8904 can drive a sounder load of up to...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/buzz-3-click/buzz-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/buzz-3-click
+  repositories: []
+name: MIKROE-4390
+ref: mikroe/mikroe-4390
+release_date: null
+sku: mikroe-4390
+spec: null
+status: ''
+vendor: mikroe

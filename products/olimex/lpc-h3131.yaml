@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 35.96 EUR
+  discountedPrice2: 31.96 EUR
+  price: 39.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-H3131/images/thumbs/200x150/LPC-H3131-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-H3131/
+  repositories: []
+name: LPC-H3131
+ref: olimex/lpc-h3131
+release_date: null
+sku: lpc-h3131
+spec: null
+status: ''
+vendor: olimex

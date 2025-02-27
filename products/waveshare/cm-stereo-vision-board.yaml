@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Binocular Stereo Vision Expansion Board For Raspberry Pi Compute Module,
+  Small Size
+extra:
+  SKU: '18076'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm-stereo-vision-board-3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/cm-stereo-vision-board.htm
+  repositories: []
+name: CM-STEREO-VISION-BOARD
+ref: waveshare/cm-stereo-vision-board
+release_date: null
+sku: cm-stereo-vision-board
+spec: null
+status: ''
+vendor: waveshare

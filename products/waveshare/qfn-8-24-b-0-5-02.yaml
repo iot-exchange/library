@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Test & Burn-in Socket
+extra:
+  Price Range: $63.99 - $66.99
+  SKU: '3559'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/q/f/qfn-824b-0.5-02_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/qfn-824b-0.5-02.htm
+  repositories: []
+name: QFN-8(24)B-0.5-02
+ref: waveshare/qfn-8-24-b-0-5-02
+release_date: null
+sku: qfn-8-24-b-0-5-02
+spec: null
+status: ''
+vendor: waveshare

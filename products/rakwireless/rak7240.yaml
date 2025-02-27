@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: WisGate Edge Prime - Cost-efficient gateway for large-scale deployments
+extra:
+  Cost Feature Balance: Best cost/feature balance for large-scale deployments
+  Customization: Sold as a white label device that you can customize with your own
+    branding
+  Design: Compact and lightweight design
+  Power Support: Supports DC 9~24V, RAK Battery Plus (optional)
+  Remote Management: Remote management with WisDM
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://res.rakwireless.com/tracked/products/wisgate-edge/rak7240-updated.png?fm=webp
+  models: []
+  products:
+  - https://store.rakwireless.com/products/rak7240-ip65-outdoor-lorawan-gateway?variant=36068286824606?utm_source=WisGate&utm_medium=WisGate&utm_campaign=RAKwireless
+  repositories: []
+name: RAK7240
+ref: rakwireless/rak7240
+release_date: null
+sku: rak7240
+spec: null
+status: ''
+vendor: rakwireless

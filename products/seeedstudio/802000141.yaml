@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "Brain Builder is an AI training tool that facilitates efficient AI processing\
+  \ on edge sensing devices equipped with IMX500 or IMX501. It enables rapid training\
+  \ of AI models using images captured in the customer\u2019s environment. Additionally,\
+  \ the tool includes optimization features specifically tailored for the IMX500,\
+  \ supporting the development of compact AI that is crucial for edge implementations."
+extra:
+  Price: $6,900.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/_/1_11_2.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/Brain-Builder-for-AITRIOS-1Y-p-6239.html
+  repositories: []
+name: '802000141'
+ref: seeedstudio/802000141
+release_date: null
+sku: '802000141'
+spec: null
+status: ''
+vendor: seeedstudio

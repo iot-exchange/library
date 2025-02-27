@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: WS2813B is the latest model in this popular series of LED strips is WS2813.
+  Like the WS2812B, it also has a control circuit and RGB chip integrated into a 5050
+  RGB LED and each LED can be individually controlled. WS2813B is single-pixel control
+  and dual signal transmission. If one pixel damaged, it will not affect the other
+  LEDs working.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.seeedstudio.com/WS2813B-Digital-RGB-LED-Flexi-Strip-144-LED-1-Meter-p-2816.html
+  repositories: []
+name: '104990304'
+ref: seeedstudio/104990304
+release_date: null
+sku: '104990304'
+spec: null
+status: ''
+vendor: seeedstudio

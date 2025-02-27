@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Storage/SATA-HDD-SSD-DISKS/images/thumbs/200x150/SATA-HDD-500GB.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Storage/SATA-HDD-2.5-500GB/
+  repositories: []
+name: SATA-HDD-2.5-500GB
+ref: olimex/sata-hdd-2-5-500gb
+release_date: null
+sku: sata-hdd-2-5-500gb
+spec: null
+status: ''
+vendor: olimex

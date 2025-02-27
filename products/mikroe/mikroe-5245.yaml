@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Ambient 19 Click is a compact add-on board used to measure the amount
+  of the present ambient light. This board features the APM-16D24-310-DF8/TR8, a digital
+  output ambient light and proximity sensor with an I2C interface and interrupt from
+  Everlight Electronics.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ambient-19-click/ambient-19-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ambient-19-click
+  repositories: []
+name: MIKROE-5245
+ref: mikroe/mikroe-5245
+release_date: null
+sku: mikroe-5245
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "648\xD7480, 5.83inch E-Ink display HAT for Raspberry Pi, red/black/white\
+  \ three-color"
+extra:
+  Price: $45.89 - $50.99
+  SKU: '14600'
+  price: $45.89 - $50.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/_/5.83inch-e-paper-hat-b-5_3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/5.83inch-e-paper-hat-b.htm
+  repositories: []
+name: 5.83inch e-Paper HAT (B)
+ref: waveshare/5-83inch-e-paper-hat-b
+release_date: null
+sku: 5-83inch-e-paper-hat-b
+spec: null
+status: ''
+vendor: waveshare

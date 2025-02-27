@@ -1,0 +1,46 @@
+alternatives: []
+certifications: []
+description: Wi-Fi 6 2x2MIMO module with Bluetooth support
+extra:
+  Bluetooth: 5.3 BR/EDR/LE 2MPHY
+  Chipset: 88W9098
+  Dimension: 19.1 x 16.5 x 2.1 mm
+  ETSI Report: 'Yes'
+  FCC/ISED Certified: 'Yes'
+  Frequency: 2.4GHz, 5GHz
+  Grade: Consumer
+  Host Interface (Bluetooth): UART
+  Host Interface (Wi-Fi): PCIe,SDIO
+  IC Manufacturer: NXP
+  Integrated Antenna: 'No'
+  Interface Voltage: 1.8V,3.3V
+  MIC (Japan) Certified: 'Yes'
+  Mounting Type: SMT
+  Operating Temperature (degC): "-40\u2103 to 60\u2103"
+  Package: Metal Can
+  Packaging: Tape and Reel
+  Peripheral Interface: PCM
+  Platform: Linux
+  Processor: 'No'
+  Receive Mode Current: ''
+  RoHS Support: 'Yes'
+  Sleep Mode Current (Bluetooth): ''
+  Sleep Mode Current (Wi-Fi): ''
+  Supply Voltage: 1.8V to 3.3V
+  Technology: Wi-Fi,Bluetooth
+  Transmit Mode Current (Bluetooth): ''
+  Transmit Mode Current (Wi-Fi): ''
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: Type 1XL
+ref: murata/type-1xl
+release_date: null
+sku: type-1xl
+spec: null
+status: ''
+vendor: murata

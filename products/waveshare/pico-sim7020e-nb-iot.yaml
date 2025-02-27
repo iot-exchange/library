@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: SIM7020E NB-IoT Module For Raspberry Pi Pico, for Asia, Europe, Africa,
+  Australia
+extra:
+  Price: $18.97 - $19.99
+  SKU: '19622'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-sim7020e-nb-iot-1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pico-sim7020e-nb-iot.htm
+  repositories: []
+name: Pico-SIM7020E-NB-IoT
+ref: waveshare/pico-sim7020e-nb-iot
+release_date: null
+sku: pico-sim7020e-nb-iot
+spec: null
+status: ''
+vendor: waveshare

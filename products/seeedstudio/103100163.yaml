@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: "Ochin CM4 -Tiny Carrier Board for Raspberry Pi Compute Module 4\uFF08\
+  CM4\uFF09"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-103110163-ochin-tiny-carrier-board-for-raspberry-pi-compute-module-4-45font_3_1_1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Ochin-Tiny-Carrier-Board-for-Raspberry-Pi-Compute-Module-4-p-5463.html
+  repositories: []
+name: '103100163'
+ref: seeedstudio/103100163
+release_date: null
+sku: '103100163'
+spec: null
+status: ''
+vendor: seeedstudio

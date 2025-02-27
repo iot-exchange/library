@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Boost 7 Click is a compact add-on board that steps up the voltage from\
+  \ its input (supply) to its output (load). This board features the BD8316GWL, a\
+  \ dual DC/DC converter from Rohm Semiconductor. Each converter inside the BD8316GWL\
+  \ is designed with up to 200mA current limit generating well-regulated positive\
+  \ and negative outputs of \xB13.3V or \xB15V, making the..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/boost-7-click/boost-7-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/boost-7-click
+  repositories: []
+name: MIKROE-5575
+ref: mikroe/mikroe-5575
+release_date: null
+sku: mikroe-5575
+spec: null
+status: ''
+vendor: mikroe

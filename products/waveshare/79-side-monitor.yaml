@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "7.9inch IPS Display, 400\xD71280 Pixel, Toughened Glass Panel, HDMI\
+  \ Interface, Optional Touch Function"
+extra:
+  Price: $78.99 - $89.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/_/7.9inch-touch-monitor-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/7.9inch-side-monitor.htm
+  repositories: []
+name: 79_side_monitor
+ref: waveshare/79-side-monitor
+release_date: null
+sku: 79-side-monitor
+spec: null
+status: ''
+vendor: waveshare

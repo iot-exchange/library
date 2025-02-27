@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: Zigbee EFR32MG22 SoCs (Series 2)
+extra:
+  Flash (kB): '512'
+  Frequency Bands (MHz): 2.4 GHz
+  GPIO: '24'
+  MCU Core: ARM Cortex-M33
+  Output Power Range (dBm): -27 8
+  RAM (kB): '32'
+  RX Current (mA): '4.4'
+  RX Sensitivity (dBm): '-102.3'
+  Security: AES-128, ECC, SHA-1, SHA-2
+  TX Current (mA) 0 dBm: '4.8'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/zigbee/efr32mg22-series-2-socs
+  - https://www.silabs.com/wireless/zigbee/efr32mg22-series-2-modules
+  repositories: []
+name: EFR32MG22
+ref: silicon-labs/efr32mg22
+release_date: null
+sku: efr32mg22
+spec: null
+status: ''
+vendor: silicon-labs

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/AVR/Development/AVR-CAN/images/thumbs/200x150/AVR-CAN-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/AVR/Development/AVR-CAN/
+  repositories: []
+name: AVR-CAN
+ref: olimex/avr-can
+release_date: null
+sku: avr-can
+spec: null
+status: ''
+vendor: olimex

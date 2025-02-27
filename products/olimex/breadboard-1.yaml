@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 2.66 EUR
+  discountedPrice2: 2.36 EUR
+  price: 2.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Breadboarding/BREADBOARD-1/images/thumbs/200x150/BB-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Breadboarding/BREADBOARD-1/
+  repositories: []
+name: BREADBOARD-1
+ref: olimex/breadboard-1
+release_date: null
+sku: breadboard-1
+spec: null
+status: ''
+vendor: olimex

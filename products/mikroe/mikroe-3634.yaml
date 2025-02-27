@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Opto Encoder 2 click is a linear incremental optical sensor/encoder click
+  which can be used for the movement or rotation encoding. Encoders of this type are
+  widely used for many applications, which involve precise detection of the position,
+  speed, or rotational angle of an object. Rotary encoders are often used for various
+  types of controllers on many...
+extra:
+  Price: $31.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/opto-encoder-2-click/opto-encoder-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/opto-encoder-2-click
+  repositories: []
+name: MIKROE-3634
+ref: mikroe/mikroe-3634
+release_date: null
+sku: mikroe-3634
+spec: null
+status: ''
+vendor: mikroe

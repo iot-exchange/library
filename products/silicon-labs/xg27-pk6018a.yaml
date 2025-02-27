@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: EFR32xG27 Pro Kit +4 dBm (Buck)
+extra:
+  MSRP: $174.00
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/efr32xg27-pro-kit-4-dbm-buck
+  repositories: []
+name: xG27-PK6018A
+ref: silicon-labs/xg27-pk6018a
+release_date: null
+sku: xg27-pk6018a
+spec: null
+status: ''
+vendor: silicon-labs

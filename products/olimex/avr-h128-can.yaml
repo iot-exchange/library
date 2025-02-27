@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/AVR/Header/AVR-H128-CAN/images/thumbs/200x150/AVR-H128CAN-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/AVR/Header/AVR-H128-CAN/
+  repositories: []
+name: AVR-H128-CAN
+ref: olimex/avr-h128-can
+release_date: null
+sku: avr-h128-can
+spec: null
+status: ''
+vendor: olimex

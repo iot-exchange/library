@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: 2-Ch GMSL Camera Adapter Board, Equipped With MAX9296A Deserializer,
+  High-Speed And Low-Latency Serial Transmission, Compatible With Jetson Orin
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/a/max9296-gmsl-camera-board-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/max9296-gmsl-camera-board.htm
+  repositories: []
+name: MAX9296-GMSL-Camera-Board
+ref: waveshare/max9296-gmsl-camera-board
+release_date: null
+sku: max9296-gmsl-camera-board
+spec: null
+status: ''
+vendor: waveshare

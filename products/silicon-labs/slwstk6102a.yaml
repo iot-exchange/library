@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: xGM210P Wireless Module Starter Kit
+extra:
+  MSRP: $353.00
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/xgm210p-wireless-starter-kit
+  repositories: []
+name: SLWSTK6102A
+ref: silicon-labs/slwstk6102a
+release_date: null
+sku: slwstk6102a
+spec: null
+status: ''
+vendor: silicon-labs

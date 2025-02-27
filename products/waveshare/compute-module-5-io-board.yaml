@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Official Raspberry Pi Compute Module 5 IO Board, A Development Platform
+  And Reference Base-board Designed For CM5, Suitable For All Variants Of Compute
+  Module 5
+extra:
+  Multi Options: ''
+  Price: $15.99 - $134.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/compute-module-5-io-board-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/compute-module-5-io-board.htm
+  repositories: []
+name: Compute Module 5 IO Board
+ref: waveshare/compute-module-5-io-board
+release_date: null
+sku: compute-module-5-io-board
+spec: null
+status: ''
+vendor: waveshare

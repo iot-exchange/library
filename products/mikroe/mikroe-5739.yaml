@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Click Shield for Nucleo-64 Combine Arduino UNO with your favorite Click\
+  \ boards\u2122 Experience a seamless project development journey with the Click\
+  \ Shield for Arduino UNO. This cutting-edge solution combines the power of the Arduino\
+  \ UNO board and the versatility of mikroBUS\u2122 sockets, offering unparalleled\
+  \ ease and efficiency. By utilizing the extensive..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/click-shield-for-arduino-uno/click-shield-for-arduino-uno-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/click-shield-for-arduino-uno
+  repositories: []
+name: MIKROE-5739
+ref: mikroe/mikroe-5739
+release_date: null
+sku: mikroe-5739
+spec: null
+status: ''
+vendor: mikroe

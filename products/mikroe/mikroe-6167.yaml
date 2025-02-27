@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Rec&Play 2 Click is a compact add-on board for voice recording and playback
+  applications. It is based on the ISD1616B, a single-message voice record and playback
+  IC from Nuvoton. The board features an on-chip oscillator, a microphone preamplifier
+  with Automatic Gain Control (AGC), an omnidirectional microphone, and a speaker
+  driver for high-quality...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/recplay-2-click/recplay-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/recplay-2-click
+  repositories: []
+name: MIKROE-6167
+ref: mikroe/mikroe-6167
+release_date: null
+sku: mikroe-6167
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: UWB modules based on NXP technology.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/products/connectivitymodule/ultra-wide-band/nxp
+  repositories: []
+name: NXP based UWB modules
+ref: murata/nxp-based-uwb-modules
+release_date: null
+sku: nxp-based-uwb-modules
+spec: null
+status: ''
+vendor: murata

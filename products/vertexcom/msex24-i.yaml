@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: MSEX24-i is a companion line driver for MSE1021, used for SECC (Supply
+  Equipment Communication Controller).
+extra:
+  Body Size (mm): 4x4
+  Package: QFN16
+  Temperature Range: "-40 ~ +85\xB0C"
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - ''
+  repositories: []
+name: MSEX24-i
+ref: vertexcom/msex24-i
+release_date: null
+sku: msex24-i
+spec: null
+status: ''
+vendor: vertexcom

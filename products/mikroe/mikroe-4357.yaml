@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Brushless 12 Click is a compact add-on board suitable for controlling
+  BLDC motors with any MCU. This board features the L6235, DMOS fully integrated 3-phase
+  motor driver with overcurrent protection from STMicroelectronics.
+extra:
+  price: $35.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/brushless-12-click/brushless-12-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/brushless-12-click
+  repositories: []
+name: MIKROE-4357
+ref: mikroe/mikroe-4357
+release_date: null
+sku: mikroe-4357
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Light mix-sens Click is carrying TMD37253, an advanced proximity measurement,\
+  \ color sense (RGBC+IR), and digital ambient light sensing (ALS) device. The TMD37253\
+  \ slim module package has been designed to accommodate a \u201Csingle hole\u201D\
+  \ aperture approach that incorporates an IR LED and factory calibrated LED driver.\
+  \ The proximity detection feature provides..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/light-mix-sens-click/light-mix-sens-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/light-mix-sens-click
+  repositories: []
+name: MIKROE-4148
+ref: mikroe/mikroe-4148
+release_date: null
+sku: mikroe-4148
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: an Application Board for Radxa CM5
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/io-board/cm5-io-board/thumb_cm5_io_board.webp
+  models: []
+  products:
+  - https://radxa.com/products/io-board/cm5-io-board
+  repositories: []
+name: CM5 IO Board
+ref: radxa/cm5-io-board
+release_date: null
+sku: cm5-io-board
+spec: null
+status: ''
+vendor: radxa

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 0.47 EUR
+  discountedPrice2: 0.42 EUR
+  price: 0.52 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Connectors/MALE-PAV16X-2x05/images/thumbs/200x150/MALE-PAV16X-2X20-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Connectors/MALE-PAV16X-2x20-HIGH/
+  repositories: []
+name: MALE-PAV16X-2x20-HIGH
+ref: olimex/male-pav16x-2x20-high
+release_date: null
+sku: male-pav16x-2x20-high
+spec: null
+status: ''
+vendor: olimex

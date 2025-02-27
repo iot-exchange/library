@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Jetson Nano Metal Case (C), Camera Holder, Internal Fan Design
+extra:
+  Price: $12.31 - $12.99
+  SKU: '17855'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-nano-case-c-1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/jetson-nano-case-c.htm
+  repositories: []
+name: Jetson Nano Case (C)
+ref: waveshare/jetson-nano-case-c
+release_date: null
+sku: jetson-nano-case-c
+spec: null
+status: ''
+vendor: waveshare

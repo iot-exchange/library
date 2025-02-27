@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Your tiny, dual-display, desktop computer
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/a6331df010eb56a7fafb04466af3f1aa/3f4ea/3a15d4da-46e3-4940-8be6-9fc7d201affe_RPi_4B_FEATURED.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
+  repositories: []
+name: Raspberry Pi 4 Model B
+ref: raspberrypi/raspberry-pi-4-model-b
+release_date: null
+sku: raspberry-pi-4-model-b
+spec: null
+status: ''
+vendor: raspberrypi

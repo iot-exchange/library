@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC3135MOD
+  repositories: []
+name: CC3135MOD
+ref: ti/cc3135mod
+release_date: null
+sku: cc3135mod
+spec: null
+status: ''
+vendor: ti

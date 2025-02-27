@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: nRF52840 Bluetooth 5.0 Module, Small & Stable
+extra:
+  Price: $13.97 - $14.99
+  SKU: '15897'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/core52840-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/core52840.htm "nRF52840 Bluetooth 5.0 Module, Small
+    & Stable"
+  repositories: []
+name: Core52840
+ref: waveshare/core52840
+release_date: null
+sku: core52840
+spec: null
+status: ''
+vendor: waveshare

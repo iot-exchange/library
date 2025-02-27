@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Stripe Aluminum Cooling Case for RDK X3, Built-in Active Radiator With
+  Fins
+extra:
+  Price: $11.31 - $11.99
+  SKU: '28743'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/d/rdk-case-a-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rdk-case-a.htm "Stripe Aluminum Cooling Case
+    for RDK X3, Built-in Active Radiator With Fins"
+  - https://www.waveshare.com/product/rdk-case-a.htm
+  repositories: []
+name: RDK-Case-A
+ref: waveshare/rdk-case-a
+release_date: null
+sku: rdk-case-a
+spec: null
+status: ''
+vendor: waveshare

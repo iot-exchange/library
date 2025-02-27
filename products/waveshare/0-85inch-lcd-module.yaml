@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "0.85inch LCD Display Module, IPS Panel, 128\xD7128 Resolution, SPI Interface,\
+  \ 65K colors"
+extra:
+  price: $6.31 - $6.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/0/_/0.85inch-lcd-module-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/0.85inch-lcd-module.htm
+  repositories: []
+name: 0.85inch LCD Module
+ref: waveshare/0-85inch-lcd-module
+release_date: null
+sku: 0-85inch-lcd-module
+spec: null
+status: ''
+vendor: waveshare

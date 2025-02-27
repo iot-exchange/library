@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "Family EV-Board Proteus-III Bluetooth\xAE 5.1"
+extra:
+  Expected lifetime: '>10 years'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/PROTEUS-III#2611149024001
+  - https://www.we-online.com/components/products/manual/2611149024001_Manual Family
+    Boards_rev1.5.pdf
+  repositories: []
+name: '2611149024001'
+ref: we/2611149024001
+release_date: null
+sku: '2611149024001'
+spec: null
+status: Active
+vendor: we

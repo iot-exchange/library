@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Two-Wire ETH Click is a compact add-on board with the purpose of a generic
+  interface to many third-party processors in 10BASE-T1S applications. This board
+  features the LAN8651, a low-power single-port 10BASE-T1S MAC-PHY Ethernet Controller
+  with SPI from Microchip. The LAN8651 combines a Media Access Controller (MAC) and
+  an Ethernet PHY to enable low-cost...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/two-wire-eth-click/two-wire-eth-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/two-wire-eth-click
+  repositories: []
+name: MIKROE-5543
+ref: mikroe/mikroe-5543
+release_date: null
+sku: mikroe-5543
+spec: null
+status: ''
+vendor: mikroe

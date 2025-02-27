@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "ADC 11 Click is a compact add-on board that contains a high-performance\
+  \ data converter. This board features the LTC1864, a 16-bit 250ksps analog-to-digital\
+  \ converter from Analog Devices. With a typical supply current of only 850\xB5A\
+  \ at the maximum sampling frequency, the LTC1864 is among the lowest power consumption\
+  \ ADCs available. After conversion, the..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/adc-11-click/adc-11-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/adc-11-click
+  repositories: []
+name: MIKROE-4593
+ref: mikroe/mikroe-4593
+release_date: null
+sku: mikroe-4593
+spec: null
+status: ''
+vendor: mikroe

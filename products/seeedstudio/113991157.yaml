@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: The Wio-E5-LE Dev Kit integrates the Wio-E5-LE Wireless Module (STM32WLE5JC)
+  which supports LoRa protocol on global frequency bands. It provides full GPIO access
+  and supports various data protocols and interfaces.
+extra:
+  price: $26.90
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-113991157-wio-e5-le-dev-kit_stm32wle5jc_-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Wio-E5-LE-Dev-Kit-STM32WLE5JC-p-5763.html
+  repositories: []
+name: '113991157'
+ref: seeedstudio/113991157
+release_date: null
+sku: '113991157'
+spec: null
+status: ''
+vendor: seeedstudio

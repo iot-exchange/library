@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-017-Mats-Set/images/thumbs/200x150/TERES-017-Mats-Set.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-017-Mats-Set/
+  repositories: []
+name: TERES-017-Mats-Set
+ref: olimex/teres-017-mats-set
+release_date: null
+sku: teres-017-mats-set
+spec: null
+status: ''
+vendor: olimex

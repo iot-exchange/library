@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 4G premium module designed for North America.
+extra:
+  Bands: 'LTE: B2/4/5/7/12/13/17/25/26/41/48/66/71'
+  Form Factor: LGA / LCC
+  Region: North America
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTE-SC138-NA.html
+  repositories: []
+name: SC138-NA
+ref: fibocom/sc138-na
+release_date: null
+sku: sc138-na
+spec: null
+status: ''
+vendor: fibocom

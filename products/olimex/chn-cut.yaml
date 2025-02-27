@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 1.80 EUR
+  discountedPrice2: 1.60 EUR
+  price: 2.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/HandTools/CHN-CUT/images/thumbs/200x150/CHN-CUT.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/HandTools/CHN-CUT/
+  repositories: []
+name: CHN-CUT
+ref: olimex/chn-cut
+release_date: null
+sku: chn-cut
+spec: null
+status: ''
+vendor: olimex

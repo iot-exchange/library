@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: CODEGRIP for PIC is a fast USB-C and WiFi programmer and hardware debugger.
+  It supports PIC10, PIC12, PIC16, PIC18, dsPIC30/33, PIC24, and PIC32 devices in
+  a single programmer. This is a version without a WiFi module assembled.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/codegrip-for-pic-over-usb-c/codegrip-for-pic-over-usb-c-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/codegrip-for-pic-over-usb-c
+  repositories: []
+name: MIKROE-5262
+ref: mikroe/mikroe-5262
+release_date: null
+sku: mikroe-5262
+spec: null
+status: ''
+vendor: mikroe

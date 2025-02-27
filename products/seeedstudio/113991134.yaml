@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: The LTE Cat 4 EC25-AFXGA-mini-PCIe is a Mini PCIe module that supports
+  LTE-FDD and WCDMA mobile communication technologies and integrates multiple GNSS
+  receivers for faster and more accurate positioning. All of these make it suitable
+  for M2M and IoT applications.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-1.png
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-113991134--lte-cat-4-ec25-afxga-mini-pcie-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/LTE-Cat-4-EC25-AFXGA-mini-PCIe-p-5668.html
+  repositories: []
+name: '113991134'
+ref: seeedstudio/113991134
+release_date: null
+sku: '113991134'
+spec: null
+status: ''
+vendor: seeedstudio

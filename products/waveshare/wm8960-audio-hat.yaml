@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: WM8960 Hi-Fi Sound Card HAT for Raspberry Pi, Stereo CODEC, Play/Record
+extra:
+  SKU: '15668'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/m/wm8960-audio-hat-3.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/m/wm8960-audio-hat-8_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/wm8960-audio-hat.htm
+  repositories: []
+name: WM8960 Audio HAT
+ref: waveshare/wm8960-audio-hat
+release_date: null
+sku: wm8960-audio-hat
+spec: null
+status: ''
+vendor: waveshare

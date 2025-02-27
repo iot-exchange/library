@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: UPS Module for Raspberry Pi Pico, Uninterruptible Power Supply
+extra:
+  Price: $13.63 - $14.99
+  SKU: '19694'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-ups-a-2_4.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-heatsink-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pico-ups-a.htm
+  - https://www.waveshare.com/product/cm4-heatsink.htm
+  repositories: []
+name: Pico-UPS-A-EN
+ref: waveshare/pico-ups-a-en
+release_date: null
+sku: pico-ups-a-en
+spec: null
+status: ''
+vendor: waveshare

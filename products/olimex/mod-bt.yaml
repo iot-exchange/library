@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  bulkPrice: 15.96 EUR
+  discountedPrice: 17.96 EUR
+  discountedPrice1: 17.96 EUR
+  discountedPrice2: 15.96 EUR
+  price: 19.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/RF/MOD-BT/images/thumbs/200x150/MOD-BT-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/RF/MOD-BT/
+  repositories: []
+name: MOD-BT
+ref: olimex/mod-bt
+release_date: null
+sku: mod-bt
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Charger 19 Click is a compact add-on board that contains a battery charger.
+  This board features the nPM1100, an integrated power management IC from Nordic Semiconductor.
+  It has a highly efficient DC/DC buck regulator with automatic selection between
+  hysteretic and PWM modes. The nPM1100 has automatic USB port detection and features
+  discharge current...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.mikroe.com/charger-19-click
+  repositories: []
+name: MIKROE-5899
+ref: mikroe/mikroe-5899
+release_date: null
+sku: mikroe-5899
+spec: null
+status: ''
+vendor: mikroe

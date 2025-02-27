@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: STM32 MCU core board
+extra:
+  Price: $43.29 - $44.99
+  SKU: '11444'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/core746i-3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/core746i.htm
+  repositories: []
+name: Core746I
+ref: waveshare/core746i
+release_date: null
+sku: core746i
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: For flashing / testing ESP32-WROOM-32E / ESP32-WROOM-32D / ESP32-SOLO-1
+  / ESP32-WROOM-32 / ESP32-WROOM-32DC / ESP32-SOLO-1C / ESP32-S2-SOLO / ESP32-S2-SOLO-2
+  / ESP32-C6-WROOM-1 / ESP32-S3-WROOM-1 modules (must be used with ESP-BAT32 for testing)
+extra:
+  Antenna: PCB antenna
+  Chip Embedded: ESP32-D0WDQ6
+  Development Board: ESP32-DevKitC
+  Dimensions (mm): 18x25.5x3.1
+  Flash (MB): '4'
+  PSRAM (MB): N/A
+  Pins: '38'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
+  repositories: []
+name: ESP32-WROOM-32
+ref: espressif/esp32-wroom-32
+release_date: null
+sku: esp32-wroom-32
+spec: null
+status: ''
+vendor: espressif

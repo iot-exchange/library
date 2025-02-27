@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ESP32-S3 Development Board, with 1.28inch Round Touch LCD, Compact size,
+  Accelerometer And Gyroscope Sensor
+extra:
+  Price: $20.29 - $21.99
+  SKU: '25098'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-1.28-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/esp32-s3-touch-lcd-1.28.htm
+  repositories: []
+name: ESP32-S3-Touch-LCD-1.28
+ref: waveshare/esp32-s3-touch-lcd-1-28
+release_date: null
+sku: esp32-s3-touch-lcd-1-28
+spec: null
+status: ''
+vendor: waveshare

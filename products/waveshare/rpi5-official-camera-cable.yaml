@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Official Raspberry Pi CSI FPC Flexible Cable 200mm for Raspberry Pi 5,
+  22Pin To 15Pin, Suitable For CSI Camera Modules
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-5-official-camera-cable-200mm-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/raspberry-pi-5-official-camera-cable-200mm.htm
+  repositories: []
+name: rpi5_official_camera_cable
+ref: waveshare/rpi5-official-camera-cable
+release_date: null
+sku: rpi5-official-camera-cable
+spec: null
+status: ''
+vendor: waveshare

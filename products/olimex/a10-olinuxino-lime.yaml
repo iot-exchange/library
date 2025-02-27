@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  10+ pcs: 24.70 EUR
+  50+ pcs: 23.40 EUR
+  Price: 26.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A10/A10-OLinuXino-LIME-n4GB/images/thumbs/200x150/A10-OLINUXINO-LIME-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/A10/A10-OLinuXino-LIME/open-source-hardware
+  repositories: []
+name: A10-OLinuXino-LIME
+ref: olimex/a10-olinuxino-lime
+release_date: null
+sku: a10-olinuxino-lime
+spec: null
+status: ''
+vendor: olimex

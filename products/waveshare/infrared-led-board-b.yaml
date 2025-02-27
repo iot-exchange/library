@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Infrared LED Board (B), Wide Field of View
+extra:
+  Price: $3.81 - $4.49
+  SKU: '10670'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/n/infrared-led-board-b-1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/infrared-led-board-b.htm
+  repositories: []
+name: Infrared LED Board (B)
+ref: waveshare/infrared-led-board-b
+release_date: null
+sku: infrared-led-board-b
+spec: null
+status: ''
+vendor: waveshare

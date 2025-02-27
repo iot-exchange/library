@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: LoRaWAN gateway card for 868 MHz and 915 MHz ISM band.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://miromico.ch/files/miromico/media-data/product_images/Gateways/miro_EdgeCard/jpg/miro_EdgeCard_GWC_08_02.jpg
+  models: []
+  products:
+  - https://miromico.ch/en/products/details/miro-EdgeCard
+  repositories: []
+name: miro EdgeCard
+ref: miromico/miro-edgecard
+release_date: null
+sku: miro-edgecard
+spec: null
+status: ''
+vendor: miromico

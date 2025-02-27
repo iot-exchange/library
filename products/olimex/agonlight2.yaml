@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Retro-Computers/AgonLight2/images/thumbs/200x150/AgonLight2-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Retro-Computers/AgonLight2/open-source-hardware
+  repositories: []
+name: AgonLight2
+ref: olimex/agonlight2
+release_date: null
+sku: agonlight2
+spec: null
+status: ''
+vendor: olimex

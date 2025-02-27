@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "3D Hall 14 Click is a compact add-on board designed for high-precision\
+  \ position sensing in various applications. This board features the MLX90394, a\
+  \ 3-axis magnetometer from Melexis based on the Triaxis\xAE Hall technology. The\
+  \ MLX90394 offers low power consumption, excellent noise performance, and flexible\
+  \ measurement modes, including intelligent wake-up..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/3d-hall-14-click/3d-hall-14-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/3d-hall-14-click
+  repositories: []
+name: MIKROE-6242
+ref: mikroe/mikroe-6242
+release_date: null
+sku: mikroe-6242
+spec: null
+status: ''
+vendor: mikroe

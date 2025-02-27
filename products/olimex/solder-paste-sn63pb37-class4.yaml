@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Soldering/SOLDER-PASTE-SN63PB37-CLASS4-0-5KG/images/thumbs/200x150/SLD-SN63PB37C4.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Soldering/SOLDER-PASTE-SN63PB37-CLASS4/
+  repositories: []
+name: SOLDER-PASTE-SN63PB37-CLASS4
+ref: olimex/solder-paste-sn63pb37-class4
+release_date: null
+sku: solder-paste-sn63pb37-class4
+spec: null
+status: ''
+vendor: olimex

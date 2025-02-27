@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: It consists of a copper body, a water rotor, and a hall-effect sensor.
+  When water flows through the rotor, rotor rolls. Its speed changes with different
+  rate of flow. The hall-effect sensor outputs the corresponding pulse signal.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.seeedstudio.com/Water-Flow-Sensor-YF-B5-p-2882.html
+  repositories: []
+name: '114991175'
+ref: seeedstudio/114991175
+release_date: null
+sku: '114991175'
+spec: null
+status: ''
+vendor: seeedstudio

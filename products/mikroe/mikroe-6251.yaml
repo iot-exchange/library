@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: '1x8 Female Header Socket TH - 1.5mm pitch (5pcs) is a high-quality connector
+  designed for through-hole mounting. It features eight pins in a single row and a
+  unique 1.5mm pitch. The connector ensures a reliable connection with square contacts
+  and has a sleek black design. Each pin is 2.4mm long, and it is sold as a 5pcs unit.
+  NOTE: For full compatibility...'
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/1x8-female-socket-15mm-pitch/1x8-female-socket-15mm-pitch-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/1x8-female-socket-15mm-pitch
+  repositories: []
+name: MIKROE-6251
+ref: mikroe/mikroe-6251
+release_date: null
+sku: mikroe-6251
+spec: null
+status: ''
+vendor: mikroe

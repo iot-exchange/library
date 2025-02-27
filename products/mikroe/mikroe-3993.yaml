@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: RS485 6 Click offers a half-duplex RS-485 communication with integrated
+  surge protection, which can be used as an interface between the TTL level UART and
+  the RS485 communication bus. It is based on THVD1429DT, a transceiver from Texas
+  Instruments with signaling rate of up to 20 Mbps. This device features a wide common-mode
+  voltage range from 3.3V to 5V,...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rs485-6-click/rs485-6-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/rs485-6-click "RS485 6 Click"
+  repositories: []
+name: MIKROE-3993
+ref: mikroe/mikroe-3993
+release_date: null
+sku: mikroe-3993
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Enhancements for Developers and Devices
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/blog/matter-1-1-specification-enhancements
+  repositories: []
+name: Matter 1.1
+ref: silicon-labs/matter-1-1
+release_date: null
+sku: matter-1-1
+spec: null
+status: ''
+vendor: silicon-labs

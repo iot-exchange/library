@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: TFmini-S Lidar Ranging Sensor, 12m Ranging Distance, Low Power, High
+  Frame Rate, Compact Size and Easy to integrate
+extra:
+  Price: $42.63 - $43.99
+  SKU: '24894'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/f/tfmini-s-lidar-range-sensor-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/tfmini-s-lidar-range-sensor.htm
+  repositories: []
+name: TFmini-S LiDAR Range Sensor
+ref: waveshare/tfmini-s-lidar-range-sensor
+release_date: null
+sku: tfmini-s-lidar-range-sensor
+spec: null
+status: ''
+vendor: waveshare

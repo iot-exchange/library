@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: Bluetooth Low Energy EFR32BG13 SoCs (Series 1)
+extra:
+  Core: ARM Cortex-M4
+  Flash (KB): '512'
+  Max Flash/RAM (kB): 512/64
+  Output Power Range (dBm): -30 19
+  RAM (KB): '64'
+  RX Current (mA): '9.5'
+  RX Sensitivity: '5.2'
+  "Secure Vault\u2122": Base
+  Security: AES-128, AES-256, ECC, SHA-1, SHA-2
+  TX Current (0 dBm): '8.5'
+  TX Current @ 0 dBm: '20'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/bluetooth/efr32bg13-series-1-socs
+  repositories: []
+name: EFR32BG13
+ref: silicon-labs/efr32bg13
+release_date: null
+sku: efr32bg13
+spec: null
+status: ''
+vendor: silicon-labs

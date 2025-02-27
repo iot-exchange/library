@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 4G LTE Advanced (Cat-7)
+extra:
+  Bands: 'LTE: B2, B4, B5, B7, B12, B13, B14, B25, B26, B41, B42, B43, B48, B66, B71'
+  Fallback: 3G
+  Region (Carrier): NAM (AT&T, T-Mobile, Verizon, US Cellular, Telus, SouthernLINC)
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.sierrawireless.com/iot-modules/4g-modules/em7411/
+  repositories: []
+name: EM7411
+ref: sierrawireless/em7411
+release_date: null
+sku: em7411
+spec: null
+status: ''
+vendor: sierrawireless

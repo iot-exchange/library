@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 14.25 EUR
+  discountedPrice2: 13.50 EUR
+  price: 15.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/BOXES/BOX-MICRO-B/images/thumbs/200x150/A20-MICRO-B-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/BOXES/BOX-MICRO-B-RED/
+  repositories: []
+name: BOX-MICRO-B-RED
+ref: olimex/box-micro-b-red
+release_date: null
+sku: box-micro-b-red
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 32F746GDISCOVERY
+extra:
+  Price: $79.59 - $82.99
+  SKU: '11096'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/stm32f746g-disco-7.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/stm32f746g-disco.htm
+  repositories: []
+name: STM32F746G-DISCO
+ref: waveshare/stm32f746g-disco
+release_date: null
+sku: stm32f746g-disco
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: IC51-0162-271-1, Test & Burn-in Socket
+extra:
+  Price: $41.59 - $44.99
+  SKU: '6052'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ic51-0162-271-1-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ic51-0162-271-1.htm
+  repositories: []
+name: IC51-0162-271-1
+ref: waveshare/ic51-0162-271-1
+release_date: null
+sku: ic51-0162-271-1
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Low data rate, low power Sub 1GHz transceiver
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.st.com/en/wireless-connectivity/spirit1.html
+  repositories: []
+name: SPIRIT1
+ref: st/spirit1
+release_date: null
+sku: spirit1
+spec: null
+status: Active
+vendor: st

@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: I2C MUX 7 Click is a compact add-on board representing a bidirectional
+  selector dedicated to applications with I2C slave address conflicts. This board
+  features the PI4MSD5V9547, an octal bidirectional translating multiplexer controlled
+  by the I2C-bus from Texas Instruments. Only one SCL/SDA channel can be selected
+  at a time, determined by the contents of...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-3-for-pic32mz-capacitive-fpi-with-frame/mikromedia-3-for-pic32mz-capacitive-fpi-with-frame-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/i2c-mux-7-click/i2c-mux-7-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/i2c-mux-7-click
+  - https://www.mikroe.com/mikromedia-3-for-pic32mz-capacitive-fpi-with-frame
+  repositories: []
+name: MIKROE-5069
+ref: mikroe/mikroe-5069
+release_date: null
+sku: mikroe-5069
+spec: null
+status: ''
+vendor: mikroe

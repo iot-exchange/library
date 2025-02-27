@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Cables/ETHERNET-EXTENDER/images/thumbs/200x150/ETHERNET-EXTENDER-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Cables/ETHERNET-EXTENDER/
+  repositories: []
+name: ETHERNET-EXTENDER
+ref: olimex/ethernet-extender
+release_date: null
+sku: ethernet-extender
+spec: null
+status: ''
+vendor: olimex

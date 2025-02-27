@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/USB-Modules/BOX-USB-ISO/images/thumbs/200x150/BOX-USB-ISO-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/USB-Modules/BOX-USB-ISO/
+  repositories: []
+name: BOX-USB-ISO
+ref: olimex/box-usb-iso
+release_date: null
+sku: box-usb-iso
+spec: null
+status: ''
+vendor: olimex

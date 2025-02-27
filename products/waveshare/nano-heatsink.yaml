@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: The Official Heatsink for Jetson Nano
+extra:
+  Price: $7.31 - $7.99
+  SKU: '21599'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/n/a/nano-heatsink-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/nano-heatsink.htm
+  repositories: []
+name: NANO-HEATSINK
+ref: waveshare/nano-heatsink
+release_date: null
+sku: nano-heatsink
+spec: null
+status: ''
+vendor: waveshare

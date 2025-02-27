@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Official Raspberry Pi PCIe To M.2 HAT, Designed for Raspberry Pi 5, HAT
+  + Standard, Supports NVMe Protocol M.2 Solid State Drive, Raspberry Pi 5 HAT
+extra:
+  Price: $13.31 - $13.99
+  SKU: '27455'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-m.2-hat-plus-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/raspberry-pi-m.2-hat-plus.htm
+  repositories: []
+name: Raspberry Pi M.2 HAT+
+ref: waveshare/raspberry-pi-m-2-hat
+release_date: null
+sku: raspberry-pi-m-2-hat
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Uninterruptible Power Supply UPS Module For Jetson Nano, Stable 5V Power
+  Output
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/p/ups-power-module-details-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ups-power-module.htm
+  repositories: []
+name: ups_module
+ref: waveshare/ups-module
+release_date: null
+sku: ups-module
+spec: null
+status: ''
+vendor: waveshare

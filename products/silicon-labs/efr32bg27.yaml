@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: Ultra-Low-Power, Small Form Factor SoCs available with DCDC Boost in
+  WLCSP packaging for small form factor applications.
+extra:
+  Bluetooth Support: 5.4, Bluetooth mesh & proprietary
+  Core: ARM Cortex-M33
+  Flash (KB): '768'
+  Ideal For: Low-power battery-powered IoT devices
+  RAM (KB): '64'
+  RX Sensitivity: '5.4'
+  Security: AES-128, AES-256, ECC, SHA-1, SHA-2
+  TX Current @ 0 dBm: '8'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/bluetooth/efr32bg27-series-2-socs
+  repositories: []
+name: EFR32BG27
+ref: silicon-labs/efr32bg27
+release_date: null
+sku: efr32bg27
+spec: null
+status: ''
+vendor: silicon-labs

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: The EFR32xG24 +20 dBm Antenna Diversity Radio Board is designed work
+  with the WSTK main board (not included) to support the development of wireless IoT
+  devices based on 2.4 GHz 802.15.4 protocols including OpenThread and Zigbee.
+extra:
+  MSRP: $49.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/multiprotocol/xg24-rb4188a-20-antenna.png
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/xg24-rb4188a-efr32xg24-wireless-gecko-radio-board
+  repositories: []
+name: EFR32xG24 Wireless 2.4 GHz +20 dBm Antenna Diversity Radio Board
+ref: silicon-labs/efr32xg24-wireless-2-4-ghz-20-dbm-antenna-diversity-radio-board
+release_date: null
+sku: efr32xg24-wireless-2-4-ghz-20-dbm-antenna-diversity-radio-board
+spec: null
+status: ''
+vendor: silicon-labs

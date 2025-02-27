@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Duino/Shields/SHIELD-LOL-SMT/images/thumbs/200x150/SHIELD-LOL-SMT.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Duino/Shields/SHIELD-LOL-SMT/open-source-hardware
+  repositories: []
+name: SHIELD-LOL-SMT
+ref: olimex/shield-lol-smt
+release_date: null
+sku: shield-lol-smt
+spec: null
+status: ''
+vendor: olimex

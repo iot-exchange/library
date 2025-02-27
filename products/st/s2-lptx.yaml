@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Ultra-Low power, High performance Sub-1GHz transmitter
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.st.com/en/wireless-connectivity/s2-lptx.html
+  repositories: []
+name: S2-LPTX
+ref: st/s2-lptx
+release_date: null
+sku: s2-lptx
+spec: null
+status: ''
+vendor: st

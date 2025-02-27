@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Tarvos-III with 50 Ohm RF pad
+extra:
+  Current Consumption (mA): '3.8'
+  Expected Lifetime (years): '>10'
+  Frequency Range: 863 - 870
+  Max Output Power (dBm): '10000'
+  Sensitivity (dBm): '-124'
+  Supply Voltage (V): '2.2'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: '2609026281001'
+ref: we/2609026281001
+release_date: null
+sku: '2609026281001'
+spec: null
+status: Active
+vendor: we

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "Magneto 7 Click is a high-resolution magnetic sensor Click board\u2122\
+  \ which allows contactless orientation sensing. It features the BM1422AGMV, a complete\
+  \ integrated solution with magneto-impedance (MI) elements, low-noise analog AD\
+  \ converter, and digital signal processing (DSP) sections, on the same die."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/magneto-7-click/magneto-7-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/magneto-7-click
+  repositories: []
+name: MIKROE-3657
+ref: mikroe/mikroe-3657
+release_date: null
+sku: mikroe-3657
+spec: null
+status: ''
+vendor: mikroe

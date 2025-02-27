@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Industrial Turbidity Sensor MODBUS-RTU RS485 for Water Quality Monitoring
+extra:
+  application: water treatment, environmental monitoring
+  measurementRange: 0-1000 NTU
+  price: $249.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - ./img/as
+  models: []
+  products:
+  - https://www.seeedstudio.com/RS485-p-5102.html
+  repositories: []
+name: '101990793'
+ref: seeedstudio/101990793
+release_date: null
+sku: '101990793'
+spec: null
+status: ''
+vendor: seeedstudio

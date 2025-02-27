@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC2674P10
+  repositories: []
+name: CC2674P10
+ref: ti/cc2674p10
+release_date: null
+sku: cc2674p10
+spec: null
+status: ''
+vendor: ti

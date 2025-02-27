@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Zero 2W To 3B Adapter, Alternative Solution for Raspberry
+  Pi 3 Model B/B+
+extra:
+  SKU: '22383'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/z/e/zero-to-pi3-adapter-b-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/zero-to-pi3-adapter-b.htm
+  repositories: []
+name: Zero-to-Pi3-Adapter (B)
+ref: waveshare/zero-to-pi3-adapter-b
+release_date: null
+sku: zero-to-pi3-adapter-b
+spec: null
+status: ''
+vendor: waveshare

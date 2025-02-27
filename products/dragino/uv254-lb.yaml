@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: LoRaWAN UVC Radiation Sensor
+extra:
+  Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865
+  Detect UVC lamp working status: ''
+  Peak response spectrum: 254nm
+  Support Bluetooth: v5.1 and LoRaWAN remote configure
+  Support wireless OTA update firmware: ''
+  working efficiency: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/2e2c1711fe12b24ae23d95c35bfd21c2_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/agriculture-weather-station/item/267-uv254-lb.html
+  repositories: []
+name: UV254-LB
+ref: dragino/uv254-lb
+release_date: null
+sku: uv254-lb
+spec: null
+status: ''
+vendor: dragino

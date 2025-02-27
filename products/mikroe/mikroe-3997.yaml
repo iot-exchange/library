@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Color 10 Click is carrying VEML3328 sensor for RGB and IR light sensing
+  as well as the RGB diode incorporated on the board which makes it good color detection
+  device when its combined with a white LED. The VEML3328 sensor senses red, green,
+  blue, clear and IR light by incorporating photodiodes, amplifiers, and analog /
+  digital circuits into a single CMOS...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/color-10-click/color-10-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/color-10-click "Color 10 Click"
+  repositories: []
+name: MIKROE-3997
+ref: mikroe/mikroe-3997
+release_date: null
+sku: mikroe-3997
+spec: null
+status: ''
+vendor: mikroe

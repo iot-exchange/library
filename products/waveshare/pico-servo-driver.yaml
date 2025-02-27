@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Servo Driver Module for Raspberry Pi Pico, 16-ch Outputs, 16-bit Resolution
+extra:
+  Price: $11.31 - $11.99
+  SKU: '19767'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-servo-driver-1_3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pico-servo-driver.htm
+  repositories: []
+name: Pico-Servo-Driver
+ref: waveshare/pico-servo-driver
+release_date: null
+sku: pico-servo-driver
+spec: null
+status: ''
+vendor: waveshare

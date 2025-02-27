@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Dual Channels LoRa IoT Gateway. LoRa Wireless 433/868/915/920Mhz Open
+  Source Openwrt For Private LoRa Protocol, Not compatible with LoRaWAN. EOL, Not
+  recommended for new users.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/be7685026070406a215779b242f1aa2e_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lora-lorawan-gateway/item/135-lg02.html
+  repositories: []
+name: LG02 Dual Channels LoRa IoT Gateway
+ref: dragino/lg02-dual-channels-lora-iot-gateway
+release_date: null
+sku: lg02-dual-channels-lora-iot-gateway
+spec: null
+status: ''
+vendor: dragino

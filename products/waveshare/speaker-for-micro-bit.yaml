@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Speaker for micro:bit, Music Player
+extra:
+  Price: $11.39 - $11.99
+  SKU: '14542'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/p/speaker-for-micro-bit-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/speaker-for-micro-bit.htm
+  repositories: []
+name: Speaker for micro:bit
+ref: waveshare/speaker-for-micro-bit
+release_date: null
+sku: speaker-for-micro-bit
+spec: null
+status: ''
+vendor: waveshare

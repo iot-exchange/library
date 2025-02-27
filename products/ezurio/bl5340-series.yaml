@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Multi-Core Bluetooth 5.2 + 802.15.4 + NFC Modules
+extra:
+  2MPHY: x
+  802.15.4 / Matter / Thread: ''
+  BLE: x
+  Classic BT: x
+  LE Long Range: x
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/bl5340-series-multi-core-bluetooth-52-802154-nfc-modules
+  repositories: []
+name: BL5340 Series
+ref: ezurio/bl5340-series
+release_date: null
+sku: bl5340-series
+spec: null
+status: ''
+vendor: ezurio

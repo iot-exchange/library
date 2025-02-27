@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: 5G NR Sub-6GHz M.2 Packaging Module
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://en.meigsmart.com/userfiles/images/2022/10/21/2022102117245611.png
+  models: []
+  products:
+  - https://en.meigsmart.com/productdetail/5g-module-srm825n-ea.html
+  repositories: []
+name: SRM825N-EA
+ref: meig-smart/srm825n-ea
+release_date: null
+sku: srm825n-ea
+spec: null
+status: ''
+vendor: meig-smart

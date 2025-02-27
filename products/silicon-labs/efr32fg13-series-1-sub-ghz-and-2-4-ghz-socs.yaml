@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: Sub-GHz and 2.4 GHz
+extra:
+  Flash (kB): '512'
+  Frequency Range (MHz): 110 2483.5
+  GPIO: 16, 31, 32
+  MCU Core: ARM Cortex-M4
+  Max Output Power (dBm): '64'
+  Peak RX Sensitivity: -102.7 (250 kbps DSSS-OQPSK 2.4 GHz)
+  RAM (kB): '64'
+  Security: AES-128, AES-256, ECC, SHA-1, SHA-2
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/proprietary/efr32fg13-series-1-sub-ghz-2-4-ghz-socs
+  repositories: []
+name: EFR32FG13 Series 1 Sub-GHz and 2.4 GHz SoCs
+ref: silicon-labs/efr32fg13-series-1-sub-ghz-and-2-4-ghz-socs
+release_date: null
+sku: efr32fg13-series-1-sub-ghz-and-2-4-ghz-socs
+spec: null
+status: ''
+vendor: silicon-labs

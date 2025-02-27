@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LTE IoT 5 Click is an add-on board with a compact and cost-effective
+  secure-cloud multi-band solution designed for IoT applications. This board features
+  the SARA-R510M8S, a cellular module that supports LTE Cat M1/Cat NB2 bands with
+  integrated high-performance standard precision M8 GNSS receiver for global position
+  acquisition from u-Blox. Equipped with...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lte-iot-5-click/lte-iot-5-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/lte-iot-5-click
+  repositories: []
+name: MIKROE-4325
+ref: mikroe/mikroe-4325
+release_date: null
+sku: mikroe-4325
+spec: null
+status: ''
+vendor: mikroe

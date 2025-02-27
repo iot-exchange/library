@@ -1,0 +1,32 @@
+alternatives: []
+certifications: []
+description: "The ESP32-S3-Korvo-1 is an AI development board. It is based on the\
+  \ ESP32-S3 SoC and ESP-Skainet, Espressif\u2019s speech recognition SDK. It features\
+  \ a three-microphone array which is suitable for far-field voice pick-up with low-power\
+  \ consumption. The ESP32-S3-Korvo-1 supports voice wake-up and offline speech command\
+  \ recognition in Chinese and English languages. With ESP-Skainet, you can develop\
+  \ a variety of speech recognition applications, such as smart displays, smart plugs,\
+  \ smart switches, etc."
+extra:
+  Flash: 16 MB
+  Interfaces: I/O USB
+  PSRAM: 8 MB
+  Related Products: ESP32-S3-WROOM-1
+  UI: Buttons, TF card, LEDs, Microphones
+  User Guide: https://github.com/espressif/esp-skainet/blob/master/docs/en/hw-reference/esp32s3/user-guide-korvo-1.md
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/dev-board/ESP32-S3-Korvo-1_S.png
+  models: []
+  products:
+  - https://github.com/espressif/esp-skainet/blob/master/docs/en/hw-reference/esp32s3/user-guide-korvo-1.md
+  repositories: []
+name: ESP32-S3-Korvo-1
+ref: espressif/esp32-s3-korvo-1
+release_date: null
+sku: esp32-s3-korvo-1
+spec: null
+status: ''
+vendor: espressif

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "GNSS 16 Click is a compact add-on board that delivers meter-level accuracy\
+  \ in urban environments. This Click board\u2122 features the NEO-F10N-00B, a professional-grade\
+  \ L1/L5 dual-band GNSS receiver from u-blox."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gnss-16-click/gnss-16-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/gnss-16-click
+  repositories: []
+name: MIKROE-6129
+ref: mikroe/mikroe-6129
+release_date: null
+sku: mikroe-6129
+spec: null
+status: ''
+vendor: mikroe

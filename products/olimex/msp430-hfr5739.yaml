@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 8.95 EUR
+  price2: 8.06 EUR
+  price3: 7.16 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/MSP430/Header/MSP430-HFR5739/images/thumbs/200x150/MSP430-HRF5738-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/MSP430/Header/MSP430-HFR5739/
+  repositories: []
+name: MSP430-HFR5739
+ref: olimex/msp430-hfr5739
+release_date: null
+sku: msp430-hfr5739
+spec: null
+status: ''
+vendor: olimex

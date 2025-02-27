@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Accel 18 Click is a compact add-on board that contains an acceleration\
+  \ sensor. This board features the MC3419, a digital output 3-axis accelerometer\
+  \ with a feature set optimized for consumer product motion sensing from MEMSIC.\
+  \ It allows selectable full-scale acceleration measurements in ranges of \xB12g,\
+  \ \xB14g, \xB18g, and \xB116g in three axes with a configurable..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/accel-18-click/accel-18-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/accel-18-click
+  repositories: []
+name: MIKROE-4826
+ref: mikroe/mikroe-4826
+release_date: null
+sku: mikroe-4826
+spec: null
+status: ''
+vendor: mikroe

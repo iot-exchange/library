@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: This Grove - Barometer (High-Accuracy) Sensor features an HP206C high-accuracy
+  chip to detect barometric pressure, Altimeter, and temperature. It can widely measure
+  pressure ranging from 300mbar~1200mbar, with super high accuracy of 0.01mbar(0.1m)
+  in ultra-high resolution mode.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductgrove20barometer20high-accuracy.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comproduct101020078201_02.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-Barometer-High-Accuracy.html
+  repositories: []
+name: '101020068'
+ref: seeedstudio/101020068
+release_date: null
+sku: '101020068'
+spec: null
+status: ''
+vendor: seeedstudio

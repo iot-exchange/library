@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: A Low-Cost, Battery-Powered Network Extender
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.semtech.com/uploads/technology/LoRa-whitepaper-RealWorld-360x220.jpg
+  models: []
+  products:
+  - https://info.semtech.com/lorawan-relay-white-paper
+  repositories: []
+name: "LoRaWAN\xAE Relay"
+ref: semtech/lorawan-r-relay
+release_date: null
+sku: lorawan-r-relay
+spec: null
+status: ''
+vendor: semtech

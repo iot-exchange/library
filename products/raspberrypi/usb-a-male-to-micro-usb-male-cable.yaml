@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: The official Raspberry Pi USB A/Male to Micro USB/Male cable
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/f4e5c826317b4c53fb46c34d3f6ad55a/3f4ea/2f9dfdc2-8fac-4e93-817f-8c80dc2face6_micro%2BUSB%2Bto%2BUSB%2BDETAIL%2BRED.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/usb-a-male-to-micro-usb-male-cable/
+  repositories: []
+name: USB A/Male to Micro USB/Male cable
+ref: raspberrypi/usb-a-male-to-micro-usb-male-cable
+release_date: null
+sku: usb-a-male-to-micro-usb-male-cable
+spec: null
+status: ''
+vendor: raspberrypi

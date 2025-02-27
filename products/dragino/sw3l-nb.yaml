@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: NB-IoT Flow Sensor
+extra:
+  Battery: 8500mAh Battery for long term use
+  Function: Monitor water waste, Upload water flow volume
+  NB-IoT Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85 @H-FDD
+  Power Consumption: Ultra-low
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/821ee19c73076a9074fe1f4f0b493d5a_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/water-meter-flow-sensor/item/305-sw3l-nb.html
+  repositories: []
+name: SW3L-NB
+ref: dragino/sw3l-nb
+release_date: null
+sku: sw3l-nb
+spec: null
+status: ''
+vendor: dragino

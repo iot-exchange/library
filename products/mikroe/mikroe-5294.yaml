@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Brushless 20 Click is a compact add-on board that controls brushless
+  DC (BLDC) motors with any MCU. This board features the DRV8313, a fully integrated
+  three-phase BLDC motor driver from Texas Instruments. It provides three individually
+  controllable half-H-bridge drivers intended to drive a three-phase BLDC motor, solenoids,
+  or other loads.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/brushless-20-click/brushless-20-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/brushless-20-click
+  repositories: []
+name: MIKROE-5294
+ref: mikroe/mikroe-5294
+release_date: null
+sku: mikroe-5294
+spec: null
+status: ''
+vendor: mikroe

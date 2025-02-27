@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "Murata has designed the world\u2019s smallest LTE Cat.M1/NB-IoT module.\
+  \ It has a global certification and supports GPS/GNSS, OpenMCU, and iSIM (option).\
+  \ LTE Cat.M1 (LTE-M) features high reliability, low latency, and low power consumption.\
+  \ It can be used in IoT devices that require battery replacement. NB-IoT is expected\
+  \ to be used for IoT solutions that require low power consumption, and is suitable\
+  \ for environments where batteries are not easily replaceable or where a commercial\
+  \ power supply is unavailable such as on smart meters and other remote medical examinations\
+  \ or anomaly detection when disasters occur."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/products/connectivitymodule/cat-m1
+  repositories: []
+name: LTE Cat.M1/NB-IoT Modules
+ref: murata/lte-cat-m1-nb-iot-modules
+release_date: null
+sku: lte-cat-m1-nb-iot-modules
+spec: null
+status: ''
+vendor: murata

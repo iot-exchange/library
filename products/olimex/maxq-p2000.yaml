@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 26.96 EUR
+  discountedPrice2: 23.96 EUR
+  price: 29.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/MAXQ/Proto/MAXQ-P2000/images/thumbs/200x150/MAXQ-P2000-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/MAXQ/Proto/MAXQ-P2000/
+  repositories: []
+name: MAXQ-P2000
+ref: olimex/maxq-p2000
+release_date: null
+sku: maxq-p2000
+spec: null
+status: ''
+vendor: olimex

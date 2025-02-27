@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: $8.31  -  $8.99
+extra:
+  Part No.: LAN8720 ETH Board
+  SKU: '8583'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/a/lan8720-eth-board-intro.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/lan8720-eth-board.htm
+  repositories: []
+name: LAN8720 ETH Board
+ref: waveshare/lan8720-eth-board
+release_date: null
+sku: lan8720-eth-board
+spec: null
+status: ''
+vendor: waveshare

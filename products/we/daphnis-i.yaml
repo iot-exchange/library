@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: "NEW LoRaWAN\xAE"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o782115v214%20single-Daphnis-I-2618011181000.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/DAPHNIS-I
+  repositories: []
+name: Daphnis-I
+ref: we/daphnis-i
+release_date: null
+sku: daphnis-i
+spec: null
+status: ''
+vendor: we

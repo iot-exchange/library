@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "ECG 7 Click is a compact add-on board that records the heart's electrical\
+  \ activity. This board features the MCP6N16, a single zero-drift instrumentation\
+  \ amplifier with selectable gain from Microchip. In addition to the jack connector\
+  \ provided for connecting the cable with ECG electrodes, this Click board\u2122\
+  \ offers the possibility of connecting electrodes..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ecg-7-click/ecg-7-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ecg-7-click
+  repositories: []
+name: MIKROE-5214
+ref: mikroe/mikroe-5214
+release_date: null
+sku: mikroe-5214
+spec: null
+status: ''
+vendor: mikroe

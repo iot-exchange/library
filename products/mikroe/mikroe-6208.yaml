@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "Grid-EYE 2 Click is a compact add-on board designed for thermal imaging\
+  \ and motion detection applications. This board features the AMG883543, an infrared\
+  \ array sensor from Panasonic with a 90\xB0 viewing angle and an 8x8 pixel matrix\
+  \ that measures temperatures from 0\xB0C to 80\xB0C with a resolution of 0.25\xB0\
+  C. The sensor can detect objects up to 5 meters away and..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/buck-18-click/buck-18-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/grid-eye-2-click/grid-eye-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/buck-18-click
+  - https://www.mikroe.com/grid-eye-2-click
+  repositories: []
+name: MIKROE-6208
+ref: mikroe/mikroe-6208
+release_date: null
+sku: mikroe-6208
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: LoRaWAN Temperature,Humidity&Illuminance sensorLoRaWAN v1.0.3 Class A
+  protocolBands:EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915Built-in 2400mAh batterybuilt-in
+  Temperature & Humidity sensorExternal Illuminance Sensor
+extra:
+  Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
+  Battery: 2400mAh
+  Built-in: 2400mAh battery
+  External Illuminance Sensor: ''
+  Protocol: LoRaWAN v1.0.3 Class A
+  built-in Temperature & Humidity sensor: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/621af29360685f88fae4c26f96ed9d8c_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/temperature-humidity-sensor/item/254-lht65s-e5.html
+  repositories: []
+name: LHT65S-E5
+ref: dragino/lht65s-e5
+release_date: null
+sku: lht65s-e5
+spec: null
+status: ''
+vendor: dragino

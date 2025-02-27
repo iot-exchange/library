@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC2640R2L
+  repositories: []
+name: CC2640R2L
+ref: ti/cc2640r2l
+release_date: null
+sku: cc2640r2l
+spec: null
+status: ''
+vendor: ti

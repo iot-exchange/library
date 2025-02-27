@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Dual channel 3A DC Motor Driver is a DC motor driver assembled by discrete
+  MOSFETs for Robotic car.
+extra:
+  channels: dual
+  current: 3A
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/105090004-2.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/MDD3A-p-4274.html
+  repositories: []
+name: '105090004'
+ref: seeedstudio/105090004
+release_date: null
+sku: '105090004'
+spec: null
+status: ''
+vendor: seeedstudio

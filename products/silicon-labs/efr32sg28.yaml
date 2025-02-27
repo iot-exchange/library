@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: "The SG28 is a dual-band SoC that sub-GHz FSK and Bluetooth LE, providing\
+  \ reliable connectivity both inside the home and beyond. With an ARM Cortex\xAE\
+  -M33 running up to 78 MHz, 1024 kB of Flash and 256 kB of RAM and up to 49 GPIO,\
+  \ this low-power device is ideal when your application demands more resources."
+extra:
+  Flash (kB): '1024'
+  GPIO: '49'
+  Output Family Max (dBm): '20'
+  Package Size (mm): 6x6, 8x8
+  Package Type: QFN48, QFN68
+  RAM (kB): '256'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/amazon-sidewalk/efr32sg28-dual-band-wireless-socs
+  repositories: []
+name: EFR32SG28
+ref: silicon-labs/efr32sg28
+release_date: null
+sku: efr32sg28
+spec: null
+status: ''
+vendor: silicon-labs

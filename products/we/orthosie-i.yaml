@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: NEW Radio Module 2.4 GHz without firmware
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o788823v214%20top-WIRL-NFW2-ORTHOSIE-I-2617011022000.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/ORTHOSIE-I
+  repositories: []
+name: Orthosie-I
+ref: we/orthosie-i
+release_date: null
+sku: orthosie-i
+spec: null
+status: ''
+vendor: we

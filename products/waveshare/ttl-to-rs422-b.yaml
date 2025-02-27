@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Rail-mount TTL To RS422 Galvanic isolated Converter, Anti-surge, Multiple
+  Isolation Protection
+extra:
+  Price: $9.31 - $9.99
+  SKU: '23652'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/t/ttl-to-rs422-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ttl-to-rs422-b.htm
+  repositories: []
+name: TTL TO RS422 (B)
+ref: waveshare/ttl-to-rs422-b
+release_date: null
+sku: ttl-to-rs422-b
+spec: null
+status: ''
+vendor: waveshare

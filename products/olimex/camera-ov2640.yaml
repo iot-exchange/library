@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Camera/CAMERA-OV2640/images/thumbs/200x150/CAMERA-OV2640.png
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Camera/CAMERA-OV2640/
+  repositories: []
+name: CAMERA-OV2640
+ref: olimex/camera-ov2640
+release_date: null
+sku: camera-ov2640
+spec: null
+status: ''
+vendor: olimex

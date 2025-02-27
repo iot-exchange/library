@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: AGRICULTURE SENSOR
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://tektelic.com/wp-content/uploads/clover.webp
+  models: []
+  products:
+  - https://tektelic.com/products/sensors/clover-agriculture-sensor/
+  repositories: []
+name: CLOVER
+ref: tektelic/clover
+release_date: null
+sku: clover
+spec: null
+status: ''
+vendor: tektelic

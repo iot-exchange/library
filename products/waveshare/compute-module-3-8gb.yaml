@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: $142.31  -  $142.99
+extra:
+  SKU: '16181'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/compute-module-3-plus-8gb-1_3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/compute-module-3-plus-8gb.htm
+  repositories: []
+name: Compute Module 3+ 8GB
+ref: waveshare/compute-module-3-8gb
+release_date: null
+sku: compute-module-3-8gb
+spec: null
+status: Out of Stock
+vendor: waveshare

@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: 900MHz, 100kbps, 40mW, 158mW, Chip Antenna
+extra:
+  Data Rate: 100kbps
+  Dev Kit: DNT90ADK
+  Dimen.: "45.70 \xD7 27.90 \xD7 3.18 mm"
+  Frequency: 900MHz
+  Product Type: Module
+  RF Conn/Antenna: Chip Antenna
+  Transmit Power: 40mW, 158mW
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/products/connectivitymodule/proprietary-fhss/overview/lineup/dnt90mpa
+  repositories: []
+name: DNT90MPA
+ref: murata/dnt90mpa
+release_date: null
+sku: dnt90mpa
+spec: null
+status: ''
+vendor: murata

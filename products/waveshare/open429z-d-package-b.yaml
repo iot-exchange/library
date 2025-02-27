@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Open429Z-D Package B, STM32F4 Development Board
+extra:
+  Price: $120.09 - $125.99
+  SKU: '8895'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/open429z-d-package-b_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/open429z-d-package-b.htm
+  repositories: []
+name: Open429Z-D Package B
+ref: waveshare/open429z-d-package-b
+release_date: null
+sku: open429z-d-package-b
+spec: null
+status: ''
+vendor: waveshare

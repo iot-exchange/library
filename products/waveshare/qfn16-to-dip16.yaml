@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: QFN16 TO DIP16, Programmer Adapter
+extra:
+  Price: $75.99 - $78.99
+  SKU: '6881'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/q/f/qfn16-to-dip16_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/qfn16-to-dip16.htm
+  repositories: []
+name: QFN16 TO DIP16
+ref: waveshare/qfn16-to-dip16
+release_date: null
+sku: qfn16-to-dip16
+spec: null
+status: ''
+vendor: waveshare

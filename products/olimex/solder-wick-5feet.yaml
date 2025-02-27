@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/SOLDER-WICK-5FEET/images/thumbs/200x150/SOLDER-WICK-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/Soldering/SOLDER-WICK-5FEET/
+  repositories: []
+name: SOLDER-WICK-5FEET
+ref: olimex/solder-wick-5feet
+release_date: null
+sku: solder-wick-5feet
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: EFR32xG27 Development Kit
+extra:
+  MSRP: $75.00
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/efr32xg27-development-kit
+  repositories: []
+name: xG27-DK2602A
+ref: silicon-labs/xg27-dk2602a
+release_date: null
+sku: xg27-dk2602a
+spec: null
+status: ''
+vendor: silicon-labs

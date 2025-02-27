@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "4-20mA T 2 Click is a compact add-on board for transmitting an analog\
+  \ output current over an industry-standard 4-20mA current loop. This board features\
+  \ DAC161S997, a low-power 16-bit \u03A3\u0394 digital-to-analog converter (DAC)\
+  \ from Texas Instruments. It has a programmable Power-Up condition and loop-error\
+  \ detection/reporting accessible via simple 4-wire SPI for..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/4-20ma-t-2-click/4-20ma-t-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/4-20ma-t-2-click
+  repositories: []
+name: MIKROE-5540
+ref: mikroe/mikroe-5540
+release_date: null
+sku: mikroe-5540
+spec: null
+status: ''
+vendor: mikroe

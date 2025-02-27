@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: OAK-D-Pro, 12MP, OpenCV AI Machine Vision Kit, Depth Measuring, Image
+  Recognition
+extra:
+  Price: $376.59 - $379.99
+  SKU: '22641'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/a/oak-d-pro-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/oak-d-pro.htm
+  repositories: []
+name: OAK-D-Pro
+ref: waveshare/oak-d-pro
+release_date: null
+sku: oak-d-pro
+spec: null
+status: ''
+vendor: waveshare

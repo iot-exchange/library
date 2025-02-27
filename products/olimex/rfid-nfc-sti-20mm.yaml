@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 0.34 EUR
+  discountedPrice2: 0.32 EUR
+  price: 0.36 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/RFID-Tags/MIFARE/RFID-NFC-STI-20MM/images/thumbs/200x150/RFID-NFC-STI-20mm.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/RFID-Tags/MIFARE/RFID-NFC-STI-20MM/
+  repositories: []
+name: RFID-NFC-STI-20MM
+ref: olimex/rfid-nfc-sti-20mm
+release_date: null
+sku: rfid-nfc-sti-20mm
+spec: null
+status: ''
+vendor: olimex

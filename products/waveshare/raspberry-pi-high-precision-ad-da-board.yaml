@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi High-Precision AD/DA Expansion Board
+extra:
+  Price: $32.95 - $34.99
+  SKU: '11010'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/h/i/high-precision-ad-da-board-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/high-precision-ad-da-board.htm
+  repositories: []
+name: Raspberry Pi High-Precision AD/DA Board
+ref: waveshare/raspberry-pi-high-precision-ad-da-board
+release_date: null
+sku: raspberry-pi-high-precision-ad-da-board
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: LoRaWAN main process unit in Dragino Weather Station solutionOutdoor
+  LoRaWAN RS485 end node Powered by external 12v solar power.Built-in Li-ion backup
+  battery
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/1fc372946c0b98fb8d7f87d4c38ea83a_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/agriculture-weather-station/item/206-wsc1-l.html
+  repositories: []
+name: WSC1-L
+ref: dragino/wsc1-l
+release_date: null
+sku: wsc1-l
+spec: null
+status: ''
+vendor: dragino

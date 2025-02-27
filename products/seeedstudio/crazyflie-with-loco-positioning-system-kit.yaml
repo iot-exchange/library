@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: The Crazyflie with Loco Positioning system Kit offers multiple enhanced
+  modules to enable the swarm of Crazyflies applying Loco Positioning System, for
+  being positioned simultaneously. It is a great kit designed for getting started
+  unmanned aerial vehicles.
+extra:
+  price: $10.00 - $310.00
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.seeedstudio.com/Crazyflie-with-Loco-Positioning-system-Kit.html
+  repositories: []
+name: Crazyflie with Loco Positioning system Kit
+ref: seeedstudio/crazyflie-with-loco-positioning-system-kit
+release_date: null
+sku: crazyflie-with-loco-positioning-system-kit
+spec: null
+status: ''
+vendor: seeedstudio

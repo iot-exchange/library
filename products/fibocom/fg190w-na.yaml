@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/5G-FG190W-NA.html
+  repositories: []
+name: FG190W-NA
+ref: fibocom/fg190w-na
+release_date: null
+sku: fg190w-na
+spec: null
+status: ''
+vendor: fibocom

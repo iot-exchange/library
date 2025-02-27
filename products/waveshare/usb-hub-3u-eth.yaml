@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Industrial Grade Multifunctional USB HUB, Extending 3x USB ports + 100M
+  Ethernet Port
+extra:
+  Multi Options: ''
+  Price: $15.99 -  $17.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-hub-3u-eth-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/usb-hub-3u-eth.htm
+  repositories: []
+name: usb_hub_3u_eth
+ref: waveshare/usb-hub-3u-eth
+release_date: null
+sku: usb-hub-3u-eth
+spec: null
+status: ''
+vendor: waveshare

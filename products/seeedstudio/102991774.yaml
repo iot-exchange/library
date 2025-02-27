@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: AMB82-MINI development board is adopting Realtek RTL8735BDM SoC, it is
+  suitable for battery-powered appliances or equipment required AI network camera
+  applications, no worry to power consumption and IoT security. AMB82-MINI is easy
+  to program and learn AI model with this powerful AIoT development kit.
+extra:
+  Price: $24.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/6/-/6-amb82-mini-_rtl8735b_-iot-ai-camera-dev.-board-feature.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/AMB82-MINI-RTL8735B-IoT-AI-Camera-Dev-Board-p-5584.html
+  repositories: []
+name: '102991774'
+ref: seeedstudio/102991774
+release_date: null
+sku: '102991774'
+spec: null
+status: ''
+vendor: seeedstudio

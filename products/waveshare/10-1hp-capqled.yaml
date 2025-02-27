@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "10.1inch QLED Quantum Dot Display, Capacitive Touch, 1280\xD7720, G+G\
+  \ Toughened Glass Panel, Various Systems Support"
+extra:
+  Price: $119.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.1hp-capqled-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/10.1hp-capqled.htm
+  repositories: []
+name: 10.1HP-CAPQLED
+ref: waveshare/10-1hp-capqled
+release_date: null
+sku: 10-1hp-capqled
+spec: null
+status: ''
+vendor: waveshare

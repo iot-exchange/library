@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Specialized for Radxa X2L
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/heatsink/ae011b/thumb_heatsink_9010b.webp
+  - https://radxa.com/heatsink/ae012/thumb_heatsink_6510.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/heatsink-9010b
+  repositories: []
+name: Heatsink 9010B
+ref: radxa/heatsink-9010b
+release_date: null
+sku: heatsink-9010b
+spec: null
+status: ''
+vendor: radxa

@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: LPWA Antenna, 2dBi gain, LoRa Antenna, options for Frequency Version
+extra:
+  Price: $1.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/m/sma-433-antenna-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/sma-433-antenna.htm
+  repositories: []
+name: sma_antenna
+ref: waveshare/sma-antenna
+release_date: null
+sku: sma-antenna
+spec: null
+status: ''
+vendor: waveshare

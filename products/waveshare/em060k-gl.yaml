@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Quectel EM060K-GL Module, LTE-A Cat 6 module with M.2 form factor, Global
+  Multi-band GNSS Positioning
+extra:
+  SKU: '24386'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/m/em060k-gl-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/m/em060k-gl-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/em060k-gl.htm
+  repositories: []
+name: EM060K-GL
+ref: waveshare/em060k-gl
+release_date: null
+sku: em060k-gl
+spec: null
+status: ''
+vendor: waveshare

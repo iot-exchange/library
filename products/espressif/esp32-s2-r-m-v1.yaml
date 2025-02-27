@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: For flashing / testing ESP32-S2-WROOM / ESP32-S2-WROVER modules (must
+  be used with ESP-BAT32 for testing)
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/production_testing_guide_en.pdf
+  repositories: []
+name: ESP32-S2-R/M-V1
+ref: espressif/esp32-s2-r-m-v1
+release_date: null
+sku: esp32-s2-r-m-v1
+spec: null
+status: ''
+vendor: espressif

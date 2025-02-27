@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "2x Cortex\xAE-A35 cores @ up to 800 MHz, 1x Cortex\xAE-M33F core @ 216\
+  \ MHz"
+extra:
+  Dimensions (L x W): 51 x 32
+  I2C: 7x I2C
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ezurio.com/system-on-module/nxp-imx8/nitrogen8ulp-som
+  repositories: []
+name: Nitrogen8ULP SOM
+ref: ezurio/nitrogen8ulp-som
+release_date: null
+sku: nitrogen8ulp-som
+spec: null
+status: Active
+vendor: ezurio

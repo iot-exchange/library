@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: LoRaWAN Gateway Open Source Debian system SX1302 + 2 * SX1250 10 programmable
+  parallel demodulation paths Pre-configured to support different LoRaWAN regional
+  settings Different kinds of LoRaWAN Connections Data-Only Hotspot, Not suitable
+  for Helium Mining
+extra:
+  Demodulation Paths: '10'
+  System: Open Source Debian
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/82558bd755d4bf64f8b1324b360ed554_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lora-lorawan-gateway/item/228-lps8v2.html
+  repositories: []
+name: LPS8v2
+ref: dragino/lps8v2
+release_date: null
+sku: lps8v2
+spec: null
+status: ''
+vendor: dragino

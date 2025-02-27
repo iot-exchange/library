@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: 4x Cortex-A53 cores @ up to 1.4 GHz (TI AM67) with multiple MCU cores.
+extra:
+  Chipset (MCU): 1x Cortex-R5F core @ up to 800 MHz (app MCU), 1x Cortex-R5F core
+    @ up to 800 MHz (Device Management MCU), 1x Cortex-R5F core @ up to 800 MHz (Run-Time
+    Management MCU)
+  Chipset (MPU): 4x Cortex-A53 cores @ up to 1.4 GHz (TI AM67)
+  Dimensions (W x L): 45 x 30
+  Form Factor: OSM-MF Standard
+  Memory: 2GB, 4GB, and 8GB LPDDR4
+  Wireless Specification: Sona TI351 (CC3351 chipset)
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/CarbonAM67%20front.399.png
+  models: []
+  products:
+  - https://www.ezurio.com/system-on-module/osm-som/carbonam67-som
+  repositories: []
+name: CarbonAM67 SOM
+ref: ezurio/carbonam67-som
+release_date: null
+sku: carbonam67-som
+spec: null
+status: ''
+vendor: ezurio

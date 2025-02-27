@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "SE051 Plug&Trust Click is a compact add-on board representing a ready-to-use\
+  \ IoT security solution. This board features the SE051C2, an updatable extension\
+  \ of the EdgeLock\xAE SE050 from NXP Semiconductor, which delivers proven security\
+  \ certified to CC EAL 6+, with AVA_VAN.5 up to the OS level. Designed for the latest\
+  \ IoT security requirements, it allows..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/se051-plugtrust-click/se051-plugtrust-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/se051-plugtrust-click "SE051 Plug&Trust Click"
+  repositories: []
+name: MIKROE-5392
+ref: mikroe/mikroe-5392
+release_date: null
+sku: mikroe-5392
+spec: null
+status: ''
+vendor: mikroe

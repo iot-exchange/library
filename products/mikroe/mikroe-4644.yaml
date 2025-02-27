@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: I2C to CAN Click is a compact add-on board that contains I2C to CAN-physical
+  transceiver, which extends a single-master I2C bus through harsh or noisy environments.
+  This board features the LT3960, a robust high-speed transceiver that extends a single-master
+  I2C bus up to 400kbps using the CAN-physical layer from Analog Devices.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/i2c-to-can-click/i2c-to-can-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/i2c-to-can-click
+  repositories: []
+name: MIKROE-4644
+ref: mikroe/mikroe-4644
+release_date: null
+sku: mikroe-4644
+spec: null
+status: ''
+vendor: mikroe

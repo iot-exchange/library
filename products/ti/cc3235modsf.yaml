@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC3235MODSF
+  repositories: []
+name: CC3235MODSF
+ref: ti/cc3235modsf
+release_date: null
+sku: cc3235modsf
+spec: null
+status: ''
+vendor: ti

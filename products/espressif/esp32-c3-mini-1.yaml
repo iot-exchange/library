@@ -1,0 +1,32 @@
+alternatives: []
+certifications: []
+description: ESP32-C3-MINI-1 is a general-purpose Wi-Fi and Bluetooth LE module. This
+  module features a rich set of peripherals and a small size, which makes it an ideal
+  choice for smart home, industrial automation, health care, consumer electronics,
+  etc.
+extra:
+  Antenna: PCB antenna
+  Chip Embedded: ESP32-C3FH4, ESP32-C3FH4X
+  Development Board: '[ESP32-C3-DevKitM-1](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/hw-reference/esp32c3/user-guide-devkitm-1.html),
+    [ESP32-C3-AWS-ExpressLink-DevKit](https://github.com/espressif/esp-aws-expresslink-eval),
+    [ESP32-C3-DevKit-RUST-1](https://github.com/esp-rs/esp-rust-board)'
+  Dimensions (mm): "13.2\xD716.6\xD72.4"
+  Flash (MB): 4 MB embedded in chip
+  PSRAM (MB): N/A
+  Pins: '53'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-C3-MINI-1%20S_0.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf
+  repositories: []
+name: ESP32-C3-MINI-1
+ref: espressif/esp32-c3-mini-1
+release_date: null
+sku: esp32-c3-mini-1
+spec: null
+status: ''
+vendor: espressif

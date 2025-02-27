@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.arduino.cc/wiki/static/be8cd5164659b69d015dbbeff548517e/4b190/uno-r4-minima.jpg
+  models: []
+  products:
+  - https://store.arduino.cc/products/uno-r4-minima
+  repositories: []
+name: Arduino UNO R4 Minima
+ref: arduino/arduino-uno-r4-minima
+release_date: null
+sku: arduino-uno-r4-minima
+spec: null
+status: ''
+vendor: arduino

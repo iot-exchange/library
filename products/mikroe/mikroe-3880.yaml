@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "The M-Bus Master is a Click board\u2122 is complete solution for a master\
+  \ node in M-Bus networks. The M-Bus (\"Meter-Bus\") is a new European standard for\
+  \ remote reading of heat meters and it is also usable for all other types of consumption\
+  \ meters as well as for various sensors and actuators. Given all the features these\
+  \ elements offer, the M-Bus Master click..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/m-bus-master-click/m-bus-master-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/m-bus-master-click "M-Bus Master Click"
+  repositories: []
+name: MIKROE-3880
+ref: mikroe/mikroe-3880
+release_date: null
+sku: mikroe-3880
+spec: null
+status: ''
+vendor: mikroe

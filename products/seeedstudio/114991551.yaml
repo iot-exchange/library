@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "The upgraded version is coming soon, please click subscribe and stay\
+  \ tuned! The Crazyflie 2.1 is a versatile open-source flying development platform\
+  \ that only weighs 27g and fits in the palm of your hand. It\u2019s not only a good\
+  \ flyer, the Crazyflie 2.1 is also equipped with low-latency/long-range radio as\
+  \ well as Bluetooth LE. This gives you the option of downloading our app and using\
+  \ your mobile device as a controller or, in combination with the Crazyradio PA,\
+  \ using your computer to display data and fly with a game controller."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/c/r/crazyflie_2.1_1200px_1024x1024.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/crazyflie-V2-1-p-2894.html
+  repositories: []
+name: '114991551'
+ref: seeedstudio/114991551
+release_date: null
+sku: '114991551'
+spec: null
+status: ''
+vendor: seeedstudio

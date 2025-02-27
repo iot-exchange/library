@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "6.25inch DSI Capacitive Touch Display, 720 \xD7 1560, IPS, Optical Bonding\
+  \ Toughened Glass Panel, DSI Interface, 5-Point Touch"
+extra:
+  Price: $57.95  -  $59.99
+  SKU: '28918'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.waveshare.com/product/6.25inch-dsi-lcd.htm
+  repositories: []
+name: 6.25inch DSI LCD
+ref: waveshare/6-25inch-dsi-lcd
+release_date: null
+sku: 6-25inch-dsi-lcd
+spec: null
+status: ''
+vendor: waveshare

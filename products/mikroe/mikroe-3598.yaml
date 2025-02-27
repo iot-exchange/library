@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "SPIRIT 2 Click features the SP1ML-915, an ultra-low power, fully integrated\
+  \ RF module, which operates at 915 MHz ISM band. This Click board\u2122 can be used\
+  \ to add wireless connectivity to any application, requiring no extensive RF communication\
+  \ experience. The module integrates all the required components, including the 32-bit\
+  \ STM32L1 MCU, a compact chip..."
+extra:
+  Discounted Price: $38.35
+  Original Price: $59.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/spirit-2-click/spirit-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/spirit-2-click
+  repositories: []
+name: MIKROE-3598
+ref: mikroe/mikroe-3598
+release_date: null
+sku: mikroe-3598
+spec: null
+status: Reduced price!
+vendor: mikroe

@@ -1,0 +1,39 @@
+alternatives: []
+certifications: []
+description: 32-bit MCU & 2.4 GHz Wi-Fi & Bluetooth 5 (LE) with dual-core processor.
+extra:
+  Core: Dual Core
+  Development Board: '[ESP32-S3-DevKitC-1](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitc-1.html),
+    [ESP32-S3-DevKitM-1](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitm-1.html),
+    [ESP32-S3-BOX-3](https://github.com/espressif/esp-box), [ESP32-S3-BOX](https://github.com/espressif/esp-box),
+    [ESP32-S3-EYE](https://github.com/espressif/esp-who/blob/master/docs/en/get-started/ESP32-S3-EYE_Getting_Started_Guide.md),
+    [ESP32-S3-USB-OTG](https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32s3/esp32-s3-usb-otg/user_guide.html),
+    [ESP32-S3-Korvo-1](https://github.com/espressif/esp-skainet/blob/master/docs/en/hw-reference/esp32s3/user-guide-korvo-1.md),
+    [ESP32-S3-Korvo-2](https://docs.espressif.com/projects/esp-adf/en/latest/get-started/user-guide-esp32-s3-korvo-2.html)'
+  Dimensions (mm): QFN 7x7
+  Flash (MB): N/A
+  Module: '[ESP32-S3-WROOM-1](https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf),
+    [ESP32-S3-WROOM-1U](https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf),
+    [ESP32-S3-WROOM-2](https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-2_datasheet_en.pdf),
+    [ESP32-S3-MINI-1](https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf),
+    [ESP32-S3-MINI-1U](https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf)'
+  PSRAM (MB): N/A
+  Pins: '56'
+  RAM/ROM (KB): 384 KB ROM, 512 KB SRAM, 16 KB RTC SRAM
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP32-S3_S_0.png
+  models: []
+  products:
+  - https://www.espressif.com/en/support/documents/technical-documents?type=socs&series=ESP32-S3
+    Series
+  repositories: []
+name: ESP32-S3
+ref: espressif/esp32-s3
+release_date: null
+sku: esp32-s3
+spec: null
+status: ''
+vendor: espressif

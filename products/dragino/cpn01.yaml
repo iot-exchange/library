@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 'Open/close detect, open alarmOpen/close statisticsDatalog FeatureUplink
+  on periodically and open/close eventNB-IoT Bands: B1/B3/B8/B5/B20/B28 @H-FDD'
+extra:
+  Bands: B1/B3/B8/B5/B20/B28 @H-FDD
+  Technology: NB-IoT
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/78a38d90a5f5af5857b8e93fa4dd5a84_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lorawan-nb-iot-door-sensor-water-leak/item/239-cpn01.html
+  repositories: []
+name: CPN01
+ref: dragino/cpn01
+release_date: null
+sku: cpn01
+spec: null
+status: ''
+vendor: dragino

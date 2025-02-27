@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Power/USB-PWR/images/thumbs/200x150/USB-PWR-1.png
+  models: []
+  products:
+  - https://www.olimex.com/Products/Power/USB-PWR/open-source-hardware
+  repositories: []
+name: USB-PWR
+ref: olimex/usb-pwr
+release_date: null
+sku: usb-pwr
+spec: null
+status: ''
+vendor: olimex

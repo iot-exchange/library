@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: 'LoRaWAN 1.0.3 Class ABands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865Ultra-low
+  power consumptionSupport WSS09 9 in 1 Sensors: Wind Speed, Wind Direction, Temperature,
+  Humidity, Air Pressure, Illumination, PM2.5, PM10, Noise & Rain GaugeRS485 Interface
+  for 3rd SensorsSupport WSS08 optical Rain Gauge or tipping bucket Rain Gauge1000mAh
+  Rechargeable Li-ion batteryInput and Recharge power: 12v'
+extra:
+  Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865
+  Battery: 1000mAh Rechargeable Li-ion
+  Catalog: Agriculture & Weather Station
+  Input: 12v
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/4b9f9da50cf2f358abdcd4a4321104f9_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/agriculture-weather-station/item/339-wsc2-l.html
+  repositories: []
+name: WSC2-L
+ref: dragino/wsc2-l
+release_date: null
+sku: wsc2-l
+spec: null
+status: ''
+vendor: dragino

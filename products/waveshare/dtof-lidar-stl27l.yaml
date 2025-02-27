@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "DTOF Laser Lidar Sensor STL27L, 360\xB0 Omni-Directional Lidar, UART\
+  \ Bus"
+extra:
+  Price: $165.95 - $167.99
+  SKU: '24782'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/t/dtof-lidar-stl27l-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/dtof-lidar-stl27l.htm
+  repositories: []
+name: DTOF LIDAR STL27L
+ref: waveshare/dtof-lidar-stl27l
+release_date: null
+sku: dtof-lidar-stl27l
+spec: null
+status: ''
+vendor: waveshare

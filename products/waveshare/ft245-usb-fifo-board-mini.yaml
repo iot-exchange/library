@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: $8.59  -  $9.99
+extra:
+  Part No.: FT245 USB FIFO Board (mini)
+  SKU: '4654'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/t/ft245-usb-fifo-board-mini_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ft245-usb-fifo-board-mini.htm
+  repositories: []
+name: FT245 USB FIFO Board (mini)
+ref: waveshare/ft245-usb-fifo-board-mini
+release_date: null
+sku: ft245-usb-fifo-board-mini
+spec: null
+status: ''
+vendor: waveshare

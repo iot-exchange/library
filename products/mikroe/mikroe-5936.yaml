@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Step Down 11 Click is a compact add-on board that converts higher voltages
+  into lower voltage levels. This board features the TPSM82913, a low-noise and low-ripple
+  buck power module from Texas Instruments. It is a fixed-frequency current-mode converter
+  module with a filtered internal reference to achieve a low-noise output similar
+  to low-noise LDOs. It...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/step-down-11-click/step-down-11-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/step-down-11-click
+  repositories: []
+name: MIKROE-5936
+ref: mikroe/mikroe-5936
+release_date: null
+sku: mikroe-5936
+spec: null
+status: ''
+vendor: mikroe

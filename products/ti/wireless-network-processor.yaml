@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Wi-Fi
+extra:
+  GPIO: '16'
+  catalog: Catalog
+  memory: ''
+  package: VQFN
+  pins: '64'
+  price: $3.344 | 1ku
+  temperature_range: -40 to 85
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/wireless-connectivity/wi-fi/products.html
+  repositories: []
+name: Wireless network processor
+ref: ti/wireless-network-processor
+release_date: null
+sku: wireless-network-processor
+spec: null
+status: ACTIVE
+vendor: ti

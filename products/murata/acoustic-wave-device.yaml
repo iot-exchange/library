@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/search/productsearch?cate=cgAcousticWaveDevice
+  repositories: []
+name: Acoustic wave device
+ref: murata/acoustic-wave-device
+release_date: null
+sku: acoustic-wave-device
+spec: null
+status: ''
+vendor: murata

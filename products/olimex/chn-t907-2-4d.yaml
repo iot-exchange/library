@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/CHN-T907-2.4D/images/thumbs/200x150/CHN-T907-2.4D.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/Soldering/CHN-T907-2.4D/
+  repositories: []
+name: CHN-T907-2.4D
+ref: olimex/chn-t907-2-4d
+release_date: null
+sku: chn-t907-2-4d
+spec: null
+status: ''
+vendor: olimex

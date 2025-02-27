@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: LoRaWAN Dry Contact Sensor with built-in Temperature & Humidity sensor.
+extra:
+  Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
+  Battery: 2400mAh
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/0847d5211daa2cfcfde28d825aa07d5d_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lorawan-nb-iot-door-sensor-water-leak/item/328-lht65n-s-dc.html
+  repositories: []
+name: LHT65N/S-DC
+ref: dragino/lht65n-s-dc
+release_date: null
+sku: lht65n-s-dc
+spec: null
+status: ''
+vendor: dragino

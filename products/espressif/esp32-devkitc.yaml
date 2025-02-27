@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: ESP32-DevKitC is an entry-level development board. It has all the ESP32
+  pins exposed and it easy to connect and use.
+extra:
+  Flash / PSRAM: 4 / 8 MB Flash
+  Interfaces: I/O USB
+  Related Products: ESP32-WROOM-32E, ESP32-WROOM-32UE, ESP32-WROOM-DA, ESP32-WROVER-E,
+    ESP32-WROVER-IE
+  UI: Buttons, LEDs
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/dev-board/ESP32-DevKitC_S_0.png
+  models: []
+  products:
+  - https://www.espressif.com/en/products/devkits/ESP32-DevKitC
+  repositories: []
+name: ESP32-DevKitC
+ref: espressif/esp32-devkitc
+release_date: null
+sku: esp32-devkitc
+spec: null
+status: ''
+vendor: espressif

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: 1x8 Male Connector Header Right Angle TH, with a 1.5mm pitch, offers
+  a 5.9mm mounting height and 3.5mm depth when mated. It features a housing lance
+  design for improved contact insertion, high contact force, and round pins for stable
+  performance. Compatible with IDC-type ZR connectors, it's sold in units of 5 pieces,
+  supporting 1A current and 50V.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/1x8-male-connector-header-right-angle-th-15mm-pitch-5-pcs/1x8-male-connector-header-right-angle-th-15mm-pitch-5-pcs-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/1x8-male-connector-header-right-angle-th-15mm-pitch-5-pcs
+  repositories: []
+name: MIKROE-6262
+ref: mikroe/mikroe-6262
+release_date: null
+sku: mikroe-6262
+spec: null
+status: ''
+vendor: mikroe

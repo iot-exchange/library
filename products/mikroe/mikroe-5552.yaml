@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: 3Pin Screw Terminal Connector (OSTVN03A150) is a 3-position 2.54mm pitch
+  PCB terminal block from On-Shore Technology that provides connections for high current
+  conductors. It can withstand current and voltage ratings up to 6A and 125VAC, ensuring
+  reliability in power delivery applications. Based on their compact design and dimensions,
+  6.5x8.02x8.5...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/3pin-screw-terminal-connector-254mm-pitch/3pin-screw-terminal-connector-254mm-pitch-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/3pin-screw-terminal-connector-254mm-pitch
+  repositories: []
+name: MIKROE-5552
+ref: mikroe/mikroe-5552
+release_date: null
+sku: mikroe-5552
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: Low-power, advanced security, seamless coexistence 2.4GHz and 5GHz Dual-band
+  Low-power and Secure Wi-Fi for the IoT Ideal coexistence with Bluetooth LE Supported
+  in nRF Connect SDK Wi-Fi 6 Station (STA) Complies with 802.11a/b/g/n/ac/ax 1 Spatial
+  Stream (SS) 20 MHz channel bandwidth 64 QAM (MCS7), 86 Mbps PHY throughput OFDMA
+  (Downlink and Uplink) BSS Coloring TWT SPI / QSPI Co-existence interfaces
+extra:
+  Coexistence: Bluetooth LE
+  Frequency Bands: 2.4GHz and 5GHz
+  Wi-Fi Standard: Wi-Fi 6
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF70-Series/MicrosoftTeams-image-(18).png?h=250&iar=0&mh=250&w=252&hash=BF8A7E32D087888C2DFC459F3960F6BC
+  models: []
+  products:
+  - https://www.nordicsemi.com/Products/nRF7002
+  repositories: []
+name: nRF7002
+ref: nordicsemi/nrf7002
+release_date: null
+sku: nrf7002
+spec: null
+status: ''
+vendor: nordicsemi

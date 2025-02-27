@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Charge Smarter, Faster
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/accessories/ap008/thumb_power_pd65w.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/power-pd-65w
+  repositories: []
+name: Power PD 65W
+ref: radxa/power-pd-65w
+release_date: null
+sku: power-pd-65w
+spec: null
+status: ''
+vendor: radxa

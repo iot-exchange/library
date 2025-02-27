@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: BATT-MON 3 Click is a compact add-on board representing an advanced battery
+  monitoring solution. This board features the BQ35100, battery fuel gauge, and end-of-service
+  monitor from Texas Instruments. The BQ35100 provides highly configurable fuel gauging
+  for non-rechargeable (primary) lithium batteries without requiring a forced battery
+  discharge. It uses...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/batt-mon-3-click/batt-mon-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=63#BATT-MON-3-Click
+  repositories: []
+name: MIKROE-5098
+ref: mikroe/mikroe-5098
+release_date: null
+sku: mikroe-5098
+spec: null
+status: ''
+vendor: mikroe

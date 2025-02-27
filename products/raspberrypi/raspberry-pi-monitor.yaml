@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: A 15.6-inch Full HD IPS computer display
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/23a8a655c803a19ff34559043610fecd/3f4ea/Z1ArR5bqstJ98BLx_Monitorproductpage.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/raspberry-pi-monitor/
+  repositories: []
+name: Raspberry Pi Monitor
+ref: raspberrypi/raspberry-pi-monitor
+release_date: null
+sku: raspberry-pi-monitor
+spec: null
+status: ''
+vendor: raspberrypi

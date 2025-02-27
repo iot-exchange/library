@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: NB-IoT Analog Sensor
+extra:
+  1 x 0~20mA input: ''
+  1 x 0~30v input: ''
+  5v and 12v output to power external sensor: ''
+  Battery: 8500mAh for long term use
+  Multiply Sampling and one uplink: ''
+  NB-IoT Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85 @H-FDD
+  NB-IoT Sensor Node: ''
+  Support BLE remote configure and update firmware: ''
+  Ultra Low Power Consumption: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/6c16f95e5837b7a15cc22a32eb72fad8_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/nb-iot/item/290-ps-nb-na.html
+  repositories: []
+name: PS-NB-NA
+ref: dragino/ps-nb-na
+release_date: null
+sku: ps-nb-na
+spec: null
+status: ''
+vendor: dragino

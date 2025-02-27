@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 7.95 EUR
+  price2: 7.16 EUR
+  price3: 6.36 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/MSP430/Starter/MSP430-1121STK2/images/thumbs/200x150/MSP430-1121STK2-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/MSP430/Starter/MSP430-1121STK2/
+  repositories: []
+name: MSP430-1121STK2
+ref: olimex/msp430-1121stk2
+release_date: null
+sku: msp430-1121stk2
+spec: null
+status: ''
+vendor: olimex

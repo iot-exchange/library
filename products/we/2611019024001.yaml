@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Expected lifetime: '>10 years'
+  Product type: EV-Kit Proteus-III
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/PROTEUS-III#2611019024001
+  - https://www.we-online.com/components/products/manual/2611019024001_Proteus-III
+    EV 2611019204001 Manual_rev1.5.pdf
+  repositories: []
+name: '2611019024001'
+ref: we/2611019024001
+release_date: null
+sku: '2611019024001'
+spec: null
+status: Active
+vendor: we

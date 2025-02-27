@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Clear Acrylic Case for Raspberry Pi 5, Supports installing Official Active
+  Cooler
+extra:
+  Price: $3.65  -  $3.99
+  SKU: '26089'
+  price: $3.65 - $3.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-case-f-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pi5-case-f.htm
+  repositories: []
+name: PI5-CASE-F
+ref: waveshare/pi5-case-f
+release_date: null
+sku: pi5-case-f
+spec: null
+status: ''
+vendor: waveshare

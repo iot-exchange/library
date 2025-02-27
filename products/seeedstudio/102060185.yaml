@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: "The Home Assistant Yellow Kit with Power Supply is a smart home hub\
+  \ powered by Raspberry Pi CM4 that has over 2,500 built-in integrations and supports\
+  \ hundreds of thousands of devices and services for easy control of various aspects\
+  \ of your home with powerful automation capabilities, energy consumption tracking,\
+  \ and the latest Zigbee radio chip for smart home connectivity. Home Assistant Yellow\
+  \ now supports CM5, which will be available in HAOS 14 release. Grab your CM5 to\
+  \ enjoy CM5 Advantages in Home Assitant \u2022 3x faster ESPHome compilation\u2022\
+  \ Enhanced local speech-to-text processing\u2022 Advanced power user capabilities."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102060185.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Home-Assistant-Yellow-Kit-with-Power-Supply-p-5674.html
+  repositories: []
+name: '102060185'
+ref: seeedstudio/102060185
+release_date: null
+sku: '102060185'
+spec: null
+status: ''
+vendor: seeedstudio

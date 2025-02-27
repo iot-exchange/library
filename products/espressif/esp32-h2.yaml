@@ -1,0 +1,33 @@
+alternatives: []
+certifications: []
+description: 32-bit RISC-V MCU & Bluetooth 5 (LE) & IEEE 802.15.4
+extra:
+  Core: Single Core
+  Development Board: '[ESP32-H2-DevKitM-1](https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32h2/esp32-h2-devkitm-1/user_guide.html)'
+  Dimensions (mm): QFN 4x4
+  Flash (MB): '24'
+  Footprint: <https://www.espressif.com/sites/default/files/chips-dxf/ESP32-H2_Footprint.asc>
+  Footprint Link: <https://www.espressif.com/sites/default/files/chips-dxf/ESP32-H2_Footprint.asc>
+  MOQ: '5000'
+  Module: '[ESP32-H2-MINI-1](https://www.espressif.com/sites/default/files/documentation/esp32-h2-mini-1_mini-1u_datasheet_en.pdf)[ESP32-H2-MINI-1U](https://www.espressif.com/sites/default/files/documentation/esp32-h2-mini-1_mini-1u_datasheet_en.pdf)[ESP32-H2-WROOM-02C](https://www.espressif.com/sites/default/files/documentation/esp32-h2-wroom-02c_datasheet_en.pdf)'
+  PSRAM (MB): N/A
+  Pins: '32'
+  RAM/ROM (KB): 320 KB SRAM, 128 KB ROM, 4 KB LP Memory
+  SPQ: '5000'
+  Variants: ESP32-H2FH2 ESP32-H2FH4
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP32-H2_S.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp32-h2_datasheet_en.pdf
+  repositories: []
+name: ESP32-H2
+ref: espressif/esp32-h2
+release_date: null
+sku: esp32-h2
+spec: null
+status: ''
+vendor: espressif

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Cables/CABLE-USB-A-B-1.8M/images/thumbs/200x150/USB-A-B.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Cables/CABLE-USB-A-B-1.8M/
+  repositories: []
+name: CABLE-USB-A-B-1.8M
+ref: olimex/cable-usb-a-b-1-8m
+release_date: null
+sku: cable-usb-a-b-1-8m
+spec: null
+status: ''
+vendor: olimex

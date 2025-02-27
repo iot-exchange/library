@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Grove - Soil Moisture Sensor can measure soil moisture for plants. The
+  soil moisture sensor consists of two probes that allow the current to pass through
+  the soil and then obtain resistance values to measure soil moisture content.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2018-07bazaar881132_3.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/g/r/grove-temperature-humidity-sensor-dht11-preview.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-Moisture-Sensor.html
+  repositories: []
+name: '101020008'
+ref: seeedstudio/101020008
+release_date: null
+sku: '101020008'
+spec: null
+status: ''
+vendor: seeedstudio

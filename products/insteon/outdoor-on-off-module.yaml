@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Regular price: $54.95
+  Sale price: $54.95
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Outdoor_On_Off_Module.jpg?v=1724711684&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/outdoor-on-off-module
+  repositories: []
+name: Outdoor On/Off Module
+ref: insteon/outdoor-on-off-module
+release_date: null
+sku: outdoor-on-off-module
+spec: null
+status: ''
+vendor: insteon

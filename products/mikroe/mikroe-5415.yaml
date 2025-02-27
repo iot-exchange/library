@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "ETH cable (CAT.6) \u2013 1m is a twisted pair CAT.6 Ethernet high signal\
+  \ integrity network cable with a flush moulded boot. Relying on RJ45 connectors\
+  \ delivers optimum conductivity eliminating, at the same time, signal loss due to\
+  \ oxidation or corrosion."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/eth-cable-cat6-1m/eth-cable-cat6-1m-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/eth-cable-cat6-1m
+  repositories: []
+name: MIKROE-5415
+ref: mikroe/mikroe-5415
+release_date: null
+sku: mikroe-5415
+spec: null
+status: ''
+vendor: mikroe

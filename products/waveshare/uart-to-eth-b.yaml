@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: TTL UART to Ethernet Mini Module, Castellated Holes With Immersion Gold
+  Design, Highly Integrated Packaging
+extra:
+  Price: $10.63  -  $11.99
+  SKU: '24276'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/a/uart-to-eth-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/uart-to-eth-b.htm
+  repositories: []
+name: UART TO ETH (B)
+ref: waveshare/uart-to-eth-b
+release_date: null
+sku: uart-to-eth-b
+spec: null
+status: ''
+vendor: waveshare

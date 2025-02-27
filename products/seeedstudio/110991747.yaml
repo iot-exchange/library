@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Being specially designed to meet all your needs to put the gateways outdoors,
+  SenseCAP Outdoor Enclosure has a decent size that is able to allocate most of the
+  mainstream hotspots, such as BobCat miner 300, RAK hotspot, Cal-Chip, Nebra, Helium
+  hotspot, etc.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.seeedstudio.com/img/p
+  models: []
+  products:
+  - https://www.seeedstudio.com/SenseCAP-Outdoor-Enclosure-for-Helium-Hotspot-p-110991747.html
+  repositories: []
+name: '110991747'
+ref: seeedstudio/110991747
+release_date: null
+sku: '110991747'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Cables/USB-CABLE-AM-USB3-C/images/thumbs/200x150/USB3-C-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Cables/USB-CABLE-AM-USB3-C/
+  repositories: []
+name: USB-CABLE-AM-USB3-C
+ref: olimex/usb-cable-am-usb3-c
+release_date: null
+sku: usb-cable-am-usb3-c
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ESP32-C6 Microcontroller, WiFi 6 Development Board, 160MHz Single-core
+  Processor, ESP32-C6-WROOM-1-N8 Module
+extra:
+  Multi Options: ''
+  Price: $6.99 -  $7.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-c6-dev-kit-n8-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/esp32-c6-dev-kit-n8.htm
+  repositories: []
+name: esp32_c6__dev_n8
+ref: waveshare/esp32-c6-dev-n8
+release_date: null
+sku: esp32-c6-dev-n8
+spec: null
+status: ''
+vendor: waveshare

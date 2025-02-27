@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Industrial Isolated USB To 4-Ch RS485 Converter (B), CH344L Chip, Multi
+  Protection Circuits, Multi Systems Support
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-4ch-rs485-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/usb-to-4ch-rs485-b.htm
+  repositories: []
+name: USB TO 4CH RS485 (B)
+ref: waveshare/usb-to-4ch-rs485-b
+release_date: null
+sku: usb-to-4ch-rs485-b
+spec: null
+status: ''
+vendor: waveshare

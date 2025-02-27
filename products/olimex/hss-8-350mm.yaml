@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/HSS-8-500MM/images/thumbs/200x150/HSS-8-500mm.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/HSS-8-350MM/
+  repositories: []
+name: HSS-8-350MM
+ref: olimex/hss-8-350mm
+release_date: null
+sku: hss-8-350mm
+spec: null
+status: ''
+vendor: olimex

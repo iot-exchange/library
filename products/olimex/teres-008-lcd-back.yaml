@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-008-LCD-Back/images/thumbs/200x150/TERES-008-LCD-Back-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-008-LCD-Back/
+  repositories: []
+name: TERES-008-LCD-Back
+ref: olimex/teres-008-lcd-back
+release_date: null
+sku: teres-008-lcd-back
+spec: null
+status: ''
+vendor: olimex

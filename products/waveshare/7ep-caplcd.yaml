@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "7inch Wide Color Gamut Capacitive Touch Display, 1280\xD7800, Optical\
+  \ Bonding Toughened Glass Panel, HDMI Interface, IPS, 10-Point Touch"
+extra:
+  Price: $72.27  -  $74.99
+  SKU: '28996'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.waveshare.com/product/7ep-caplcd.htm
+  repositories: []
+name: 7EP-CAPLCD
+ref: waveshare/7ep-caplcd
+release_date: null
+sku: 7ep-caplcd
+spec: null
+status: ''
+vendor: waveshare

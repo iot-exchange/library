@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "1.5inch OLED Display Module, 128\xD7128 Resolution, SPI / I2C Communication,\
+  \ Black / White Display Color"
+extra:
+  Price: $10.97  -  $11.99
+  SKU: '25093'
+  price: $10.97 - $11.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.5inch-oled-module-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/1.5inch-oled-module-b.htm
+  repositories: []
+name: 1.5inch OLED Module (B)
+ref: waveshare/1-5inch-oled-module-b
+release_date: null
+sku: 1-5inch-oled-module-b
+spec: null
+status: ''
+vendor: waveshare

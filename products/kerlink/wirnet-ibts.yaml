@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Kerlink Wirnet iBTS gateways perfectly power reliable and scalable LPWA
+  outdoor IoT networks, supporting high volumes of IoT devices and millions of bidirectional
+  messages daily.
+extra:
+  features: Powerful processing capabilities, secure design, advanced remote monitoring
+    options, compatible with network performance monitoring tools.
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.kerlink.com/wp-content/uploads/2017/05/Wirnet-iBTS-1-340x340.png
+  models: []
+  products:
+  - https://www.kerlink.com/product/wirnet-ibts/
+  repositories: []
+name: Wirnet iBTS
+ref: kerlink/wirnet-ibts
+release_date: null
+sku: wirnet-ibts
+spec: null
+status: ''
+vendor: kerlink

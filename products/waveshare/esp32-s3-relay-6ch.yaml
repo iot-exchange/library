@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Industrial 6-Channel ESP32-S3 WiFi Relay Module, Supports WiFi / Bluetooth
+  / RS485 control, Onboard RS485 / Pico HAT interfaces
+extra:
+  Price: $27.97 - $28.99
+  SKU: '26756'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-relay-6ch-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/esp32-s3-relay-6ch.htm
+  repositories: []
+name: ESP32-S3-Relay-6CH
+ref: waveshare/esp32-s3-relay-6ch
+release_date: null
+sku: esp32-s3-relay-6ch
+spec: null
+status: ''
+vendor: waveshare

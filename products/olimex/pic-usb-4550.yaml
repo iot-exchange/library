@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 11.66 EUR
+  discountedPrice2: 10.36 EUR
+  price: 12.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/PIC/Proto/PIC-USB-4550/images/thumbs/200x150/PIC-USB-4550-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/PIC/Proto/PIC-USB-4550/
+  repositories: []
+name: PIC-USB-4550
+ref: olimex/pic-usb-4550
+release_date: null
+sku: pic-usb-4550
+spec: null
+status: ''
+vendor: olimex

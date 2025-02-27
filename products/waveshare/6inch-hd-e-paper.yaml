@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "1448\xD71072 high definition, 6inch E-Ink raw display"
+extra:
+  Price: $64.29 - $65.99
+  SKU: '17490'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/6/i/6inch-hd-e-paper-4_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/6inch-hd-e-paper.htm
+  repositories: []
+name: 6inch HD e-Paper
+ref: waveshare/6inch-hd-e-paper
+release_date: null
+sku: 6inch-hd-e-paper
+spec: null
+status: ''
+vendor: waveshare

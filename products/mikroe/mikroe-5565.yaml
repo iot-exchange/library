@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LED Driver 17 Click is a compact add-on board that offers a simple solution
+  for controlling multiple LEDs, making it an ideal choice for various applications.
+  This board features the LTR3755, a highly efficient DC/DC controller from Analog
+  Devices that operates as a constant-current source. It can easily drive high current
+  LEDs and features onboard...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/led-driver-17-click/led-driver-17-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/led-driver-17-click
+  repositories: []
+name: MIKROE-5565
+ref: mikroe/mikroe-5565
+release_date: null
+sku: mikroe-5565
+spec: null
+status: ''
+vendor: mikroe

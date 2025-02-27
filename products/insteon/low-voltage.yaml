@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Sprinklers and custom automation
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.insteon.com/io-module
+  repositories: []
+name: low-voltage
+ref: insteon/low-voltage
+release_date: null
+sku: low-voltage
+spec: null
+status: ''
+vendor: insteon

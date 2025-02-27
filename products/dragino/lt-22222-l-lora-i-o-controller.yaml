@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: LoRaWAN I/O controller. LoRaWAN End Device.
+extra:
+  Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/CN779/IN865
+  LoRaWAN Class: A, C
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/15d43aef6c8a5134e1fc00a9c98b8ab0_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lora-lorawan-end-node/item/156-lt-22222-l.html
+  repositories: []
+name: LT-22222-L LoRa I/O Controller
+ref: dragino/lt-22222-l-lora-i-o-controller
+release_date: null
+sku: lt-22222-l-lora-i-o-controller
+spec: null
+status: ''
+vendor: dragino

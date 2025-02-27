@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Compass 6 Click is a compact add-on board perfect for implementation
+  in applications such as an electronic compass. This board features the HSCDTD008A,
+  a high-sensitivity geomagnetic sensor from ALPS Alpine.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/compass-6-click/compass-6-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/compass-6-click
+  repositories: []
+name: MIKROE-4796
+ref: mikroe/mikroe-4796
+release_date: null
+sku: mikroe-4796
+spec: null
+status: ''
+vendor: mikroe

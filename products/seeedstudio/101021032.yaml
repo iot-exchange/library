@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "Grove -Temperature&Humidity Sensor (SHT40) is a digital Humidity and\
+  \ Temperature Sensor which has an accuracy rate of up to \xB11.8% ~ \xB13.5% RH\
+  \ and \xB10.2 \xB0C, and an operating range of 0% to 100% RH, -40\xB0C to +125\xB0\
+  C. It comes with a SEEED\u2019s standard grove l2C interface enabling developers\
+  \ or even beginners to easily communicate with the STH40 sensor on different hardware\
+  \ platforms."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/101021033_front-05.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-Temp-Humi-Sensor-SHT40-p-5384.html
+  repositories: []
+name: '101021032'
+ref: seeedstudio/101021032
+release_date: null
+sku: '101021032'
+spec: null
+status: ''
+vendor: seeedstudio

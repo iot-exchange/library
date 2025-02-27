@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "2x2 RGB Click is a compact add-on board that contains a matrix of 4\
+  \ \u201Cintelligent\u201D RGB elements, forming a 2x2 display screen. This board\
+  \ features the KTD2052A, a 12-channel RGB LED driver from Kinetic Technologies.\
+  \ It is a fully programmable current regulator for up to four RGB LEDs (12 LEDs\
+  \ in total). The LED matrix consists of four LRTB GFTG, a 6-lead..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/2x2-rgb-click/2x2-rgb-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/2x2-rgb-click
+  repositories: []
+name: MIKROE-5917
+ref: mikroe/mikroe-5917
+release_date: null
+sku: mikroe-5917
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 49.46 EUR
+  discountedPrice2: 43.96 EUR
+  price: 54.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/ST/STM32-P207/images/thumbs/200x150/STM32-P207-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/ST/STM32-P207/
+  repositories: []
+name: STM32-P207
+ref: olimex/stm32-p207
+release_date: null
+sku: stm32-p207
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC2745R10-Q1
+  repositories: []
+name: CC2745R10-Q1
+ref: ti/cc2745r10-q1
+release_date: null
+sku: cc2745r10-q1
+spec: null
+status: New
+vendor: ti

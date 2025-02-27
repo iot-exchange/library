@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  bulkPrice: 12.00 EUR
+  discountedPrice: 13.50 EUR
+  price: 15.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/LCD/MOD-LCD2-8RTP/images/thumbs/200x150/LCD-MOD2.8RTP-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/LCD/MOD-LCD2-8RTP/open-source-hardware
+  repositories: []
+name: MOD-LCD2-8RTP
+ref: olimex/mod-lcd2-8rtp
+release_date: null
+sku: mod-lcd2-8rtp
+spec: null
+status: ''
+vendor: olimex

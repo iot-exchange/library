@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: "IMX219-160 Replacement Camera Module with 160\xB0 FOV for Raspberry\
+  \ Pi V2 Camera"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992266_-preview-19.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/IMX219-160-Camera-160-FOV-Applicable-for-Raspberry-Pi-V2-Camera-p-4604.html
+  repositories: []
+name: '114992266'
+ref: seeedstudio/114992266
+release_date: null
+sku: '114992266'
+spec: null
+status: ''
+vendor: seeedstudio

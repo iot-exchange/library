@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: "reComputer J101 carrier board is a cost-effective and interface-rich\
+  \ NVIDIA Jetson Nano compatible carrier board. It included HDMI2.0, 2x USB 2.0,\
+  \ 1x USB 3.0, micro SD card slot, 2 xCSI, M.2 key E WIFI / BT, GPIO, I2C, I2S, Fan,\
+  \ and other rich peripheral interfaces. It has nearly the same functional design\
+  \ and exactly the same size as the carrier board of NVIDIA\xAE Jetson Nano\u2122\
+  \ B01 Developer Kit."
+extra:
+  Price: $69.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991694_-_45font_1.jpg
+  - https://www.seeedstudio.com/img/r
+  models: []
+  products:
+  - https://www.seeedstudio.com/recomputer-j101-carrier-board-for-jetson-nano.html
+  - https://www.seeedstudio.com/reComputer-J101-v2-Carrier-Board-for-Jetson-Nano-p-5396.html
+  repositories: []
+name: '102991694'
+ref: seeedstudio/102991694
+release_date: null
+sku: '102991694'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: DC Motor 22 Click is a compact add-on board that contains a brushed DC
+  motor driver. This board features the TMC7300, a low voltage driver for one or two
+  DC motors from Analog Devices. The TMC7300 is rated for an operating voltage range
+  from 2V to 11V and operates up to two DC motors via simple UART control for direction,
+  velocity, and torque. It also has...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.mikroe.com/dc-motor-22-click
+  repositories: []
+name: MIKROE-5189
+ref: mikroe/mikroe-5189
+release_date: null
+sku: mikroe-5189
+spec: null
+status: ''
+vendor: mikroe

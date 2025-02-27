@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: The EFR32xG24 Explorer Kit is a small form factor development and evaluation
+  platform based on the EFR32MG24 System-on-Chip. The EFR32xG24 Explorer Kit is focused
+  on rapid prototyping and concept creation of IoT applications for 2.4 GHz wireless
+  protocols including Bluetooth LE, Bluetooth mesh, Zigbee, Thread, and Matter.
+extra:
+  MSRP: $39.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/xg24-ek2703a.png
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/efr32xg24-explorer-kit
+  repositories: []
+name: EFR32xG24 Explorer Kit
+ref: silicon-labs/efr32xg24-explorer-kit
+release_date: null
+sku: efr32xg24-explorer-kit
+spec: null
+status: ''
+vendor: silicon-labs

@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Global AT&T (FirstNet), Verizon, T-Mobile, Telstra, DoCoMo, SoftBank,
+  KDDI
+extra:
+  Bands: 'LTE: B1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 18, 19, 20, 25, 26, 28, 30, 34, 38,
+    39, 40, 41, 42, 43, 48, 66, 70, 71 5G NR: n1, 2, 3, 5, 7, 8, 12, 13, 14, 18, 20,
+    25, 26, 28, 30, 38, 40, 41, 48, 66, 70, 71, 77, 78, 79'
+  Fallback: LTE 4G
+  Region (Carrier): Global AT&T (FirstNet), Verizon, T-Mobile, Telstra, DoCoMo, SoftBank,
+    KDDI
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.sierrawireless.com/iot-modules/5g-modules/em8695-5g-redcap-module/
+  repositories: []
+name: EM8695
+ref: sierrawireless/em8695
+release_date: null
+sku: em8695
+spec: null
+status: ''
+vendor: sierrawireless

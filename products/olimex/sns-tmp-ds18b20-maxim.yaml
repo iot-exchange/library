@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/Temperature/SNS-TMP-DS18B20/images/thumbs/200x150/SNS-DS18B20-2.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Sensors/Temperature/SNS-TMP-DS18B20-MAXIM/
+  repositories: []
+name: SNS-TMP-DS18B20-MAXIM
+ref: olimex/sns-tmp-ds18b20-maxim
+release_date: null
+sku: sns-tmp-ds18b20-maxim
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: CODEGRIP for ARM is a fast USB-C programmer and hardware debugger. It
+  supports ARM Cortex-M0, M3,M4 and M7 based MCUs. This is a version without a WiFi
+  module assembled.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/codegrip-for-arm-over-usb-c/codegrip-for-arm-over-usb-c-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/codegrip-for-arm-over-usb-c
+  repositories: []
+name: MIKROE-5273
+ref: mikroe/mikroe-5273
+release_date: null
+sku: mikroe-5273
+spec: null
+status: ''
+vendor: mikroe

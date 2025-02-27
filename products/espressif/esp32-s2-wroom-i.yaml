@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: ESP32-S2-WROOM-I integrates ESP32-S2. It is a powerful, generic Wi-Fi
+  MCU module that has a rich set of peripherals.
+extra:
+  Antenna: IPEX antenna connector
+  Chip Embedded: ESP32-S2
+  Development Board: ESP32-S2-Saola-1
+  Dimensions (mm): 18x31x3.3
+  Flash (MB): 4,8,16
+  Footprint: ''
+  Footprint Link: https://www.espressif.com/sites/default/files/modules-dxf/ESP32-S2-WROVER%26WROOM%28-I%29%20PCB%20Footprint.dxf
+  PSRAM (MB): N/A
+  Pins: '42'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-S2-WROOM-I_S_0.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf
+  repositories: []
+name: ESP32-S2-WROOM-I
+ref: espressif/esp32-s2-wroom-i
+release_date: null
+sku: esp32-s2-wroom-i
+spec: null
+status: ''
+vendor: espressif

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "RGB Ring Click is a compact add-on board designed for dynamic and colorful\
+  \ lighting applications. This board features eight RGB LEDs (WL-ICLED 1312020030000)\
+  \ from W\xFCrth Elektronik, incorporating integrated circuits to control color mixing\
+  \ precisely. This board supports individual control of each LED's red, green, and\
+  \ blue components with single-wire..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rgb-ring-click/rgb-ring-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/rgb-ring-click
+  repositories: []
+name: MIKROE-6379
+ref: mikroe/mikroe-6379
+release_date: null
+sku: mikroe-6379
+spec: null
+status: ''
+vendor: mikroe

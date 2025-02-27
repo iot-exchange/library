@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "1872\xD71404, 7.8inch E-Ink raw display"
+extra:
+  Price: $98.44 - $100.99
+  SKU: '16711'
+  price: $98.44  -  $100.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/_/7.8inch-e-paper-6_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/7.8inch-e-paper.htm
+  - "https://www.waveshare.com/product/7.8inch-e-paper.htm \"1872\xD71404, 7.8inch\
+    \ E-Ink raw display\""
+  repositories: []
+name: 7.8inch e-Paper
+ref: waveshare/7-8inch-e-paper
+release_date: null
+sku: 7-8inch-e-paper
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 656-0102211, Test & Burn-in Socket
+extra:
+  Price: $22.99 - $25.99
+  SKU: '4175'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/6/5/656-0102211_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/656-0102211.htm
+  repositories: []
+name: 656-0102211
+ref: waveshare/656-0102211
+release_date: null
+sku: 656-0102211
+spec: null
+status: ''
+vendor: waveshare

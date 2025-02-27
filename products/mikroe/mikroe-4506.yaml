@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Click shield for Particle Gen 3 Combine Particle's B series of cellular\
+  \ IoT modules with your favorite Click boards\u2122 Start your project development\
+  \ with our Click shield for Particle Gen 3 fast and easy. This Click Shield designed\
+  \ with an M.2 connector, combined with two mikroBUS\u2122 sockets, provides you\
+  \ immediate access to thousands of Click boards\u2122..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/click-shield-for-particle-gen-3/click-shield-for-particle-gen-3-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/click-shield-for-particle-gen-3
+  repositories: []
+name: MIKROE-4506
+ref: mikroe/mikroe-4506
+release_date: null
+sku: mikroe-4506
+spec: null
+status: ''
+vendor: mikroe

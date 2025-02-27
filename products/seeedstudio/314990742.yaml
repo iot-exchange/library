@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: An IP68 RS485 EC&TDS Sensor measures conductivity, salinity, and TDS
+  with temperature compensation. Use in monitoring water quality applications like
+  water processing and irrigation. Use the sensor with SenseCAP Sensor Hub 4G Data
+  Logger for seamless data collection and management.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/3/1/314990740_front-05.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/EC-&-TDS-Sensor-RS485-b-p-4865.html
+  repositories: []
+name: '314990742'
+ref: seeedstudio/314990742
+release_date: null
+sku: '314990742'
+spec: null
+status: ''
+vendor: seeedstudio

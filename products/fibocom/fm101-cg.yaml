@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: LTE Cat 6 Modules
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTECat-FM101-CG.html
+  repositories: []
+name: FM101-CG
+ref: fibocom/fm101-cg
+release_date: null
+sku: fm101-cg
+spec: null
+status: ''
+vendor: fibocom

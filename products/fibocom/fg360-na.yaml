@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/5G-FG360-NA.html
+  repositories: []
+name: FG360-NA
+ref: fibocom/fg360-na
+release_date: null
+sku: fg360-na
+spec: null
+status: ''
+vendor: fibocom

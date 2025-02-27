@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: PoE Ethernet / USB HUB BOX for Raspberry Pi Zero Series, 3x USB 2.0,
+  802.3af-Compliant
+extra:
+  Price: $27.63  -  $28.99
+  SKU: '20895'
+  price: $27.63  -  $28.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/o/poe-eth-usb-hub-box-5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/poe-eth-usb-hub-box.htm
+  repositories: []
+name: PoE-ETH-USB-HUB-BOX
+ref: waveshare/poe-eth-usb-hub-box
+release_date: null
+sku: poe-eth-usb-hub-box
+spec: null
+status: ''
+vendor: waveshare

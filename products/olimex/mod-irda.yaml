@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  bulkPrice: 4.76 EUR
+  discountedPrice: 5.36 EUR
+  price: 5.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/Interface/MOD-IRDA+/images/thumbs/200x150/MOD-IRDA+1.jpg
+  - https://www.olimex.com/Products/Modules/Interface/MOD-IRDA/images/thumbs/200x150/MOD-IRDA-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/Interface/MOD-IRDA+/open-source-hardware
+  - https://www.olimex.com/Products/Modules/Interface/MOD-IRDA/open-source-hardware
+  repositories: []
+name: MOD-IRDA+
+ref: olimex/mod-irda
+release_date: null
+sku: mod-irda
+spec: null
+status: ''
+vendor: olimex

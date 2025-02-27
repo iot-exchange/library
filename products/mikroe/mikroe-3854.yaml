@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "The H-Bridge 5 Click is designed for control DC motors and inductiv\
+  \ loads. This Click board\u2122 contains the MP6515GF-Z, a H-bridge motor driver\
+  \ from MPS, It features an Full H-Bridge driver with Internal safety features include\
+  \ over-current protection, input over-voltage protection, under voltage lockout\
+  \ (UVLO), and thermal shutdown. This click also..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/h-bridge-5-click/h-bridge-5-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=118#H-Bridge-5-Click
+  repositories: []
+name: MIKROE-3854
+ref: mikroe/mikroe-3854
+release_date: null
+sku: mikroe-3854
+spec: null
+status: ''
+vendor: mikroe

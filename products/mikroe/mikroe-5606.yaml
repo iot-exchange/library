@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: H-Bridge 11 Click is a compact add-on board that allows a voltage to
+  be applied across a load in either direction. This board features the MAX22200,
+  an octal serial-controlled solenoid and motor driver.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/h-bridge-11-click/h-bridge-11-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/6dof-imu-20-click/6dof-imu-20-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/h-bridge-11-click
+  - https://www.mikroe.com/6dof-imu-20-click
+  repositories: []
+name: MIKROE-5606
+ref: mikroe/mikroe-5606
+release_date: null
+sku: mikroe-5606
+spec: null
+status: ''
+vendor: mikroe

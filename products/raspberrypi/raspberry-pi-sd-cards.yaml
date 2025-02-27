@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Optimise data transfer speeds and user experience on your Raspberry Pi
+  computer with an official Raspberry Pi SD Card.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/sd-cards/
+  repositories: []
+name: Raspberry Pi SD Cards
+ref: raspberrypi/raspberry-pi-sd-cards
+release_date: null
+sku: raspberry-pi-sd-cards
+spec: null
+status: ''
+vendor: raspberrypi

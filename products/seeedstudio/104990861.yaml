@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: 7.5" Monochrome eInk / ePaper Display with 800x480 Pixels, SPI interface,
+  Support XIAO/Arduino/STM32. The 7.5 inch E-paper Display offer a high-quality, low-power
+  solution for a wide range of applications.
+extra:
+  price: $45.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-308030051-eink-5.83-monochrome-epaper-display-with-648x480-pixels-45font_1.jpg
+  - https://www.seeedstudio.com/img/n
+  models: []
+  products:
+  - https://www.seeedstudio.com/7-5-Monochrome-ePaper-Display-with-800x480-Pixels-p-5788.html
+  - https://www.seeedstudio.com/7.5-Monochrome-eInk-ePaper-Display-with-800x480-Pixels-SPI-interface-Support-XIAO-Arduino-STM32.html
+  repositories: []
+name: '104990861'
+ref: seeedstudio/104990861
+release_date: null
+sku: '104990861'
+spec: null
+status: ''
+vendor: seeedstudio

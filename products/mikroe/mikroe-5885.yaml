@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: EEPROM 13 Click is a compact add-on board that contains a highly reliable,
+  nonvolatile memory solution. This board features the M24M01E, an electrically erasable
+  programmable memory with enhanced hardware write protection for entire memory from
+  STMicroelectronics. Its memory size of 1Mbit is organized as 128K words of 8bits
+  each, with a page size of 256...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/eeprom-13-click/eeprom-13-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/eeprom-13-click
+  repositories: []
+name: MIKROE-5885
+ref: mikroe/mikroe-5885
+release_date: null
+sku: mikroe-5885
+spec: null
+status: ''
+vendor: mikroe

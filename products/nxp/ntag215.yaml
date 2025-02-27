@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: NTAG215 offers 540 bytes of user memory and is ideal for various applications.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.nxp.com/products/wireless-connectivity/nfc-hf/ntag215:NTAG215
+  repositories: []
+name: NTAG215
+ref: nxp/ntag215
+release_date: null
+sku: ntag215
+spec: null
+status: ''
+vendor: nxp

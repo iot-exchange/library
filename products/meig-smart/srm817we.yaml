@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: 5G Advanced Ready LGA Packaging
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://en.meigsmart.com/userfiles/images/2024/03/06/2024030615554691.png
+  models: []
+  products:
+  - https://en.meigsmart.com/productdetail/5gamodulesrm817.html
+  repositories: []
+name: SRM817WE
+ref: meig-smart/srm817we
+release_date: null
+sku: srm817we
+spec: null
+status: ''
+vendor: meig-smart

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 1.00 EUR
+  price2: 0.90 EUR
+  price3: 0.80 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Wheels/ROBOT-CW/images/thumbs/200x150/CW.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Wheels/ROBOT-CW/
+  repositories: []
+name: ROBOT-CW
+ref: olimex/robot-cw
+release_date: null
+sku: robot-cw
+spec: null
+status: ''
+vendor: olimex

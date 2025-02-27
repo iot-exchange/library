@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 8K Single Board Computer with Quad Display
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/rock5/rock_5b+/thumb_rock5bp.webp
+  - https://radxa.com/rock5/rock_5b/thumb_rock5b.webp
+  models: []
+  products:
+  - https://radxa.com/products/rock5/5bp
+  - https://radxa.com/products/rock5/5b
+  repositories: []
+name: ROCK 5B+
+ref: radxa/rock-5b
+release_date: null
+sku: rock-5b
+spec: null
+status: ''
+vendor: radxa

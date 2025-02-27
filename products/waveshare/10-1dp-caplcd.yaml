@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "10.1inch Capacitive Touch Display, Optical Bonding Toughened Glass Panel,\
+  \ 1280\xD7800, IPS, HDMI Interface"
+extra:
+  Price: $72.27 - $74.99
+  SKU: '23739'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.1dp-caplcd-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/10.1dp-caplcd.htm
+  repositories: []
+name: 10.1DP-CAPLCD
+ref: waveshare/10-1dp-caplcd
+release_date: null
+sku: 10-1dp-caplcd
+spec: null
+status: ''
+vendor: waveshare

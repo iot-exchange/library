@@ -1,0 +1,33 @@
+alternatives: []
+certifications: []
+description: Zigbee and Thread EFR32MG13 Based Modules (Series 1)
+extra:
+  Flash (kB): '512'
+  Frequency Bands (MHz): 2.4 GHz, Sub-GHz
+  GPIO: '25'
+  MCU Core: ARM Cortex-M4
+  Max Flash/RAM (kB): 512/64
+  Output Power Range (dBm): -30 19
+  RAM (kB): '64'
+  RX Current (mA): '10.3'
+  RX Sensitivity (dBm): '-102.1'
+  "Secure Vault\u2122": Base
+  Security: AES-128, AES-256, ECC, SHA-1, SHA-2
+  TX Current (0 dBm): '8.5'
+  TX Current (mA) 0 dBm: '8.5'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/zigbee/efr32mg13-series-1-socs
+  - https://www.silabs.com/wireless/zigbee/efr32mg13-series-1-modules
+  repositories: []
+name: EFR32MG13
+ref: silicon-labs/efr32mg13
+release_date: null
+sku: efr32mg13
+spec: null
+status: ''
+vendor: silicon-labs

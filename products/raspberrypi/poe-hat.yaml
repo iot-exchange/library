@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: The official Power-over-Ethernet-Plus add-on board for Raspberry Pi
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/0302cb0f51571e1494c0297bea73ae45/3f4ea/90049d51-10af-4659-89d2-6da552c486fc_Pi%2B4%2BPOE%2BHero_2.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/poe-plus-hat/
+  repositories: []
+name: PoE+ HAT
+ref: raspberrypi/poe-hat
+release_date: null
+sku: poe-hat
+spec: null
+status: ''
+vendor: raspberrypi

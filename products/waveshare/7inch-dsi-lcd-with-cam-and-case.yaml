@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "7inch Capacitive Touch Display for Raspberry Pi, with Protection Case\
+  \ and 5MP Front Camera, 800\xD7480, DSI"
+extra:
+  Price: $77.27 - $79.99
+  SKU: '21366'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/i/7inch-dsi-lcd-with-cam-and-case-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/7inch-dsi-lcd-with-cam-and-case.htm
+  repositories: []
+name: 7inch DSI LCD (with cam and case)
+ref: waveshare/7inch-dsi-lcd-with-cam-and-case
+release_date: null
+sku: 7inch-dsi-lcd-with-cam-and-case
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Retro-Computers/USB-WIRELESS-GAMEPAD/images/thumbs/200x150/wireless-gamepad.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Retro-Computers/USB-WIRELESS-GAMEPAD/
+  repositories: []
+name: USB-WIRELESS-GAMEPAD
+ref: olimex/usb-wireless-gamepad
+release_date: null
+sku: usb-wireless-gamepad
+spec: null
+status: ''
+vendor: olimex

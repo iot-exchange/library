@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Removable Module
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/accessories/va005/thumb_radxa_spi_flash_module.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/spi-flash-module
+  repositories: []
+name: SPI Flash Module
+ref: radxa/spi-flash-module
+release_date: null
+sku: spi-flash-module
+spec: null
+status: ''
+vendor: radxa

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 2.70 EUR
+  discountedPrice2: 2.40 EUR
+  price: 3.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/LEDs/LED-ROPE-5/images/thumbs/200x150/LED-ROPE.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/LEDs/LED-ROPE-5/
+  repositories: []
+name: LED-ROPE-5
+ref: olimex/led-rope-5
+release_date: null
+sku: led-rope-5
+spec: null
+status: ''
+vendor: olimex

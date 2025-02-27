@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/IC/MCIMX233CAG4C/
+  repositories: []
+name: MCIMX233CAG4C
+ref: olimex/mcimx233cag4c
+release_date: null
+sku: mcimx233cag4c
+spec: null
+status: ''
+vendor: olimex

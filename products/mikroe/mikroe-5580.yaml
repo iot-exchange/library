@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: GNSS 13 Click is a compact add-on board that provides positioning, navigation,
+  and timing services. This board features the LG77LICMD, a global-region standard-precision
+  GNSS module.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gnss-13-click/gnss-13-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/gnss-13-click
+  repositories: []
+name: MIKROE-5580
+ref: mikroe/mikroe-5580
+release_date: null
+sku: mikroe-5580
+spec: null
+status: ''
+vendor: mikroe

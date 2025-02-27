@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  bulkPrice: 3.96 EUR
+  discountedPrice: 4.46 EUR
+  price: 4.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/Sensors/MOD-MAG/images/thumbs/200x150/MOD-MAG-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/Sensors/MOD-MAG/open-source-hardware
+  repositories: []
+name: MOD-MAG
+ref: olimex/mod-mag
+release_date: null
+sku: mod-mag
+spec: null
+status: ''
+vendor: olimex

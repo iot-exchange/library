@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "LoRaWAN Distance Detection Sensor 24Ghz Microwave Radar detects two\
+  \ objects distance Reliable for condensation / dusty environment Measure Range:\
+  \ 0.5m ~ 20m Accuracy: \xB110cm Horizontal Angel: 78\xB0 Vertical Angel: 23\xB0"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/77e3798bb9782084333898c5f75d9aab_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/distance-level-sensor/item/197-lmds200.html
+  repositories: []
+name: LMDS200
+ref: dragino/lmds200
+release_date: null
+sku: lmds200
+spec: null
+status: ''
+vendor: dragino

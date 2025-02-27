@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Misc/ALUMINIUM-HEATSINK-20x20x6MM/images/thumbs/200x150/ALUMINUM-HEATSINK-20x20x6MM.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Misc/ALUMINIUM-HEATSINK-20x20x6MM/
+  repositories: []
+name: ALUMINIUM-HEATSINK-20x20x6MM
+ref: olimex/aluminium-heatsink-20x20x6mm
+release_date: null
+sku: aluminium-heatsink-20x20x6mm
+spec: null
+status: ''
+vendor: olimex

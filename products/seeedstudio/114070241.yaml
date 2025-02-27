@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: The ICE Tower CPU Cooling Fan is designed for Raspberry Pi 5 and provides
+  efficient cooling to enhance the performance and longevity of the device.
+extra:
+  Compatibility: Raspberry Pi 5
+  Function: Efficient cooling
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/6/-/6-114070241-ice-tower-cooler-for-raspberry-pi5-feature.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993229-active-cooler-first.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/ICE-Tower-CPU-Cooling-Fan-for-Raspberry-Pi-Support-Pi-5-p-5814.html
+  repositories: []
+name: '114070241'
+ref: seeedstudio/114070241
+release_date: null
+sku: '114070241'
+spec: null
+status: ''
+vendor: seeedstudio

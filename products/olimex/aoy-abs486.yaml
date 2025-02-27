@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/AOY-ABS486/images/thumbs/200x150/AOY-ABS-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/Soldering/AOY-ABS486/
+  repositories: []
+name: AOY-ABS486
+ref: olimex/aoy-abs486
+release_date: null
+sku: aoy-abs486
+spec: null
+status: ''
+vendor: olimex

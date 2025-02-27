@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Wi-Fi
+extra:
+  GPIO: '16'
+  catalog: Catalog
+  memory: ''
+  package: QFM
+  pins: '63'
+  price: $8.316 | 1ku
+  temperature_range: -40 to 85
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/wireless-connectivity/wi-fi/products.html
+  repositories: []
+name: Module, Wireless network processor
+ref: ti/module-wireless-network-processor
+release_date: null
+sku: module-wireless-network-processor
+spec: null
+status: ACTIVE
+vendor: ti

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/Biofeedback/ECG-PRO-3-WAY-CABLE/images/thumbs/200x150/ECG-3-WAY-CABLE.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/Biofeedback/ECG-PRO-3-WAY-CABLE/
+  repositories: []
+name: ECG-PRO-3-WAY-CABLE
+ref: olimex/ecg-pro-3-way-cable
+release_date: null
+sku: ecg-pro-3-way-cable
+spec: null
+status: ''
+vendor: olimex

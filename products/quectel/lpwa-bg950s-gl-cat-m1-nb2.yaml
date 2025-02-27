@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: 3GPP E-UTRA Rel.14  Integrated RAM & flash  iSIM  SRD
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.quectel.com/content/uploads/2024/03/bg950s-gl-1.png
+  models: []
+  products:
+  - https://www.quectel.com/product/lpwa-bg950s-gl-cat-m1-nb2/
+  repositories: []
+name: LPWA BG950S-GL Cat M1/NB2
+ref: quectel/lpwa-bg950s-gl-cat-m1-nb2
+release_date: null
+sku: lpwa-bg950s-gl-cat-m1-nb2
+spec: null
+status: ''
+vendor: quectel

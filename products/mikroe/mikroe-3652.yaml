@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Buck 12 Click is a high-efficiency step-down converter which provides
+  3.3V on its output, derived from the connected power supply voltage, in the range
+  from 4.2V to 18V.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.mikroe.com/img/af
+  models: []
+  products: []
+  repositories: []
+name: MIKROE-3652
+ref: mikroe/mikroe-3652
+release_date: null
+sku: mikroe-3652
+spec: null
+status: ''
+vendor: mikroe

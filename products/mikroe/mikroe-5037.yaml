@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Multi Stepper Click is a compact add-on board that contains a bipolar
+  stepper motor driver. This board features the TB62262FTG, CLOCK-in controlled bipolar
+  stepping motor driver from Toshiba Semiconductor. It supports a PWM constant-current
+  control drive and allows full-, half-, and quarter-step operation for less motor
+  noise and smoother control.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/multi-stepper-click-tb62262/multi-stepper-click-tb62262-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/multi-stepper-click-tb62262
+  repositories: []
+name: MIKROE-5037
+ref: mikroe/mikroe-5037
+release_date: null
+sku: mikroe-5037
+spec: null
+status: ''
+vendor: mikroe

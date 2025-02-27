@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: PD30W Dual-Port Fast Charger, USB Type-A/Type-C Wall Charger Block, US
+  Plug, intelligently adjusts the charging rate
+extra:
+  Price: $8.31  -  $8.99
+  SKU: '25103'
+  price: $8.31 - $8.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/d/pd-030b-us-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pd-030b-us.htm
+  repositories: []
+name: PD-030B-US
+ref: waveshare/pd-030b-us
+release_date: null
+sku: pd-030b-us
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/11/TC_SL869L-V2_dyn-284x200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/sl869l-v2/
+  repositories: []
+name: SL869L-V2
+ref: telit/sl869l-v2
+release_date: null
+sku: sl869l-v2
+spec: null
+status: ''
+vendor: telit

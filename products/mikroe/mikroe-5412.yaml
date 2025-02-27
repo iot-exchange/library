@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: DAC 13 Click is a compact add-on board providing highly accurate digital-to-analog
+  conversion. This board features the AD3541R, a low drift, single channel, 16-bit
+  accuracy, voltage output digital-to-analog converter (DAC) from Analog Devices.
+  The AD3542R operates with a fixed 2.5V reference, communicates with the host MCU
+  through the SPI interface, and...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dac-13-click/dac-13-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/dac-13-click
+  repositories: []
+name: MIKROE-5412
+ref: mikroe/mikroe-5412
+release_date: null
+sku: mikroe-5412
+spec: null
+status: ''
+vendor: mikroe

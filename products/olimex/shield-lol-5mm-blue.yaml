@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 15.95 EUR
+  price2: 14.36 EUR
+  price3: 12.76 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Duino/Shields/SHIELD-LOL-5MM/images/thumbs/200x150/LOL-5MM-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Duino/Shields/SHIELD-LOL-5MM-BLUE/open-source-hardware
+  repositories: []
+name: SHIELD-LOL-5MM-BLUE
+ref: olimex/shield-lol-5mm-blue
+release_date: null
+sku: shield-lol-5mm-blue
+spec: null
+status: ''
+vendor: olimex

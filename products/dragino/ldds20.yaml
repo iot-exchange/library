@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: LoRaWAN Liquid Level Sensor
+extra:
+  Accuracy: "\xB1(5mm+S*0.5%) (S: Measure Value)"
+  Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
+  Power Consumption: Ultra Low
+  Sensing Method: Ultrasonic
+  Type: non contact Liquid Level Sensor
+  Valid Level Range: 20mm - 2000mm
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/7acce66d40ec90c2d61987b409cbf850_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/distance-level-sensor/item/164-ldds20.html
+  repositories: []
+name: LDDS20
+ref: dragino/ldds20
+release_date: null
+sku: ldds20
+spec: null
+status: ''
+vendor: dragino

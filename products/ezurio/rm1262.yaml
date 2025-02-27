@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: The RM1262 module is similar to the RM1261, offering low power and long
+  range capabilities for LoRaWAN applications.
+extra:
+  Additional Features: Includes TCXO and DC-DC converter, supports LoRa P2P capability
+  Features: Secure, scalable, bi-directional communication
+  LoRaWAN Classes: A, B, C
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-03/453-00140-K1-RM1261.105.png
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/lorawan-modules-solutions/rm126x-ultra-low-power-lorawan-a-b-c-module
+  repositories: []
+name: RM1262
+ref: ezurio/rm1262
+release_date: null
+sku: rm1262
+spec: null
+status: ''
+vendor: ezurio

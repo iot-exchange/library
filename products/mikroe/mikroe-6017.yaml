@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Hall Switch 3 Click is a compact add-on board representing a magnetic
+  field-activated switch. This board features the NMH1000, a Hall-effect magnetic
+  switch from NXP Semiconductor. It is a low-voltage, low-current, and low-output
+  data rate device with a very small size. The switch is most sensitive to a vertical
+  field passing through the top-bottom...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/hall-switch-3-click/hall-switch-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/hall-switch-3-click
+  repositories: []
+name: MIKROE-6017
+ref: mikroe/mikroe-6017
+release_date: null
+sku: mikroe-6017
+spec: null
+status: ''
+vendor: mikroe

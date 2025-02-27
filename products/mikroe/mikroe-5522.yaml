@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Slide Switch TS-13CQN (SS-12D10G5) is a rectangular mechanical switch\
+  \ from ELECSOUND that slides vertically from the open (OFF) position to the closed\
+  \ (ON) position, allowing control of a circuit\u2019s current flow without having\
+  \ to splice a wire manually. It can withstand current and voltage ratings up to\
+  \ 1.5A and 125VAC, ensuring endurance and reliability..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/slide-switch-ts-13cqn/slide-switch-ts-13cqn-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/slide-switch-ts-13cqn
+  repositories: []
+name: MIKROE-5522
+ref: mikroe/mikroe-5522
+release_date: null
+sku: mikroe-5522
+spec: null
+status: ''
+vendor: mikroe

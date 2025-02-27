@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: Proteus-II with integrated antenna
+extra:
+  ANTConn: Integrated PCB
+  Frequency Range (MHz): 2402 - 2480
+  PTx, e.r.p.(dBm): '-2'
+  Product series: Proteus-II & EV-Kits
+  Rb max.(kbps): '2000'
+  Rxsens, e.r.p.(dBm): '-91'
+  VDD max.(V): '3.6'
+  VDD min.(V): '1.8'
+  dLoS(m): '50'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o139382v214%20Single_Proteus%20II_2608011124010.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/PROTEUS-II#2608011024010
+  repositories: []
+name: '2608011024010'
+ref: we/2608011024010
+release_date: null
+sku: '2608011024010'
+spec: null
+status: Active
+vendor: we

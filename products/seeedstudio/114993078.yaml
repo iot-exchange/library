@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "A battery-powered IP66 wireless PT1000 temperature sensor, range from\
+  \ -50~300\xB0C, expandable 3 PT1000 channels, equipped with built-in Bluetooth and\
+  \ APP service for OTA configuration and remote device management. Used in liquid\
+  \ detection, food monitoring, storage cold chain, industrial boilers, aquaculture\
+  \ solutions."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993078-sensecap-s2107-temperature-sensor-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/SenseCAP-S2107-Temperature-Sensor-p-5807.html
+  repositories: []
+name: '114993078'
+ref: seeedstudio/114993078
+release_date: null
+sku: '114993078'
+spec: null
+status: ''
+vendor: seeedstudio

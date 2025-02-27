@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: RMS to DC 2 Click is a compact add-on board that converts the RMS of
+  the input signal into a DC voltage. This board features the AD8436, a low-cost,
+  low-power, true RMS-to-DC converter from Analog Devices. The AD8436 is a translinear
+  precision, low-power, true RMS-to-DC converter that delivers true RMS or average
+  rectified value of AC waveform. It...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rms-to-dc-2-click/rms-to-dc-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/rms-to-dc-2-click
+  repositories: []
+name: MIKROE-5821
+ref: mikroe/mikroe-5821
+release_date: null
+sku: mikroe-5821
+spec: null
+status: ''
+vendor: mikroe

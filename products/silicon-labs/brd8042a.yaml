@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: CSS/FSK Adapter Board (for SX1262MB2CAS Shield Board)
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - ''
+  repositories: []
+name: BRD8042A
+ref: silicon-labs/brd8042a
+release_date: null
+sku: brd8042a
+spec: null
+status: ''
+vendor: silicon-labs

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Balancer 5 Click is an intelligent 2-cell Li-Ion battery charger, system\
+  \ power manager, and a battery fuel gauge Click board\u2122. Balancer 5 click is\
+  \ based on BQ25887 controller which has some extra features enabling charging without\
+  \ too much hassle. As a system power distributor, it can supply up to 3.3A to a\
+  \ connected battery. By utilizing an externally..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/balancer-5-click/balancer-5-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=118#Balancer-5-Click
+  repositories: []
+name: MIKROE-3853
+ref: mikroe/mikroe-3853
+release_date: null
+sku: mikroe-3853
+spec: null
+status: ''
+vendor: mikroe

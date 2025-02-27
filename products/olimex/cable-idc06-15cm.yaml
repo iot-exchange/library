@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Cables/CABLE-IDC06-15CM/images/thumbs/200x150/CABLE-IDC6-15CM.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Cables/CABLE-IDC06-15CM/
+  repositories: []
+name: CABLE-IDC06-15CM
+ref: olimex/cable-idc06-15cm
+release_date: null
+sku: cable-idc06-15cm
+spec: null
+status: ''
+vendor: olimex

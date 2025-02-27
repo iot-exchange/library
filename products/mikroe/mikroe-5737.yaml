@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "Accel 28 Click is a compact add-on board that contains an acceleration\
+  \ sensor. This board features the LIS2HH12TR, an ultra-low-power high-performance\
+  \ three-axis accelerometer from STMicroelectronics. It allows selectable full-scale\
+  \ acceleration measurements in ranges of \xB12g, \xB14g, and \xB18g in three axes\
+  \ with a configurable host interface that supports both..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/accel-28-click/accel-28-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/accel-28-click
+  - https://www.mikroe.com/cart?add=1&id_product=3664
+  repositories: []
+name: MIKROE-5737
+ref: mikroe/mikroe-5737
+release_date: null
+sku: mikroe-5737
+spec: null
+status: ''
+vendor: mikroe

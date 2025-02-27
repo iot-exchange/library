@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Scanner Click as his name said, is an optical scanner expansion board
+  for building optical cost-sensitive scanners and printers. The main component of
+  this board is a 102 pixels linear optical array sensor marked TSL3301CL from AMS.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/scanner-click/scanner-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/scanner-click
+  repositories: []
+name: MIKROE-4108
+ref: mikroe/mikroe-4108
+release_date: null
+sku: mikroe-4108
+spec: null
+status: Unavailable
+vendor: mikroe

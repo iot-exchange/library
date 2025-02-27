@@ -1,0 +1,32 @@
+alternatives: []
+certifications: []
+description: The RAK4630 is a low-power, long-range transceiver module based on Nordic
+  nRF52840 MCU that supports Bluetooth 5.0 and the SX1262 LoRa transceiver from Semtech.
+  It complies with LoRaWAN 1.0.3 Class A, B, & C specifications and offers customizable
+  firmware.
+extra:
+  Antenna connector: IPEX and RF pinout
+  Certification: CE, FCC, KC, RCM
+  Chipset: NRF52840
+  Communications: "LoRa\xAE / LoRaWAN\xAE And BLE 5"
+  Form factor: 15 x 23 x 3 mm
+  "LoRaWAN\xAE version": 1.0.3
+  "LoRa\xAE chip": SX1262
+  Pin count: '44'
+  Sleep current: "4.23 \xB5A"
+  TCXO: Supported
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://docs.rakwireless.com/Product-Categories/WisDuo/RAK4630-Module/Overview/
+  repositories: []
+name: RAK4630
+ref: rakwireless/rak4630
+release_date: null
+sku: rak4630
+spec: null
+status: ''
+vendor: rakwireless

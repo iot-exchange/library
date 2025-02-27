@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "High-Reliability 180\xB0 Copper Gear Digital Servo, 2.3kg.Cm Large Torque,\
+  \ Compact Size & Lightweight"
+extra:
+  Price: $7.65 - $7.99
+  SKU: '24704'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/p/wp90-servo-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/wp90-servo.htm
+  repositories: []
+name: WP90 Servo
+ref: waveshare/wp90-servo
+release_date: null
+sku: wp90-servo
+spec: null
+status: ''
+vendor: waveshare

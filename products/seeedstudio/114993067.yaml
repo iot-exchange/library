@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Crazyradio 2.0 --2.4GHz ISM Band Radio, USB-A connector, Antenna
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/9/5/95236.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/Crazyradio-2-0-revF-p-5694.html
+  repositories: []
+name: '114993067'
+ref: seeedstudio/114993067
+release_date: null
+sku: '114993067'
+spec: null
+status: ''
+vendor: seeedstudio

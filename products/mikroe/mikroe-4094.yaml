@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: I2C MUX 2 Click is a quad bidirectional translating I2C and SMBus switch
+  with reset and interrupt functions, intended for applications with I2C slave address
+  conflicts. It features a quad bidirectional translating switch controlled via the
+  I2C bus, labeled as TCA9545A from Texas Instruments.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/i2c-mux-2-click/i2c-mux-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=108#I2C-MUX-2-Click
+  repositories: []
+name: MIKROE-4094
+ref: mikroe/mikroe-4094
+release_date: null
+sku: mikroe-4094
+spec: null
+status: ''
+vendor: mikroe

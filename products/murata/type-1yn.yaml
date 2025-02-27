@@ -1,0 +1,46 @@
+alternatives: []
+certifications: []
+description: Wi-Fi 4 module with Bluetooth support
+extra:
+  Bluetooth: 5.1 BR/EDR/LE
+  Chipset: CYW43439
+  Dimension: 6.95 x 5.15 x 1.1 mm
+  ETSI Report: 'Yes'
+  FCC/ISED Certified: 'Yes'
+  Frequency: 2.4GHz
+  Grade: Consumer
+  Host Interface (Bluetooth): UART
+  Host Interface (Wi-Fi): SDIO
+  IC Manufacturer: Infineon
+  Integrated Antenna: 'No'
+  Interface Voltage: 1.8V,3.3V
+  MIC (Japan) Certified: 'Yes'
+  Mounting Type: SMT
+  Operating Temperature (degC): "-40\u2103 to 85\u2103"
+  Package: Shielded Resin
+  Packaging: Tape and Reel
+  Peripheral Interface: GPIO/SDIO/UART
+  Platform: WICED,i.MX Yocto
+  Processor: 'No'
+  Receive Mode Current: 47mA
+  RoHS Support: 'Yes'
+  Sleep Mode Current (Bluetooth): ''
+  Sleep Mode Current (Wi-Fi): 28mA
+  Supply Voltage: 3.2V to 4.2V
+  Technology: Wi-Fi,Bluetooth
+  Transmit Mode Current (Bluetooth): ''
+  Transmit Mode Current (Wi-Fi): 320mA @ 11Mbps (2.4GHz)
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: Type 1YN
+ref: murata/type-1yn
+release_date: null
+sku: type-1yn
+spec: null
+status: ''
+vendor: murata

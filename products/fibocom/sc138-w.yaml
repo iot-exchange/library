@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 4G premium module for global applications.
+extra:
+  Bands: /
+  Form Factor: LGA / LCC
+  Region: Global
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTE-SC138-W.html
+  repositories: []
+name: SC138-W
+ref: fibocom/sc138-w
+release_date: null
+sku: sc138-w
+spec: null
+status: ''
+vendor: fibocom

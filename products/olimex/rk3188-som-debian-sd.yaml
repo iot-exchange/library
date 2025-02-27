@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 8.96 EUR
+  discountedPrice2: 7.96 EUR
+  price: 9.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/SOM/RK3188/RK3188-SOM-DEBIAN-SD/images/thumbs/200x150/SD-Card.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/SOM/RK3188/RK3188-SOM-DEBIAN-SD/
+  repositories: []
+name: RK3188-SOM-DEBIAN-SD
+ref: olimex/rk3188-som-debian-sd
+release_date: null
+sku: rk3188-som-debian-sd
+spec: null
+status: ''
+vendor: olimex

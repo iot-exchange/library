@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Dual Gigabit Ethernet Base Board Designed for Raspberry Pi Compute Module
+  4
+extra:
+  Multi Options: ''
+  Price: $56.99 - $72.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-dual-eth-base-1_3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/cm4-dual-eth-base.htm
+  repositories: []
+name: cm4_dual_eth_base
+ref: waveshare/cm4-dual-eth-base
+release_date: null
+sku: cm4-dual-eth-base
+spec: null
+status: ''
+vendor: waveshare

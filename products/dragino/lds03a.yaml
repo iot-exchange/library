@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: 'Door open/close detect, open alarmDoor open/close statisticsDatalog
+  FeatureBands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865/RU864'
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/95a78f3015bd19286b33c65657114fc4_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lorawan-nb-iot-door-sensor-water-leak/item/196-lds03a.html
+  repositories: []
+name: LDS03A
+ref: dragino/lds03a
+release_date: null
+sku: lds03a
+spec: null
+status: ''
+vendor: dragino

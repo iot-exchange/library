@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Magneto 12 Click is a compact add-on board that contains an accurate
+  and reliable magnetic sensing device. This board features the A31315, a magnetic
+  position sensor designed for on- and off-axis rotary and linear stroke position
+  measurement from Allegro Microsystems. This sensor integrates vertical and planar
+  Hall-effect elements with precision...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/magneto-12-click/magneto-12-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/magneto-12-click
+  repositories: []
+name: MIKROE-4991
+ref: mikroe/mikroe-4991
+release_date: null
+sku: mikroe-4991
+spec: null
+status: ''
+vendor: mikroe

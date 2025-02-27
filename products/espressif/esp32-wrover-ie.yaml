@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: For flashing / testing ESP32-WROVER-IE / ESP32-WROVER-I / ESP32-WROVER-IB
+  modules (must be used with ESP-BAT32 for testing)
+extra:
+  Antenna: IPEX antenna connector
+  Development Board: ESP32-DevKitC
+  Flash: 4,8,16
+  Footprint: 18x31.4x3.3
+  PSRAM: '8'
+  Pins: '38'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-MINI-1%20S.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp32-wrover-e_esp32-wrover-ie_datasheet_en.pdf
+  repositories: []
+name: ESP32-WROVER-IE
+ref: espressif/esp32-wrover-ie
+release_date: null
+sku: esp32-wrover-ie
+spec: null
+status: ''
+vendor: espressif

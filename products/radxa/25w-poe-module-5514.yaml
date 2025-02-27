@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Compact PoE Module
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/poe-hat/ra025/thumb_25w_poe_plus_module_5514.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/25w-poe-push-module-5514
+  repositories: []
+name: 25W PoE+ Module 5514
+ref: radxa/25w-poe-module-5514
+release_date: null
+sku: 25w-poe-module-5514
+spec: null
+status: ''
+vendor: radxa

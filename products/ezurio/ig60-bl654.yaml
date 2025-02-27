@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Multi Protocol Wireless IoT Gateway with BL654 for Bluetooth LE capabilities
+  running Laird Linux
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-10/IG60-BL654 Angle - Large.png
+  models: []
+  products:
+  - https://www.ezurio.com/iot-devices/bluetooth-iot-devices/sentrius-ig60-bl654-and-ig60-bl654-lte-wireless-iot-gateway
+  repositories: []
+name: IG60-BL654
+ref: ezurio/ig60-bl654
+release_date: null
+sku: ig60-bl654
+spec: null
+status: ''
+vendor: ezurio

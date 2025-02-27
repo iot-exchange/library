@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Click Shield for Arduino Mega Break the chains and buckles on Arduino\
+  \ Mega with your favorite Click boards\u2122 Seamlessly develop with our Click Shield\
+  \ for Arduino Mega! Unleash the full potential of the Arduino Mega board, coupled\
+  \ with mikroBUS\u2122 sockets, granting you instant access to our extensive range\
+  \ of Click boards\u2122. The possibilities are boundless..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/click-shield-for-arduino-mega/click-shield-for-arduino-mega-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/click-shield-for-arduino-mega
+  repositories: []
+name: MIKROE-5831
+ref: mikroe/mikroe-5831
+release_date: null
+sku: mikroe-5831
+spec: null
+status: ''
+vendor: mikroe

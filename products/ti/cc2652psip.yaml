@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC2652PSIP
+  repositories: []
+name: CC2652PSIP
+ref: ti/cc2652psip
+release_date: null
+sku: cc2652psip
+spec: null
+status: ''
+vendor: ti

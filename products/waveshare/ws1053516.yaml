@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "M12 High Resolution Lens, 16MP, 105\xB0 FOV, 3.56mm Focal length, Compatible\
+  \ with Raspberry Pi High Quality Camera M12"
+extra:
+  Price: $6.31 - $6.99
+  price: $6.31 - $6.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/s/ws1053516-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ws1053516.htm
+  - "https://www.waveshare.com/product/ws1053516.htm \"M12 High Resolution Lens, 16MP,\
+    \ 105\xB0 FOV, 3.56mm Focal length, Compatible with Raspberry Pi High Quality\
+    \ Camera M12\""
+  repositories: []
+name: WS1053516
+ref: waveshare/ws1053516
+release_date: null
+sku: ws1053516
+spec: null
+status: ''
+vendor: waveshare

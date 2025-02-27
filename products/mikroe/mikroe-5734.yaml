@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Smart DOF 3 Click is a compact add-on board with a highly advanced integrated
+  system-in-package (SIP) accelerometer and gyroscope sensors. This board features
+  the ISM330IS, an iNEMO inertial module from STMicroelectronics. The inertial module
+  consists of an always-on 3-axis accelerometer and 3-axis gyroscope with ISPU (intelligent
+  sensor processing unit)...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/smart-dof-3-click/smart-dof-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/smart-dof-3-click
+  repositories: []
+name: MIKROE-5734
+ref: mikroe/mikroe-5734
+release_date: null
+sku: mikroe-5734
+spec: null
+status: ''
+vendor: mikroe

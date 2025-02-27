@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: The 1.47-inch LCD Display Module boasts a remarkable 172x320 resolution
+  and a vibrant spectrum of 262K colors. It features a SPI interface that conserves
+  IO pins.
+extra:
+  price: $11.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-104990803-1.47inch-172x320-resolution-lcd-display-module-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/1-47inch-172x320-Resolution-LCD-Display-Module-p-5756.html
+  repositories: []
+name: '104990803'
+ref: seeedstudio/104990803
+release_date: null
+sku: '104990803'
+spec: null
+status: ''
+vendor: seeedstudio

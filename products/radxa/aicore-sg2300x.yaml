@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: 24TOPS AI Compute Module
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/aicore/aicore-sg2300x/thumb_radxa_aicore_sg2300x.webp
+  models: []
+  products:
+  - https://radxa.com/products/aicore/aicore-sg2300x
+  repositories: []
+name: AICore SG2300x
+ref: radxa/aicore-sg2300x
+release_date: null
+sku: aicore-sg2300x
+spec: null
+status: ''
+vendor: radxa

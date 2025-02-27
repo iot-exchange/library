@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Power Supply, Power Adapter, 5V/3A, micro USB Output Connector
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/s/psu-5v3a-micro-us-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/psu-5v3a-micro.htm
+  - https://www.waveshare.com/product/psu-5v3a-micro.htm "Power Supply, Power Adapter,
+    5V/3A, micro USB Output Connector"
+  repositories: []
+name: psu_5v3a_micro
+ref: waveshare/psu-5v3a-micro
+release_date: null
+sku: psu-5v3a-micro
+spec: null
+status: ''
+vendor: waveshare

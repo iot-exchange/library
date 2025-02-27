@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: A HAT for receiving and decoding digital DVB-T2 TV streams
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/c571112c0999831d8912f1c113c6c181/3f4ea/fee0c9fc6b839b879f64dc6e645d1b7b6b4b643a_770a9314-1.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/raspberry-pi-tv-hat/
+  repositories: []
+name: Raspberry Pi TV HAT
+ref: raspberrypi/raspberry-pi-tv-hat
+release_date: null
+sku: raspberry-pi-tv-hat
+spec: null
+status: ''
+vendor: raspberrypi

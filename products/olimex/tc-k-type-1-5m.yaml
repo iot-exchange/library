@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 1.80 EUR
+  discountedPrice2: 1.60 EUR
+  price: 2.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/SOM/A20/A20-SOM-EVB/images/thumbs/200x150/A20-SOM-EVB-1.jpgf
+  models: []
+  products:
+  - ./url/bdg
+  repositories: []
+name: TC-K-TYPE-1-5M
+ref: olimex/tc-k-type-1-5m
+release_date: null
+sku: tc-k-type-1-5m
+spec: null
+status: ''
+vendor: olimex

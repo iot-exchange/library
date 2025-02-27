@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: "7.3inch E Ink Spectra 6 (E6) Full Color E-Paper Display, E-Ink Display,\
+  \ Low Power Consumption, 800\xD7480 Pixels, SPI Communication, Optional For E-Paper\
+  \ Driver HAT"
+extra:
+  Multi Options: ''
+  multiOptions: Multi Options
+  price: $72.99 -  $80.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/_/7.3inch-e-paper-hat-e-1_4.jpg
+  models: []
+  products:
+  - "https://www.waveshare.com/product/7.3inch-e-paper-hat-e.htm \"7.3inch E Ink Spectra\
+    \ 6 (E6) Full Color E-Paper Display, E-Ink Display, Low Power Consumption, 800\xD7\
+    480 Pixels, SPI Communication, Optional For E-Paper Driver HAT\""
+  - https://www.waveshare.com/product/7.3inch-e-paper-hat-e.htm
+  repositories: []
+name: 73_epaper_e
+ref: waveshare/73-epaper-e
+release_date: null
+sku: 73-epaper-e
+spec: null
+status: ''
+vendor: waveshare

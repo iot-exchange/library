@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LBAND RTK Click is a compact add-on board that provides global and easy
+  access to satellite L-Band GNSS corrections. This board features the NEO-D9S-00B,
+  an professional-grade satellite data receiver for L-band correction broadcast from
+  u-blox. Operating in a frequency range from 1525MHz to 1559MHz, the NEO-D9S-00B
+  decodes the satellite transmission and...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lband-rtk-click/lband-rtk-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/lband-rtk-click
+  repositories: []
+name: MIKROE-5411
+ref: mikroe/mikroe-5411
+release_date: null
+sku: mikroe-5411
+spec: null
+status: ''
+vendor: mikroe

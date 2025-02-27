@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: 5.79inch e-Paper display Module, e-ink display, 792x272, Black/White,
+  SPI Interface
+extra:
+  SKU: '26892'
+  price: $26.97  -  $27.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/_/5.79inch-e-paper-module-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/5.79inch-e-paper-module.htm "5.79inch e-Paper
+    display Module, e-ink display, 792x272, Black/White, SPI Interface"
+  - https://www.waveshare.com/product/5.79inch-e-paper-module.htm
+  repositories: []
+name: 5.79inch e-Paper Module
+ref: waveshare/5-79inch-e-paper-module
+release_date: null
+sku: 5-79inch-e-paper-module
+spec: null
+status: ''
+vendor: waveshare

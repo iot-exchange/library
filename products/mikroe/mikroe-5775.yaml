@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Barometer 12 Click is a compact add-on board that measures air pressure
+  in a specific environment. This board features the ICP-10125, a high-accuracy, low-power,
+  10-atm waterproof barometric pressure and temperature sensor from TDK InvenSense.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/barometer-12-click/barometer-12-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/barometer-12-click
+  repositories: []
+name: MIKROE-5775
+ref: mikroe/mikroe-5775
+release_date: null
+sku: mikroe-5775
+spec: null
+status: ''
+vendor: mikroe

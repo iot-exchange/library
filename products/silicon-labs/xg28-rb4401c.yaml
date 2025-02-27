@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Bluetooth 5: "\u2714"
+  Bluetooth Mesh: "\u2714"
+  Flash (kB): '1024'
+  Frequency Band: 869-928 MHz
+  Output Power (dBm): '20'
+  RAM (kB): '256'
+  Wi-SUN: "\u2714"
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/xg28-rb4401c-efr32xg28-2-4-ghz-ble-and-20-dbm-radio-board
+  repositories: []
+name: xG28-RB4401C
+ref: silicon-labs/xg28-rb4401c
+release_date: null
+sku: xg28-rb4401c
+spec: null
+status: ''
+vendor: silicon-labs

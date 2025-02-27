@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: ESP32-WROVER-IB is a powerful, generic Wi-Fi+BT+Bluetooth LE MCU module
+  that targets a wide variety of applications, ranging from low-power sensor networks
+  to the most demanding tasks, such as voice encoding, music streaming and MP3 decoding.
+extra:
+  Antenna: IPEX antenna connector
+  Chip Embedded: ESP32-D0WD
+  Development Board: ESP32-DevKitC
+  Dimensions (mm): 18x31.4x3.3
+  Flash (MB): 4,8,16
+  PSRAM (MB): '8'
+  Pins: '38'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp32-wrover-b_datasheet_en.pdf
+  repositories: []
+name: ESP32-WROVER-IB
+ref: espressif/esp32-wrover-ib
+release_date: null
+sku: esp32-wrover-ib
+spec: null
+status: Not recommended for new designs
+vendor: espressif

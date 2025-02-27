@@ -1,0 +1,33 @@
+alternatives: []
+certifications: []
+description: "Recommended upgrade \u2192ESP8684"
+extra:
+  Core: Single core
+  Development Board: N/A
+  Dimensions (mm): QFN 5x5
+  Flash (MB): '12'
+  Footprint: <https://www.espressif.com/sites/default/files/chips-dxf/ESP8285_Footprint.asc>
+  Footprint Link: <https://www.espressif.com/sites/default/files/chips-dxf/ESP8285_Footprint.asc>
+  MOQ: '5000'
+  Module: N/A
+  PSRAM (MB): N/A
+  Pins: '32'
+  RAM/ROM (KB): 160 KB RAM
+  SPQ: '5000'
+  Variants: ESP8285N08, ESP8285H16
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP8285_L_4.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/0a-esp8285_datasheet_en.pdf
+  repositories: []
+name: ESP8285
+ref: espressif/esp8285
+release_date: null
+sku: esp8285
+spec: null
+status: Recommended upgrade
+vendor: espressif

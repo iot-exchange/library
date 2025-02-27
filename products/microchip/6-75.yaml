@@ -1,0 +1,32 @@
+alternatives: []
+certifications: []
+description: Bluetooth LE, Zigbee, Thread, Proprietary
+extra:
+  Bluetooth: '5.2'
+  Certifications: FCC, ISED, CE, UKCA, SRRC, MIC, NC, KC
+  Flash: '26'
+  Max Range (dBm): '-104'
+  Max Supply Voltage (V): '3.6'
+  Microcontroller: 64 MHz, ARM Cortex M4F
+  Package: U.FL
+  RAM: '1024'
+  Security Features: AES Engine, TRNG, SHA1, SHA224, SHA256
+  Supply Voltage (V): '1.9'
+  Tx Power (dBm): '20'
+  Type: Module
+  Version: '3.0'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - ''
+  repositories: []
+name: '6.75'
+ref: microchip/6-75
+release_date: null
+sku: 6-75
+spec: null
+status: ''
+vendor: microchip

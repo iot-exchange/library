@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: The LWL02 is a LoRaWAN water sensor. When there is water between the
+  two metal probes, LWL02 indicates a water leak event and send uplink to the IoT
+  servers via the LoRaWAN network.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.seeedstudio.com/img/ah
+  models: []
+  products:
+  - https://www.seeedstudio.com/LWL02-LoRaWAN-Water-Leak-Sensor-US915MHz-p-101990942.html
+  repositories: []
+name: '101990942'
+ref: seeedstudio/101990942
+release_date: null
+sku: '101990942'
+spec: null
+status: ''
+vendor: seeedstudio

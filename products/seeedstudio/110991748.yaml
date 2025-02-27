@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: "SenseCAP K1100 - The Sensor Prototype Kit with LoRa\xAE and AI"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-110991748-k1100-first_1_.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Seeed-Studio-LoRaWAN-Dev-Kit-p-5370.html
+  repositories: []
+name: '110991748'
+ref: seeedstudio/110991748
+release_date: null
+sku: '110991748'
+spec: null
+status: ''
+vendor: seeedstudio

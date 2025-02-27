@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 8.06 EUR
+  discountedPrice2: 7.16 EUR
+  price: 8.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-H1114/images/thumbs/200x150/LPC-H11XX-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-H1114/
+  repositories: []
+name: LPC-H1114
+ref: olimex/lpc-h1114
+release_date: null
+sku: lpc-h1114
+spec: null
+status: ''
+vendor: olimex

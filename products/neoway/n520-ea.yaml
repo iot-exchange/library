@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: N520 is a 5G R17 standard RedCap module
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.neoway.com/Uploads/Picture/2025/01/18/s678b17b97303a.png
+  models: []
+  products:
+  - https://www.neoway.com/products/wireless-communication/1847.html
+  repositories: []
+name: N520-EA
+ref: neoway/n520-ea
+release_date: null
+sku: n520-ea
+spec: null
+status: ''
+vendor: neoway

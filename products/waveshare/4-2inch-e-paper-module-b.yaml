@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 400x300, 4.2inch E-Ink display module, three-color
+extra:
+  Price: $33.63 - $34.99
+  SKU: '13454'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/_/4.2inch-e-paper-module-b-3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/4.2inch-e-paper-module-b.htm
+  repositories: []
+name: 4.2inch e-Paper Module (B)
+ref: waveshare/4-2inch-e-paper-module-b
+release_date: null
+sku: 4-2inch-e-paper-module-b
+spec: null
+status: ''
+vendor: waveshare

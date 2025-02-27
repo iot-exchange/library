@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Specialized for Radxa SBCs
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/accessories/ap005/thumb_power_dc12_60w.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/power-dc12-60w
+  repositories: []
+name: Power DC12 60W
+ref: radxa/power-dc12-60w
+release_date: null
+sku: power-dc12-60w
+spec: null
+status: ''
+vendor: radxa

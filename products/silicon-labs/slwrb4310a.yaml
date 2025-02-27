@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: BGM220SC12 Bluetooth SiP Module 2.4 GHz +0 Output Power Radio Board
+extra:
+  MSRP: $29.00
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/bluetooth/slwrb4310a-bgm220sc12-bluetooth-module-radio-board
+  repositories: []
+name: SLWRB4310A
+ref: silicon-labs/slwrb4310a
+release_date: null
+sku: slwrb4310a
+spec: null
+status: ''
+vendor: silicon-labs

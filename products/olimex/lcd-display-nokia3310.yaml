@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 4.50 EUR
+  discountedPrice2: 4.00 EUR
+  price: 5.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/LCD/LCD-DISPLAY-NOKIA3310/images/thumbs/200x150/LCD3310-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/LCD/LCD DISPLAY NOKIA3310/
+  repositories: []
+name: LCD DISPLAY NOKIA3310
+ref: olimex/lcd-display-nokia3310
+release_date: null
+sku: lcd-display-nokia3310
+spec: null
+status: ''
+vendor: olimex

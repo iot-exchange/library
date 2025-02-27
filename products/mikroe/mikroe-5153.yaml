@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Pressure 20 Click is a compact add-on board that contains a board-mount
+  pressure sensor. This board features the ICP-20100, a high-accuracy digital barometric
+  pressure and temperature sensor from TDK InvenSense. The ICP-20100 is based on MEMS
+  capacitive technology with ultra-low noise, low power consumption, and temperature
+  stability alongside...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/pressure-20-click/pressure-20-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/pressure-20-click
+  repositories: []
+name: MIKROE-5153
+ref: mikroe/mikroe-5153
+release_date: null
+sku: mikroe-5153
+spec: null
+status: ''
+vendor: mikroe

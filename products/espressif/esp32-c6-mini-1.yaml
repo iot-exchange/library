@@ -1,0 +1,31 @@
+alternatives: []
+certifications: []
+description: ESP32-C6-MINI-1 is a ESP32-C6 based module, which supports Wi-Fi 6 in
+  2.4 GHz band, Bluetooth 5, Zigbee 3.0 and Thread. It's small-sized and pin-to-pin
+  compatible with the ESP32-C3-MINI series module. With low power consumption, it
+  is an ideal choice for a variety of IoT devices.
+extra:
+  Antenna: PCB antenna
+  Chip Embedded: ESP32-C6FH4, ESP32-C6FH8
+  Development Board: ESP32-C6-DevKitM-1
+  Dimensions (mm): "13.2\xD716.6\xD72.4"
+  Flash (MB): 4, 8
+  PSRAM (MB): N/A
+  Pins: '53'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-C6-MINI-1%20S_0.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp32-c6-mini-1_mini-1u_datasheet_en.pdf
+  - https://www.espressif.com/sites/default/files/documentation/esp32-c6-mini-1-mini-1u_datasheet_en.pdf
+  repositories: []
+name: ESP32-C6-MINI-1
+ref: espressif/esp32-c6-mini-1
+release_date: null
+sku: esp32-c6-mini-1
+spec: null
+status: ''
+vendor: espressif

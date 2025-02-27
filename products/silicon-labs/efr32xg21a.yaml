@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Bluetooth Starter Kit supports Bluetooth 5.1 and comes ready to connect
+  to your phone via the Silicon Labs Bluetooth LE mobile app.
+extra:
+  MSRP: $164.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/efr32xg21-wireless-gecko-starter-kit.jpg
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/efr32xg21-bluetooth-starter-kit
+  repositories: []
+name: EFR32xG21A
+ref: silicon-labs/efr32xg21a
+release_date: null
+sku: efr32xg21a
+spec: null
+status: ''
+vendor: silicon-labs

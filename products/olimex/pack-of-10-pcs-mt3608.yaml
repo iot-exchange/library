@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/IC/MT3608/images/thumbs/200x150/SY.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/IC/MT3608/
+  repositories: []
+name: Pack of 10 pcs MT3608
+ref: olimex/pack-of-10-pcs-mt3608
+release_date: null
+sku: pack-of-10-pcs-mt3608
+spec: null
+status: ''
+vendor: olimex

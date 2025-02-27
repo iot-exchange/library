@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32/BOX-ESP32-POE/images/thumbs/200x150/BOX-ESP32-POE-EA-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/IoT/ESP32/BOX-ESP32-POE-F/
+  repositories: []
+name: BOX-ESP32-POE-F
+ref: olimex/box-esp32-poe-f
+release_date: null
+sku: box-esp32-poe-f
+spec: null
+status: ''
+vendor: olimex

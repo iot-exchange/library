@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Bluetooth 5: "\u2714"
+  Bluetooth Mesh: "\u2714"
+  Flash (kB): '1024'
+  Frequency Band: 915 MHz
+  Output Power (dBm): '20'
+  RAM (kB): '256'
+  Wi-SUN: "\u2714"
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/proprietary/slwrb4253a-efr32fg12-915-mhz-radio-board
+  repositories: []
+name: SLWRB4253A
+ref: silicon-labs/slwrb4253a
+release_date: null
+sku: slwrb4253a
+spec: null
+status: ''
+vendor: silicon-labs

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Epoxy Coated NTC Thermistor Sensor, the GA10K3A1IA from TE Connectivity,\
+  \ is known for its accuracy and durability and is designed for precise thermal monitoring\
+  \ in various applications. It features a resistance of 10k\u03A9 at 25\xB0C, operates\
+  \ within a temperature range of -40\xB0C to 125\xB0C (-40\xB0F to 257\xB0F), and\
+  \ has a tolerance \u03B2-value of \xB10.5%, ensuring reliable..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/epoxy-coated-ntc-thermistor-sensor/epoxy-coated-ntc-thermistor-sensor-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/epoxy-coated-ntc-thermistor-sensor
+  repositories: []
+name: MIKROE-6501
+ref: mikroe/mikroe-6501
+release_date: null
+sku: mikroe-6501
+spec: null
+status: ''
+vendor: mikroe

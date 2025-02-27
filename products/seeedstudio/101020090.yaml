@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Grove - Water Atomization is a perfect module for you to quickly DIY
+  a humidifier with Arduino. You can also develop more advanced and interesting projects
+  with digital scent technology and any other situations in which atomization is required.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2018-08bazaar892579_3.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-Water-Atomization-v1-0.html
+  repositories: []
+name: '101020090'
+ref: seeedstudio/101020090
+release_date: null
+sku: '101020090'
+spec: null
+status: ''
+vendor: seeedstudio

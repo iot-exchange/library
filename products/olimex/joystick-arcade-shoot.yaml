@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Retro-Computers/JOYSTICK-ARCADE-SHOOT/images/thumbs/200x150/JOYSTICK-ARCADE-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Retro-Computers/JOYSTICK-ARCADE-SHOOT/
+  repositories: []
+name: JOYSTICK-ARCADE-SHOOT
+ref: olimex/joystick-arcade-shoot
+release_date: null
+sku: joystick-arcade-shoot
+spec: null
+status: ''
+vendor: olimex

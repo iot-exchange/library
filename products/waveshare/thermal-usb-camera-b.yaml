@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "Smartphone IR Thermal Imaging Camera (B), Type-C Port, Plug And Play,\
+  \ Options for 45\xB0 / 90\xB0 FOV, Aluminum Alloy Case"
+extra:
+  Price: $89.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/h/thermal-45-usb-camera-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/thermal-45-usb-camera-b.htm
+  - "https://www.waveshare.com/product/thermal-45-usb-camera-b.htm \"Smartphone IR\
+    \ Thermal Imaging Camera (B), Type-C Port, Plug And Play, Options for 45\xB0 /\
+    \ 90\xB0 FOV, Aluminum Alloy Case\""
+  repositories: []
+name: Thermal USB Camera (B)
+ref: waveshare/thermal-usb-camera-b
+release_date: null
+sku: thermal-usb-camera-b
+spec: null
+status: ''
+vendor: waveshare

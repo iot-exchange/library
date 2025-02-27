@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Sense HAT (B) for Raspberry Pi, Multi Powerful Sensors
+extra:
+  Price: $20.29 - $21.99
+  SKU: '16864'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/e/sense-hat-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/sense-hat-b.htm "Sense HAT (B) for Raspberry
+    Pi, Multi Powerful Sensors"
+  - https://www.waveshare.com/product/sense-hat-b.htm
+  repositories: []
+name: Sense HAT (B)
+ref: waveshare/sense-hat-b
+release_date: null
+sku: sense-hat-b
+spec: null
+status: ''
+vendor: waveshare

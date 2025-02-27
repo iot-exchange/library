@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 13.46 EUR
+  discountedPrice2: 11.96 EUR
+  price: 14.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/MAXQ/JTAG/MAXQ-JTAG/images/thumbs/200x150/MAXQ-JTAG-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/MAXQ/JTAG/MAXQ-JTAG/
+  repositories: []
+name: MAXQ-JTAG
+ref: olimex/maxq-jtag
+release_date: null
+sku: maxq-jtag
+spec: null
+status: ''
+vendor: olimex

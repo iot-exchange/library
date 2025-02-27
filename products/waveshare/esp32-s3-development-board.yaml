@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: ESP32-S3 Microcontroller, 2.4GHz Wi-Fi Development Board, 240MHz Dual
+  Core Processor, ESP32-S3-WROOM-1 Module, Options For 8MB/16MB Flash
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-dev-kit-n8r8-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/esp32-s3-dev-kit-n8r8.htm
+  repositories: []
+name: ESP32-S3 Development Board
+ref: waveshare/esp32-s3-development-board
+release_date: null
+sku: esp32-s3-development-board
+spec: null
+status: ''
+vendor: waveshare

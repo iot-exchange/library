@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/CHN-T802-1.6D/images/thumbs/200x150/CHN-T802-1.6D.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/Soldering/CHN-T802-1.6D/
+  repositories: []
+name: CHN-T802-1.6D
+ref: olimex/chn-t802-1-6d
+release_date: null
+sku: chn-t802-1-6d
+spec: null
+status: ''
+vendor: olimex

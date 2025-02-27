@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Duino/Duinomite/DUINOMITE-MINI/images/thumbs/200x150/DOINOMITE-MINI-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Duino/Duinomite/DUINOMITE-MINI/open-source-hardware
+  repositories: []
+name: DUINOMITE-MINI
+ref: olimex/duinomite-mini
+release_date: null
+sku: duinomite-mini
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Compact module for Bluetooth and Wi-Fi connectivity.
+extra:
+  frequency: 2.4 GHz
+  protocols: 802.11 b/g/n, Bluetooth 4.2
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.nxp.com/products/wireless-connectivity/wi-fi-plus-bluetooth-plus-802-15-4/wi-fi-plus-bluetooth-plus-802-15-4-partner-modules:WIFI-BLUETOOTH-MODULE-2
+  repositories: []
+name: WIFI-BLUETOOTH-MODULE-2
+ref: nxp/wifi-bluetooth-module-2
+release_date: null
+sku: wifi-bluetooth-module-2
+spec: null
+status: Discontinued
+vendor: nxp

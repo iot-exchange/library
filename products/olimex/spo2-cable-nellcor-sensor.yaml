@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/Biofeedback/SPO2-CABLE-NELLCOR-SENSOR/images/thumbs/200x150/SPO2-SENSOR-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/Biofeedback/SPO2-CABLE-NELLCOR-SENSOR/
+  repositories: []
+name: SPO2-CABLE-NELLCOR-SENSOR
+ref: olimex/spo2-cable-nellcor-sensor
+release_date: null
+sku: spo2-cable-nellcor-sensor
+spec: null
+status: ''
+vendor: olimex

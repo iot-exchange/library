@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: ESP32-DU1906-U is an industry-leading AIoT voice module powered by Espressif's
+  flagship chip ESP32-D0WD-V3 and Baidu's HongHu voice chip DU1906.
+extra:
+  Antenna: IPEX antenna connector
+  Chip Embedded: ESP32-D0WD-V3
+  Development Board: ESP32-Korvo-DU1906
+  Dimensions (mm): "22\xD735.5\xD73.5"
+  Flash (MB): '8'
+  PSRAM (MB): '8'
+  Pins: '66'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp32-du1906_esp32-du1906-u_datasheet_cn.pdf
+  repositories: []
+name: ESP32-DU1906-U
+ref: espressif/esp32-du1906-u
+release_date: null
+sku: esp32-du1906-u
+spec: null
+status: End of Life
+vendor: espressif

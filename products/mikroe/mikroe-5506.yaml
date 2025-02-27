@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: DISCON Connector Bundle allows you to quickly create various display
+  applications based on a wide range of technologies, such as capacitive or resistive
+  touch panels, OLED or...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/discon-connector-bundle/discon-connector-bundle-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/discon-connector-bundle
+  repositories: []
+name: MIKROE-5506
+ref: mikroe/mikroe-5506
+release_date: null
+sku: mikroe-5506
+spec: null
+status: ''
+vendor: mikroe

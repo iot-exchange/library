@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "ADC 26 Click is a compact add-on board for precise analog-to-digital\
+  \ signal conversion. This board features the ADS1015L, a low-power 12-bit ADC with\
+  \ an I2C-compatible interface from Texas Instruments. The ADS1015L features a \u0394\
+  \u03A3 ADC core with an internal voltage reference, programmable gain amplifier\
+  \ (PGA), and digital comparator, capable of measuring..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/adc-26-click/adc-26-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/adc-26-click
+  repositories: []
+name: MIKROE-6416
+ref: mikroe/mikroe-6416
+release_date: null
+sku: mikroe-6416
+spec: null
+status: ''
+vendor: mikroe

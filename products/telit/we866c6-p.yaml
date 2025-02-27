@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/12/TC_WE866C6-P_dyn-235x200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/we866c6-p/
+  repositories: []
+name: WE866C6-P
+ref: telit/we866c6-p
+release_date: null
+sku: we866c6-p
+spec: null
+status: ''
+vendor: telit

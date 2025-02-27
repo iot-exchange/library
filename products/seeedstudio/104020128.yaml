@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Grove - RGB LED Ring (20 - WS2813 Mini)
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.seeedstudio.com/img/af
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2018-12bazaar1007000_perspective.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-RGB-LED-Ring-20-WS2813-Mini-p-104020128.html
+  repositories: []
+name: '104020128'
+ref: seeedstudio/104020128
+release_date: null
+sku: '104020128'
+spec: null
+status: ''
+vendor: seeedstudio

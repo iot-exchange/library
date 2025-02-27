@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: The official Raspberry Pi Micro USB/Male to USB A/Female cable designed
+  for use with Raspberry Pi Zero computers
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/micro-usb-male-to-usb-a-female-cable/
+  repositories: []
+name: Micro USB/Male to USB A/Female cable
+ref: raspberrypi/micro-usb-male-to-usb-a-female-cable
+release_date: null
+sku: micro-usb-male-to-usb-a-female-cable
+spec: null
+status: ''
+vendor: raspberrypi

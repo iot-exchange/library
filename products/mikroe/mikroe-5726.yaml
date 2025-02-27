@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Click boards Stand, measuring 220x266mm, is a meticulously crafted PCB\
+  \ board designed to house up to 35 Click boards\u2122. Its high-quality PCB material\
+  \ ensures both durability and an attractive appearance in a sleek white design.\
+  \ An array of 35 mikroBUS\u2122 sockets (5 rows per 7 sockets) offers effortless\
+  \ compatibility for various Click board\u2122 functionalities,..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/click-boards-stand-35-units/click-boards-stand-35-units-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/click-boards-stand-35-units
+  repositories: []
+name: MIKROE-5726
+ref: mikroe/mikroe-5726
+release_date: null
+sku: mikroe-5726
+spec: null
+status: ''
+vendor: mikroe

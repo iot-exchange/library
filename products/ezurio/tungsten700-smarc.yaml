@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: "As Low As $96\nChipset (MPU)\n2x Cortex-A78 @ up to 2.2 GHz + 6x Cortex-A55\
+  \ @ up to 2.0 GHz (MediaTek Genio 700) \nWireless Specification\nWi-Fi 6 (802.11ax)\
+  \ Bluetooth 5.4 \nDimensions (L x W)\n82 x 50 mm"
+extra:
+  Chipset (MPU): 2x Cortex-A78 @ up to 2.2 GHz + 6x Cortex-A55 @ up to 2.0 GHz (MediaTek
+    Genio 700)
+  Dimensions (L x W): 82 x 50 mm
+  Wireless Specification: Wi-Fi 6 (802.11ax) Bluetooth 5.4
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-09/Tungsten%20700%20-%20MT320%20M1.2-1420%20-%20Front.png
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-09/Tungsten%20700%20-%20MT320%20M.2-1420%20-%20Front.png
+  models: []
+  products:
+  - https://www.ezurio.com/product/tungsten700-smarc
+  repositories: []
+name: Tungsten700 SMARC
+ref: ezurio/tungsten700-smarc
+release_date: null
+sku: tungsten700-smarc
+spec: null
+status: ''
+vendor: ezurio

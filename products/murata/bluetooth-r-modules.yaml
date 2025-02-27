@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/search/productsearch?cate=cgsubBluetoothModules
+  repositories: []
+name: "Bluetooth\xAE Modules"
+ref: murata/bluetooth-r-modules
+release_date: null
+sku: bluetooth-r-modules
+spec: null
+status: ''
+vendor: murata

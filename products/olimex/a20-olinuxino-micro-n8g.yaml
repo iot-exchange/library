@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  10+ pcs: 50.35 EUR
+  50+ pcs: 47.70 EUR
+  Price: 53.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-MICRO/images/thumbs/200x150/A20-OLINUXINO-MICRO-i.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-MICRO-n8G/open-source-hardware
+  repositories: []
+name: A20-OLinuXino-MICRO-n8G
+ref: olimex/a20-olinuxino-micro-n8g
+release_date: null
+sku: a20-olinuxino-micro-n8g
+spec: null
+status: ''
+vendor: olimex

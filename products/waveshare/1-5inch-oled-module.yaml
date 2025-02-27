@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 1.5inch OLED display Module, 128x128 pixels, 16 gray scale, SPI/I2C interface
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.5inch-oled-module-2_4.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.5inch-oled-module-1_4.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/1.5inch-oled-module.htm
+  - https://www.waveshare.com/1.5inch-oled-module.htm "1.5inch OLED display Module,
+    128x128 pixels, 16 gray scale, SPI/I2C interface"
+  repositories: []
+name: 1.5inch OLED Module
+ref: waveshare/1-5inch-oled-module
+release_date: null
+sku: 1-5inch-oled-module
+spec: null
+status: ''
+vendor: waveshare

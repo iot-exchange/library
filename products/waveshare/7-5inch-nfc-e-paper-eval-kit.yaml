@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 7.5inch NFC-Powered e-Paper Evaluation Kit, Wireless Powering & Data
+  Transfer
+extra:
+  Price: $101.27 - $103.99
+  SKU: '17766'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/_/7.5inch-nfc-e-paper-eval-kit-1_3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/7.5inch-nfc-e-paper-eval-kit.htm
+  repositories: []
+name: 7.5inch NFC e-Paper Eval Kit
+ref: waveshare/7-5inch-nfc-e-paper-eval-kit
+release_date: null
+sku: 7-5inch-nfc-e-paper-eval-kit
+spec: null
+status: ''
+vendor: waveshare

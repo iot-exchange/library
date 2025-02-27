@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC2652RB
+  repositories: []
+name: CC2652RB
+ref: ti/cc2652rb
+release_date: null
+sku: cc2652rb
+spec: null
+status: ''
+vendor: ti

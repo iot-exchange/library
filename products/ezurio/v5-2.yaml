@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: LE Power Control - Possible for devices to dynamically optimize the transmission
+  power used in communication.
+extra:
+  Use Case: Improves performance in busy radio environments.
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - ''
+  repositories: []
+name: v5.2
+ref: ezurio/v5-2
+release_date: null
+sku: v5-2
+spec: null
+status: ''
+vendor: ezurio

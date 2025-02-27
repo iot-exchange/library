@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/IC/AXP803/images/thumbs/200x150/AXP803.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/IC/AXP803/
+  repositories: []
+name: AXP803
+ref: olimex/axp803
+release_date: null
+sku: axp803
+spec: null
+status: ''
+vendor: olimex

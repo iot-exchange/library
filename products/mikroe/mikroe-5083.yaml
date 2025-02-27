@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: RTC 16 Click is a compact add-on board that accurately keeps the time
+  of a day. This board features the BU9873, a CMOS real-time clock that has a built-in
+  interrupt generation function from Rohm Semiconductors. The BU9873 provides year,
+  month, day, weekday, hours, minutes, and seconds based on a 32.768kHz quartz crystal.
+  This RTC is connected to the MCU...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rtc-16-click/rtc-16-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/rtc-16-click
+  repositories: []
+name: MIKROE-5083
+ref: mikroe/mikroe-5083
+release_date: null
+sku: mikroe-5083
+spec: null
+status: ''
+vendor: mikroe

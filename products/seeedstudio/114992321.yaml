@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Industrial-Grade Optical Rain Gauge RG-15 measures rainfall volume and
+  intensity accurately and reliably. It features easy-installation and maintenance-free,
+  suitable for applications in weather and climate studies, hydrological network monitoring,
+  and agriculture, and other scenarios that need monitoring rainfall data.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992321_preview-07.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/Rain-Gauge-RG-15-p-4648.html
+  repositories: []
+name: '114992321'
+ref: seeedstudio/114992321
+release_date: null
+sku: '114992321'
+spec: null
+status: ''
+vendor: seeedstudio

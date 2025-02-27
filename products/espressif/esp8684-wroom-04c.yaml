@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: The ESP8684-WROOM-04 module is based on ESP8684, and can be mounted onto
+  the surface of a PCB board. It has 13 GPIOs, and supports UART, I2C, PWM, etc.
+extra:
+  Antenna: PCB antenna
+  Chip Embedded: ESP8684H2ESP8684H4
+  Dimensions (mm): "16\xD724\xD73.1"
+  Flash (MB): 2, 4
+  Pins: '17'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP8684-WROOM-04C%20S_0.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp8684-wroom-04c_datasheet_en.pdf
+  repositories: []
+name: ESP8684-WROOM-04C
+ref: espressif/esp8684-wroom-04c
+release_date: null
+sku: esp8684-wroom-04c
+spec: null
+status: ''
+vendor: espressif

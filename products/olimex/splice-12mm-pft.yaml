@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/SMT/SPLICE-12MM-PFT/images/thumbs/200x150/SPLICE-8MM-PFT-2.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/SMT/SPLICE-12MM-PFT/
+  repositories: []
+name: SPLICE-12MM-PFT
+ref: olimex/splice-12mm-pft
+release_date: null
+sku: splice-12mm-pft
+spec: null
+status: ''
+vendor: olimex

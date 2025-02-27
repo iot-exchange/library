@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Aluminum Alloy Protection Case for Raspberry Pi Zero Series, Fits Zero
+  / Zero 2 W
+extra:
+  SKU: '23027'
+  price: $4.35 - $4.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/stlink-v3minie-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi-zero-case-b-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pi-zero-case-b.htm
+  - https://www.waveshare.com/product/stlink-v3minie.htm
+  repositories: []
+name: PI-ZERO-CASE-B
+ref: waveshare/pi-zero-case-b
+release_date: null
+sku: pi-zero-case-b
+spec: null
+status: ''
+vendor: waveshare

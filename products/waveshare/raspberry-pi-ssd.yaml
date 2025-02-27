@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: official Raspberry Pi SSD, High-speed Solid State Drives, Options for
+  256GB / 512GB, Complies with PCIe Gen 3 standard, Suitable For Raspberry Pi 5
+extra:
+  Multi Options: ''
+  Price: $32.99 -  $48.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-ssd-256g-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/raspberry-pi-ssd-256g.htm
+  repositories: []
+name: Raspberry Pi SSD
+ref: waveshare/raspberry-pi-ssd
+release_date: null
+sku: raspberry-pi-ssd
+spec: null
+status: ''
+vendor: waveshare

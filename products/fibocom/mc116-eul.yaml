@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTECat1-MC116-EUL.html
+  repositories: []
+name: MC116-EUL
+ref: fibocom/mc116-eul
+release_date: null
+sku: mc116-eul
+spec: null
+status: ''
+vendor: fibocom

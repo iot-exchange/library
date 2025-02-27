@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 22.50 EUR
+  discountedPrice2: 20.00 EUR
+  price: 25.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/LINEAR-GUIDE-400MM/images/thumbs/200x150/MGN12L400.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/LINEAR-GUIDE-MGN12-400MM/
+  repositories: []
+name: LINEAR-GUIDE-MGN12-400MM
+ref: olimex/linear-guide-mgn12-400mm
+release_date: null
+sku: linear-guide-mgn12-400mm
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: LoRaWAN GPS Tracker with 9-axis accelerometer. LoRaWAN End Device.
+extra:
+  Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/CN779/IN865
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/1c6c813bb9d5494160041c1c4ee2fb70_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/tracker/item/142-lgt-92.html
+  repositories: []
+name: LoRaWAN GPS Tracker with 9-axis accelerometer-LGT92
+ref: dragino/lorawan-gps-tracker-with-9-axis-accelerometer-lgt92
+release_date: null
+sku: lorawan-gps-tracker-with-9-axis-accelerometer-lgt92
+spec: null
+status: EOL, Replaced by TrackerD
+vendor: dragino

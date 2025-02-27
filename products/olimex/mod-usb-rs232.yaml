@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 4.95 EUR
+  price2: 4.70 EUR
+  price3: 4.46 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/Interface/MOD-USB-RS232/images/thumbs/200x150/MOD-USB-RS232-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/Interface/MOD-USB-RS232/open-source-hardware
+  repositories: []
+name: MOD-USB-RS232
+ref: olimex/mod-usb-rs232
+release_date: null
+sku: mod-usb-rs232
+spec: null
+status: ''
+vendor: olimex

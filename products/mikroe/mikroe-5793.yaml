@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: AM/FM 2 Click is a compact add-on board that can be used to listen to
+  music from the AM and FM radio bands. This board features the Si4732, a broadcast
+  AM/FM/SE/LW/RDS radio receiver from Skyworks. This radio receiver integrates the
+  complete broadcast tuner and receiver function from antenna input to digital audio
+  output. In addition to the radio...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/amfm-2-click/amfm-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/amfm-2-click
+  repositories: []
+name: MIKROE-5793
+ref: mikroe/mikroe-5793
+release_date: null
+sku: mikroe-5793
+spec: null
+status: ''
+vendor: mikroe

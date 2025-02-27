@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrices:
+  - 15.68 EUR
+  - 15.36 EUR
+  - 15.04 EUR
+  - 14.72 EUR
+  price: 16.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/RT5350F/RT5350F-OLinuXino/images/thumbs/200x150/RT5350F-OLinuXino-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/RT5350F/RT5350F-OLinuXino/open-source-hardware
+  repositories: []
+name: RT5350F-OLinuXino
+ref: olimex/rt5350f-olinuxino
+release_date: null
+sku: rt5350f-olinuxino
+spec: null
+status: ''
+vendor: olimex

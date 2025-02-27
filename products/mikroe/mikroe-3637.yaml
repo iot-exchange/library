@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: EnOcean 4 Click carries a ultra-low power TCM515U transceiver gateway
+  module which operates at 902MHz radio band, perfectly suited for the realization
+  of transceiver gateways, actuators and controllers for systems communicating based
+  on the EnOcean radio standard.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/enocean-4-click/enocean-4-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/enocean-4-click
+  repositories: []
+name: MIKROE-3637
+ref: mikroe/mikroe-3637
+release_date: null
+sku: mikroe-3637
+spec: null
+status: ''
+vendor: mikroe

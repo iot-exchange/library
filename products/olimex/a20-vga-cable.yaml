@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  10+ pcs: 2.70 EUR
+  50+ pcs: 2.40 EUR
+  Price: 3.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Cables/A20-VGA-CABLE/images/thumbs/200x150/A20-VGA-CABLE.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Cables/A20-VGA-CABLE/
+  repositories: []
+name: A20-VGA-CABLE
+ref: olimex/a20-vga-cable
+release_date: null
+sku: a20-vga-cable
+spec: null
+status: ''
+vendor: olimex

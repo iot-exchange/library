@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Added 80 and 160MHz channel width
+extra:
+  Bandwidth: More channels in a cleaner spectrum
+  Bandwidth and Range: Improved communication
+  Channel Capacity Improvement: 10%
+  Link Rate: 3.5Gbps
+  Maximum Link Rate: 3.5 Gb/s
+  Use Case: Separation of public and private networks in medical facilities.
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: Wi-Fi 5
+ref: ezurio/wi-fi-5
+release_date: null
+sku: wi-fi-5
+spec: null
+status: ''
+vendor: ezurio

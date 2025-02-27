@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/5GRedCap-FG132.html
+  repositories: []
+name: FG132
+ref: fibocom/fg132
+release_date: null
+sku: fg132
+spec: null
+status: ''
+vendor: fibocom

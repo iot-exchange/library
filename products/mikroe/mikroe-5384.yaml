@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Thermo 26 Click is a compact add-on board that accurately measures temperature.\
+  \ This board features the STS31-DIS, a high-accuracy digital temperature sensor\
+  \ from Sensirion. Characterized by its high accuracy (up to \xB10.2\xB0C typical)\
+  \ and high resolution of 0.01\xB0C, the STS31-DIS provides temperature data to the\
+  \ host controller with a configurable I2C..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thermo-26-click/thermo-26-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/thermo-26-click
+  repositories: []
+name: MIKROE-5384
+ref: mikroe/mikroe-5384
+release_date: null
+sku: mikroe-5384
+spec: null
+status: ''
+vendor: mikroe

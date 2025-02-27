@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 44.06 EUR
+  discountedPrice2: 39.16 EUR
+  price: 48.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-P2129/images/thumbs/200x150/LPC-P2129-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-P2129/
+  repositories: []
+name: LPC-P2129
+ref: olimex/lpc-p2129
+release_date: null
+sku: lpc-p2129
+spec: null
+status: ''
+vendor: olimex

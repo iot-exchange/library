@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: The SX1301 device is the baseband signal processor for LoRa gateways.
+  It takes 32 MHz, 1-bit I/Q digital baseband samples as an input.
+extra:
+  '# OF MULTI-DR MODEMS': '8'
+  Data Rates: 800-300Kbps
+  FSK Modems: '1'
+  Fine-Timing: 'No'
+  Generation: '1'
+  Operational Current (mA): 100mA
+  Sensitivity (dBm): -139dBm
+  Spreading Factors: SF7-12
+  Temp Range (C): -40 - +85
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.semtech.com/products/wireless-rf/lora-core/sx1301
+  repositories: []
+name: SX1301
+ref: semtech/sx1301
+release_date: null
+sku: sx1301
+spec: null
+status: NRND
+vendor: semtech

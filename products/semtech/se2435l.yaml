@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: 'SE2435L RF front-end uses two power rails: 3.3 V (VCC0) and 2.0 V (VCC1
+  and VCC2).'
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: SE2435L
+ref: semtech/se2435l
+release_date: null
+sku: se2435l
+spec: null
+status: ''
+vendor: semtech

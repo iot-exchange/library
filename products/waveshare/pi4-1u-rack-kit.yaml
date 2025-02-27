@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "1U Rack Kit for Raspberry Pi 4, 19\u2033 Rackmount, up to 4 Units"
+extra:
+  SKU: '21439'
+  price: $49.59  -  $52.99
+  sku: '21439'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-1u-rack-kit-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pi4-1u-rack-kit.htm
+  repositories: []
+name: PI4-1U-RACK-KIT
+ref: waveshare/pi4-1u-rack-kit
+release_date: null
+sku: pi4-1u-rack-kit
+spec: null
+status: ''
+vendor: waveshare

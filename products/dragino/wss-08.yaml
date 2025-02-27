@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Pulse Output, each pulse , 0.1mmOptical Rain Guage for WSC2-L
+extra:
+  Catalog: Agriculture & Weather Station
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/c1a11e28afb03c9d81c096faa0a5ce8e_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/agriculture-weather-station/item/340-wss-08.html
+  repositories: []
+name: WSS-08
+ref: dragino/wss-08
+release_date: null
+sku: wss-08
+spec: null
+status: ''
+vendor: dragino

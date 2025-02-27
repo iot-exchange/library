@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: SX1301 UDP packet forwarder and hardware abstraction layer for v1.0 and
+  v1.5 reference designs
+extra:
+  Product Applicability: SX1301, SX1257
+  Type: Packet Forwarder
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://github.com/Lora-net/lora_gateway
+  repositories: []
+name: LoRa_Gateway
+ref: semtech/lora-gateway
+release_date: null
+sku: lora-gateway
+spec: null
+status: NRND
+vendor: semtech

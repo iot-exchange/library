@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/10/TC_LN920_dyn_236_200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/ln920-series/
+  repositories: []
+name: LN920 Series
+ref: telit/ln920-series
+release_date: null
+sku: ln920-series
+spec: null
+status: ''
+vendor: telit

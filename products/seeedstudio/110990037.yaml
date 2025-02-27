@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Grove Female Header - DIP-4P-2.0mm-90D-10 Pcs
+extra:
+  specification: This is a 4-pin, 2.0mm pitch, DIP Grove Female Header pack with 10pcs,
+    which is suitable to perform wire transfers and get your board to connect to components
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductuni4901s.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-Universal-4-pin-connector-90-10-PCs.html
+  repositories: []
+name: '110990037'
+ref: seeedstudio/110990037
+release_date: null
+sku: '110990037'
+spec: null
+status: ''
+vendor: seeedstudio

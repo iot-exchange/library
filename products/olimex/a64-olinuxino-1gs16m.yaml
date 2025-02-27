@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  10+ pcs: 36.10 EUR
+  50+ pcs: 34.20 EUR
+  Price: 38.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A64/A64-OLinuXino/images/thumbs/200x150/A64-OLinuXino-EA.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/A64/A64-OLinuXino-1Gs16M/open-source-hardware
+  repositories: []
+name: A64-OLinuXino-1Gs16M
+ref: olimex/a64-olinuxino-1gs16m
+release_date: null
+sku: a64-olinuxino-1gs16m
+spec: null
+status: ''
+vendor: olimex

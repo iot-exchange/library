@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Tester 2 Click is a diagnostic Click board\u2122 designed for real-time\
+  \ visual monitoring of mikroBUS\u2122 pin logic levels. It features a 2x6 LED array\
+  \ controlled by SI2310 N-channel MOSFETs, providing reliable feedback on pin states\
+  \ and additional LEDs for monitoring the activity of +3.3V and +5V power rails.\
+  \ The board also includes a ClickID switch for using..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/tester-2-click/tester-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/tester-2-click
+  repositories: []
+name: MIKROE-6466
+ref: mikroe/mikroe-6466
+release_date: null
+sku: mikroe-6466
+spec: null
+status: ''
+vendor: mikroe

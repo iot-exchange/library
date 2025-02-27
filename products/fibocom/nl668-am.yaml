@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Bands: 'LTE: B2/4/5/12/13/17/66/71'
+  Form Factor: LGA / LCC
+  Region: North America
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTECat-NL668-AM.html
+  repositories: []
+name: NL668-AM
+ref: fibocom/nl668-am
+release_date: null
+sku: nl668-am
+spec: null
+status: ''
+vendor: fibocom

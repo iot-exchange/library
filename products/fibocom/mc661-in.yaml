@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTECat1-MC661-IN.html
+  repositories: []
+name: MC661-IN
+ref: fibocom/mc661-in
+release_date: null
+sku: mc661-in
+spec: null
+status: ''
+vendor: fibocom

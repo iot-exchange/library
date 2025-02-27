@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 4G premium module for global use with extensive LTE band support.
+extra:
+  Bands: 'LTE: B1/B2/B3/B4/B5/B7/B8/B12/B13/B14/B17/B18/B19/B20/B25/B26/B28/B66/B71'
+  Form Factor: LGA / LCC
+  Region: Global
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTE-SC228.html
+  repositories: []
+name: SC228
+ref: fibocom/sc228
+release_date: null
+sku: sc228
+spec: null
+status: ''
+vendor: fibocom

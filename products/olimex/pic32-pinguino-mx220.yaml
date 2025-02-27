@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 5.36 EUR
+  discountedPrice2: 4.76 EUR
+  price: 5.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Duino/PIC32/PIC32-PINGUINO-MX220/images/thumbs/200x150/PIC32-PINGUINO-MX220-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Duino/PIC32/PIC32-PINGUINO-MX220/open-source-hardware
+  repositories: []
+name: PIC32-PINGUINO-MX220
+ref: olimex/pic32-pinguino-mx220
+release_date: null
+sku: pic32-pinguino-mx220
+spec: null
+status: ''
+vendor: olimex

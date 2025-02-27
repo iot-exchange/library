@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Industrial Isolated USB To 4-Ch RS232 Converter, USB To Serial Adapter,
+  Original FT4232HL Chip, Mac / Linux / Android / Windows Multi-OS Compatible
+extra:
+  Price: $32.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-4ch-rs232-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/usb-to-4ch-rs232.htm
+  repositories: []
+name: usb_to_4ch_rs232
+ref: waveshare/usb-to-4ch-rs232
+release_date: null
+sku: usb-to-4ch-rs232
+spec: null
+status: ''
+vendor: waveshare

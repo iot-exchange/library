@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "Fingerprint 3 Click is an adapter Click board\u2122, used to interface\
+  \ a compatible Fingerprint Sensor with Two-Color LED Ring with the host MCU. This\
+  \ Click board\u2122 allows users to secure their projects with a biometric all-in-one\
+  \ fingerprint sensor that will make fingerprint detection and verification super\
+  \ simple. There is a wide range of applications, where..."
+extra:
+  Price: $7.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/fingerprint-3-click/fingerprint-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/fingerprint-3-click
+  repositories: []
+name: MIKROE-4265
+ref: mikroe/mikroe-4265
+release_date: null
+sku: mikroe-4265
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "4.3inch QLED Display, DSI Interface, 800 \xD7 480, Integrated Structure,\
+  \ Toughened Glass Panel"
+extra:
+  Price: $43.95 - $45.99
+  SKU: '24783'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/_/4.3inch-dsi-qled-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/4.3inch-dsi-qled.htm
+  repositories: []
+name: 4.3inch DSI QLED
+ref: waveshare/4-3inch-dsi-qled
+release_date: null
+sku: 4-3inch-dsi-qled
+spec: null
+status: ''
+vendor: waveshare

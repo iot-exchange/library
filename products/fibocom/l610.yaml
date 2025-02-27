@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: Fibocom LTE Cat 1 modules are designed for medium-rate IoT connections,
+  covering the network frequency bands of major operators in Asia, Europe and Latin
+  America.
+extra:
+  Capabilities: Reliable and secure coverage, surpassing NB-IoT modules.
+  Cost-Efficiency: Cost-effective solution compared to 5G communication.
+  Data Speeds: Designed for medium data speeds suitable for various IoT applications.
+  Form Factor: Available in LCC+LGA and MiniPCIe packages.
+  Global Coverage: Supports multi-band frequencies for global IoT solutions.
+  Network Compatibility: Supports 4G LTE networks with backward compatibility with
+    3G and 2G.
+  Power Efficiency: Built with power-saving technology for battery-operated devices.
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.fibocom.com/uploadfiles/2020/06/20200628171729737.png?5Lqn5ZOB5Lqu54K55Lqn5ZOB5Zu+TDYxMC5wbmc=
+  models: []
+  products:
+  - https://www.fibocom.com/en/products/LTECat1-L610-EU.html
+  repositories: []
+name: L610
+ref: fibocom/l610
+release_date: null
+sku: l610
+spec: null
+status: ''
+vendor: fibocom

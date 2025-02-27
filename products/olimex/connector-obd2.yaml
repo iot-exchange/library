@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Connectors/CONNECTOR-OBD2/images/thumbs/200x150/CON-OBD2-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Connectors/CONNECTOR-OBD2/
+  repositories: []
+name: CONNECTOR-OBD2
+ref: olimex/connector-obd2
+release_date: null
+sku: connector-obd2
+spec: null
+status: ''
+vendor: olimex

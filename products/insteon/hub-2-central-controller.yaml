@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Regular price: $99.95
+  Sale price: $99.95
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/sli-clp-msi-insteon-hub-1000x1000-1a-2019-7-1_59e40699-d8b0-48e6-97b5-1a7da9aee1f6.png?v=1660780135&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/hub-2-central-controller
+  repositories: []
+name: Hub 2 Central Controller
+ref: insteon/hub-2-central-controller
+release_date: null
+sku: hub-2-central-controller
+spec: null
+status: ''
+vendor: insteon

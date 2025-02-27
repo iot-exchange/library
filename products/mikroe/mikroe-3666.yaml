@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: WiFi 9 Click is fully embedded stand-alone Wi-Fi module, equipped with
+  the PAN9420 a 2.4 GHz ISM band Wi-Fi-embedded module which includes a wireless radio
+  and an MCU for easy integration of Wi-Fi connectivity into various electronic devices.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/wifi-9-click/wifi-9-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/wifi-9-click
+  repositories: []
+name: MIKROE-3666
+ref: mikroe/mikroe-3666
+release_date: null
+sku: mikroe-3666
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 37.95 EUR
+  discountedPrice2: 35.96 EUR
+  price: 39.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-P2378/images/thumbs/200x150/LPC-P2378-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-P2378/
+  repositories: []
+name: LPC-P2378
+ref: olimex/lpc-p2378
+release_date: null
+sku: lpc-p2378
+spec: null
+status: ''
+vendor: olimex

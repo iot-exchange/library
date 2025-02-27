@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Compass 7 Click is a compact add-on board perfect for applications like\
+  \ an electronic compass. This board features the MMC5633NJL, a monolithic complete\
+  \ 3-axis AMR magnetic sensor with on-chip signal processing and an integrated digital\
+  \ bus from MEMSIC. It can measure magnetic fields within the full-scale range of\
+  \ \xB130 Gauss (G) with up to 0.0625mG per LSB..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/compass-7-click/compass-7-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/compass-7-click
+  repositories: []
+name: MIKROE-5190
+ref: mikroe/mikroe-5190
+release_date: null
+sku: mikroe-5190
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: LR 10 Click is a compact add-on board designed for the Internet of Things
+  (IoT) applications requiring low power consumption and long-range connectivity.
+  This board features the Wio-E5, a LoRa wireless module from Seeed Technology.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lr-10-click/lr-10-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/lr-10-click
+  repositories: []
+name: MIKROE-5986
+ref: mikroe/mikroe-5986
+release_date: null
+sku: mikroe-5986
+spec: null
+status: ''
+vendor: mikroe

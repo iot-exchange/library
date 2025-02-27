@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Secure 7 Click carries the ATECC608A cryptographic coprocessor with secure
+  hardware-based key storage, from Microchip. The ATECC608A includes an EEPROM array
+  which can be used for storage of up to 16 keys, certificates, miscellaneous read/write,
+  read-only or secret data, consumption logging, and security configurations. The
+  ATECC608A equipped on this...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/secure-7-click/secure-7-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=115#Secure-7-Click
+  repositories: []
+name: MIKROE-3915
+ref: mikroe/mikroe-3915
+release_date: null
+sku: mikroe-3915
+spec: null
+status: ''
+vendor: mikroe

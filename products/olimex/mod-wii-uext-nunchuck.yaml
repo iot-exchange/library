@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 6.95 EUR
+  price2: 6.26 EUR
+  price3: 5.56 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/Sensors/MOD-WII/MOD-Wii-UEXT-NUNCHUCK/images/thumbs/200x150/MOD-WII-NUNCHUK.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/Sensors/MOD-WII/MOD-Wii-UEXT-NUNCHUCK/open-source-hardware
+  repositories: []
+name: MOD-Wii-UEXT-NUNCHUCK
+ref: olimex/mod-wii-uext-nunchuck
+release_date: null
+sku: mod-wii-uext-nunchuck
+spec: null
+status: ''
+vendor: olimex

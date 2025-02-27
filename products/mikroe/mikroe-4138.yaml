@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Stepper 10 Click is a compact add-on board that controls one stepper
+  motor with a PWM constant current drive. This board features the TB67S128FTG, a
+  two-phase bipolar stepping motor driver from Toshiba Semiconductor. It is fabricated
+  using a BiCD process with an output rating of 50V/5A and a built-in decoder that
+  can supply the motor with a voltage of up...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/stepper-10-click/stepper-10-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/stepper-10-click
+  repositories: []
+name: MIKROE-4138
+ref: mikroe/mikroe-4138
+release_date: null
+sku: mikroe-4138
+spec: null
+status: ''
+vendor: mikroe

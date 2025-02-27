@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: "7inch Capacitive Touch Display, Wide Color Gamut, 1280\xD7800, Optical\
+  \ Bonding Toughened Glass Panel, HDMI/Type-C Display Interface, 10-Point Touch"
+extra:
+  Price: $82.27 -  $84.99
+  Price Range: $82.27 - $84.99
+  SKU: '28606'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/e/7ep-caplcd-monitor-2.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/e/7ep-caplcd-monitor-1.jpg
+  models: []
+  products:
+  - "https://www.waveshare.com/product/7ep-caplcd-monitor.htm \"7inch Capacitive Touch\
+    \ Display, Wide Color Gamut, 1280\xD7800, Optical Bonding Toughened Glass Panel,\
+    \ HDMI/Type-C Display Interface, 10-Point Touch\""
+  - https://www.waveshare.com/product/7ep-caplcd-monitor.htm
+  repositories: []
+name: 7EP-CAPLCD Monitor
+ref: waveshare/7ep-caplcd-monitor
+release_date: null
+sku: 7ep-caplcd-monitor
+spec: null
+status: ''
+vendor: waveshare

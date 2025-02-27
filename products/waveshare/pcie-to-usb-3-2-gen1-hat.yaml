@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: PCIe To USB 3.2 Gen1 HAT for Raspberry Pi 5, PCIe to USB HUB, 4x High
+  Speed USB Ports, driver-free, plug and play, HAT + Standard
+extra:
+  Price: $19.31 - $19.99
+  SKU: '26847'
+  price: $19.31  -  $19.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-gigabit-eth-board-c-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-usb-3.2-gen1-hat-plus-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pcie-to-gigabit-eth-board-c.htm
+  - https://www.waveshare.com/product/pcie-to-usb-3.2-gen1-hat-plus.htm
+  - https://www.waveshare.com/product/pcie-to-usb-3.2-gen1-hat-plus.htm "PCIe To USB
+    3.2 Gen1 HAT for Raspberry Pi 5, PCIe to USB HUB, 4x High Speed USB Ports, driver-free,
+    plug and play, HAT + Standard"
+  repositories: []
+name: PCIe TO USB 3.2 Gen1 HAT+
+ref: waveshare/pcie-to-usb-3-2-gen1-hat
+release_date: null
+sku: pcie-to-usb-3-2-gen1-hat
+spec: null
+status: ''
+vendor: waveshare

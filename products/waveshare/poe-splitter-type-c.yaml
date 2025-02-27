@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Industrial Gigabit PoE Splitter, Metal Case protection, 5V 2.5A Type-C
+  Out
+extra:
+  Price: $16.31 - $16.99
+  SKU: '20987'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/o/poe-splitter-type-c-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/poe-splitter-type-c.htm "Industrial Gigabit
+    PoE Splitter, Metal Case protection, 5V 2.5A Type-C Out"
+  - https://www.waveshare.com/product/poe-splitter-type-c.htm
+  repositories: []
+name: POE-SPLITTER-TYPE-C
+ref: waveshare/poe-splitter-type-c
+release_date: null
+sku: poe-splitter-type-c
+spec: null
+status: ''
+vendor: waveshare

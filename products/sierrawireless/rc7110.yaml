@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Americas (AT&T, Verizon, Anterix)
+extra:
+  Bands: 'LTE: B2, B4, B8, B12, B13, B66'
+  Edge Processing: "\u2013"
+  Fallback: "\u2013"
+  Region (Carrier): Americas (AT&T, Verizon, Anterix)
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.sierrawireless.com/iot-modules/smart-modules/rc7110/
+  repositories: []
+name: RC7110
+ref: sierrawireless/rc7110
+release_date: null
+sku: rc7110
+spec: null
+status: ''
+vendor: sierrawireless

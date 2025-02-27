@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Waveshare RP2350-One, Onboard PCB Type-A Plug, 4MB Flash MCU Board Based
+  On Raspberry Pi RP2350A Dual-core & Dual-architecture Microcontroller
+extra:
+  Price: $5.65 - $5.99
+  SKU: '29453'
+  price: $5.65  -  $5.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2350-one-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2350-one-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rp2350-one.htm
+  repositories: []
+name: RP2350-One
+ref: waveshare/rp2350-one
+release_date: null
+sku: rp2350-one
+spec: null
+status: ''
+vendor: waveshare

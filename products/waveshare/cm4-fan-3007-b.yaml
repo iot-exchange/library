@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Dedicated All-in-One 3007 Cooling Fan for Raspberry Pi Compute Module
+  4 CM4, Speed Adjustable, with Thermal Tapes
+extra:
+  Price: $7.31 - $7.99
+  SKU: '22096'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-fan-3007-b-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-fan-3007-b-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/cm4-fan-3007-b.htm
+  repositories: []
+name: CM4-FAN-3007-B
+ref: waveshare/cm4-fan-3007-b
+release_date: null
+sku: cm4-fan-3007-b
+spec: null
+status: ''
+vendor: waveshare

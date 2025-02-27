@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: SOP8 TO DIP8 2-Units, Programmer Adapter
+extra:
+  Price: $26.59 - $29.99
+  SKU: '3049'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/o/sop8-to-dip8-2-units_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/sop8-to-dip8-2-units.htm
+  repositories: []
+name: SOP8 TO DIP8 2-Units
+ref: waveshare/sop8-to-dip8-2-units
+release_date: null
+sku: sop8-to-dip8-2-units
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: TSL25911 High Sensitivity Digital Ambient Light Sensor, I2C Interface
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/s/tsl25911-light-sensor-5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/tsl25911-light-sensor.htm
+  repositories: []
+name: TSL25911
+ref: waveshare/tsl25911
+release_date: null
+sku: tsl25911
+spec: null
+status: ''
+vendor: waveshare

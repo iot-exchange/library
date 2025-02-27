@@ -1,0 +1,50 @@
+alternatives: []
+certifications: []
+description: Consumer equipment, Industrial Equipment
+extra:
+  Bluetooth: 'No'
+  Chipset: CYW43364
+  Dimension: 6.95 x 5.15 x 1.1 mm
+  ETSI Report: 'Yes'
+  FCC/ISED Certified: 'Yes'
+  Frequency: 2.4GHz
+  Grade: Consumer
+  Host Interface (802.15.4): 'No'
+  Host Interface (Bluetooth): 'No'
+  Host Interface (Wi-Fi): SDIO
+  IC Manufacturer: Infineon
+  Integrated Antenna: 'No'
+  Interface Voltage: 1.8V,3.3V
+  MIC (Japan) Certified: 'Yes'
+  Mounting Type: SMT
+  Operating Temperature (degC): "-30\u2103 to 70\u2103"
+  Package: Shielded Resin
+  Packaging: Tape and Reel
+  Peripheral Interface: 'No'
+  Platform: ''
+  Processor: Linux,WICED
+  Receive Mode Current: 60mA
+  RoHS Support: 'Yes'
+  Sleep Mode Current (Bluetooth): ''
+  Sleep Mode Current (Wi-Fi): ''
+  Supply Voltage: 3.35V to 4.2V
+  Technology: Wi-Fi
+  Transmit Mode Current (Bluetooth): ''
+  Transmit Mode Current (Wi-Fi): 370mA @ 11Mbps
+  Wi-Fi: Wi-Fi 4
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth#series-lineup
+  - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth#product-lineup
+  repositories: []
+name: Type 1FX
+ref: murata/type-1fx
+release_date: null
+sku: type-1fx
+spec: null
+status: ''
+vendor: murata

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Battery Source Click is a compact add-on board designed to boost power
+  from a battery for portable applications. This board features the TPS81256, a high-efficiency
+  step-up converter from Texas Instruments. The board boosts input voltage (2.5V to
+  5.5V) to 5V/1A on a USB Type-C connector. It operates at a 4MHz switching frequency,
+  enters Power-Save mode at...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.mikroe.com/battery-source-click
+  repositories: []
+name: MIKROE-6090
+ref: mikroe/mikroe-6090
+release_date: null
+sku: mikroe-6090
+spec: null
+status: ''
+vendor: mikroe

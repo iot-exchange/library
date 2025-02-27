@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/matter/selector-guide
+  repositories: []
+name: Matter SoC and Module Selector Guide
+ref: silicon-labs/matter-soc-and-module-selector-guide
+release_date: null
+sku: matter-soc-and-module-selector-guide
+spec: null
+status: ''
+vendor: silicon-labs

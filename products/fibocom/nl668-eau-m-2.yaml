@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Bands: 'LTE: B1/3/5/7/8/20/28/38/40/41'
+  Form Factor: M.2
+  Region: APAC, Europe, Australia
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTECat-NL668-EAU-M.2.html
+  repositories: []
+name: NL668-EAU-M.2
+ref: fibocom/nl668-eau-m-2
+release_date: null
+sku: nl668-eau-m-2
+spec: null
+status: ''
+vendor: fibocom

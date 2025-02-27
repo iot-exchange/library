@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Compass 8 Click is a compact add-on board designed for precise compass
+  applications. This board features the AK09919, a 3-axis electronic compass IC from
+  AKM Semiconductor.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/compass-8-click/compass-8-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/compass-8-click
+  repositories: []
+name: MIKROE-6099
+ref: mikroe/mikroe-6099
+release_date: null
+sku: mikroe-6099
+spec: null
+status: ''
+vendor: mikroe

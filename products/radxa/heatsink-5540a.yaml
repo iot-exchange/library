@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Specialized for Radxa Compute Module
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/heatsink/ae005a/thumb_heatsink_5540a.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/heatsink-5540a
+  repositories: []
+name: Heatsink 5540A
+ref: radxa/heatsink-5540a
+release_date: null
+sku: heatsink-5540a
+spec: null
+status: ''
+vendor: radxa

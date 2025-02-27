@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: "H-Bridge 17 Click is a compact add-on board for driving brushed DC motors,\
+  \ solenoids, and actuators. This board features the MP6619L, an H-bridge motor driver\
+  \ IC from MPS, capable of delivering high motor currents while operating from a\
+  \ wide supply voltage range of 2.5V to 28V. This Click board\u2122 features flexible\
+  \ control via mikroBUS\u2122 pins, configurable..."
+extra:
+  PID: MIKROE-6051
+  Price: $18.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gnss-9-click/gnss-9-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/h-bridge-17-click/h-bridge-17-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/gnss-9-click
+  - https://www.mikroe.com/h-bridge-17-click
+  repositories: []
+name: MIKROE-6051
+ref: mikroe/mikroe-6051
+release_date: null
+sku: mikroe-6051
+spec: null
+status: ''
+vendor: mikroe

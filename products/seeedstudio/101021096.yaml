@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: The Grove - D7S Vibration Sensor is an earthquake detection module that
+  provides real-time monitoring of seismic activities. It uses a high-precision accelerometer
+  and advanced earthquake algorithms to detect and classify various types of vibrations
+  based on their severity.
+extra:
+  Price: $39.95
+  Type: Vibration Sensor
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101021096_d7s-vibration-sensor-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-D7S-Vibration-Sensor-p-5701.html
+  repositories: []
+name: '101021096'
+ref: seeedstudio/101021096
+release_date: null
+sku: '101021096'
+spec: null
+status: ''
+vendor: seeedstudio

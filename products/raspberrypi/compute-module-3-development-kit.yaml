@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: The Compute Module Development Kit for industrial designs using CM3+,
+  also compatible with CM3
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/692d80437e77df1ce6cc3ee34cdffe1c/3f4ea/f9f6f1a2077642df08aaf872277c84c959d0867d_cm303.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/compute-module-development-kit-2/
+  repositories: []
+name: Compute Module 3+ Development Kit
+ref: raspberrypi/compute-module-3-development-kit
+release_date: null
+sku: compute-module-3-development-kit
+spec: null
+status: ''
+vendor: raspberrypi

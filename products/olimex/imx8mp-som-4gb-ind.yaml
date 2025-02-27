@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  100+ pcs: 67.20 EUR
+  1000+ pcs: 64.40 EUR
+  50+ pcs: 68.60 EUR
+  500+ pcs: 65.80 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/SOM/NXP-iMX8/iMX8MP-SOM-4GB-IND/images/thumbs/200x150/imx8mp-som.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/SOM/NXP-iMX8/iMX8MP-SOM-4GB-IND/open-source-hardware
+  repositories: []
+name: iMX8MP-SOM-4GB-IND
+ref: olimex/imx8mp-som-4gb-ind
+release_date: null
+sku: imx8mp-som-4gb-ind
+spec: null
+status: ''
+vendor: olimex

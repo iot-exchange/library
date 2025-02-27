@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 7.20 EUR
+  discountedPrice2: 6.40 EUR
+  price: 8.00 EUR
+  price1: 8.00 EUR
+  price2: 7.20 EUR
+  price3: 6.40 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/KITS/ROBOT-2WDL-KIT/images/thumbs/200x150/kit.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/KITS/ROBOT-2WDL-KIT/
+  repositories: []
+name: ROBOT-2WDL-KIT
+ref: olimex/robot-2wdl-kit
+release_date: null
+sku: robot-2wdl-kit
+spec: null
+status: ''
+vendor: olimex

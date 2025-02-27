@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "One Shot Click is equipped with the monostable multivibrator (also known\
+  \ as a \u201Cone-shot\u201D pulse generator) with a programmable pulse width of\
+  \ 1\u03BCs to 33.6 seconds. The used LTC6993-2 is part of the TimerBlox\xAE family\
+  \ of versatile silicon timing devices, from Analog Devices. In addition to this,\
+  \ One Shot Click also offers configurability for either positive..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/one-shot-click/one-shot-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=115#One-Shot-Click
+  repositories: []
+name: MIKROE-3877
+ref: mikroe/mikroe-3877
+release_date: null
+sku: mikroe-3877
+spec: null
+status: ''
+vendor: mikroe

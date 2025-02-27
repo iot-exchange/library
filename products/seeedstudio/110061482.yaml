@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: A hand-sized edge AI box with 0.5 TFLOPs of power, built with the NVIDIA
+  Jetson Nano 4GB production module. It features a rich set of IOs, an aluminum case,
+  a passive heatsink, pre-built Jetpack 4.6.1, onboard 16 GB eMMC, 2x SCI, 4x USB
+  3, M.2 Key M, HDMI, and DP.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110061381_2.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/reComputer-J2021-w-o-power-adapter-p-5607.html
+  - https://www.seeedstudio.com/reComputer-J1020-v2-w-o-power-adapter-p-5608.html
+  repositories: []
+name: '110061482'
+ref: seeedstudio/110061482
+release_date: null
+sku: '110061482'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/PIC/Programmers/PIC-PG3/images/thumbs/200x150/PIC-PG3.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/PIC/Programmers/PIC-PG3/
+  repositories: []
+name: PIC-PG3
+ref: olimex/pic-pg3
+release_date: null
+sku: pic-pg3
+spec: null
+status: ''
+vendor: olimex

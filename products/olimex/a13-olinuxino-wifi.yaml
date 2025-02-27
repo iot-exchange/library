@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  10+ pcs: 42.75 EUR
+  50+ pcs: 40.50 EUR
+  Price: 45.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A13/A13-OLinuXino/images/thumbs/200x150/A13-OLinuXino-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/A13/A13-OLinuXino-WIFI/open-source-hardware
+  repositories: []
+name: A13-OLinuXino-WIFI
+ref: olimex/a13-olinuxino-wifi
+release_date: null
+sku: a13-olinuxino-wifi
+spec: null
+status: ''
+vendor: olimex

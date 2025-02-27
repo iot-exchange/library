@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Keylock 2 Click carries antistatic process sealed keylock mechanism that
+  has three positions. This board is intended to be used for implementation into applications
+  which require mechanical lock mechanism.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/keylock-2-click/keylock-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/keylock-2-click
+  repositories: []
+name: MIKROE-3471
+ref: mikroe/mikroe-3471
+release_date: null
+sku: mikroe-3471
+spec: null
+status: ''
+vendor: mikroe

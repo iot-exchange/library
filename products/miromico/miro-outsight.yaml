@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://miromico.ch/en/products/details/miro-Outsight
+  repositories: []
+name: miro Outsight
+ref: miromico/miro-outsight
+release_date: null
+sku: miro-outsight
+spec: null
+status: ''
+vendor: miromico

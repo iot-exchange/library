@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  100+ pcs: 41.28 EUR
+  1000+ pcs: 39.56 EUR
+  50+ pcs: 42.14 EUR
+  500+ pcs: 40.42 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/SOM/A20/A20-SOM/images/thumbs/200x150/A20-SOM-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/SOM/A20/A20-SOM-e16Gs16M/
+  repositories: []
+name: A20-SOM-e16Gs16M
+ref: olimex/a20-som-e16gs16m
+release_date: null
+sku: a20-som-e16gs16m
+spec: null
+status: ''
+vendor: olimex

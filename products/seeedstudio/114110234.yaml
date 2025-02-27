@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: CM4 Maker Board is a feature-rich carrier board, being the perfect companion
+  for Raspberry Pi CM4 module. There are extensive connectivity like Gigabit Ethernet,
+  CSI, DSI display, 5 Grove ports, M.2 Key M, microSD card slot, JST-SH 4-Ways connector,
+  etc. This carrier board allows you to easily connect and utilize your CM4 module
+  to its fullest potential.
+extra:
+  Price: $56.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114110234-cytron-cm4-maker-board-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Cytron-CM4-Maker-Board-p-5632.html
+  repositories: []
+name: '114110234'
+ref: seeedstudio/114110234
+release_date: null
+sku: '114110234'
+spec: null
+status: ''
+vendor: seeedstudio

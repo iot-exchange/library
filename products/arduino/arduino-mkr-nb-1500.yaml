@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: A board equipped with a NB-IoT radio module.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.arduino.cc/wiki/static/bb1da0ff7c35148935cbbd8eeb059517/5a190/mkr_nb_1500.png
+  models: []
+  products:
+  - https://store.arduino.cc/products/arduino-mkr-nb-1500
+  repositories: []
+name: Arduino MKR NB 1500
+ref: arduino/arduino-mkr-nb-1500
+release_date: null
+sku: arduino-mkr-nb-1500
+spec: null
+status: ''
+vendor: arduino

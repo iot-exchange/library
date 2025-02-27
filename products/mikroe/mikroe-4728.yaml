@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: SiBRAIN is a standardized microcontroller add-on board, which allows
+  very simple installation and replacement of the microcontroller unit (MCU) on a
+  development board equipped with the SiBRAIN Card socket. By introducing the new
+  SiBRAIN standard, we have ensured the absolute compatibility between the development
+  board and any of the supported MCUs,...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/sibrain-for-pic32mz1024efe144/sibrain-for-pic32mz1024efe144-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=81#SiBRAIN-for-PIC32MZ1024EFE144
+  repositories: []
+name: MIKROE-4728
+ref: mikroe/mikroe-4728
+release_date: null
+sku: mikroe-4728
+spec: null
+status: ''
+vendor: mikroe

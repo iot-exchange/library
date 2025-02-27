@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: 4-Ch USB 3.2 Gen1 HUB, Metal Case With Wall-Mount Support, Driver-Free,
+  Plug-And-Play, Multiple Systems Support
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb3.2-gen1-hub-4u-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/usb3.2-gen1-hub-4u.htm
+  repositories: []
+name: USB3.2-Gen1-HUB-4U
+ref: waveshare/usb3-2-gen1-hub-4u
+release_date: null
+sku: usb3-2-gen1-hub-4u
+spec: null
+status: ''
+vendor: waveshare

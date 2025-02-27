@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "The Thermo 17 Click is a Click board\u2122 based on the TMP451-Q1, a\
+  \ high-accuracy, lowpower remote temperature sensor monitor with a built-in local\
+  \ temperature sensor from Texas Instruments. Because of its main features, this\
+  \ Click is perfect for automotive infotainment systems, ECU processor temperature\
+  \ monitoring, TCM processor temperature monitoring, BCM..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thermo-17-click/thermo-17-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/thermo-17-click
+  repositories: []
+name: MIKROE-3994
+ref: mikroe/mikroe-3994
+release_date: null
+sku: mikroe-3994
+spec: null
+status: ''
+vendor: mikroe

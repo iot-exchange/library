@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: USB To UART Module, Micro / Mini / Type-A / Type-C Connectors, High Baud
+  Rate Transmission
+extra:
+  Multi Options: ''
+  Price: $3.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/h/ch343-usb-uart-board-1_4.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/h/ch343-usb-uart-board-2_4.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ch343-usb-uart-board.htm
+  repositories: []
+name: ch343_usb_uart
+ref: waveshare/ch343-usb-uart
+release_date: null
+sku: ch343-usb-uart
+spec: null
+status: ''
+vendor: waveshare

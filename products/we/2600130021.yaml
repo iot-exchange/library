@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Himalia 2400 to 2500 MHz
+extra:
+  Expected lifetime: '>10 years'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o152544v214%20Single_WIRL_ACCE_2600130041_Herse.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/WIRL_ACCE_2600130021#2600130021
+  repositories: []
+name: '2600130021'
+ref: we/2600130021
+release_date: null
+sku: '2600130021'
+spec: null
+status: Active
+vendor: we

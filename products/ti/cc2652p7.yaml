@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC2652P7
+  repositories: []
+name: CC2652P7
+ref: ti/cc2652p7
+release_date: null
+sku: cc2652p7
+spec: null
+status: ''
+vendor: ti

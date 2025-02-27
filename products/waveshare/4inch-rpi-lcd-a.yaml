@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Part No.:4inch RPi LCD (A), 480x320
+extra:
+  Price: $34.27 - $36.99
+  SKU: '10207'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/i/4inch_rpi_lcd_a__1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/4inch-rpi-lcd-a.htm
+  repositories: []
+name: 4inch RPi LCD (A)
+ref: waveshare/4inch-rpi-lcd-a
+release_date: null
+sku: 4inch-rpi-lcd-a
+spec: null
+status: ''
+vendor: waveshare

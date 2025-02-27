@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: LTE Cat 20 Modules
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTECat-NL952-NA.html
+  repositories: []
+name: NL952-NA
+ref: fibocom/nl952-na
+release_date: null
+sku: nl952-na
+spec: null
+status: ''
+vendor: fibocom

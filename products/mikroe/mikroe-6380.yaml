@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 4G LTE 3 Click (for Europe) is a compact add-on board for reliable LTE
+  connectivity, offering medium data speeds and extensive network coverage. This board
+  features the LEXI-R10801D, a single-mode LTE Cat 1bis module from u-blox optimized
+  for professional-grade applications in the EMEA, APAC, and Brazilian regions.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/4g-lte-3-click-for-europe/4g-lte-3-click-for-europe-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/4g-lte-3-click-for-europe
+  repositories: []
+name: MIKROE-6380
+ref: mikroe/mikroe-6380
+release_date: null
+sku: mikroe-6380
+spec: null
+status: ''
+vendor: mikroe

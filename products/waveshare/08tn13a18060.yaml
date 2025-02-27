@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Test & Burn-in Socket
+extra:
+  Price Range: $40.99 - $43.99
+  SKU: '7759'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/0/8/08tn13a18060-4_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/08tn13a18060.htm
+  repositories: []
+name: 08TN13A18060
+ref: waveshare/08tn13a18060
+release_date: null
+sku: 08tn13a18060
+spec: null
+status: ''
+vendor: waveshare

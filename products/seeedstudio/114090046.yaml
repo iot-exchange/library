@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/j/g/jga25-370.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/JGA25-370-Geared-Motor-p-4119.html
+  repositories: []
+name: '114090046'
+ref: seeedstudio/114090046
+release_date: null
+sku: '114090046'
+spec: null
+status: ''
+vendor: seeedstudio

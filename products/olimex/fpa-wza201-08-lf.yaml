@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Connectors/FPA-WZA201-08-LF/images/thumbs/200x150/LCD3310-CON.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Connectors/FPA-WZA201-08-LF/
+  repositories: []
+name: FPA-WZA201-08-LF
+ref: olimex/fpa-wza201-08-lf
+release_date: null
+sku: fpa-wza201-08-lf
+spec: null
+status: ''
+vendor: olimex

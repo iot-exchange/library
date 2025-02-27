@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Bluetooth Intelligent Serial Module
+extra:
+  2MPHY: ''
+  802.15.4 / Matter / Thread: ''
+  BLE: x
+  Classic BT: ''
+  LE Long Range: ''
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-20-21-and-30-modules/trblu23-00200-bluetooth-intelligent-serial-module
+  repositories: []
+name: TRBLU23-00200
+ref: ezurio/trblu23-00200
+release_date: null
+sku: trblu23-00200
+spec: null
+status: ''
+vendor: ezurio

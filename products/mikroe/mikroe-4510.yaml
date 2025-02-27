@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "Load Cell 5 Click is a compact add-on board that represents a weigh\
+  \ scale solution. This board features the AD7780, a pin-programmable, low power,\
+  \ 24-bit sigma-delta \u03A3\u0394 ADC from Analog Devices."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/load-cell-5-click/load-cell-5-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/load-cell-5-click
+  repositories: []
+name: MIKROE-4510
+ref: mikroe/mikroe-4510
+release_date: null
+sku: mikroe-4510
+spec: null
+status: ''
+vendor: mikroe

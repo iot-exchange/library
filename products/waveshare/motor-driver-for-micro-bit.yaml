@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Driver Breakout for micro:bit, drives motors and servos
+extra:
+  Price: $12.97 - $13.99
+  SKU: '15220'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/o/motor-driver-for-micro-bit-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/motor-driver-for-micro-bit.htm
+  repositories: []
+name: Motor Driver for micro:bit
+ref: waveshare/motor-driver-for-micro-bit
+release_date: null
+sku: motor-driver-for-micro-bit
+spec: null
+status: ''
+vendor: waveshare

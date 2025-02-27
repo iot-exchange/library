@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Wi-Fi 4 + Bluetooth Module
+extra:
+  Category: Professional Wi-Fi
+  Chipset: Infineon 4343W
+  SDIO: x
+  Wi-Fi: Low Cost
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/Sterling-LWB+-Family.png
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/wifi-modules-bluetooth/sterling-lwb-24-ghz-wifi-4-bt-51-module
+  repositories: []
+name: "Sterling\u2122-LWB 2.4 GHz"
+ref: ezurio/sterlingtm-lwb-2-4-ghz
+release_date: null
+sku: sterlingtm-lwb-2-4-ghz
+spec: null
+status: ''
+vendor: ezurio

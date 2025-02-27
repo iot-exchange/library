@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Accel 21 Click is a compact add-on board that contains an acceleration\
+  \ sensor. This board features the MIS2DH, a high-performance three-axis accelerometer\
+  \ from STMicroelectronics. The MIS2DH allows selectable full-scale acceleration\
+  \ measurements in ranges of \xB12g, \xB14g, \xB18g, or \xB116g in three axes with\
+  \ a configurable host interface that supports both SPI and..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/accel-21-click/accel-21-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/accel-21-click
+  repositories: []
+name: MIKROE-5530
+ref: mikroe/mikroe-5530
+release_date: null
+sku: mikroe-5530
+spec: null
+status: ''
+vendor: mikroe

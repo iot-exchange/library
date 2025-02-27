@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Wi-Fi
+extra:
+  GPIO: '16'
+  catalog: Catalog
+  memory: '1024'
+  package: QFM
+  pins: '63'
+  price: $10.835 | 1ku
+  temperature_range: -40 to 85
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/wireless-connectivity/wi-fi/products.html
+  repositories: []
+name: Module, Wireless MCU
+ref: ti/module-wireless-mcu
+release_date: null
+sku: module-wireless-mcu
+spec: null
+status: ACTIVE
+vendor: ti

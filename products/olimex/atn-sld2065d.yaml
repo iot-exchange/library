@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/ATN-SLD2065D/images/thumbs/200x150/ATN-ST2065D.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/Soldering/ATN-SLD2065D/
+  repositories: []
+name: ATN-SLD2065D
+ref: olimex/atn-sld2065d
+release_date: null
+sku: atn-sld2065d
+spec: null
+status: ''
+vendor: olimex

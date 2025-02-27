@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: "LoRa Basics\xAE Modem LoRaWAN L2 protocol stack"
+extra:
+  Product Applicability: LR1110, LR1120, LR1121, SX1261, SX1262, SX1268, SX1280, SX1281
+  Type: Protocol Stack
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.semtech.com/products/wireless-rf/lora-basics-modem
+  repositories: []
+name: SWL2001
+ref: semtech/swl2001
+release_date: null
+sku: swl2001
+spec: null
+status: ''
+vendor: semtech

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Duino/Duinomite/DUINOMITE-eMEGA/images/thumbs/200x150/DUINOMITE-eMEGA-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Duino/Duinomite/DUINOMITE-eMEGA/open-source-hardware
+  repositories: []
+name: DUINOMITE-eMEGA
+ref: olimex/duinomite-emega
+release_date: null
+sku: duinomite-emega
+spec: null
+status: ''
+vendor: olimex

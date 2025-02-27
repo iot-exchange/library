@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: A development board for Compute Module 5
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/b1c8a0369a79746d02054a08bdfbbc0b/3f4ea/Z0SKga8jQArT1Rsd_IOboard.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/compute-module-5-io-board/
+  repositories: []
+name: Raspberry Pi Compute Module 5 IO board
+ref: raspberrypi/raspberry-pi-compute-module-5-io-board
+release_date: null
+sku: raspberry-pi-compute-module-5-io-board
+spec: null
+status: ''
+vendor: raspberrypi

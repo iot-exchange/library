@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: The everything computer. Optimised.
+extra:
+  price: $50
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/98b2722d2fdbf42f2789601e1032bb0a/3f4ea/6aebb638-e088-4b28-bbfd-67eae784ca3b_PI_5_FEATURE.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/raspberry-pi-5/
+  repositories: []
+name: Raspberry Pi 5
+ref: raspberrypi/raspberry-pi-5
+release_date: null
+sku: raspberry-pi-5
+spec: null
+status: ''
+vendor: raspberrypi

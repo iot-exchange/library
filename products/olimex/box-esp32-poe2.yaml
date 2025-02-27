@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32/BOX-ESP32-POE2/images/thumbs/200x150/BOX-ESP32-POE2-6w.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/IoT/ESP32/BOX-ESP32-POE2/
+  repositories: []
+name: BOX-ESP32-POE2
+ref: olimex/box-esp32-poe2
+release_date: null
+sku: box-esp32-poe2
+spec: null
+status: ''
+vendor: olimex

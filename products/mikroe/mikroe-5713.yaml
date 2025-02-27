@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Aluminum Chip Heat Sink is a high-quality cooling solution designed for
+  small heat sink IC chips. A cooling block size of 6.5x6.5x3.5mm provides efficient
+  heat dissipation for various components such as ICs, diodes, electronics, RAM, and
+  more. This package includes 10pcs of heat sinks, making it ideal for multiple applications.
+  Its ultra-thin size and...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/aluminum-chip-heat-sink-65x65mm-10-pcs/aluminum-chip-heat-sink-65x65mm-10-pcs-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/aluminum-chip-heat-sink-65x65mm-10-pcs
+  repositories: []
+name: MIKROE-5713
+ref: mikroe/mikroe-5713
+release_date: null
+sku: mikroe-5713
+spec: null
+status: ''
+vendor: mikroe

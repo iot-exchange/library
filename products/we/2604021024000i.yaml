@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: Puck-I
+extra:
+  Frequency Range (MHz): 2402 - 2480
+  PTx, e.r.p.(dBm): '1.4'
+  Rb max.(kbps): '2000'
+  Rxsens, e.r.p.(dBm): '-80'
+  VDD max.(V): '3.6'
+  VDD min.(V): '2.9'
+  dLoS(m): '20'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o140304v214%20Single_WIRL-BTCL_Puck-I_BT_2604021024001.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/PUCK-I#2604021024000
+  repositories: []
+name: 2604021024000i
+ref: we/2604021024000i
+release_date: null
+sku: 2604021024000i
+spec: null
+status: NRND
+vendor: we

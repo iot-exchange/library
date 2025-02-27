@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Luckfox Core3576 Edge Computing Development Board, Rockchip RK3576 Octa-Core
+  2.2GHz Processor, Features A big.LITTLE Architecture, 6 TOPS Computing Power NPU
+extra:
+  Multi Options: ''
+  Price: $72.99 - $112.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/u/luckfox-omni3576-04000-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/luckfox-omni3576.htm
+  repositories: []
+name: Core3576 Development Board
+ref: waveshare/core3576-development-board
+release_date: null
+sku: core3576-development-board
+spec: null
+status: ''
+vendor: waveshare

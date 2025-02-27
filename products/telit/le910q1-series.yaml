@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/01/TC_LE910Q1-dynamic-295x200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/le910q1-series/
+  repositories: []
+name: LE910Q1 Series
+ref: telit/le910q1-series
+release_date: null
+sku: le910q1-series
+spec: null
+status: ''
+vendor: telit

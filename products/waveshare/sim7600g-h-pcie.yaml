@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: SIM7600G-H-PCIE SIMCom Original 4G LTE Cat-4 Module, Global Coverage,
+  GNSS, Mini-PCIe Connector
+extra:
+  Price: $47.99
+  SKU: '19543'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim7600g-h-pcie-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/sim7600x-h-pcie.htm
+  - https://www.waveshare.com/product/sim7600x-h-pcie.htm "SIM7600G-H-PCIE SIMCom
+    Original 4G LTE Cat-4 Module, Global Coverage, GNSS, Mini-PCIe Connector"
+  repositories: []
+name: SIM7600G-H-PCIE
+ref: waveshare/sim7600g-h-pcie
+release_date: null
+sku: sim7600g-h-pcie
+spec: null
+status: ''
+vendor: waveshare

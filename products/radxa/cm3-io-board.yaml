@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: an Application Board for Radxa CM3
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/io-board/cm3-io-board/thumb_cm3_io_board.webp
+  models: []
+  products:
+  - https://radxa.com/products/io-board/cm3-io-board
+  repositories: []
+name: CM3 IO Board
+ref: radxa/cm3-io-board
+release_date: null
+sku: cm3-io-board
+spec: null
+status: ''
+vendor: radxa

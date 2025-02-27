@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  10+ pcs: 8.96 EUR
+  50+ pcs: 7.96 EUR
+  Price: 9.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A20/A20-SD-CARDS/images/thumbs/200x150/SD-Card.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/A20/A20-LIME-ANDROID-SD/
+  repositories: []
+name: A20-LIME-ANDROID-SD
+ref: olimex/a20-lime-android-sd
+release_date: null
+sku: a20-lime-android-sd
+spec: null
+status: ''
+vendor: olimex

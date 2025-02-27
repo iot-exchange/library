@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: The ESP32-H2-WROOM-07 module is based on ESP32-H2, and has can be vertically
+  soldered to a PCB board. It has 3 GPIOs, and supports UART, SPI, I2C, LED PWM, I2S,
+  RMT, etc.
+extra:
+  Antenna: Solder pad for external monopole antenna
+  Chip Embedded: ESP32-H2FH2ESP32-H2FH4
+  Dimensions (mm): "8.5\xD712.7\xD72.6"
+  Flash (MB): 2, 4
+  Pins: '6'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-H2-WROOM-07_S.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp32-h2-wroom-07_datasheet_en.pdf
+  repositories: []
+name: ESP32-H2-WROOM-07
+ref: espressif/esp32-h2-wroom-07
+release_date: null
+sku: esp32-h2-wroom-07
+spec: null
+status: ''
+vendor: espressif

@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: "A608 Jetson Carrier Board is a powerful extension board that supports\
+  \ Jetson Orin\u2122 NX/Orin\u2122 Nano modules. It's a good choice for handling\
+  \ computer vision tasks and intelligent Generative AI applications in diverse industries,\
+  \ combining the powerful Jetson Orin module with a rich set of interfaces together.\
+  \ Especially providing rich function COM Interfaces, which is compatible with JST-GH\
+  \ ports for Drone and Robotics Integration."
+extra:
+  compatibility: "Jetson Orin\u2122 NX/Orin\u2122 Nano"
+  interfaces: Rich function COM Interfaces
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/11-105110001-jetson-a608-carrier-board-for-orin-nxorin-nano-series-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Jetson-A608-Carrier-Board-for-Orin-NX-Orin-Nano-Series-p-5853.html
+  repositories: []
+name: '105110001'
+ref: seeedstudio/105110001
+release_date: null
+sku: '105110001'
+spec: null
+status: ''
+vendor: seeedstudio

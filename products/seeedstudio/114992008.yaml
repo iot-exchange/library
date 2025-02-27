@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Keyboard DE Black/Grey. The official Raspberry Pi keyboard
+  and hub is a standard 79-key (78-key US) keyboard that includes an additional three
+  USB 2.0 type A ports.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/y/1/y1857721-01_1_.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-2246.html?bazaar4_retailer-products%5Bpage%5D=2#114992008
+  - https://www.seeedstudio.com/Raspberry-Pi-Keyboard-DE-Black-Grey-p-4165.html
+  repositories: []
+name: '114992008'
+ref: seeedstudio/114992008
+release_date: null
+sku: '114992008'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 4G medium module for Europe, Australia, and Brazil.
+extra:
+  Bands: 'LTE: B1/3/5/7/8/20/28/38/40/41'
+  Form Factor: LGA / LCC
+  Region: Asia, Europe, Australia, Brazil
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTE-SS808-EAU.html
+  repositories: []
+name: SS808-EAU
+ref: fibocom/ss808-eau
+release_date: null
+sku: ss808-eau
+spec: null
+status: ''
+vendor: fibocom

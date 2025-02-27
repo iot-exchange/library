@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: PN532 NFC HAT for Raspberry Pi, I2C / SPI / UART
+extra:
+  Price: $16.63 - $17.99
+  SKU: '16958'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/n/pn532-nfc-hat-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/n/pn532-nfc-hat-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pn532-nfc-hat.htm
+  - https://www.waveshare.com/product/pn532-nfc-hat.htm "PN532 NFC HAT for Raspberry
+    Pi, I2C / SPI / UART"
+  repositories: []
+name: PN532 NFC HAT
+ref: waveshare/pn532-nfc-hat
+release_date: null
+sku: pn532-nfc-hat
+spec: null
+status: ''
+vendor: waveshare

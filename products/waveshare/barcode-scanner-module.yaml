@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Barcode Scanner Module, 1D/2D Codes Reader
+extra:
+  Price: $38.99 - $39.99
+  SKU: '14810'
+  price: $38.99 - $39.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/a/barcode-scanner-module-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/barcode-scanner-module.htm
+  repositories: []
+name: Barcode Scanner Module
+ref: waveshare/barcode-scanner-module
+release_date: null
+sku: barcode-scanner-module
+spec: null
+status: ''
+vendor: waveshare

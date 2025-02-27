@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: CODEGRIP for STM32 is a fast USB-C programmer and hardware debugger.
+  It supports all STM32 ARM Cortex-M based MCUs.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/codegrip-for-stm32-over-usb-c/codegrip-for-stm32-over-usb-c-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/cart?add=1&id_product=3404
+  - https://www.mikroe.com/codegrip-for-stm32-over-usb-c
+  repositories: []
+name: MIKROE-5275
+ref: mikroe/mikroe-5275
+release_date: null
+sku: mikroe-5275
+spec: null
+status: ''
+vendor: mikroe

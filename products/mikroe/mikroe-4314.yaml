@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Mikromedia 4 for STM32F2 CAPACITIVE FPI with bezel Rapid development
+  of multimedia and gui-centric applications BUILD GREAT GUI IN NO TIME Rich with
+  peripherals Mikromedia 4 for STM32F2 CAPACITIVE FPI with bezel is not limited to
+  multimedia-based applications only. USB, digital motion sensor, battery charging
+  functionality, SD card reader and much more...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-4-for-stm32f2-capacitive-fpi-with-bezel/mikromedia-4-for-stm32f2-capacitive-fpi-with-bezel-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/cart?add=1&id_product=2861
+  repositories: []
+name: MIKROE-4314
+ref: mikroe/mikroe-4314
+release_date: null
+sku: mikroe-4314
+spec: null
+status: ''
+vendor: mikroe

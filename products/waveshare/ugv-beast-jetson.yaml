@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: "UGV Beast Open-source Off-Road Tracked AI Robot For Jetson Orin Series\
+  \ Board, Dual Controllers, 360\xB0 Flexible Omnidirectional Pan-Tilt, Optional For\
+  \ Jetson Orin Nano 4GB Kit"
+extra:
+  Multi Options: ''
+  multiOptions: Multi Options
+  price: $369.99 -  $709.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/g/ugv-beast-pt-jetson-orin-ai-kit-1.jpg
+  models: []
+  products:
+  - "https://www.waveshare.com/product/ugv-beast-pt-jetson-orin-ai-kit.htm \"UGV Beast\
+    \ Open-source Off-Road Tracked AI Robot For Jetson Orin Series Board, Dual Controllers,\
+    \ 360\xB0 Flexible Omnidirectional Pan-Tilt, Optional For Jetson Orin Nano 4GB\
+    \ Kit\""
+  - https://www.waveshare.com/product/ugv-beast-pt-jetson-orin-ai-kit.htm
+  repositories: []
+name: ugv_beast_jetson
+ref: waveshare/ugv-beast-jetson
+release_date: null
+sku: ugv-beast-jetson
+spec: null
+status: ''
+vendor: waveshare

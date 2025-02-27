@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Watchdog Click is a compact add-on board that contains a simple countdown
+  timer for a wide variety of applications. This board features the TPS3430, a standalone
+  watchdog timer with a programmable watchdog window and programmable reset delay
+  from Texas Instruments. The TPS3430 has the watchdog output reset delay set by factory-programmed
+  default delay...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/watchdog-click/watchdog-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/watchdog-click
+  repositories: []
+name: MIKROE-4416
+ref: mikroe/mikroe-4416
+release_date: null
+sku: mikroe-4416
+spec: null
+status: ''
+vendor: mikroe

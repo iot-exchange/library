@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Wide Angle Camera Module - Fisheye Lens, 160 AoV, adjustable
+  camera, 4 screw holes mounted, suitable for large landscape surveillance
+extra:
+  Angle of View: '160'
+  Mounting: 4 screw holes
+  Usage: Large landscape surveillance
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.seeedstudio.com/img/e
+  models: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-Wide-Angle-Camera-Module-Fisheye-Lens-160-AoV-adjustable-camera-4-screw-holes-mounted-suitable-for-large-landscape-surveillance-p-114990838.html
+  repositories: []
+name: '114990838'
+ref: seeedstudio/114990838
+release_date: null
+sku: '114990838'
+spec: null
+status: ''
+vendor: seeedstudio

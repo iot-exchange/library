@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: A passive heatsink for Compute Module 5. Available for $5
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/cooler/
+  repositories: []
+name: Raspberry Pi Cooler for Compute Module 5
+ref: raspberrypi/raspberry-pi-cooler-for-compute-module-5
+release_date: null
+sku: raspberry-pi-cooler-for-compute-module-5
+spec: null
+status: ''
+vendor: raspberrypi

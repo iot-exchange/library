@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: LCD1602 (5V Blue Backlight)
+extra:
+  Price: $2.19 - $3.49
+  SKU: '3641'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/c/lcd1602-blue_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/lcd1602-blue.htm
+  repositories: []
+name: LCD1602 (5V Blue Backlight)
+ref: waveshare/lcd1602-5v-blue-backlight
+release_date: null
+sku: lcd1602-5v-blue-backlight
+spec: null
+status: ''
+vendor: waveshare

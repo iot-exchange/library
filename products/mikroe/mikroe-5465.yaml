@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "Fingerprint 4 Click is an adapter Click board\u2122 used to interface\
+  \ a compatible fingerprint sensor with the host MCU. This board features FINGERPRINTS\
+  \ BM-Lite Module, a complete biometric fingerprint solution ready to be used out-of-the-box."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/fingerprint-4-click/fingerprint-4-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/cart?add=1&id_product=3505
+  - https://www.mikroe.com/fingerprint-4-click
+  repositories: []
+name: MIKROE-5465
+ref: mikroe/mikroe-5465
+release_date: null
+sku: mikroe-5465
+spec: null
+status: ''
+vendor: mikroe

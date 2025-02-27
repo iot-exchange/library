@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 'DIY HDMI Cable: 1m FFC'
+extra:
+  Price: $1.19 - $1.59
+  SKU: '14723'
+  price: $1.19 - $1.59
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/f/ffc-20pin-0.5pitch-1m-opposite-side-contact.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/ffc-20pin-0.5pitch-1m-opposite-side-contact.htm
+  repositories: []
+name: FFC 20PIN 0.5Pitch 1m (opposite side contact)
+ref: waveshare/ffc-20pin-0-5pitch-1m-opposite-side-contact
+release_date: null
+sku: ffc-20pin-0-5pitch-1m-opposite-side-contact
+spec: null
+status: ''
+vendor: waveshare

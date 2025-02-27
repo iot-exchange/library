@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Waterproof Long Range Wireless NB-IoT Sensor Node
+extra:
+  Chipset: Quectel BC95-G
+  Power: Battery Powered
+  Power Consumption: Ultra Low
+  Supported Bands: B1/B3/B8/B5/B20/B28 @H-FDD
+  Waterproof: IP68
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/47674e109b85ae6495880f2604f34f58_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/nb-iot/item/163-nbsn95.html
+  repositories: []
+name: NBSN95
+ref: dragino/nbsn95
+release_date: null
+sku: nbsn95
+spec: null
+status: ''
+vendor: dragino

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Brushless 10 Click is a compact add-on board that provides precise control
+  over brushless DC motors. This board features the TC78B016FTG, a 3-phase sine-wave
+  PWM driver from Toshiba Semiconductor. The TC78B016FTG features Intelligent Phase
+  Control for automatic motor phase adjustment, eliminating manual calibration, supporting
+  an external power supply...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/brushless-10-click/brushless-10-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/brushless-10-click
+  repositories: []
+name: MIKROE-6136
+ref: mikroe/mikroe-6136
+release_date: null
+sku: mikroe-6136
+spec: null
+status: ''
+vendor: mikroe

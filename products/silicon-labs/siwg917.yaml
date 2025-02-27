@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: The SiWG917 SoC Radio Board is designed to work with the Wireless Pro
+  Kit Mainboard (not included) to enable you to develop IoT devices using the SiWG917
+  ultra-low power SoC supporting Wi-Fi 6, Bluetooth LE 5.4, and Matter.
+extra:
+  MSRP: $40.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/wifi/siwx917-wireless-socs/siwx917-rb4338a.png
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/wi-fi/siwx917-rb4338a-wifi-6-bluetooth-le-soc-radio-board
+  repositories: []
+name: SiWG917
+ref: silicon-labs/siwg917
+release_date: null
+sku: siwg917
+spec: null
+status: ''
+vendor: silicon-labs

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: The Grove - HCHO Sensor can be used to detect VOCs, such as HCHO, toluene,
+  benzene, and alcohol which is Built with VOC sensor WSP2110 and Up to 1ppm high
+  sensibility.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2018-07bazaar881132_3.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductgrove20hcho.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-HCHO-Sensor.html
+  repositories: []
+name: '101020001'
+ref: seeedstudio/101020001
+release_date: null
+sku: '101020001'
+spec: null
+status: OUT OF STOCK
+vendor: seeedstudio

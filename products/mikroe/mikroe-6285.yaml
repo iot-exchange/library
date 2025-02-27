@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Mikromedia 3 for PIC32MZ RESISTIVE is not limited to multimedia-based
+  applications only. USB, digital motion sensor, battery charging functionality, SD
+  card reader and much more expands its use.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-3-for-pic32mz-resistive-fpi-with-frame/mikromedia-3-for-pic32mz-resistive-fpi-with-frame-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/mikromedia-3-for-pic32mz-resistive-fpi-with-frame
+  repositories: []
+name: MIKROE-6285
+ref: mikroe/mikroe-6285
+release_date: null
+sku: mikroe-6285
+spec: null
+status: ''
+vendor: mikroe

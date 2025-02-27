@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: Sub-GHz Wireless + 2.4 GHz BLE SoCs
+extra:
+  Flash (kB): '1024'
+  Frequency Range (MHz): 110 970
+  GPIO: 31, 49
+  MCU Core: ARM Cortex-M33
+  Max Output Power (dBm): '16'
+  Peak RX Sensitivity: -124.8 (4.8 kbps OQPSK @ 915 MHz)
+  RAM (kB): 128, 256
+  Security: AES-128, AES-256, ECC, SHA-1, SHA-2
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/proprietary/efr32fg28-sub-ghz-wireless-socs
+  repositories: []
+name: EFR32FG28 Series 2 SoCs
+ref: silicon-labs/efr32fg28-series-2-socs
+release_date: null
+sku: efr32fg28-series-2-socs
+spec: null
+status: ''
+vendor: silicon-labs

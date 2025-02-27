@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: 'Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85Measure
+  water quality and provide information for water quality conditionsSupport EC / PH
+  / DO / ORP/ TS Type Water Quality ProbeSupport 1 ~ 3 probesUplink via MQTT, MQTTs,
+  TCP, UDP or CoAPSupport Bluetooth v5.1 remote configure and update firmware8500mAh
+  Battery for long term use'
+extra:
+  Catalog: Water & Air Quality Sensor
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/f41bf091a4e18f2312495cc0e975d9f7_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/water-air-quality-sensor/item/346-wqs-nb.html
+  repositories: []
+name: WQS-NB
+ref: dragino/wqs-nb
+release_date: null
+sku: wqs-nb
+spec: null
+status: ''
+vendor: dragino

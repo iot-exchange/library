@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: "As Low As $45\nChipset (MPU)\n2x Cortex\xAE-A55 cores @ 1.7 GHz (NXP\
+  \ i.MX 93) \nChipset (MCU)\n1x Cortex\xAE-M33 core @ 250 MHz (NXP i.MX 93) \nWireless\
+  \ Specification\n(optional) Wi-Fi 6/6E Bluetooth 5.3/5.4 \nDimensions (L x W)\n\
+  82 x 50"
+extra:
+  Chipset (MCU): "1x Cortex\xAE-M33 core @ 250 MHz (NXP i.MX 93)"
+  Chipset (MPU): "2x Cortex\xAE-A55 cores @ 1.7 GHz (NXP i.MX 93)"
+  Dimensions (L x W): 82 x 50
+  Wireless Specification: (optional) Wi-Fi 6/6E Bluetooth 5.3/5.4
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-03/Nitrogen%2093%20front5.png
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-09/Nitrogen93%20no%20module.164.png
+  models: []
+  products:
+  - https://www.ezurio.com/system-on-module/nxp-imx9/nitrogen93-smarc
+  repositories: []
+name: Nitrogen93 SMARC
+ref: ezurio/nitrogen93-smarc
+release_date: null
+sku: nitrogen93-smarc
+spec: null
+status: ''
+vendor: ezurio

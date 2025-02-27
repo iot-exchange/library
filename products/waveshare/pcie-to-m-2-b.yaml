@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: PCIe TO M.2 adapter (B), Supports NVMe Protocol M.2 Solid State Drive,
+  High-speed Reading/Writing, Supports Raspberry Pi Compute Module 4
+extra:
+  Price: $4.65 - $4.99
+  SKU: '26840'
+  price: $4.65  -  $4.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-m.2-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pcie-to-m.2-b.htm "PCIe TO M.2 adapter (B),
+    Supports NVMe Protocol M.2 Solid State Drive, High-speed Reading/Writing, Supports
+    Raspberry Pi Compute Module 4"
+  - https://www.waveshare.com/product/pcie-to-m.2-b.htm
+  repositories: []
+name: PCIe TO M.2 (B)
+ref: waveshare/pcie-to-m-2-b
+release_date: null
+sku: pcie-to-m-2-b
+spec: null
+status: ''
+vendor: waveshare

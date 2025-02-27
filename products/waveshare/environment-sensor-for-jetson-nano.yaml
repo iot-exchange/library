@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Environment Sensors Module for Jetson Nano, I2C Bus, with 1.3inch OLED
+  Display
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/n/environment-sensor-for-jetson-nano-1_4.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/environment-sensor-for-jetson-nano.htm
+  repositories: []
+name: Environment Sensor for Jetson Nano
+ref: waveshare/environment-sensor-for-jetson-nano
+release_date: null
+sku: environment-sensor-for-jetson-nano
+spec: null
+status: ''
+vendor: waveshare

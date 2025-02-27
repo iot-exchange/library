@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: "LoRaWAN **LiDAR ToF** Distance Detection Sensor Bands:EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915\
+  \ Ultra Low Power Consumption LiDAR ToF\uFF0CDistance: 0.1m~12 m Accuracy :\xB1\
+  5cm@(0.1-5m), \xB11%@(5m-12m) FOV : 3.6\xB0"
+extra:
+  Accuracy: "\xB15cm@(0.1-5m), \xB11%@(5m-12m)"
+  Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
+  Distance Range: 0.1m~12m
+  FOV: "3.6\xB0"
+  Power Consumption: Ultra Low
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/f7f8c4727a011019fe43a7eaa92bf9a5_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/distance-level-sensor/item/185-llds12.html
+  repositories: []
+name: LLDS12
+ref: dragino/llds12
+release_date: null
+sku: llds12
+spec: null
+status: ''
+vendor: dragino

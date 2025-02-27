@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/RaspberryPi/RPi5-M2-HAT/images/thumbs/200x150/RPi5-M2-HAT-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/RaspberryPi/RPi5-M2-HAT/
+  repositories: []
+name: RPi5-M2-HAT
+ref: olimex/rpi5-m2-hat
+release_date: null
+sku: rpi5-m2-hat
+spec: null
+status: ''
+vendor: olimex

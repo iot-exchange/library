@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: MUX 9 Click is a compact add-on board that contains a precise multiplexing
+  solution. This board features the ADG1438, a CMOS 8-channel analog matrix switch
+  with a high-speed serially controlled 4-wire interface from Analog Devices. Each
+  switch is software-controlled (by a bit of the appropriate register) and conducts
+  equally well in both directions,...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mux-9-click/mux-9-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/mux-9-click
+  repositories: []
+name: MIKROE-5500
+ref: mikroe/mikroe-5500
+release_date: null
+sku: mikroe-5500
+spec: null
+status: ''
+vendor: mikroe

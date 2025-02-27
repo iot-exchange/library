@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Mini Tower NAS Kit for Raspberry Pi 4B, support up to 2TB M.2 SATA SSD,
+  Strong Heat Dissipation, OLED Screen Display
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4b-mini-tower-nas-acce-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pi4b-mini-tower-nas-acce.htm
+  repositories: []
+name: PI4B Mini Tower NAS Acce
+ref: waveshare/pi4b-mini-tower-nas-acce
+release_date: null
+sku: pi4b-mini-tower-nas-acce
+spec: null
+status: ''
+vendor: waveshare

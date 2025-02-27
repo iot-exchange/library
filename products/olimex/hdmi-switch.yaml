@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/Accessories/HDMI-SWITCH/images/thumbs/200x150/HDMI-SWITCH-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/Accessories/HDMI-SWITCH/
+  repositories: []
+name: HDMI-SWITCH
+ref: olimex/hdmi-switch
+release_date: null
+sku: hdmi-switch
+spec: null
+status: ''
+vendor: olimex

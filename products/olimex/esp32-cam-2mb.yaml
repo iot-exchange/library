@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32/ESP32-CAM/images/thumbs/200x150/ESP32-CAM-2MB.JPG
+  models: []
+  products:
+  - https://www.olimex.com/Products/IoT/ESP32/ESP32-CAM-2MB/
+  repositories: []
+name: ESP32-CAM-2MB
+ref: olimex/esp32-cam-2mb
+release_date: null
+sku: esp32-cam-2mb
+spec: null
+status: ''
+vendor: olimex

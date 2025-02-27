@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: "The Semper Flash Click is a Click board\u2122 which features the S25HS512T,\
+  \ a perfect solution for the mass storage option in various embedded applications."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/semper-flash-click/semper-flash-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/semper-flash-click
+  repositories: []
+name: MIKROE-3823
+ref: mikroe/mikroe-3823
+release_date: null
+sku: mikroe-3823
+spec: null
+status: ''
+vendor: mikroe

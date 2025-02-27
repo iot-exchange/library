@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: MCU Card is a standardized add-on board, which allows very simple installation
+  and replacement of the microcontroller unit (MCU) on a development board equipped
+  with the MCU Card socket.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mcu-card-2-for-pic-pic18f86j15/mcu-card-2-for-pic-pic18f86j15-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=108#MCU-CARD-2-for-PIC-PIC18F86J15
+  repositories: []
+name: MIKROE-4099
+ref: mikroe/mikroe-4099
+release_date: null
+sku: mikroe-4099
+spec: null
+status: ''
+vendor: mikroe

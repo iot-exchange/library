@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 3.00 EUR
+  price2: 2.70 EUR
+  price3: 2.40 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Duino/Shields/KTY81-110-1M/images/thumbs/200x150/KTY81-110.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Duino/Shields/KTY81-110-1M/
+  repositories: []
+name: KTY81-110-1M
+ref: olimex/kty81-110-1m
+release_date: null
+sku: kty81-110-1m
+spec: null
+status: ''
+vendor: olimex

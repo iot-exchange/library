@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  10+ pcs: 38.95 EUR
+  50+ pcs: 36.90 EUR
+  Price: 41.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-LIME2/images/thumbs/200x150/A20-OLinuXino-LIME2.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-LIME2-s16M/open-source-hardware
+  repositories: []
+name: A20-OLinuXino-LIME2-s16M
+ref: olimex/a20-olinuxino-lime2-s16m
+release_date: null
+sku: a20-olinuxino-lime2-s16m
+spec: null
+status: ''
+vendor: olimex

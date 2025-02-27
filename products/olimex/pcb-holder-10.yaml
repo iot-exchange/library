@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/PCB-Holders/PCB-HOLDER-10/images/thumbs/200x150/PCB-HOLDER-10.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/PCB-Holders/PCB-HOLDER-10/
+  repositories: []
+name: PCB-HOLDER-10
+ref: olimex/pcb-holder-10
+release_date: null
+sku: pcb-holder-10
+spec: null
+status: ''
+vendor: olimex

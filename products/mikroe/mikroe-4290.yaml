@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "HVAC Click is a compact add-on board that contains Sensirion\u2019s\
+  \ next-generation miniature CO2 sensor. This board features the SCD41, a carbon\
+  \ dioxide sensor build on the photoacoustic sensing principle."
+extra:
+  discountedPrice: $53.95
+  originalPrice: $83.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/hvac-click/hvac-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/hvac-click
+  repositories: []
+name: MIKROE-4290
+ref: mikroe/mikroe-4290
+release_date: null
+sku: mikroe-4290
+spec: null
+status: Reduced price!
+vendor: mikroe

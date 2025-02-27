@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: RS485 CAN Shield
+extra:
+  Price: $10.89 - $11.99
+  SKU: '10771'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs485-can-shield-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rs485-can-shield.htm
+  repositories: []
+name: RS485 CAN Shield
+ref: waveshare/rs485-can-shield
+release_date: null
+sku: rs485-can-shield
+spec: null
+status: ''
+vendor: waveshare

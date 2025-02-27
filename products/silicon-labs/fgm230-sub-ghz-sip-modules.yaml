@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Flash (kB): '512'
+  Frequency Range (MHz): 863 928
+  GPIO: '34'
+  MCU Core: ARM Cortex-M33
+  Max Output Power (dBm): '14'
+  Peak RX Sensitivity: ''
+  RAM (kB): '64'
+  Security: ''
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/proprietary/fgm230s-sub-ghz-sip-modules
+  repositories: []
+name: FGM230 Sub-GHz SiP Modules
+ref: silicon-labs/fgm230-sub-ghz-sip-modules
+release_date: null
+sku: fgm230-sub-ghz-sip-modules
+spec: null
+status: ''
+vendor: silicon-labs

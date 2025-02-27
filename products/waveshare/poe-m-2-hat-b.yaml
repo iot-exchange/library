@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: PCIe To M.2 Adapter With PoE Function (B) For Raspberry Pi 5, Supports
+  NVMe Protocol M.2 Solid State Drive, High-speed Reading/Writing, Raspberry Pi 5
+  PoE HAT
+extra:
+  Price: $22.63 - $23.99
+  SKU: '29320'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/o/poe-m.2-hat-plus-b-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/poe-m.2-hat-plus-b.htm "PCIe To M.2 Adapter
+    With PoE Function (B) For Raspberry Pi 5, Supports NVMe Protocol M.2 Solid State
+    Drive, High-speed Reading/Writing, Raspberry Pi 5 PoE HAT"
+  - https://www.waveshare.com/product/poe-m.2-hat-plus-b.htm
+  repositories: []
+name: PoE M.2 HAT+ (B)
+ref: waveshare/poe-m-2-hat-b
+release_date: null
+sku: poe-m-2-hat-b
+spec: null
+status: ''
+vendor: waveshare

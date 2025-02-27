@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Flexible And Expandable Off-Road Tracked UGV, Multiple Hosts Support,
+  With External Rails and ESP32 Slave Computer
+extra:
+  Price: $166.59 - $169.99
+  SKU: '24019'
+  price: $166.59 - $169.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/g/ugv01-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ugv01.htm "Flexible And Expandable Off-Road
+    Tracked UGV, Multiple Hosts Support, With External Rails and ESP32 Slave Computer"
+  - https://www.waveshare.com/product/ugv01.htm
+  repositories: []
+name: UGV01 (EN)
+ref: waveshare/ugv01-en
+release_date: null
+sku: ugv01-en
+spec: null
+status: ''
+vendor: waveshare

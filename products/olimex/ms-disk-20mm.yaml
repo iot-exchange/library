@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/ServoMotors/MS-DISK-20MM/images/thumbs/200x150/MS-DISK-20MM.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/ServoMotors/MS-DISK-20MM/
+  repositories: []
+name: MS-DISK-20MM
+ref: olimex/ms-disk-20mm
+release_date: null
+sku: ms-disk-20mm
+spec: null
+status: ''
+vendor: olimex

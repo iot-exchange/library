@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2022/12/MV31_dynamic_thumb-268x200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/mv31/
+  repositories: []
+name: MV31
+ref: telit/mv31
+release_date: null
+sku: mv31
+spec: null
+status: ''
+vendor: telit

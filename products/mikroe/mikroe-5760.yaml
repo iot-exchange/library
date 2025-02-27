@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Zero-Cross Click is a compact add-on board that has the ability to detect
+  the change from positive to negative or negative to a positive level of a sinusoidal
+  waveform.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/zero-cross-click/zero-cross-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/zero-cross-click
+  repositories: []
+name: MIKROE-5760
+ref: mikroe/mikroe-5760
+release_date: null
+sku: mikroe-5760
+spec: null
+status: ''
+vendor: mikroe

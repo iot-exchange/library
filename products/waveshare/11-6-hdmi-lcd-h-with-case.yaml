@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "11.6inch Capacitive Touch Screen LCD with Case, 1920\xD71080, HDMI,\
+  \ IPS, Optical Bonding Screen, Various Systems Support"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/1/11.6hk-f.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/1/11.6hk-m.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/11.6inch-hdmi-lcd-h-with-case.htm
+  repositories: []
+name: "11.6\u2033 HDMI LCD (H) (with case)"
+ref: waveshare/11-6-hdmi-lcd-h-with-case
+release_date: null
+sku: 11-6-hdmi-lcd-h-with-case
+spec: null
+status: ''
+vendor: waveshare

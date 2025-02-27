@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Round 2D Codes Scanner Module, Barcode/QR code Reader, With LED Indicator,
+  Small Size, Easy to Integrate
+extra:
+  Price: $23.97 - $24.99
+  SKU: '25515'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/a/barcode-scanner-module-d-2.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/a/barcode-scanner-module-d-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/barcode-scanner-module-d.htm
+  repositories: []
+name: Barcode Scanner Module (D)
+ref: waveshare/barcode-scanner-module-d
+release_date: null
+sku: barcode-scanner-module-d
+spec: null
+status: ''
+vendor: waveshare

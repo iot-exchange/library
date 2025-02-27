@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Grove - Temperature & Humidity Sensor(SHT41) is a digital Humidity and\
+  \ Temperature Sensor which has an accuracy rate of up to \xB11.8% ~ \xB12.5% RH\
+  \ and \xB10.2 \xB0C, and an operating range of 0% to 100% RH, -40\xB0C to +125\xB0\
+  C. SHT4x is an optimized CMOSens\xAE chip that offers reduced power consumption\
+  \ and improved accuracy specifications."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991675_all-04.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-Temp-Humi-Sensor-SHT41-p-5383.html
+  repositories: []
+name: '101021033'
+ref: seeedstudio/101021033
+release_date: null
+sku: '101021033'
+spec: null
+status: ''
+vendor: seeedstudio

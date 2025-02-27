@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/EEG/OpenEEG/EEG-SMT/images/thumbs/200x150/EEG-SMT-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/EEG/OpenEEG/EEG-SMT/open-source-hardware
+  repositories: []
+name: EEG-SMT
+ref: olimex/eeg-smt
+release_date: null
+sku: eeg-smt
+spec: null
+status: ''
+vendor: olimex

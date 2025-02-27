@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Test & Burn-in Socket
+extra:
+  Price Range: $59.29 - $60.99
+  SKU: '5580'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/6/16qn65k14040-4_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/16qn65k14040.htm
+  repositories: []
+name: 16QN65K14040
+ref: waveshare/16qn65k14040
+release_date: null
+sku: 16qn65k14040
+spec: null
+status: ''
+vendor: waveshare

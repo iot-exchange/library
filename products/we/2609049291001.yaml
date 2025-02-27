@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: EV-Kit Themisto-I incl. ext. antenna
+extra:
+  Expected lifetime: '>10 years'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o170894v214%20Single_Thebe-II_2609031181000.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/THEMISTO-I_MESH#2609049291001
+  - https://www.we-online.com/en/components/products/THEMISTO-I#2609049291001
+  repositories: []
+name: '2609049291001'
+ref: we/2609049291001
+release_date: null
+sku: '2609049291001'
+spec: null
+status: Active i
+vendor: we

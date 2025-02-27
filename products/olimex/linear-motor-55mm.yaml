@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/LINEAR-MOTOR-55MM/images/thumbs/200x150/LINEAR-MOTOR-55MM-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/LINEAR-MOTOR-55MM/
+  repositories: []
+name: LINEAR-MOTOR-55MM
+ref: olimex/linear-motor-55mm
+release_date: null
+sku: linear-motor-55mm
+spec: null
+status: ''
+vendor: olimex

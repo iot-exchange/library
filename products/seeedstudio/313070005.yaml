@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Small Solar Panel 80x100mm 1W
+extra:
+  material: made of single-crystal material that performs high solar energy transformation
+    efficiency
+  suitability: suitable for outdoor environments
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductsolarb.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/1W-Solar-Panel-80X100.html
+  repositories: []
+name: '313070005'
+ref: seeedstudio/313070005
+release_date: null
+sku: '313070005'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Dual-core Bluetooth 5.4 SoC supporting Bluetooth Low Energy, Bluetooth
+  mesh, NFC, Thread and Zigbee
+extra:
+  CPU: 128 MHz Arm Cortex-M33
+  Flash: 1 MB
+  Operating Temperature: "105 \xB0C extended operating temperature"
+  RAM: 512 KB
+  Supply Voltage: 1.7-5.5 V
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF53-Series/nRF5340-WLCSP-4.4x4-mm-stacked_web.png?h=213&iar=0&mh=500&w=230&hash=753DEF02A88A40003B0942DD2820E441
+  models: []
+  products:
+  - https://www.nordicsemi.com/Products/nRF5340
+  repositories: []
+name: nRF5340 SoC
+ref: nordicsemi/nrf5340-soc
+release_date: null
+sku: nrf5340-soc
+spec: null
+status: ''
+vendor: nordicsemi

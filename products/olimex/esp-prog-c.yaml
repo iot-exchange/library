@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/IoT/Programmer/ESP-PROG/images/thumbs/200x150/ESP-PROG-cable.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/IoT/Programmer/ESP-PROG-C/open-source-hardware
+  repositories: []
+name: ESP-PROG-C
+ref: olimex/esp-prog-c
+release_date: null
+sku: esp-prog-c
+spec: null
+status: ''
+vendor: olimex

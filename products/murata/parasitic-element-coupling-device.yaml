@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-global/products/antenna/parasitic-element-coupling-device
+  repositories: []
+name: Parasitic Element Coupling Device
+ref: murata/parasitic-element-coupling-device
+release_date: null
+sku: parasitic-element-coupling-device
+spec: null
+status: ''
+vendor: murata

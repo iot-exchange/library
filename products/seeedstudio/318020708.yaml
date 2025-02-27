@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Fibreglass Long Range antenna with a gain of 3dBi, frequency range 860-930MHz,
+  and 360mm length, comes with an antenna base, compatible with SenseCAP M1 Indoor
+  Gateway.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.seeedstudio.com/img/ab
+  models: []
+  products:
+  - https://www.seeedstudio.com/Fiberglass-Antenna-Kit-with-base-For-Helium-p-318020708.html
+  repositories: []
+name: '318020708'
+ref: seeedstudio/318020708
+release_date: null
+sku: '318020708'
+spec: null
+status: ''
+vendor: seeedstudio

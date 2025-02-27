@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: GSM 5 Click is a compact add-on board representing a compact GSM cellular
+  network communication solution. This board features the SARA-G450, a GSM/GPRS quad-band
+  cellular module certified and approved by the main regulatory bodies and operators
+  from u-blox. It features class 12 GSM/GPRS connectivity in the popular u-blox SARA
+  form factor and comes with a...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gsm-5-click/gsm-5-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/gsm-5-click
+  repositories: []
+name: MIKROE-5124
+ref: mikroe/mikroe-5124
+release_date: null
+sku: mikroe-5124
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,33 @@
+alternatives: []
+certifications: []
+description: "Recommended upgrade \u2192ESP8684"
+extra:
+  Core: Single core
+  Development Board: ESP8266-DevKitC, ESP-Launcher
+  Dimensions (mm): QFN 5x5
+  Flash (MB): N/A
+  Footprint: <https://www.espressif.com/sites/default/files/chips-dxf/ESP8266EX_Footprint.asc>
+  Footprint Link: <https://www.espressif.com/sites/default/files/chips-dxf/ESP8266EX_Footprint.asc>
+  MOQ: '5000'
+  Module: ESP-WROOM-02D, ESP-WROOM-02U, ESP-WROOM-02, ESP-WROOM-S2
+  PSRAM (MB): N/A
+  Pins: '32'
+  RAM/ROM (KB): 160 KB RAM
+  SPQ: '5000'
+  Variants: N/A
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP8266EX_L_4.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf
+  repositories: []
+name: ESP8266EX
+ref: espressif/esp8266ex
+release_date: null
+sku: esp8266ex
+spec: null
+status: Recommended upgrade
+vendor: espressif

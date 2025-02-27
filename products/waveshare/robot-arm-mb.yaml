@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: $49.99
+extra:
+  Multi Options: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/o/robot-arm-for-micro-bit-4_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/robot-arm-for-micro-bit.htm
+  repositories: []
+name: robot_arm_mb
+ref: waveshare/robot-arm-mb
+release_date: null
+sku: robot-arm-mb
+spec: null
+status: ''
+vendor: waveshare

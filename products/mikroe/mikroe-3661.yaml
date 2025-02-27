@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Gyro 4 Click is a two-axis MEMS gyroscope for optical image stabilization
+  applications. It is equipped with the L20G20IS, that includes a sensing element
+  and an IC interface capable of providing the measured angular rate to the application
+  through an SPI digital interface.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gyro-4-click/gyro-4-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/gyro-4-click
+  repositories: []
+name: MIKROE-3661
+ref: mikroe/mikroe-3661
+release_date: null
+sku: mikroe-3661
+spec: null
+status: ''
+vendor: mikroe

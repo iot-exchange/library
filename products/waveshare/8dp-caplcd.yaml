@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "8inch Capacitive Touch Display, Optical Bonding Toughened Glass Panel,\
+  \ 1280\xD7800, IPS, HDMI Interface"
+extra:
+  Price: $67.27 - $69.99
+  SKU: '23741'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/8/d/8dp-caplcd-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/8dp-caplcd.htm
+  repositories: []
+name: 8DP-CAPLCD
+ref: waveshare/8dp-caplcd
+release_date: null
+sku: 8dp-caplcd
+spec: null
+status: ''
+vendor: waveshare

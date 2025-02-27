@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: DC Motor 26 Click is a compact add-on board with a brushed DC motor driver.
+  This board features the TB9053FTG, a PWM-type, dual-channel, H-bridge, brushed DC
+  motor driver from Toshiba Semiconductor.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dc-motor-26-click/dc-motor-26-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/dc-motor-26-click
+  repositories: []
+name: MIKROE-5655
+ref: mikroe/mikroe-5655
+release_date: null
+sku: mikroe-5655
+spec: null
+status: ''
+vendor: mikroe

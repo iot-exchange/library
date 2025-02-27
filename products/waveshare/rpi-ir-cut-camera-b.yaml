@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: RPi IR-CUT Camera (B), Better Image in Both Day and Night
+extra:
+  Price: $24.29 - $25.99
+  SKU: '15203'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rpi-ir-cut-camera-b-8.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rpi_ir-cut_camera_b_.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/rpi-ir-cut-camera-b.htm
+  repositories: []
+name: RPi IR-CUT Camera (B)
+ref: waveshare/rpi-ir-cut-camera-b
+release_date: null
+sku: rpi-ir-cut-camera-b
+spec: null
+status: ''
+vendor: waveshare

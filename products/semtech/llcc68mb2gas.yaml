@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: "LoRa Connect\u2122 Mbed Shield for Smart Home Applications LLCC68, 490MHz\
+  \ for China and Asia"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.semtech.com/products/wireless-rf/lora-connect/llcc68mb2gas
+  repositories: []
+name: LLCC68MB2GAS
+ref: semtech/llcc68mb2gas
+release_date: null
+sku: llcc68mb2gas
+spec: null
+status: ''
+vendor: semtech

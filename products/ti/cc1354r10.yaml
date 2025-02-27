@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC1354R10
+  repositories: []
+name: CC1354R10
+ref: ti/cc1354r10
+release_date: null
+sku: cc1354r10
+spec: null
+status: New
+vendor: ti

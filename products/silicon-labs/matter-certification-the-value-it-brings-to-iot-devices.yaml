@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/whitepapers/matter-certification-the-value-it-brings-to-iot-devices
+  repositories: []
+name: 'Matter Certification: The Value it Brings to IoT Devices'
+ref: silicon-labs/matter-certification-the-value-it-brings-to-iot-devices
+release_date: null
+sku: matter-certification-the-value-it-brings-to-iot-devices
+spec: null
+status: ''
+vendor: silicon-labs

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: SenseCAP S200 Weather Sensor measures wind speed and wind direction (ultrasonic).
+  It is ideal for application in a rough environment like the outdoors, agriculture,
+  or smart cities. Use it with SenseCAP LoRaWAN Data Logger or SenseCAP 4G Data Logger.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/2/-/2-101991044-sensecap-s200-wind-speed-and-direction-sensor-font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/SenseCAP-S200-Wind-Speed-and-Direction-Sensor-p-5693.html
+  repositories: []
+name: '101991044'
+ref: seeedstudio/101991044
+release_date: null
+sku: '101991044'
+spec: null
+status: ''
+vendor: seeedstudio

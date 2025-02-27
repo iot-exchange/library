@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Click Shield for Nucleo-32 An affordable and flexible way to build new\
+  \ concepts by combining STM32 Nucleo-32 boards with Click boards\u2122 Start your\
+  \ project development with our Click Shield for Nucleo-32 fast and easy. The STM32\
+  \ Nucleo-32 boards combined with the mikroBUS\u2122 sockets provide you immediate\
+  \ access to hundreds of Click boards\u2122 in our offer,..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/click-shield-for-nucleo-32/click-shield-for-nucleo-32-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/click-shield-for-nucleo-32
+  repositories: []
+name: MIKROE-5177
+ref: mikroe/mikroe-5177
+release_date: null
+sku: mikroe-5177
+spec: null
+status: ''
+vendor: mikroe

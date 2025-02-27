@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Low-Profile ICE Tower CPU Cooling Fan for Raspberry Pi 5, Raspberry Pi
+  5 Cooler, U-Shaped Copper Tube, Cooling Fins, With Colorful RGB LED
+extra:
+  SKU: '27034'
+  price: $13.63 -  $14.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ice-tower-fan-v2-for-pi5-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ice-tower-fan-v2-for-pi5.htm
+  - https://www.waveshare.com/product/ice-tower-fan-v2-for-pi5.htm "Low-Profile ICE
+    Tower CPU Cooling Fan for Raspberry Pi 5, Raspberry Pi 5 Cooler, U-Shaped Copper
+    Tube, Cooling Fins, With Colorful RGB LED"
+  repositories: []
+name: ICE Tower Fan V2 for Pi5
+ref: waveshare/ice-tower-fan-v2-for-pi5
+release_date: null
+sku: ice-tower-fan-v2-for-pi5
+spec: null
+status: ''
+vendor: waveshare

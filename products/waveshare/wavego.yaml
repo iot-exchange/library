@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: WAVEGO, 12-DOF Bionic Dog-Like Robot, Open Source for ESP32 And PI4B,
+  Facial Recognition, Color Tracking, Motion Detection
+extra:
+  Multi Options: ''
+  Price: $239.99 - $312.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rpi-wavego-acce-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/a/wavego-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/wavego.htm
+  repositories: []
+name: wavego
+ref: waveshare/wavego
+release_date: null
+sku: wavego
+spec: null
+status: ''
+vendor: waveshare

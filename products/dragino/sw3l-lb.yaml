@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: LoRaWAN Outdoor Flow Sensor
+extra:
+  Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865
+  Battery: 8500mAh Li/SOCl2 Battery (SW3L-LB), Solar panel + 3000mAh Li-ion battery
+    (SW3L-LS)
+  Monitor water waste: ''
+  Support Bluetooth: v5.1 and LoRaWAN remote configure
+  Support wireless OTA update firmware: ''
+  Ultra-low power consumption: ''
+  Upload water flow volume: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/d65085d854a39feae81a41eb458281c5_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/water-meter-flow-sensor/item/269-sw3l-lb-ls.html
+  repositories: []
+name: SW3L-LB
+ref: dragino/sw3l-lb
+release_date: null
+sku: sw3l-lb
+spec: null
+status: ''
+vendor: dragino

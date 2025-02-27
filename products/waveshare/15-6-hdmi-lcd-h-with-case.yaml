@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "15.6inch Capacitive Touch Screen LCD (H) with Case, 1920\xD71080, HDMI,\
+  \ IPS, Various Systems Support"
+extra:
+  Multi Options: ''
+  Price: $166.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/5/15.6hk-m.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/15.6inch-hdmi-lcd-h-with-case.htm
+  repositories: []
+name: "15.6\u2033 HDMI LCD (H) (with case)"
+ref: waveshare/15-6-hdmi-lcd-h-with-case
+release_date: null
+sku: 15-6-hdmi-lcd-h-with-case
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "BT840 Click is a compact add-on board that provides advanced Bluetooth\
+  \ Low Energy (BLE) connectivity for modern IoT applications. This board features\
+  \ the BT840 module from Fanstel, based on the nRF52840 SoC from Nordic Semiconductor,\
+  \ equipped with a Cortex M4F MCU, 1MB Flash, 256KB RAM, and an ARM\xAE TrustZone\xAE\
+  \ Cryptocell-310 co-processor for enhanced..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/bt840-click/bt840-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/bt840-click
+  repositories: []
+name: MIKROE-6454
+ref: mikroe/mikroe-6454
+release_date: null
+sku: mikroe-6454
+spec: null
+status: ''
+vendor: mikroe

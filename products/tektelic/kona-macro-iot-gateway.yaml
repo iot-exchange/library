@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201900%201900'%3E%3C/svg%3E
+  models: []
+  products:
+  - https://tektelic.com/products/gateways/kona-macro-iot-gateway/
+  repositories: []
+name: KONA MACRO IOT GATEWAY
+ref: tektelic/kona-macro-iot-gateway
+release_date: null
+sku: kona-macro-iot-gateway
+spec: null
+status: ''
+vendor: tektelic

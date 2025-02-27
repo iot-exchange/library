@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Cat-1/GNSS HAT for Raspberry Pi, Based On SIM7670G module, Global Multi-band
+  LTE 4G Cat-1 support, GNSS positioning, 3x USB 2.0 extended ports
+extra:
+  Price: $43.63 - $44.99
+  SKU: '26861'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim7670g-lte-cat-1-gnss-hat-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/sim7670g-lte-cat-1-gnss-hat.htm
+  repositories: []
+name: SIM7670G LTE Cat-1/GNSS HAT
+ref: waveshare/sim7670g-lte-cat-1-gnss-hat
+release_date: null
+sku: sim7670g-lte-cat-1-gnss-hat
+spec: null
+status: ''
+vendor: waveshare

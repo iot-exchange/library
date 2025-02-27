@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC1352P7
+  repositories: []
+name: CC1352P7
+ref: ti/cc1352p7
+release_date: null
+sku: cc1352p7
+spec: null
+status: ''
+vendor: ti

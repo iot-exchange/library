@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Robot-Chassis Series Smart Mobile Robot Chassis Kit, Options for wheels
+  and chassis
+extra:
+  Multi Options: ''
+  Price: $11.99 -  $32.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/o/robot-chassis-ns-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/robot-chassis.htm
+  repositories: []
+name: robot_chassis
+ref: waveshare/robot-chassis
+release_date: null
+sku: robot-chassis
+spec: null
+status: ''
+vendor: waveshare

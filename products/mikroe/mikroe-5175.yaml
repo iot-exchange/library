@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Hall Current 15 Click is a compact add-on board that provides precise
+  AC or DC current-sensing solution. This board features the TMCS1101-Q1, a galvanically
+  isolated Hall-effect current sensor capable of DC or AC current measurement with
+  high accuracy, excellent linearity, and temperature stability from Texas Instruments.
+  A low-drift,...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/hall-current-15-click/hall-current-15-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/hall-current-15-click
+  - https://www.mikroe.com/cart?add=1&id_product=3355
+  repositories: []
+name: MIKROE-5175
+ref: mikroe/mikroe-5175
+release_date: null
+sku: mikroe-5175
+spec: null
+status: ''
+vendor: mikroe

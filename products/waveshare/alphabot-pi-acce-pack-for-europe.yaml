@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: AlphaBot (for Europe), Raspberry Pi robot building kit (no Pi)
+extra:
+  Price: $83.49 - $86.99
+  SKU: '12374'
+  price: $83.49 - $86.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/l/alphabot-22_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/alphabot-pi-acce-pack-for-europe.htm
+  repositories: []
+name: AlphaBot-Pi Acce Pack (for Europe)
+ref: waveshare/alphabot-pi-acce-pack-for-europe
+release_date: null
+sku: alphabot-pi-acce-pack-for-europe
+spec: null
+status: ''
+vendor: waveshare

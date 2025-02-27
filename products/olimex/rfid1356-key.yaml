@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 0.90 EUR
+  discountedPrice2: 0.80 EUR
+  price: 1.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/RFID-Tags/1356/RFID1356-KEY/images/thumbs/200x150/RFID1356-KEY.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/RFID-Tags/1356/RFID1356-KEY/
+  repositories: []
+name: RFID1356-KEY
+ref: olimex/rfid1356-key
+release_date: null
+sku: rfid1356-key
+spec: null
+status: ''
+vendor: olimex

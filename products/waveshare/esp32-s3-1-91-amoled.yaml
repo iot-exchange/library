@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "ESP32-S3 1.91inch AMOLED Display Development Board, 240\xD7536, 32-bit\
+  \ LX7 Dual-core Processor, Up to 240MHz Frequency, Accelerometer And Gyroscope Sensor,\
+  \ ESP32 With Display"
+extra:
+  Price: $29.99 - $35.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-amoled-1.91-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/esp32-s3-amoled-1.91.htm
+  repositories: []
+name: "ESP32-S3 1.91\u2033 AMOLED"
+ref: waveshare/esp32-s3-1-91-amoled
+release_date: null
+sku: esp32-s3-1-91-amoled
+spec: null
+status: ''
+vendor: waveshare

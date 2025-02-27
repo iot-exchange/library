@@ -1,0 +1,34 @@
+alternatives: []
+certifications: []
+description: 32-bit MCU & 2.4 GHz Wi-Fi & Bluetooth/Bluetooth LE
+extra:
+  Core: Dual Core
+  Development Board: '[ESP32-DevKitC](https://www.espressif.com/en/products/hardware/esp32-devkitc/overview)[ESP-WROVER-KIT](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-wrover-kit-v3.html)[ESP32-LyraT](https://docs.espressif.com/projects/esp-adf/en/latest/get-started/get-started-esp32-lyrat.html)[ESP32-LyraT-Mini](https://docs.espressif.com/projects/esp-adf/en/latest/get-started/get-started-esp32-lyrat-mini.html)[ESP32-LyraTD-MSC](https://docs.espressif.com/projects/esp-adf/en/latest/get-started/get-started-esp32-lyratd-msc.html)[ESP32-LyraTD-SYNA](https://www.espressif.com/sites/default/files/documentation/ESP32-LyraTD-SYNA_User_Guide__EN.pdf)[ESP32-Vaquita-DSPG](https://github.com/espressif/esp-va-sdk/blob/master/docs/en/hw-reference/esp32/user-guide-esp32-vaquita-dspg.md)[ESP32-Korvo](https://github.com/espressif/esp-skainet/blob/master/docs/en/hw-reference/esp32/user-guide-esp32-korvo-v1.1.md)[ESP32-Ethernet-Kit](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-ethernet-kit.html)[ESP32-Korvo-DU1906](https://docs.espressif.com/projects/esp-adf/en/latest/get-started/get-started-esp32-korvo-du1906.html)'
+  Dimensions (mm): QFN 5x5
+  Flash (MB): N/A
+  Footprint: <https://www.espressif.com/sites/default/files/chips-dxf/ESP32-D0WD-V3_Footprint.asc>
+  Footprint Link: <https://www.espressif.com/sites/default/files/chips-dxf/ESP32-D0WD-V3_Footprint.asc>
+  MOQ: '5000'
+  Module: "[ESP32-WROOM-32E](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf)[ESP32-WROOM-32UE](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf)[ESP32\xAD\
+    -WROOM\xAD-DA](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-da_datasheet_en.pdf)[ESP32-WROVER-E](https://www.espressif.com/sites/default/files/documentation/esp32-wrover-e_esp32-wrover-ie_datasheet_en.pdf)[ESP32-WROVER-IE](https://www.espressif.com/sites/default/files/documentation/esp32-wrover-e_esp32-wrover-ie_datasheet_en.pdf)[ESP32-DU1906](https://www.espressif.com/sites/default/files/documentation/esp32-du1906_esp32-du1906-u_datasheet_en.pdf)[ESP32-DU1906-U](https://www.espressif.com/sites/default/files/documentation/esp32-du1906_esp32-du1906-u_datasheet_en.pdf)"
+  PSRAM (MB): N/A
+  Pins: '48'
+  RAM/ROM (KB): 520 KB SRAM 448 KB ROM 16 KB RTC SRAM
+  SPQ: '5000'
+  Variants: N/A
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP32-D0WD-V3_S_0.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
+  repositories: []
+name: ESP32-D0WD-V3
+ref: espressif/esp32-d0wd-v3
+release_date: null
+sku: esp32-d0wd-v3
+spec: null
+status: ''
+vendor: espressif

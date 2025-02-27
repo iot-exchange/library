@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Heart Rate 11 Click is a compact add-on board suitable for heart rate
+  monitoring applications. This board features the OB1203, a multi-channel light sensor
+  (LS/CS), a proximity sensor (PS), and a photoplethysmography sensor (PPG) from Renesas.
+  It can be configured as an ambient light sensor to measure ambient light similar
+  to the human eye experience or...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/heart-rate-11-click/heart-rate-11-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/heart-rate-11-click
+  repositories: []
+name: MIKROE-5170
+ref: mikroe/mikroe-5170
+release_date: null
+sku: mikroe-5170
+spec: null
+status: ''
+vendor: mikroe

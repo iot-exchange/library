@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "BeagleY\xAE-AI is a high-performance single board computer powered by\
+  \ the Texas Instruments AM67A AI vision processor, delivering up to 4 TOPS of deep\
+  \ learning capability. Ideal for robotics, automation, and intelligent vision projects,\
+  \ it features extensive connectivity options and a 40-pin header for easy prototyping.\
+  \ Perfect for enthusiasts and professionals alike, BeagleY\xAE-AI combines power\
+  \ and versatility in a compact, open-source design."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102991834-beagleyr-ai-first_.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/BeagleYr-AI-beagleboard-orgr-4-TOPS-AI-Acceleration-powered-by-TI-AM67A.html
+  repositories: []
+name: '102991834'
+ref: seeedstudio/102991834
+release_date: null
+sku: '102991834'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: RP2040-LoRa Development Board, Integrates SX1262 RF Chip, Long-Range
+  Communication, Options For Frequency Band
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-lora-lf-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rp2040-lora.htm
+  repositories: []
+name: rp2040_lora
+ref: waveshare/rp2040-lora
+release_date: null
+sku: rp2040-lora
+spec: null
+status: ''
+vendor: waveshare

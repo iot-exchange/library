@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Single-board computer with wireless and Bluetooth connectivity
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/7ee0b4ceafeccddd8aef917cc818990d/3f4ea/9371b539-77d4-47f1-b89b-aa65b23c9833_RPI%2BZERO%2BW%2BANGLE%2B2%2BREFRESH_.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/raspberry-pi-zero-w/
+  repositories: []
+name: Raspberry Pi Zero W
+ref: raspberrypi/raspberry-pi-zero-w
+release_date: null
+sku: raspberry-pi-zero-w
+spec: null
+status: ''
+vendor: raspberrypi

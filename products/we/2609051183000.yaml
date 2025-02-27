@@ -1,0 +1,32 @@
+alternatives: []
+certifications: []
+description: EV-Kit Metis-e
+extra:
+  Expected lifetime: '>10 years'
+  Frequency Range (MHz): 868.3 - 869.525
+  L (mm): '2'
+  "PTx, 50 \u2126(dBm)": '2.2'
+  PTx, e.r.p.(dBm): '14'
+  Production: active
+  Rb max.(kbps): '8'
+  "Rxsens, 50 \u2126(dBm)": '3.8'
+  Rxsens, e.r.p.(dBm): '-107'
+  VDD max.(V): '12'
+  VDD min.(V): '100'
+  dLoS(m): '1500'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/METIS-E#2609051183000
+  - https://www.we-online.com/en/components/products/METIS-E#2609059283001
+  repositories: []
+name: '2609051183000'
+ref: we/2609051183000
+release_date: null
+sku: '2609051183000'
+spec: null
+status: New i
+vendor: we

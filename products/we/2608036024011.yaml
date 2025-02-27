@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: Proteus-II USB radio stick
+extra:
+  Antenna type: Integrated PCB (integrated PCB antenna)
+  Data rate (kbps): '2000'
+  Expected lifetime: '>10 years'
+  Frequency range: 2402 - 2480
+  Max Voltage (V): '3.6'
+  Output power: '20'
+  Sensitivity: '-14'
+  Voltage (V): '1.8'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/PROTEUS-II#2608036024011
+  repositories: []
+name: '2608036024011'
+ref: we/2608036024011
+release_date: null
+sku: '2608036024011'
+spec: null
+status: Active
+vendor: we

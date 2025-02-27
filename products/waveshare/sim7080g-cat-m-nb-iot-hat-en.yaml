@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: NB-IoT / Cat-M(eMTC) / GNSS HAT for Raspberry Pi, Globally Applicable
+extra:
+  Price: $31.29 - $32.99
+  SKU: '17693'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim7080g-cat-m-nb-iot-hat-1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/sim7080g-cat-m-nb-iot-hat.htm
+  repositories: []
+name: SIM7080G Cat-M/NB-IoT HAT (EN)
+ref: waveshare/sim7080g-cat-m-nb-iot-hat-en
+release_date: null
+sku: sim7080g-cat-m-nb-iot-hat-en
+spec: null
+status: ''
+vendor: waveshare

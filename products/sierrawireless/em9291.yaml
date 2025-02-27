@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Global (AT&T (FirstNet), Verizon, T-Mobile, Telstra, NTT Docomo, Softbank)
+extra:
+  Bands: 'Sub-6 GHz: n1, n2, n3, n5, n7, n8, n12, n13, n14, n18, n20, n25, n26, n28,
+    n29, n30, n38, n40, n41, n48, n66, n70, n71, n75, n76, n77, n78, n79'
+  Fallback: 4G, 3G
+  Region (Carrier): Global (AT&T (FirstNet), Verizon, T-Mobile, Telstra, NTT Docomo,
+    Softbank)
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.sierrawireless.com/iot-modules/5g-modules/em9291/
+  repositories: []
+name: EM9291
+ref: sierrawireless/em9291
+release_date: null
+sku: em9291
+spec: null
+status: ''
+vendor: sierrawireless

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-011-Spkr-Left/images/thumbs/200x150/TERES-011-Spkr-Left.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-011-Spkr-Left/
+  repositories: []
+name: TERES-011-Spkr-Left
+ref: olimex/teres-011-spkr-left
+release_date: null
+sku: teres-011-spkr-left
+spec: null
+status: ''
+vendor: olimex

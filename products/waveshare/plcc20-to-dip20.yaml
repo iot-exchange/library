@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: PLCC20 TO DIP20, Programmer Adapter
+extra:
+  Price: $23.99 - $24.99
+  SKU: '3812'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/l/plcc20-to-dip20_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/plcc20-to-dip20.htm
+  repositories: []
+name: PLCC20 TO DIP20
+ref: waveshare/plcc20-to-dip20
+release_date: null
+sku: plcc20-to-dip20
+spec: null
+status: ''
+vendor: waveshare

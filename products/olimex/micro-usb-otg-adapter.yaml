@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Connectors/MICRO-USB-OTG-ADAPTER/images/thumbs/200x150/MICRO-USB-OTG-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Connectors/MICRO-USB-OTG-ADAPTER/
+  repositories: []
+name: MICRO-USB-OTG-ADAPTER
+ref: olimex/micro-usb-otg-adapter
+release_date: null
+sku: micro-usb-otg-adapter
+spec: null
+status: ''
+vendor: olimex

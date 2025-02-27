@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "Shutter Click is an adapter Click board\u2122 that can be used to implement\
+  \ an automated capturing function. This Click board\u2122 has one 3.5mm jack connector\
+  \ suitable for a camera connection with which the frame is captured. By combining\
+  \ two mikroBUS\u2122 pins and the VO617A, a high-reliability phototransistor from\
+  \ Vishay Semiconductors used as a camera activation..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/shutter-click/shutter-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/cart?add=1&id_product=3529
+  - https://www.mikroe.com/shutter-click
+  repositories: []
+name: MIKROE-5493
+ref: mikroe/mikroe-5493
+release_date: null
+sku: mikroe-5493
+spec: null
+status: ''
+vendor: mikroe

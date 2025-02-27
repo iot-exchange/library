@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Certificate-Based Authentication and Pairing (CBAP) allows our customers
+  to connect their Bluetooth LE devices without requiring manual authentication, which
+  streamlines the Bluetooth authentication and pairing process.
+extra:
+  Supported Devices: Secure Vault-High and Secure Vault-Mid
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/bluetooth/cbap
+  repositories: []
+name: CBAP
+ref: silicon-labs/cbap
+release_date: null
+sku: cbap
+spec: null
+status: ''
+vendor: silicon-labs

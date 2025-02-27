@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Retro-Computers/JOYSTICK-ARCADE/images/thumbs/200x150/arcade-joystick-2.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Retro-Computers/JOYSTICK-ARCADE/
+  repositories: []
+name: JOYSTICK-ARCADE
+ref: olimex/joystick-arcade
+release_date: null
+sku: joystick-arcade
+spec: null
+status: ''
+vendor: olimex

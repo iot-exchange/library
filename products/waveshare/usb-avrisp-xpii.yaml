@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: USB AVRISP XPII, AVR Programmer
+extra:
+  Price: $34.79 - $36.99
+  SKU: '302'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-avrisp-xpii_l.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/usb-avrisp-xpii.htm
+  repositories: []
+name: USB AVRISP XPII
+ref: waveshare/usb-avrisp-xpii
+release_date: null
+sku: usb-avrisp-xpii
+spec: null
+status: ''
+vendor: waveshare

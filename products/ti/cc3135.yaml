@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC3135
+  repositories: []
+name: CC3135
+ref: ti/cc3135
+release_date: null
+sku: cc3135
+spec: null
+status: ''
+vendor: ti

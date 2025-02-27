@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Wio Terminal Chassis-Wio-E5 and GNSS is a plug-and-play Long Range communication
+  expansion board for the Wio Terminal development board. It supports the global Long
+  Range frequency plan. With built-in GNSS, you can easily use it for Long Range IoT
+  applications such as Long Range signal analyzer.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992728_feature-02.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/Wio-Terminal-Chassis-LoRa-E5-and-GNSS-p-5053.html
+  repositories: []
+name: '114992728'
+ref: seeedstudio/114992728
+release_date: null
+sku: '114992728'
+spec: null
+status: ''
+vendor: seeedstudio

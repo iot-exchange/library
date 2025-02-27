@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Sensors Pack
+extra:
+  Price: $39.99 - $41.99
+  SKU: '9467'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/e/sensors-pack_l_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/sensors-pack.htm
+  repositories: []
+name: Sensors Pack
+ref: waveshare/sensors-pack
+release_date: null
+sku: sensors-pack
+spec: null
+status: ''
+vendor: waveshare

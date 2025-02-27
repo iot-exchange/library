@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: EV-Kit Telesto-III RF pad incl. ext. antenna
+extra:
+  Expected lifetime: '>10 years'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/TELESTO-III#2609019291001
+  - https://www.we-online.com/en/components/products/TELESTO-III_MESH#2609019291001
+  repositories: []
+name: '2609019291001'
+ref: we/2609019291001
+release_date: null
+sku: '2609019291001'
+spec: null
+status: Active i
+vendor: we

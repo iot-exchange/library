@@ -1,0 +1,41 @@
+alternatives: []
+certifications: []
+description: Bluetooth 5.1 LE module for consumer equipment.
+extra:
+  Bluetooth: 5.1 LE
+  Chipset: DA14531
+  Dimension: 7.4 x 7.0 x 1.3 mm
+  ETSI Report: 'Yes'
+  FCC/ISED Certified: 'Yes'
+  Frequency: 2.4GHz
+  Grade: Consumer
+  Host Interface (Bluetooth): UART, SPI, I2C, GPIO, ADC, Quadrature Decoder
+  IC Manufacturer: Renesas
+  Integrated Antenna: 'Yes'
+  Interface Voltage: 3.0V
+  MIC (Japan) Certified: 'Yes'
+  Mounting Type: SMT
+  Operating Temperature (degC): "-40\u2103 to 85\u2103"
+  Package: Metal Can
+  Packaging: Tape and Reel
+  Receive Mode Current: ''
+  RoHS Support: 'Yes'
+  Sleep Mode Current (Bluetooth): ''
+  Supply Voltage: 1.8V to 3.3V
+  Technology: Bluetooth
+  Transmit Mode Current (Bluetooth): ''
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/products/connectivitymodule/bluetooth#series-lineup
+  repositories: []
+name: Type 2TY
+ref: murata/type-2ty
+release_date: null
+sku: type-2ty
+spec: null
+status: ''
+vendor: murata

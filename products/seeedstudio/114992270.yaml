@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: This is a 3D stereo camera module that features dual IMX219 cameras onboard
+  with 8 megapixels on each camera, which is suitable to use with the NVIDIA Jetson
+  Nano and NVIDIA Jetson Xavier NX Development Kits.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992265_-preview-19.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/IMX219-83-Stereo-Camera-8MP-Binocular-Camera-Module-Depth-Vision-Applicable-for-Jetson-Nano-p-4610.html
+  repositories: []
+name: '114992270'
+ref: seeedstudio/114992270
+release_date: null
+sku: '114992270'
+spec: null
+status: ''
+vendor: seeedstudio

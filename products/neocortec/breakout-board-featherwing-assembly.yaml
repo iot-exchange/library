@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: This breakout board is compatible with the Adafruit Feather series of
+  development boards, supporting the Arduino development environment, making them
+  very easy to work with.
+extra:
+  Compatibility: Adafruit Feather series
+  Integration: Low cost gateway design with Adafruit Feather ESP-32 WiFi device
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://neocortec.com/wp-content/uploads/2019/08/FWNC_2400.png
+  models: []
+  products:
+  - https://neocortec.com/products-2/the-neocortec-nc2400-breakout-board-featherwing-assembly/
+  repositories: []
+name: "Breakout Board \u2013 Featherwing Assembly"
+ref: neocortec/breakout-board-featherwing-assembly
+release_date: null
+sku: breakout-board-featherwing-assembly
+spec: null
+status: ''
+vendor: neocortec

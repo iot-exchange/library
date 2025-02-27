@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Kerlink Wirnet iFemtoCell remains a reference on the market. This gateway
+  is the perfect fit for enterprise-grade indoor IoT use cases.
+extra:
+  backhaul options: Wi-Fi and ethernet
+  features: carrier-grade design, remote management tools
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.kerlink.com/wp-content/uploads/2019/09/Wirnet-iFemtoCell-3-340x340.png
+  models: []
+  products:
+  - https://www.kerlink.com/product/wirnet-ifemtocell/
+  repositories: []
+name: Wirnet iFemtoCell
+ref: kerlink/wirnet-ifemtocell
+release_date: null
+sku: wirnet-ifemtocell
+spec: null
+status: ''
+vendor: kerlink

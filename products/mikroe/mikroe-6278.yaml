@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LTE Cat.1 3 Click (for Australia) is a compact add-on board for reliable
+  4G wireless communication. This board features the EG91AUXGA-128-SGNS, an LTE Cat
+  1 IoT module that meets the 3GPP Release 11 standard from Quectel. It supports multiple
+  wireless standards, including LTE-FDD, WCDMA, and GSM, ensuring broad network compatibility.
+  Key features include...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lte-cat1-3-click-for-australia/lte-cat1-3-click-for-australia-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/lte-cat1-3-click-for-australia
+  repositories: []
+name: MIKROE-6278
+ref: mikroe/mikroe-6278
+release_date: null
+sku: mikroe-6278
+spec: null
+status: ''
+vendor: mikroe

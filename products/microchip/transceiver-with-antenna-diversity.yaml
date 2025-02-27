@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Max Frequency (GHz): ''
+  "Max Operating Temp (\xB0C)": '105'
+  Max Sensitivity (dBm): '-124'
+  Max Voltage (V): '5.5'
+  Min Frequency (GHz): '10.8'
+  "Min Operating Temp (\xB0C)": '-40'
+  Min Sensitivity (dBm): '-127'
+  Min Voltage (V): '2'
+  Package: 32/VQFN
+  Qty: '20'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - ''
+  repositories: []
+name: Transceiver with Antenna Diversity
+ref: microchip/transceiver-with-antenna-diversity
+release_date: null
+sku: transceiver-with-antenna-diversity
+spec: null
+status: ''
+vendor: microchip

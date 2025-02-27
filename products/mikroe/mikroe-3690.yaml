@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: "Color 9 Click is a very accurate color sensing Click board\u2122 which\
+  \ features the APDS-9250, IR and ambient light sensor, from Broadcom."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/color-9-click/color-9-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=125#MIKROE-3690
+  repositories: []
+name: MIKROE-3690
+ref: mikroe/mikroe-3690
+release_date: null
+sku: mikroe-3690
+spec: null
+status: ''
+vendor: mikroe

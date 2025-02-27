@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: An audio output HAT with integrated amplifier, ideal for Raspberry Pi
+  hi-fi systems
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - ./img/cz
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/digiamp-plus/
+  repositories: []
+name: Raspberry Pi DigiAMP+
+ref: raspberrypi/raspberry-pi-digiamp
+release_date: null
+sku: raspberry-pi-digiamp
+spec: null
+status: ''
+vendor: raspberrypi

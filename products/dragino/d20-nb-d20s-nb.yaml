@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: NB-IoT Waterproof /Outdoor Temperature Sensor
+extra:
+  1 x DS18B20 Temperature sensor, 2 meters: ''
+  Battery: 8500mAh for long term use
+  Measure range: "-55\xB0C ~ 125\xB0C"
+  Multiply Sampling and one uplink: ''
+  NB-IoT Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85 @H-FDD
+  Support BLE remote configure and update firmware: ''
+  Temperature alarm: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/dbe05350458c15fa6c802fb686391131_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/temperature-humidity-sensor/item/292-d20-nb-d20s-nb.html
+  repositories: []
+name: D20-NB/ D20S-NB
+ref: dragino/d20-nb-d20s-nb
+release_date: null
+sku: d20-nb-d20s-nb
+spec: null
+status: ''
+vendor: dragino

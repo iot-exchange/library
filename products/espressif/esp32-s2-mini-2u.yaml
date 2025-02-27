@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: For flashing / testing ESP32-S2-MINI-1U / ESP32-S2-MINI-2U / ESP32-S3-MINI-1U
+  modules (must be used with ESP-BAT32 for testing)
+extra:
+  Antenna: IPEX antenna connector
+  Chip Embedded: ESP32-S2FH4ESP32-S2FN4R2
+  Development Board: ESP32-S2-DevKitM-1
+  Dimensions (mm): "15.4\xD715.4\xD72.4"
+  Flash (MB): 4 MB embedded in chip
+  Footprint: ''
+  Footprint Link: https://www.espressif.com/sites/default/files/modules-dxf/ESP32-S2-MINI-2U%20PCB%20Footprint.dxf
+  PSRAM (MB): N/A2
+  Pins: '65'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-S2-MINI-2U%20S_0.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp32-s2-mini-2_esp32-s2-mini-2u_datasheet_en.pdf
+  repositories: []
+name: ESP32-S2-MINI-2U
+ref: espressif/esp32-s2-mini-2u
+release_date: null
+sku: esp32-s2-mini-2u
+spec: null
+status: ''
+vendor: espressif

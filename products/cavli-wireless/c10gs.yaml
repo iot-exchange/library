@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: C-Series LTE Cat 4 Module supporting LTE bands for global deployment.
+extra:
+  Fallback Capability: 2G fallback capability
+  Form Factor: LGA and MiniPCIe
+  Network Speeds: 150 Mbps download and 50 Mbps upload
+  OS: Linux
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: C10GS
+ref: cavli-wireless/c10gs
+release_date: null
+sku: c10gs
+spec: null
+status: ''
+vendor: cavli-wireless

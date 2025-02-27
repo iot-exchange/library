@@ -1,0 +1,31 @@
+alternatives: []
+certifications: []
+description: This 15.6-inch mobile monitor comes with an IPS panel, accurate color
+  reproduction, wide viewing angles, HDR technology, 3840x2160 resolution, 16:9 aspect
+  ratio.
+extra:
+  Panel: IPS
+  Resolution: 3840x2160
+  Size: 15.6inch
+  aspect_ratio: '16:9'
+  color_coverage: 100%sRGB
+  contrast_ratio: '1000:1'
+  price: $199.00
+  resolution: 3840x2160
+  size: 15.6 inch
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/2/-/2-104990823-15.6_-4k-font_1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/15-6-Inch-IPS-Portable-Monitor-p-5757.html
+  repositories: []
+name: '104990823'
+ref: seeedstudio/104990823
+release_date: null
+sku: '104990823'
+spec: null
+status: ''
+vendor: seeedstudio

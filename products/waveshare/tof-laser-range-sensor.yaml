@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: TOF Laser Range Sensor, UART / CAN Bus, Cascading Support, Ranging up
+  to 5m, with Software
+extra:
+  Price: $17.31 - $17.99
+  SKU: '18301'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/o/tof-laser-range-sensor-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/tof-laser-range-sensor.htm
+  repositories: []
+name: TOF Laser Range Sensor
+ref: waveshare/tof-laser-range-sensor
+release_date: null
+sku: tof-laser-range-sensor
+spec: null
+status: ''
+vendor: waveshare

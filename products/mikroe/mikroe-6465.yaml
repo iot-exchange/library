@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "LightRanger 12 Click is a compact add-on board for precise distance\
+  \ measurement and spatial mapping applications. This board features the VL53L8CH,\
+  \ an 8x8 multizone Time-of-Flight (ToF) sensor from STMicroelectronics, made for\
+  \ AI-driven solutions. The board features a wide 65\xB0 diagonal field of view,\
+  \ supports up to 64 configurable zones, and transmits raw..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lightranger-12-click/lightranger-12-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/lightranger-12-click
+  repositories: []
+name: MIKROE-6465
+ref: mikroe/mikroe-6465
+release_date: null
+sku: mikroe-6465
+spec: null
+status: ''
+vendor: mikroe

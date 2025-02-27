@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Moisture Sensor
+extra:
+  Price: $2.59 - $2.99
+  SKU: '9527'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/o/moisture-sensor-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/moisture-sensor.htm
+  repositories: []
+name: Moisture Sensor
+ref: waveshare/moisture-sensor
+release_date: null
+sku: moisture-sensor
+spec: null
+status: ''
+vendor: waveshare

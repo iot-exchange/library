@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi RGB-LED-Matrix Expansion Module. The Matrix LED module is
+  specifically designed for Raspberry Pi B/B+/A+.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimages3179900171.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-2246.html?bazaar4_retailer-products%5Bpage%5D=2#317990017
+  - https://www.seeedstudio.com/Raspberry-Pi-RGB-LED-Matrix-Expansion-Module-p-2283.html
+  repositories: []
+name: '317990017'
+ref: seeedstudio/317990017
+release_date: null
+sku: '317990017'
+spec: null
+status: ''
+vendor: seeedstudio

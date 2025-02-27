@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/LCD/LCD16x2-BL/images/thumbs/200x150/LCD16x2-BL.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/LCD/LCD16x2-BL/
+  repositories: []
+name: LCD16x2-BL
+ref: olimex/lcd16x2-bl
+release_date: null
+sku: lcd16x2-bl
+spec: null
+status: ''
+vendor: olimex

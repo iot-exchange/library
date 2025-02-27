@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: EFR32xG21A Wireless Gecko 2.4 GHz +10 dBm Radio Board
+extra:
+  MSRP: $49.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/slwrb4181a-wireless-gecko-radio-board.jpg
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/slwrb4181b-efr32xg21-wireless-gecko-radio-board
+  repositories: []
+name: SLWRB4181B
+ref: silicon-labs/slwrb4181b
+release_date: null
+sku: slwrb4181b
+spec: null
+status: ''
+vendor: silicon-labs

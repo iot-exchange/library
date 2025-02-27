@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: EdgeBox-RPI-200 is not only an industrial raspberry pi/linux gateway
+  and IIoT gateway, but also an all-in-one Raspberry Pi-based edge computing controllers
+  that combines multiple industrial purposes. Designed as high-scalability and rugged
+  industrial hardware, mounted with rich IO resources, and supported by the great
+  Raspberry Pi industrial software ecosystem, it is an ideal choice for smart automation
+  and Industrial Internet of Things(IIoT) solutions.
+extra:
+  price: $319.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/i/m/image_6.jpeg
+  - ./img/ae
+  models: []
+  products:
+  - https://www.seeedstudio.com/EdgeBox-RPi-200-CM4108032-p-5598.html
+  repositories: []
+name: '114110227'
+ref: seeedstudio/114110227
+release_date: null
+sku: '114110227'
+spec: null
+status: ''
+vendor: seeedstudio

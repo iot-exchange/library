@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "A603 Carrier Board for Jetson Orin\u2122 NX/Orin\u2122 Nano. Powerful\
+  \ extension board supporting Jetson Orin\u2122 NX/Orin\u2122 Nano modules. It features\
+  \ 1x GbE port, M.2 Key M for SSD, M.2 Key E for WiFi/BlueTooth, MIPI CSI and HDMI\
+  \ for high-quality video capture and display. It also contains 4x USB ports, fan,\
+  \ RTC, with flexible 9-20V power supply. By the compact design, it can be flexible\
+  \ and easily integrated into a variety of edge computing applications, saving space."
+extra:
+  Price: $170.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102110840-a603-carrier-board-jetson-orin_-nxnano-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/A603-Carrier-Board-for-Jetson-Orin-NX-Nano-p-5635.html
+  repositories: []
+name: '102110840'
+ref: seeedstudio/102110840
+release_date: null
+sku: '102110840'
+spec: null
+status: ''
+vendor: seeedstudio

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Price: $0.15 - $0.49
+  SKU: '10656'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/u/jumper-wire-3-pin-to-separated-pins.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/jumper-wire-3-pin-to-separated-pins.htm
+  repositories: []
+name: Jumper Wire 3-pin to separated pins
+ref: waveshare/jumper-wire-3-pin-to-separated-pins
+release_date: null
+sku: jumper-wire-3-pin-to-separated-pins
+spec: null
+status: ''
+vendor: waveshare

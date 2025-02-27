@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: "SORACOM Air for Cellular (\"Air Cellular\u201D) is a service that provides\
+  \ Air SIM, a data communications SIM card intended specifically for IoT devices"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.seeedstudio.com/SORACOM-Air-SIM-Card-p-3070.html
+  repositories: []
+name: '114991552'
+ref: seeedstudio/114991552
+release_date: null
+sku: '114991552'
+spec: null
+status: ''
+vendor: seeedstudio

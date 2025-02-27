@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Test & Burn-in Socket
+extra:
+  Price: $16.99
+  SKU: '11136'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/6/5/652c0082211w-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/652c0082211w.htm
+  repositories: []
+name: 652C0082211W
+ref: waveshare/652c0082211w
+release_date: null
+sku: 652c0082211w
+spec: null
+status: ''
+vendor: waveshare

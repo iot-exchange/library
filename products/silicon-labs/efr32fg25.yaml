@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "EFR32FG25 wireless SoCs are an ideal solution for long range, Sub-GHz\
+  \ wireless connectivity for smart metering, lighting, city and building automation.\
+  \ The inclusion of multi-rate OFDM, FSK, and O-QPSK modulation schemes allows for\
+  \ data rates up to 3.6 Mbps while keeping immunity to 2.4 GHz interference. The\
+  \ large memory footprint and increased IO count allows for design consolidation\
+  \ and when combined with Secure Vault\u2122 can provide higher level system security."
+extra:
+  Up to: 1920 kB of Flash and 512 kB of RAM
+  Wi-SUN Multi-rate: OFDM, FSK, and O-QPSK modulation
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/proprietary/efr32fg25-sub-ghz-wireless-socs
+  repositories: []
+name: EFR32FG25
+ref: silicon-labs/efr32fg25
+release_date: null
+sku: efr32fg25
+spec: null
+status: ''
+vendor: silicon-labs

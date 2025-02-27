@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: This shield is a 2-Channel CAN-BUS(FD) Shield for Raspberry Pi (MCP2518FD),
+  supports the CAN FD protocol and supports transmission speed up to 8 Mbps.
+extra:
+  price: $69.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991421_preview-07_3-min.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/CAN-BUS-FD-HAT-for-Raspberry-Pi-p-4742.html
+  repositories: []
+name: '103990563'
+ref: seeedstudio/103990563
+release_date: null
+sku: '103990563'
+spec: null
+status: ''
+vendor: seeedstudio

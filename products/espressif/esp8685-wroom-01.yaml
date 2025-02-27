@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: The ESP8685-WROOM-01 module is based on the ESP8685 chip. It can be mounted
+  onto the surface of a PCB board, or connected to a PCB board via pin headers. It
+  has 15 GPIOs, and supports UART, SPI, I2C, LED PWM, I2S, RMT, etc.
+extra:
+  Antenna: PCB antenna
+  Chip Embedded: ESP8685H4
+  Development Board: N/A
+  Dimensions (mm): 16x24x3.1
+  Flash (MB): 2, 4
+  PSRAM (MB): N/A
+  Pins: '22'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP8685-WROOM-01%20S_0.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp8685-wroom-01_datasheet_en.pdf
+  repositories: []
+name: ESP8685-WROOM-01
+ref: espressif/esp8685-wroom-01
+release_date: null
+sku: esp8685-wroom-01
+spec: null
+status: ''
+vendor: espressif

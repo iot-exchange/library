@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Surface temp 2 Click is a compact add-on board that contains a high accuracy
+  temperature sensor offering breakthrough performance over a wide industrial temperature
+  range. This board features the ADT7422, a 16-bit I2C temperature sensor from Analog
+  Devices. The ADT7422 features a precision ADC that provides 16-bit temperature measurement
+  in the range of...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/surface-temp-2-click/surface-temp-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/surface-temp-2-click
+  repositories: []
+name: MIKROE-4266
+ref: mikroe/mikroe-4266
+release_date: null
+sku: mikroe-4266
+spec: null
+status: ''
+vendor: mikroe

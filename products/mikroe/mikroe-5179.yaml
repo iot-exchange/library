@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: SPI Isolator 5 Click is a compact add-on board with a digital isolator
+  optimized for a serial peripheral interface. This board features the DCL541A01,
+  a high-speed quad-channel digital isolator from Toshiba Semiconductor. Outstanding
+  performance characteristics of the DCL541A01 are achieved by Toshiba CMOS technology
+  and the magnetic coupling structure....
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/spi-isolator-5-click/spi-isolator-5-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/spi-isolator-5-click
+  repositories: []
+name: MIKROE-5179
+ref: mikroe/mikroe-5179
+release_date: null
+sku: mikroe-5179
+spec: null
+status: ''
+vendor: mikroe

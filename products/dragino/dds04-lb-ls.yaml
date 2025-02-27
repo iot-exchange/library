@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: LoRaWAN 4-Channels Distance Detection Sensor
+extra:
+  Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
+  Battery: 8500mAh Li/SOCl2 Battery (DDS04-LB), Solar panel + 3000mAh Li-ion battery
+    (DDS04-LS)
+  Features: Ultrasonic sensing, support max 4 channels
+  Power Consumption: Ultra Low Power Consumption
+  Type: LoRaWAN 1.0.3 Class A
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/8c4e7ddecfb739ef5c33c55621b27630_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/distance-level-sensor/item/280-dds04-lb-ls.html
+  repositories: []
+name: DDS04-LB/LS
+ref: dragino/dds04-lb-ls
+release_date: null
+sku: dds04-lb-ls
+spec: null
+status: ''
+vendor: dragino

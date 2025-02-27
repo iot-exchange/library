@@ -1,0 +1,43 @@
+alternatives: []
+certifications: []
+description: "RF front-end module (FEM) for Bluetooth\xAE Low Energy, Bluetooth\xAE\
+  \ mesh, 2.4 GHz proprietary and Thread and Zigbee. Supports Bluetooth\xAE Low Energy,\
+  \ Bluetooth\xAE mesh, Thread and Zigbee (802.15.4) and 2.4 GHz proprietary protocols."
+extra:
+  Antenna ports: Two for antenna diversity
+  Features: "Supports Bluetooth\xAE Low Energy, Bluetooth\xAE mesh, Thread and Zigbee\
+    \ (802.15.4)"
+  Function: RF front-end module
+  Noise figure: 2.7 dB
+  Operating Temperature: "-40 \xB0C to 105 \xB0C"
+  Operating temperature: "-40 \xB0C to 105 \xB0C"
+  Operating temperature range: "-40 \xB0C to 105 \xB0C"
+  Output Power: up to +21 dBm
+  Package: 4x4 mm QFN16
+  Protocols: "Bluetooth\xAE Low Energy, Bluetooth\xAE mesh, Thread, Zigbee"
+  RX Gain: 13 dB
+  RX gain: 13 dB
+  Range extension: Between 6.3-10x when combined with an nRF52 or nRF53 Series SoC
+  Supply Range: 1.7 to 3.6 V
+  Supply range: 1.7 to 3.6 V
+  TX gain control: via I/Os, SPI, or a combination
+  Temperature Range: "-40 \xB0C to 105 \xB0C"
+  Tunable output power: up to +21 dBm
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.nordicsemi.com/-/media/Images/Products/RF-FEM/nRF21-Series/nRF21540-QFN16-4x4-stacked_web.png?h=49&iar=0&mw=50&w=50&hash=E9FE14FA3E0C35A7DC6FB37A2AD1F5E9
+  - https://www.nordicsemi.com/-/media/Images/Products/RF-FEM/nRF21-Series/nRF21540-QFN16-4x4-stacked_web.png?h=500&iar=0&mh=500&w=510&hash=5724CDBC3667ECE1C1BCA464391CF00B
+  - https://www.nordicsemi.com/-/media/Images/Products/RF-FEM/nRF21-Series/nRF21540-QFN16-4x4-stacked_web.png?h=250&iar=0&mh=250&w=255&hash=9A6F1DC209D1C5FF0D2F70D1B30F3E7B
+  models: []
+  products:
+  - https://www.nordicsemi.com/Products/nRF21540
+  repositories: []
+name: nRF21540
+ref: nordicsemi/nrf21540
+release_date: null
+sku: nrf21540
+spec: null
+status: ''
+vendor: nordicsemi

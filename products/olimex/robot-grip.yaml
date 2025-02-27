@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 8.00 EUR
+  price2: 7.20 EUR
+  price3: 6.40 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/ServoMotors/ROBOT-GRIP/images/thumbs/200x150/ROBOT-GRIP.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/ServoMotors/ROBOT-GRIP/
+  repositories: []
+name: ROBOT-GRIP
+ref: olimex/robot-grip
+release_date: null
+sku: robot-grip
+spec: null
+status: ''
+vendor: olimex

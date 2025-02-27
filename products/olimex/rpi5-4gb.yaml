@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/RaspberryPi/RPi5-8GB/images/thumbs/200x150/RPi5-8GB-2.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/RaspberryPi/RPi5-4GB/
+  repositories: []
+name: RPi5-4GB
+ref: olimex/rpi5-4gb
+release_date: null
+sku: rpi5-4gb
+spec: null
+status: ''
+vendor: olimex

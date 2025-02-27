@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: Microcontroller with Bluetooth LE, Zigbee, Thread, Proprietary
+extra:
+  Core: ARM Cortex M4F
+  Current Consumption: '1.5'
+  Frequency: 64 MHz
+  Memory: '1024'
+  Output Power: '12'
+  Package: 39/MODULE
+  RAM: '128'
+  Sensitivity: '-103'
+  Temperature Range: -40 to 125
+  Type: Module
+  Voltage Range: 1.9 to 3.6
+  Wireless Protocols: Bluetooth LE, Zigbee, Thread, Proprietary
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: '4.38'
+ref: microchip/4-38
+release_date: null
+sku: 4-38
+spec: null
+status: ''
+vendor: microchip

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Soldering-Kits/Intermediate/URC/images/thumbs/200x150/URC.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Soldering-Kits/Intermediate/URC/open-source-hardware
+  repositories: []
+name: URC
+ref: olimex/urc
+release_date: null
+sku: urc
+spec: null
+status: ''
+vendor: olimex

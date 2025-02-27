@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: The LPWAN Asset Tracker Dev kit is an open source platform for tracking
+  that supports the Amazon Sidewalk network. It achieves indoor&outdoor positioning
+  and environmental monitoring, powered by the LR1110 and Nordic nRF52840 chips, and
+  compatible with Grove sensors.
+extra:
+  features: open source platform for tracking
+  price: $30.90
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-314010819-pt1000-temperature-sensor-45font.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114993187-sidewalk-front.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/LPWAN-Asset-Tracker-Dev-kit-WM1110-p-5846.html
+  repositories: []
+name: '114993187'
+ref: seeedstudio/114993187
+release_date: null
+sku: '114993187'
+spec: null
+status: ''
+vendor: seeedstudio

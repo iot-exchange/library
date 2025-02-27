@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: The Raspberry Pi SSD Kit is a Raspberry Pi M.2 HAT+ with a Raspberry
+  Pi NVMe SSD. It unlocks outstanding performance for I/O intensive applications on
+  Raspberry Pi 5, including super-fast startup when booting from SSD.
+extra:
+  Capacity: 512GB
+  Storage: 512GB
+  capacity: 256GB
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/s/s/ssd_kit_lifestyle.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-SSD-Kits-for-Raspberry-Pi-5-512GB-p-6238.html
+  repositories: []
+name: '112990287'
+ref: seeedstudio/112990287
+release_date: null
+sku: '112990287'
+spec: null
+status: ''
+vendor: seeedstudio

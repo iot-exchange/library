@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 'TFT Board 7 Capacitive with frame is a 7" display board which features
+  the standardized 2x20-pin display connector. The display board integrates a capacitive
+  multitouch panel with swipe and zoom gesture support. The TFT display module supports
+  up to 24-bit pixel format (RGB: 888), allowing a true-color palette of 16,7 million
+  colors.'
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.mikroe.com/img/ac
+  models: []
+  products: []
+  repositories: []
+name: MIKROE-3860
+ref: mikroe/mikroe-3860
+release_date: null
+sku: mikroe-3860
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Slamtec AURORA All-in-one Localization And Mapping Sensor, Large Mapping
+  Area, Centimeter-level Positioning Accuracy, Multi-platform Support
+extra:
+  Price: $859.99
+  SKU: '30252'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.waveshare.com/product/aurora.htm
+  repositories: []
+name: AURORA
+ref: waveshare/aurora
+release_date: null
+sku: aurora
+spec: null
+status: ''
+vendor: waveshare

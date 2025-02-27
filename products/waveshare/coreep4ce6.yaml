@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Part No.:CoreEP4CE6, ALTERA Core Board
+extra:
+  Price: $32.95 - $34.99
+  SKU: '6483'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/coreep4ce6_l_1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/coreep4ce6.htm
+  repositories: []
+name: CoreEP4CE6
+ref: waveshare/coreep4ce6
+release_date: null
+sku: coreep4ce6
+spec: null
+status: ''
+vendor: waveshare

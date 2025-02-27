@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Charger 23 Click is a compact add-on board providing a single-cell battery
+  charging solution. This board features the ISL78693, a single-cell Li-ion or Li-polymer
+  battery charger from Renesas. The ISL78693 can operate with an input voltage as
+  low as 2.6V and works as a linear charger with the battery charged in a Constant
+  Current/Constant Voltage (CC/CV)...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/charger-23-click/charger-23-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/charger-23-click
+  repositories: []
+name: MIKROE-5573
+ref: mikroe/mikroe-5573
+release_date: null
+sku: mikroe-5573
+spec: null
+status: ''
+vendor: mikroe

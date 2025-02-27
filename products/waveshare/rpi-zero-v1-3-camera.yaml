@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Raspberry Zero V1.3 mini Camera
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rpi_zero_v1.3_camera.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rpi-zero-v1.3-camera.htm
+  repositories: []
+name: RPi Zero V1.3 Camera
+ref: waveshare/rpi-zero-v1-3-camera
+release_date: null
+sku: rpi-zero-v1-3-camera
+spec: null
+status: ''
+vendor: waveshare

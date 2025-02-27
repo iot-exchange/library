@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Semper Flash 2 Click is a Click board\u2122 which features the S25HL512T\
+  \ from Infineon, a perfect solution for the mass storage option in various embedded\
+  \ applications. With fast performance being one of its key features, Semper Flash\
+  \ 2 click can also be used for the code shadowing, execute-in-place (XIP), and data\
+  \ storage."
+extra:
+  Price: $30.00
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.mikroe.com/semper-flash-2-click
+  repositories: []
+name: MIKROE-4028
+ref: mikroe/mikroe-4028
+release_date: null
+sku: mikroe-4028
+spec: null
+status: ''
+vendor: mikroe

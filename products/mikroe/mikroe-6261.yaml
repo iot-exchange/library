@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: 8-wire Female to Female Cable measures 10cm or 30cm in length and features
+  a custom JST connector with a 1.5mm pitch. Designed for stable and secure connections.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/8-wire-female-to-female-cable/8-wire-female-to-female-cable-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/8-wire-female-to-female-cable
+  repositories: []
+name: MIKROE-6261
+ref: mikroe/mikroe-6261
+release_date: null
+sku: mikroe-6261
+spec: null
+status: ''
+vendor: mikroe

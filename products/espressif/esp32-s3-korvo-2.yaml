@@ -1,0 +1,31 @@
+alternatives: []
+certifications: []
+description: ESP32-S3-Korvo-2 is an ESP32-S3 based multimedia development board. It
+  is equipped with a two-microphone array which is suitable for voice recognition
+  and near/far-field voice wake-up applications. The board integrates multiple peripherals
+  such as LCD, camera, and TF. It also supports JPEG video stream processing. With
+  all of its outstanding features, the board is an ideal choice for the development
+  of low-cost and low-power audio and video products.
+extra:
+  Flash: 16 MB
+  Interfaces: I/O USB
+  PSRAM: 8 MB
+  Related Products: ESP32-S3-WROOM-1
+  UI: Button, TF Card, Camera, LCD
+  User Guide: https://docs.espressif.com/projects/esp-adf/en/latest/design-guide/dev-boards/user-guide-esp32-s3-korvo-2.html
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/dev-board/ESP32-S3-Korvo-2_S_0.png
+  models: []
+  products:
+  - https://docs.espressif.com/projects/esp-adf/en/latest/design-guide/dev-boards/user-guide-esp32-s3-korvo-2.html
+  repositories: []
+name: ESP32-S3-Korvo-2
+ref: espressif/esp32-s3-korvo-2
+release_date: null
+sku: esp32-s3-korvo-2
+spec: null
+status: ''
+vendor: espressif

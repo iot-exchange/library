@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: TSOP32 TO DIP32 (A), Programmer Adapter
+extra:
+  Price: $53.59 - $56.99
+  SKU: '3788'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/s/tsop32-to-dip32_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/tsop32-to-dip32.htm
+  repositories: []
+name: TSOP32 TO DIP32 (A)
+ref: waveshare/tsop32-to-dip32-a
+release_date: null
+sku: tsop32-to-dip32-a
+spec: null
+status: ''
+vendor: waveshare

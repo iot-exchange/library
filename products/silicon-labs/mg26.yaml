@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Pin compatible with MG24 and supports Zigbee and Matter over Thread CMP
+  for end devices.
+extra:
+  features: Dynamic multi-protocol operations
+  protocols: Zigbee, Matter over Thread
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: MG26
+ref: silicon-labs/mg26
+release_date: null
+sku: mg26
+spec: null
+status: ''
+vendor: silicon-labs

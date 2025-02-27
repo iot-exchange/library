@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: TF02-i LiDAR is an industrial-grade medium-range distance sensor. Its
+  maximum detection range can reach up to 40m and it has an adjustable frame rate
+  with a maximum of 1KHz. It has a PC/ABS/PMMA enclosure with IP65 water and dust
+  resistance. It supports a wide range of input voltages (7-30V) with reverse protection
+  to protect the internal circuit. Multiple built-in operating modes are included
+  for the users to change their parameters and configurations to meet different applications.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/_/1/_1_8032_1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/TF02-i-LiDAR-Medium-Range-Sensor-CAN-Interface-p-4911.html
+  repositories: []
+name: '101090021'
+ref: seeedstudio/101090021
+release_date: null
+sku: '101090021'
+spec: null
+status: ''
+vendor: seeedstudio

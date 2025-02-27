@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: Jetson Mate Cluster Mini includes a Jetson Mate, a cooling fan, and a
+  case. Jetson Mate is a carrier board which can install up to 4 Nvidia Jetson Nano/NX
+  SoMs. There is an on board 5-port gigabit switch enabling the 4 SoMs to communicate
+  with each other. All the 3 peripheral SoMs can be powered on or off separately.
+  With a 65W 2-Port PD charger, for Jetson Nano SoMs or a 90W 2-Port PD charger for
+  Jetson NX SoMs and one ethernet cable, developers can easily build their own Jetson
+  Cluster.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110110092-_package-04_1.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992260_-preview-19.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/Jetson-Mate-Cooling-Kit-p-4784.html
+  repositories: []
+name: '110991411'
+ref: seeedstudio/110991411
+release_date: null
+sku: '110991411'
+spec: null
+status: ''
+vendor: seeedstudio

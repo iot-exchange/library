@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: LoRaWAN 1.0.3 Class ABands:CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865Ultra-low
+  power consumptionMeasure air / gas or water pressureDifferent pressure range availableThread
+  Installation Type or Immersion TypeSupport BLE and LoRaWAN remote configureSupport
+  wireless OTA update firmware8500mAh Li/SOCl2 Battery (PS-LB)Solar panel + 3000mAh
+  Li-ion battery (PS-LS)
+extra:
+  Battery: 8500mAh Li/SOCl2 (PS-LB), Solar panel + 3000mAh Li-ion battery (PS-LS)
+  Installation Type: Thread Installation Type or Immersion Type
+  Protocol: LoRaWAN 1.0.3 Class A
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/8ee107fb8e11fa27c5eb0c84c03d7dff_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/distance-level-sensor/item/251-ps-lb-ls.html
+  repositories: []
+name: PS-LB/LS
+ref: dragino/ps-lb-ls
+release_date: null
+sku: ps-lb-ls
+spec: null
+status: ''
+vendor: dragino

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: 7-inch Display or Camera Cable
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/accessories/ac014/thumb_universal_fpc_cable.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/fpc-cable-014
+  repositories: []
+name: FPC Cable for Display and Camera
+ref: radxa/fpc-cable-for-display-and-camera
+release_date: null
+sku: fpc-cable-for-display-and-camera
+spec: null
+status: ''
+vendor: radxa

@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: Sub-GHz Wireless SoCs
+extra:
+  Flash (kB): 1152, 1920
+  Frequency Range (MHz): 470 928.1
+  GPIO: 36, 37
+  MCU Core: ARM Cortex-M33
+  Max Output Power (dBm): '16'
+  Peak RX Sensitivity: -125.8 (4.8 kbps OQPSK @ 915 MHz)
+  RAM (kB): 256, 512
+  Security: AES-128, AES-256, ECC, SHA-1, SHA-2
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/proprietary/efr32fg25-sub-ghz-wireless-socs
+  repositories: []
+name: EFR32FG25 Series 2 SoCs
+ref: silicon-labs/efr32fg25-series-2-socs
+release_date: null
+sku: efr32fg25-series-2-socs
+spec: null
+status: ''
+vendor: silicon-labs

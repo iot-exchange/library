@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "7.5inch e-Paper (G) E-Ink Optical Bonding Display, 800\xD7480, Black\
+  \ / White, SPI, without PCB"
+extra:
+  Price: $67.27 - $69.99
+  SKU: '21393'
+  price: $67.27  -  $69.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/_/7.5inch-e-paper-g-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/7.5inch-e-paper-g.htm
+  repositories: []
+name: 7.5inch e-Paper (G)
+ref: waveshare/7-5inch-e-paper-g
+release_date: null
+sku: 7-5inch-e-paper-g
+spec: null
+status: ''
+vendor: waveshare

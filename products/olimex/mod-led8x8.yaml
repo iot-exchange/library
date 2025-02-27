@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  bulkPrice: 5.36 EUR
+  discountedPrice: 5.65 EUR
+  price: 5.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/MSP430/Booster/MOD-LED8x8/images/thumbs/200x150/MOD-LCD8x8-02.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/MSP430/Booster/MOD-LED8x8/open-source-hardware
+  repositories: []
+name: MOD-LED8x8
+ref: olimex/mod-led8x8
+release_date: null
+sku: mod-led8x8
+spec: null
+status: ''
+vendor: olimex

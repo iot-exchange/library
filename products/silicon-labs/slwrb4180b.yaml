@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: The Wireless Gecko SLWRB4180B wireless radio board plugs into the Main
+  Board provided with the Wireless Gecko Starter Kit. The starter kit includes access
+  to Zigbee, Thread, and Bluetooth software stacks.
+extra:
+  MSRP: $49.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/slwrb4180a-wireless-gecko-radio-board.jpg
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/slwrb4181b-efr32xg21-wireless-gecko-radio-board
+  - https://www.silabs.com/development-tools/wireless/slwrb4180b-efr32xg21-wireless-gecko-radio-board
+  - https://www.silabs.com/wireless/mattere
+  repositories: []
+name: SLWRB4180B
+ref: silicon-labs/slwrb4180b
+release_date: null
+sku: slwrb4180b
+spec: null
+status: ''
+vendor: silicon-labs

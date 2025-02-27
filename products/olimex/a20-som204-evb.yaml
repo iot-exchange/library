@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  10+ pcs: 67.50 EUR
+  50+ pcs: 60.00 EUR
+  Price: 75.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/SOM204/A20-SOM204-EVB/images/thumbs/200x150/SOM204-EVB.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/SOM204/A20-SOM204-EVB/
+  repositories: []
+name: A20-SOM204-EVB
+ref: olimex/a20-som204-evb
+release_date: null
+sku: a20-som204-evb
+spec: null
+status: ''
+vendor: olimex

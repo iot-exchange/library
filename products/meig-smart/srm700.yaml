@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Multi-mode 5G Smart Module Support Wi-Fi 6E & L1+L5 GNSS More
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://en.meigsmart.com/userfiles/images/2023/09/16/2023091611169851.png
+  models: []
+  products:
+  - https://en.meigsmart.com/productdetail/5gsmartmodule-700.html
+  repositories: []
+name: SRM700
+ref: meig-smart/srm700
+release_date: null
+sku: srm700
+spec: null
+status: ''
+vendor: meig-smart

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 'EMEA (Planned: Semtech)'
+extra:
+  Bands: 'LTE: B1, B3, B7, B8, B20, B28'
+  Edge Processing: "\u2713"
+  Fallback: 2G, 3G
+  Region (Carrier): 'EMEA (Planned: Semtech)'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.sierrawireless.com/iot-modules/smart-modules/wp7607-1/
+  repositories: []
+name: WP7607-1
+ref: sierrawireless/wp7607-1
+release_date: null
+sku: wp7607-1
+spec: null
+status: ''
+vendor: sierrawireless

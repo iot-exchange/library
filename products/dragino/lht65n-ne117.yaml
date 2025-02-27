@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "LoRaWAN Temperature & Humidity sensorBands:EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915Built-in\
+  \ 2400mAh batteryMonitor Internal Temperature, External Probe base on TI TMP117A\
+  \ (accuracy: 0.1\xB0C), and Humidity"
+extra:
+  Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
+  Battery: 2400mAh
+  Temperature Accuracy: "0.1\xB0C"
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/e67ec824afbc9f855ad850f1b49c5b05_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/temperature-humidity-sensor/item/238-lht65n-ne117.html
+  repositories: []
+name: LHT65N-NE117
+ref: dragino/lht65n-ne117
+release_date: null
+sku: lht65n-ne117
+spec: null
+status: ''
+vendor: dragino

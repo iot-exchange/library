@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Soldering-Kits/Advanced/SLD-KIT-SMT-PRACTICE/images/thumbs/200x150/SLD-KIT-SMT-PRACTICE.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Soldering-Kits/Advanced/SLD-KIT-SMT-PRACTICE/
+  repositories: []
+name: SLD-KIT-SMT-PRACTICE
+ref: olimex/sld-kit-smt-practice
+release_date: null
+sku: sld-kit-smt-practice
+spec: null
+status: ''
+vendor: olimex

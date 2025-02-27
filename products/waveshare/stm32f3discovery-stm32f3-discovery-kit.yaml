@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: $28.49  -  $29.99
+extra:
+  SKU: '6709'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/0/200924-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/stm32f3discovery.htm
+  repositories: []
+name: STM32F3DISCOVERY, STM32F3 Discovery Kit
+ref: waveshare/stm32f3discovery-stm32f3-discovery-kit
+release_date: null
+sku: stm32f3discovery-stm32f3-discovery-kit
+spec: null
+status: ''
+vendor: waveshare

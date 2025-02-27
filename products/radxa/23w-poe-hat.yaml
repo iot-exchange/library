@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Designed for Radxa ROCK 4
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/poe-hat/ra002/thumb_radxa_rockpi_23w_poe_hat.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/23w-poe-hat
+  repositories: []
+name: 23W PoE HAT
+ref: radxa/23w-poe-hat
+release_date: null
+sku: 23w-poe-hat
+spec: null
+status: ''
+vendor: radxa

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: "Why LoRaWAN\xAE Is Key to AMI Network Systems"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.semtech.com/uploads/technology/lorawan-ami-realworld.jpg
+  models: []
+  products:
+  - https://info.semtech.com/lorawan-and-ami-network-systems-white-paper
+  repositories: []
+name: AMI Network Systems
+ref: semtech/ami-network-systems
+release_date: null
+sku: ami-network-systems
+spec: null
+status: ''
+vendor: semtech

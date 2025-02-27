@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Test & Burn-in Socket
+extra:
+  Price Range: $87.59 - $90.99
+  SKU: '3404'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/q/f/qfn-20bt-0.5-01_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/qfn-20bt-0.5-01.htm
+  repositories: []
+name: QFN-20BT-0.5-01
+ref: waveshare/qfn-20bt-0-5-01
+release_date: null
+sku: qfn-20bt-0-5-01
+spec: null
+status: ''
+vendor: waveshare

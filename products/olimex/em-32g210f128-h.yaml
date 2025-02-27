@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/EnergyMicro/EM-32G210F128-H/images/thumbs/200x150/EFM-32G210F128-H-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/EnergyMicro/EM-32G210F128-H/
+  repositories: []
+name: EM-32G210F128-H
+ref: olimex/em-32g210f128-h
+release_date: null
+sku: em-32g210f128-h
+spec: null
+status: ''
+vendor: olimex

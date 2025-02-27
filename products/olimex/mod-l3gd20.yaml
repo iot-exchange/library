@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  bulkPrice: 10.36 EUR
+  discountedPrice: 11.66 EUR
+  price: 12.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/Sensors/MOD-L3GD20/images/thumbs/200x150/MOD-L3GD20-0.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/Sensors/MOD-L3GD20/open-source-hardware
+  repositories: []
+name: MOD-L3GD20
+ref: olimex/mod-l3gd20
+release_date: null
+sku: mod-l3gd20
+spec: null
+status: ''
+vendor: olimex

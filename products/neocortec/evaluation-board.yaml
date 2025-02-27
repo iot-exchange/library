@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: The Evaluation Board comes equipped with a communication module, a SMA
+  RF connector, USB connector and pin headers for Arduino and Raspberry Pi.
+extra:
+  Features: Battery compartment
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://neocortec.com/wp-content/uploads/2019/10/evalboard3.jpeg
+  models: []
+  products:
+  - https://neocortec.com/products-2/the-neocortec-evaluation-board/
+  repositories: []
+name: Evaluation Board
+ref: neocortec/evaluation-board
+release_date: null
+sku: evaluation-board
+spec: null
+status: ''
+vendor: neocortec

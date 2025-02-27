@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/IC/A31/images/thumbs/200x150/A31.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/IC/A31/
+  repositories: []
+name: A31
+ref: olimex/a31
+release_date: null
+sku: a31
+spec: null
+status: ''
+vendor: olimex

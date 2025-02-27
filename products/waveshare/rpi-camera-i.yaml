@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Fisheye Lens
+extra:
+  Price: $26.29 - $27.99
+  SKU: '11388'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rpi_camera_i_.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rpi-camera-i.htm
+  repositories: []
+name: RPi Camera (I)
+ref: waveshare/rpi-camera-i
+release_date: null
+sku: rpi-camera-i
+spec: null
+status: ''
+vendor: waveshare

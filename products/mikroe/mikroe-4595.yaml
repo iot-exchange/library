@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: LED Driver 9 Click is a compact add-on board that simplifies the control
+  of multiple LEDs. This board features the TLC59116, I2C bus-controlled 16-channel
+  LED driver optimized for red/green/blue/amber (RGBA) color mixing and backlight
+  application from Texas Instruments. Each 16-channel LED output has its 8-bit resolution
+  (256 steps), fixed-frequency,...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/led-driver-9-click/led-driver-9-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/led-driver-9-click
+  repositories: []
+name: MIKROE-4595
+ref: mikroe/mikroe-4595
+release_date: null
+sku: mikroe-4595
+spec: null
+status: ''
+vendor: mikroe

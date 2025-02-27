@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Dedicated Cooling Fan for Jetson Nano, 5V, 3PIN Reverse-proof
+extra:
+  Price: $1.15 - $1.49
+  SKU: '16990'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/a/fan-4010-5v-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/fan-4010-5v.htm
+  repositories: []
+name: Fan-4010-5V
+ref: waveshare/fan-4010-5v
+release_date: null
+sku: fan-4010-5v
+spec: null
+status: ''
+vendor: waveshare

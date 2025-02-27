@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: BLE 12 Click is a compact add-on board that provides BT/BLE connectivity
+  for any embedded application. This board features the BM832A, a powerful and highly
+  flexible, ultra low power Bluetooth Low Energy (BLE) module from Fanstel.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ble-12-click/ble-12-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ble-12-click
+  repositories: []
+name: MIKROE-4874
+ref: mikroe/mikroe-4874
+release_date: null
+sku: mikroe-4874
+spec: null
+status: ''
+vendor: mikroe

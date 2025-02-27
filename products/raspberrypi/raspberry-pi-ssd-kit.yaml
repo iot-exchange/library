@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Unlock outstanding performance performance for I/O intensive applications
+  on Raspberry Pi 5
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/7c40ae97f736de3e8b6a9ce47b5c5e49/3f4ea/ZxI6C4F3NbkBXtPp_SSDKit256GB.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/ssd-kit/
+  repositories: []
+name: Raspberry Pi SSD Kit
+ref: raspberrypi/raspberry-pi-ssd-kit
+release_date: null
+sku: raspberry-pi-ssd-kit
+spec: null
+status: ''
+vendor: raspberrypi

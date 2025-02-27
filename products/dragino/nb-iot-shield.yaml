@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: NB-IoT Expansion Board for Arduino Micro SIM slot & SMA Interface. Global
+  Regions base on BC95-G or BG96. EOL due to NB Module EOL.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/ee842e3019fee30e4ca87cc93974d54b_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/nb-iot/item/130-nb-iot-shield.html
+  repositories: []
+name: NB-IoT Shield
+ref: dragino/nb-iot-shield
+release_date: null
+sku: nb-iot-shield
+spec: null
+status: ''
+vendor: dragino

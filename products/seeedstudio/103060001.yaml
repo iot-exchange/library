@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: The reTerminal E10-1 is an expansion board for the reTerminal which empowers
+  it rechargeable and portable functions, enhanced wireless communication and industrial
+  data transmission along with audio capability. It ensures the reTerminal is even
+  stronger and allows it to be deployed in more scenarios like high-speed industrial,
+  agriculture applications, or enhanced wireless home, individual usages.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/_/1/_1__2_1.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/103060001_all-first.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/reTerminal-E10-1-p-5376.html
+  repositories: []
+name: '103060001'
+ref: seeedstudio/103060001
+release_date: null
+sku: '103060001'
+spec: null
+status: ''
+vendor: seeedstudio

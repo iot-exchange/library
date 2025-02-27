@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 44.95 EUR
+  price2: 40.46 EUR
+  price3: 35.96 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/Atmel/SAM7-EX256/images/thumbs/200x150/SAM7-EX256-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/Atmel/SAM7-EX256/
+  repositories: []
+name: SAM7-EX256
+ref: olimex/sam7-ex256
+release_date: null
+sku: sam7-ex256
+spec: null
+status: ''
+vendor: olimex

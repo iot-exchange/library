@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: MT7628N is a dual Antennas 300M high-performance WiFi routing module
+  with 128MB RAM and 32MB Flash. It supports Linux/OpenWrt and custom development.
+extra:
+  price: $12.90
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-1049907621-wt32-3.5-inch-display-45font.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-317060562-mt7628n-a-wifi-module-45font_1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/SMD-WIFI-Module-56P-18-35-2-2-8mm-p-5547.html
+  repositories: []
+name: '317060562'
+ref: seeedstudio/317060562
+release_date: null
+sku: '317060562'
+spec: null
+status: ''
+vendor: seeedstudio

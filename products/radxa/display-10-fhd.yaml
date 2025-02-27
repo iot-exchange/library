@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: 10-inch FHD Touchscreen Module
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/accessories/ad003/thumb_10fhd.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/display-10fhd
+  repositories: []
+name: Display 10 FHD
+ref: radxa/display-10-fhd
+release_date: null
+sku: display-10-fhd
+spec: null
+status: ''
+vendor: radxa

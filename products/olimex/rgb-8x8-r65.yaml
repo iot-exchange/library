@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Breadboarding/RGB-LEDs/RGB-8x8-R65/images/thumbs/200x150/RGB-8X8-R65-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Breadboarding/RGB-LEDs/RGB-8x8-R65/
+  repositories: []
+name: RGB-8x8-R65
+ref: olimex/rgb-8x8-r65
+release_date: null
+sku: rgb-8x8-r65
+spec: null
+status: ''
+vendor: olimex

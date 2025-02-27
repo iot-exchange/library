@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/EEG/OpenEEG/EEG-ANALOG-ASM/images/thumbs/200x150/EEG-ANALOG-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/EEG/OpenEEG/EEG-ANALOG-ASM/open-source-hardware
+  repositories: []
+name: EEG-ANALOG-ASM
+ref: olimex/eeg-analog-asm
+release_date: null
+sku: eeg-analog-asm
+spec: null
+status: ''
+vendor: olimex

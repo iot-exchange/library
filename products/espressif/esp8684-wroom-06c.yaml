@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: The ESP8684-WROOM-06C is based on the ESP8684 chip. It can be mounted
+  onto the surface of a PCB board, or vertically soldered to a PCB board. When surface
+  mounted, the module has 14 available GPIOs; when vertically soldered, the module
+  has 5 available GPIOs. The module supports UART, SPI, I2C, PWM, etc.
+extra:
+  Antenna: PCB antenna
+  Chip Embedded: ESP8684H2ESP8684H4
+  Dimensions (mm): "15.8\xD720.3\xD72.7"
+  Flash (MB): 2, 4
+  Pins: '21'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP8684-WROOM-06C%20S_0.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp8684-wroom-06c_datasheet_en.pdf
+  - https://www.espressif.com/sites/default/files/documentation/esp8684-wroom-06c_datasheet_cn.pdf
+  repositories: []
+name: ESP8684-WROOM-06C
+ref: espressif/esp8684-wroom-06c
+release_date: null
+sku: esp8684-wroom-06c
+spec: null
+status: ''
+vendor: espressif

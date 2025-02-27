@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: EXTENDEDFeatherWings
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o811103v214%20Single_Sensor-FeatherWing_2501000201291.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/eval_boards
+  repositories: []
+name: EXTENDEDFeatherWings
+ref: we/extendedfeatherwings
+release_date: null
+sku: extendedfeatherwings
+spec: null
+status: ''
+vendor: we

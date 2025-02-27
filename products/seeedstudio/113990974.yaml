@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: EMB1082 is an embedded BLE module by MXCHIP. It integrates a BLE5.0 single
+  mode SoC, including ARM Cortex-M4F Core, BLE/2.4G Radio, 160KB RAM, 512KB Flash
+  and rich peripherals. EMB1082 uses half-hole package which is easy for soldering,
+  and also DIP package.
+extra:
+  Flash: 512KB
+  RAM: 160KB
+  SoC: BLE5.0 single mode
+  core: ARM Cortex-M4F
+  package: half-hole and DIP
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/e/m/emb1082-p_preview-07.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/EMB1082-BLE-Module-p-5015.html
+  repositories: []
+name: '113990974'
+ref: seeedstudio/113990974
+release_date: null
+sku: '113990974'
+spec: null
+status: ''
+vendor: seeedstudio

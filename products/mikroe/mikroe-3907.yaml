@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: TFT Color Display with Touch Screen (4.3") and decorative cover glass
+  (black bezel) is a color active matrix thin film transistor(TFT) liquid crystal
+  display (LCD).
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.mikroe.com/img/af
+  models: []
+  products:
+  - https://www.mikroe.com/43-tft-color-display-with-capacitive-touch-screen-and-bezel
+  repositories: []
+name: MIKROE-3907
+ref: mikroe/mikroe-3907
+release_date: null
+sku: mikroe-3907
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "An IP68 RS485 Soil Moisture & Temperature & EC Sensor ranges - from\
+  \ 0% to 100% of saturation, -40\u2103 ~ +80\u2103, and 0 ~ 10000 \u03BCs/cm. Use\
+  \ in soil applications like Horticulture and Gardening. Use the sensor with SenseCAP\
+  \ Data Logger for seamless data collection and management."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/_/_/__back-06.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/RS485-Soil-Moisture-Temperature-EC-Sensor-S-Soil-MTEC-02B-p-4860.html
+  repositories: []
+name: '314990621'
+ref: seeedstudio/314990621
+release_date: null
+sku: '314990621'
+spec: null
+status: ''
+vendor: seeedstudio

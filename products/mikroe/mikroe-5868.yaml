@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Diff Press 4 Click is a compact add-on board that can measure differential
+  pressure. This board features the SM9336-BCE-S-250-000, a digital pressure and altimeter
+  sensor module from TE Connectivity.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/diff-press-4-click/diff-press-4-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/diff-press-4-click
+  repositories: []
+name: MIKROE-5868
+ref: mikroe/mikroe-5868
+release_date: null
+sku: mikroe-5868
+spec: null
+status: ''
+vendor: mikroe

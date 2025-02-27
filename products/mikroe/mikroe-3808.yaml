@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: 'EasyPIC PRO v8 is packed in the protective box along with the relevant
+  documentation.This box is very resistant to all kinds of damage and shock. The package
+  contains: Damage resistant protective box EasyPIC PRO v8 board MCU and Display board
+  flyers Adapter - USB Micro Female to USB Type-C Male Adapter - USB-C Female to USB-A
+  Male USB-C...'
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/easypic-pro/easypic-pro-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/easypic-pro "EasyPIC PRO v8"
+  repositories: []
+name: MIKROE-3808
+ref: mikroe/mikroe-3808
+release_date: null
+sku: mikroe-3808
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/11/LE915Ax-P_dynamic-281x200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/le915ax-p/
+  repositories: []
+name: LE915Ax-P Series
+ref: telit/le915ax-p-series
+release_date: null
+sku: le915ax-p-series
+spec: null
+status: ''
+vendor: telit

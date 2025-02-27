@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/RaspberryPi/PICO/PICO2-XXL/images/thumbs/200x150/PICO2-XXL1w.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/RaspberryPi/PICO/RP2350-PICO2-XL/open-source-hardware
+  repositories: []
+name: RP2350-PICO2-XL
+ref: olimex/rp2350-pico2-xl
+release_date: null
+sku: rp2350-pico2-xl
+spec: null
+status: ''
+vendor: olimex

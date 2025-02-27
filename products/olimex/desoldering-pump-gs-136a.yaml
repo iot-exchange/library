@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/DESOLDERING-PUMP-GS-136A/images/thumbs/200x150/desoldering.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/Soldering/DESOLDERING PUMP GS-136A/
+  repositories: []
+name: DESOLDERING PUMP GS-136A
+ref: olimex/desoldering-pump-gs-136a
+release_date: null
+sku: desoldering-pump-gs-136a
+spec: null
+status: ''
+vendor: olimex

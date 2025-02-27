@@ -1,0 +1,37 @@
+alternatives: []
+certifications: []
+description: Zigbee and Thread EFR32MG24 SoCs (Series 2)
+extra:
+  Flash: 1024, 1536 kB
+  Flash (kB): '1536'
+  Frequency Bands: 2.4 GHz
+  Frequency Bands (MHz): 2.4 GHz
+  GPIO: 26, 28, 32
+  MCU Core: ARM Cortex-M33
+  Max Flash/RAM (kB): 1536/256
+  Output Power Range: -20 10,19.5 dBm
+  Output Power Range (dBm): -20 19.5
+  RAM: 128, 192, 256 kB
+  RAM (kB): 192, 256
+  RX Current (mA): '5.1'
+  RX Sensitivity (dBm): -105.4 (802.15.4)
+  "Secure Vault\u2122": ''
+  Security: AES-128, AES-256, ECC, SHA-1, SHA-2, Secure Enclave
+  TX Current (0 dBm): '5'
+  TX Current (mA) 0 dBm: '5.0'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/zigbee/efr32mg24-series-2-socs
+  - https://www.silabs.com/wireless/zigbee/efr32mg24-series-2-modules
+  repositories: []
+name: EFR32MG24
+ref: silicon-labs/efr32mg24
+release_date: null
+sku: efr32mg24
+spec: null
+status: ''
+vendor: silicon-labs

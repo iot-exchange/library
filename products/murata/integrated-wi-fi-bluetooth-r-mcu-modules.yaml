@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Integrated Wi-Fi, Bluetooth communication function and micro control
+  unit in a single unit Easy to Use AT Command (Serial Communication)
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://solution.murata.com/sites/default/files/2018-11/bnr_wlan-bt-smart.jpg
+  models: []
+  products:
+  - https://solution.murata.com/en-eu/technology/wlan-bt-smart
+  repositories: []
+name: "Integrated Wi-Fi+Bluetooth\xAE MCU Modules"
+ref: murata/integrated-wi-fi-bluetooth-r-mcu-modules
+release_date: null
+sku: integrated-wi-fi-bluetooth-r-mcu-modules
+spec: null
+status: ''
+vendor: murata

@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: If you need a battery power supply, we have a great and compact solution.
+  This rechargeable 6000mAh 3.7V battery can deliver even more.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/li-polymer-battery-37v-6000mah/li-polymer-battery-37v-6000mah-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/li-polymer-battery-37v-6000mah
+  repositories: []
+name: MIKROE-4475
+ref: mikroe/mikroe-4475
+release_date: null
+sku: mikroe-4475
+spec: null
+status: ''
+vendor: mikroe

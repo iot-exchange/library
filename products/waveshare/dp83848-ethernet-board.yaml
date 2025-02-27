@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: $9.99
+extra:
+  Part No.: DP83848 Ethernet Board
+  SKU: '4141'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/p/dp83848-ethernet-board-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/dp83848-ethernet-board.htm
+  repositories: []
+name: DP83848 Ethernet Board
+ref: waveshare/dp83848-ethernet-board
+release_date: null
+sku: dp83848-ethernet-board
+spec: null
+status: ''
+vendor: waveshare

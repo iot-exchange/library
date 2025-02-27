@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Hard-wired, embedded control
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://images.squarespace-cdn.com/content/v1/53fce470e4b0374adfdd30bc/1417016465672-OCQE5A0J0ZX7IOQFO3J1/ceiling+fan.png
+  models: []
+  products:
+  - https://www.insteon.com/wire-in-modules
+  repositories: []
+name: embedded-devices
+ref: insteon/embedded-devices
+release_date: null
+sku: embedded-devices
+spec: null
+status: ''
+vendor: insteon

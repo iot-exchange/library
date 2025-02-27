@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Single Channel outdoor LoRa IoT Gateway. LoRa Wireless 433/868/915/920Mhz
+  Open Source Openwrt For Private LoRa Protocol, Not compatible with LoRaWAN. EOL,
+  Not recommended for new users.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/ebe9ac202a3149b75a8ae8adb2e1d8a7_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lora-lorawan-gateway/item/144-olg01n.html
+  repositories: []
+name: OLG01-N Single Channel LoRa IoT Gateway
+ref: dragino/olg01-n-single-channel-lora-iot-gateway
+release_date: null
+sku: olg01-n-single-channel-lora-iot-gateway
+spec: null
+status: ''
+vendor: dragino

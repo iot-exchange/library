@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Nixie IN-12B is an add-on shield board that features a pre-installed
+  IN-12B Nixie tube, designed for easy driving and control of numerical displays.
+  This shield integrates high-voltage FETs for reliable and efficient numerical display
+  management and features carefully designed connectors that ensure proper alignment
+  and prevent incorrect connections. The...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/nixie-in-12b/nixie-in-12b-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/nixie-in-12b
+  repositories: []
+name: MIKROE-6494
+ref: mikroe/mikroe-6494
+release_date: null
+sku: mikroe-6494
+spec: null
+status: ''
+vendor: mikroe

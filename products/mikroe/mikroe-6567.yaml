@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Tilt 5 Click is a compact add-on board for precise tilt detection in\
+  \ various motion-based applications. This board features the RBS240100T, a ball-contact\
+  \ tilt sensor switch from OncQue, capable of detecting a 45\xB0 tilt within a full\
+  \ 360\xB0 radius. The sensor operates in a normally open switch state, ensuring\
+  \ low power consumption while offering a contact..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/tilt-5-click/tilt-5-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/tilt-5-click
+  repositories: []
+name: MIKROE-6567
+ref: mikroe/mikroe-6567
+release_date: null
+sku: mikroe-6567
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Bluetooth low energy, Multi-standard, Proprietary 2.4 GHz, Thread, Zigbee
+extra:
+  interfaces: 2 SPI, 2 comparators, 4 timers, 8-bit DAC, I2C, I2S, Sensor controller
+  memory: '352'
+  package: QFM
+  pins: '48'
+  price: $2.790 | 1ku
+  temperature_range: -40 to 105
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/wireless-connectivity/sub-1-ghz/wireless-microcontrollers/products.html
+  - https://www.ti.com/wireless-connectivity/low-power-2-4-ghz/products.html
+  repositories: []
+name: Wireless module
+ref: ti/wireless-module
+release_date: null
+sku: wireless-module
+spec: null
+status: ACTIVE
+vendor: ti

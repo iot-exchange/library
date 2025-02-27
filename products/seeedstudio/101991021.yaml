@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: SenseCAP S500 V2 5-in-1 Compact Weather Sensor measures air temperature,
+  relative humidity, barometric pressure, wind speed, and wind direction (ultrasonic).
+  It is ideal for application in a rough environment like outdoors, agriculture, or
+  smart cities. Use it with SenseCAP LoRaWAN Data Logger or SenseCAP 4G Data Logger.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101991021-sensecap-s500-5-in-1-compact-weather-station-45font_1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/SenseCAP-S500-5-in-1-Compact-Weather-Station-p-5652.html
+  repositories: []
+name: '101991021'
+ref: seeedstudio/101991021
+release_date: null
+sku: '101991021'
+spec: null
+status: ''
+vendor: seeedstudio

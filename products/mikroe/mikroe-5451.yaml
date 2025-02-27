@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Buck 19 Click is a compact add-on board that steps down the voltage from
+  its input (supply) to its output (load). This board features the STPD01, a programmable
+  synchronous buck converter from STMicroelectronics, providing a power supply in
+  accordance with USB power delivery specifications.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/buck-19-click/buck-19-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/buck-19-click
+  repositories: []
+name: MIKROE-5451
+ref: mikroe/mikroe-5451
+release_date: null
+sku: mikroe-5451
+spec: null
+status: ''
+vendor: mikroe

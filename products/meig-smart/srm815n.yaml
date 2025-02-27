@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: 5G NR Sub-6GHz LGA Packaging Module
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://en.meigsmart.com/userfiles/images/2022/10/26/2022102609414398.png
+  models: []
+  products:
+  - https://en.meigsmart.com/productdetail/5g-module-srm815n.html
+  repositories: []
+name: SRM815N
+ref: meig-smart/srm815n
+release_date: null
+sku: srm815n
+spec: null
+status: ''
+vendor: meig-smart

@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Calypso IoT Design Kit
+extra:
+  Expected lifetime: '>10 years'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o786825v214%20Single_Stephano-I_2617011025000.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/CALYPSO#2610059035001
+  repositories: []
+name: '2610059035001'
+ref: we/2610059035001
+release_date: null
+sku: '2610059035001'
+spec: null
+status: Active
+vendor: we

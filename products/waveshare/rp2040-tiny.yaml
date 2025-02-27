@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Waveshare RP2040-Tiny Development Board, Based On Official RP2040 Dual
+  Core Processor, USB Port Adapter Board Optional
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-tiny-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rp2040-tiny.htm
+  repositories: []
+name: rp2040_tiny
+ref: waveshare/rp2040-tiny
+release_date: null
+sku: rp2040-tiny
+spec: null
+status: ''
+vendor: waveshare

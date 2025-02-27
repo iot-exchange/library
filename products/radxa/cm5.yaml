@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: A High Performance Embedded SoM
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/cm/cm5/thumb_cm5.webp
+  models: []
+  products:
+  - https://radxa.com/products/cm/cm5
+  repositories: []
+name: CM5
+ref: radxa/cm5
+release_date: null
+sku: cm5
+spec: null
+status: ''
+vendor: radxa

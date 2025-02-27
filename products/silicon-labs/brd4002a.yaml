@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Wireless Pro Kit Mainboard
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/proprietary/pro-kit-for-amazon-sidewalk
+  repositories: []
+name: BRD4002A
+ref: silicon-labs/brd4002a
+release_date: null
+sku: brd4002a
+spec: null
+status: ''
+vendor: silicon-labs

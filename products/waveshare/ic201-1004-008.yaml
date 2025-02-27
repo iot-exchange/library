@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Test & Burn-in Socket
+extra:
+  Price: $57.99 - $60.99
+  Price Range: $57.99 - $60.99
+  SKU: '7883'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ic201-1004-008_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ic201-1004-008.htm
+  repositories: []
+name: IC201-1004-008
+ref: waveshare/ic201-1004-008
+release_date: null
+sku: ic201-1004-008
+spec: null
+status: ''
+vendor: waveshare

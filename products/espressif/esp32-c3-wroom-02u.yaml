@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: ESP32-C3-WROOM-02U is a powerful, generic Wi-Fi + Bluetooth LE MCU modules
+  that have a single core CPU, a rich set of peripherals, and with an U.FL connector
+  for external antenna. It is an ideal choice for smart homes, industrial automation,
+  health care, consumer electronics, etc.
+extra:
+  Antenna: IPEX antenna connector
+  Chip Embedded: ESP32-C3
+  Development Board: '[ESP32-C3-DevKitC-02](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/hw-reference/esp32c3/user-guide-devkitc-02.html)'
+  Dimensions (mm): "18\xD714.3\xD73.2"
+  Flash (MB): '4'
+  PSRAM (MB): N/A
+  Pins: '19'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-C3-WROOM-02U%20S_0.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf
+  repositories: []
+name: ESP32-C3-WROOM-02U
+ref: espressif/esp32-c3-wroom-02u
+release_date: null
+sku: esp32-c3-wroom-02u
+spec: null
+status: ''
+vendor: espressif

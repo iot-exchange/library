@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "Official Raspberry Pi AI Camera, 12MP, IMX500 Intelligent Vision Sensor,\
+  \ 78.3\xB0 FOV"
+extra:
+  Price: $78.31  -  $78.99
+  SKU: '29008'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.waveshare.com/product/raspberry-pi-ai-camera.htm
+  repositories: []
+name: Raspberry Pi AI Camera
+ref: waveshare/raspberry-pi-ai-camera
+release_date: null
+sku: raspberry-pi-ai-camera
+spec: null
+status: ''
+vendor: waveshare

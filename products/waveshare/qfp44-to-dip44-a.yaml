@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: QFP44 TO DIP44 (A), Programmer Adapter
+extra:
+  Price: $69.59 - $72.99
+  SKU: '3786'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/q/f/qfp44-to-dip44_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/qfp44-to-dip44.htm
+  repositories: []
+name: QFP44 TO DIP44 (A)
+ref: waveshare/qfp44-to-dip44-a
+release_date: null
+sku: qfp44-to-dip44-a
+spec: null
+status: ''
+vendor: waveshare

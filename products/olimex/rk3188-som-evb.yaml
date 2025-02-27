@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 63.00 EUR
+  discountedPrice2: 56.00 EUR
+  price: 70.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/SOM/RK3188/RK3188-SOM-EVB/images/thumbs/200x150/rk3188-som-evb.PNG
+  models: []
+  products:
+  - https://www.olimex.com/Products/SOM/RK3188/RK3188-SOM-EVB/
+  repositories: []
+name: RK3188-SOM-EVB
+ref: olimex/rk3188-som-evb
+release_date: null
+sku: rk3188-som-evb
+spec: null
+status: ''
+vendor: olimex

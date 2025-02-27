@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Wi-Fi 6 + Bluetooth Module
+extra:
+  Category: Professional Wi-Fi
+  Chipset: TI CC3351
+  Wi-Fi: Low Cost
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2025-01/453-00219%20front4.416.png
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/wifi-modules-bluetooth/sona-ti351
+  repositories: []
+name: Sona TI351
+ref: ezurio/sona-ti351
+release_date: null
+sku: sona-ti351
+spec: null
+status: ''
+vendor: ezurio

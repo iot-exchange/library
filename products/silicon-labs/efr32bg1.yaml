@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Bluetooth Low Energy EFR32BG1 SoCs (Series 1)
+extra:
+  Core: ARM Cortex-M4
+  Flash (KB): '256'
+  RAM (KB): '32'
+  RX Sensitivity: '5.2'
+  Security: AES-128, AES-256, ECC, SHA-1, SHA-2
+  TX Current @ 0 dBm: '20'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/bluetooth/efr32bg1-series-1-socs
+  repositories: []
+name: EFR32BG1
+ref: silicon-labs/efr32bg1
+release_date: null
+sku: efr32bg1
+spec: null
+status: ''
+vendor: silicon-labs

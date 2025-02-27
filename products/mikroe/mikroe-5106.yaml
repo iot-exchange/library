@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Ambient 17 Click is a compact add-on board used to measure the amount
+  of the present ambient light. This board features the TSL2572, a digital-output
+  ambient light sensor with an I2C interface from ams AG.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ambient-17-click/ambient-17-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ambient-17-click
+  repositories: []
+name: MIKROE-5106
+ref: mikroe/mikroe-5106
+release_date: null
+sku: mikroe-5106
+spec: null
+status: ''
+vendor: mikroe

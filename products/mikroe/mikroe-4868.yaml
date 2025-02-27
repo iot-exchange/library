@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Barometer 4 Click is a compact add-on board used to measure air pressure
+  in a specific environment. This board features the ICP-10111, a high accuracy low
+  power barometric and temperature sensor from TDK InvenSense. The ICP-10111 is based
+  on MEMS capacitive technology providing ultra-low noise at the lowest power, enabling
+  industry-leading relative...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/barometer-4-click/barometer-4-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/barometer-4-click
+  repositories: []
+name: MIKROE-4868
+ref: mikroe/mikroe-4868
+release_date: null
+sku: mikroe-4868
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: BATT-MON 5 Click is a compact add-on board designed for precise fuel
+  gauging of 1-cell Lithium-ion/Polymer (Li+) batteries. This board features the LC709204V
+  from onsemi based on the innovative HG-CVR2 algorithm to deliver accurate Relative
+  State of Charge (RSOC) readings under varying conditions, such as temperature changes,
+  load fluctuations, and...
+extra:
+  PID: MIKROE-6448
+  Price: $16.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/batt-mon-5-click/batt-mon-5-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/batt-mon-5-click
+  repositories: []
+name: MIKROE-6448
+ref: mikroe/mikroe-6448
+release_date: null
+sku: mikroe-6448
+spec: null
+status: ''
+vendor: mikroe

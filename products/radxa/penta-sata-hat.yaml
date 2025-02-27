@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: A Complete NAS Solution
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/accessories/ra006/thumb_penta_sata_hat.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/penta-sata-hat
+  repositories: []
+name: Penta SATA HAT
+ref: radxa/penta-sata-hat
+release_date: null
+sku: penta-sata-hat
+spec: null
+status: ''
+vendor: radxa

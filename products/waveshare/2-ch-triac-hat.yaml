@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 2-CH Triac HAT for Raspberry Pi, Integrated MCU, UART / I2C
+extra:
+  Price: $17.63 - $18.99
+  SKU: '17852'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/-/2-ch-triac-hat-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/2-ch-triac-hat.htm
+  repositories: []
+name: 2-CH TRIAC HAT
+ref: waveshare/2-ch-triac-hat
+release_date: null
+sku: 2-ch-triac-hat
+spec: null
+status: ''
+vendor: waveshare

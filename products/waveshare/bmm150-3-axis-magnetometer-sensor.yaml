@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: BMM150 3-axis Magnetometer Sensor, Digital Compass Sensor, Magnetic Field
+  Measurement
+extra:
+  SKU: '24657'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/m/bmm150-3-axis-magnetometer-sensor-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/bmm150-3-axis-magnetometer-sensor.htm
+  repositories: []
+name: BMM150 3-Axis Magnetometer Sensor
+ref: waveshare/bmm150-3-axis-magnetometer-sensor
+release_date: null
+sku: bmm150-3-axis-magnetometer-sensor
+spec: null
+status: ''
+vendor: waveshare

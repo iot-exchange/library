@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Flash 5 Click is a perfect solution for the mass storage option in various
+  embedded applications. It features the W25N01GVZEIG/IT (1G-bit) Serial SLC NAND
+  Flash Memory from Winbond which provides a storage solution for systems with limited
+  space, pins and power. The W25N SpiFlash family incorporates the popular SPI interface
+  and the traditional large NAND...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/flash-5-click/flash-5-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/flash-5-click
+  repositories: []
+name: MIKROE-3780
+ref: mikroe/mikroe-3780
+release_date: null
+sku: mikroe-3780
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "Hall Current 7 Click is a compact add-on board that provides economical\
+  \ and precise solutions for AC or DC current sensing. This board features the ACS770,\
+  \ a thermally enhanced, fully integrated, Hall effect-based high precision linear\
+  \ current sensor with 100\xB5\u03A9 current conductor from Allegro MicroSystems.\
+  \ Applied current flows directly into the integrated..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/hall-current-7-click/hall-current-7-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/mcu-card-for-pic32-pic32mx795f512l/mcu-card-for-pic32-pic32mx795f512l-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/mcu-card-for-pic32-pic32mx795f512l
+  - https://www.mikroe.com/hall-current-7-click
+  repositories: []
+name: MIKROE-4420
+ref: mikroe/mikroe-4420
+release_date: null
+sku: mikroe-4420
+spec: null
+status: ''
+vendor: mikroe

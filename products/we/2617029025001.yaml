@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: "EV-Kit Stephano-I WiFi 2.4 GHz - Bluetooth\xAE LE 5.0"
+extra:
+  Expected lifetime: '>10 years'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/STEPHANO-I-BLUETOOTH#2617029025001
+  - https://www.we-online.com/en/components/products/STEPHANO-I_WIFI#2617029025001
+  repositories: []
+name: '2617029025001'
+ref: we/2617029025001
+release_date: null
+sku: '2617029025001'
+spec: null
+status: New
+vendor: we

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 1.35 EUR
+  discountedPrice2: 1.20 EUR
+  price: 1.50 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/Temperature/TC-K-TYPE/images/thumbs/200x150/TC-K-TYPE.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Sensors/Temperature/TC-K-TYPE/
+  repositories: []
+name: TC-K-TYPE
+ref: olimex/tc-k-type
+release_date: null
+sku: tc-k-type
+spec: null
+status: ''
+vendor: olimex

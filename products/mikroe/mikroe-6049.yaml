@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: DIGI IN 2 Click is a compact add-on board designed for converting high-voltage
+  industrial signals into logic-level outputs, ideal for enhancing industrial control
+  systems. This board features the MAX22196, a high-performance octal industrial sink/source
+  digital input IC from Analog Devices.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/digi-in-2-click/digi-in-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/digi-in-2-click
+  repositories: []
+name: MIKROE-6049
+ref: mikroe/mikroe-6049
+release_date: null
+sku: mikroe-6049
+spec: null
+status: ''
+vendor: mikroe

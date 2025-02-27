@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Magneto 14 Click is a compact add-on board with an accurate and reliable
+  magnetic device. This board features the MA735, a contactless angle sensor with
+  ABZ, and PWM output from Monolithic Power Systems. The MA735 sensor has a 9-bit
+  to 13-bit resolution of the absolute angle encoder. With its fast data acquisition
+  and processing, it provides accurate...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/magneto-14-click/magneto-14-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/magneto-14-click
+  repositories: []
+name: MIKROE-5751
+ref: mikroe/mikroe-5751
+release_date: null
+sku: mikroe-5751
+spec: null
+status: ''
+vendor: mikroe

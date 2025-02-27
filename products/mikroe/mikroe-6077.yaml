@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: IPS Display Click is a compact add-on board that displays high-resolution
+  graphics in embedded applications. This board features the ER-TFT1.14-2, a 1.14"
+  TFT LCD display from EastRising Technology, and utilizes the ST7789V controller
+  for 262K color output. The display offers a 135x240 pixel resolution, operates through
+  a 3-wire SPI interface, and...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ips-display-click/ips-display-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/ips-display-click
+  repositories: []
+name: MIKROE-6077
+ref: mikroe/mikroe-6077
+release_date: null
+sku: mikroe-6077
+spec: null
+status: ''
+vendor: mikroe

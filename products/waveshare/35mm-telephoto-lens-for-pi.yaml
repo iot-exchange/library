@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: 35mm Telephoto Lens for Raspberry Pi High Quality Camera
+extra:
+  SKU: '18155'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/5/35mm-telephoto-lens-for-pi-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/35mm-telephoto-lens-for-pi.htm
+  repositories: []
+name: 35mm Telephoto Lens for Pi
+ref: waveshare/35mm-telephoto-lens-for-pi
+release_date: null
+sku: 35mm-telephoto-lens-for-pi
+spec: null
+status: ''
+vendor: waveshare

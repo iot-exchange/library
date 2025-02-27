@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: EFR32xG24 Development Kit
+extra:
+  MSRP: $79.00
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/efr32xg24-dev-kit
+  repositories: []
+name: XG24-DK2601B
+ref: silicon-labs/xg24-dk2601b
+release_date: null
+sku: xg24-dk2601b
+spec: null
+status: ''
+vendor: silicon-labs

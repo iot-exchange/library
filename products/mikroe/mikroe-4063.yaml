@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Compass 3 Click is an expansion board that can measure the three-axis
+  magnetic field which is perfect for implementation in applications such as electric
+  compasses. This board features MMC5883MA, a complete 3-axis magnetic sensor with
+  signal processing from MEMSIC.
+extra:
+  discountedPrice: $12.35
+  originalPrice: $19.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/compass-3-click/compass-3-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/compass-3-click
+  repositories: []
+name: MIKROE-4063
+ref: mikroe/mikroe-4063
+release_date: null
+sku: mikroe-4063
+spec: null
+status: Reduced price!
+vendor: mikroe

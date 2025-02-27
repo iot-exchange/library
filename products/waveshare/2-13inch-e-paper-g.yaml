@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 2.13inch E-Paper (G) raw display, 250x122, Red/Yellow/Black/White
+extra:
+  Price: $7.31 - $7.99
+  SKU: '24797'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.13inch-e-paper-g-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/2.13inch-e-paper-g.htm
+  repositories: []
+name: 2.13inch e-Paper (G)
+ref: waveshare/2-13inch-e-paper-g
+release_date: null
+sku: 2-13inch-e-paper-g
+spec: null
+status: ''
+vendor: waveshare

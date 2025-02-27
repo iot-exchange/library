@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Fasteners/SCREW-M6x30-PFTE/images/thumbs/200x150/SCREW-6x30-PFTE.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Fasteners/SCREW-M6x30-PFTE/
+  repositories: []
+name: SCREW-M6x30-PFTE
+ref: olimex/screw-m6x30-pfte
+release_date: null
+sku: screw-m6x30-pfte
+spec: null
+status: ''
+vendor: olimex

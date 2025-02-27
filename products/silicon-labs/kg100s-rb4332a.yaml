@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: KG100S Radio Board (Bluetooth LE, FSK, CSS)
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/proprietary/kg100s-rb4332a-radio-board
+  repositories: []
+name: KG100S-RB4332A
+ref: silicon-labs/kg100s-rb4332a
+release_date: null
+sku: kg100s-rb4332a
+spec: null
+status: ''
+vendor: silicon-labs

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: $8.31  -  $8.99
+extra:
+  Part No.: ENC28J60 Ethernet Board
+  SKU: '3992'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/n/enc28j60-ethernet-board_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/enc28j60-ethernet-board.htm
+  repositories: []
+name: ENC28J60 Ethernet Board
+ref: waveshare/enc28j60-ethernet-board
+release_date: null
+sku: enc28j60-ethernet-board
+spec: null
+status: ''
+vendor: waveshare

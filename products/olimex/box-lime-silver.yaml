@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 7.60 EUR
+  discountedPrice2: 7.20 EUR
+  price: 8.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/BOXES/BOX-LIME/images/thumbs/200x150/BOX-LIME-BLACK-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/BOXES/BOX-LIME-SILVER/
+  repositories: []
+name: BOX-LIME-SILVER
+ref: olimex/box-lime-silver
+release_date: null
+sku: box-lime-silver
+spec: null
+status: ''
+vendor: olimex

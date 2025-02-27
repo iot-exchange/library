@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Bluetooth Module
+extra:
+  2MPHY: ''
+  802.15.4 / Matter / Thread: ''
+  BLE: x
+  Classic BT: x
+  LE Long Range: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/BT850_SA.png
+  models: []
+  products:
+  - https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/bt850-series-bluetooth-module
+  repositories: []
+name: BT850 Series
+ref: ezurio/bt850-series
+release_date: null
+sku: bt850-series
+spec: null
+status: ''
+vendor: ezurio

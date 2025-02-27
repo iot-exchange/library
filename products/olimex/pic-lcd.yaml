@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/PIC/Development/PIC-LCD/images/thumbs/200x150/PIC-LCD-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/PIC/Development/PIC-LCD/
+  repositories: []
+name: PIC-LCD
+ref: olimex/pic-lcd
+release_date: null
+sku: pic-lcd
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  GNSS: ''
+  USB3.1: ''
+  VoLTE: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.simcom.com/Uploads/image/20240301/65e1a2e5eca6e.png
+  models: []
+  products:
+  - https://www.simcom.com/product/SIM8270X.html
+  repositories: []
+name: SIM8270X
+ref: simcom/sim8270x
+release_date: null
+sku: sim8270x
+spec: null
+status: ''
+vendor: simcom

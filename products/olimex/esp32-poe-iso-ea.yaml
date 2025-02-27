@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32/ESP32-POE-ISO/images/thumbs/200x150/ESP32-POE-ISO-1-ind.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/IoT/ESP32/ESP32-POE-ISO-EA/open-source-hardware
+  repositories: []
+name: ESP32-POE-ISO-EA
+ref: olimex/esp32-poe-iso-ea
+release_date: null
+sku: esp32-poe-iso-ea
+spec: null
+status: ''
+vendor: olimex

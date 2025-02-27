@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: USB Audio Codec for Jetson Nano, USB Sound Card, Driver-Free, Plug And
+  Play
+extra:
+  Price: $18.63 - $19.99
+  SKU: '19491'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/u/audio-card-for-jetson-nano-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/audio-card-for-jetson-nano.htm
+  repositories: []
+name: Audio Card for Jetson Nano
+ref: waveshare/audio-card-for-jetson-nano
+release_date: null
+sku: audio-card-for-jetson-nano
+spec: null
+status: ''
+vendor: waveshare

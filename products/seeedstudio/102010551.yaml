@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: "The XIAO RA4M1 integrates Renesas' RA4M1 chip (32-bit ARM\xAE Cortex\xAE\
+  -M4 MCU up to 48 MHz with FPU) into the classic XIAO form factor. This development\
+  \ board offers 256KB Flash, 32KB SRAM, 8KB EEPROM, a USB 2.0 connector, reset and\
+  \ boot buttons, 3 LEDs, a 14-bit A/D converter, a 12-bit D/A converter, and a CAN\
+  \ BUS interface. With onboard charging circuitry and low-power modes (as low as\
+  \ 45\u03BCA), it\u2019s ideal for battery-powered applications. Sharing the same\
+  \ 32-bit microcontroller as the Arduino Uno R4, it's natively compatible with Arduino\
+  \ IDE, making it the perfect starting point for electronics projects thanks to the\
+  \ extensive XIAO accessories."
+extra:
+  Price: $4.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102010551-seeed-studio-xiao-ra4m1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Seeed-XIAO-RA4M1-p-5943.html
+  repositories: []
+name: '102010551'
+ref: seeedstudio/102010551
+release_date: null
+sku: '102010551'
+spec: null
+status: ''
+vendor: seeedstudio

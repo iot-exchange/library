@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Uninterruptible Power Supply UPS Module (B) for Jetson Nano, 5V Output,
+  up to 5A Current, Pogo Pins Connector
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/p/ups-power-module-b-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ups-power-module-b.htm
+  repositories: []
+name: ups_module_b
+ref: waveshare/ups-module-b
+release_date: null
+sku: ups-module-b
+spec: null
+status: ''
+vendor: waveshare

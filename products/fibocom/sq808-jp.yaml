@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 4G entry module designed for the Japan market.
+extra:
+  Bands: 'LTE: B1/3/6/8/9/18/19/21/26/28/41'
+  Form Factor: LGA / LCC
+  Region: Japan
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTE-SQ808-JP.html
+  repositories: []
+name: SQ808-JP
+ref: fibocom/sq808-jp
+release_date: null
+sku: sq808-jp
+spec: null
+status: ''
+vendor: fibocom

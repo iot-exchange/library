@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Universal e-Paper Raw Panel Driver Shield for Arduino
+extra:
+  Price: $10.95 - $12.99
+  SKU: '15082'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/-/e-paper-shield-intro_1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/-/e-paper-shield-4_4_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/e-paper-shield.htm
+  repositories: []
+name: e-Paper Shield
+ref: waveshare/e-paper-shield
+release_date: null
+sku: e-paper-shield
+spec: null
+status: ''
+vendor: waveshare

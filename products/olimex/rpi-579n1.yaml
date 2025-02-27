@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/RPI-579N1/images/thumbs/200x150/RPI-579N1b.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/RPI-579N1/
+  repositories: []
+name: RPI-579N1
+ref: olimex/rpi-579n1
+release_date: null
+sku: rpi-579n1
+spec: null
+status: ''
+vendor: olimex

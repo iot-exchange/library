@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-027-FPC-IO-Main/images/thumbs/200x150/TERES-027-FPC-Main-IO.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-027-FPC-IO-Main/
+  repositories: []
+name: TERES-027-FPC-IO-Main
+ref: olimex/teres-027-fpc-io-main
+release_date: null
+sku: teres-027-fpc-io-main
+spec: null
+status: ''
+vendor: olimex

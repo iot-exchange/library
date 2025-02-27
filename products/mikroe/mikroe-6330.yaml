@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Clicker 4 for STM32F302VC Plug, play, and prototype with ease! Clicker
+  4 for STM32F302VC is a compact development board designed as a complete solution,
+  you can use it to quickly build your own gadgets with unique functionalities.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/clicker-4-for-stm32f302vct6/clicker-4-for-stm32f302vct6-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/clicker-4-for-stm32f302vct6
+  repositories: []
+name: MIKROE-6330
+ref: mikroe/mikroe-6330
+release_date: null
+sku: mikroe-6330
+spec: null
+status: ''
+vendor: mikroe

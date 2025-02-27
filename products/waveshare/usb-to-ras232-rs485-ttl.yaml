@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: FT232RL/CH343G USB TO RS232/485/TTL Interface Converter, Industrial Isolation
+extra:
+  Price: $19.99 - $23.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-rs232-485-ttl-1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/usb-to-rs232-485-ttl.htm
+  - https://www.waveshare.com/usb-to-rs232-485-ttl.htm "FT232RL/CH343G USB TO RS232/485/TTL
+    Interface Converter, Industrial Isolation"
+  repositories: []
+name: usb_to_ras232_rs485_ttl
+ref: waveshare/usb-to-ras232-rs485-ttl
+release_date: null
+sku: usb-to-ras232-rs485-ttl
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Small Solar Panel 55x70mm 0.5W
+extra:
+  material: made of single-crystal material that performs high solar energy transformation
+    efficiency
+  suitability: suitable for outdoor environments
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductsolars.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/0-5W-Solar-Panel-55x70.html
+  repositories: []
+name: '313070004'
+ref: seeedstudio/313070004
+release_date: null
+sku: '313070004'
+spec: null
+status: ''
+vendor: seeedstudio

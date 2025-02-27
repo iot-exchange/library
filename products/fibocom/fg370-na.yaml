@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/5G-FG370-NA.html
+  repositories: []
+name: FG370-NA
+ref: fibocom/fg370-na
+release_date: null
+sku: fg370-na
+spec: null
+status: ''
+vendor: fibocom

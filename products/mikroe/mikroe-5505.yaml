@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: DC Male Power Jack TH is a relatively simple component, also known as
+  a barrel connector, responsible for receiving power, and usually mounted on the
+  PCB or chassis of an electronic device. Because of its center pin, this barrel connector
+  represents a male power jack, capable of withstanding current and voltage ratings
+  up to 5A and 24VDC (500VAC at...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dc-male-power-jack-th/dc-male-power-jack-th-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/dc-male-power-jack-th
+  repositories: []
+name: MIKROE-5505
+ref: mikroe/mikroe-5505
+release_date: null
+sku: mikroe-5505
+spec: null
+status: ''
+vendor: mikroe

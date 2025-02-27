@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 17.06 EUR
+  discountedPrice2: 15.16 EUR
+  price: 18.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/PIC/Development/PIC-USB-STK/images/thumbs/200x150/PIC-USB-2jpg.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/PIC/Development/PIC-USB-STK/
+  repositories: []
+name: PIC-USB-STK
+ref: olimex/pic-usb-stk
+release_date: null
+sku: pic-usb-stk
+spec: null
+status: ''
+vendor: olimex

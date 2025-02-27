@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: A high-resolution audio output HAT that provides 24-bit 192kHz digital
+  audio output
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/8136eac7cf3e14130f94c2642a2c01f7/3f4ea/d7f10787-60a6-434b-a590-d29401713f98_DAC_%2B.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/dac-plus/
+  repositories: []
+name: Raspberry Pi DAC+
+ref: raspberrypi/raspberry-pi-dac
+release_date: null
+sku: raspberry-pi-dac
+spec: null
+status: ''
+vendor: raspberrypi

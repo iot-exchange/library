@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Grove -1.22 Inch IPS Display - 240x240 resolution, IPS(SCK and SDA),
+  full-view angle, 65 colors show up, -20 to 70 degrees
+extra:
+  Price: ''
+  Resolution: 240x240
+  Type: Display
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-rgb-oled-display-1.22_-45font_1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Grove-1-2-Inch-IPS-Display-p-5699.html
+  repositories: []
+name: '104020268'
+ref: seeedstudio/104020268
+release_date: null
+sku: '104020268'
+spec: null
+status: ''
+vendor: seeedstudio

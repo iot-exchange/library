@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: USB Type A Socket Right Angle (205B-DAN0-R) is a universal 2.0 Type A
+  USB connector from Attend, primarily used on host controllers in computers and hubs.
+  Type A is the "original" most recognizable and commonly used USB connector featuring
+  hot-swapping and Plug-n-Play, which changes the user behavior of all pluggable devices.
+  Based on its compact design...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/usb-type-a-socket-right-angle/usb-type-a-socket-right-angle-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/usb-type-a-socket-right-angle "USB Type A Socket - Right
+    Angle"
+  repositories: []
+name: MIKROE-5405
+ref: mikroe/mikroe-5405
+release_date: null
+sku: mikroe-5405
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: RTC 18 Click is a compact add-on board that accurately keeps the time
+  of a day. This board features the RV-3032-C7, an I2C-configurable real-time clock
+  module that incorporates an integrated CMOS circuit and an XTAL from Micro Crystal
+  AG. The RV-3032-C7 is a temperature compensated RTC with premium accuracy (0.22
+  sec/day) and extremely low power...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rtc-18-click/rtc-18-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/rtc-18-click
+  repositories: []
+name: MIKROE-5192
+ref: mikroe/mikroe-5192
+release_date: null
+sku: mikroe-5192
+spec: null
+status: ''
+vendor: mikroe

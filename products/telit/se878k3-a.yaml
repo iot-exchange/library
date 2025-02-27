@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2023/11/SE878K3-A_2023-283x200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/se878k3-a/
+  repositories: []
+name: SE878K3-A
+ref: telit/se878k3-a
+release_date: null
+sku: se878k3-a
+spec: null
+status: ''
+vendor: telit

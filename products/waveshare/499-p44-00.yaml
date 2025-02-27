@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Test & Burn-in Socket
+extra:
+  Price: $26.99 - $29.99
+  SKU: '5743'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/9/499-p44-00-2_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/499-p44-00.htm
+  repositories: []
+name: 499-P44-00
+ref: waveshare/499-p44-00
+release_date: null
+sku: 499-p44-00
+spec: null
+status: ''
+vendor: waveshare

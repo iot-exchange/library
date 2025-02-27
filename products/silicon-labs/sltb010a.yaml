@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: EFR32BG22 Thunderboard Kit
+extra:
+  MSRP: $45.00
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/thunderboard/thunderboard-bg22-kit
+  repositories: []
+name: SLTB010A
+ref: silicon-labs/sltb010a
+release_date: null
+sku: sltb010a
+spec: null
+status: ''
+vendor: silicon-labs

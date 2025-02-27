@@ -1,0 +1,31 @@
+alternatives: []
+certifications: []
+description: "Powered by XMOS XU316 AI Sound and Audio chipset, it is a high-performance\
+  \ open source voice assistant development kit. The kit integrates the ReSpeaker\
+  \ Lite dual-microphone array and a powerful XIAO ESP32S3 processor, offering exceptional\
+  \ voice recognition, noise reduction, and voice processing capabilities thanks to\
+  \ its onboard AI NLU algorithms. This kit provides firmware integration with Home\
+  \ Assistant via ESPHome, making it ideal for smart voice assistants and home automation\
+  \ applications. \u3010Valentine\\'s Day offer: 5% off for 2 or more items, ends\
+  \ on February 18\uFF0C2025\u3011"
+extra:
+  offer: 'Valentine''s Day offer: 5% off for 2 or more items, ends on February 18,
+    2025'
+  price: $29.90
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-110061601-respeaker-lite-voice-assistant-kit-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/ReSpeaker-Lite-Voice-Assistant-Kit-p-5929.html
+  - https://www.seeedstudio.com/ReSpeaker-Lite-p-5928.html
+  repositories: []
+name: '110061601'
+ref: seeedstudio/110061601
+release_date: null
+sku: '110061601'
+spec: null
+status: ''
+vendor: seeedstudio

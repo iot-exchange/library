@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Contact-less Infrared Temperature Sensor
+extra:
+  Price: $12.63 - $13.99
+  SKU: '13461'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/n/infrared-temperature-sensor-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/infrared-temperature-sensor.htm
+  repositories: []
+name: Infrared Temperature Sensor
+ref: waveshare/infrared-temperature-sensor
+release_date: null
+sku: infrared-temperature-sensor
+spec: null
+status: ''
+vendor: waveshare

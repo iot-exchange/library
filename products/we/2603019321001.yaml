@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: EV-Kit Triton incl. ext. antenna
+extra:
+  Expected lifetime: '>10 years'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o172692v214%20Single_Triton_2603011121000.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/TRITON#2603019321001
+  repositories: []
+name: '2603019321001'
+ref: we/2603019321001
+release_date: null
+sku: '2603019321001'
+spec: null
+status: Active i
+vendor: we

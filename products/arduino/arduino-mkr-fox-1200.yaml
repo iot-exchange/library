@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: "A board equipped with a Sigfox\xAE radio module."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.arduino.cc/wiki/static/cb60c5834e614fbab029f17a60b990d0/5a190/mkr_fox_1200.png
+  models: []
+  products:
+  - https://store.arduino.cc/products/arduino-mkr-fox-1200
+  repositories: []
+name: Arduino MKR FOX 1200
+ref: arduino/arduino-mkr-fox-1200
+release_date: null
+sku: arduino-mkr-fox-1200
+spec: null
+status: ''
+vendor: arduino

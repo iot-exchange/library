@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC1311R3
+  repositories: []
+name: CC1311R3
+ref: ti/cc1311r3
+release_date: null
+sku: cc1311r3
+spec: null
+status: ''
+vendor: ti

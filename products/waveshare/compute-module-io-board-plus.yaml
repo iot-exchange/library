@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Compute Module IO Board Plus, for Raspberry Pi CM4S / CM3 / CM3L / CM3+
+  / CM3+L
+extra:
+  Price: $59.99
+  SKU: '13532'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/compute-module-io-board-plus-1_3.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/raspberry-pi-zero-case.htm
+  - https://www.waveshare.com/product/compute-module-io-board-plus.htm
+  repositories: []
+name: Compute Module IO Board Plus
+ref: waveshare/compute-module-io-board-plus
+release_date: null
+sku: compute-module-io-board-plus
+spec: null
+status: ''
+vendor: waveshare

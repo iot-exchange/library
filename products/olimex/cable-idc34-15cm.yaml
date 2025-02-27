@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 1.90 EUR
+  discountedPrice2: 1.80 EUR
+  price: 2.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Cables/CABLE-IDC34-15CM/images/thumbs/200x150/IDC40_cable.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Cables/CABLE-IDC34-15CM/
+  repositories: []
+name: CABLE-IDC34-15CM
+ref: olimex/cable-idc34-15cm
+release_date: null
+sku: cable-idc34-15cm
+spec: null
+status: ''
+vendor: olimex

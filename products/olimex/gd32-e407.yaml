@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/ST/STM32-E407/images/thumbs/200x150/STM32-E407-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/ST/GD32-E407/open-source-hardware
+  repositories: []
+name: GD32-E407
+ref: olimex/gd32-e407
+release_date: null
+sku: gd32-e407
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "2.13inch E-Paper E-Ink Display Module for Raspberry Pi Pico, 250\xD7\
+  122, Black / White, SPI"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-epaper-2.13-5_3.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-epaper-2.13-1.jpg
+  models: []
+  products:
+  - "https://www.waveshare.com/product/pico-epaper-2.13.htm \"2.13inch E-Paper E-Ink\
+    \ Display Module for Raspberry Pi Pico, 250\xD7122, Black / White, SPI\""
+  - https://www.waveshare.com/product/pico-epaper-2.13.htm
+  repositories: []
+name: Pico-ePaper-2.13
+ref: waveshare/pico-epaper-2-13
+release_date: null
+sku: pico-epaper-2-13
+spec: null
+status: ''
+vendor: waveshare

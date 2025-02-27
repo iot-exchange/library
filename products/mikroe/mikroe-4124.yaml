@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "Wheatstone Click is a measurement Click board\u2122 which utilizes a\
+  \ Wheatstone bridge circuit onboard, in order to precisely measure the resistance\
+  \ of an external element. Besides the wheatstone bridge circuit, this Click board\u2122\
+  \ also utilizes MAX4208 \u2013 an ultra-low offset/drift, precision instrumentation\
+  \ amplifier, from Analog Devices."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/wheatstone-click/wheatstone-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/can-fd-4-click/can-fd-4-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/wheatstone-click
+  - https://www.mikroe.com/can-fd-4-click
+  repositories: []
+name: MIKROE-4124
+ref: mikroe/mikroe-4124
+release_date: null
+sku: mikroe-4124
+spec: null
+status: ''
+vendor: mikroe

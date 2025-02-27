@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: 'Open/close detect, open alarmOpen/close statisticsDatalog FeatureBands:
+  CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865/RU864'
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/39ab3bf46ced9d4856c25205fb92582a_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lorawan-nb-iot-door-sensor-water-leak/item/205-cpl01.html
+  repositories: []
+name: CPL01
+ref: dragino/cpl01
+release_date: null
+sku: cpl01
+spec: null
+status: ''
+vendor: dragino

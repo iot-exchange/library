@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC1312PSIP
+  repositories: []
+name: CC1312PSIP
+ref: ti/cc1312psip
+release_date: null
+sku: cc1312psip
+spec: null
+status: ''
+vendor: ti

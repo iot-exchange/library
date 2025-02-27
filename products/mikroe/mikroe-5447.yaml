@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "LR IoT Click is a compact add-on board that contains a long-range transceiver.\
+  \ This board features Semtech Corporation\u2019s LR1110, an ultra-low power platform\
+  \ integrating a LoRa\xAE transceiver, multi-constellation GNSS, and passive WiFi\
+  \ AP MAC address scanner."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lr-iot-click/lr-iot-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/lr-iot-click
+  repositories: []
+name: MIKROE-5447
+ref: mikroe/mikroe-5447
+release_date: null
+sku: mikroe-5447
+spec: null
+status: ''
+vendor: mikroe

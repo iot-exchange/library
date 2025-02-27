@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o749940v214%20featherwing_3892.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/CALYPSO_IOT_FEATHERWING_2
+  repositories: []
+name: Calypso IoT Design Kit
+ref: we/calypso-iot-design-kit
+release_date: null
+sku: calypso-iot-design-kit
+spec: null
+status: ''
+vendor: we

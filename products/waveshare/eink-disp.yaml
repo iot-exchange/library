@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: 13.3inch E-paper Monitor, Mini HDMI Interface, external e-paper screen
+  for MAC/Windows PC, Anti-glare, No Blue Light
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/i/eink-disp-133-1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/eink-disp.htm
+  repositories: []
+name: eink_disp
+ref: waveshare/eink-disp
+release_date: null
+sku: eink-disp
+spec: null
+status: ''
+vendor: waveshare

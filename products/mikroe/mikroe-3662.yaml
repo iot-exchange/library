@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "Thermo 16 click provides an accuracy of \xB11\xB0C in the range from\
+  \ 0\xB0C to 70\xB0C. The sensor used on this Click board\u2122 has a great combination\
+  \ of features."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thermo-16-click/thermo-16-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/thermo-16-click
+  repositories: []
+name: MIKROE-3662
+ref: mikroe/mikroe-3662
+release_date: null
+sku: mikroe-3662
+spec: null
+status: ''
+vendor: mikroe

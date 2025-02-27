@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Colorful Heat Sink Set for Raspberry Pi 4B/3B+
+extra:
+  Price: $0.95 - $1.29
+  SKU: '17790'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-heatsink-set-7.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pi4-heatsink-set.htm
+  repositories: []
+name: PI4-HEATSINK-SET
+ref: waveshare/pi4-heatsink-set
+release_date: null
+sku: pi4-heatsink-set
+spec: null
+status: ''
+vendor: waveshare

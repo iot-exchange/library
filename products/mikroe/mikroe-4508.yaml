@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Hall Current 8 Click is a compact add-on board that contains a precise
+  solution for AC/DC current sensing. This board features the TLI4971-A120T5, a high-precision
+  coreless current sensor for industrial/consumer applications from Infineon Technologies.
+  The TLI4971-A120T5 has an analog interface and two fast overcurrent detection outputs,
+  which support the...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/hall-current-8-click-120a/hall-current-8-click-120a-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/shop?p=82#MIKROE-4508
+  repositories: []
+name: MIKROE-4508
+ref: mikroe/mikroe-4508
+release_date: null
+sku: mikroe-4508
+spec: null
+status: ''
+vendor: mikroe

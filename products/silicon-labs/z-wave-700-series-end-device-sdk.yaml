@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: "The Z-Wave 700 Series End Device Software Developer\u2019s Kit (SDK)\
+  \ helps developers create Z-Wave Plus compliant smart home devices quickly and cost-effectively."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/developers/z-wave-700-series
+  repositories: []
+name: Z-Wave 700 Series End Device SDK
+ref: silicon-labs/z-wave-700-series-end-device-sdk
+release_date: null
+sku: z-wave-700-series-end-device-sdk
+spec: null
+status: ''
+vendor: silicon-labs

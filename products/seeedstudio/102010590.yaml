@@ -1,0 +1,28 @@
+alternatives: []
+certifications: []
+description: "XIAO MG24 is an ultra-low-power wireless development board based on\
+  \ Silicon Labs' EFR32MG24 SoC, featuring a high-performance 78MHz ARM Cortex\xAE\
+  -M33 core. It\u2018s Matter\xAE native over Thread\xAE and Bluetooth\xAE Low Energy\
+  \ 5.3, all supported by the Arduino\xAE Core. With 4MB Flash onboard, 19 GPIOs,\
+  \ LED, and charging circuit, it boasts extremely low operating current and ultra-low-power\
+  \ modes, making it an ideal choice for IoT applications, especially battery-powered\
+  \ projects utilizing Matter\xAE protocols."
+extra:
+  Price: $7.90
+links:
+  datasheets: []
+  examples: []
+  images:
+  - ./img/y
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102010590-seeed-studio-xiao-mg24.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Seeed-Studio-XIAO-MG24-p-6247.html
+  repositories: []
+name: '102010590'
+ref: seeedstudio/102010590
+release_date: null
+sku: '102010590'
+spec: null
+status: ''
+vendor: seeedstudio

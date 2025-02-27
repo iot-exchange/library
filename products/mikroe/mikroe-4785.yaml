@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "6DOF IMU 17 Click is a compact add-on board that contains a 6-axis inertial\
+  \ measurement unit. This board features the IIM-42652, a 6-axis SmartIndustrial\u2122\
+  \ MotionTracking device that supports an extended operating temperature range for\
+  \ industrial applications from TDK InvenSense. It combines a 3-axis gyroscope and\
+  \ a 3-axis accelerometer featuring a 2K-byte..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/6dof-imu-17-click/6dof-imu-17-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/6dof-imu-17-click
+  repositories: []
+name: MIKROE-4785
+ref: mikroe/mikroe-4785
+release_date: null
+sku: mikroe-4785
+spec: null
+status: ''
+vendor: mikroe

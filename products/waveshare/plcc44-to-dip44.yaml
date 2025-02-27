@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Programmer Adapter
+extra:
+  Price: $18.99 - $21.99
+  SKU: '3058'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/l/plcc44-to-dip44_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/plcc44-to-dip44.htm
+  repositories: []
+name: PLCC44 TO DIP44
+ref: waveshare/plcc44-to-dip44
+release_date: null
+sku: plcc44-to-dip44
+spec: null
+status: ''
+vendor: waveshare

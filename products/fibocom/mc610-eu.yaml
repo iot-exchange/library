@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTECat1-MC610-EU.html
+  repositories: []
+name: MC610-EU
+ref: fibocom/mc610-eu
+release_date: null
+sku: mc610-eu
+spec: null
+status: ''
+vendor: fibocom

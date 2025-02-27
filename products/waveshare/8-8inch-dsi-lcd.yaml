@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "8.8inch DSI Capacitive Touch Display, 480 \xD7 1920, IPS, Optical Bonding\
+  \ Toughened Glass Panel, DSI Interface, 10-Point Touch"
+extra:
+  Price: $77.27  -  $79.99
+  SKU: '28982'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.waveshare.com/product/8.8inch-dsi-lcd.htm
+  repositories: []
+name: 8.8inch DSI LCD
+ref: waveshare/8-8inch-dsi-lcd
+release_date: null
+sku: 8-8inch-dsi-lcd
+spec: null
+status: ''
+vendor: waveshare

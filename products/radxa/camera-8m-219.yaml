@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: IMX 219
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/accessories/as003/thumb_camera_8m_219.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/camera-8m-219
+  repositories: []
+name: Camera 8M 219
+ref: radxa/camera-8m-219
+release_date: null
+sku: camera-8m-219
+spec: null
+status: ''
+vendor: radxa

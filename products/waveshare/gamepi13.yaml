@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: GamePi13 1.3inch LCD Game Console For Raspberry Pi, 240x240 Resolution,
+  Integrated ST7789 Driver Chip, SPI Communication
+extra:
+  Multi Options: ''
+  Price: $12.99 -  $19.99
+  multiOptions: Multi Options
+  price: $12.99 -  $19.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/a/gamepi13-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/gamepi13.htm
+  repositories: []
+name: GamePi13
+ref: waveshare/gamepi13
+release_date: null
+sku: gamepi13
+spec: null
+status: ''
+vendor: waveshare

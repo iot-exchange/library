@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/DSP/Emulators/TMS320-XDS100-V3/images/thumbs/200x150/TMS320-XDS100-V3.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/DSP/Emulators/TMS320-XDS100-V3/
+  repositories: []
+name: TMS320-XDS100-V3
+ref: olimex/tms320-xds100-v3
+release_date: null
+sku: tms320-xds100-v3
+spec: null
+status: ''
+vendor: olimex

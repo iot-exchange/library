@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: LoRaWAN Tilting Sensor
+extra:
+  Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865
+  Battery: 8500mAh Li/SOCl2 Battery (TS01-LB), Solar panel + 3000mAh Li-ion battery
+    (TS01-LS)
+  Features: Detect pitch and roll angle, Support Angle Alarm, Support Bluetooth v5.1
+    and LoRaWAN remote configure, Support wireless OTA update firmware
+  Power Consumption: Ultra-low power consumption
+  Type: LoRaWAN 1.0.3 Class A
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/d632334130a2b9d194362b7d857b88bf_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lora-lorawan-end-node/item/284-ts01-lb-ls.html
+  repositories: []
+name: TS01-LB/LS
+ref: dragino/ts01-lb-ls
+release_date: null
+sku: ts01-lb-ls
+spec: null
+status: ''
+vendor: dragino

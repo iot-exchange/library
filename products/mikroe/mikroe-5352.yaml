@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Dot matrix 0.7in 5x7 Red (SZ420757N) represents a dot matrix display
+  suitable to generate alpha, numeric, or custom character output specially designed
+  by Wuxi Ark Technology Electronic. The SZ420757N LED dot matrix module comes in
+  a 7x5 stylish configuration with round, and dot-like (1.9mm) LED elements producing
+  clean and uniform patterns.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dot-matrix-07in-5x7-red/dot-matrix-07in-5x7-red-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/dot-matrix-07in-5x7-red
+  repositories: []
+name: MIKROE-5352
+ref: mikroe/mikroe-5352
+release_date: null
+sku: mikroe-5352
+spec: null
+status: ''
+vendor: mikroe

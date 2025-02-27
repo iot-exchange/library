@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  BLE: 'Yes'
+  CSS: 'Yes'
+  FSK-Sub-GHz: 'Yes'
+  Flash: 1024 kB
+  For Battery Power: 'Yes'
+  Max TX Power: +20 dBm
+  Package Type: LGA56
+  RAM: 96 kB
+  Recommended Kit: KG100S-PK6130A
+  Secure Vault: 'Yes'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.quectel.com/product/kg100s-amazon-sidewalk-module
+  repositories: []
+name: Quectel KG100S
+ref: silicon-labs/quectel-kg100s
+release_date: null
+sku: quectel-kg100s
+spec: null
+status: ''
+vendor: silicon-labs

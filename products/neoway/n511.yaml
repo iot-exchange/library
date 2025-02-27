@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: N511 is a 5G cellular module that is designed for IoT dedicatedly.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.neoway.com/Uploads/Picture/2022/06/16/s62aad6abcfc58.png
+  models: []
+  products:
+  - https://www.neoway.com/products/wireless-communication/1482.html
+  repositories: []
+name: N511
+ref: neoway/n511
+release_date: null
+sku: n511
+spec: null
+status: ''
+vendor: neoway

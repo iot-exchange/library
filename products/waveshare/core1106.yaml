@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Luckfox Core1106 Core Board Based On Rockchip RV1106 Chip, 8GB eMMC,
+  Integrates ARM Cortex-A7/RISC-V MCU/NPU/ISP Processors
+extra:
+  Multi Options: ''
+  Price: $11.99 -  $17.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/core11060208-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/core1106.htm
+  repositories: []
+name: Core1106
+ref: waveshare/core1106
+release_date: null
+sku: core1106
+spec: null
+status: ''
+vendor: waveshare

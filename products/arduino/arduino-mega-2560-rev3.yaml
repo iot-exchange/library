@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.arduino.cc/wiki/static/c1e055dbac35723e2ea11b54857c2a9e/4b190/mega.jpg
+  models: []
+  products:
+  - https://store.arduino.cc/products/arduino-mega-2560-rev3
+  repositories: []
+name: Arduino Mega 2560 Rev3
+ref: arduino/arduino-mega-2560-rev3
+release_date: null
+sku: arduino-mega-2560-rev3
+spec: null
+status: ''
+vendor: arduino

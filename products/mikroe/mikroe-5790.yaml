@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Microwave 4 Click is a compact add-on board that utilizes the Doppler
+  Shift Phenomenon to sense motion. This board features the PD-V12, a miniature high-frequency
+  microwave transceiver from Ningbo Pdlux Electronic Technology.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/microwave-4-click/microwave-4-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/microwave-4-click
+  repositories: []
+name: MIKROE-5790
+ref: mikroe/mikroe-5790
+release_date: null
+sku: mikroe-5790
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Clock Gen 5 Click is a compact add-on board that contains a digital programmable
+  oscillator solution. This board features the LTC6903, a low-power self-contained
+  digital frequency source providing a precision frequency from 1kHz to 68MHz set
+  through a 3-wire SPI digital interface from Analog Devices. The LTC6903 features
+  a proprietary feedback loop that...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/clock-gen-5-click/clock-gen-5-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/clock-gen-5-click
+  repositories: []
+name: MIKROE-4413
+ref: mikroe/mikroe-4413
+release_date: null
+sku: mikroe-4413
+spec: null
+status: ''
+vendor: mikroe

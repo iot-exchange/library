@@ -1,0 +1,52 @@
+alternatives: []
+certifications: []
+description: Bluetooth LE, Zigbee, Thread, Proprietary | Module | 64 MHz, ARM Cortex
+  M4F
+extra:
+  ADC: '12'
+  Bluetooth: '5.2'
+  Bluetooth Version: 1.3.0
+  Certifications: FCC, ISED, CE, UKCA, SRRC, MIC, NC, KC
+  Current Consumption: '0.11'
+  DAC: NA
+  Flash: '128'
+  GPIO: '8'
+  I2C: '5.2'
+  Max Range (dBm): '-103'
+  Max Supply Voltage (V): '3.6'
+  Microcontroller: 64 MHz, ARM Cortex M4F
+  Operating Temperature Max: '85'
+  Operating Temperature Min: '-40'
+  PCB: PCB
+  Package: '30'
+  Package Type: 30/MODULE
+  RAM: '1024'
+  SPI: '2'
+  Secure Boot: 'No'
+  Security Features: AES Engine, TRNG, SHA1, SHA224, SHA256
+  Sensitivity: '-103'
+  Supply Voltage (V): '1.9'
+  Supply Voltage Max: '3.6'
+  Supply Voltage Min: '1.9'
+  TX Power: '5'
+  Timers: '3'
+  Tx Power (dBm): '5'
+  Type: Module
+  UART: '2'
+  Version: '3.0'
+  Zigbee Version: '3.0'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - ''
+  repositories: []
+name: '4.39'
+ref: microchip/4-39
+release_date: null
+sku: 4-39
+spec: null
+status: ''
+vendor: microchip

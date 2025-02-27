@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 26.96 EUR
+  discountedPrice2: 23.96 EUR
+  price: 29.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/PIC/Development/PIC-WEB/images/thumbs/200x150/PIC-WEB-C-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/PIC/Development/PIC-WEB/
+  repositories: []
+name: PIC-WEB
+ref: olimex/pic-web
+release_date: null
+sku: pic-web
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrices:
+  - 44.10 EUR
+  - 43.20 EUR
+  - 42.30 EUR
+  - 41.40 EUR
+  price: 45.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/SOM/RK3328/RK3328-SOM-1G/images/thumbs/200x150/RK3328-SOM-4G-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/SOM/RK3328/RK3328-SOM-4G/
+  repositories: []
+name: RK3328-SOM-4G
+ref: olimex/rk3328-som-4g
+release_date: null
+sku: rk3328-som-4g
+spec: null
+status: ''
+vendor: olimex

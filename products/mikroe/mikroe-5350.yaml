@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Vibration ERM Motor 10K RPM 3V (VZ43FC1B5640007) represents the Eccentric
+  Rotating Mass vibration motor (ERM), also known as a pager DC motor, with an offset
+  (non-symmetric) mass attached to the shaft specially designed by Vybronics. This
+  SMD reflow solderable vibration motor draws a maximum of 100mA while producing the
+  highest G force/vibration energy of...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/vibration-erm-motor-10k-rpm/vibration-erm-motor-10k-rpm-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/vibration-erm-motor-10k-rpm
+  repositories: []
+name: MIKROE-5350
+ref: mikroe/mikroe-5350
+release_date: null
+sku: mikroe-5350
+spec: null
+status: ''
+vendor: mikroe

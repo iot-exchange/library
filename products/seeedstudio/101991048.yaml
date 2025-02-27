@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "The IP68 RS485 UV Radiation Sensor measures real-time UV radiation from\
+  \ 240 to 395 nanometers. Ideal for environmental monitoring and agriculture. Pair\
+  \ with SenseCAP Sensor Hub 4G Data Logger or SenseCAP S2100 LoRaWAN\xAE Data Logger\
+  \ for seamless data collection and management."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/i/m/image0001_1.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/RS485-p-5692.html
+  repositories: []
+name: '101991048'
+ref: seeedstudio/101991048
+release_date: null
+sku: '101991048'
+spec: null
+status: ''
+vendor: seeedstudio

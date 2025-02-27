@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: 1x20 Male Pin Header Double Deck 2.54mm (0.100")
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/1x20-male-pin-header-double-deck/1x20-male-pin-header-double-deck-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/1x20-male-pin-header-double-deck
+  repositories: []
+name: MIKROE-5187
+ref: mikroe/mikroe-5187
+release_date: null
+sku: mikroe-5187
+spec: null
+status: ''
+vendor: mikroe

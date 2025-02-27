@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "Official Raspberry Pi 7inch Capacitive Touch Display, 720 \xD7 1280,\
+  \ IPS, DSI Interface, 5-Point Touch, Raspberry Pi Display"
+extra:
+  Price: $79.99
+  SKU: '29244'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-touch-display-2-2.jpg
+  models: []
+  products:
+  - "https://www.waveshare.com/product/raspberry-pi-touch-display-2.htm \"Official\
+    \ Raspberry Pi 7inch Capacitive Touch Display, 720 \xD7 1280, IPS, DSI Interface,\
+    \ 5-Point Touch, Raspberry Pi Display\""
+  - https://www.waveshare.com/product/raspberry-pi-touch-display-2.htm
+  repositories: []
+name: Raspberry Pi Touch Display 2
+ref: waveshare/raspberry-pi-touch-display-2
+release_date: null
+sku: raspberry-pi-touch-display-2
+spec: null
+status: ''
+vendor: waveshare

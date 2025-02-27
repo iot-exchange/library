@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Bridge various wireless protocols such as zigbee, bluetooth, NFC into
+  WiFi IP network. Internet of Things Gateway module to connect sensor network to
+  internet. Log sensor data and upload to remote server.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimages317990029201.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/M328W-wireless-Internet-of-Things-module-p-2323.html
+  repositories: []
+name: '317990029'
+ref: seeedstudio/317990029
+release_date: null
+sku: '317990029'
+spec: null
+status: ''
+vendor: seeedstudio

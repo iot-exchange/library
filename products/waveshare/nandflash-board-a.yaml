@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: NandFlash Board (A)
+extra:
+  Price: $5.99 - $6.99
+  SKU: '3946'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/n/a/nandflash-board-a-3_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/nandflash-board-a.htm
+  repositories: []
+name: NandFlash Board (A)
+ref: waveshare/nandflash-board-a
+release_date: null
+sku: nandflash-board-a
+spec: null
+status: ''
+vendor: waveshare

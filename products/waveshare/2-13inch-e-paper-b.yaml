@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 250x122, 2.13inch E-Ink raw display panel, three-color
+extra:
+  Price: $6.31 - $6.99
+  SKU: '13368'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.13inch-e-paper-b-5_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/2.13inch-e-paper-b.htm
+  repositories: []
+name: 2.13inch e-Paper (B)
+ref: waveshare/2-13inch-e-paper-b
+release_date: null
+sku: 2-13inch-e-paper-b
+spec: null
+status: ''
+vendor: waveshare

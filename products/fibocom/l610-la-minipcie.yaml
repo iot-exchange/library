@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTECat1-L610-LA-MiniPCIe.html
+  repositories: []
+name: L610-LA-MiniPCIe
+ref: fibocom/l610-la-minipcie
+release_date: null
+sku: l610-la-minipcie
+spec: null
+status: ''
+vendor: fibocom

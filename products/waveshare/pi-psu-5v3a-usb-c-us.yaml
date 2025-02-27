@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Official USB-C Power Supply for Raspberry Pi 4, US, White
+extra:
+  Price: $11.65 - $11.99
+  SKU: '16973'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi-psu-5v3a-usb-c-us-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pi-psu-us-w.htm "Official USB-C Power Supply
+    for Raspberry Pi 4, US, White"
+  - https://www.waveshare.com/product/pi-psu-us-w.htm
+  repositories: []
+name: PI-PSU-5V3A-USB-C-US
+ref: waveshare/pi-psu-5v3a-usb-c-us
+release_date: null
+sku: pi-psu-5v3a-usb-c-us
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/Biofeedback/ECG-GEL-ELECTRODE/images/thumbs/200x150/ECG-GEL-ELECTRODES.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/Biofeedback/ECG-GEL-ELECTRODE/
+  repositories: []
+name: ECG-GEL-ELECTRODE
+ref: olimex/ecg-gel-electrode
+release_date: null
+sku: ecg-gel-electrode
+spec: null
+status: ''
+vendor: olimex

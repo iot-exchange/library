@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Clicker 4 for STM32F407VG is a compact development board designed as
+  a complete solution, you can use it to quickly build your own gadgets with unique
+  functionalities.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/clicker-4-for-stm32f4/clicker-4-for-stm32f4-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/clicker-4-for-stm32f4
+  repositories: []
+name: MIKROE-5850
+ref: mikroe/mikroe-5850
+release_date: null
+sku: mikroe-5850
+spec: null
+status: ''
+vendor: mikroe

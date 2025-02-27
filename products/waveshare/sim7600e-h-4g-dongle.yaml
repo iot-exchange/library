@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: SIM7600E-H 4G DONGLE, GNSS Positioning, for Europe / the Middle East
+  / Africa / South Korea / Thailand...
+extra:
+  SKU: '21444'
+  price: $58.29  -  $59.99
+  sku: '21444'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim7600e-h-4g-dongle-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/sim7600e-h-4g-dongle.htm
+  repositories: []
+name: SIM7600E-H 4G DONGLE
+ref: waveshare/sim7600e-h-4g-dongle
+release_date: null
+sku: sim7600e-h-4g-dongle
+spec: null
+status: ''
+vendor: waveshare

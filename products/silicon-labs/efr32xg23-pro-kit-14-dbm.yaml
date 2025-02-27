@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: The EFR32xG23 (xG23) Pro Kit is designed to support the development of
+  Wireless IoT devices based on Sub-GHz wireless protocols for Proprietary, Connect,
+  Sidewalk and WM-BUS.
+extra:
+  MSRP: $202.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/simplicity-boards/brd4204d-mounted.png
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/efr32xg23-pro-kit-14-dbm
+  repositories: []
+name: EFR32xG23 Pro Kit +14 dBm
+ref: silicon-labs/efr32xg23-pro-kit-14-dbm
+release_date: null
+sku: efr32xg23-pro-kit-14-dbm
+spec: null
+status: ''
+vendor: silicon-labs

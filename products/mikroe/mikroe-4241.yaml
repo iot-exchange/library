@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "8-pin I2C Click is a compact add-on board that represents a breakout\
+  \ board that simplifies the connection of add-on boards with 8 pin Female Connector\
+  \ to mikroBUS\u2122 socket. This board can be used as I2C Adapter with no main component\
+  \ on itself, with only an on-board connector for connection establishing. 8-pin\
+  \ I2C Click has no regional restrictions, no..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/8-pin-i2c-click/8-pin-i2c-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/8-pin-i2c-click
+  repositories: []
+name: MIKROE-4241
+ref: mikroe/mikroe-4241
+release_date: null
+sku: mikroe-4241
+spec: null
+status: ''
+vendor: mikroe

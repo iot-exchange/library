@@ -1,0 +1,32 @@
+alternatives: []
+certifications: []
+description: For flashing / testing ESP32-WROOM-32UE / ESP32-WROOM-32U / ESP32-S2-SOLO-U
+  / ESP32-S2-SOLO-2U / ESP32-C6-WROOM-1U / ESP32-S3-WROOM-1U (must be used with ESP-BAT32
+  for testing)
+extra:
+  Antenna: IPEX antenna connector
+  Chip Embedded: ESP32-D0WD
+  Development Board: ESP32-DevKitC
+  Dimensions (mm): 18x19.2x3.2
+  Flash: 4,8,16
+  Flash (MB): 4,8,16
+  Footprint: 18x19.2x3.2
+  PSRAM: N/A
+  PSRAM (MB): N/A
+  Pins: '38'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-WROOM-32UE%20S_0.png
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
+  repositories: []
+name: ESP32-WROOM-32UE
+ref: espressif/esp32-wroom-32ue
+release_date: null
+sku: esp32-wroom-32ue
+spec: null
+status: ''
+vendor: espressif

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: PL2303 USB To UART (TTL) Communication Module, Micro / Mini / Type A
+  / Type C Connector
+extra:
+  Price: $3.99
+  price: $3.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/l/pl2303-usb-uart-board-type-c-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pl2303-usb-uart-board-type-c.htm
+  repositories: []
+name: pl2303_usb_uart_board_v2
+ref: waveshare/pl2303-usb-uart-board-v2
+release_date: null
+sku: pl2303-usb-uart-board-v2
+spec: null
+status: ''
+vendor: waveshare

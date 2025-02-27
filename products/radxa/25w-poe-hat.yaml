@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Simplify Wiring, Enhance Efficiency
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/poe-hat/ra017/thumb_25w_poep_hat.webp
+  models: []
+  products:
+  - https://radxa.com/products/accessories/25w-poe-plus-hat
+  repositories: []
+name: 25W PoE+ HAT
+ref: radxa/25w-poe-hat
+release_date: null
+sku: 25w-poe-hat
+spec: null
+status: ''
+vendor: radxa

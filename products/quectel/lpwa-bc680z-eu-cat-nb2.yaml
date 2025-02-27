@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Cat NB2  Embedded GNSS  QuecOpen
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - ./img/bv
+  models: []
+  products:
+  - https://www.quectel.com/product/lpwa-bc680z-eu-cat-nb2/
+  repositories: []
+name: LPWA BC680Z-EU Cat NB2
+ref: quectel/lpwa-bc680z-eu-cat-nb2
+release_date: null
+sku: lpwa-bc680z-eu-cat-nb2
+spec: null
+status: ''
+vendor: quectel

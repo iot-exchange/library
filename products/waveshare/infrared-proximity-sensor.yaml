@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Infrared Proximity Sensor, Obstacle-Avoiding
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/n/infrared-proximity-sensor-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/infrared-proximity-sensor.htm
+  repositories: []
+name: Infrared Proximity Sensor
+ref: waveshare/infrared-proximity-sensor
+release_date: null
+sku: infrared-proximity-sensor
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: A Low Cost Tiny SBC
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/rockpi/s0/thumb_rock_pi_s0.webp
+  models: []
+  products:
+  - https://radxa.com/products/rockpi/s0
+  repositories: []
+name: ROCK Pi S0
+ref: radxa/rock-pi-s0
+release_date: null
+sku: rock-pi-s0
+spec: null
+status: ''
+vendor: radxa

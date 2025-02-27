@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2023/08/TC_WE310K6_dynamic-1-234x200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/we310k6/
+  repositories: []
+name: WE310K6
+ref: telit/we310k6
+release_date: null
+sku: we310k6
+spec: null
+status: ''
+vendor: telit

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: USB MUX Click is a compact add-on board with a high-bandwidth switch
+  designed for switching and isolating high-speed USB 2.0 signals in systems with
+  limited USB I/Os. This board features the TS3USB30E, a USB 2.0 1:2 multiplexer/demultiplexer
+  switch with a single enable from Texas Instruments. It offers a wide bandwidth of
+  900MHz that allows signals to...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/usb-mux-click/usb-mux-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/usb-mux-click
+  repositories: []
+name: MIKROE-5748
+ref: mikroe/mikroe-5748
+release_date: null
+sku: mikroe-5748
+spec: null
+status: ''
+vendor: mikroe

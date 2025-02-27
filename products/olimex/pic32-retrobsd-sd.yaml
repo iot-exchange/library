@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 8.96 EUR
+  discountedPrice2: 7.96 EUR
+  price: 9.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Duino/PIC32/PIC32-RETROBSD-SD/images/thumbs/200x150/SD-Card.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Duino/PIC32/PIC32-RETROBSD-SD/
+  repositories: []
+name: PIC32-RETROBSD-SD
+ref: olimex/pic32-retrobsd-sd
+release_date: null
+sku: pic32-retrobsd-sd
+spec: null
+status: ''
+vendor: olimex

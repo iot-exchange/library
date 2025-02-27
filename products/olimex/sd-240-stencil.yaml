@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/StencilPrinters/SD-240-Stencil/images/thumbs/200x150/SD-240-stc.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/StencilPrinters/SD-240-Stencil/
+  repositories: []
+name: SD-240-Stencil
+ref: olimex/sd-240-stencil
+release_date: null
+sku: sd-240-stencil
+spec: null
+status: ''
+vendor: olimex

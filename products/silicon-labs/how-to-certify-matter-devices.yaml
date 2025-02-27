@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/whitepapers/how-to-certify-matter-devices
+  repositories: []
+name: How to Certify Matter Devices
+ref: silicon-labs/how-to-certify-matter-devices
+release_date: null
+sku: how-to-certify-matter-devices
+spec: null
+status: ''
+vendor: silicon-labs

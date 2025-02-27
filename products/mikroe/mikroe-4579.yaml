@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: DTMF Decoder Click is a compact add-on board that contains an integrated
+  DTMF receiver with enhanced sensitivity. This board features the MT8870D, a complete
+  DTMF receiver integrating the band-split filter and digital decoder functions from
+  Microchip Technology. It offers low power consumption and high performance and uses
+  digital counting techniques to...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dtmf-decoder-click/dtmf-decoder-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/dtmf-decoder-click
+  repositories: []
+name: MIKROE-4579
+ref: mikroe/mikroe-4579
+release_date: null
+sku: mikroe-4579
+spec: null
+status: ''
+vendor: mikroe

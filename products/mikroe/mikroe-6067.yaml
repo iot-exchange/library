@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Rotary RGB Click is a compact add-on board for creating visual effects
+  and precise position indications. This board features 16 individual RGB LEDs (WS2812B-2020)
+  from Worldsemi and a high-quality rotary encoder (EC12D1564402) from ALPS ALPINE.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rotary-rgb-click/rotary-rgb-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/rotary-rgb-click
+  repositories: []
+name: MIKROE-6067
+ref: mikroe/mikroe-6067
+release_date: null
+sku: mikroe-6067
+spec: null
+status: ''
+vendor: mikroe

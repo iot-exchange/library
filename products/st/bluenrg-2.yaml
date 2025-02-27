@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Programmable Bluetooth LE 5.3 Wireless SoC
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.st.com/en/wireless-connectivity/bluenrg-2.html
+  repositories: []
+name: BlueNRG-2
+ref: st/bluenrg-2
+release_date: null
+sku: bluenrg-2
+spec: null
+status: ''
+vendor: st

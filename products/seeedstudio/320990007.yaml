@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Most HAM and two-way handheld radio antennas and devices are designed
+  for BNC connectors
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproduct41bs000.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/SMA-BNC-adapter-SMA-Plug-to-BNC-Jack-straight-p-1531.html
+  repositories: []
+name: '320990007'
+ref: seeedstudio/320990007
+release_date: null
+sku: '320990007'
+spec: null
+status: ''
+vendor: seeedstudio

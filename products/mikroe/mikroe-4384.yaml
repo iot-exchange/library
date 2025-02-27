@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: BT Click is a compact add-on board targeted for applications that require
+  both Bluetooth Smart and Classic connectivity. This board features the BT121, a
+  dual-mode Bluetooth Smart Ready module solution.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/bt-click/bt-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/bt-click
+  repositories: []
+name: MIKROE-4384
+ref: mikroe/mikroe-4384
+release_date: null
+sku: mikroe-4384
+spec: null
+status: Unavailable
+vendor: mikroe

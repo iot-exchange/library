@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "Family EV-Board Proteus-II Bluetooth\xAE 5"
+extra:
+  Expected lifetime: '>10 years'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/components/products/manual/2608049024011_Manual Family
+    Boards_rev1.5.pdf
+  - https://www.we-online.com/en/components/products/PROTEUS-II#2608049024011
+  repositories: []
+name: '2608049024011'
+ref: we/2608049024011
+release_date: null
+sku: '2608049024011'
+spec: null
+status: Active
+vendor: we

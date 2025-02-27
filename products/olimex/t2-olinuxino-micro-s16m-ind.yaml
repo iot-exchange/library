@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 50.35 EUR
+  discountedPrice2: 47.70 EUR
+  price: 53.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-MICRO/images/thumbs/200x150/A20-OLINUXINO-MICRO-i.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/OLinuXino/A20/T2-OLinuXino-MICRO-s16M-IND/open-source-hardware
+  repositories: []
+name: T2-OLinuXino-MICRO-s16M-IND
+ref: olimex/t2-olinuxino-micro-s16m-ind
+release_date: null
+sku: t2-olinuxino-micro-s16m-ind
+spec: null
+status: ''
+vendor: olimex

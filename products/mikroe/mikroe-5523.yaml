@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "DC Motor 25 Click is a compact add-on board with a brushed DC motor\
+  \ driver. This board features the A3908, a low-voltage bidirectional DC motor driver\
+  \ from Allegro Microsystems. The A3908 is rated for an operating voltage range compatible\
+  \ with mikroBUS\u2122 power rails and output currents up to 500mA. The unique output\
+  \ full-bridge incorporates source-side..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dc-motor-25-click/dc-motor-25-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/dc-motor-25-click
+  repositories: []
+name: MIKROE-5523
+ref: mikroe/mikroe-5523
+release_date: null
+sku: mikroe-5523
+spec: null
+status: ''
+vendor: mikroe

@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.ti.com/product/CC2340R5
+  repositories: []
+name: CC2340R5
+ref: ti/cc2340r5
+release_date: null
+sku: cc2340r5
+spec: null
+status: ''
+vendor: ti

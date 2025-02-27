@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Peltier Element TEC1-12706 is thermoelectric cooling element that uses
+  the Peltier effect to create a heat flux at the junction of two different types
+  of materials.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/peltier-element-tec1-12706/peltier-element-tec1-12706-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/peltier-element-tec1-12706
+  repositories: []
+name: MIKROE-3828
+ref: mikroe/mikroe-3828
+release_date: null
+sku: mikroe-3828
+spec: null
+status: ''
+vendor: mikroe

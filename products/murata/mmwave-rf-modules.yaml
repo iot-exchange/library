@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Murata's millimeter wave (mmWave) RF modules support various frequencies;
+  5G mmWave band, and 60GHz band (IEEE802.11ay).
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: mmWave RF Modules
+ref: murata/mmwave-rf-modules
+release_date: null
+sku: mmwave-rf-modules
+spec: null
+status: ''
+vendor: murata

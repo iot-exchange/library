@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: "4x Cortex\xAE-A53 cores @ up to 1.8 GHz (NXP i.MX 8M Mini), 1x Cortex\xAE\
+  -M4 core @ 400 MHz (NXP i.MX 8M Mini), optional Wi-Fi 6/6E Bluetooth 5.3/5.4"
+extra:
+  Dimensions (L x W): 82 x 50
+  Form Factor: SMARC Connector
+  Memory: 1GB, 2GB, or 4GB LPDDR4
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/Nitrogen
+    8M Mini SMARC1.267 without wireless.png
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-09/Nitrogen%208M%20Mini%20SMARC.266-with-IF573.png
+  models: []
+  products:
+  - https://www.ezurio.com/product/nitrogen8m-mini-smarc
+  repositories: []
+name: Nitrogen8M Mini SMARC
+ref: ezurio/nitrogen8m-mini-smarc
+release_date: null
+sku: nitrogen8m-mini-smarc
+spec: null
+status: ''
+vendor: ezurio

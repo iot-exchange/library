@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "5inch Resistive Touch Screen LCD (B) with Bicolor Case, 800\xD7480,\
+  \ HDMI, Low Power"
+extra:
+  Price: $46.29 - $47.99
+  SKU: '11018'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/i/5inch-hdmi-lcd-b-bicolor-holder-1_1_4.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/b/5bk-m.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/bicolor-case-for-5inch-lcd-type-b.htm
+  - https://www.waveshare.com/product/5inch-hdmi-lcd-b-with-bicolor-case.htm
+  repositories: []
+name: 5inch HDMI LCD (B) (with bicolor case)
+ref: waveshare/5inch-hdmi-lcd-b-with-bicolor-case
+release_date: null
+sku: 5inch-hdmi-lcd-b-with-bicolor-case
+spec: null
+status: ''
+vendor: waveshare

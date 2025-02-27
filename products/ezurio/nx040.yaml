@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: The Sera NX040 supports command/response AT Interface or Ezurio Canvas
+  FW with MicroPython scripting for application development.
+extra:
+  accuracy: +/-10cm for two-way ranging
+  powerSupplyRange: 1.8V-3.6V
+  typicalVoltage: 3.3V
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: NX040
+ref: ezurio/nx040
+release_date: null
+sku: nx040
+spec: null
+status: ''
+vendor: ezurio

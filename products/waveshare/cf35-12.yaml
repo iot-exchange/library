@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "35KG.CM CF35-12 Bus Servo, High Precision And Large Torque, Aluminum\
+  \ Alloy Case, With Programmable 360\xB0 Magnetic Encoder, Multiple Operation Modes\
+  \ Switchable"
+extra:
+  Price: $62.95  -  $64.99
+  SKU: '29821'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/f/cf35-12-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/cf35-12.htm
+  repositories: []
+name: CF35-12
+ref: waveshare/cf35-12
+release_date: null
+sku: cf35-12
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "Ultrasonic sensing, Distance: 280~7500 mm, Accuracy: \xB1(1cm+S*0.3%)\
+  \ (S: Distance), Measure Angle: 40\xB0"
+extra:
+  Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
+  Ultra Low Power Consumption: ''
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://dragino.com/products/lora-lorawan-gateway.html
+  repositories: []
+name: LoRaWAN Distance Detection Sensor
+ref: dragino/lorawan-distance-detection-sensor
+release_date: null
+sku: lorawan-distance-detection-sensor
+spec: null
+status: ''
+vendor: dragino

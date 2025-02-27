@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: CP2102 USB UART Board (micro)
+extra:
+  Price: $4.59 - $5.29
+  SKU: '11325'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/p/cp2102-usb-uart-board-micro-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/cp2102-usb-uart-board-micro.htm
+  repositories: []
+name: CP2102 USB UART Board (micro)
+ref: waveshare/cp2102-usb-uart-board-micro
+release_date: null
+sku: cp2102-usb-uart-board-micro
+spec: null
+status: ''
+vendor: waveshare

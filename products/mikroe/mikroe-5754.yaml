@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Step Down 7 Click is a compact add-on board that converts higher voltages
+  into a lower voltages level. This board features the MAX17624, a synchronous step-down
+  converter with integrated MOSFETs from Analog Devices. The converter, as input,
+  uses voltages in the range from 2.9V up to 5.5V and can output step-down voltages
+  from 1.5V to 3.3V up to 1A. It...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/step-down-7-click/step-down-7-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/step-down-7-click
+  - https://www.mikroe.com/cart?add=1&id_product=3677
+  repositories: []
+name: MIKROE-5754
+ref: mikroe/mikroe-5754
+release_date: null
+sku: mikroe-5754
+spec: null
+status: ''
+vendor: mikroe

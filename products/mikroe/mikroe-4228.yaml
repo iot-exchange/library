@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "6DOF IMU 13 Click is a compact add-on board that contains an eCompass\
+  \ that consists of a 3-axis linear accelerometer and a 3-axis magnetic field sensor.\
+  \ This board features the MC6470, an accelerometer and magnetometer for a 6 DoF\
+  \ (6 Degrees of Freedom) sensor solution, from mCube Inc. It has a linear acceleration\
+  \ full-scale range of \xB116g and a low noise."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.mikroe.com/cart?add=1&id_product=2835
+  repositories: []
+name: MIKROE-4228
+ref: mikroe/mikroe-4228
+release_date: null
+sku: mikroe-4228
+spec: null
+status: ''
+vendor: mikroe

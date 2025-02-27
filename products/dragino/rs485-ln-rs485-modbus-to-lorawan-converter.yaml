@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: RS485 /Modbus to LoRaWAN Converter
+extra:
+  Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/b6d7090a321aeca0f529ab265a288b1b_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lora-lorawan-end-node/item/154-rs485-ln.html
+  repositories: []
+name: RS485-LN RS485 / Modbus to LoRaWAN Converter
+ref: dragino/rs485-ln-rs485-modbus-to-lorawan-converter
+release_date: null
+sku: rs485-ln-rs485-modbus-to-lorawan-converter
+spec: null
+status: ''
+vendor: dragino

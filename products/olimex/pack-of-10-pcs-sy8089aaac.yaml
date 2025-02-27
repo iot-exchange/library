@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/IC/SY8009A/images/thumbs/200x150/PkgMF05A.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/IC/SY8089AAAC/
+  repositories: []
+name: Pack of 10 pcs SY8089AAAC
+ref: olimex/pack-of-10-pcs-sy8089aaac
+release_date: null
+sku: pack-of-10-pcs-sy8089aaac
+spec: null
+status: ''
+vendor: olimex

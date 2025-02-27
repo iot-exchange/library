@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mcu-card-8-for-stm32-stm32f410rb/mcu-card-8-for-stm32-stm32f410rb-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/mcu-card-8-for-stm32-stm32f410rb
+  repositories: []
+name: MIKROE-3738
+ref: mikroe/mikroe-3738
+release_date: null
+sku: mikroe-3738
+spec: null
+status: ''
+vendor: mikroe

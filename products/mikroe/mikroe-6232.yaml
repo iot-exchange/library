@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: 'EasyAVR v8 EasyAVR v8 is packed in the protective box along with the
+  relevant documentation. The package contains: Damage resistant protective box EasyAVR
+  v8 board Adapter - USB-C Female to USB-A Male Adapter - USB Micro Female to USB-C
+  Male USB cable Board Schematic User Manual CODEGRIP Suite Quick Start Guide MCU
+  PIC18F47K42 and 8MHz...'
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/easyavr-v8/easyavr-v8-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/easyavr-v8
+  repositories: []
+name: MIKROE-6232
+ref: mikroe/mikroe-6232
+release_date: null
+sku: mikroe-6232
+spec: null
+status: ''
+vendor: mikroe

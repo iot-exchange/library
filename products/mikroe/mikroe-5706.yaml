@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: GNSS Active FPC Antenna (W3908B0100) is a reliable and durable flat patch
+  antenna for GNSS receivers, tracking, and location-based services. With a compact
+  size of 20x26.8mm, frequency range of 1.56-1.61GHz, 0.3dBi gain, and omni radiation
+  pattern, this antenna is optimized for efficiency.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.mikroe.com/gnss-active-fpc-antenna
+  repositories: []
+name: MIKROE-5706
+ref: mikroe/mikroe-5706
+release_date: null
+sku: mikroe-5706
+spec: null
+status: ''
+vendor: mikroe

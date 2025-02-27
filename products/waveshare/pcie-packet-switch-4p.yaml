@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: "Extended 4-Ch PCIe Gen 2 \xD71 Expander, Stable Performance, Driver-Free"
+extra:
+  Price: $23.97 - $24.99
+  SKU: '21364'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-packet-switch-4p-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pcie-packet-switch-4p.htm
+  repositories: []
+name: PCIe-Packet-Switch-4P
+ref: waveshare/pcie-packet-switch-4p
+release_date: null
+sku: pcie-packet-switch-4p
+spec: null
+status: ''
+vendor: waveshare

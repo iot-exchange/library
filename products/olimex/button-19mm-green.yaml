@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 3.33 EUR
+  discountedPrice2: 2.96 EUR
+  price: 3.70 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Switches/WATER-PROOF-BUTTONS/images/thumbs/200x150/but-12mm.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Switches/BUTTON-19MM-GREEN/
+  repositories: []
+name: BUTTON-19MM-GREEN
+ref: olimex/button-19mm-green
+release_date: null
+sku: button-19mm-green
+spec: null
+status: ''
+vendor: olimex

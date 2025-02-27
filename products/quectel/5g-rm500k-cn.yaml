@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.quectel.com/product/5g-rm500k-cn/
+  repositories: []
+name: 5G RM500K-CN
+ref: quectel/5g-rm500k-cn
+release_date: null
+sku: 5g-rm500k-cn
+spec: null
+status: ''
+vendor: quectel

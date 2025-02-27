@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Bluetooth LE + 802.15.4 + NFC
+extra:
+  2MPHY: x
+  802.15.4 / Matter / Thread: ''
+  BLE: x
+  Classic BT: x
+  LE Long Range: x
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-01/BL54L15-Group.png
+  models: []
+  products:
+  - https://www.ezurio.com/product/bl54l15-series-bluetooth-le-80215-4-nfc
+  repositories: []
+name: BL54L15 Series
+ref: ezurio/bl54l15-series
+release_date: null
+sku: bl54l15-series
+spec: null
+status: ''
+vendor: ezurio

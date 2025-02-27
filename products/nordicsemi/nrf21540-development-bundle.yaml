@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: The nRF21540 DB is the perfect development bundle to extend range of
+  Bluetooth Low Energy, Bluetooth mesh, Thread, Zigbee and 2.4 GHz proprietary products
+  together with the nRF21540 RF FEM. It includes the nRF21540 DK for application development
+  and the nRF21540 EK for performance testing.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.nordicsemi.com/Products/Development-hardware/nRF21540-DB
+  repositories: []
+name: nRF21540 Development Bundle
+ref: nordicsemi/nrf21540-development-bundle
+release_date: null
+sku: nrf21540-development-bundle
+spec: null
+status: ''
+vendor: nordicsemi

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 5 / 7 / 8 / 8.8 Inch USB Monitor, AIO LCD Screen, PC Case Secondary Screen
+  / Desktop RGB Ambient Screen, IPS Panel, Type-C Interface, CNC Metal Case
+extra:
+  Multi Options: ''
+  Price: $39.99 - $64.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/i/5inch-usb-monitor-w-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/5inch-usb-monitor.htm
+  repositories: []
+name: 5inch_usb_monitor
+ref: waveshare/5inch-usb-monitor
+release_date: null
+sku: 5inch-usb-monitor
+spec: null
+status: ''
+vendor: waveshare

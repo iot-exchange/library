@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 2.00 EUR
+  price2: 1.80 EUR
+  price3: 1.60 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/SC8UU/images/thumbs/200x150/SC8UU.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/SC8UU/
+  repositories: []
+name: SC8UU
+ref: olimex/sc8uu
+release_date: null
+sku: sc8uu
+spec: null
+status: ''
+vendor: olimex

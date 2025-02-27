@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Mikromedia 4 for Kinetis Resistive FPI with frame is not limited to multimedia-based
+  applications only. USB, WiFi and RF connectivity options, digital motion sensor,
+  battery charging.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-4-for-kinetis-resistive-fpi-with-frame/mikromedia-4-for-kinetis-resistive-fpi-with-frame-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/relay-6-click/relay-6-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/mikromedia-4-for-kinetis-resistive-fpi-with-frame
+  - https://www.mikroe.com/cart?add=1&id_product=3911
+  - https://www.mikroe.com/relay-6-click
+  repositories: []
+name: MIKROE-6211
+ref: mikroe/mikroe-6211
+release_date: null
+sku: mikroe-6211
+spec: null
+status: ''
+vendor: mikroe

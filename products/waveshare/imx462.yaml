@@ -1,0 +1,18 @@
+alternatives: []
+certifications: []
+description: 2MP Starlight Camera
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: IMX462
+ref: waveshare/imx462
+release_date: null
+sku: imx462
+spec: null
+status: ''
+vendor: waveshare

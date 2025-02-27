@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: RS232/485/422 To CAN Industrial Isolated Converter, Supports Modbus RTU
+  Conversion, Multiple Protection Circuits
+extra:
+  Price: $28.97 - $29.99
+  SKU: '26333'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs232-485-422-to-can-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rs232-485-422-to-can.htm
+  repositories: []
+name: RS232/485/422 TO CAN
+ref: waveshare/rs232-485-422-to-can
+release_date: null
+sku: rs232-485-422-to-can
+spec: null
+status: ''
+vendor: waveshare

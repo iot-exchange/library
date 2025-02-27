@@ -1,0 +1,34 @@
+alternatives: []
+certifications: []
+description: Tarvos-III with integrated antenna
+extra:
+  Connector: SMA
+  Current Consumption (mA): '3.8'
+  Dimensions: 74 x 23.65 x 12
+  Expected Lifetime: '>10 years'
+  Expected Lifetime (years): '>10'
+  Frequency Range: 863 - 870
+  Max Output Power (dBm): '300'
+  Output Power: '10000'
+  Sensitivity: '-124'
+  Sensitivity (dBm): '-104'
+  Supply Voltage (V): '2.2'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/TARVOS-III_MESH#2609026281001
+  - https://www.we-online.com/components/products/manual/2609011081000_Tarvos-III
+    2609011x8100x Manual_rev2.14.pdf
+  - https://www.we-online.com/en/components/products/manual/2609026281001_Tarvos-III
+    Stick 2609026281001 Manual_rev1.5.pdf
+  repositories: []
+name: '2609011081000'
+ref: we/2609011081000
+release_date: null
+sku: '2609011081000'
+spec: null
+status: ''
+vendor: we

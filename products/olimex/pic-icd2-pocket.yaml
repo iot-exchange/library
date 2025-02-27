@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/PIC/Programmers/PIC-ICD2-POCKET/images/thumbs/200x150/PIC-ICD2-POCKET.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/PIC/Programmers/PIC-ICD2-POCKET/
+  repositories: []
+name: PIC-ICD2-POCKET
+ref: olimex/pic-icd2-pocket
+release_date: null
+sku: pic-icd2-pocket
+spec: null
+status: ''
+vendor: olimex

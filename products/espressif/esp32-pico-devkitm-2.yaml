@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: ESP32-PICO-DevKitM-2 is a ESP32-PICO-MINI-02-based development board
+  produced by Espressif. Most of the I/O pins are broken out to the pin headers on
+  both sides for easy interfacing. Developers can either connect peripherals with
+  jumper wires or mount ESP32-DevKitM-1 on a breadboard.
+extra:
+  Flash: 8 MB
+  I/O: ''
+  PSRAM: 2 MB
+  USB: ''
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-pico-devkitm-2.html
+  repositories: []
+name: ESP32-PICO-DevKitM-2
+ref: espressif/esp32-pico-devkitm-2
+release_date: null
+sku: esp32-pico-devkitm-2
+spec: null
+status: ''
+vendor: espressif

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: OLED Display 96x96 Color (PSP27801) represents is a high-color full OLED
+  display measuring 30x25x1.23mm. It can display images or graphics in 96x96 pixels
+  resolution, with 262K/65K different colors and shades on a compact display, based
+  on OLED technology. It is suitable for many applications that require displaying
+  some information on the screen as a...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/oled-display-96x96-color/oled-display-96x96-color-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/oled-display-96x96-color
+  repositories: []
+name: MIKROE-5571
+ref: mikroe/mikroe-5571
+release_date: null
+sku: mikroe-5571
+spec: null
+status: ''
+vendor: mikroe

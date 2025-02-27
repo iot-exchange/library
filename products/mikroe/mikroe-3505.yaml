@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "L meter click is a compact and accurate Click board\u2122, capable of\
+  \ measuring and monitoring the inductance of the external component. The board can\
+  \ be used to measure a wide range of inductance. The design is based on a single\
+  \ high-speed voltage comparator LM311 by which the frequency of the oscillating\
+  \ LC circuit is measured and, based on the known value..."
+extra:
+  Price: $11.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/l-meter-click/l-meter-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/l-meter-click
+  repositories: []
+name: MIKROE-3505
+ref: mikroe/mikroe-3505
+release_date: null
+sku: mikroe-3505
+spec: null
+status: ''
+vendor: mikroe

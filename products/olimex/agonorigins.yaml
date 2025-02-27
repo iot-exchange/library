@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Retro-Computers/AgonOrigins/images/thumbs/200x150/AgonOrigins-1w.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Retro-Computers/AgonOrigins/open-source-hardware
+  repositories: []
+name: AgonOrigins
+ref: olimex/agonorigins
+release_date: null
+sku: agonorigins
+spec: null
+status: ''
+vendor: olimex

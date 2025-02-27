@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/PIC/Proto/PIC-P28-20MHz/images/thumbs/200x150/PIC-P28-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/PIC/Proto/PIC-P28-20MHz/
+  repositories: []
+name: PIC-P28-20MHz
+ref: olimex/pic-p28-20mhz
+release_date: null
+sku: pic-p28-20mhz
+spec: null
+status: ''
+vendor: olimex

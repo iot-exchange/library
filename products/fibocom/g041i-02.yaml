@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/GNSS-G041I-02.html
+  repositories: []
+name: G041I-02
+ref: fibocom/g041i-02
+release_date: null
+sku: g041i-02
+spec: null
+status: ''
+vendor: fibocom

@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: RTC 10 Click is a real-time clock module which has an extremely low power
+  consumption, allowing it to be used with a single button cell battery, for an extended
+  period of time. It features the DS3231M, a low-cost, extremely accurate, I2C real-time
+  clock (RTC) from Analog Devices. The device incorporates a battery input and maintains
+  accurate timekeeping...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rtc-10-click/rtc-10-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/rtc-10-click
+  repositories: []
+name: MIKROE-3770
+ref: mikroe/mikroe-3770
+release_date: null
+sku: mikroe-3770
+spec: null
+status: ''
+vendor: mikroe

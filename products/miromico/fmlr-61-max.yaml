@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://miromico.ch/files/miromico/media-data/product_images/FMLR_Module/FMLR-61-MAX/jpg/FMLR-61-MAX_2500px.jpg
+  models: []
+  products:
+  - https://miromico.ch/en/products/details/FMLR-61-MAX
+  repositories: []
+name: FMLR-61-MAX
+ref: miromico/fmlr-61-max
+release_date: null
+sku: fmlr-61-max
+spec: null
+status: ''
+vendor: miromico

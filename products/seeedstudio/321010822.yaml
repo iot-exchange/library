@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Magnetic USB Type-A to 2P Charging Cable for SenseCAP T1000 LoRaWAN Tracker
+extra:
+  price: $1.90
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-321010822-usb-cable_type-a-to-2p-with-magnetic-type-white-1000mm-45font.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114993187-sidewalk-front.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/USB-Cable-Type-A-to-2P-with-magnetic-type-White-1000mm-p-5888.html
+  repositories: []
+name: '321010822'
+ref: seeedstudio/321010822
+release_date: null
+sku: '321010822'
+spec: null
+status: ''
+vendor: seeedstudio

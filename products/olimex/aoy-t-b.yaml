@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/AOY-T-B/images/thumbs/200x150/AOY-T-B.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/Soldering/AOY-T-B/
+  repositories: []
+name: AOY-T-B
+ref: olimex/aoy-t-b
+release_date: null
+sku: aoy-t-b
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Power/BATTERY-Li-3V-220mAh-CR2032/images/thumbs/200x150/CR2032.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Power/BATTERY-Li-3V-220mAh-CR2032/
+  repositories: []
+name: BATTERY-Li-3V-220mAh-CR2032
+ref: olimex/battery-li-3v-220mah-cr2032
+release_date: null
+sku: battery-li-3v-220mah-cr2032
+spec: null
+status: ''
+vendor: olimex

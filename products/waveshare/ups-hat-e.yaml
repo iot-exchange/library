@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: "Supports 4\xD7 21700 Li batteries (NOT included), Bi-Directional Fast\
+  \ charging, 5V 6A Output, Pogo Pins Connector, Raspberry Pi UPS"
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.waveshare.com/product/ups-hat-e.htm
+  repositories: []
+name: UPS HAT (E)
+ref: waveshare/ups-hat-e
+release_date: null
+sku: ups-hat-e
+spec: null
+status: ''
+vendor: waveshare

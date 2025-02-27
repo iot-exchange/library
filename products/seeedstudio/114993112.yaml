@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: The reTerminal DM Dual LAN and SSD Extension offers dual 1 Gigabit Ethernet
+  ports and one NVMe SSD connector to the reTerminal DM.
+extra:
+  Function: Dual LAN and SSD extension
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993112--reterminal-dm-dual-lan-and-ssd-extension-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/reTerminal-DM-Dual-LAN-and-SSD-extension-p-5766.html
+  repositories: []
+name: '114993112'
+ref: seeedstudio/114993112
+release_date: null
+sku: '114993112'
+spec: null
+status: ''
+vendor: seeedstudio

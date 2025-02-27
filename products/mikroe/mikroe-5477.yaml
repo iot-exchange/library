@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Stepper 20 Click is a compact add-on board that contains a bipolar stepper
+  motor driver. This board features the TB67S580FNG, a two-phase bipolar stepping
+  motor driver from Toshiba Semiconductor. Fabricated with the BiCD process, it supports
+  a PWM constant-current control drive and steps resolution from full to 1/32 for
+  less motor noise and smoother...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/stepper-20-click/stepper-20-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/stepper-20-click
+  repositories: []
+name: MIKROE-5477
+ref: mikroe/mikroe-5477
+release_date: null
+sku: mikroe-5477
+spec: null
+status: ''
+vendor: mikroe

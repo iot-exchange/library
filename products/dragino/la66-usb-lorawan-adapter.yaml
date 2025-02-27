@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: LoRaWAN USB adapter base on LA66 LoRaWAN moduleLoRaWAN or Peer to Peer
+  LoRa ProtocolMCU +SX1262 SoCSpring RF antennaSmall Size, Low Power ConsumptionStable
+  / Mature LoRaWAN StackAvailable in different frequency LoRaWAN frequency bands
+extra:
+  Power Consumption: Low
+  Protocol: LoRaWAN or Peer to Peer
+  Size: Small
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/e1e1ad60f07c4aa3ccbcb2973e9d7007_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lora/item/232-la66-usb-lorawan-adapter.html
+  repositories: []
+name: LA66 USB LoRaWAN Adapter
+ref: dragino/la66-usb-lorawan-adapter
+release_date: null
+sku: la66-usb-lorawan-adapter
+spec: null
+status: ''
+vendor: dragino

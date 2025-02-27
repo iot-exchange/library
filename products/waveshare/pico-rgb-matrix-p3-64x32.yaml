@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "RGB Full-Color Multi-Features Digital Clock for Raspberry Pi Pico, 64\xD7\
+  32 Grid, Accurate RTC"
+extra:
+  Price: $41.97 - $42.99
+  SKU: '20591'
+  price: $41.97 - $42.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-rgb-matrix-p3-64x32-1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pico-rgb-matrix-p3-64x32.htm
+  repositories: []
+name: Pico-RGB-Matrix-P3-64x32
+ref: waveshare/pico-rgb-matrix-p3-64x32
+release_date: null
+sku: pico-rgb-matrix-p3-64x32
+spec: null
+status: ''
+vendor: waveshare

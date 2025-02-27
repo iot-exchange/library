@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Cables/FPC-40-0-5-150/images/thumbs/200x150/FPC.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Cables/FPC-40-0-5-150/
+  repositories: []
+name: FPC-40-0-5-150
+ref: olimex/fpc-40-0-5-150
+release_date: null
+sku: fpc-40-0-5-150
+spec: null
+status: ''
+vendor: olimex

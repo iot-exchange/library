@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  10+ pcs: 8.96 EUR
+  50+ pcs: 7.96 EUR
+  Price: 9.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/SOM/A13/A13-SOM-256-DEBIAN-SD/images/thumbs/200x150/SD-Card.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/SOM/A13/A13-SOM-256-DEBIAN-SD/
+  repositories: []
+name: A13-SOM-256-DEBIAN-SD
+ref: olimex/a13-som-256-debian-sd
+release_date: null
+sku: a13-som-256-debian-sd
+spec: null
+status: ''
+vendor: olimex

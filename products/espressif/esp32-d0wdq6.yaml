@@ -1,0 +1,33 @@
+alternatives: []
+certifications: []
+description: "Not recommended for new designs \u2192ESP32-D0WD-V3 / ESP32-U4WDH"
+extra:
+  Core: Dual core
+  Development Board: ESP32-DevKitC
+  Dimensions (mm): QFN 6x6
+  Flash (MB): N/A
+  Footprint: N/A
+  Footprint Link: N/A
+  MOQ: '3000'
+  Module: ESP32-WROOM-32
+  PSRAM (MB): N/A
+  Pins: '48'
+  RAM/ROM (KB): 520 KB SRAM 448 KB ROM 16 KB RTC SRAM
+  SPQ: '3000'
+  Variants: N/A
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP32-D0WDQ6_S_0.png
+  models: []
+  products:
+  - http://espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
+  repositories: []
+name: ESP32-D0WDQ6
+ref: espressif/esp32-d0wdq6
+release_date: null
+sku: esp32-d0wdq6
+spec: null
+status: Not recommended for new designs
+vendor: espressif

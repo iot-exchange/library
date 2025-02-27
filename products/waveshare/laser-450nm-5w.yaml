@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: 450nm High Precision Laser Module, 4.5W Blue Laser Head, Adjustable Focus,
+  Suitable For DIY Engraving Of Multiple Materials
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/a/laser-450nm-5w-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/laser-450nm-5w.htm
+  repositories: []
+name: Laser-450nm-5W
+ref: waveshare/laser-450nm-5w
+release_date: null
+sku: laser-450nm-5w
+spec: null
+status: ''
+vendor: waveshare

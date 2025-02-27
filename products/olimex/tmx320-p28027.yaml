@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 35.96 EUR
+  discountedPrice2: 31.96 EUR
+  price: 39.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/DSP/Development/TMX320-P28027/images/thumbs/200x150/TMX320-P28027-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/DSP/Development/TMX320-P28027/
+  repositories: []
+name: TMX320-P28027
+ref: olimex/tmx320-p28027
+release_date: null
+sku: tmx320-p28027
+spec: null
+status: ''
+vendor: olimex

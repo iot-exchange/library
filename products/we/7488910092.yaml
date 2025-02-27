@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: WE-MCA Antennas
+extra:
+  Expected lifetime: '>10 years'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o15037v214%20Single-WE-MCA-7488910915.jpg
+  models: []
+  products:
+  - https://www.we-online.com/components/products/datasheet/7488910092.pdf
+  repositories: []
+name: '7488910092'
+ref: we/7488910092
+release_date: null
+sku: '7488910092'
+spec: null
+status: Active
+vendor: we

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 58.50 EUR
+  discountedPrice2: 52.00 EUR
+  price: 65.00 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Power/PWR-PS3005/images/thumbs/200x150/PWR-PS305.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Power/PWR-PS3005/
+  repositories: []
+name: PWR-PS3005
+ref: olimex/pwr-ps3005
+release_date: null
+sku: pwr-ps3005
+spec: null
+status: ''
+vendor: olimex

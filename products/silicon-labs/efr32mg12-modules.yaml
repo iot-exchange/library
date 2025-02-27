@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Zigbee and Thread EFR32MG12 Based Modules (Series 1)
+extra:
+  Max Flash/RAM (kB): ''
+  Output Power Range (dBm): -30 17
+  RX Current (mA): '10.3'
+  "Secure Vault\u2122": Base
+  TX Current (0 dBm): '10'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/wireless/zigbee/efr32mg12-series-1-modules
+  repositories: []
+name: EFR32MG12 Modules
+ref: silicon-labs/efr32mg12-modules
+release_date: null
+sku: efr32mg12-modules
+spec: null
+status: ''
+vendor: silicon-labs

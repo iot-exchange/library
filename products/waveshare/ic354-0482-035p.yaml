@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Test & Burn-in Socket
+extra:
+  Price: $17.59 - $20.99
+  SKU: '3011'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ic354-0482-035p-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ic354-0482-035p.htm
+  repositories: []
+name: IC354-0482-035P
+ref: waveshare/ic354-0482-035p
+release_date: null
+sku: ic354-0482-035p
+spec: null
+status: ''
+vendor: waveshare

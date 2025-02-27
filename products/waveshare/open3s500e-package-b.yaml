@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Part No.:Open3S500E Package B, XILINX Development Board
+extra:
+  Price: $149.89 - $154.99
+  SKU: '6706'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/open3s500e-package-b_l_1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/open3s500e-package-b.htm
+  repositories: []
+name: Open3S500E Package B
+ref: waveshare/open3s500e-package-b
+release_date: null
+sku: open3s500e-package-b
+spec: null
+status: Out of Stock
+vendor: waveshare

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32/ESP32-ADF/images/thumbs/200x150/ESP32-ADF-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/IoT/ESP32/ESP32-ADF/open-source-hardware
+  repositories: []
+name: ESP32-ADF
+ref: olimex/esp32-adf
+release_date: null
+sku: esp32-adf
+spec: null
+status: ''
+vendor: olimex

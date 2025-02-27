@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi 4 Model B Sensor Kit, with 13x Popular Sensors
+extra:
+  Price: $74.99 -  $158.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4b-sensor-kit-2_2.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4b-sensor-kit-1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/pi4b-sensor-kit.htm
+  repositories: []
+name: pi4b_sensor_kit
+ref: waveshare/pi4b-sensor-kit
+release_date: null
+sku: pi4b-sensor-kit
+spec: null
+status: ''
+vendor: waveshare

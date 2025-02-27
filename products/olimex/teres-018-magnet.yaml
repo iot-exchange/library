@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-018-Magnet/images/thumbs/200x150/TERES-018-Magnet.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-018-Magnet/
+  repositories: []
+name: TERES-018-Magnet
+ref: olimex/teres-018-magnet
+release_date: null
+sku: teres-018-magnet
+spec: null
+status: ''
+vendor: olimex

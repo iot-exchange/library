@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Uninterruptible Power Supply UPS Module (C) For Jetson Orin, Supports
+  21700 Li battery (NOT included), Pogo Pins Connector
+extra:
+  Price: $23.29  -  $24.99
+  SKU: '29568'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/p/ups-power-module-c-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ups-power-module-c.htm
+  repositories: []
+name: UPS Power Module (C) EN
+ref: waveshare/ups-power-module-c-en
+release_date: null
+sku: ups-power-module-c-en
+spec: null
+status: ''
+vendor: waveshare

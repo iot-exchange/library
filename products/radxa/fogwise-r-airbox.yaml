@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Micro Server for Generative AI
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/fogwise/bm168m/thumb_radxa_fogwise_bm168m.webp
+  models: []
+  products:
+  - https://radxa.com/products/fogwise/airbox
+  repositories: []
+name: "Fogwise\xAE AirBox"
+ref: radxa/fogwise-r-airbox
+release_date: null
+sku: fogwise-r-airbox
+spec: null
+status: ''
+vendor: radxa

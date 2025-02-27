@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Bluetooth 5: "\u2714"
+  Bluetooth Mesh: "\u2714"
+  Flash (kB): '1024'
+  Frequency Band: 868 MHz
+  Output Power (dBm): '20'
+  RAM (kB): '256'
+  Wi-SUN: "\u2714"
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/proprietary/slwrb4254a-efr32fg12-868-mhz-radio-board
+  repositories: []
+name: SLWRB4254A
+ref: silicon-labs/slwrb4254a
+release_date: null
+sku: slwrb4254a
+spec: null
+status: ''
+vendor: silicon-labs

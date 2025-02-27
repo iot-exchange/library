@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/KP08/images/thumbs/200x150/KP08.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-KP08/
+  repositories: []
+name: BEARING-KP08
+ref: olimex/bearing-kp08
+release_date: null
+sku: bearing-kp08
+spec: null
+status: ''
+vendor: olimex

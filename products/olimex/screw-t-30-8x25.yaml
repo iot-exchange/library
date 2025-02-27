@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Fasteners/SCREW-T-30-8X25/images/thumbs/200x150/Tnut.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Fasteners/SCREW-T-30-8X25/
+  repositories: []
+name: SCREW-T-30-8X25
+ref: olimex/screw-t-30-8x25
+release_date: null
+sku: screw-t-30-8x25
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Regular price: $54.95
+  Sale price: $54.95
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/outlet-product-render-hero-drop-shadow-1500x1500.jpg?v=1672956872&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/i3-outlet
+  repositories: []
+name: i3 Outlet
+ref: insteon/i3-outlet
+release_date: null
+sku: i3-outlet
+spec: null
+status: Out of stock
+vendor: insteon

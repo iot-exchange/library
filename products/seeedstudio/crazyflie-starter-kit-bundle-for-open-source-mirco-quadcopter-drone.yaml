@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: The "Getting Started bundle" has everything you need to dive into the
+  Crazyflie platform to start exploring flying robotics. Aside from the Crazyflie
+  2.1 this bundle also includes the Crazyradio PA, which enabled connection to a computer
+  and advanced features like real-time logging and setting of parameters.
+extra:
+  price: $0.00 - $32.00
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.seeedstudio.com/Crazyfile-Open-Source-Mirco-Quadcopter-Drone-starter-kit-bundle.html
+  repositories: []
+name: Crazyflie Starter Kit Bundle for Open Source Mirco Quadcopter Drone
+ref: seeedstudio/crazyflie-starter-kit-bundle-for-open-source-mirco-quadcopter-drone
+release_date: null
+sku: crazyflie-starter-kit-bundle-for-open-source-mirco-quadcopter-drone
+spec: null
+status: ''
+vendor: seeedstudio

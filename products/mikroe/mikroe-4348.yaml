@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: 'PHT Click is a compact add-on board that contains a PHT combo sensor.
+  This board features the MS8607, a digital combination sensor providing 3 environmental
+  measurements all-in-one: pressure, humidity, and temperature from TE Connectivity.
+  This sensor is based on leading MEMS technologies, provides factory-calibrated PHT
+  data available over an I2C serial...'
+extra:
+  Price: $139.00
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/barcode-2-click/barcode-2-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/pht-click/pht-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/pht-click
+  - https://www.mikroe.com/barcode-2-click
+  repositories: []
+name: MIKROE-4348
+ref: mikroe/mikroe-4348
+release_date: null
+sku: mikroe-4348
+spec: null
+status: ''
+vendor: mikroe

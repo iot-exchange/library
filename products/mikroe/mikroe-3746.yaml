@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Secure UDFN Click is universal, socket based click board, specifically\
+  \ designed for the Microchip CryptoAuthentication\u2122 devices in an 8-pin UDFN\
+  \ package. This click board\u2122 supports the I2C, SPI, and the SWI interface based\
+  \ ICs from the CryptoAuthentication\u2122 family with a flexible command set, that\
+  \ allows use in various security applications, including..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/secure-udfn-click/secure-udfn-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/secure-udfn-click
+  repositories: []
+name: MIKROE-3746
+ref: mikroe/mikroe-3746
+release_date: null
+sku: mikroe-3746
+spec: null
+status: ''
+vendor: mikroe

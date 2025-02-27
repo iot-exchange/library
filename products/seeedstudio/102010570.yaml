@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: This is a 3PCs pack of XIAO nRF52840, which is powered by Nordic Semiconductor\'s
+  nRF52840 chip. It supports wireless connectivity of Bluetooth 5.0 and NFC, also
+  is able to operate with ultra low power consumption. Featuring onboard IMU, PDM
+  and compatibility of TensorFlow Lite and Edge Impulse, it can be your best mini
+  Arduino-compatible dev board for embedded Machine Learning projects.
+extra:
+  discount: $4.50 (10%)
+  original_price: $44.99
+  price: $40.49
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/w/e/wechatimg496.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Seeed-Studio-XIAO-nRF52840-Sense-3PCS-p-5922.html
+  repositories: []
+name: '102010570'
+ref: seeedstudio/102010570
+release_date: null
+sku: '102010570'
+spec: null
+status: ''
+vendor: seeedstudio

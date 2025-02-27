@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Tarvos-I
+extra:
+  Current Consumption (mA): '3.6'
+  Expected Lifetime (years): 2-5
+  Frequency Range: 868 - 868.6
+  Max Output Power (dBm): '1000'
+  Sensitivity (dBm): '-108'
+  Supply Voltage (V): '2.2'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: 2605041181000i
+ref: we/2605041181000i
+release_date: null
+sku: 2605041181000i
+spec: null
+status: NRND
+vendor: we

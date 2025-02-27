@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/_/1_1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/RS-232-To-TTL-Conveter-MAX3232IDR-p-2851.html
+  repositories: []
+name: '103990363'
+ref: seeedstudio/103990363
+release_date: null
+sku: '103990363'
+spec: null
+status: ''
+vendor: seeedstudio

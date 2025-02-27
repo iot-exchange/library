@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: OTS-14(16)-1.27-03, Test & Burn-in Socket
+extra:
+  Price: $25.59 - $28.99
+  SKU: '3579'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/t/ots-1416-1.27-03_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ots-1416-1.27-03.htm
+  repositories: []
+name: OTS-14(16)-1.27-03
+ref: waveshare/ots-14-16-1-27-03
+release_date: null
+sku: ots-14-16-1-27-03
+spec: null
+status: ''
+vendor: waveshare

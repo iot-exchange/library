@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 71.96 EUR
+  discountedPrice2: 63.96 EUR
+  price: 79.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/ST/STR730-STK/images/thumbs/200x150/STR-730-STK-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/ST/STR730-STK/
+  repositories: []
+name: STR730-STK
+ref: olimex/str730-stk
+release_date: null
+sku: str730-stk
+spec: null
+status: ''
+vendor: olimex

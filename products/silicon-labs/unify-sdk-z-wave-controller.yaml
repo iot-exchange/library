@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Alliance certified Z-Wave controller based on Unify SDK. Unify SDK simplifies
+  IoT infrastructure development including gateways, access points, hubs, bridges,
+  and application processor-based end products.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/developers/unify-sdk
+  repositories: []
+name: Unify SDK Z-Wave Controller
+ref: silicon-labs/unify-sdk-z-wave-controller
+release_date: null
+sku: unify-sdk-z-wave-controller
+spec: null
+status: ''
+vendor: silicon-labs

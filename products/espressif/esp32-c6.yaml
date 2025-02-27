@@ -1,0 +1,32 @@
+alternatives: []
+certifications: []
+description: 32-bit RISC-V MCU & 2.4 GHz Wi-Fi 6 & Bluetooth 5 (LE) & IEEE 802.15.4.
+extra:
+  Core: Single Core
+  Development Board: ESP32-C6-DevKitC-1, ESP32-C6-DevKitM-1
+  Dimensions (mm): QFN 5x5
+  Flash (MB): 048
+  Footprint: https://www.espressif.com/sites/default/files/chips-dxf/ESP32-C6_Footprint.zip
+  Footprint Link: https://www.espressif.com/sites/default/files/chips-dxf/ESP32-C6_Footprint.zip
+  Module: ESP32-C6-WROOM-1, ESP32-C6-MINI-1
+  PSRAM (MB): N/A
+  Pins: 40 32 32
+  RAM/ROM (KB): 512 KB SRAM, 320 KB ROM
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP32-C6_S_0.png
+  models: []
+  products:
+  - https://www.espressif.com/en/support/documents/technical-documents?type=socs&series=ESP32-C6
+    Series
+  - https://www.espressif.com/sites/default/files/documentation/esp32-c6_datasheet_en.pdf
+  repositories: []
+name: ESP32-C6
+ref: espressif/esp32-c6
+release_date: null
+sku: esp32-c6
+spec: null
+status: ''
+vendor: espressif

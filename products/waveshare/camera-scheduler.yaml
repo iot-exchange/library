@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi Camera Scheduler, One Cable for Two Cameras
+extra:
+  Price: $11.31 - $11.99
+  SKU: '16740'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/a/camera-scheduler-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/camera-scheduler.htm
+  repositories: []
+name: Camera Scheduler
+ref: waveshare/camera-scheduler
+release_date: null
+sku: camera-scheduler
+spec: null
+status: ''
+vendor: waveshare

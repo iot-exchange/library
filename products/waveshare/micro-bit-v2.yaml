@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: BBC micro:bit V2, Upgraded Processor, Built-In Speaker And Microphone,
+  Touch Sensitive Logo
+extra:
+  Multi Options: ''
+  Price: $19.99 - $21.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/i/micro-bit-v2-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/micro-bit-v2.htm
+  - https://www.waveshare.com/product/micro-bit-v2.htm "BBC micro:bit V2, Upgraded
+    Processor, Built-In Speaker And Microphone, Touch Sensitive Logo"
+  repositories: []
+name: micro_bit_v2
+ref: waveshare/micro-bit-v2
+release_date: null
+sku: micro-bit-v2
+spec: null
+status: ''
+vendor: waveshare

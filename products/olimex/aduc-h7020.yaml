@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  10+ pcs: 18.86 EUR
+  50+ pcs: 16.76 EUR
+  Price: 20.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/ARM/AnalogDevices/ADuC-H7020/images/thumbs/200x150/ADuC-H7020-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/ARM/AnalogDevices/ADuC-H7020/
+  repositories: []
+name: ADuC-H7020
+ref: olimex/aduc-h7020
+release_date: null
+sku: aduc-h7020
+spec: null
+status: ''
+vendor: olimex

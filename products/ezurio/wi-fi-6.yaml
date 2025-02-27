@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: Extension to 160MHz channels
+extra:
+  Bandwidth: 4X the channel width from Wi-Fi 5
+  Bandwidth and Range: Improved communication reliability
+  Channel Capacity Improvement: 10%
+  Interference Reduction: Minimized between overlapping networks
+  Link Reliability: Improved immunity to narrow band interference
+  Maximum Link Rate: 9.6 Gb/s
+  Power Saving: Extended periods of time (>10 seconds)
+  Reliability: Improves connection ruggedness
+  Security: Highest level of link level security
+  Simultaneous Delivery: Up to 6 stations
+  Use Case: Security systems using high definition cameras.
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: Wi-Fi 6
+ref: ezurio/wi-fi-6
+release_date: null
+sku: wi-fi-6
+spec: null
+status: ''
+vendor: ezurio

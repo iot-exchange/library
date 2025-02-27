@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Veda SL917 Click (Integrated Antenna) is a compact add-on board designed
+  for secure, low-power industrial IoT applications requiring Wi-Fi 6 and Bluetooth
+  LE 5.4 connectivity. This board is based on the 453-00221 module from Ezurio, offering
+  advanced wireless communication capabilities using an integrated chip antenna. It
+  features the Silicon Labs SiWx917...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/veda-sl917-click-rf-trace-pad/veda-sl917-click-rf-trace-pad-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/veda-sl917-click-integrated-antenna/veda-sl917-click-integrated-antenna-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/veda-sl917-click-rf-trace-pad
+  - https://www.mikroe.com/veda-sl917-click-integrated-antenna
+  repositories: []
+name: MIKROE-6489
+ref: mikroe/mikroe-6489
+release_date: null
+sku: mikroe-6489
+spec: null
+status: ''
+vendor: mikroe

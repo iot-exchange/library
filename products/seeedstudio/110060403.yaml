@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "Use the single-cell Li-Po 500mA battery charger always to have your\
+  \ 240mAh LiPo spare batteries fully charged to maximize your flight time of the\
+  \ Crazyfile2.x. If you\u2019re a bit handy with a soldering iron you can even solder\
+  \ multiple chargers together for multi-battery charging."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedimg2016-06sdv7frh01ove8zw5wdjhvjgc.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Crazyflie-2-0-spare-battery-including-charger.html
+  repositories: []
+name: '110060403'
+ref: seeedstudio/110060403
+release_date: null
+sku: '110060403'
+spec: null
+status: ''
+vendor: seeedstudio

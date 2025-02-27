@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/RF/ANTENNA-WIFI-BT-2.4G-5G-U.FL/images/thumbs/200x150/ANTENNA-2.4G-5.8G.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/RF/ANTENNA-WIFI-BT-2-4G-5G-U-FL/
+  repositories: []
+name: ANTENNA-WIFI-BT-2-4G-5G-U-FL
+ref: olimex/antenna-wifi-bt-2-4g-5g-u-fl
+release_date: null
+sku: antenna-wifi-bt-2-4g-5g-u-fl
+spec: null
+status: ''
+vendor: olimex

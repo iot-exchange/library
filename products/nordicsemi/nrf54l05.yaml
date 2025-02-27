@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Ultra-low-power wireless SoC in the nRF54L Series with 0.5 MB NVM and
+  96 KB RAM, supporting Bluetooth LE, Bluetooth Mesh, Zigbee, Thread and 2.4 GHz proprietary
+  protocols.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://nos-p-001.sitecorecontenthub.cloud/api/public/content/873081cf2aa840e59161e3a9d69cf6e5?v=6b0156f2
+  models: []
+  products:
+  - https://www.nordicsemi.com/Products/nRF54L05
+  repositories: []
+name: nRF54L05
+ref: nordicsemi/nrf54l05
+release_date: null
+sku: nrf54l05
+spec: null
+status: ''
+vendor: nordicsemi

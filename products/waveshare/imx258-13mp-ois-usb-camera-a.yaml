@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: IMX258 13MP OIS USB Camera (A), Optical Image Stabilization, Plug-and-Play,
+  Driver Free
+extra:
+  Price: $88.29 - $89.99
+  SKU: '18586'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx258-13mp-ois-usb-camera-a-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/imx258-13mp-ois-usb-camera-a.htm
+  - https://www.waveshare.com/product/imx258-13mp-ois-usb-camera-a.htm "IMX258 13MP
+    OIS USB Camera (A), Optical Image Stabilization, Plug-and-Play, Driver Free"
+  repositories: []
+name: IMX258 13MP OIS USB Camera (A)
+ref: waveshare/imx258-13mp-ois-usb-camera-a
+release_date: null
+sku: imx258-13mp-ois-usb-camera-a
+spec: null
+status: ''
+vendor: waveshare

@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Seeed Studio CAN Bus Breakout Board is an expansion board compatible
+  with all XIAO development boards. The integration of the MCP2515 controller and
+  SN65HVD230 transceiver chips on the expansion board ensures seamless and efficient
+  communication over the CAN Bus.
+extra:
+  Controller: MCP2515
+  Price: $9.95
+  Type: Breakout Board
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-seeed-can-bus-breakout-board-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Seeed-Studio-CAN-Bus-Breakout-Board-for-XIAO-and-QT-Py-p-5702.html
+  repositories: []
+name: '105100001'
+ref: seeedstudio/105100001
+release_date: null
+sku: '105100001'
+spec: null
+status: ''
+vendor: seeedstudio

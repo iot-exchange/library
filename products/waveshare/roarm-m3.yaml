@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 5 + 1 DOF High-Torque Serial Bus Servo Robotic Arm Kit, Based On ESP32,
+  2-DOF Wrist Joint, Wireless Control, Compatible With LeRobot
+extra:
+  Price: $239.99 - $339.99
+  Price Range: $239.99 - $339.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/o/roarm-m3-s-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/roarm-m3.htm
+  repositories: []
+name: RoArm-M3
+ref: waveshare/roarm-m3
+release_date: null
+sku: roarm-m3
+spec: null
+status: ''
+vendor: waveshare

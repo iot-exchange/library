@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: 5G  5G LAN  5G RedCap  GNSS  SA  Slicing  URLLC  VoLTE
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.quectel.com/content/uploads/2024/03/RG255CGL-mini-PCIe-3.png
+  models: []
+  products:
+  - https://www.quectel.com/product/5g-redcap-rg255c-mini-pcie-series/
+  repositories: []
+name: 5G RedCap RG255C Mini PCIe series
+ref: quectel/5g-redcap-rg255c-mini-pcie-series
+release_date: null
+sku: 5g-redcap-rg255c-mini-pcie-series
+spec: null
+status: ''
+vendor: quectel

@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Wio-WM1110 Wireless Module - Semtech LR1110 and Nordic nRF52840
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-113991135--lte-cat-4-ec25-eux-mini-pcie-45font_1.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Wio-WM1110-Module-LR1110-and-nRF52840-p-5676.html
+  repositories: []
+name: '114992865'
+ref: seeedstudio/114992865
+release_date: null
+sku: '114992865'
+spec: null
+status: ''
+vendor: seeedstudio

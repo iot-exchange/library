@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Directly Supports GroPoint Profile Global LoRaWAN Bands. LoRaWAN v1.0.3
+  Class A Protocol IP66 Waterproof Enclosure 8500mAh Battery for long term use
+extra:
+  Battery: 8500mAh
+  Waterproof: IP66
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/ae265ec8d02add74bcb0f72e47ec001b_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/agriculture-weather-station/item/227-gropoint-air.html
+  repositories: []
+name: GroPoint Air
+ref: dragino/gropoint-air
+release_date: null
+sku: gropoint-air
+spec: null
+status: ''
+vendor: dragino

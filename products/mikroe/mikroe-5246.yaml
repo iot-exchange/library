@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: The long-life lithium button cell can be used in a wide range of electronic
+  devices. It is specifically suitable for appliances that require a guaranteed power
+  supply, such as remote controls and watches.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lithium-battery-3v-cr1225/lithium-battery-3v-cr1225-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/lithium-battery-3v-cr1225
+  repositories: []
+name: MIKROE-5246
+ref: mikroe/mikroe-5246
+release_date: null
+sku: mikroe-5246
+spec: null
+status: ''
+vendor: mikroe

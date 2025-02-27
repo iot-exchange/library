@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  price1: 0.50 EUR
+  price2: 0.45 EUR
+  price3: 0.40 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Misc/RUBBER-FEETS-B/images/thumbs/200x150/RUBBER-FEETS-B.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Misc/RUBBER-FEETS-B/
+  repositories: []
+name: RUBBER-FEETS-B
+ref: olimex/rubber-feets-b
+release_date: null
+sku: rubber-feets-b
+spec: null
+status: ''
+vendor: olimex

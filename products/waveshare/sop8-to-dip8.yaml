@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: SOP8 TO DIP8, Programmer Adapter
+extra:
+  Price: $18.99
+  SKU: '3047'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/o/sop8-to-dip8_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/sop8-to-dip8.htm
+  repositories: []
+name: SOP8 TO DIP8
+ref: waveshare/sop8-to-dip8
+release_date: null
+sku: sop8-to-dip8
+spec: null
+status: ''
+vendor: waveshare

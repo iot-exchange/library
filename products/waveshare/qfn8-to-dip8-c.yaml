@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: QFN8 TO DIP8 (C), Programmer Adapter
+extra:
+  Price: $77.99 - $80.99
+  SKU: '6879'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/q/f/qfn8-to-dip8-c-1_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/qfn8-to-dip8-c.htm
+  repositories: []
+name: QFN8 TO DIP8 (C)
+ref: waveshare/qfn8-to-dip8-c
+release_date: null
+sku: qfn8-to-dip8-c
+spec: null
+status: ''
+vendor: waveshare

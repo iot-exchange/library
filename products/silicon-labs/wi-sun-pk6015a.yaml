@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: EFR32FG25 Wi-SUN 863-876 MHz +16 dBm Pro Kit designed to support the
+  development of Wireless IoT devices based on the Sub-GHz Wi-SUN FAN.
+extra:
+  Frequency Band: 863-876 MHz
+  Output Power (dBm): +16 dBm
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/proprietary/wi-sun-pk6015a-efr32fg25-wi-sun-pro-kit
+  repositories: []
+name: Wi-SUN-PK6015A
+ref: silicon-labs/wi-sun-pk6015a
+release_date: null
+sku: wi-sun-pk6015a
+spec: null
+status: ''
+vendor: silicon-labs

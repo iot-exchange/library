@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "UGV Rover ROS 2 Open-source 6 Wheels 4WD AI Robot For Jetson Orin Series\
+  \ Board, Dual controllers, 360\xB0 Flexible Omnidirectional Pan-Tilt, Optional For\
+  \ Jetson Orin Nano 4GB Kit"
+extra:
+  Multi Options: ''
+  Price: $539.99 - $909.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/g/ugv-rover-pt-jetson-orin-ros2-kit-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/ugv-rover-pt-jetson-orin-ros2-kit.htm
+  repositories: []
+name: UGV Rover PT Jetson Orin ROS2 Kit
+ref: waveshare/ugv-rover-pt-jetson-orin-ros2-kit
+release_date: null
+sku: ugv-rover-pt-jetson-orin-ros2-kit
+spec: null
+status: ''
+vendor: waveshare

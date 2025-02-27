@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: The Wio-E5-LE mini Dev Board integrates and provides access to the full
+  GPIO capabilities of the Wio-E5-LE Wireless Module (STM32WLE5JC). With support for
+  long range protocols and global frequencies, the Wio-E5-LE mini can achieve a transmission
+  range up to 10km in open areas.
+extra:
+  features: supports LoRaWAN on EU868 & US915
+  price: $21.90
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-113991156-wio-e5-le-mini-dev-board_stm32wle5jc_-45font.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/Wio-E5-LE-mini-Dev-Board-STM32WLE5JC-p-5764.html
+  repositories: []
+name: '113991156'
+ref: seeedstudio/113991156
+release_date: null
+sku: '113991156'
+spec: null
+status: ''
+vendor: seeedstudio

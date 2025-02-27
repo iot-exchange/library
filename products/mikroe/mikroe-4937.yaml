@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: ADC 16 Click is a compact add-on board that contains a high-performance
+  data converter. This board features the ADS7142-Q1, a low-power two-channel 12-bit
+  analog-to-digital converter from Texas Instruments. This I2C configurable 140kSPS
+  successive approximation register (SAR) analog-to-digital converter (ADC) can autonomously
+  monitor signals while...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/adc-16-click/adc-16-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/adc-16-click
+  repositories: []
+name: MIKROE-4937
+ref: mikroe/mikroe-4937
+release_date: null
+sku: mikroe-4937
+spec: null
+status: ''
+vendor: mikroe

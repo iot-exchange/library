@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTECat1-MG661-EU.html
+  repositories: []
+name: MG661-EU
+ref: fibocom/mg661-eu
+release_date: null
+sku: mg661-eu
+spec: null
+status: ''
+vendor: fibocom

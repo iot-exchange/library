@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Thermo 9 Click is a Click board\u2122 equipped with the TSYS01 (G-NICO-018),\
+  \ a digital temperature sensor from TE Connectivity. Given its main features, the\
+  \ Thermo 9 Click, can be used for industrial control, replacement of thermistors\
+  \ and NTCs, heating/cooling systems, and HVAC. This Click board\u2122 is supported\
+  \ by a mikroSDK compliant library, which includes..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thermo-9-click/thermo-9-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/thermo-9-click
+  repositories: []
+name: MIKROE-3983
+ref: mikroe/mikroe-3983
+release_date: null
+sku: mikroe-3983
+spec: null
+status: ''
+vendor: mikroe

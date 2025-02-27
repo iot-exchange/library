@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: DAC 7 click carries the AD5624R, a low-power four-channel, 12-bit buffered
+  Digital-to-Analog Converter. AD5624R converts digital value to the corresponding
+  voltage level using external voltage reference. This will help you convert digital
+  information from the main board to four analog outputs on the DAC 7 click. For that
+  purpose, DAC 7 click uses MCP1541,...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dac-7-click/dac-7-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/dac-7-click "DAC 7 Click"
+  repositories: []
+name: MIKROE-3886
+ref: mikroe/mikroe-3886
+release_date: null
+sku: mikroe-3886
+spec: null
+status: ''
+vendor: mikroe

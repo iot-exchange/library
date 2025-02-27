@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi OLED/LCD HAT, Onboard 2inch IPS LCD Main Screen and Dual
+  0.96inch Blue OLED Secondary Screens
+extra:
+  Price: $15.97  -  $16.99
+  SKU: '25587'
+  price: $15.97  -  $16.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/l/oled-lcd-hat-a-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/oled-lcd-hat-a.htm
+  repositories: []
+name: OLED/LCD HAT (A)
+ref: waveshare/oled-lcd-hat-a
+release_date: null
+sku: oled-lcd-hat-a
+spec: null
+status: ''
+vendor: waveshare

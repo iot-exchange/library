@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Ensuring Reliable Gas Supply and Increasing Infrastructure Safety
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.semtech.com/uploads/technology/semtech-vestitel-use-case-thumb.jpg
+  models: []
+  products:
+  - https://www.semtech.com/uploads/technology/LoRa/app-briefs/Semtech-UseCase-Vestitel-smart_energy.pdf
+  repositories: []
+name: Gas Supply Safety
+ref: semtech/gas-supply-safety
+release_date: null
+sku: gas-supply-safety
+spec: null
+status: ''
+vendor: semtech

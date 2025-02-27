@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Luckfox Pico WebBee RV1103 Linux Micro Development Board, Integrates
+  Arm Cortex-A7/RISC-V MCU/PHY, Ethernet Port, With Protective Case
+extra:
+  Price: $13.31 - $13.99
+  SKU: '29417'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/u/luckfox-webbee-2.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/u/luckfox-webbee-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/luckfox-webbee.htm
+  repositories: []
+name: Luckfox-WebBee
+ref: waveshare/luckfox-webbee
+release_date: null
+sku: luckfox-webbee
+spec: null
+status: ''
+vendor: waveshare

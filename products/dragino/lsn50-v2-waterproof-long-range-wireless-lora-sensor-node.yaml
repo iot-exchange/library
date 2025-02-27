@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: IP66 Waterproof, Battery Powered LoRaWAN Sensor Node, Wireless IoT 433/470/868/915/920
+  module, Ultra Low Power Consumption
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/c10c64c27e0606d1654b81b9bb482558_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lora-lorawan-end-node/item/155-lsn50-v2.html
+  repositories: []
+name: LSN50-V2 -- Waterproof Long Range Wireless LoRa Sensor Node
+ref: dragino/lsn50-v2-waterproof-long-range-wireless-lora-sensor-node
+release_date: null
+sku: lsn50-v2-waterproof-long-range-wireless-lora-sensor-node
+spec: null
+status: ''
+vendor: dragino

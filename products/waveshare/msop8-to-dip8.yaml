@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: MSOP8 TO DIP8, Programmer Adapter
+extra:
+  Price: $27.99 - $30.99
+  SKU: '10128'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/s/msop8-to-dip8_l_1_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/msop8-to-dip8.htm
+  repositories: []
+name: MSOP8 TO DIP8
+ref: waveshare/msop8-to-dip8
+release_date: null
+sku: msop8-to-dip8
+spec: null
+status: ''
+vendor: waveshare

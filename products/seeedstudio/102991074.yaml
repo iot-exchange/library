@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "Pixy2 CMUCam5 is a complete vision system with a powerful image sensor\
+  \ and microprocessor. The Pixy2 CMUcam5 is smaller, faster, and more capable than\
+  \ the original Pixy. With the help of the new algorithms, it can detect and track\
+  \ lines for use with line-following robots and even intersections and \u201Croad\
+  \ signs\u201D as well. With its strong sensitivity, your robot will be more flexible."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.seeedstudio.com/Pixy2-CMUcam5-Smart-Vision-Sensor-p-3091.html
+  repositories: []
+name: '102991074'
+ref: seeedstudio/102991074
+release_date: null
+sku: '102991074'
+spec: null
+status: ''
+vendor: seeedstudio

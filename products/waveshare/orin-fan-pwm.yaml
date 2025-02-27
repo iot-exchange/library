@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Official Cooling Fan for Jetson Orin, Speed-Adjustable
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/r/orin-fan-pwm-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/orin-fan-pwm.htm
+  repositories: []
+name: Orin-FAN-PWM
+ref: waveshare/orin-fan-pwm
+release_date: null
+sku: orin-fan-pwm
+spec: null
+status: ''
+vendor: waveshare

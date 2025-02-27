@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: 5G RedCap LGA Package Module
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://en.meigsmart.com/userfiles/images/2024/03/06/2024030614116760.png
+  models: []
+  products:
+  - https://en.meigsmart.com/productdetail/5gredcapmodule.html
+  repositories: []
+name: SRM813Q
+ref: meig-smart/srm813q
+release_date: null
+sku: srm813q
+spec: null
+status: ''
+vendor: meig-smart

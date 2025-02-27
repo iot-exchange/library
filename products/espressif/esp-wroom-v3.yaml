@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: For flashing / testing ESP-WROOM-02U / ESP-WROOM-02UC modules (must be
+  used with ESP-BAT8 for testing)
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.espressif.com/sites/default/files/styles/medium/public/ESP32-WROOM-V1-V3%20%26%20ESP32-WROVER-V1-V2%20%26%20ESP-WROOM-V1-V1_L_17.png?itok=Zf1AF6Dg
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/production_testing_guide_en.pdf
+  repositories: []
+name: ESP-WROOM-V3
+ref: espressif/esp-wroom-v3
+release_date: null
+sku: esp-wroom-v3
+spec: null
+status: ''
+vendor: espressif

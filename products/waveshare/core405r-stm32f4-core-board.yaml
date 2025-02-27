@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: $17.95  -  $19.99
+extra:
+  SKU: '8145'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/core405r_l.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/core405r.htm
+  repositories: []
+name: Core405R, STM32F4 Core Board
+ref: waveshare/core405r-stm32f4-core-board
+release_date: null
+sku: core405r-stm32f4-core-board
+spec: null
+status: ''
+vendor: waveshare

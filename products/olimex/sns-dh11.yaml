@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/SNS-DH11/images/thumbs/200x150/SNS-DH11-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Components/Sensors/SNS-DH11/
+  repositories: []
+name: SNS-DH11
+ref: olimex/sns-dh11
+release_date: null
+sku: sns-dh11
+spec: null
+status: ''
+vendor: olimex

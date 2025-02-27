@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Tools/OSCILLOSCOPES/ATN-GA4062-TG/images/thumbs/200x150/ATN-GA4062-TG.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Tools/OSCILLOSCOPES/ATN-GA4062-TG/
+  repositories: []
+name: ATN-GA4062-TG
+ref: olimex/atn-ga4062-tg
+release_date: null
+sku: atn-ga4062-tg
+spec: null
+status: ''
+vendor: olimex

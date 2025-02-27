@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Color 19 Click is a compact add-on board for precise color and light
+  intensity measurement. This board features the OPT4060, a high-speed, high-sensitivity
+  RGBW color sensor from Texas Instruments. The OPT4060 features four channels with
+  optimized spectral responses, including red, green, blue, and wide-band (white),
+  ensuring accurate light intensity...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/color-19-click/color-19-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/lr-15-click/lr-15-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/color-19-click
+  - https://www.mikroe.com/lr-15-click
+  repositories: []
+name: MIKROE-6415
+ref: mikroe/mikroe-6415
+release_date: null
+sku: mikroe-6415
+spec: null
+status: ''
+vendor: mikroe

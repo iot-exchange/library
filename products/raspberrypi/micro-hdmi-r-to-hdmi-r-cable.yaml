@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: The official Raspberry Pi micro HDMI to standard HDMI (A/M) cable
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/15891f4568cf6f0d2c7aed9d55e5cf85/3f4ea/Z03hTZbqstJ979YG_500featured.jpgh
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/micro-hdmi-to-standard-hdmi-a-cable/
+  repositories: []
+name: "Micro HDMI\xAE to HDMI\xAE Cable"
+ref: raspberrypi/micro-hdmi-r-to-hdmi-r-cable
+release_date: null
+sku: micro-hdmi-r-to-hdmi-r-cable
+spec: null
+status: ''
+vendor: raspberrypi

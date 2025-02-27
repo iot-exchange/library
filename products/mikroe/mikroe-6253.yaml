@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Stepper 23 Click is a compact add-on board designed to drive small stepping
+  motors in consumer electronics and industrial equipment applications. This board
+  features the TB67S569FTG, a BiCD constant-current 2-phase bipolar stepping motor
+  driver IC from Toshiba Semiconductor. Key features include a PWM chopper-type 2-phase
+  bipolar drive system, high...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/stepper-23-click/stepper-23-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/stepper-23-click
+  repositories: []
+name: MIKROE-6253
+ref: mikroe/mikroe-6253
+release_date: null
+sku: mikroe-6253
+spec: null
+status: ''
+vendor: mikroe

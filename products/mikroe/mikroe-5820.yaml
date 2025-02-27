@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "Water Detect 2 Click is a compact add-on board that can detect the presence/flow\
+  \ of a liquid in a clear tube. This board features the OPB350L250, a tube liquid\
+  \ sensor from TT Electronics. Water Detect 2 Click has multiple output states and\
+  \ can recognize fluid present, no fluid present, and no tube present. This sensor\
+  \ excepts 1/4\u201D tubing (6.3mm) as an..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/water-detect-2-click/water-detect-2-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/water-detect-2-click
+  repositories: []
+name: MIKROE-5820
+ref: mikroe/mikroe-5820
+release_date: null
+sku: mikroe-5820
+spec: null
+status: ''
+vendor: mikroe

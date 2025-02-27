@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: A Light, Compact and Tiny SBC
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://radxa.com/zero/3e/thumb_zero3e.webp
+  models: []
+  products:
+  - https://radxa.com/products/zeros/zero3e
+  repositories: []
+name: ZERO 3E
+ref: radxa/zero-3e
+release_date: null
+sku: zero-3e
+spec: null
+status: ''
+vendor: radxa

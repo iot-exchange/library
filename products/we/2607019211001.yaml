@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: EV-Kit Titania incl. ext. antenna
+extra:
+  Expected lifetime: '>10 years'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o139399v214%20Single_Titania_2607011111000.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/TITANIA#2607019211001
+  repositories: []
+name: '2607019211001'
+ref: we/2607019211001
+release_date: null
+sku: '2607019211001'
+spec: null
+status: Active i
+vendor: we

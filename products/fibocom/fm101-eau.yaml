@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: LTE Cat 6 Modules
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.fibocom.com/en/Products/LTECat-FM101-EAU.html
+  repositories: []
+name: FM101-EAU
+ref: fibocom/fm101-eau
+release_date: null
+sku: fm101-eau
+spec: null
+status: ''
+vendor: fibocom

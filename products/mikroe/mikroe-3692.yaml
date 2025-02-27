@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "M-BUS RF 4 Click is a mikroBUS\u2122 add-on board with a MIPOT 32001324\
+  \ RF wireless transceiver. This module operates in the 868 MHz SRD Band. Thanks\
+  \ to its small LCC form factor (15 x 25 mm only) and its low power consumption this\
+  \ module allows the implementation of highly integrated low power (battery operated)\
+  \ solutions for water, gas, heat or electricity..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/m-bus-rf-4-click/m-bus-rf-4-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/m-bus-rf-4-click
+  repositories: []
+name: MIKROE-3692
+ref: mikroe/mikroe-3692
+release_date: null
+sku: mikroe-3692
+spec: null
+status: ''
+vendor: mikroe

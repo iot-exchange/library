@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: WaterProof RS485/UART to LoRaWAN Converter
+extra:
+  Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
+  Battery: 8500mAh Li/SOCl2 Battery (RS485-LB), Solar panel + 3000mAh Li-ion battery
+    (RS485-LS)
+  Features: Support multiply RS485 devices by flexible rules, Support Modbus protocol,
+    Support Interrupt uplink, Supports connecting a UART sensors with 3.3V or 5V,
+    Support Bluetooth v5.1 and LoRaWAN remote configure, Support wireless OTA update
+    firmware
+  Power Consumption: Ultra Low Power Consumption
+  Type: LoRaWAN 1.0.3 Class A
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/c9e8d9069e929f4898939a62f1adcffd_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/lora-lorawan-end-node/item/287-rs485-lb-ls.html
+  repositories: []
+name: RS485-LB/LS
+ref: dragino/rs485-lb-ls
+release_date: null
+sku: rs485-lb-ls
+spec: null
+status: ''
+vendor: dragino

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "1.32inch OLED Display Module, 128\xD796 Resolution, 16 Gray Scale, SPI\
+  \ / I2C Communication"
+extra:
+  Price: $8.31 - $8.99
+  SKU: '24777'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.32inch-oled-module-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/1.32inch-oled-module.htm
+  repositories: []
+name: 1.32inch OLED Module
+ref: waveshare/1-32inch-oled-module
+release_date: null
+sku: 1-32inch-oled-module
+spec: null
+status: ''
+vendor: waveshare

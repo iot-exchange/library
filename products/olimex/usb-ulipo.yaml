@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Power/USB-uLiPo/images/thumbs/200x150/USB-uLIPO-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Power/USB-uLiPo/open-source-hardware
+  repositories: []
+name: USB-uLiPo
+ref: olimex/usb-ulipo
+release_date: null
+sku: usb-ulipo
+spec: null
+status: ''
+vendor: olimex

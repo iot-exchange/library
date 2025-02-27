@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: "SPI Extend Click is a compact add-on board for applications that require\
+  \ extending the SPI communication bus over a long distance. This board features\
+  \ the LTC4332, an SPI slave extender device, from Analog Devices. Using a \xB160V\
+  \ fault protected differential transceiver, the LTC4332 can transmit SPI data, including\
+  \ an interrupt signal, up to 2MHz over two..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/spi-extend-click/spi-extend-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/spi-extend-click
+  repositories: []
+name: MIKROE-4184
+ref: mikroe/mikroe-4184
+release_date: null
+sku: mikroe-4184
+spec: null
+status: ''
+vendor: mikroe

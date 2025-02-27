@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: The Model A+ is the low-cost variant of the Raspberry Pi
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://assets.raspberrypi.com/static/39b4751307e481cfc7a68d4d71418462/3f4ea/23ca7cd2-48b1-433b-841e-cd0241a5480f_1A%2BAngle%2B1%2BREFRESH.jpg
+  models: []
+  products:
+  - https://www.raspberrypi.com/products/raspberry-pi-1-model-a-plus/
+  repositories: []
+name: Raspberry Pi 1 Model A+
+ref: raspberrypi/raspberry-pi-1-model-a
+release_date: null
+sku: raspberry-pi-1-model-a
+spec: null
+status: ''
+vendor: raspberrypi

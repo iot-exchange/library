@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: D-Robotics RDK X3 Development Board, Quad-core ARM Cortex-A53 Processer,
+  5Tops Edge Inference Capabilities, Options For 2GB/4GB RAM
+extra:
+  Price Range: $44.99 - $56.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/d/rdk-x3-1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rdk-x3.htm
+  repositories: []
+name: RDK X3 Development Board
+ref: waveshare/rdk-x3-development-board
+release_date: null
+sku: rdk-x3-development-board
+spec: null
+status: ''
+vendor: waveshare

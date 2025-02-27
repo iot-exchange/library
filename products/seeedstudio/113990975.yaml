@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: The EMC3080 Wi-Fi&BLE modules are mainly used for IoT data communication.
+  This modules are used in a wide range of IoT applications through a variety of different
+  form factors, interface types, antenna interfaces and temperature range.
+extra:
+  antenna interfaces: variety of different
+  application: IoT data communication
+  form factors: variety of different
+  interface types: variety of different
+  temperature range: variety of different
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/e/m/emc3080-p_preview-07.png
+  models: []
+  products:
+  - https://www.seeedstudio.com/EMC3080-WI-FI-BLE-Module-p-5016.html
+  repositories: []
+name: '113990975'
+ref: seeedstudio/113990975
+release_date: null
+sku: '113990975'
+spec: null
+status: ''
+vendor: seeedstudio

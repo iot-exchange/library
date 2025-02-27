@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/10/TC_TX62_dynamic-278x200.png
+  models: []
+  products:
+  - https://www.telit.com/devices/tx62/
+  repositories: []
+name: TX62
+ref: telit/tx62
+release_date: null
+sku: tx62
+spec: null
+status: ''
+vendor: telit

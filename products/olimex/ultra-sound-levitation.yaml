@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 6.60 EUR
+  discountedPrice2: 6.26 EUR
+  price: 6.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Soldering-Kits/Intermediate/Ultra-Sound-Levitation/images/thumbs/200x150/USL.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Soldering-Kits/Intermediate/Ultra-Sound-Levitation/open-source-hardware
+  repositories: []
+name: Ultra-Sound-Levitation
+ref: olimex/ultra-sound-levitation
+release_date: null
+sku: ultra-sound-levitation
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: 'For -NB Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85For
+  -CB Bands: B1/B2/B3/B4/B5/B8/B12/B13//B18/B19/B20/B25/B28/B66/B71/B85CAT-M1 / LTE-M
+  Bands: B1/B2/B3/B4/B5/B8/B12/B13/B18/B19/B20/B25/B26/B27/B28/B66/B85Measure water
+  quality and provide information for water quality conditionsSupport EC / PH / DO
+  / ORP/ TS Type Water Quality ProbeSupport 1 ~ 3 probesGNSS for Location ReportUplink
+  via MQTT, MQTTs, TCP, UDP or CoAPSupport Bluetooth v5.1 remote configure and update
+  firmware8500mAh Battery for long term use'
+extra:
+  Catalog: Water & Air Quality Sensor
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://dragino.com/media/k2/items/cache/59b514757c03f4e14c006ca63de02928_L.jpg
+  models: []
+  products:
+  - https://dragino.com/products/water-air-quality-sensor/item/347-wqs-cb.html
+  repositories: []
+name: WQS-CB
+ref: dragino/wqs-cb
+release_date: null
+sku: wqs-cb
+spec: null
+status: ''
+vendor: dragino

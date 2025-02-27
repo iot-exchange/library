@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: The Silicon Labs Pro Kit for Amazon Sidewalk is designed to support the
+  development of Wireless IoT based devices on Bluetooth and Sub-GHz wireless protocols
+  for Amazon Sidewalk. The Pro Kit includes a KG100S radio board that provides a complete
+  reference design to support Bluetooth, FSK, and CSS protocols used in Amazon Sidewalk.
+extra:
+  features: Onboard J-Link debugger, packet trace interface, virtual COM port
+  includes: KG100S radio board, BG24 radio board, FSK/CSS adapter board
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/proprietary/pro-kit-for-amazon-sidewalk
+  repositories: []
+name: Pro Kit for Amazon Sidewalk
+ref: silicon-labs/pro-kit-for-amazon-sidewalk
+release_date: null
+sku: pro-kit-for-amazon-sidewalk
+spec: null
+status: ''
+vendor: silicon-labs

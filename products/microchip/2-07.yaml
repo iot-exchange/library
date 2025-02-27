@@ -1,0 +1,49 @@
+alternatives: []
+certifications: []
+description: Bluetooth LE, Zigbee | SoC | 64 MHz, ARM Cortex M4F
+extra:
+  ADC: '12'
+  Bluetooth: '5.2'
+  Bluetooth Version: 1.3.0
+  Current Consumption: '0.09'
+  DAC: '1'
+  Flash: '96'
+  GPIO: '8'
+  I2C: '5.2'
+  Max Range (dBm): '-108'
+  Max Supply Voltage (V): '3.6'
+  Microcontroller: 64 MHz, ARM Cortex M4F
+  Operating Temperature Max: '125'
+  Operating Temperature Min: '-40'
+  Package: '48'
+  Package Type: 48/VQFN
+  RAM: '512'
+  SPI: '2'
+  Secure Boot: 'Yes'
+  Security Features: Secure Boot, AES-256, SHA-384, PKA, TRNG
+  Sensitivity: '-108'
+  Supply Voltage (V): '1.9'
+  Supply Voltage Max: '3.6'
+  Supply Voltage Min: '1.9'
+  TX Power: '11'
+  Timers: '7'
+  Tx Power (dBm): '11'
+  Type: SoC
+  UART: '2'
+  Version: '3.0'
+  Zigbee Version: '3.0'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - ''
+  repositories: []
+name: '2.07'
+ref: microchip/2-07
+release_date: null
+sku: 2-07
+spec: null
+status: ''
+vendor: microchip

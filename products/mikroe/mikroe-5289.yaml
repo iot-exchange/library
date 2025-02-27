@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: Flash 10 Click is a compact add-on board representing a highly reliable
+  memory solution. This board features the AT25FF321A, an SPI configurable 32Mbit
+  (2Mx16) serial Flash memory solution from Dialog Semiconductor. The AT25FF321A is
+  an ideal solution for systems in which program code is shadowed from Flash memory
+  into embedded or external RAM.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/flash-10-click/flash-10-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/flash-10-click
+  repositories: []
+name: MIKROE-5289
+ref: mikroe/mikroe-5289
+release_date: null
+sku: mikroe-5289
+spec: null
+status: ''
+vendor: mikroe

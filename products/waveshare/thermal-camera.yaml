@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "Long-wave IR Thermal Imaging Camera Module, Raspberry Pi IR Camera,\
+  \ 80\xD762 Pixels, Options for FOV and Connector"
+extra:
+  Multi Options: ''
+  Price: $111.99 -  $119.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/h/thermal-camera-hat-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/thermal-camera.htm
+  repositories: []
+name: thermal_camera
+ref: waveshare/thermal-camera
+release_date: null
+sku: thermal-camera
+spec: null
+status: ''
+vendor: waveshare

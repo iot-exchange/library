@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Satellite-based IoT Connectivity
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.semtech.com/uploads/technology/LoRa/app-images/lora-satellite-infographic-web.jpg
+  models: []
+  products:
+  - https://info.semtech.com/satellite-based-iot-connectivity-inforgraphic
+  repositories: []
+name: Satellite-based IoT Connectivity
+ref: semtech/satellite-based-iot-connectivity
+release_date: null
+sku: satellite-based-iot-connectivity
+spec: null
+status: ''
+vendor: semtech

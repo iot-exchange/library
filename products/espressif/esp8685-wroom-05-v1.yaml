@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: For flashing / testing ESPXXX-WROOM-05 modules in ESP8685, ESP8684, ESP32-C6,
+  and ESP32-H2 series (must be used with ESP-BAT32 for testing)
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.espressif.com/sites/default/files/documentation/production_testing_guide_en.pdf
+  repositories: []
+name: ESP8685-WROOM-05-V1
+ref: espressif/esp8685-wroom-05-v1
+release_date: null
+sku: esp8685-wroom-05-v1
+spec: null
+status: ''
+vendor: espressif

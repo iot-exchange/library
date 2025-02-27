@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  bulkPrice: 4.76 EUR
+  discountedPrice: 5.36 EUR
+  price: 5.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Modules/Interface/MOD-RS232/images/thumbs/200x150/MOD-RS232-1.png
+  models: []
+  products:
+  - https://www.olimex.com/Products/Modules/Interface/MOD-RS232/open-source-hardware
+  repositories: []
+name: MOD-RS232
+ref: olimex/mod-rs232
+release_date: null
+sku: mod-rs232
+spec: null
+status: ''
+vendor: olimex

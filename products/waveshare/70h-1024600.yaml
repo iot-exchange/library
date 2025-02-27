@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "7inch IPS/QLED Integrated Display, 1024 \xD7 600, Thin and Light Design"
+extra:
+  Multi Options: ''
+  Price: $29.99 -  $55.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/0/70h-1024600-2.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/0/70h-1024600-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/70h-1024600.htm
+  repositories: []
+name: 70h_1024600
+ref: waveshare/70h-1024600
+release_date: null
+sku: 70h-1024600
+spec: null
+status: ''
+vendor: waveshare

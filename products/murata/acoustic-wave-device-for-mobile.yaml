@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/search/productsearch?cate=cgsubAcousticWaveDeviceForMobile
+  repositories: []
+name: Acoustic wave device for mobile
+ref: murata/acoustic-wave-device-for-mobile
+release_date: null
+sku: acoustic-wave-device-for-mobile
+spec: null
+status: ''
+vendor: murata

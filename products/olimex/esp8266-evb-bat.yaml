@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/IoT/ESP8266/ESP8266-EVB-BAT/images/thumbs/200x150/ESP8266-EVB-BAT-1.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/IoT/ESP8266/ESP8266-EVB-BAT/open-source-hardware
+  repositories: []
+name: ESP8266-EVB-BAT
+ref: olimex/esp8266-evb-bat
+release_date: null
+sku: esp8266-evb-bat
+spec: null
+status: ''
+vendor: olimex

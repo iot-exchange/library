@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "AI Accelerator Module (featuring the Coral Edge TPU\u2122 from Google)\
+  \ Optimized for image data classification and object detection. Operates at maximum\
+  \ 4 TOPS at 2 W."
+extra:
+  Performance: 4 TOPS
+  Power Consumption: 2 W
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/products/connectivitymodule/edge-ai/overview/lineup/type1wv
+  repositories: []
+name: Type1WV
+ref: murata/type1wv
+release_date: null
+sku: type1wv
+spec: null
+status: ''
+vendor: murata

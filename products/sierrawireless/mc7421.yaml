@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Bands: 'LTE: B1, B3, B7, B8, B20, B28, B32, B38, B40, B41, B42, B43'
+  Fallback: 3G
+  Region (Carrier): 'EMEA and APAC (Planned: Telstra)'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.sierrawireless.com/iot-modules/4g-modules/mc7421/
+  repositories: []
+name: MC7421
+ref: sierrawireless/mc7421
+release_date: null
+sku: mc7421
+spec: null
+status: ''
+vendor: sierrawireless

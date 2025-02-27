@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: "12.3inch Capacitive Touch Screen LCD, 1920\xD7720, HDMI, IPS, Toughened\
+  \ Glass Panel"
+extra:
+  Multi Options: ''
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/2/12.3inch-hdmi-lcd-2_3.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/2/12.3inch-hdmi-lcd-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/12.3inch-hdmi-lcd.htm
+  repositories: []
+name: 123_hdmi
+ref: waveshare/123-hdmi
+release_date: null
+sku: 123-hdmi
+spec: null
+status: ''
+vendor: waveshare

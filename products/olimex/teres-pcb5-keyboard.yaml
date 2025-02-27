@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-PCB5-KEYBOARD/images/thumbs/200x150/TERES-PCB5-KEYBOARD.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-PCB5-KEYBOARD/
+  repositories: []
+name: TERES-PCB5-KEYBOARD
+ref: olimex/teres-pcb5-keyboard
+release_date: null
+sku: teres-pcb5-keyboard
+spec: null
+status: ''
+vendor: olimex

@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Track Value is an innovative solution that enables logistics operators
+  to obtain a complete and accurate history of their shipments, enabling them to check
+  that everything is running smoothly. It transmits the data collected via satellite
+  communication, ensuring reliable connectivity wherever it is needed.
+extra:
+  Battery Life: 5 years
+  Connectivity: Satellite communication
+  Data Transfer: Low-power LoRaWAN wide area network
+  Sensors: Vibration and temperature sensors
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.kerlink.com/wp-content/themes/ci_kerlink/images/banner.jpg
+  models: []
+  products: []
+  repositories: []
+name: Track Value
+ref: kerlink/track-value
+release_date: null
+sku: track-value
+spec: null
+status: ''
+vendor: kerlink

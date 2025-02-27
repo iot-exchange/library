@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Luckfox Lyra Plus RK3506G2 Linux Micro Development Board, Integrates
+  Tripe-core ARM Cortex-A7 and ARM Cortex-M0 Processors, With Ethernet Port
+extra:
+  Price Range: $12.99 - $70.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/u/luckfox-lyra-plus-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/luckfox-lyra-plus.htm
+  repositories: []
+name: Luckfox Lyra Plus
+ref: waveshare/luckfox-lyra-plus
+release_date: null
+sku: luckfox-lyra-plus
+spec: null
+status: ''
+vendor: waveshare

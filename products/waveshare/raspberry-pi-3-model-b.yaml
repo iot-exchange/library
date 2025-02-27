@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: Raspberry Pi 3 Model B+, the Improved Version
+extra:
+  Price: $41.65 - $41.99
+  SKU: '14481'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rpi3-b-plus-1_2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/raspberry-pi-3-model-b-plus.htm
+  repositories: []
+name: Raspberry Pi 3 Model B+
+ref: waveshare/raspberry-pi-3-model-b
+release_date: null
+sku: raspberry-pi-3-model-b
+spec: null
+status: ''
+vendor: waveshare

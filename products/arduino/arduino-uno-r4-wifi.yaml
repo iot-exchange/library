@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.arduino.cc/wiki/static/f66d79076a4053245ccf317921fbe2cc/4b190/uno-r4-wifi.jpg
+  models: []
+  products:
+  - https://store.arduino.cc/products/uno-r4-wifi
+  repositories: []
+name: Arduino UNO R4 WiFi
+ref: arduino/arduino-uno-r4-wifi
+release_date: null
+sku: arduino-uno-r4-wifi
+spec: null
+status: ''
+vendor: arduino

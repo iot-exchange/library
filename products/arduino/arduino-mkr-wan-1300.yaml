@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: "A board equipped with a LoRa\xAE radio module."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.arduino.cc/wiki/static/af075b03fa1927ef1dbbb3d55c66454e/4b190/mkr_wan_1300.jpg
+  models: []
+  products:
+  - https://store.arduino.cc/products/arduino-mkr-wan-1300-lora-connectivity
+  repositories: []
+name: Arduino MKR WAN 1300
+ref: arduino/arduino-mkr-wan-1300
+release_date: null
+sku: arduino-mkr-wan-1300
+spec: null
+status: ''
+vendor: arduino

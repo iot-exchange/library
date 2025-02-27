@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: 2.9inch Passive NFC-Powered e-Paper, No Battery
+extra:
+  Price: $26.63 - $27.99
+  SKU: '17746'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.9inch-nfc-powered-e-paper-2.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/2.9inch-nfc-powered-e-paper.htm
+  repositories: []
+name: 2.9inch NFC-Powered e-Paper
+ref: waveshare/2-9inch-nfc-powered-e-paper
+release_date: null
+sku: 2-9inch-nfc-powered-e-paper
+spec: null
+status: ''
+vendor: waveshare

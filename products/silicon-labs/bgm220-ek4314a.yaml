@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: BGM220 Bluetooth Module Explorer Kit
+extra:
+  MSRP: $9.99
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.silabs.com/development-tools/wireless/bluetooth/bgm220-explorer-kit
+  repositories: []
+name: BGM220-EK4314A
+ref: silicon-labs/bgm220-ek4314a
+release_date: null
+sku: bgm220-ek4314a
+spec: null
+status: ''
+vendor: silicon-labs

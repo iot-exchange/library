@@ -1,0 +1,41 @@
+alternatives: []
+certifications: []
+description: Bluetooth 4.1 or earlier module for consumer and industrial equipment.
+extra:
+  Bluetooth: 4.1 or earlier
+  Chipset: CYW20736
+  Dimension: 9.0 x 7.0 x 1.2 mm
+  ETSI Report: 'Yes'
+  FCC/ISED Certified: 'Yes'
+  Frequency: 2.4GHz
+  Grade: Consumer
+  Host Interface (Bluetooth): UART, SPI
+  IC Manufacturer: Infineon
+  Integrated Antenna: 'Yes'
+  Interface Voltage: 1.8V
+  MIC (Japan) Certified: 'Yes'
+  Mounting Type: SMT
+  Operating Temperature (degC): "-20\u2103 to 85\u2103"
+  Package: Metal Can
+  Packaging: Tape and Reel
+  Receive Mode Current: ''
+  RoHS Support: 'Yes'
+  Sleep Mode Current (Bluetooth): ''
+  Supply Voltage: 1.8V
+  Technology: Bluetooth
+  Transmit Mode Current (Bluetooth): 38mA
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.murata.com/en-eu/products/connectivitymodule/bluetooth#series-lineup
+  repositories: []
+name: Type 1GR
+ref: murata/type-1gr
+release_date: null
+sku: type-1gr
+spec: null
+status: ''
+vendor: murata

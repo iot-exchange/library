@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: SOP16 TO DIP16 (A), Programmer Adapter
+extra:
+  Price: $18.99
+  SKU: '3784'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/o/sop16-to-dip16_l_1_5.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/sop16-to-dip16.htm
+  repositories: []
+name: SOP16 TO DIP16 (A)
+ref: waveshare/sop16-to-dip16-a
+release_date: null
+sku: sop16-to-dip16-a
+spec: null
+status: ''
+vendor: waveshare

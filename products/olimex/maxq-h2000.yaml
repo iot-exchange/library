@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 16.16 EUR
+  discountedPrice2: 14.36 EUR
+  price: 17.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/MAXQ/Header/MAXQ-H2000/images/thumbs/200x150/MAXQ-H2000-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/MAXQ/Header/MAXQ-H2000/
+  repositories: []
+name: MAXQ-H2000
+ref: olimex/maxq-h2000
+release_date: null
+sku: maxq-h2000
+spec: null
+status: ''
+vendor: olimex

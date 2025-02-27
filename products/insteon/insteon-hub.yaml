@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: Home control for the rest of us
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://images.squarespace-cdn.com/content/v1/53fce470e4b0374adfdd30bc/1601569469054-C51ZY6JOXQA4TLO539Z9/insteon-hub.png
+  models: []
+  products:
+  - https://www.insteon.com/insteon-hub
+  repositories: []
+name: insteon-hub
+ref: insteon/insteon-hub
+release_date: null
+sku: insteon-hub
+spec: null
+status: ''
+vendor: insteon

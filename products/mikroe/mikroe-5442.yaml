@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: "RTK Base Click is a compact add-on board used to improve the positional\
+  \ accuracy of the compatible RTK Rover board. This board features Quectel\u2019\
+  s LG69TASMD, a dual-band, multi-constellation GNSS module featuring a high-performance\
+  \ and high-reliability positioning engine. This module provides an RTK base station\
+  \ function by calculating and transmitting..."
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rtk-base-click/rtk-base-click-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/rtk-base-click
+  - https://www.mikroe.com/cart?add=1&id_product=3483
+  repositories: []
+name: MIKROE-5442
+ref: mikroe/mikroe-5442
+release_date: null
+sku: mikroe-5442
+spec: null
+status: ''
+vendor: mikroe

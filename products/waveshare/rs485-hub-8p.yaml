@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Industrial-grade Isolated 8-ch RS485 Hub, Rail-mount Support, Wide Baud
+  rate Range
+extra:
+  Price: $39.31  -  $39.99
+  SKU: '24271'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs485-hub-8p-1_1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/rs485-hub-8p.htm
+  repositories: []
+name: RS485-HUB-8P
+ref: waveshare/rs485-hub-8p
+release_date: null
+sku: rs485-hub-8p
+spec: null
+status: ''
+vendor: waveshare

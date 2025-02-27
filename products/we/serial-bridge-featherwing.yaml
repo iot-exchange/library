@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: EXTENDED RS232/RS485 to UART bridge
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.we-online.com/components/media/o766213v214%20_NP_1236.jpg
+  models: []
+  products:
+  - https://www.we-online.com/en/components/products/SERIAL-BRIDGE_FEATHERWING
+  repositories: []
+name: Serial Bridge FeatherWing
+ref: we/serial-bridge-featherwing
+release_date: null
+sku: serial-bridge-featherwing
+spec: null
+status: ''
+vendor: we

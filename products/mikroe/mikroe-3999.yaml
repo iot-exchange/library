@@ -1,0 +1,24 @@
+alternatives: []
+certifications: []
+description: The UMCC - Ultraminiature Coax Connector is an ultra low profile coax
+  female to female interconnect solution that meets the ever growing demand for miniaturization
+  in next generation wireless applications. UMCC cable are available as double-ended
+  jumpers and inter-series assemblies, and PCB jack receptacles for board mount applications.
+  This adapter is...
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/umcc-female-to-female-cable-adapter/umcc-female-to-female-cable-adapter-home_default-1.jpg?v=100
+  models: []
+  products:
+  - https://www.mikroe.com/umcc-female-to-female-cable-adapter
+  repositories: []
+name: MIKROE-3999
+ref: mikroe/mikroe-3999
+release_date: null
+sku: mikroe-3999
+spec: null
+status: ''
+vendor: mikroe

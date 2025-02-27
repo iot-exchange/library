@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: 30-Ch Ethernet Relay Module, Modbus RTU/Modbus TCP Protocol, PoE Port
+  Communication, With Various Isolation And Protection Circuits
+extra:
+  Price: $68.29 -  $69.99
+  SKU: '27928'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/o/modbus-poe-eth-relay-30ch-1.jpg
+  models: []
+  products:
+  - https://www.waveshare.com/product/modbus-poe-eth-relay-30ch.htm.htm
+  repositories: []
+name: Modbus POE ETH Relay 30CH
+ref: waveshare/modbus-poe-eth-relay-30ch
+release_date: null
+sku: modbus-poe-eth-relay-30ch
+spec: null
+status: ''
+vendor: waveshare

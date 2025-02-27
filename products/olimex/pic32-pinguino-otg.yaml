@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  discountedPrice1: 21.80 EUR
+  discountedPrice2: 20.66 EUR
+  price: 22.95 EUR
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.olimex.com/Products/Duino/PIC32/PIC32-PINGUINO-OTG/images/thumbs/200x150/PIC32-PINGUINO-OTG-01.jpg
+  models: []
+  products:
+  - https://www.olimex.com/Products/Duino/PIC32/PIC32-PINGUINO-OTG/open-source-hardware
+  repositories: []
+name: PIC32-PINGUINO-OTG
+ref: olimex/pic32-pinguino-otg
+release_date: null
+sku: pic32-pinguino-otg
+spec: null
+status: ''
+vendor: olimex

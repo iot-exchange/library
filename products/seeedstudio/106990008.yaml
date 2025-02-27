@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: Charge/Recharge algorithms built into chip Charge LiPo Battery through
+  solar power or USB Plug-and-play No programming is required JST 2.0 connector
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductlipopro1s.jpg
+  models: []
+  products:
+  - https://www.seeedstudio.com/LiPo-Rider-Pro.html
+  repositories: []
+name: '106990008'
+ref: seeedstudio/106990008
+release_date: null
+sku: '106990008'
+spec: null
+status: ''
+vendor: seeedstudio

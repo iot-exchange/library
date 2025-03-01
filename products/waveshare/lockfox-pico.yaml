@@ -11,9 +11,9 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/u/luckfox-pico-1.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/luckfox-pico.htm
   - https://www.waveshare.com/product/luckfox-pico.htm "LuckFox Pico RV1103 Linux
     Micro Development Board, Integrates ARM Cortex-A7/RISC-V MCU/NPU/ISP Processors"
-  - https://www.waveshare.com/product/luckfox-pico.htm
   repositories: []
 name: lockfox_pico
 ref: waveshare/lockfox-pico

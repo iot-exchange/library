@@ -12,8 +12,7 @@ links:
   examples: []
   images: []
   models: []
-  products:
-  - ./url/c
+  products: []
   repositories: []
 name: VC7300
 ref: vertexcom/vc7300

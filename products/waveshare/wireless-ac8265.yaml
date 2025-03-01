@@ -12,9 +12,9 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/i/wireless-ac8265-1.jpg
   models: []
   products:
+  - https://www.waveshare.com/wireless-ac8265.htm
   - https://www.waveshare.com/wireless-ac8265.htm "AC8265 Wireless NIC, Dual-Band
     Wi-Fi 5, Bluetooth 4.2, High Speed And Low Latency"
-  - https://www.waveshare.com/wireless-ac8265.htm
   repositories: []
 name: Wireless-AC8265
 ref: waveshare/wireless-ac8265

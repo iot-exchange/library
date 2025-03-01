@@ -13,7 +13,6 @@ links:
   examples: []
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/i/m/image_6.jpeg
-  - ./img/ae
   models: []
   products:
   - https://www.seeedstudio.com/EdgeBox-RPi-200-CM4108032-p-5598.html

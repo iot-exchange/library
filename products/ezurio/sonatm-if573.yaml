@@ -16,8 +16,8 @@ links:
   - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/537x300/filters:fill(white)/filters:background_color(white)/2024-10/Sona%20NX611%20-%20Family2.png
   models: []
   products:
-  - https://www.ezurio.com/wireless-modules/wifi-modules-bluetooth/sona-if573-wi-fi-6e-bluetooth-5-4-module
   - https://www.ezurio.com/resources/newsroom/laird-connectivity-brings-wi-fi-6-6e-to-their-extensive-portfolio-of-wi-fi-modules-with-the-new-sona-if573-product-line
+  - https://www.ezurio.com/wireless-modules/wifi-modules-bluetooth/sona-if573-wi-fi-6e-bluetooth-5-4-module
   repositories: []
 name: "Sona\u2122 IF573"
 ref: ezurio/sonatm-if573

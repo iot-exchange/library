@@ -10,8 +10,8 @@ links:
   images: []
   models: []
   products:
-  - https://www.we-online.com/en/components/products/WE-MCA_WCO#74889302450
   - https://www.we-online.com/components/products/datasheet/74889302450.pdf
+  - https://www.we-online.com/en/components/products/WE-MCA_WCO#74889302450
   repositories: []
 name: '74889302450'
 ref: we/74889302450

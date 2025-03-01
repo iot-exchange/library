@@ -10,8 +10,7 @@ extra: {}
 links:
   datasheets: []
   examples: []
-  images:
-  - ./img/as
+  images: []
   models: []
   products:
   - https://www.seeedstudio.com/A205-Carrier-Board-for-Jetson-Nano-Xavier-NX-p-5133.html

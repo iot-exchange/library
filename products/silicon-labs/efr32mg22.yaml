@@ -18,8 +18,8 @@ links:
   images: []
   models: []
   products:
-  - https://www.silabs.com/wireless/zigbee/efr32mg22-series-2-socs
   - https://www.silabs.com/wireless/zigbee/efr32mg22-series-2-modules
+  - https://www.silabs.com/wireless/zigbee/efr32mg22-series-2-socs
   repositories: []
 name: EFR32MG22
 ref: silicon-labs/efr32mg22

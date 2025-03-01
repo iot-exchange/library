@@ -12,9 +12,9 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/_/5.79inch-e-paper-b-1.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/5.79inch-e-paper-b.htm
   - https://www.waveshare.com/product/5.79inch-e-paper-b.htm "5.79inch E-Paper (B)
     raw display, e-ink display, 792x272, Red/Black/White, SPI Communication"
-  - https://www.waveshare.com/product/5.79inch-e-paper-b.htm
   repositories: []
 name: 5.79inch e-Paper (B)
 ref: waveshare/5-79inch-e-paper-b

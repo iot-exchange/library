@@ -14,8 +14,8 @@ links:
   - https://cdn1-shop.mikroe.com/img/product/usb-c-sink-3-click/usb-c-sink-3-click-home_default-1.jpg?v=100
   models: []
   products:
-  - https://www.mikroe.com/usb-c-sink-3-click
   - https://www.mikroe.com/ultrasonic-5-click
+  - https://www.mikroe.com/usb-c-sink-3-click
   repositories: []
 name: MIKROE-5804
 ref: mikroe/mikroe-5804

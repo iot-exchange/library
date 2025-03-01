@@ -11,10 +11,10 @@ links:
   - https://www.we-online.com/components/media/o170892v214%20Single_Tarvos-III_2609011181001.jpg
   models: []
   products:
-  - https://www.we-online.com/en/components/products/TARVOS-III_MESH#2609019281001
   - https://www.we-online.com/components/products/manual/2609019281001_Mixed-EV 2601059200001
     Manual_rev2.7.pdf
   - https://www.we-online.com/en/components/products/TARVOS-III#2609019281001
+  - https://www.we-online.com/en/components/products/TARVOS-III_MESH#2609019281001
   repositories: []
 name: '2609019281001'
 ref: we/2609019281001

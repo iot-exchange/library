@@ -37,8 +37,7 @@ links:
   examples: []
   images: []
   models: []
-  products:
-  - ''
+  products: []
   repositories: []
 name: '2.07'
 ref: microchip/2-07

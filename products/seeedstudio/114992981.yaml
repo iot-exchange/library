@@ -17,8 +17,8 @@ links:
   - https://www.seeedstudio.com/img/aa
   models: []
   products:
-  - https://www.seeedstudio.com/SenseCAP-Multi-Platform-LoRaWAN-Indoor-Gateway-SX1302-EU868-p-5471.html
   - https://www.seeedstudio.com/SenseCAP-M2
+  - https://www.seeedstudio.com/SenseCAP-Multi-Platform-LoRaWAN-Indoor-Gateway-SX1302-EU868-p-5471.html
   repositories: []
 name: '114992981'
 ref: seeedstudio/114992981

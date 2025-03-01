@@ -11,8 +11,7 @@ links:
   examples: []
   images: []
   models: []
-  products:
-  - ''
+  products: []
   repositories: []
 name: MSEX24-i
 ref: vertexcom/msex24-i

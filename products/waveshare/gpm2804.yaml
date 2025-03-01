@@ -12,9 +12,9 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/p/gpm2804a-1.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/gpm2804.htm
   - https://www.waveshare.com/product/gpm2804.htm "GPM280 Portable Game Console Based
     on Raspberry Pi Compute Module 4 Lite (Optional), WiFi"
-  - https://www.waveshare.com/product/gpm2804.htm
   repositories: []
 name: GPM2804
 ref: waveshare/gpm2804

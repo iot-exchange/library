@@ -12,8 +12,7 @@ extra:
 links:
   datasheets: []
   examples: []
-  images:
-  - ./img/dr
+  images: []
   models: []
   products:
   - https://www.espressif.com/en/products/devkits/ESP32-DevKitM-1

@@ -9,20 +9,20 @@ links:
   datasheets: []
   examples: []
   images:
-  - https://cdn1-shop.mikroe.com/img/product/pic-icsp-adapter/pic-icsp-adapter-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/easypic-v8-for-pic24dspic33/easypic-v8-for-pic24dspic33-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/vibration-erm-motor-9k-rpm-3v/vibration-erm-motor-9k-rpm-3v-home_default-1.jpg?v=100
   - https://cdn1-shop.mikroe.com/img/product/analog-mux-3-click/analog-mux-3-click-home_default-1.jpg?v=100
   - https://cdn1-shop.mikroe.com/img/product/boost-inv-3-click/boost-inv-3-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/easypic-v8-for-pic24dspic33/easypic-v8-for-pic24dspic33-home_default-1.jpg?v=100
   - https://cdn1-shop.mikroe.com/img/product/mikromedia-4-for-pic-capacitive/mikromedia-4-for-pic-capacitive-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/pic-icsp-adapter/pic-icsp-adapter-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/vibration-erm-motor-9k-rpm-3v/vibration-erm-motor-9k-rpm-3v-home_default-1.jpg?v=100
   models: []
   products:
   - https://www.mikroe.com/analog-mux-3-click
   - https://www.mikroe.com/boost-inv-3-click
-  - https://www.mikroe.com/vibration-erm-motor-9k-rpm-3v
+  - https://www.mikroe.com/easypic-v8-for-pic24dspic33
   - https://www.mikroe.com/mikromedia-4-for-pic-capacitive
   - https://www.mikroe.com/pic-icsp-adapter
-  - https://www.mikroe.com/easypic-v8-for-pic24dspic33
+  - https://www.mikroe.com/vibration-erm-motor-9k-rpm-3v
   repositories: []
 name: MIKROE-AB
 ref: mikroe/mikroe-ab

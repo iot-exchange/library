@@ -8,8 +8,7 @@ links:
   examples: []
   images: []
   models: []
-  products:
-  - ''
+  products: []
   repositories: []
 name: RS191
 ref: ezurio/rs191

@@ -9,7 +9,6 @@ links:
   models: []
   products:
   - https://www.ezurio.com/partners/technology/wirepas
-  - ''
   repositories: []
 name: BL65x
 ref: ezurio/bl65x

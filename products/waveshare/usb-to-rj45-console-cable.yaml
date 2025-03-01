@@ -9,12 +9,12 @@ links:
   datasheets: []
   examples: []
   images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-rj45-console-cable-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-case-b-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-rj45-console-cable-1.jpg
   models: []
   products:
-  - https://www.waveshare.com/product/usb-to-rj45-console-cable.htm
   - https://www.waveshare.com/product/pi5-case-b.htm
+  - https://www.waveshare.com/product/usb-to-rj45-console-cable.htm
   repositories: []
 name: USB-TO-RJ45-Console-Cable
 ref: waveshare/usb-to-rj45-console-cable

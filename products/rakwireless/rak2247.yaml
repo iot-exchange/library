@@ -14,8 +14,8 @@ links:
   - https://res.rakwireless.com/tracked/products/concentrator-modules/product-wislink-concentrator-lorawan-rak2247@2x.png?fm=webp&w=650
   models: []
   products:
-  - https://store.rakwireless.com/products/rak2247-lpwan-gateway-concentrator-module?utm_source=ConcentratorModulesforLoRaWAN&utm_medium=ConcentratorModulesforLoRaWAN&utm_campaign=RAKwireless&_gl=1*5oy97q*_ga*MTAxNDQxODg0OC4xNzEyNTU1MzQ4*_ga_9MEJ39NSTZ*MTcxNTA1MzA0NC4yNDMuMS4xNzE1MDUzMDU3LjQ3LjAuMA..&variant=39942873710790??utm_source=ConcentratorModulesforLoRaWAN&utm_medium=ConcentratorModulesforLoRaWAN&utm_campaign=RAKwireless
   - https://news.rakwireless.com/line-up-for-linux-how-to-install-your-rak2247-lpwan-gateway-concentrator-module-with-a-linux-machine
+  - https://store.rakwireless.com/products/rak2247-lpwan-gateway-concentrator-module?utm_source=ConcentratorModulesforLoRaWAN&utm_medium=ConcentratorModulesforLoRaWAN&utm_campaign=RAKwireless&_gl=1*5oy97q*_ga*MTAxNDQxODg0OC4xNzEyNTU1MzQ4*_ga_9MEJ39NSTZ*MTcxNTA1MzA0NC4yNDMuMS4xNzE1MDUzMDU3LjQ3LjAuMA..&variant=39942873710790??utm_source=ConcentratorModulesforLoRaWAN&utm_medium=ConcentratorModulesforLoRaWAN&utm_campaign=RAKwireless
   repositories: []
 name: RAK2247
 ref: rakwireless/rak2247

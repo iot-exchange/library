@@ -8,8 +8,7 @@ extra:
 links:
   datasheets: []
   examples: []
-  images:
-  - ./img/asn
+  images: []
   models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-LIME2-s16M/open-source-hardwareo

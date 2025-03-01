@@ -8,15 +8,15 @@ links:
   datasheets: []
   examples: []
   images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/c/tcs34725-color-sensor-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim7600a-h-4g-hat-1_1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/c/tcs34725-color-sensor-1.jpg
   models: []
   products:
+  - https://www.waveshare.com/sim7600a-h-4g-hat.htm
   - https://www.waveshare.com/tcs34725-color-sensor.htm "HAT for Raspberry Pi, LTE
     Cat-4 4G / 3G, GNSS, for North America"
   - https://www.waveshare.com/tcs34725-color-sensor.htm "TCS34725 Color Sensor, High
     Sensitivity, I2C"
-  - https://www.waveshare.com/sim7600a-h-4g-hat.htm
   repositories: []
 name: SIM7600A-H 4G HAT
 ref: waveshare/sim7600a-h-4g-hat

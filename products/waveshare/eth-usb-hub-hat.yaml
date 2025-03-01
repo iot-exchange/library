@@ -11,9 +11,9 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/t/eth-usb-hub-hat-2.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/eth-usb-hub-hat.htm
   - https://www.waveshare.com/product/eth-usb-hub-hat.htm "Ethernet / USB HUB HAT
     for Raspberry Pi, 1x RJ45, 3x USB"
-  - https://www.waveshare.com/product/eth-usb-hub-hat.htm
   repositories: []
 name: ETH/USB HUB HAT
 ref: waveshare/eth-usb-hub-hat

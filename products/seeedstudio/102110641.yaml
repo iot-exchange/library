@@ -15,8 +15,8 @@ links:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/_/_/__feature-0220211111.jpg
   models: []
   products:
-  - https://www.seeedstudio.com/NVIDIArJetson-AGX-Orintm-64GB-Developer-Kit-p-5641.html
   - https://www.seeedstudio.com/Jetson-SUB-Mini-PC-Black-p-5226.html
+  - https://www.seeedstudio.com/NVIDIArJetson-AGX-Orintm-64GB-Developer-Kit-p-5641.html
   repositories: []
 name: '102110641'
 ref: seeedstudio/102110641

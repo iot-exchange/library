@@ -11,9 +11,9 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi400-kit-ord-13.3inch-1.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/pi400-kit-ord-13.3inch.htm
   - https://www.waveshare.com/product/pi400-kit-ord-13.3inch.htm "Raspberry Pi 400
     with Third-Party Accessories, and 13.3inch HDMI Touch Display"
-  - https://www.waveshare.com/product/pi400-kit-ord-13.3inch.htm
   repositories: []
 name: pi400_ord_13.3inch
 ref: waveshare/pi400-ord-13-3inch

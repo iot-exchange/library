@@ -7,8 +7,7 @@ links:
   examples: []
   images: []
   models: []
-  products:
-  - ''
+  products: []
   repositories: []
 name: BRD8042A
 ref: silicon-labs/brd8042a

@@ -11,10 +11,10 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/g/ugv-rover-pt-pi4b-ai-kit-1.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/ugv-rover.htm
   - https://www.waveshare.com/product/ugv-rover.htm "UGV Rover Open-source 6 Wheels
     4WD AI Robot, Dual controllers, All-metal Body, Computer Vision, Suitable for
     Raspberry Pi 4B / Raspberry Pi 5"
-  - https://www.waveshare.com/product/ugv-rover.htm
   repositories: []
 name: usv_rover
 ref: waveshare/usv-rover

@@ -12,9 +12,9 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.3inch-e-paper-d-1_3.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/10.3inch-e-paper-d.htm
   - "https://www.waveshare.com/product/10.3inch-e-paper-d.htm \"1872\xD71404, 10.3inch\
     \ flexible E-Ink raw display\""
-  - https://www.waveshare.com/product/10.3inch-e-paper-d.htm
   repositories: []
 name: 10.3inch e-paper (D)
 ref: waveshare/10-3inch-e-paper-d

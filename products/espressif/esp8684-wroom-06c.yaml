@@ -17,8 +17,8 @@ links:
   - https://www.espressif.com/sites/default/files/modules/ESP8684-WROOM-06C%20S_0.png
   models: []
   products:
-  - https://www.espressif.com/sites/default/files/documentation/esp8684-wroom-06c_datasheet_en.pdf
   - https://www.espressif.com/sites/default/files/documentation/esp8684-wroom-06c_datasheet_cn.pdf
+  - https://www.espressif.com/sites/default/files/documentation/esp8684-wroom-06c_datasheet_en.pdf
   repositories: []
 name: ESP8684-WROOM-06C
 ref: espressif/esp8684-wroom-06c

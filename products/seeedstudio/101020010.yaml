@@ -13,8 +13,8 @@ links:
   - https://www.seeedstudio.com/img/al
   models: []
   products:
-  - https://www.seeedstudio.com/Grove-Ultrasonic-Distance-Sensor.html
   - https://www.seeedstudio.com/Grove-Ultrasonic-Distance-Sensor-p-101020010.html
+  - https://www.seeedstudio.com/Grove-Ultrasonic-Distance-Sensor.html
   repositories: []
 name: '101020010'
 ref: seeedstudio/101020010

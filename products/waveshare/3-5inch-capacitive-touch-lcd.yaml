@@ -9,14 +9,14 @@ links:
   datasheets: []
   examples: []
   images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2350-zero-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/_/3.5inch-capacitive-touch-lcd-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2350-zero-1.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/3.5inch-capacitive-touch-lcd.htm
   - "https://www.waveshare.com/product/3.5inch-capacitive-touch-lcd.htm \"3.5inch\
     \ Capacitive Touch Display Module, 320\xD7480 Resolution, Embedded with ST7796S\
     \ Display Driver and FT6336U Capacitive Touch Controller, IPS Display\""
-  - https://www.waveshare.com/product/3.5inch-capacitive-touch-lcd.htm
   repositories: []
 name: 3.5inch Capacitive Touch LCD
 ref: waveshare/3-5inch-capacitive-touch-lcd

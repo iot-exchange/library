@@ -13,12 +13,12 @@ links:
   datasheets: []
   examples: []
   images:
-  - https://www.seeedstudio.com/img/al
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/101990881_all-04_2_1.jpg
+  - https://www.seeedstudio.com/img/al
   models: []
   products:
-  - https://www.seeedstudio.com/RS485-Air-Temperature-Humidity-and-Pressure-Sensor-p-5801.html
   - https://www.seeedstudio.com/RS485-Air-Temperature-Humidity-and-Barometric-Pressure-Sensor
+  - https://www.seeedstudio.com/RS485-Air-Temperature-Humidity-and-Pressure-Sensor-p-5801.html
   repositories: []
 name: '101991101'
 ref: seeedstudio/101991101

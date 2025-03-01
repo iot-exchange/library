@@ -14,8 +14,8 @@ links:
   - https://cdn1-shop.mikroe.com/img/product/led-stripe-6w-135m-with-silicon-flex-hose-and-dc-cable-female/led-stripe-6w-135m-with-silicon-flex-hose-and-dc-cable-female-home_default-1.jpg?v=100
   models: []
   products:
-  - https://www.mikroe.com/shop?p=52#LED-stripe-6W-1.35m
   - https://www.mikroe.com/shop?p=52#Dot-matrix-0.7in-5x7-RED
+  - https://www.mikroe.com/shop?p=52#LED-stripe-6W-1.35m
   repositories: []
 name: MIKROE-5383
 ref: mikroe/mikroe-5383

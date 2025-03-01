@@ -9,12 +9,12 @@ links:
   datasheets: []
   examples: []
   images:
-  - https://www.seeedstudio.com/img/t
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-308030048-eink-2.9-monochrome-epaper-display-with-296x128-pixels-45font.jpg
+  - https://www.seeedstudio.com/img/t
   models: []
   products:
-  - https://www.seeedstudio.com/2.9-Quadruple-Color-eInk-ePaper-Display-with-128x296-Pixels-SPI-interface-Support-XIAO-Arduino-STM32.html
   - https://www.seeedstudio.com/2-9-Quadruple-Color-ePaper-Display-with-128x296-Pixels-p-5783.html
+  - https://www.seeedstudio.com/2.9-Quadruple-Color-eInk-ePaper-Display-with-128x296-Pixels-SPI-interface-Support-XIAO-Arduino-STM32.html
   repositories: []
 name: '104990855'
 ref: seeedstudio/104990855

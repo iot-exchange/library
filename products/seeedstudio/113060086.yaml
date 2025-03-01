@@ -14,11 +14,10 @@ links:
   examples: []
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/1/1/113060086-gif_1.gif
-  - ./img/au
   models: []
   products:
-  - https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html
   - https://www.seeedstudio.com/Raspberry-Pi-2246.html?bazaar4_retailer-products%5Bpage%5D=2#113060086
+  - https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html
   repositories: []
 name: '113060086'
 ref: seeedstudio/113060086

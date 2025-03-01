@@ -11,11 +11,10 @@ links:
   examples: []
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114993033.jpg
-  - ./img/am
   models: []
   products:
-  - https://www.seeedstudio.com/5MP-25mm-lens-p-5579.html
   - https://www.seeedstudio.com/12MP-2-7mm-wide-angle-lens-p-5580.html
+  - https://www.seeedstudio.com/5MP-25mm-lens-p-5579.html
   repositories: []
 name: '114993033'
 ref: seeedstudio/114993033

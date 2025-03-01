@@ -12,12 +12,12 @@ links:
   datasheets: []
   examples: []
   images:
-  - https://www.seeedstudio.com/img/x
   - https://www.seeedstudio.com/img/r
+  - https://www.seeedstudio.com/img/x
   models: []
   products:
-  - https://www.seeedstudio.com/reserver-j2032-nvidia-jetson-xavier-nx-16gb-ai-nvr.html
   - https://www.seeedstudio.com/reServer-J2032-NVIDIA-Jetson-Xavier-NX-16GB-AI-NVR-for-Video-Analytics-p-110061403.html
+  - https://www.seeedstudio.com/reserver-j2032-nvidia-jetson-xavier-nx-16gb-ai-nvr.html
   repositories: []
 name: '110061403'
 ref: seeedstudio/110061403

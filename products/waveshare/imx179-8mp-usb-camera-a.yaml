@@ -6,13 +6,13 @@ links:
   datasheets: []
   examples: []
   images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx179_8mp_usb_camera_a_.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx179-8mp-usb-camera-a-2.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx179_8mp_usb_camera_a_.jpg
   models: []
   products:
+  - https://www.waveshare.com/imx179-8mp-usb-camera-a.htm
   - https://www.waveshare.com/imx179-8mp-usb-camera-a.htm "IMX179 8MP USB Camera (A),
     HD, Embedded Mic"
-  - https://www.waveshare.com/imx179-8mp-usb-camera-a.htm
   repositories: []
 name: IMX179 8MP USB Camera (A)
 ref: waveshare/imx179-8mp-usb-camera-a

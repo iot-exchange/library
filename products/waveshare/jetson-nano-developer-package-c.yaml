@@ -14,9 +14,9 @@ links:
   models: []
   products:
   - https://www.waveshare.com/jetson-nano-developer-kit-package-c.htm
-  - https://www.waveshare.com/product/rs232-485-to-eth-for-eu.htm
   - https://www.waveshare.com/jetson-nano-developer-kit-package-c.htm "Jetson Nano
     Development Pack (Type C), with Display, Camera, TF Card"
+  - https://www.waveshare.com/product/rs232-485-to-eth-for-eu.htm
   repositories: []
 name: Jetson Nano Developer Package C
 ref: waveshare/jetson-nano-developer-package-c

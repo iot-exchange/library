@@ -12,10 +12,10 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2350-zero-1.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/rp2350-zero.htm
   - https://www.waveshare.com/product/rp2350-zero.htm "Waveshare RP2350-Zero Mini
     Development Board, Raspberry Pi Microcontroller Development Board, Based On Raspberry
     Pi Dual-core & Dual-architecture Microcontroller"
-  - https://www.waveshare.com/product/rp2350-zero.htm
   repositories: []
 name: RP2350-Zero
 ref: waveshare/rp2350-zero

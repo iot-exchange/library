@@ -39,8 +39,7 @@ links:
   examples: []
   images: []
   models: []
-  products:
-  - ''
+  products: []
   repositories: []
 name: '5.01'
 ref: microchip/5-01

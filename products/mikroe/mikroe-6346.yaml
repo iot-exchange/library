@@ -12,9 +12,9 @@ links:
   - https://cdn1-shop.mikroe.com/img/product/temp-iso-click/temp-iso-click-home_default-1.jpg?v=100
   models: []
   products:
-  - https://www.mikroe.com/temp-iso-click
   - https://www.mikroe.com/cart?add=1&id_product=4057
   - https://www.mikroe.com/hw-monitor-3-click
+  - https://www.mikroe.com/temp-iso-click
   repositories: []
 name: MIKROE-6346
 ref: mikroe/mikroe-6346

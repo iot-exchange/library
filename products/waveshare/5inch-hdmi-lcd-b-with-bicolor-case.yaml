@@ -9,12 +9,12 @@ links:
   datasheets: []
   examples: []
   images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/i/5inch-hdmi-lcd-b-bicolor-holder-1_1_4.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/b/5bk-m.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/i/5inch-hdmi-lcd-b-bicolor-holder-1_1_4.jpg
   models: []
   products:
-  - https://www.waveshare.com/product/bicolor-case-for-5inch-lcd-type-b.htm
   - https://www.waveshare.com/product/5inch-hdmi-lcd-b-with-bicolor-case.htm
+  - https://www.waveshare.com/product/bicolor-case-for-5inch-lcd-type-b.htm
   repositories: []
 name: 5inch HDMI LCD (B) (with bicolor case)
 ref: waveshare/5inch-hdmi-lcd-b-with-bicolor-case

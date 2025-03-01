@@ -15,12 +15,12 @@ links:
   datasheets: []
   examples: []
   images:
-  - https://www.silabs.com/content/siliconlabs/en/wireless/wi-fi/siwx917-wireless-socs.thumb.256.144.png
   - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/wifi/siwx917-wireless-socs/siwx917-dk2605a-dev-kit.png
+  - https://www.silabs.com/content/siliconlabs/en/wireless/wi-fi/siwx917-wireless-socs.thumb.256.144.png
   models: []
   products:
-  - https://www.silabs.com/wireless/wi-fi/siwx917-wireless-socs
   - https://www.silabs.com/development-tools/wireless/wi-fi/siwx917-dk2605a-wifi-6-bluetooth-le-soc-dev-kit
+  - https://www.silabs.com/wireless/wi-fi/siwx917-wireless-socs
   repositories: []
 name: SiWx917M
 ref: silicon-labs/siwx917m

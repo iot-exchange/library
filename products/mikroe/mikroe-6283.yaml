@@ -14,8 +14,8 @@ links:
   - https://cdn1-shop.mikroe.com/img/product/lte-iot-17-click/lte-iot-17-click-home_default-1.jpg?v=100
   models: []
   products:
-  - https://www.mikroe.com/lte-iot-17-click
   - https://www.mikroe.com/lte-cat1-6-click
+  - https://www.mikroe.com/lte-iot-17-click
   repositories: []
 name: MIKROE-6283
 ref: mikroe/mikroe-6283

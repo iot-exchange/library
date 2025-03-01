@@ -17,8 +17,7 @@ links:
   examples: []
   images: []
   models: []
-  products:
-  - ''
+  products: []
   repositories: []
 name: Receiver
 ref: microchip/receiver

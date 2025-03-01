@@ -39,8 +39,7 @@ links:
   examples: []
   images: []
   models: []
-  products:
-  - ''
+  products: []
   repositories: []
 name: '4.89'
 ref: microchip/4-89

@@ -8,8 +8,7 @@ extra:
 links:
   datasheets: []
   examples: []
-  images:
-  - ./img/as
+  images: []
   models: []
   products:
   - https://www.seeedstudio.com/RS485-p-5102.html

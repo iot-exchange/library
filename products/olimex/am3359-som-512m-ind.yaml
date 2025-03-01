@@ -8,8 +8,7 @@ links:
   images:
   - https://www.olimex.com/Products/SOM/AM335X/AM3352-SOM/images/thumbs/200x150/AM3352-SOM-1.jpg
   models: []
-  products:
-  - ./url/bgi
+  products: []
   repositories: []
 name: AM3359-SOM-512M-IND
 ref: olimex/am3359-som-512m-ind

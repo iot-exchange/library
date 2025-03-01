@@ -18,8 +18,8 @@ links:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993135_sensecap-multi-platform-lorawan-indoor-gateway_sx1302_au915-_australia_-first.jpg
   models: []
   products:
-  - https://www.seeedstudio.com/reServer-industrial-J4012-p-5747.html
   - https://www.seeedstudio.com/SenseCAP-Multi-Platform-LoRaWAN-Indoor-Gateway-SX1302-AU915-Australia-p-5740.html
+  - https://www.seeedstudio.com/reServer-industrial-J4012-p-5747.html
   repositories: []
 name: '114993135'
 ref: seeedstudio/114993135

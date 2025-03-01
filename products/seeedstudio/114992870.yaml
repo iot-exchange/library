@@ -9,12 +9,12 @@ links:
   datasheets: []
   examples: []
   images:
-  - https://www.seeedstudio.com/img/t
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/f/i/first_page_all-31_1.jpg
+  - https://www.seeedstudio.com/img/t
   models: []
   products:
-  - https://www.seeedstudio.com/SenseCAP-S2104-LoRaWAN-Soil-Temperature-and-Moisture-Sensor-p-5357.html
   - https://www.seeedstudio.com/SenseCAP-Indicator-D1L
+  - https://www.seeedstudio.com/SenseCAP-S2104-LoRaWAN-Soil-Temperature-and-Moisture-Sensor-p-5357.html
   repositories: []
 name: '114992870'
 ref: seeedstudio/114992870

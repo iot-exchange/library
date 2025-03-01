@@ -5,11 +5,9 @@ extra: {}
 links:
   datasheets: []
   examples: []
-  images:
-  - ./img/dz
+  images: []
   models: []
-  products:
-  - ./url/ea
+  products: []
   repositories: []
 name: AVR-IO-M16
 ref: olimex/avr-io-m16

@@ -10,8 +10,8 @@ links:
   - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/slwrb4181a-wireless-gecko-radio-board.jpg
   models: []
   products:
-  - https://www.silabs.com/development-tools/wireless/slwrb4181c-efr32xg21-wireless-gecko-radio-board
   - https://www.silabs.com/development-tools/wireless/efr32xg21-wireless-starter-kit
+  - https://www.silabs.com/development-tools/wireless/slwrb4181c-efr32xg21-wireless-gecko-radio-board
   repositories: []
 name: SLWRB4181C
 ref: silicon-labs/slwrb4181c

@@ -12,10 +12,10 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/st3025-servo-1.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/st3025-servo.htm
   - https://www.waveshare.com/product/st3025-servo.htm "40kg.cm Metal Serial Bus Servo,
     High Precision And Large Torque, With Programmable 360 Degrees Magnetic Encoder
     and Brushless Motor"
-  - https://www.waveshare.com/product/st3025-servo.htm
   repositories: []
 name: ST3025 Servo
 ref: waveshare/st3025-servo

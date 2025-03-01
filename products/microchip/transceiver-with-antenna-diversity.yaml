@@ -17,8 +17,7 @@ links:
   examples: []
   images: []
   models: []
-  products:
-  - ''
+  products: []
   repositories: []
 name: Transceiver with Antenna Diversity
 ref: microchip/transceiver-with-antenna-diversity

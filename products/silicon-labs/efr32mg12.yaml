@@ -22,9 +22,9 @@ links:
   images: []
   models: []
   products:
-  - https://www.silabs.com/wireless/zigbee/efr32mg12-series-1-socs
   - https://wi-sun.org/product/wsa0259-efr32mg12/
   - https://www.silabs.com/wireless/zigbee/efr32mg12-series-1-modules
+  - https://www.silabs.com/wireless/zigbee/efr32mg12-series-1-socs
   repositories: []
 name: EFR32MG12
 ref: silicon-labs/efr32mg12

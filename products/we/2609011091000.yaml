@@ -14,9 +14,9 @@ links:
   images: []
   models: []
   products:
-  - https://www.we-online.com/en/components/products/TELESTO-III_MESH#2609011091000
   - https://www.we-online.com/components/products/manual/2609011091000_Telesto-III
     2609011x9100x Manual_rev2.13.pdf
+  - https://www.we-online.com/en/components/products/TELESTO-III_MESH#2609011091000
   repositories: []
 name: '2609011091000'
 ref: we/2609011091000

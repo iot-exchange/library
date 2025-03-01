@@ -14,8 +14,8 @@ links:
   - https://www.seeedstudio.com/img/t
   models: []
   products:
-  - https://www.seeedstudio.com/nvidia-jetson-nano-active-heat-sink.html
   - https://www.seeedstudio.com/Jetson-Nano-Module-heatsink-p-5395.html
+  - https://www.seeedstudio.com/nvidia-jetson-nano-active-heat-sink.html
   repositories: []
 name: '101110061'
 ref: seeedstudio/101110061

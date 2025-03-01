@@ -6,8 +6,7 @@ extra: {}
 links:
   datasheets: []
   examples: []
-  images:
-  - ./img/be
+  images: []
   models: []
   products:
   - https://www.seeedstudio.com/Directional-Patch-2-4Ghz-SMA-Articulated-Antenna-p-2670.html

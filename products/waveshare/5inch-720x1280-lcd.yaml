@@ -12,10 +12,10 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/i/5inch-720x1280-lcd-1.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/5inch-720x1280-lcd.htm
   - "https://www.waveshare.com/product/5inch-720x1280-lcd.htm \"5inch Capacitive Touch\
     \ Display, 720\xD71280, Optical Bonding Toughened Glass Panel, HDMI Interface,\
     \ IPS Panel, 5-Point Touch\""
-  - https://www.waveshare.com/product/5inch-720x1280-lcd.htm
   repositories: []
 name: 5inch 720x1280 LCD
 ref: waveshare/5inch-720x1280-lcd

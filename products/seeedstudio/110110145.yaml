@@ -10,13 +10,13 @@ links:
   examples: []
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/7/-/7-114992994-ha-skyconnect-feature.jpg
-  - https://www.seeedstudio.com/img/al
   - https://www.seeedstudio.com/img/af
+  - https://www.seeedstudio.com/img/al
   models: []
   products:
-  - https://www.seeedstudio.com/recomputer-j4012-edge-ai-computer-with-nvidia-jetson-orin-nx-16gb.html
-  - https://www.seeedstudio.com/reComputer-J4012-p-5586.html
   - https://www.seeedstudio.com/reComputer-J4012-Edge-AI-Computer-with-NVIDIA-Jetson-Orin-NX-16GB-p-110110145.html
+  - https://www.seeedstudio.com/reComputer-J4012-p-5586.html
+  - https://www.seeedstudio.com/recomputer-j4012-edge-ai-computer-with-nvidia-jetson-orin-nx-16gb.html
   repositories: []
 name: '110110145'
 ref: seeedstudio/110110145

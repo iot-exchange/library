@@ -21,8 +21,8 @@ links:
   - https://www.espressif.com/sites/default/files/modules/ESP32-WROOM-32U%20S.png
   models: []
   products:
-  - https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf
   - https://www.espressif.com/sites/default/files/documentation/esp32-solo-1_datasheet_en.pdf
+  - https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf
   repositories: []
 name: ESP32-SOLO-1
 ref: espressif/esp32-solo-1

@@ -14,8 +14,8 @@ links:
   images: []
   models: []
   products:
-  - https://www.ti.com/wireless-connectivity/sub-1-ghz/wireless-microcontrollers/products.html
   - https://www.ti.com/wireless-connectivity/low-power-2-4-ghz/products.html
+  - https://www.ti.com/wireless-connectivity/sub-1-ghz/wireless-microcontrollers/products.html
   repositories: []
 name: Wireless module
 ref: ti/wireless-module

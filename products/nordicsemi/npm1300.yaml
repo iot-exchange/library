@@ -15,13 +15,13 @@ links:
   datasheets: []
   examples: []
   images:
-  - https://www.nordicsemi.com/-/media/Images/Products/PMICs/nPM1300/nPM1300_QFN32_5x5_stacked_web.png?h=500&iar=0&mh=500&w=503&hash=2C476BDEBCC26845AD9DA1C1139183A1
-  - https://www.nordicsemi.com/-/media/Images/Products/PMICs/nPM1300/nPM1300_QFN32_5x5_stacked_web.png?h=250&iar=0&mh=250&w=252&hash=8971E7386C67A1D4DF7FE3AD1C3A7BCB
   - https://www.nordicsemi.com/-/media/Images/News/2025/Q1/NS_Keikku_promo.png?h=500&iar=0&mh=500&w=558&hash=9580522A05856042BDEFF8346EE3C2F8
+  - https://www.nordicsemi.com/-/media/Images/Products/PMICs/nPM1300/nPM1300_QFN32_5x5_stacked_web.png?h=250&iar=0&mh=250&w=252&hash=8971E7386C67A1D4DF7FE3AD1C3A7BCB
+  - https://www.nordicsemi.com/-/media/Images/Products/PMICs/nPM1300/nPM1300_QFN32_5x5_stacked_web.png?h=500&iar=0&mh=500&w=503&hash=2C476BDEBCC26845AD9DA1C1139183A1
   models: []
   products:
-  - https://www.nordicsemi.com/Products/nPM1300
   - https://www.nordicsemi.com/Nordic-news/2025/02/Lapsi-Health-Keikku-employs-Nordic-nRF5340-SoC-and-nPM1300-PMIC
+  - https://www.nordicsemi.com/Products/nPM1300
   repositories: []
 name: nPM1300
 ref: nordicsemi/npm1300

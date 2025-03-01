@@ -14,8 +14,8 @@ links:
   - https://www.seeedstudio.com/img/ad
   models: []
   products:
-  - https://www.seeedstudio.com/SenseCAP-Sensor-Hub-4G-Data-Logger-with-builtin-battery-p-4852.html
   - https://www.seeedstudio.com/SenseCAP-Sensor-Hub-4G-Data-Logger
+  - https://www.seeedstudio.com/SenseCAP-Sensor-Hub-4G-Data-Logger-with-builtin-battery-p-4852.html
   repositories: []
 name: '114992170'
 ref: seeedstudio/114992170

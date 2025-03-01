@@ -13,11 +13,11 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-2.8c-1.jpg
   models: []
   products:
-  - https://www.waveshare.com/product/esp32-s3-touch-lcd-2.8c.htm
   - https://www.waveshare.com/product/2inch-capacitive-touch-lcd.htm
   - "https://www.waveshare.com/product/2inch-capacitive-touch-lcd.htm \"2inch Capacitive\
     \ Touch Display Module, Embedded with ST7789T3 Display Driver and CST816D Capacitive\
     \ Touch Controller, IPS Display, 240\xD7320 Resolution\""
+  - https://www.waveshare.com/product/esp32-s3-touch-lcd-2.8c.htm
   repositories: []
 name: 2inch Capacitive Touch LCD
 ref: waveshare/2inch-capacitive-touch-lcd

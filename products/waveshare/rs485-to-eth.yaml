@@ -16,9 +16,9 @@ links:
   models: []
   products:
   - https://www.waveshare.com/product/rs485-to-eth-b.htm
-  - https://www.waveshare.com/product/rs485-to-eth.htm
   - https://www.waveshare.com/product/rs485-to-eth-b.htm "Industrial serial server,
     RS485 to RJ45 Ethernet, TCP/IP to serial, rail-mount support, with POE function(optional)"
+  - https://www.waveshare.com/product/rs485-to-eth.htm
   repositories: []
 name: RS485 TO ETH
 ref: waveshare/rs485-to-eth

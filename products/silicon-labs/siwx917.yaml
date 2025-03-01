@@ -15,14 +15,14 @@ links:
   datasheets: []
   examples: []
   images:
-  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/wifi/siwx917-wireless-socs/siwx917-rb4338a.png
   - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/wifi/siwx917-wireless-socs/siwx917-pk6031a.png
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/wifi/siwx917-wireless-socs/siwx917-rb4338a.png
   models: []
   products:
-  - https://www.silabs.com/development-tools/wireless/wi-fi/siwx917-rb4338a-wifi-6-bluetooth-le-soc-radio-board
-  - https://www.silabs.com/wireless/wi-fi/siwx917-wireless-socs
-  - https://www.silabs.com/security/secure-vault
   - https://www.silabs.com/development-tools/wireless/wi-fi/siwx917-pk6031a-wifi-6-bluetooth-le-soc-pro-kit
+  - https://www.silabs.com/development-tools/wireless/wi-fi/siwx917-rb4338a-wifi-6-bluetooth-le-soc-radio-board
+  - https://www.silabs.com/security/secure-vault
+  - https://www.silabs.com/wireless/wi-fi/siwx917-wireless-socs
   repositories: []
 name: SiWx917
 ref: silicon-labs/siwx917

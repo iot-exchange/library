@@ -10,11 +10,10 @@ links:
   examples: []
   images:
   - https://www.seeedstudio.com/img/x
-  - ./img/as
   models: []
   products:
-  - https://www.seeedstudio.com/2.13-Quadruple-Color-eInk-ePaper-Display-with-122x250-Pixels-SPI-interface-Support-XIAO-Arduino-STM32.html
   - https://www.seeedstudio.com/2-13-Quadruple-Color-ePaper-Display-with-122x250-Pixels-p-5779.html
+  - https://www.seeedstudio.com/2.13-Quadruple-Color-eInk-ePaper-Display-with-122x250-Pixels-SPI-interface-Support-XIAO-Arduino-STM32.html
   repositories: []
 name: '104990846'
 ref: seeedstudio/104990846

@@ -24,8 +24,8 @@ links:
   images: []
   models: []
   products:
-  - https://www.st.com/en/microcontrollers-microprocessors/stm32wle5cc.html#sample-buy
   - https://www.st.com/en/microcontrollers-microprocessors/stm32wle5cc.html
+  - https://www.st.com/en/microcontrollers-microprocessors/stm32wle5cc.html#sample-buy
   repositories: []
 name: STM32WLE5CC
 ref: st/stm32wle5cc

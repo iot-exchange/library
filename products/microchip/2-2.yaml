@@ -28,8 +28,7 @@ links:
   examples: []
   images: []
   models: []
-  products:
-  - ''
+  products: []
   repositories: []
 name: '2.2'
 ref: microchip/2-2

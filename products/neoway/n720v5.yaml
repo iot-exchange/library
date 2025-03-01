@@ -5,8 +5,7 @@ extra: {}
 links:
   datasheets: []
   examples: []
-  images:
-  - ./img/as
+  images: []
   models: []
   products:
   - https://www.neoway.com/products/wireless-communication/1497.html

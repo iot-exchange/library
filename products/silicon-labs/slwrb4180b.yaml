@@ -12,8 +12,8 @@ links:
   - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/slwrb4180a-wireless-gecko-radio-board.jpg
   models: []
   products:
-  - https://www.silabs.com/development-tools/wireless/slwrb4181b-efr32xg21-wireless-gecko-radio-board
   - https://www.silabs.com/development-tools/wireless/slwrb4180b-efr32xg21-wireless-gecko-radio-board
+  - https://www.silabs.com/development-tools/wireless/slwrb4181b-efr32xg21-wireless-gecko-radio-board
   - https://www.silabs.com/wireless/mattere
   repositories: []
 name: SLWRB4180B

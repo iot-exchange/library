@@ -12,12 +12,12 @@ links:
   datasheets: []
   examples: []
   images:
-  - https://nos-p-001.sitecorecontenthub.cloud/api/public/content/e033930fb7654abeb241537b668a6d54?v=6203cddb
   - https://nos-p-001.sitecorecontenthub.cloud/api/public/content/b37a3ba08c804df2b1b00d53c331ba6d?v=6b37908a
+  - https://nos-p-001.sitecorecontenthub.cloud/api/public/content/e033930fb7654abeb241537b668a6d54?v=6203cddb
   models: []
   products:
-  - https://www.nordicsemi.com/Products/nPM2100
   - https://www.nordicsemi.com/Nordic-news/2025/01/nPM2100-PMIC-extends-battery-life-of-primary-cell-powered-Bluetooth-LE-products
+  - https://www.nordicsemi.com/Products/nPM2100
   repositories: []
 name: nPM2100
 ref: nordicsemi/npm2100

@@ -12,9 +12,9 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim7070g-cat-m-nb-iot-gprs-hat-2.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/sim7070g-cat-m-nb-iot-gprs-hat.htm
   - https://www.waveshare.com/product/sim7070g-cat-m-nb-iot-gprs-hat.htm "SIM7070G
     NB-IoT / Cat-M / GPRS / GNSS HAT for Raspberry Pi, global band support"
-  - https://www.waveshare.com/product/sim7070g-cat-m-nb-iot-gprs-hat.htm
   repositories: []
 name: SIM7070G Cat-M/NB-IoT/GPRS HAT (EN)
 ref: waveshare/sim7070g-cat-m-nb-iot-gprs-hat-en

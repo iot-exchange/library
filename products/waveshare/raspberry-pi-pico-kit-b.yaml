@@ -12,9 +12,9 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-pico-kit-b-1_2.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/raspberry-pi-pico-kit-b.htm
   - https://www.waveshare.com/product/raspberry-pi-pico-kit-b.htm "Raspberry Pi Pico
     Evaluation Kit (Type B), The Pico + Color LCD + IMU Sensor + GPIO Expander"
-  - https://www.waveshare.com/product/raspberry-pi-pico-kit-b.htm
   repositories: []
 name: Raspberry-Pi-Pico-Kit-B
 ref: waveshare/raspberry-pi-pico-kit-b

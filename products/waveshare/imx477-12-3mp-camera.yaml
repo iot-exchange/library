@@ -12,10 +12,10 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx477-12.3mp-camera-1_2.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/imx477-12.3mp-camera.htm
   - https://www.waveshare.com/product/imx477-12.3mp-camera.htm "High Quality Camera
     for Raspberry Pi / Raspberry Pi Compute Module / Jetson Nano, 12.3MP IMX477 Sensor,
     High Sensitivity"
-  - https://www.waveshare.com/product/imx477-12.3mp-camera.htm
   repositories: []
 name: IMX477 12.3MP Camera
 ref: waveshare/imx477-12-3mp-camera

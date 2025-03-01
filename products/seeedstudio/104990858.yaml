@@ -13,8 +13,8 @@ links:
   - https://www.seeedstudio.com/img/p
   models: []
   products:
-  - https://www.seeedstudio.com/5.83-Monochrome-eInk-ePaper-Display-with-648x480-Pixels-SPI-interface-Support-XIAO-Arduino-STM32.html
   - https://www.seeedstudio.com/5-83-Monochrome-ePaper-Display-with-648x480-Pixels-p-5785.html
+  - https://www.seeedstudio.com/5.83-Monochrome-eInk-ePaper-Display-with-648x480-Pixels-SPI-interface-Support-XIAO-Arduino-STM32.html
   repositories: []
 name: '104990858'
 ref: seeedstudio/104990858

@@ -19,11 +19,11 @@ links:
   images: []
   models: []
   products:
-  - https://www.ti.com/wireless-connectivity/wi-fi/products.html
-  - https://www.ti.com/wireless-connectivity/automotive/products.html
   - https://www.ti.com/support-quality/quality-policies-procedures/product-life-cycle.html
-  - https://www.ti.com/wireless-connectivity/sub-1-ghz/wireless-microcontrollers/products.html
+  - https://www.ti.com/wireless-connectivity/automotive/products.html
   - https://www.ti.com/wireless-connectivity/low-power-2-4-ghz/products.html
+  - https://www.ti.com/wireless-connectivity/sub-1-ghz/wireless-microcontrollers/products.html
+  - https://www.ti.com/wireless-connectivity/wi-fi/products.html
   repositories: []
 name: Wireless MCU
 ref: ti/wireless-mcu

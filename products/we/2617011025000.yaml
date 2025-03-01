@@ -12,9 +12,9 @@ links:
   - https://www.we-online.com/components/media/o786825v214%20Single_Stephano-I_2617011025000.jpg
   models: []
   products:
-  - https://www.we-online.com/en/components/products/STEPHANO-I_WIFI#2617011025000
-  - https://www.we-online.com/en/components/products/STEPHANO-I-BLUETOOTH#2617011025000
   - https://www.we-online.com/components/products/manual/2617011025000.pdf
+  - https://www.we-online.com/en/components/products/STEPHANO-I-BLUETOOTH#2617011025000
+  - https://www.we-online.com/en/components/products/STEPHANO-I_WIFI#2617011025000
   repositories: []
 name: '2617011025000'
 ref: we/2617011025000

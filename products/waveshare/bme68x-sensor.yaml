@@ -14,10 +14,10 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/m/bme688-environmental-sensor-1.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/bme68x-environmental-sensor.htm
   - https://www.waveshare.com/product/bme68x-environmental-sensor.htm "BME68X Environmental
     Sensor, Supports Temperature / Humidity / Barometric Pressure / Gas Detection,
     optional AI function"
-  - https://www.waveshare.com/product/bme68x-environmental-sensor.htm
   repositories: []
 name: bme68x_sensor
 ref: waveshare/bme68x-sensor

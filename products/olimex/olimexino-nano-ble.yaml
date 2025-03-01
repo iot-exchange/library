@@ -8,8 +8,7 @@ extra:
 links:
   datasheets: []
   examples: []
-  images:
-  - ./img/amk
+  images: []
   models: []
   products:
   - https://www.olimex.com/Products/Duino/AVR/OLIMEXINO-NANO-BLE/

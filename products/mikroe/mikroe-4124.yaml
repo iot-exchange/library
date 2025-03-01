@@ -10,12 +10,12 @@ links:
   datasheets: []
   examples: []
   images:
-  - https://cdn1-shop.mikroe.com/img/product/wheatstone-click/wheatstone-click-home_default-1.jpg?v=100
   - https://cdn1-shop.mikroe.com/img/product/can-fd-4-click/can-fd-4-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/wheatstone-click/wheatstone-click-home_default-1.jpg?v=100
   models: []
   products:
-  - https://www.mikroe.com/wheatstone-click
   - https://www.mikroe.com/can-fd-4-click
+  - https://www.mikroe.com/wheatstone-click
   repositories: []
 name: MIKROE-4124
 ref: mikroe/mikroe-4124

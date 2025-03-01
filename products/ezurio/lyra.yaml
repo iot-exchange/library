@@ -9,7 +9,6 @@ links:
   models: []
   products:
   - https://www.ezurio.com/partners/technology/wirepas
-  - ''
   repositories: []
 name: Lyra
 ref: ezurio/lyra

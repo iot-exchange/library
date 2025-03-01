@@ -13,8 +13,8 @@ links:
   - https://res.rakwireless.com/tracked/products/wislink/rak5148.png?fm=webp
   models: []
   products:
-  - https://store.rakwireless.com/products/2-4-ghz-mini-pcie-concentrator-module-for-lora-based-on-sx1280-rak5148?_pos=1&_sid=d0731a481&_ss=r??utm_source=ConcentratorModulesforLoRaWAN&utm_medium=ConcentratorModulesforLoRaWAN&utm_campaign=RAKwireless
   - https://news.rakwireless.com/utilize-the-worldwide-free-2-4-ghz-band-for-your-lora-iot-projects-with-rak5148
+  - https://store.rakwireless.com/products/2-4-ghz-mini-pcie-concentrator-module-for-lora-based-on-sx1280-rak5148?_pos=1&_sid=d0731a481&_ss=r??utm_source=ConcentratorModulesforLoRaWAN&utm_medium=ConcentratorModulesforLoRaWAN&utm_campaign=RAKwireless
   repositories: []
 name: RAK5148
 ref: rakwireless/rak5148

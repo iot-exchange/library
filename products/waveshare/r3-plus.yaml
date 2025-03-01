@@ -11,9 +11,9 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/3/r3-plus-1.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/r3-plus.htm
   - https://www.waveshare.com/product/r3-plus.htm "ATMEGA328P Microcontroller Development
     Board, Arduino-Compatible"
-  - https://www.waveshare.com/product/r3-plus.htm
   repositories: []
 name: r3_plus
 ref: waveshare/r3-plus

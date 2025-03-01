@@ -12,8 +12,8 @@ links:
   - https://www.seeedstudio.com/img/ah
   models: []
   products:
-  - https://www.seeedstudio.com/Seeed-Studio-6x10-RGB-MATRIX-for-XIAO-and-QT-Py.html
   - https://www.seeedstudio.com/6x10-RGB-MATRIX-for-XIAO-p-5771.html
+  - https://www.seeedstudio.com/Seeed-Studio-6x10-RGB-MATRIX-for-XIAO-and-QT-Py.html
   repositories: []
 name: '104030107'
 ref: seeedstudio/104030107

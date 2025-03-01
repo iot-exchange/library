@@ -16,8 +16,8 @@ links:
   - https://www.seeedstudio.com/img/r
   models: []
   products:
-  - https://www.seeedstudio.com/recomputer-j101-carrier-board-for-jetson-nano.html
   - https://www.seeedstudio.com/reComputer-J101-v2-Carrier-Board-for-Jetson-Nano-p-5396.html
+  - https://www.seeedstudio.com/recomputer-j101-carrier-board-for-jetson-nano.html
   repositories: []
 name: '102991694'
 ref: seeedstudio/102991694

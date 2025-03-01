@@ -13,9 +13,9 @@ links:
   products:
   - "https://www.waveshare.com/product/pico-epaper-2.13.htm \"2.13inch E-Paper E-Ink\
     \ Display Module for Raspberry Pi Pico, 250\xD7122, Black / White, SPI\""
+  - https://www.waveshare.com/product/pico-lcd-1.14.htm
   - "https://www.waveshare.com/product/pico-lcd-1.14.htm \"1.14inch LCD Display Module\
     \ for Raspberry Pi Pico, 65K Colors, 240\xD7135, SPI\""
-  - https://www.waveshare.com/product/pico-lcd-1.14.htm
   repositories: []
 name: Pico-LCD-1.14
 ref: waveshare/pico-lcd-1-14

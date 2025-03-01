@@ -9,8 +9,7 @@ links:
   examples: []
   images: []
   models: []
-  products:
-  - ''
+  products: []
   repositories: []
 name: v5.3
 ref: ezurio/v5-3

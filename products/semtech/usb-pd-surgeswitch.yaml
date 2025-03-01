@@ -8,8 +8,7 @@ links:
   images:
   - https://play.vidyard.com/oWXJMWwewRFgEYBiCT3uen.jpg?&play_button=1
   models: []
-  products:
-  - ''
+  products: []
   repositories: []
 name: USB-PD SurgeSwitch
 ref: semtech/usb-pd-surgeswitch

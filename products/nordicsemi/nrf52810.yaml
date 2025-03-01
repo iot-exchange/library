@@ -20,8 +20,8 @@ links:
   datasheets: []
   examples: []
   images:
-  - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52810-QFN48-6x6-stacked_web.png?h=50&iar=0&mw=50&w=50&hash=640E1C8DE5D8C56187AFD70B4DFF576F
   - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52810-QFN48-6x6-stacked_web.png?h=400&iar=0&mh=500&w=400&hash=1D3C5FF8CD1EFD08F5BF025A1ED3958C
+  - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52810-QFN48-6x6-stacked_web.png?h=50&iar=0&mw=50&w=50&hash=640E1C8DE5D8C56187AFD70B4DFF576F
   models: []
   products:
   - https://www.nordicsemi.com/Products/nRF52810

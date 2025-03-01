@@ -37,8 +37,8 @@ links:
   images: []
   models: []
   products:
-  - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth#series-lineup
   - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth#product-lineup
+  - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth#series-lineup
   repositories: []
 name: Type 1BW
 ref: murata/type-1bw

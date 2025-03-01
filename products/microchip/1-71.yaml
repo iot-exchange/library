@@ -38,8 +38,7 @@ links:
   examples: []
   images: []
   models: []
-  products:
-  - ''
+  products: []
   repositories: []
 name: '1.71'
 ref: microchip/1-71

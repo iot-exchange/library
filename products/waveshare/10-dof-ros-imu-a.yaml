@@ -13,10 +13,10 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10-dof-ros-imu-a-1.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/10-dof-ros-imu-a.htm
   - https://www.waveshare.com/product/10-dof-ros-imu-a.htm "10-axis ROS IMU Sensor
     With Integrated ARM 32-bit DSP Processor / BLE 5.3 Bluetooth / High-precision
     Accelerometer / Gyroscope / Magnetometer / Temperature & Pressure Sensor"
-  - https://www.waveshare.com/product/10-dof-ros-imu-a.htm
   repositories: []
 name: 10 DOF ROS IMU (A)
 ref: waveshare/10-dof-ros-imu-a

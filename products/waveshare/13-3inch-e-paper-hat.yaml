@@ -12,10 +12,10 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/3/13.3inch-e-paper-hat-1_3.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/13.3inch-e-paper-hat.htm
   - "https://www.waveshare.com/product/13.3inch-e-paper-hat.htm \"13.3inch e-Paper\
     \ e-Ink Display HAT For Raspberry Pi, 1600\xD71200, Black / White, 16 Grey Scales,\
     \ USB / SPI / I80\""
-  - https://www.waveshare.com/product/13.3inch-e-paper-hat.htm
   repositories: []
 name: 13.3inch e-Paper HAT
 ref: waveshare/13-3inch-e-paper-hat

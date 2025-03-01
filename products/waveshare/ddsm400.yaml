@@ -12,10 +12,10 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/d/ddsm400-1.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/ddsm400.htm
   - https://www.waveshare.com/product/ddsm400.htm "DDSM400 Direct Drive Servo Motor,
     Wide Speed Range Adjustable, All-In-One Design, Hub Motor, Supports Suspension
     Installation, Suitable For RC Car Robot DIY"
-  - https://www.waveshare.com/product/ddsm400.htm
   repositories: []
 name: DDSM400
 ref: waveshare/ddsm400

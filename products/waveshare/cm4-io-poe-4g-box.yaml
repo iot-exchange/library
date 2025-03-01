@@ -12,10 +12,10 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-io-poe-4g-box-1.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/cm4-io-poe-4g-box.htm
   - https://www.waveshare.com/product/cm4-io-poe-4g-box.htm "Industrial IoT Mini-Computer
     Based on Raspberry Pi Compute Module 4 (NOT Included), PoE, 5G/4G, Metal Case,
     Cooling Fan"
-  - https://www.waveshare.com/product/cm4-io-poe-4g-box.htm
   repositories: []
 name: CM4-IO-POE-4G-BOX
 ref: waveshare/cm4-io-poe-4g-box

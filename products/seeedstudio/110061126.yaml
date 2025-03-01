@@ -13,8 +13,8 @@ links:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/2/0/20190919091344.png
   models: []
   products:
-  - https://www.seeedstudio.com/Raspberry-Pi-4B-Deskstop-Kit-4GB-p-4265.html
   - https://www.seeedstudio.com/Raspberry-Pi-2246.html?bazaar4_retailer-products%5Bpage%5D=2#110061126
+  - https://www.seeedstudio.com/Raspberry-Pi-4B-Deskstop-Kit-4GB-p-4265.html
   repositories: []
 name: '110061126'
 ref: seeedstudio/110061126

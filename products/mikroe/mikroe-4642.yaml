@@ -13,8 +13,8 @@ links:
   - https://cdn1-shop.mikroe.com/img/product/mcu-card-for-stm32-stm32f746zg/mcu-card-for-stm32-stm32f746zg-home_default-1.jpg?v=100
   models: []
   products:
-  - https://www.mikroe.com/mcu-card-for-stm32-stm32f746zg
   - https://www.mikroe.com/cart?add=1&id_product=3045
+  - https://www.mikroe.com/mcu-card-for-stm32-stm32f746zg
   repositories: []
 name: MIKROE-4642
 ref: mikroe/mikroe-4642

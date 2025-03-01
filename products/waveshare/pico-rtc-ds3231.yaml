@@ -9,9 +9,9 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-rtc-ds3231-1_4.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/pico-rtc-ds3231.htm
   - https://www.waveshare.com/product/pico-rtc-ds3231.htm "Precision RTC Module for
     Raspberry Pi Pico, Onboard DS3231 Chip"
-  - https://www.waveshare.com/product/pico-rtc-ds3231.htm
   repositories: []
 name: Pico-RTC-DS3231
 ref: waveshare/pico-rtc-ds3231

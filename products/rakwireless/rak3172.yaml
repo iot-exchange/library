@@ -20,8 +20,8 @@ links:
   images: []
   models: []
   products:
-  - https://news.rakwireless.com/rak3172-wisduo-based-on-stm32wl-lora-soc/
   - https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3172-Module/Overview/
+  - https://news.rakwireless.com/rak3172-wisduo-based-on-stm32wl-lora-soc/
   repositories: []
 name: RAK3172
 ref: rakwireless/rak3172

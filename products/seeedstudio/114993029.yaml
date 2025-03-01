@@ -8,12 +8,12 @@ links:
   datasheets: []
   examples: []
   images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993029-raspberry-pi-camera-3-noir-45font.jpg
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993028-raspberry-pi-camera-3-45font.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993029-raspberry-pi-camera-3-noir-45font.jpg
   models: []
   products:
-  - https://www.seeedstudio.com/Raspberry-Pi-Camera-3-Wide-p-5576.html
   - https://www.seeedstudio.com/Raspberry-Pi-Camera-3-NoIR-p-5575.html
+  - https://www.seeedstudio.com/Raspberry-Pi-Camera-3-Wide-p-5576.html
   repositories: []
 name: '114993029'
 ref: seeedstudio/114993029

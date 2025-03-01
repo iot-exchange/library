@@ -12,9 +12,9 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-dual-eth-4g-5g-base-1_2.jpg
   models: []
   products:
+  - https://www.waveshare.com/product/cm4-dual-eth-4g-5g-base.htm
   - https://www.waveshare.com/product/cm4-dual-eth-4g-5g-base.htm "Dual Gigabit Ethernet
     5G/4G Base Board Designed for Raspberry Pi Compute Module 4"
-  - https://www.waveshare.com/product/cm4-dual-eth-4g-5g-base.htm
   repositories: []
 name: CM4-DUAL-ETH-4G/5G-BASE
 ref: waveshare/cm4-dual-eth-4g-5g-base

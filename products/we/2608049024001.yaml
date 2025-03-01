@@ -9,9 +9,9 @@ links:
   images: []
   models: []
   products:
-  - https://www.we-online.com/en/components/products/PROTEUS-I#2608049024001
   - https://www.we-online.com/components/products/manual/2608049024001_Manual Family
     Boards_rev1.5.pdf
+  - https://www.we-online.com/en/components/products/PROTEUS-I#2608049024001
   repositories: []
 name: '2608049024001'
 ref: we/2608049024001

@@ -13,8 +13,8 @@ links:
   - https://www.seeedstudio.com/img/e
   models: []
   products:
-  - https://www.seeedstudio.com/Grove-Vision-AI-Module-V2-p-5851.html
   - https://www.seeedstudio.com/Grove-Vision-AI-Module-V2-p-101021112.html
+  - https://www.seeedstudio.com/Grove-Vision-AI-Module-V2-p-5851.html
   repositories: []
 name: '101021112'
 ref: seeedstudio/101021112

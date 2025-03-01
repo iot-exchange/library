@@ -12,8 +12,8 @@ links:
   - https://cdn1-shop.mikroe.com/img/product/thyone-i-click/thyone-i-click-home_default-1.jpg?v=100
   models: []
   products:
-  - https://www.mikroe.com/thyone-i-click
   - https://www.mikroe.com/battery-source-click
+  - https://www.mikroe.com/thyone-i-click
   repositories: []
 name: MIKROE-6085
 ref: mikroe/mikroe-6085

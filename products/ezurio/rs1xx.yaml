@@ -13,8 +13,8 @@ links:
   - https://d2g2p0i8cc2bmh.cloudfront.net/2024-10/RS1xx-v3-web_02.png
   models: []
   products:
-  - https://www.ezurio.com/support/faqs/what-lorawan-class-device-the-sentrius-rs1xx-sensor-supports
   - https://www.ezurio.com/iot-devices/lorawan-iot-devices/sentrius-rs1xx-lora-enabled-sensors
+  - https://www.ezurio.com/support/faqs/what-lorawan-class-device-the-sentrius-rs1xx-sensor-supports
   repositories: []
 name: RS1xx
 ref: ezurio/rs1xx

@@ -13,8 +13,8 @@ links:
   - https://cdn1-shop.mikroe.com/img/product/necto/necto-home_default-1.jpg?v=100
   models: []
   products:
-  - https://www.mikroe.com/necto
   - https://www.mikroe.com/adac-3-click
+  - https://www.mikroe.com/necto
   repositories: []
 name: MIKROE-5228
 ref: mikroe/mikroe-5228

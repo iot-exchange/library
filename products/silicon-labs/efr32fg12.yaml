@@ -17,8 +17,8 @@ links:
   images: []
   models: []
   products:
-  - https://www.silabs.com/wireless/proprietary/efr32fg12-series-1-sub-ghz-2-4-ghz-socs
   - https://wi-sun.org/product/wsa0258-efr32fg12/
+  - https://www.silabs.com/wireless/proprietary/efr32fg12-series-1-sub-ghz-2-4-ghz-socs
   repositories: []
 name: EFR32FG12
 ref: silicon-labs/efr32fg12

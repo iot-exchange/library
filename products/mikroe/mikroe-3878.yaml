@@ -13,8 +13,8 @@ links:
   - https://cdn1-shop.mikroe.com/img/product/uart-mux-click/uart-mux-click-home_default-1.jpg?v=100
   models: []
   products:
-  - https://www.mikroe.com/uart-mux-click "UART MUX Click"
   - https://www.mikroe.com/uart-mux-click
+  - https://www.mikroe.com/uart-mux-click "UART MUX Click"
   repositories: []
 name: MIKROE-3878
 ref: mikroe/mikroe-3878

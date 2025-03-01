@@ -6,8 +6,7 @@ extra: {}
 links:
   datasheets: []
   examples: []
-  images:
-  - ./img/cz
+  images: []
   models: []
   products:
   - https://www.raspberrypi.com/products/digiamp-plus/

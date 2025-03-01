@@ -5,8 +5,7 @@ extra: {}
 links:
   datasheets: []
   examples: []
-  images:
-  - ./img/bv
+  images: []
   models: []
   products:
   - https://www.quectel.com/product/lpwa-bc680z-eu-cat-nb2/

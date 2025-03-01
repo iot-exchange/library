@@ -10,12 +10,12 @@ links:
   datasheets: []
   examples: []
   images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/2/-/2-102010448-seeed-studio-xiao-nrf52840-45font-logo.jpg
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102010469-seeed-studio-xiao-nrf52840-sense-45font-logo.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/2/-/2-102010448-seeed-studio-xiao-nrf52840-45font-logo.jpg
   models: []
   products:
-  - https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
   - https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html
+  - https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
   repositories: []
 name: '102010448'
 ref: seeedstudio/102010448

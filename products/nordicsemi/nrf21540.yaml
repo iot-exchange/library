@@ -27,9 +27,9 @@ links:
   datasheets: []
   examples: []
   images:
+  - https://www.nordicsemi.com/-/media/Images/Products/RF-FEM/nRF21-Series/nRF21540-QFN16-4x4-stacked_web.png?h=250&iar=0&mh=250&w=255&hash=9A6F1DC209D1C5FF0D2F70D1B30F3E7B
   - https://www.nordicsemi.com/-/media/Images/Products/RF-FEM/nRF21-Series/nRF21540-QFN16-4x4-stacked_web.png?h=49&iar=0&mw=50&w=50&hash=E9FE14FA3E0C35A7DC6FB37A2AD1F5E9
   - https://www.nordicsemi.com/-/media/Images/Products/RF-FEM/nRF21-Series/nRF21540-QFN16-4x4-stacked_web.png?h=500&iar=0&mh=500&w=510&hash=5724CDBC3667ECE1C1BCA464391CF00B
-  - https://www.nordicsemi.com/-/media/Images/Products/RF-FEM/nRF21-Series/nRF21540-QFN16-4x4-stacked_web.png?h=250&iar=0&mh=250&w=255&hash=9A6F1DC209D1C5FF0D2F70D1B30F3E7B
   models: []
   products:
   - https://www.nordicsemi.com/Products/nRF21540

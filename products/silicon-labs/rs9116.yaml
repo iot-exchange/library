@@ -17,9 +17,8 @@ links:
   - https://www.silabs.com/content/siliconlabs/en/wireless/wi-fi/rs9116-wi-fi-ncp-socs.thumb.256.144.png
   models: []
   products:
-  - ''
-  - https://www.silabs.com/wireless/wi-fi/rs9116-wi-fi-ncp-socs
   - https://www.silabs.com/security/secure-vault
+  - https://www.silabs.com/wireless/wi-fi/rs9116-wi-fi-ncp-socs
   repositories: []
 name: RS9116
 ref: silicon-labs/rs9116

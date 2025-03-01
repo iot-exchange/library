@@ -21,8 +21,8 @@ links:
   images: []
   models: []
   products:
-  - https://www.silabs.com/wireless/zigbee/efr32mg13-series-1-socs
   - https://www.silabs.com/wireless/zigbee/efr32mg13-series-1-modules
+  - https://www.silabs.com/wireless/zigbee/efr32mg13-series-1-socs
   repositories: []
 name: EFR32MG13
 ref: silicon-labs/efr32mg13

@@ -16,8 +16,8 @@ links:
   - https://cdn1-shop.mikroe.com/img/product/nvsram-3-click/nvsram-3-click-home_default-1.jpg?v=100
   models: []
   products:
-  - https://www.mikroe.com/nvsram-3-click
   - https://www.mikroe.com/nb-iot-5-click
+  - https://www.mikroe.com/nvsram-3-click
   repositories: []
 name: MIKROE-4472
 ref: mikroe/mikroe-4472

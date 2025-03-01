@@ -12,8 +12,8 @@ links:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/t/ots-2028-1.27-04_l_1_5.jpg
   models: []
   products:
-  - https://www.waveshare.com/product/ots-2028-1.27-04.htm
   - https://www.waveshare.com/product/ots-20-1.27-01.htm
+  - https://www.waveshare.com/product/ots-2028-1.27-04.htm
   repositories: []
 name: OTS-20(28)-1.27-04
 ref: waveshare/ots-20-28-1-27-04

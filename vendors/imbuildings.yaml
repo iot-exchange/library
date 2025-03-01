@@ -1,0 +1,18 @@
+name: IMBuildings
+description: |
+  A healthy working environment, cost control, sustainability and minimal absenteeism. Floor spaces that need to be set 
+  up in the best possible way. Significant challenges for managers and owners of buildings housing libraries, 
+  universities and offices. They need to anticipate, make better use of space and save costs, all while taking the 
+  environment into account.
+
+  IMBuildings is a sensor development company with a focus on the Smart Building market. A rapidly changing market in 
+  which smart technologies can contribute to achieving different goals. We help building owners to save energy, facility 
+  managers to reduce no-shows, HR managers to create the optimal indoor climate, and employees to choose the right 
+  meeting room.
+links:
+  logo: https://imbuildings.com/app/themes/imbuildings/public/images/logo.580342.svg
+  website: https://imbuildings.com/
+  github: https://github.com/IMBUILDINGS
+  linkedin: https://www.linkedin.com/company/imbuildings/
+  products:
+    - https://imbuildings.com/iot-devices/

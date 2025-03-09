@@ -1,0 +1,52 @@
+alternatives: []
+certifications: []
+description: "dsPIC\xAE DSC"
+extra:
+  BOR: 'No'
+  CAN-FD: None
+  Core: '1'
+  Data: 'No'
+  Max Temp: '125'
+  Max VDD: '3.6'
+  Min Temp: '-40'
+  Number of 16-bit Timers: '0'
+  Number of 32-bit PWMs: '21'
+  Number of 32-bit Timers: 0 x 8-Bit
+  Number of ADCs: '9'
+  Number of BOR: '0'
+  Number of CLCs: '0'
+  Number of Comparators: '3'
+  Number of DACs: '32'
+  Number of I2Cs: '15'
+  Number of PTG: '0.25'
+  Number of PTG ADCs: '8'
+  Number of PTG CLCs: PTG+ADC
+  Number of PTG Comparators: CLC
+  Number of PTG DACs: '4'
+  Number of PTG PWMs: '12'
+  Number of PTG Timers: '1'
+  Number of Pins: '1'
+  Number of SPIs: '3'
+  Number of UARTs: '6'
+  Number of VDD: '3'
+  PMP: 'Yes'
+  Speed: '0'
+  VDD: '5'
+  VDDIO: '12'
+  VREF: '24'
+  VSS: '12'
+  VSSIO: '6'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: '4.97'
+ref: microchip/4-97
+release_date: null
+sku: 4-97
+spec: null
+status: ''
+vendor: microchip

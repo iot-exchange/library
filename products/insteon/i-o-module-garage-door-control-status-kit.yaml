@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  reviews: '7'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/I_O_Module_-_Garage_Door_Control_Status_Kit.jpg?v=1724710507&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/io-module-garage-door-control-status-kit
+  repositories: []
+name: I/O Module - Garage Door Control & Status Kit
+ref: insteon/i-o-module-garage-door-control-status-kit
+release_date: null
+sku: i-o-module-garage-door-control-status-kit
+spec: null
+status: ''
+vendor: insteon

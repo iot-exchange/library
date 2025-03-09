@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/On_Off_Keypad_6-Button.jpg?v=1724711488&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/insteon-remote-control-on-off-keypad-6-button
+  repositories: []
+name: On/Off Keypad, 6-Button
+ref: insteon/on-off-keypad-6-button
+release_date: null
+sku: on-off-keypad-6-button
+spec: null
+status: ''
+vendor: insteon

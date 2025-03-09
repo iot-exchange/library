@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Device for receiving real-time feedback from colleagues.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://imbuildings.com/products/moodbox-lorawan/
+  repositories: []
+name: "Moodbox \u2013 LoRaWAN"
+ref: imbuildings/moodbox-lorawan
+release_date: null
+sku: moodbox-lorawan
+spec: null
+status: ''
+vendor: imbuildings

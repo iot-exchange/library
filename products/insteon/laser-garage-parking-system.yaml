@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  regular_price: $19.95
+  reviews: '2'
+  sale_price: From $7.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/files/Laser_Garage_Parking_System_front.jpg?v=1724710877&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/laser-garage-parking-system
+  repositories: []
+name: Laser Garage Parking System
+ref: insteon/laser-garage-parking-system
+release_date: null
+sku: laser-garage-parking-system
+spec: null
+status: ''
+vendor: insteon

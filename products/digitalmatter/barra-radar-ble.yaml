@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: High-accuracy 60GHz, battery-powered radar-based BLE sensor for level
+  and object detection with millimeter precision, ideal for industrial applications.
+extra:
+  Features: "Bluetooth\xAE, IP68 Rated"
+  Power: Battery-Powered
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.digitalmatter.com/wp-content/uploads/2025/01/Barra-Radar-Angle-2-1.png
+  models: []
+  products:
+  - https://www.digitalmatter.com/devices/barra-radar-ble/
+  repositories: []
+name: Barra Radar BLE
+ref: digitalmatter/barra-radar-ble
+release_date: null
+sku: barra-radar-ble
+spec: null
+status: ''
+vendor: digitalmatter

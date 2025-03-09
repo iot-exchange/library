@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Temperature sensor using NB-IoT technology.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://imbuildings.com/products/temperature-sensor-nb-iot/
+  repositories: []
+name: "Temperature Sensor \u2013 NB-IoT"
+ref: imbuildings/temperature-sensor-nb-iot
+release_date: null
+sku: temperature-sensor-nb-iot
+spec: null
+status: ''
+vendor: imbuildings

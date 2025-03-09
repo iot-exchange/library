@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: People Counting device using LoRaWAN technology.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://imbuildings.com/products/people-counter-lorawan/
+  repositories: []
+name: "People Counter \u2013 LoRaWAN"
+ref: imbuildings/people-counter-lorawan
+release_date: null
+sku: people-counter-lorawan
+spec: null
+status: ''
+vendor: imbuildings

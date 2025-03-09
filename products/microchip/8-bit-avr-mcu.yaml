@@ -1,0 +1,61 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  ADC: 'No'
+  ADC Channels: '256'
+  BOR: 'Yes'
+  EEPROM: '25'
+  EEPROM (Bytes): '4'
+  Flash Memory: '64'
+  Flash Memory (KB): '0'
+  GPIO: '0'
+  I/O Pins: '24'
+  I2C: '0'
+  LVD: 'Yes'
+  Max ADC Channels: '256'
+  Max Clock Frequency: '1.12'
+  Max Frequency: 20 MHz, 32 kHz
+  Max Frequency (MHz): '0.88'
+  Max Speed (MHz): '0'
+  "Operating Temp (\xB0C)": -40 to 85
+  "Operating Temperature (\xB0C)": -40 to 85
+  Operating Temperature Max: '85'
+  Operating Temperature Min: '-40'
+  Operating Voltage (V): 1.8 - 5.5
+  Other Attributes: 'Yes'
+  PWM: '0'
+  PWM Channels: '1'
+  Package: '0'
+  Parametric Chart Products: '3'
+  Pins: '2'
+  Programmable BOR: 'Yes'
+  Programmable LVD: 'Yes'
+  Qty: '32'
+  RAM (Bytes): '11'
+  SPI: '0'
+  SRAM: '8192'
+  SRAM (Bytes): '8192'
+  Temperature Range: -40 to 125
+  "Temperature Range (\xB0C)": -40 to 85
+  Timers: '0'
+  UART: '0'
+  USB: '0'
+  VDD (V): 1.8 to 5.5
+  VDD Max: '5.5'
+  VDD Min: '1.8'
+  Voltage Range: 1.8V to 5.5V
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: 8-bit AVR MCU
+ref: microchip/8-bit-avr-mcu
+release_date: null
+sku: 8-bit-avr-mcu
+spec: null
+status: ''
+vendor: microchip

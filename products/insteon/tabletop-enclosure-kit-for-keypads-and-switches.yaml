@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/files/White_Tabletop_Enclosure_Kit_for_Keypads_and_Switches.png?v=1724712341&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/tabletop-enclosure-kit-for-keypads-and-switches
+  repositories: []
+name: Tabletop Enclosure Kit for Keypads and Switches
+ref: insteon/tabletop-enclosure-kit-for-keypads-and-switches
+release_date: null
+sku: tabletop-enclosure-kit-for-keypads-and-switches
+spec: null
+status: ''
+vendor: insteon

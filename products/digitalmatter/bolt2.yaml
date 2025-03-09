@@ -1,0 +1,34 @@
+alternatives: []
+certifications: []
+description: Real-Time Location Tracking and History, Theft Prevention and Recovery,
+  Accident Detection, Driver ID and Behavior, Driver Fatigue, Speed Reporting, Immobilization,
+  In-Geofence Behavior.
+extra:
+  Applications: Accident Detection, Driver Behavior, Fleet Management
+  Backup Battery: 'Yes'
+  Connectivity: LTE-M and NB-IoT
+  Driver Behavior: 'Yes'
+  Driver ID: 'Yes'
+  Features: 3-Axis Accelerometer, OBDII
+  Installation: OBDII
+  Location Technologies: GNSS
+  Power: OBDII
+  Real-Time Tracking: 'Yes'
+  Remote Immobilization: 'Yes'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.digitalmatter.com/wp-content/uploads/2020/04/Bolt-OBD-Angle-final.png
+  models: []
+  products:
+  - https://www.digitalmatter.com/devices/bolt2/
+  - https://www.digitalmatter.com/overview#Bolt2
+  repositories: []
+name: Bolt2
+ref: digitalmatter/bolt2
+release_date: null
+sku: bolt2
+spec: null
+status: ''
+vendor: digitalmatter

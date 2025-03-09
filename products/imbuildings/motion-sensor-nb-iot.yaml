@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Motion sensor using NB-IoT technology.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://imbuildings.com/products/motion-sensor-nb-iot/
+  repositories: []
+name: "Motion Sensor \u2013 NB-IoT"
+ref: imbuildings/motion-sensor-nb-iot
+release_date: null
+sku: motion-sensor-nb-iot
+spec: null
+status: ''
+vendor: imbuildings

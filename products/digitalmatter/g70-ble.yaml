@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: "Ultra-rugged and robust wired GPS tracking device and Bluetooth\xAE\
+  \ gateway with I/O's, immobilization, driver ID, driver behavior"
+extra:
+  Applications: Accident Detection, Cold Chain, Driver Behavior, Driver ID, Equipment
+    Tracking, Fleet Management, In-Vehicle Alerts, Remote Immobilization, Sensor Monitoring,
+    Trailer Tracking
+  Connectivity: LTE-M (Cat-M1) / NB-IoT
+  Features: "1-Wire\xAE or iButton\xAE, 3-Axis Accelerometer, Analog Inputs, Bluetooth\xAE\
+    , Digital Inputs, Digital Outputs, IP68 Rated, Switched Power Out, Vehicle Access\
+    \ Control, Wiegand Interface"
+  Power: Wired
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.digitalmatter.com/wp-content/uploads/2020/04/G62-Angle-final.png
+  models: []
+  products:
+  - https://www.digitalmatter.com/devices/g70-ble/
+  repositories: []
+name: G70 BLE
+ref: digitalmatter/g70-ble
+release_date: null
+sku: g70-ble
+spec: null
+status: ''
+vendor: digitalmatter

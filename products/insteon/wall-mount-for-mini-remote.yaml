@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Wall_Mount_for_Mini_Remote.jpg?v=1724712453&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/wall-mount-for-mini-remote
+  repositories: []
+name: Wall Mount for Mini Remote
+ref: insteon/wall-mount-for-mini-remote
+release_date: null
+sku: wall-mount-for-mini-remote
+spec: null
+status: ''
+vendor: insteon

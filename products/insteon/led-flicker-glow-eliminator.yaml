@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  reviews: '14'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/files/LED_Flicker_Glow_Eliminator_Test_Kit.png?v=1723523020&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/led-flicker-glow-eliminator
+  repositories: []
+name: LED Flicker/Glow Eliminator
+ref: insteon/led-flicker-glow-eliminator
+release_date: null
+sku: led-flicker-glow-eliminator
+spec: null
+status: ''
+vendor: insteon

@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Accelerometer: Movement, Impact, Rotation, and Tip Detection
+  Batteries: 2 x D LTC
+  Battery Life Estimates (Movement-Based Location Updates): 9 years
+  Battery Life Estimates (Once Daily Location Updates): 10 years
+  Cloud-Based Location Solving: 'Yes'
+  Connectivity: 4G LTE Cat 1bis and 2G fallback
+  Environment: Outdoor
+  IP Rating: IP68 Rugged Waterproof
+  Location Technologies: GNSS, Cell Tower Location
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: Remora3 Bluetooth
+ref: digitalmatter/remora3-bluetooth
+release_date: null
+sku: remora3-bluetooth
+spec: null
+status: ''
+vendor: digitalmatter

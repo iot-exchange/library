@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Regular price: $7.95
+  Sale price: $7.95
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Ivory_Button_Change_Kit_for_Keypads.jpg?v=1724707131&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/button-change-kit-for-keypads
+  repositories: []
+name: Button Change Kit for Keypads
+ref: insteon/button-change-kit-for-keypads
+release_date: null
+sku: button-change-kit-for-keypads
+spec: null
+status: ''
+vendor: insteon

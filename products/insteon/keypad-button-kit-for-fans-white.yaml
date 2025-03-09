@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  reviews: '2'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/2322-382_buttons_only.png?v=1665534027&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/keypad-button-kit-for-fans-white
+  repositories: []
+name: Keypad Button Kit for Fans - White
+ref: insteon/keypad-button-kit-for-fans-white
+release_date: null
+sku: keypad-button-kit-for-fans-white
+spec: null
+status: ''
+vendor: insteon

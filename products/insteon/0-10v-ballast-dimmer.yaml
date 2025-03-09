@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/BallastDimmer-Wires.png?v=1670442913&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/0-10v-ballast-dimmer
+  repositories: []
+name: 0-10V Ballast Dimmer
+ref: insteon/0-10v-ballast-dimmer
+release_date: null
+sku: 0-10v-ballast-dimmer
+spec: null
+status: ''
+vendor: insteon

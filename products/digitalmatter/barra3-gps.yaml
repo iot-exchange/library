@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: Lowest cost with a thin form factor. Magnetic activation and tamper detection.
+extra:
+  Battery Life Estimates: 10 years (Once Daily Location Updates)
+  Connectivity: LTE-M and NB-IoT
+  Environment: Outdoor
+  Location Technologies: GNSS, Cell Tower Location
+  Size: 149 x 51 x 21 mm (5.9 x 2.0 x 0.8 in)
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: Barra3 GPS
+ref: digitalmatter/barra3-gps
+release_date: null
+sku: barra3-gps
+spec: null
+status: ''
+vendor: digitalmatter

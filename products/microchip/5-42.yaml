@@ -1,0 +1,52 @@
+alternatives: []
+certifications: []
+description: Cortex-M4F
+extra:
+  BOR: 'Yes'
+  CAN-FD: Full Speed
+  Core: '1'
+  Data: 'No'
+  Max Temp: '125'
+  Max VDD: '3.63'
+  Min Temp: '-40'
+  Number of 16-bit Timers: '0'
+  Number of 32-bit PWMs: '0'
+  Number of 32-bit Timers: 5 x 32-bit
+  Number of ADCs: '33'
+  Number of BOR: '0'
+  Number of CLCs: '16'
+  Number of Comparators: '0'
+  Number of DACs: '0'
+  Number of I2Cs: '0'
+  Number of PTG: '0'
+  Number of PTG ADCs: '0'
+  Number of PTG CLCs: '0'
+  Number of PTG Comparators: '0'
+  Number of PTG DACs: '0'
+  Number of PTG PWMs: '0'
+  Number of PTG Timers: '0'
+  Number of Pins: '2'
+  Number of SPIs: '0'
+  Number of UARTs: '6'
+  Number of VDD: '1.71'
+  PMP: 'Yes'
+  Speed: '1'
+  VDD: '2'
+  VDDIO: '12'
+  VREF: '32'
+  VSS: '12'
+  VSSIO: '2'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: '5.42'
+ref: microchip/5-42
+release_date: null
+sku: 5-42
+spec: null
+status: ''
+vendor: microchip

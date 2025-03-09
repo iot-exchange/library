@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Cortex-M0+
+extra:
+  CAN-FD: 'Yes'
+  GPIO: '16'
+  Min Voltage: '2.7'
+  Qty: '45'
+  RAM: '48'
+  Temperature Range: '-40'
+  Voltage: '5.5'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: '0.95'
+ref: microchip/0-95
+release_date: null
+sku: 0-95
+spec: null
+status: ''
+vendor: microchip

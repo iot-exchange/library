@@ -1,0 +1,35 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  ADC: N/A
+  EEPROM (Bytes): '4'
+  Flash Memory (KB): '0'
+  GPIO: '0'
+  I2C: '0'
+  LVD: 'No'
+  Max Speed (MHz): '0'
+  "Operating Temp (\xB0C)": -40 to 85
+  PWM: '0'
+  Package: '0'
+  Pins: '4'
+  Programmable BOR: 'No'
+  RAM (Bytes): '15'
+  SPI: '0'
+  Timers: '0'
+  UART: '0'
+  VDD (V): 2.7 to 5.5
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: 8-bit 8051 MCU
+ref: microchip/8-bit-8051-mcu
+release_date: null
+sku: 8-bit-8051-mcu
+spec: null
+status: ''
+vendor: microchip

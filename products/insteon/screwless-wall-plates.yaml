@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Light_Almond_Screwless_Wall_Plates.png?v=1737048065&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/insteon-screwless-wall-plates
+  repositories: []
+name: Screwless Wall Plates
+ref: insteon/screwless-wall-plates
+release_date: null
+sku: screwless-wall-plates
+spec: null
+status: ''
+vendor: insteon

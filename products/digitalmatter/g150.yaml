@@ -1,0 +1,27 @@
+alternatives: []
+certifications: []
+description: Advanced wired options for comprehensive fleet and driver management.
+extra:
+  Backup Battery: 'Yes'
+  Connectivity: 4G LTE Cat 1bis and 2G fallback
+  Driver Behavior: 'Yes'
+  Driver ID: 'Yes'
+  Installation: Wired
+  Location Technologies: GNSS
+  Real-Time Tracking: 'Yes'
+  Remote Immobilization: 'Yes'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.digitalmatter.com/overview#G150
+  repositories: []
+name: G150
+ref: digitalmatter/g150
+release_date: null
+sku: g150
+spec: null
+status: ''
+vendor: digitalmatter

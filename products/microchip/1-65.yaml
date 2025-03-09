@@ -1,0 +1,37 @@
+alternatives: []
+certifications: []
+description: "dsPIC\xAE DSC"
+extra:
+  ADC: PTG+ADC
+  CAN: 'No'
+  CAN-FD: 'No'
+  Core Size: '16'
+  Flash Memory (KB): '128'
+  GPIO: '0'
+  I2C: 'No'
+  Max Speed (MIPS): '100'
+  Min Voltage: '2'
+  "Operating Temperature (\xB0C)": -40 to 150
+  PWM: 16 - Std PWM
+  Package: 36/UQFN
+  Qty: '100'
+  RAM: '100'
+  RAM (KB): '0'
+  Temperature Range: '36'
+  UART: 3 -UART
+  VDD (V): '3.6'
+  Voltage: '1'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: '1.65'
+ref: microchip/1-65
+release_date: null
+sku: 1-65
+spec: null
+status: ''
+vendor: microchip

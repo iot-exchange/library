@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/files/Water_Leak_Detection_Alarm.jpg?v=1724712500&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/water-leak-detection-alarm
+  repositories: []
+name: Water Leak Detection Alarm
+ref: insteon/water-leak-detection-alarm
+release_date: null
+sku: water-leak-detection-alarm
+spec: null
+status: ''
+vendor: insteon

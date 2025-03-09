@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Original price: $54.95
+  Regular price: From $49.95
+  Sale price: From $49.95
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/files/White_Insteon_Smart_Dimmer_Outlet.jpg?v=1724707979&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/dimmer-outlet
+  repositories: []
+name: Dimmer Outlet
+ref: insteon/dimmer-outlet
+release_date: null
+sku: dimmer-outlet
+spec: null
+status: ''
+vendor: insteon

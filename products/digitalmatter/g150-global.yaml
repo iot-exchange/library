@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: "Robust real-time GPS tracking device and Bluetooth\xAE Gateway with\
+  \ comprehensive I/Os, and global connectivity with optional Iridium satellite coverage"
+extra:
+  Applications: Accident Detection, Cold Chain, Driver Behavior, Driver ID, Equipment
+    Tracking, Fleet Management, Global Visibility, In-Vehicle Alerts, Remote Immobilization,
+    Sensor Monitoring
+  Connectivity: 2G, 4G Cat 1bis / 2G Fallback, Iridium Satellite
+  Features: "1-Wire\xAE or iButton\xAE, 3-Axis Accelerometer, Analog Inputs, Bluetooth\xAE\
+    , Digital Inputs, Digital Outputs, IP68 Rated, RS-232 Interface, Switched Power\
+    \ Out, Vehicle Access Control, Wiegand Interface"
+  Power: Wired
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.digitalmatter.com/wp-content/uploads/2022/07/Hawk-D-Cell-Housing-Grey-Digital-Matter.png
+  models: []
+  products:
+  - https://www.digitalmatter.com/devices/g150-global/
+  repositories: []
+name: G150 Global
+ref: digitalmatter/g150-global
+release_date: null
+sku: g150-global
+spec: null
+status: ''
+vendor: digitalmatter

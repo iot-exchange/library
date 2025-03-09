@@ -1,0 +1,29 @@
+alternatives: []
+certifications: []
+description: "Robust GPS vehicle tracking device and Bluetooth\xAE gateway with inputs/outputs,\
+  \ remote immobilization for fleet management, driver ID, driver safety and behavior\
+  \ monitoring, theft recovery, and more"
+extra:
+  Applications: Accident Detection, Cold Chain, Driver Behavior, Driver ID, Equipment
+    Tracking, Fleet Management, In-Vehicle Alerts, Remote Immobilization, Sensor Monitoring
+  Connectivity: LTE-M (Cat-M1) / NB-IoT
+  Features: "1-Wire\xAE or iButton\xAE, 3-Axis Accelerometer, Analog Inputs, Bluetooth\xAE\
+    , Digital Inputs, Digital Outputs, Switched Power Out, Vehicle Access Control,\
+    \ Wiegand Interface"
+  Power: Wired
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://www.digitalmatter.com/wp-content/uploads/2020/04/Dart2-Angle-final.png
+  models: []
+  products:
+  - https://www.digitalmatter.com/devices/dart3-ble/
+  repositories: []
+name: Dart3 BLE
+ref: digitalmatter/dart3-ble
+release_date: null
+sku: dart3-ble
+spec: null
+status: ''
+vendor: digitalmatter

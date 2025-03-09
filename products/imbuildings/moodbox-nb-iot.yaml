@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Moodbox using NB-IoT technology for feedback collection.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://imbuildings.com/products/moodbox-nb-iot-2/
+  repositories: []
+name: "Moodbox \u2013 NB-IoT"
+ref: imbuildings/moodbox-nb-iot
+release_date: null
+sku: moodbox-nb-iot
+spec: null
+status: ''
+vendor: imbuildings

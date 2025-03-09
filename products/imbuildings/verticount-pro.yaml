@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: People Counting device that measures the effect of the presence of people
+  on the environment.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://imbuildings.com/products/verticount-pro/
+  repositories: []
+name: VertiCount Pro
+ref: imbuildings/verticount-pro
+release_date: null
+sku: verticount-pro
+spec: null
+status: ''
+vendor: imbuildings

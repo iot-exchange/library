@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Accelerometer: Movement, Impact, Rotation, and Tip Detection
+  Batteries: 3 x AA Lithium
+  Battery Life Estimates (Movement-Based Location Updates): 7 years
+  Battery Life Estimates (Once Daily Location Updates): 10 years
+  "Bluetooth\xAE Gateway": 'Yes'
+  Cloud-Based Location Solving: 'Yes'
+  Connectivity: LTE-M and NB-IoT
+  Environment: Indoor/Outdoor
+  Housing Size: "108 x 86 x 31 mm (4.25 x 3.39 x 1.22\u201D)"
+  IP Rating: IP68 Rugged Waterproof
+  Location Technologies: Wi-Fi Scanning, Cell Tower Location, GNSS Scanning
+  Magnet: Magnetic Activation and Tamper Detection
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: Oyster Edge
+ref: digitalmatter/oyster-edge
+release_date: null
+sku: oyster-edge
+spec: null
+status: ''
+vendor: digitalmatter

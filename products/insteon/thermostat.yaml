@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/vai-pdp-msi-2441th-800x800-1a-2019-8-27_d5e87850-1e3a-4f85-839a-89c9257e82ca.jpg?v=1660780159&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/insteon-remote-control-wall-thermostat
+  repositories: []
+name: Thermostat
+ref: insteon/thermostat
+release_date: null
+sku: thermostat
+spec: null
+status: Out of stock
+vendor: insteon

@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Temperature sensor providing real-time temperature insights.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://imbuildings.com/products/temperature-sensor-lorawan/
+  repositories: []
+name: "Temperature Sensor \u2013 LoRaWAN"
+ref: imbuildings/temperature-sensor-lorawan
+release_date: null
+sku: temperature-sensor-lorawan
+spec: null
+status: ''
+vendor: imbuildings

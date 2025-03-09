@@ -1,0 +1,67 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  16-bit: '0'
+  32-bit: 19 x 16-bit
+  32-bit Count: 9 x 32-bit
+  ADC: 'Yes'
+  ADC Channels: '3'
+  ADC Reference: '0'
+  ADC Resolution: '45'
+  BOR: 'Yes'
+  BOR Status: 'No'
+  CAN: 'Yes'
+  CAN Type: '2'
+  CAN-FD: 'Yes'
+  Comparator: '12'
+  Core: '3'
+  DAC: '3'
+  Data: '1'
+  EEPROM: '128'
+  Flash: '512'
+  Flash Memory: '512'
+  GPIO: '6'
+  I2C: '5'
+  Input Capture: '6'
+  Max Current: '3'
+  Max Voltage: '150'
+  Max Voltage Range: '3.6'
+  Min Voltage: '-40'
+  OpAmp: '2'
+  Output Compare: '15'
+  PMP: 'Yes'
+  PWM: '0'
+  PWM Channels: '3'
+  Package: '89'
+  Package Type: 64/QFN,64/TQFP
+  Pin Count: '1'
+  Pins: 80/TQFP
+  RAM: '128'
+  SPI: '12'
+  Speed: '100'
+  Temp Max: '1'
+  Temp Min: '8'
+  Temp Range: '9'
+  Temperature Range: -40 to 150
+  Timers: '3'
+  UART: '20'
+  Voltage: '3.6'
+  Vref: '16'
+  Vref Range: '0.25'
+  Vref Status: '0'
+  Vref Type: '21'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: "dsPIC\xAE DSC"
+ref: microchip/dspic-r-dsc
+release_date: null
+sku: dspic-r-dsc
+spec: null
+status: ''
+vendor: microchip

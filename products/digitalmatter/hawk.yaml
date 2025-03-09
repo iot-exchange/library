@@ -1,0 +1,26 @@
+alternatives: []
+certifications: []
+description: Robust plug-and-play IoT data logger and sensor hub designed to support
+  an extensive range of sensor integrations.
+extra:
+  Connectivity: LTE-M and NB-IoT
+  Onboard Accelerometer: 'Yes'
+  Onboard Digital Input: 1 x Digital Input with configurable pull up/pull down
+  Onboard GPS: 'Yes'
+  Power Options: Large internal rechargeable LiPo battery, external power including
+    solar, or 2 x D Cell LTC or Alkaline batteries
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://www.digitalmatter.com/overview#Hawk
+  repositories: []
+name: Hawk
+ref: digitalmatter/hawk
+release_date: null
+sku: hawk
+spec: null
+status: ''
+vendor: digitalmatter

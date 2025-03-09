@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  reviews: '5'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/vai-clp-msi-2453-222-800x800-1a-2019-8-26_6c506ddf-4731-4397-962f-32ef01d8376a.jpg?v=1660780166&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/on-off-din-rail-module
+  repositories: []
+name: On / Off DIN Rail Module
+ref: insteon/on-off-din-rail-module
+release_date: null
+sku: on-off-din-rail-module
+spec: null
+status: ''
+vendor: insteon

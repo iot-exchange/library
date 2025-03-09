@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Light_Almond_Paddle_Color_Change_Kit_for_On_Off_Switch.png?v=1724711762&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/paddle-color-change-kit-for-on-off-switch
+  repositories: []
+name: Paddle Color Change Kit for On/Off Switch
+ref: insteon/paddle-color-change-kit-for-on-off-switch
+release_date: null
+sku: paddle-color-change-kit-for-on-off-switch
+spec: null
+status: ''
+vendor: insteon

@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  reviews: '10'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Hub1-to-Hub2---Migration.png?v=1678477052&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/migration-service-from-hub-1-to-hub-2
+  repositories: []
+name: Migration Service From Hub 1 (2242-222) to Hub 2 (2245-222)
+ref: insteon/migration-service-from-hub-1-2242-222-to-hub-2-2245-222
+release_date: null
+sku: migration-service-from-hub-1-2242-222-to-hub-2-2245-222
+spec: null
+status: ''
+vendor: insteon

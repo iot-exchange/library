@@ -1,0 +1,20 @@
+alternatives: []
+certifications: []
+description: ''
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/files/Phone_Support_Session_for_Hub_2.png?v=1724711918&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/phone-support-session-for-hub-2
+  repositories: []
+name: Phone Support Session for Hub 2
+ref: insteon/phone-support-session-for-hub-2
+release_date: null
+sku: phone-support-session-for-hub-2
+spec: null
+status: ''
+vendor: insteon

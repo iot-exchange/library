@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Original price: $9.95
+  Regular price: $3.99
+  Sale price: $3.99
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/files/Dual_IR_Emitter.jpg?v=1724709307&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/dual-ir-emitter
+  repositories: []
+name: Dual IR Emitter
+ref: insteon/dual-ir-emitter
+release_date: null
+sku: dual-ir-emitter
+spec: null
+status: ''
+vendor: insteon

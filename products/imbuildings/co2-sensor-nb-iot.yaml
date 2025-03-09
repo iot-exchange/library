@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: CO2 sensor using NB-IoT technology for air quality monitoring.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://imbuildings.com/products/co2-sensor-nb-iot/
+  repositories: []
+name: "CO2 Sensor \u2013 NB-IoT"
+ref: imbuildings/co2-sensor-nb-iot
+release_date: null
+sku: co2-sensor-nb-iot
+spec: null
+status: ''
+vendor: imbuildings

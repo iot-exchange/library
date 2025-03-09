@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  reviews: '1'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/files/2243-222-front.png?v=1730403305&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/hub-pro-refurbished
+  repositories: []
+name: Hub Pro - Read Description
+ref: insteon/hub-pro-read-description
+release_date: null
+sku: hub-pro-read-description
+spec: null
+status: ''
+vendor: insteon

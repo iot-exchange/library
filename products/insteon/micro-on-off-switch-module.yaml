@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  reviews: '25'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Micro_On_Off_Switch_Module.jpg?v=1724711084&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/micro-on-off-switch-adapter
+  repositories: []
+name: Micro On/Off Switch Module
+ref: insteon/micro-on-off-switch-module
+release_date: null
+sku: micro-on-off-switch-module
+spec: null
+status: ''
+vendor: insteon

@@ -1,0 +1,23 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Original price: $14.95
+  Regular price: $6.49
+  Sale price: $6.49
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/files/20_Foot_2_Conductor_22-Gauge_AWG_Interconnect_Wire.jpg?v=1724707055&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/20-foot-2-conductor-22-gauge-awg-interconnect-wire
+  repositories: []
+name: 20 Foot 2 Conductor, 22-Gauge/AWG Interconnect Wire
+ref: insteon/20-foot-2-conductor-22-gauge-awg-interconnect-wire
+release_date: null
+sku: 20-foot-2-conductor-22-gauge-awg-interconnect-wire
+spec: null
+status: ''
+vendor: insteon

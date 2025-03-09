@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Device for displaying the count of people.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://imbuildings.com/products/display-people-counter/
+  repositories: []
+name: Display People Counter
+ref: imbuildings/display-people-counter
+release_date: null
+sku: display-people-counter
+spec: null
+status: ''
+vendor: imbuildings

@@ -1,0 +1,25 @@
+alternatives: []
+certifications: []
+description: Cortex-M0+
+extra:
+  CAN-FD: 'No'
+  GPIO: '4'
+  Min Voltage: '1.62'
+  Qty: '48'
+  RAM: '32'
+  Temperature Range: '-40'
+  Voltage: '3.63'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: '1.54'
+ref: microchip/1-54
+release_date: null
+sku: 1-54
+spec: null
+status: ''
+vendor: microchip

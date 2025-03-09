@@ -1,0 +1,22 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Regular price: $79.95
+  Sale price: $79.95
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Dimmer_DIN_Rail_Module.jpg?v=1724707648&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/dimmer-din-rail-module
+  repositories: []
+name: Dimmer DIN Rail Module
+ref: insteon/dimmer-din-rail-module
+release_date: null
+sku: dimmer-din-rail-module
+spec: null
+status: ''
+vendor: insteon

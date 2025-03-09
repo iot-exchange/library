@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: "dsPIC\xAE DSC"
+extra:
+  ADC: PTG+ADC
+  CAN: 'No'
+  Core Size: '32'
+  Flash Memory (KB): '256'
+  I2C: 1-I2C
+  Max Speed (MIPS): '100'
+  "Operating Temperature (\xB0C)": -40 to 150
+  PWM: 16 - Std PWM
+  Package: 28/SSOP 28/UQFN
+  RAM (KB): '0'
+  UART: 3-UART
+  VDD (V): '3.6'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: '1.70'
+ref: microchip/1-70
+release_date: null
+sku: 1-70
+spec: null
+status: ''
+vendor: microchip

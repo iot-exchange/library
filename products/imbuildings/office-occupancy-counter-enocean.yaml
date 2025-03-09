@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Occupancy Counter for offices using EnOcean technology.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://imbuildings.com/products/office-occupancy-counter-enocean/
+  repositories: []
+name: "Office Occupancy Counter \u2013 EnOcean"
+ref: imbuildings/office-occupancy-counter-enocean
+release_date: null
+sku: office-occupancy-counter-enocean
+spec: null
+status: ''
+vendor: imbuildings

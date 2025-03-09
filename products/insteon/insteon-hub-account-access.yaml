@@ -2,8 +2,9 @@ alternatives: []
 certifications: []
 description: ''
 extra:
-  Regular price: From $39.95
-  Sale price: From $39.95
+  regular_price: $79.90
+  reviews: '2'
+  sale_price: From $39.95
 links:
   datasheets: []
   examples: []

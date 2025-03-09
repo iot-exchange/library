@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: People Counting device using NB-IoT technology.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://imbuildings.com/products/people-counter-nb-iot/
+  repositories: []
+name: "People Counter \u2013 NB-IoT"
+ref: imbuildings/people-counter-nb-iot
+release_date: null
+sku: people-counter-nb-iot
+spec: null
+status: ''
+vendor: imbuildings

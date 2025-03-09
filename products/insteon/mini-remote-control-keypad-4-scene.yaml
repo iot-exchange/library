@@ -1,0 +1,21 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  reviews: '9'
+links:
+  datasheets: []
+  examples: []
+  images:
+  - https://shop.insteon.com/cdn/shop/products/mini_remote_4-button_front.jpg?v=1660780141&width=533
+  models: []
+  products:
+  - https://shop.insteon.com/products/mini-remote-control-keypad-4-scene
+  repositories: []
+name: Mini Remote Control Keypad, 4-Scene
+ref: insteon/mini-remote-control-keypad-4-scene
+release_date: null
+sku: mini-remote-control-keypad-4-scene
+spec: null
+status: ''
+vendor: insteon

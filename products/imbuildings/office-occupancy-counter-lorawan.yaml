@@ -1,0 +1,19 @@
+alternatives: []
+certifications: []
+description: Occupancy Counter for offices using LoRaWAN technology.
+extra: {}
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products:
+  - https://imbuildings.com/products/office-occupancy-counter-lorawan/
+  repositories: []
+name: "Office Occupancy Counter \u2013 LoRaWAN"
+ref: imbuildings/office-occupancy-counter-lorawan
+release_date: null
+sku: office-occupancy-counter-lorawan
+spec: null
+status: ''
+vendor: imbuildings

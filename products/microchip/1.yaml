@@ -1,0 +1,71 @@
+alternatives: []
+certifications: []
+description: ''
+extra:
+  Attribute1: '99'
+  Attribute10: CAN-FD
+  Attribute11: Full Speed
+  Attribute12: '1'
+  Attribute13: '1'
+  Attribute14: 10/100 Base-TX Mac
+  Attribute15: 'No'
+  Attribute16: 'Yes'
+  Attribute17: '2'
+  Attribute18: '12'
+  Attribute19: '32'
+  Attribute2: '128'
+  Attribute20: '2'
+  Attribute21: '12'
+  Attribute22: '2'
+  Attribute23: '2'
+  Attribute24: '0'
+  Attribute25: '0'
+  Attribute26: 13 x 8-bit
+  Attribute27: 5 x 32-bit
+  Attribute28: '0'
+  Attribute29: '33'
+  Attribute3: 128/TQFP
+  Attribute30: '0'
+  Attribute31: '32'
+  Attribute32: '0'
+  Attribute33: '0'
+  Attribute34: '16'
+  Attribute35: '0'
+  Attribute36: '0'
+  Attribute37: '17'
+  Attribute38: '32'
+  Attribute39: CCL
+  Attribute4: '8'
+  Attribute40: '1'
+  Attribute41: PTC
+  Attribute42: 'No'
+  Attribute43: '0'
+  Attribute44: 'No'
+  Attribute45: 'Yes'
+  Attribute46: 'Yes'
+  Attribute47: BOR
+  Attribute48: 'Yes'
+  Attribute49: '0'
+  Attribute5: '8'
+  Attribute50: '125'
+  Attribute51: '-40'
+  Attribute52: '3.63'
+  Attribute53: '1.71'
+  Attribute6: '1'
+  Attribute7: '8'
+  Attribute8: 'Yes'
+  Attribute9: '2'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: '1'
+ref: microchip/1
+release_date: null
+sku: '1'
+spec: null
+status: ''
+vendor: microchip

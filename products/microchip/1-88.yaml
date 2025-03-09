@@ -1,0 +1,30 @@
+alternatives: []
+certifications: []
+description: "dsPIC\xAE DSC"
+extra:
+  ADC: PTG+ADC
+  CAN: 'No'
+  Core Size: '16'
+  Flash Memory (KB): '128'
+  I2C: '1'
+  Max Speed (MIPS): '100'
+  "Operating Temperature (\xB0C)": -40 to 150
+  PWM: 16 - Std PWM
+  Package: 64/QFN 64/TQFP
+  RAM (KB): '0'
+  UART: 3 -UART
+  VDD (V): '3.6'
+links:
+  datasheets: []
+  examples: []
+  images: []
+  models: []
+  products: []
+  repositories: []
+name: '1.88'
+ref: microchip/1-88
+release_date: null
+sku: 1-88
+spec: null
+status: ''
+vendor: microchip

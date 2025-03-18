@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '101990760'
+ref: seeedstudio/101990760
+vendor: seeedstudio
+sku: '101990760'
+name: '101990760'
 description: Industrial-Grade Optical Rain Gauge RG-9 detects the size of raindrops
   and provides information on rain intensity to the users. It features easy-installation
   and maintenance-free, suitable for applications in weather and climate studies,
   hydrological network monitoring, agriculture, and other scenarios that need monitoring
   rainfall.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/0/0/0000_front-05.png
-  models: []
   products:
   - https://www.seeedstudio.com/Rain-Gauge-RG-9-p-4744.html
-  repositories: []
-name: '101990760'
-ref: seeedstudio/101990760
-release_date: null
-sku: '101990760'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/0/0/0000_front-05.png

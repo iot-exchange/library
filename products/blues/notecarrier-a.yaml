@@ -1,0 +1,24 @@
+id: notecarrier-a
+ref: blues/notecarrier-a
+vendor: blues
+sku: notecarrier-a
+name: Notecarrier A
+description: Onboard cellular/Wi-Fi and GPS antennas, Two Qwiic ports for connecting
+  I2C peripherals, JST Connectors for V+, LiPo, and Solar power. This product requires
+  a Notecard.
+status: ''
+extra:
+  Antenna: Embedded Antennas
+  Compatibility: Any MCU
+  Connection: Micro USB
+  Dimensions: 68mm x 75mm
+  Ports: Two Qwiic I2C Ports
+  Power: LiPo/Solar/V+
+  SIM Socket: External Nano-SIM Socket for Additional Carriers
+links:
+  products:
+  - https://blues.com/products/notecarrier/notecarrier-a/
+  - https://dev.blues.io/hardware/notecarrier-datasheet/notecarrier-a/?__hstc=171785791.41e0a2aa6e680b06cebdc71f5c4ca7ed.1742303092656.1742303092656.1742303092656.1&__hssc=171785791.4.1742303092656&__hsfp=2702779587
+  images:
+  - https://blues.com/wp-content/uploads/2022/06/notecarrier_a-resize.png
+  - https://blues.com/wp-content/uploads/2022/06/notecarrier_a_no_dimension.png

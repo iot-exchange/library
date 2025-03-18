@@ -1,18 +1,11 @@
-alternatives: []
-certifications: []
+id: dsrc-modem
+ref: nxp/dsrc-modem
+vendor: nxp
+sku: dsrc-modem
+name: DSRC-MODEM
 description: DSRC Safety Modem
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: DSRC-MODEM
-ref: nxp/dsrc-modem
-release_date: null
-sku: dsrc-modem
-spec: null
-status: ''
-vendor: nxp
+  images: []

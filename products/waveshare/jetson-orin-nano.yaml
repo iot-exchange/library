@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: jetson-orin-nano
+ref: waveshare/jetson-orin-nano
+vendor: waveshare
+sku: jetson-orin-nano
+name: jetson_orin_nano
 description: N-VIDIA Jetson Orin Nano AI Development Module, System-on-Module, NANO
   Size, Options for Memory
+status: ''
 extra:
   Multi Options: ''
   Price: $259.99 -  $379.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-orin-nano-4gb-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/jetson-orin-nano.htm
-  repositories: []
-name: jetson_orin_nano
-ref: waveshare/jetson-orin-nano
-release_date: null
-sku: jetson-orin-nano
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-orin-nano-4gb-1.jpg

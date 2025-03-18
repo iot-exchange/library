@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '113991034'
+ref: seeedstudio/113991034
+vendor: seeedstudio
+sku: '113991034'
+name: '113991034'
 description: JNCRadio VNA 3G is a portable Vector Network Analyzer with a frequency
   range of 50KHz - 3GHz designed with the 4.3-inch full touching screen in the all
   aluminium alloy case. With the performance of 70dB dynamic range for S21 and 50dB
   dynamic range for S11, it is very suitable for field measurement.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/3/1/318020693__1_3.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/JNCRADIO-VNA-3G-p-5280.html
-  repositories: []
-name: '113991034'
-ref: seeedstudio/113991034
-release_date: null
-sku: '113991034'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/3/1/318020693__1_3.jpg

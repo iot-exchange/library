@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: usb-avrisp-ch
+ref: waveshare/usb-avrisp-ch
+vendor: waveshare
+sku: usb-avrisp-ch
+name: USB AVRISP CH
 description: USB AVRISP CH, AVR Programmer
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-avrisp-ch-1.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-avrisp-ch-4.jpg
-  models: []
   products:
   - https://www.waveshare.com/usb-avrisp-ch.htm
   - https://www.waveshare.com/usb-avrisp-ch.htm "USB AVRISP CH, AVR Programmer"
-  repositories: []
-name: USB AVRISP CH
-ref: waveshare/usb-avrisp-ch
-release_date: null
-sku: usb-avrisp-ch
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-avrisp-ch-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-avrisp-ch-4.jpg

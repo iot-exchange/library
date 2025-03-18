@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5283
+ref: mikroe/mikroe-5283
+vendor: mikroe
+sku: mikroe-5283
+name: MIKROE-5283
 description: "GNSS L1/L5 Active External Antenna (YB0017AA) is an active patch antenna\
   \ from Quectel optimized for GNSS L1/L5, BD B1/B2, GLONASS L1 that provides superior\
   \ performance when coupled with a RTK Rover Click board\u2122. The antenna is designed\
   \ to work with various ground plane sizes or in free space, and is connected to\
   \ the device by a cable and SMA male..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gnss-l1l5-active-external-antenna/gnss-l1l5-active-external-antenna-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/gnss-l1l5-active-external-antenna
-  repositories: []
-name: MIKROE-5283
-ref: mikroe/mikroe-5283
-release_date: null
-sku: mikroe-5283
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gnss-l1l5-active-external-antenna/gnss-l1l5-active-external-antenna-home_default-1.jpg?v=100

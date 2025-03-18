@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-6008
+ref: mikroe/mikroe-6008
+vendor: mikroe
+sku: mikroe-6008
+name: MIKROE-6008
 description: NeoMesh 2 Click is a compact add-on board with a low-power, long-range
   transceiver, ideal for Mesh wireless networking. This board features the NC2400,
   a wireless Mesh network module from NeoCortec.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/neomesh-2-click/neomesh-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/neomesh-2-click
-  repositories: []
-name: MIKROE-6008
-ref: mikroe/mikroe-6008
-release_date: null
-sku: mikroe-6008
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/neomesh-2-click/neomesh-2-click-home_default-1.jpg?v=100

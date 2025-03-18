@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-development-kit-for-compute-module-5
+ref: raspberrypi/raspberry-pi-development-kit-for-compute-module-5
+vendor: raspberrypi
+sku: raspberry-pi-development-kit-for-compute-module-5
+name: Raspberry Pi Development Kit for Compute Module 5
 description: An ideal environment for prototyping embedded solutions.
+status: ''
 extra:
   price: $130
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/65da3895d00a5e61fa947a1958c8ef5b/3f4ea/Z0YBPJbqstJ97yhQ_Kitbox.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/cm5-dev-kit/
-  repositories: []
-name: Raspberry Pi Development Kit for Compute Module 5
-ref: raspberrypi/raspberry-pi-development-kit-for-compute-module-5
-release_date: null
-sku: raspberry-pi-development-kit-for-compute-module-5
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/65da3895d00a5e61fa947a1958c8ef5b/3f4ea/Z0YBPJbqstJ97yhQ_Kitbox.jpg

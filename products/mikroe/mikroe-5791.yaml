@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: mikroe-5791
+ref: mikroe/mikroe-5791
+vendor: mikroe
+sku: mikroe-5791
+name: MIKROE-5791
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.mikroe.com/usb-c-sink-3-click
-  repositories: []
-name: MIKROE-5791
-ref: mikroe/mikroe-5791
-release_date: null
-sku: mikroe-5791
-spec: null
-status: ''
-vendor: mikroe
+  images: []

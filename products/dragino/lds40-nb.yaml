@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: lds40-nb
+ref: dragino/lds40-nb
+vendor: dragino
+sku: lds40-nb
+name: LDS40-NB
 description: NB-IoT LiDAR ToF Distance Sensor
+status: ''
 extra:
   Battery: 8500mAh Battery for long term use
   Distance Range: 0.1m ~ 40m @ 90% Reflectivity; 0.1m ~ 13.5m @ 10% Reflectivity
   NB-IoT Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85 @H-FDD
   Power Consumption: Ultra-low
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/9962afd4d7801adbe96e49a2f2eab69f_L.jpg
-  models: []
   products:
   - https://dragino.com/products/distance-level-sensor/item/310-lds40-nb.html
-  repositories: []
-name: LDS40-NB
-ref: dragino/lds40-nb
-release_date: null
-sku: lds40-nb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/9962afd4d7801adbe96e49a2f2eab69f_L.jpg

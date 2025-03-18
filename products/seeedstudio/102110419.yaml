@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '102110419'
+ref: seeedstudio/102110419
+vendor: seeedstudio
+sku: '102110419'
+name: '102110419'
 description: Realtek RTL8720DN is a Wifi and Bluetooth module that has dual bands
   for wifi communication. It is worth saying that this little module can support Wifi
   5G and Bluetooth Low Energy 5.0 as well.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/0/0/0072.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Realtek8720DN-2-4G-5G-Dual-Bands-Wireless-and-BLE5-0-Combo-Module-p-4442.html
-  repositories: []
-name: '102110419'
-ref: seeedstudio/102110419
-release_date: null
-sku: '102110419'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/0/0/0072.jpg

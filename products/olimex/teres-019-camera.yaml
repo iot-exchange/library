@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-019-camera
+ref: olimex/teres-019-camera
+vendor: olimex
+sku: teres-019-camera
+name: TERES-019-Camera
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-019-Camera/images/thumbs/200x150/TERES-019-Camera.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-019-Camera/
-  repositories: []
-name: TERES-019-Camera
-ref: olimex/teres-019-camera
-release_date: null
-sku: teres-019-camera
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-019-Camera/images/thumbs/200x150/TERES-019-Camera.jpg

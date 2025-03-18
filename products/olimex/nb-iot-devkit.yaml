@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: nb-iot-devkit
+ref: olimex/nb-iot-devkit
+vendor: olimex
+sku: nb-iot-devkit
+name: NB-IoT-DevKit
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/NB-IoT/NB-IoT-DevKit/images/thumbs/200x150/NB-IoT-DevKit-ANT.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/NB-IoT/NB-IoT-DevKit/open-source-hardware
-  repositories: []
-name: NB-IoT-DevKit
-ref: olimex/nb-iot-devkit
-release_date: null
-sku: nb-iot-devkit
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/NB-IoT/NB-IoT-DevKit/images/thumbs/200x150/NB-IoT-DevKit-ANT.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '109990405'
+ref: seeedstudio/109990405
+vendor: seeedstudio
+sku: '109990405'
+name: '109990405'
 description: OBD-II CAN Bus GPS Development Kit
+status: OUT OF STOCK
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/2/_/2_1_6.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/OBD-II-CAN-Bus-GPS-Development-Kit-p-2868.html
-  repositories: []
-name: '109990405'
-ref: seeedstudio/109990405
-release_date: null
-sku: '109990405'
-spec: null
-status: OUT OF STOCK
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/2/_/2_1_6.jpg

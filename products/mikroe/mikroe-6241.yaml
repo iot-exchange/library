@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6241
+ref: mikroe/mikroe-6241
+vendor: mikroe
+sku: mikroe-6241
+name: MIKROE-6241
 description: "Temp&Hum 25 Click is a compact add-on board designed for precise temperature\
   \ and humidity monitoring. This board features the SHT33-DIS-B2.5KS, a high-reliability,\
   \ third-generation relative humidity and temperature sensor from Sensirion. This\
   \ sensor offers exceptional accuracy and reliability, with a range of 0-100% RH\
   \ and -40 to +125\xB0C, and features..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/temphum-25-click/temphum-25-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/temphum-25-click
-  repositories: []
-name: MIKROE-6241
-ref: mikroe/mikroe-6241
-release_date: null
-sku: mikroe-6241
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/temphum-25-click/temphum-25-click-home_default-1.jpg?v=100

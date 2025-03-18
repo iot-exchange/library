@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-wifi-esp8266-boxed
+ref: olimex/mod-wifi-esp8266-boxed
+vendor: olimex
+sku: mod-wifi-esp8266-boxed
+name: MOD-WIFI-ESP8266-BOXED
 description: ''
+status: ''
 extra:
   price1: 5.45 EUR
   price2: 5.18 EUR
   price3: 4.91 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/ESP8266/MOD-WIFI-ESP8266/images/thumbs/200x150/8266-w.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/ESP8266/MOD-WIFI-ESP8266-BOXED/open-source-hardware
-  repositories: []
-name: MOD-WIFI-ESP8266-BOXED
-ref: olimex/mod-wifi-esp8266-boxed
-release_date: null
-sku: mod-wifi-esp8266-boxed
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/ESP8266/MOD-WIFI-ESP8266/images/thumbs/200x150/8266-w.jpg

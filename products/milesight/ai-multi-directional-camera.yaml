@@ -1,0 +1,12 @@
+id: ai-multi-directional-camera
+ref: milesight/ai-multi-directional-camera
+vendor: milesight
+sku: ai-multi-directional-camera
+name: AI Multi-directional Camera
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/security/product/ai-multi-sensor-multi-directional-camera
+  images: []

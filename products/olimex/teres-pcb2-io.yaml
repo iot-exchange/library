@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-pcb2-io
+ref: olimex/teres-pcb2-io
+vendor: olimex
+sku: teres-pcb2-io
+name: TERES-PCB2-IO
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-PCB2-IO/images/thumbs/200x150/TERES-PCB2-IO.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-PCB2-IO/
-  repositories: []
-name: TERES-PCB2-IO
-ref: olimex/teres-pcb2-io
-release_date: null
-sku: teres-pcb2-io
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-PCB2-IO/images/thumbs/200x150/TERES-PCB2-IO.jpg

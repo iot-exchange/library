@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: srm930l
+ref: meig-smart/srm930l
+vendor: meig-smart
+sku: srm930l
+name: SRM930L
 description: Multi-mode 5G/LTE Smart Module Support Wi-Fi 6E,L1+L5 GPS More
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://en.meigsmart.com/userfiles/images/2023/07/05/2023070513576930.png
-  models: []
   products:
   - https://en.meigsmart.com/productdetail/5gsmartmodules930L.html
-  repositories: []
-name: SRM930L
-ref: meig-smart/srm930l
-release_date: null
-sku: srm930l
-spec: null
-status: ''
-vendor: meig-smart
+  images:
+  - https://en.meigsmart.com/userfiles/images/2023/07/05/2023070513576930.png

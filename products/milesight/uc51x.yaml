@@ -1,0 +1,13 @@
+id: uc51x
+ref: milesight/uc51x
+vendor: milesight
+sku: uc51x
+name: UC51x
+description: "LoRaWAN\xAE Solenoid Valve Controller"
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/iot-controller/uc51x
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/control/solenoid-valve-controller.png?t=1742198585390

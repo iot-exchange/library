@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sm-17hs4023
+ref: olimex/sm-17hs4023
+vendor: olimex
+sku: sm-17hs4023
+name: SM-17HS4023
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/StepperMotors/SM-17HS4023/images/thumbs/200x150/SM-17HS4023-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/StepperMotors/SM-17HS4023/
-  repositories: []
-name: SM-17HS4023
-ref: olimex/sm-17hs4023
-release_date: null
-sku: sm-17hs4023
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/StepperMotors/SM-17HS4023/images/thumbs/200x150/SM-17HS4023-1.jpg

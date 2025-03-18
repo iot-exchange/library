@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 1-3inch-oled-module-c
+ref: waveshare/1-3inch-oled-module-c
+vendor: waveshare
+sku: 1-3inch-oled-module-c
+name: 1.3inch OLED Module (C)
 description: "64\xD7128, General 1.3inch OLED Display Module"
+status: ''
 extra:
   Price: $7.31 - $7.99
   SKU: '18179'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.3inch-oled-module-c-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/1.3inch-oled-module-c.htm
-  repositories: []
-name: 1.3inch OLED Module (C)
-ref: waveshare/1-3inch-oled-module-c
-release_date: null
-sku: 1-3inch-oled-module-c
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.3inch-oled-module-c-1.jpg

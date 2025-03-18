@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: crystal-filters
+ref: murata/crystal-filters
+vendor: murata
+sku: crystal-filters
+name: Crystal Filters
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/search/productsearch?cate=cgsubCrystalFilters
-  repositories: []
-name: Crystal Filters
-ref: murata/crystal-filters
-release_date: null
-sku: crystal-filters
-spec: null
-status: ''
-vendor: murata
+  images: []

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: rp2040-lcd-0-99-b
+ref: waveshare/rp2040-lcd-0-99-b
+vendor: waveshare
+sku: rp2040-lcd-0-99-b
+name: RP2040-LCD-0.99-B
 description: RP2040 MCU Board, With 0.99inch Round LCD, Accelerometer And Gyroscope
   Sensor, With CNC Metal Case
+status: ''
 extra:
   Price: $16.31 - $16.99
   SKU: '26372'
   price: $16.31 - $16.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-lcd-0.99-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rp2040-lcd-0.99-b.htm
-  repositories: []
-name: RP2040-LCD-0.99-B
-ref: waveshare/rp2040-lcd-0-99-b
-release_date: null
-sku: rp2040-lcd-0-99-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-lcd-0.99-b-1.jpg

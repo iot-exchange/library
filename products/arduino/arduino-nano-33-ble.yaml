@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: arduino-nano-33-ble
+ref: arduino/arduino-nano-33-ble
+vendor: arduino
+sku: arduino-nano-33-ble
+name: Arduino Nano 33 BLE
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.arduino.cc/wiki/static/ce3ddce537c30bacaa76b0d77f49d626/4b190/nano-ble.jpg
-  models: []
   products:
   - https://store.arduino.cc/products/arduino-nano-33-ble
-  repositories: []
-name: Arduino Nano 33 BLE
-ref: arduino/arduino-nano-33-ble
-release_date: null
-sku: arduino-nano-33-ble
-spec: null
-status: ''
-vendor: arduino
+  images:
+  - https://www.arduino.cc/wiki/static/ce3ddce537c30bacaa76b0d77f49d626/4b190/nano-ble.jpg

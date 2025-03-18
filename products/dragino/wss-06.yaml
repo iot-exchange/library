@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: wss-06
+ref: dragino/wss-06
+vendor: dragino
+sku: wss-06
+name: WSS-06
 description: "RS485 Total Solar Radiation sensorMeasure Total Radiation between 0.3\uFF5E\
   3\u03BCm\uFF08300\uFF5E3000nm\uFF09"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/cef8e7ed10ffa07bd8535ec35e230013_L.jpg
-  models: []
   products:
   - https://dragino.com/products/agriculture-weather-station/item/219-wss-06.html
-  repositories: []
-name: WSS-06
-ref: dragino/wss-06
-release_date: null
-sku: wss-06
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/cef8e7ed10ffa07bd8535ec35e230013_L.jpg

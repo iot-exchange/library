@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: sc171
+ref: fibocom/sc171
+vendor: fibocom
+sku: sc171
+name: SC171
 description: 5G smart module designed for the China region with specific band support.
+status: ''
 extra:
   Bands: '5G Sub-6: n41/78/79(SA&NSA), n1/3/5/8/28(only SA)'
   Form Factor: LGA
   Region: China
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/5GSmartModule-SC171.html
-  repositories: []
-name: SC171
-ref: fibocom/sc171
-release_date: null
-sku: sc171
-spec: null
-status: ''
-vendor: fibocom
+  images: []

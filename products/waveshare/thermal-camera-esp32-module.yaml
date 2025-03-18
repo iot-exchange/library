@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: thermal-camera-esp32-module
+ref: waveshare/thermal-camera-esp32-module
+vendor: waveshare
+sku: thermal-camera-esp32-module
+name: Thermal Camera ESP32 Module
 description: "ESP32-S3 IR Thermal Imaging Camera Module, Type-C Port, 80\xD762 Pixels,\
   \ Options for 45\xB0 / 90\xB0 FOV"
+status: ''
 extra:
   Price: $86.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/h/thermal-45-camera-esp32-module-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/thermal-45-camera-esp32-module.htm
-  repositories: []
-name: Thermal Camera ESP32 Module
-ref: waveshare/thermal-camera-esp32-module
-release_date: null
-sku: thermal-camera-esp32-module
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/h/thermal-45-camera-esp32-module-1.jpg

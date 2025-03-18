@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: '2603011121000'
+ref: we/2603011121000
+vendor: we
+sku: '2603011121000'
+name: '2603011121000'
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/TRITON#2603011121000
-  repositories: []
-name: '2603011121000'
-ref: we/2603011121000
-release_date: null
-sku: '2603011121000'
-spec: null
-status: ''
-vendor: we
+  images: []

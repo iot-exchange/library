@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: arduino-4-relays-shield
+ref: arduino/arduino-4-relays-shield
+vendor: arduino
+sku: arduino-4-relays-shield
+name: Arduino 4 Relays Shield
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.arduino.cc/wiki/static/3b29fb10564424ba32d223c556e6c48a/41099/4-relay-shield.jpg
-  models: []
   products:
   - https://store.arduino.cc/products/arduino-4-relays-shield
-  repositories: []
-name: Arduino 4 Relays Shield
-ref: arduino/arduino-4-relays-shield
-release_date: null
-sku: arduino-4-relays-shield
-spec: null
-status: ''
-vendor: arduino
+  images:
+  - https://www.arduino.cc/wiki/static/3b29fb10564424ba32d223c556e6c48a/41099/4-relay-shield.jpg

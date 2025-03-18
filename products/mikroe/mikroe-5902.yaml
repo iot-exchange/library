@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5902
+ref: mikroe/mikroe-5902
+vendor: mikroe
+sku: mikroe-5902
+name: MIKROE-5902
 description: GNSS 11 Click is a compact add-on board that provides fast positioning
   capability. This board features the EVA-M8M, a concurrent GNSS module from u-blox.
   The module provides a reception of GPS, GLONASS, Galileo, QZSS, SBAS, and BeiDou.
   It delivers high sensitivity and minimal acquisition times, with concurrent reception
   of up to three GNSS, achieved by a...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gnss-11-click/gnss-11-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/gnss-11-click
-  repositories: []
-name: MIKROE-5902
-ref: mikroe/mikroe-5902
-release_date: null
-sku: mikroe-5902
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gnss-11-click/gnss-11-click-home_default-1.jpg?v=100

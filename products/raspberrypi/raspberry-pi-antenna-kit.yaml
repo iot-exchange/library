@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-antenna-kit
+ref: raspberrypi/raspberry-pi-antenna-kit
+vendor: raspberrypi
+sku: raspberry-pi-antenna-kit
+name: Raspberry Pi Antenna Kit
 description: Certified for use with Raspberry Pi Compute Module 4 and 5
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/98b2722d2fdbf42f2789601e1032bb0a/3f4ea/6aebb638-e088-4b28-bbfd-67eae784ca3b_PI_5_FEATURE.jpgb
-  models: []
   products:
   - https://www.raspberrypi.com/products/compute-module-4-antenna-kit/
-  repositories: []
-name: Raspberry Pi Antenna Kit
-ref: raspberrypi/raspberry-pi-antenna-kit
-release_date: null
-sku: raspberry-pi-antenna-kit
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/98b2722d2fdbf42f2789601e1032bb0a/3f4ea/6aebb638-e088-4b28-bbfd-67eae784ca3b_PI_5_FEATURE.jpgb

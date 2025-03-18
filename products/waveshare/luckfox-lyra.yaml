@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: luckfox-lyra
+ref: waveshare/luckfox-lyra
+vendor: waveshare
+sku: luckfox-lyra
+name: Luckfox Lyra
 description: Luckfox Lyra RK3506G2 Linux Micro Development Board, Integrates Tripe-core
   ARM Cortex-A7 and ARM Cortex-M0 Processors
+status: ''
 extra:
   Multi Options: ''
   Price: $9.99 -  $69.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/u/luckfox-lyra-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/luckfox-lyra.htm
-  repositories: []
-name: Luckfox Lyra
-ref: waveshare/luckfox-lyra
-release_date: null
-sku: luckfox-lyra
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/u/luckfox-lyra-1.jpg

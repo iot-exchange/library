@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-pico-1-series
+ref: raspberrypi/raspberry-pi-pico-1-series
+vendor: raspberrypi
+sku: raspberry-pi-pico-1-series
+name: Raspberry Pi Pico 1 series
 description: A range of powerful, flexible microcontroller boards.
+status: ''
 extra:
   price: $4
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/d57444dbea8fc9dd0ff4dd5e4d6760bc/3f4ea/de8955bf-3a15-4469-9fe9-6959880e123d_ALL%2BPICOS.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/raspberry-pi-pico/
-  repositories: []
-name: Raspberry Pi Pico 1 series
-ref: raspberrypi/raspberry-pi-pico-1-series
-release_date: null
-sku: raspberry-pi-pico-1-series
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/d57444dbea8fc9dd0ff4dd5e4d6760bc/3f4ea/de8955bf-3a15-4469-9fe9-6959880e123d_ALL%2BPICOS.jpg

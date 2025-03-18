@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: h3
+ref: olimex/h3
+vendor: olimex
+sku: h3
+name: H3
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/IC/H3/images/thumbs/200x150/H3.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/IC/H3/
-  repositories: []
-name: H3
-ref: olimex/h3
-release_date: null
-sku: h3
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/IC/H3/images/thumbs/200x150/H3.jpg

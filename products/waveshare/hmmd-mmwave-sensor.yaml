@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: hmmd-mmwave-sensor
+ref: waveshare/hmmd-mmwave-sensor
+vendor: waveshare
+sku: hmmd-mmwave-sensor
+name: HMMD-mmWave-Sensor
 description: Human Micro-Motion Detection mmWave Sensor, 24GHz mmWave Radar, Based
   On S3KM1110, Adopts FMCW Technology
+status: ''
 extra:
   Price: $2.82 - $2.99
   SKU: '26536'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/h/m/hmmd-mmwave-sensor-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/hmmd-mmwave-sensor.htm
-  repositories: []
-name: HMMD-mmWave-Sensor
-ref: waveshare/hmmd-mmwave-sensor
-release_date: null
-sku: hmmd-mmwave-sensor
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/h/m/hmmd-mmwave-sensor-1.jpg

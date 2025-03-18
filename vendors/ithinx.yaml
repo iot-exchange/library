@@ -1,0 +1,21 @@
+name: ithinx GmbH
+description: |
+  At ithinx, we combine over 100 years of company tradition with the innovative strength of a young company. 
+  As a subsidiary of the international Viessmann Climate Solutions, we develop connectivity solutions in agile teams 
+  in Cologne and Duisburg and combine individual IoT solutions with the experience of successful and proven series 
+  systems. This makes us a creative part of our customers’ digital transformation.
+
+  Founded in May 2016, we are active in Cologne and Duisburg.
+
+  Viessmann Climate Solutions, in turn, is part of Carrier Global Corporation, the leading provider of healthy, safe, 
+  sustainable and intelligent building and cold chain solutions.
+links:
+  logo: https://www.ithinx.io/app/themes/friendventure-ithinx/dist/assets/icons/favicon/apple-touch-icon-86dcd6c0c8.png
+  website: https://www.ithinx.io/
+  linkedin: https://www.linkedin.com/company/i-thinx/
+  products:
+    - https://www.ithinx.io/en/iconnect-lite-gateway/
+    - https://www.ithinx.io/en/ixpro-gateway/
+    - https://www.ithinx.io/en/ixpro-smarc-gateway/
+    - https://www.ithinx.io/en/som-evaluation-kit/
+    - https://www.ithinx.io/en/matter-bridge/

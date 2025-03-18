@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: dds75-nb
+ref: dragino/dds75-nb
+vendor: dragino
+sku: dds75-nb
+name: DDS75-NB
 description: NB-IoT Distance Detection Sensor
+status: ''
 extra:
   Accuracy: "\xB1(1cm+S*0.3%) (S: Distance)"
   Battery: 8500mAh for long term use
@@ -12,18 +16,7 @@ extra:
   Support BLE remote configure and update firmware: ''
   Ultra-low power consumption: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/7d0d25bfcaa1421c2931a4f0387462aa_L.jpg
-  models: []
   products:
   - https://dragino.com/products/distance-level-sensor/item/301-dds75-nb.html
-  repositories: []
-name: DDS75-NB
-ref: dragino/dds75-nb
-release_date: null
-sku: dds75-nb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/7d0d25bfcaa1421c2931a4f0387462aa_L.jpg

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-build-hat
+ref: raspberrypi/raspberry-pi-build-hat
+vendor: raspberrypi
+sku: raspberry-pi-build-hat
+name: Raspberry Pi Build HAT
 description: "Connect Raspberry Pi computing power with LEGO\xAE Technic\u2122 motors\
   \ and sensors"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/f2574dc12e392cfdd1a45c68ccf84f6f/3f4ea/259e69b3-71e4-4fe4-a28e-1bff63390041_Build%2BHAT%2BHero.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/build-hat/
-  repositories: []
-name: Raspberry Pi Build HAT
-ref: raspberrypi/raspberry-pi-build-hat
-release_date: null
-sku: raspberry-pi-build-hat
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/f2574dc12e392cfdd1a45c68ccf84f6f/3f4ea/259e69b3-71e4-4fe4-a28e-1bff63390041_Build%2BHAT%2BHero.jpg

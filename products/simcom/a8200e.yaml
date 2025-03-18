@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: a8200e
+ref: simcom/a8200e
+vendor: simcom
+sku: a8200e
+name: A8200E
 description: ''
+status: ''
 extra:
   USB3.1: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.simcom.com/Uploads/image/20250207/67a5ba2af072b.png
-  models: []
   products:
   - https://www.simcom.com/product/A8200E.html
-  repositories: []
-name: A8200E
-ref: simcom/a8200e
-release_date: null
-sku: a8200e
-spec: null
-status: ''
-vendor: simcom
+  images:
+  - https://www.simcom.com/Uploads/image/20250207/67a5ba2af072b.png

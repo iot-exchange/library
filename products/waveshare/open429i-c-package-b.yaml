@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: open429i-c-package-b
+ref: waveshare/open429i-c-package-b
+vendor: waveshare
+sku: open429i-c-package-b
+name: Open429I-C Package B
 description: Open429I-C Package B, STM32F4 Development Board
+status: ''
 extra:
   Price: $154.15 - $162.99
   SKU: '9188'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/open429i-c-package-b_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/open429i-c-package-b.htm
-  repositories: []
-name: Open429I-C Package B
-ref: waveshare/open429i-c-package-b
-release_date: null
-sku: open429i-c-package-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/open429i-c-package-b_1.jpg

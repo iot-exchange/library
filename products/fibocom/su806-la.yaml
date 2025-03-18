@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: su806-la
+ref: fibocom/su806-la
+vendor: fibocom
+sku: su806-la
+name: SU806-LA
 description: 4G entry module for Latin America.
+status: ''
 extra:
   Bands: 'LTE: B2/3/4/5/7/17(12)/28/40/41'
   Form Factor: LGA / LCC
   Region: Latin America
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTE-SU806-LA.html
-  repositories: []
-name: SU806-LA
-ref: fibocom/su806-la
-release_date: null
-sku: su806-la
-spec: null
-status: ''
-vendor: fibocom
+  images: []

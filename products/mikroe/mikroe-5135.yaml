@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5135
+ref: mikroe/mikroe-5135
+vendor: mikroe
+sku: mikroe-5135
+name: MIKROE-5135
 description: "BLE 10 Click is a compact add-on board that provides BT/BLE connectivity\
   \ for any embedded application. This board features the PAN1780-AT (ENW-89854A3KF),\
   \ a Bluetooth\xAE 5 Low Energy Module based on Nordic's nRF52840 single-chip controller\
   \ from Panasonic. The Bluetooth\xAE 5 features enable a higher symbol rate of 2Mbps\
   \ using the high-speed LE 2M PHY, allowing..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ble-10-click/ble-10-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ble-10-click
-  repositories: []
-name: MIKROE-5135
-ref: mikroe/mikroe-5135
-release_date: null
-sku: mikroe-5135
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ble-10-click/ble-10-click-home_default-1.jpg?v=100

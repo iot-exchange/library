@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: a13-som-wifi-4gb
+ref: olimex/a13-som-wifi-4gb
+vendor: olimex
+sku: a13-som-wifi-4gb
+name: A13-SOM-WIFI-4GB
 description: ''
+status: ''
 extra:
   10+ pcs: 15.30 EUR
   100+ pcs: 12.75 EUR
   1000+ pcs: 11.90 EUR
   50+ pcs: 13.60 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/SOM/A13/A13-SOM-WIFI/images/thumbs/200x150/A13-SOM-WIFI-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/SOM/A13/A13-SOM-WIFI-4GB/open-source-hardware
-  repositories: []
-name: A13-SOM-WIFI-4GB
-ref: olimex/a13-som-wifi-4gb
-release_date: null
-sku: a13-som-wifi-4gb
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/SOM/A13/A13-SOM-WIFI/images/thumbs/200x150/A13-SOM-WIFI-1.jpg

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: lps8-indoor-lorawan-gateway
+ref: dragino/lps8-indoor-lorawan-gateway
+vendor: dragino
+sku: lps8-indoor-lorawan-gateway
+name: LPS8 Indoor LoRaWAN Gateway
 description: LoRaWAN Gateway SX1308 + 2 * SX1257 10 programmable parallel demodulation
   paths Data-Only Hotspot, Not suitable for Helium Mining EOL, Replace model, LPS8N
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/3d10c9c21f6f61faeefd4aa27b190def_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lora-lorawan-gateway/item/148-lps8.html
-  repositories: []
-name: LPS8 Indoor LoRaWAN Gateway
-ref: dragino/lps8-indoor-lorawan-gateway
-release_date: null
-sku: lps8-indoor-lorawan-gateway
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/3d10c9c21f6f61faeefd4aa27b190def_L.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5939
+ref: mikroe/mikroe-5939
+vendor: mikroe
+sku: mikroe-5939
+name: MIKROE-5939
 description: Expand 16 Click is a compact add-on board with a multi-port I/O expander.
   This board features the FXL6408, a fully configurable 8-bit GPIO expander from onsemi.
   It brings eight independently configurable input/output ports, with a 6mA output
   drive, when configured in the output mode. When configured in Input Mode, the FXL6408
   monitors the input ports for...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/expand-16-click/expand-16-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/expand-16-click
-  repositories: []
-name: MIKROE-5939
-ref: mikroe/mikroe-5939
-release_date: null
-sku: mikroe-5939
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/expand-16-click/expand-16-click-home_default-1.jpg?v=100

@@ -1,0 +1,15 @@
+id: ai-4x-12x-pro-bullet-plus-camera
+ref: milesight/ai-4x-12x-pro-bullet-plus-camera
+vendor: milesight
+sku: ai-4x-12x-pro-bullet-plus-camera
+name: AI 4X/12X Pro Bullet Plus Camera
+description: 5G AI 4X/12X Pro Bullet Plus Camera
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/product/5g-pro-bullet-plus
+  - https://www.milesight.com/security/product/ai-af-motorized-pro-bullet-plus
+  images:
+  - https://www.milesight.com/static/pc/en/product/center/5g-cellular-products/index/5g-ai-4x-12x-pro-bullet-plus-camera.png?t=1742198692607
+  - https://www.milesight.com/static/pc/en/security/index/new/product/ai-4x-12x-pro-bullet-plus-camera.png?t=1742198651317

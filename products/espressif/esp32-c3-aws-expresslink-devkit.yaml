@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: esp32-c3-aws-expresslink-devkit
+ref: espressif/esp32-c3-aws-expresslink-devkit
+vendor: espressif
+sku: esp32-c3-aws-expresslink-devkit
+name: ESP32-C3-AWS-ExpressLink-DevKit
 description: ESP32-C3-AWS-ExpressLink-DevKit is a development board based on the ESP32-C3-MINI-1-N4-A
   module. Its pin layout is compatible with that of the Arduino Zero development board.
+status: ''
 extra:
   Flash: 4 MB
   Interfaces: Pin Headers Micro USB
   Related Products: ESP32-C3-MINI-1
   UI: Button, LEDs
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.espressif.com/en/solutions/device-connectivity/esp-aws-iot-expresslink
-  repositories: []
-name: ESP32-C3-AWS-ExpressLink-DevKit
-ref: espressif/esp32-c3-aws-expresslink-devkit
-release_date: null
-sku: esp32-c3-aws-expresslink-devkit
-spec: null
-status: ''
-vendor: espressif
+  images: []

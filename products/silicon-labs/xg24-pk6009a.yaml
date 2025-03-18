@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: xg24-pk6009a
+ref: silicon-labs/xg24-pk6009a
+vendor: silicon-labs
+sku: xg24-pk6009a
+name: XG24-PK6009A
 description: EFR32xG24 Pro Kit +10 dBm
+status: ''
 extra:
   MSRP: $179.00
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/efr32xg24-pro-kit-10-dbm
-  repositories: []
-name: XG24-PK6009A
-ref: silicon-labs/xg24-pk6009a
-release_date: null
-sku: xg24-pk6009a
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

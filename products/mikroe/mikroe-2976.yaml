@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-2976
+ref: mikroe/mikroe-2976
+vendor: mikroe
+sku: mikroe-2976
+name: MIKROE-2976
 description: RTC 7 Click is a real time clock module which has an extremely low power
   consumption, allowing it to be used with a single button cell battery or a super
   capacitor, for an extended period of time. The MAX31341B IC built on the RTC 7 click
   is able to output the time in the binary coded decimal (BCD) format. Integrated,
   factory calibrated XTAL operating at...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/rtc-7-click/rtc-7-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=2488
   - https://www.mikroe.com/rtc-7-click
-  repositories: []
-name: MIKROE-2976
-ref: mikroe/mikroe-2976
-release_date: null
-sku: mikroe-2976
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rtc-7-click/rtc-7-click-home_default-1.jpg?v=100

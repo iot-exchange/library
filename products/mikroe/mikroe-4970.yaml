@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-4970
+ref: mikroe/mikroe-4970
+vendor: mikroe
+sku: mikroe-4970
+name: MIKROE-4970
 description: "Click shield for Pi 400 Combine Raspberry Pi 400 with your favorite\
   \ Click boards\u2122 Start your project development with our Click Shield for Pi\
   \ 400 fast and easy."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/click-shield-for-pi-400/click-shield-for-pi-400-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/click-shield-for-pi-400
-  repositories: []
-name: MIKROE-4970
-ref: mikroe/mikroe-4970
-release_date: null
-sku: mikroe-4970
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/click-shield-for-pi-400/click-shield-for-pi-400-home_default-1.jpg?v=100

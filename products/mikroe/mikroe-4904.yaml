@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-4904
+ref: mikroe/mikroe-4904
+vendor: mikroe
+sku: mikroe-4904
+name: MIKROE-4904
 description: Air quality 8 Click is a compact add-on board containing a best-in-class
   air-quality sensing solution. This board features the ZMOD4510, a fully calibrated
   digital sensor solution that detects air quality in various indoor and outdoor applications
   from Renesas.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/air-quality-8-click/air-quality-8-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/air-quality-8-click
-  repositories: []
-name: MIKROE-4904
-ref: mikroe/mikroe-4904
-release_date: null
-sku: mikroe-4904
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/air-quality-8-click/air-quality-8-click-home_default-1.jpg?v=100

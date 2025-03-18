@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-lcd-1x9
+ref: olimex/mod-lcd-1x9
+vendor: olimex
+sku: mod-lcd-1x9
+name: MOD-LCD-1x9
 description: ''
+status: ''
 extra:
   bulkPrice: 4.76 EUR
   discountedPrice: 5.36 EUR
   price: 5.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/LCD/MOD-LCD-1x9/images/thumbs/200x150/MOD-LCD1x9.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/LCD/MOD-LCD-1x9/open-source-hardware
-  repositories: []
-name: MOD-LCD-1x9
-ref: olimex/mod-lcd-1x9
-release_date: null
-sku: mod-lcd-1x9
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/LCD/MOD-LCD-1x9/images/thumbs/200x150/MOD-LCD1x9.jpg

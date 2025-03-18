@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: ti-based-modules
+ref: murata/ti-based-modules
+vendor: murata
+sku: ti-based-modules
+name: TI Based Modules
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth/overview/ti-based-modules
-  repositories: []
-name: TI Based Modules
-ref: murata/ti-based-modules
-release_date: null
-sku: ti-based-modules
-spec: null
-status: ''
-vendor: murata
+  images: []

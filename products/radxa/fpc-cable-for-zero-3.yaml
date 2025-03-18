@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: fpc-cable-for-zero-3
+ref: radxa/fpc-cable-for-zero-3
+vendor: radxa
+sku: fpc-cable-for-zero-3
+name: FPC Cable for ZERO 3
 description: Camera 8M 219 on ZERO 3
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/accessories/ac015/thumb_zero3_camera_8m219_fpc_cable.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/fpc-cable-015
-  repositories: []
-name: FPC Cable for ZERO 3
-ref: radxa/fpc-cable-for-zero-3
-release_date: null
-sku: fpc-cable-for-zero-3
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/accessories/ac015/thumb_zero3_camera_8m219_fpc_cable.webp

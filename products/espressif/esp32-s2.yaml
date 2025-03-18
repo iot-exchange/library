@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: esp32-s2
+ref: espressif/esp32-s2
+vendor: espressif
+sku: esp32-s2
+name: ESP32-S2
 description: 32-bit MCU & 2.4 GHz Wi-Fi with high-performance single-core CPU.
+status: ''
 extra:
   Core: Single Core
   Development Board: '[ESP32-S2-DevKitC-1](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/hw-reference/esp32s2/user-guide-s2-devkitc-1.html),
@@ -17,19 +21,8 @@ extra:
   Pins: '56'
   RAM/ROM (KB): 128 KB ROM, 320 KB SRAM, 16 KB RTC SRAM
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/chips/ESP32-S2_S.png
-  models: []
   products:
   - https://www.espressif.com/en/support/documents/technical-documents?type=socs&series=ESP32-S2
     Series
-  repositories: []
-name: ESP32-S2
-ref: espressif/esp32-s2
-release_date: null
-sku: esp32-s2
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP32-S2_S.png

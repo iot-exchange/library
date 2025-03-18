@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pic-kit3
+ref: olimex/pic-kit3
+vendor: olimex
+sku: pic-kit3
+name: PIC-KIT3
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/PIC/Programmers/PIC-KIT3/images/thumbs/200x150/PIC-KIT3.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/PIC/Programmers/PIC-KIT3/
-  repositories: []
-name: PIC-KIT3
-ref: olimex/pic-kit3
-release_date: null
-sku: pic-kit3
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/PIC/Programmers/PIC-KIT3/images/thumbs/200x150/PIC-KIT3.jpg

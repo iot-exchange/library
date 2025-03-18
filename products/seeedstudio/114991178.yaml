@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '114991178'
+ref: seeedstudio/114991178
+vendor: seeedstudio
+sku: '114991178'
+name: '114991178'
 description: This is a pressure measuring sensor. You can use it in clean, non-corrosive
   gas and liquid.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.seeedstudio.com/Water-Pressure-Sensor-G1-4-1-2MPa-p-2887.html
-  repositories: []
-name: '114991178'
-ref: seeedstudio/114991178
-release_date: null
-sku: '114991178'
-spec: null
-status: ''
-vendor: seeedstudio
+  images: []

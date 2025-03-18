@@ -1,0 +1,13 @@
+id: pm3322-e
+ref: milesight/pm3322-e
+vendor: milesight
+sku: pm3322-e
+name: PM3322-E
+description: Indoor Parking Guidance Camera
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/parking-camera/pm3322-e
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/parking-camera/pm3322-e.png?t=1742198585390

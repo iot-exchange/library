@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: esp8685-wroom-04-v1
+ref: espressif/esp8685-wroom-04-v1
+vendor: espressif
+sku: esp8685-wroom-04-v1
+name: ESP8685-WROOM-04-V1
 description: For flashing / testing ESP8685-WROOM-04 / ESP8685-WROOM-01 / ESP8684-WROOM-04C
   / ESP8684-WROOM-01C modules (must be used with ESP-BAT32 for testing)
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/production_testing_guide_en.pdf
-  repositories: []
-name: ESP8685-WROOM-04-V1
-ref: espressif/esp8685-wroom-04-v1
-release_date: null
-sku: esp8685-wroom-04-v1
-spec: null
-status: ''
-vendor: espressif
+  images: []

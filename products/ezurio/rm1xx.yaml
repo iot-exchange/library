@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: rm1xx
+ref: ezurio/rm1xx
+vendor: ezurio
+sku: rm1xx
+name: RM1xx
 description: The Ezurio RM1xx supports various scenarios including community networks
   and established operators.
+status: End of Life
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/2022-12/rm1xx-hero1.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/lorawan-solutions/sentrius-rm1xx-lora-ble-module
-  repositories: []
-name: RM1xx
-ref: ezurio/rm1xx
-release_date: null
-sku: rm1xx
-spec: null
-status: End of Life
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2022-12/rm1xx-hero1.png

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: '1'
+ref: microchip/1
+vendor: microchip
+sku: '1'
+name: '1'
 description: ''
+status: ''
 extra:
   Attribute1: '99'
   Attribute10: CAN-FD
@@ -56,16 +60,5 @@ extra:
   Attribute8: 'Yes'
   Attribute9: '2'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: '1'
-ref: microchip/1
-release_date: null
-sku: '1'
-spec: null
-status: ''
-vendor: microchip
+  images: []

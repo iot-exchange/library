@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '110061282'
+ref: seeedstudio/110061282
+vendor: seeedstudio
+sku: '110061282'
+name: '110061282'
 description: The Raspberry Pi Pico is a new flexible microcontroller board based on
   the Raspberry Pi RP2040 microcontroller chip. It featured with Dual-core ARM Cortex
   M0+ processor, flexible clock running up to 133 MHz.
+status: ''
 extra:
   price: $4.50
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/c/h/changedpackage.png
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-Pico-Basic-Kit-p-4844.html
-  repositories: []
-name: '110061282'
-ref: seeedstudio/110061282
-release_date: null
-sku: '110061282'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/c/h/changedpackage.png

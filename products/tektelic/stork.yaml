@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: stork
+ref: tektelic/stork
+vendor: tektelic
+sku: stork
+name: STORK
 description: "LoRaWAN\xAE Asset Tracker"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://tektelic.com/wp-content/uploads/STORK-2000x2000-ISO-3.png
-  models: []
   products:
   - https://tektelic.com/products/sensors/stork-asset-tracker/
-  repositories: []
-name: STORK
-ref: tektelic/stork
-release_date: null
-sku: stork
-spec: null
-status: ''
-vendor: tektelic
+  images:
+  - https://tektelic.com/wp-content/uploads/STORK-2000x2000-ISO-3.png

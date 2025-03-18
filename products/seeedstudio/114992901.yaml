@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '114992901'
+ref: seeedstudio/114992901
+vendor: seeedstudio
+sku: '114992901'
+name: '114992901'
 description: "SenseCAP PoE splitter features industrial standard operating temp from\
   \ -40\u2103 to +80\u2103 and supports 10/100/1000Mbps high data speed. It requires\
   \ 44V~57V DC power input and provides 5V/12V output through a TypeC / DC female\
   \ connector. PoE splitter enables hotspot without PoE (power on Ethernet) function\
   \ to connect to the internet and power supply with a single Ethernet cable."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992901_preview-16_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/PoE-Splitter-Type-C-5V-p-5428.html
-  repositories: []
-name: '114992901'
-ref: seeedstudio/114992901
-release_date: null
-sku: '114992901'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992901_preview-16_1.jpg

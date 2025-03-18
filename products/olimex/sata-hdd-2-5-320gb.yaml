@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sata-hdd-2-5-320gb
+ref: olimex/sata-hdd-2-5-320gb
+vendor: olimex
+sku: sata-hdd-2-5-320gb
+name: SATA-HDD-2-5-320GB
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Storage/SATA-HDD-SSD-DISKS/images/thumbs/200x150/SATA-HDD-500GB.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Storage/SATA-HDD-2-5-320GB/
-  repositories: []
-name: SATA-HDD-2-5-320GB
-ref: olimex/sata-hdd-2-5-320gb
-release_date: null
-sku: sata-hdd-2-5-320gb
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Storage/SATA-HDD-SSD-DISKS/images/thumbs/200x150/SATA-HDD-500GB.jpg

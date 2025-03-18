@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-6161
+ref: mikroe/mikroe-6161
+vendor: mikroe
+sku: mikroe-6161
+name: MIKROE-6161
 description: Mikromedia 5 for PIC32MZ RESISTIVE FPI with frame Rapid development of
   multimedia and gui-centric applications.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mikromedia-5-for-pic32mz-resistive-fpi-with-frame/mikromedia-5-for-pic32mz-resistive-fpi-with-frame-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mikromedia-5-for-pic32mz-resistive-fpi-with-frame
-  repositories: []
-name: MIKROE-6161
-ref: mikroe/mikroe-6161
-release_date: null
-sku: mikroe-6161
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-5-for-pic32mz-resistive-fpi-with-frame/mikromedia-5-for-pic32mz-resistive-fpi-with-frame-home_default-1.jpg?v=100

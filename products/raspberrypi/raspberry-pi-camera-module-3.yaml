@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-camera-module-3
+ref: raspberrypi/raspberry-pi-camera-module-3
+vendor: raspberrypi
+sku: raspberry-pi-camera-module-3
+name: Raspberry Pi Camera Module 3
 description: The classic compact camera for Raspberry Pi with a 12MP sensor and autofocus
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/ef7796421bf0ef512c50ba89079906de/3f4ea/b13db57d-59e5-48bb-a92f-7a2e7b023633_ALL%2BVARIANTS.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/camera-module-3/
-  repositories: []
-name: Raspberry Pi Camera Module 3
-ref: raspberrypi/raspberry-pi-camera-module-3
-release_date: null
-sku: raspberry-pi-camera-module-3
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/ef7796421bf0ef512c50ba89079906de/3f4ea/b13db57d-59e5-48bb-a92f-7a2e7b023633_ALL%2BVARIANTS.jpg

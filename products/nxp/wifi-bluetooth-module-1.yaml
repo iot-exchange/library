@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: wifi-bluetooth-module-1
+ref: nxp/wifi-bluetooth-module-1
+vendor: nxp
+sku: wifi-bluetooth-module-1
+name: WIFI-BLUETOOTH-MODULE-1
 description: Wi-Fi and Bluetooth module for IoT applications.
+status: Available
 extra:
   frequency: 2.4 GHz
   protocols: 802.11 b/g/n, Bluetooth 5.0
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.nxp.com/images/WIFI-BLUETOOTH-MODULE-1.jpg
-  models: []
   products:
   - https://www.nxp.com/products/wireless-connectivity/wi-fi-plus-bluetooth-plus-802-15-4/wi-fi-plus-bluetooth-plus-802-15-4-partner-modules:WIFI-BLUETOOTH-MODULE-1
-  repositories: []
-name: WIFI-BLUETOOTH-MODULE-1
-ref: nxp/wifi-bluetooth-module-1
-release_date: null
-sku: wifi-bluetooth-module-1
-spec: null
-status: Available
-vendor: nxp
+  images:
+  - https://www.nxp.com/images/WIFI-BLUETOOTH-MODULE-1.jpg

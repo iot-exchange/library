@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5114
+ref: mikroe/mikroe-5114
+vendor: mikroe
+sku: mikroe-5114
+name: MIKROE-5114
 description: "GPS&GLONASS External Passive Antenna is a 100% waterproof external antenna,\
   \ which represents an excellent choice for all GPS/GNSS Click boards\u2122 from\
   \ our offer. It has wide bandwith that supports GSM/GPRS modules. Antenna has 3m\
   \ cable with SMA male connector on the end, which allows you easy positioning in\
   \ space. If you are looking for a perfect..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gpsglonass-external-passive-antenna/gpsglonass-external-passive-antenna-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/gpsglonass-external-passive-antenna
-  repositories: []
-name: MIKROE-5114
-ref: mikroe/mikroe-5114
-release_date: null
-sku: mikroe-5114
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gpsglonass-external-passive-antenna/gpsglonass-external-passive-antenna-home_default-1.jpg?v=100

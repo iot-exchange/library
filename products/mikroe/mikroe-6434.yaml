@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6434
+ref: mikroe/mikroe-6434
+vendor: mikroe
+sku: mikroe-6434
+name: MIKROE-6434
 description: LTE Cat.1 7 Click is a compact add-on board designed for reliable LTE
   Cat 1 connectivity and GNSS support. This board features the SIM7672E, LTE Cat 1
   bis module from SIMCom, which incorporates the QCX216 chipset, supporting LTE-FDD
   mode with multi-band coverage for Europe and Australia. The module offers data rates
   of up to 10Mbps downlink and 5Mbps...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/lte-cat1-7-click/lte-cat1-7-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/lte-cat1-7-click
-  repositories: []
-name: MIKROE-6434
-ref: mikroe/mikroe-6434
-release_date: null
-sku: mikroe-6434
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lte-cat1-7-click/lte-cat1-7-click-home_default-1.jpg?v=100

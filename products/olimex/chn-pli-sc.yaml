@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: chn-pli-sc
+ref: olimex/chn-pli-sc
+vendor: olimex
+sku: chn-pli-sc
+name: CHN-PLI-SC
 description: ''
+status: ''
 extra:
   discountedPrice1: 1.80 EUR
   discountedPrice2: 1.60 EUR
   price: 2.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/HandTools/CHN-PLI-SC/images/thumbs/200x150/CHN-PLI-SC.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/HandTools/CHN-PLI-SC/
-  repositories: []
-name: CHN-PLI-SC
-ref: olimex/chn-pli-sc
-release_date: null
-sku: chn-pli-sc
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/HandTools/CHN-PLI-SC/images/thumbs/200x150/CHN-PLI-SC.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: 4inch-resistive-touch-lcd
+ref: waveshare/4inch-resistive-touch-lcd
+vendor: waveshare
+sku: 4inch-resistive-touch-lcd
+name: 4inch Resistive Touch LCD
 description: "4inch Resistive Touch LCD, 480\xD7800, 8080 Parallel Interface"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/i/4inch-resistive-touch-lcd-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/4inch-resistive-touch-lcd.htm
-  repositories: []
-name: 4inch Resistive Touch LCD
-ref: waveshare/4inch-resistive-touch-lcd
-release_date: null
-sku: 4inch-resistive-touch-lcd
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/i/4inch-resistive-touch-lcd-1.jpg

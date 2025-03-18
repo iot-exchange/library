@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: on-off-module
+ref: insteon/on-off-module
+vendor: insteon
+sku: on-off-module
+name: On/Off Module
 description: ''
+status: ''
 extra:
   reviews: '45'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/products/Insteon_Smart_On_Off_Module.jpg?v=1724711512&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/on-off-module
-  repositories: []
-name: On/Off Module
-ref: insteon/on-off-module
-release_date: null
-sku: on-off-module
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Insteon_Smart_On_Off_Module.jpg?v=1724711512&width=533

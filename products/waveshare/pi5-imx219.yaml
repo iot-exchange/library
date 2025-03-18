@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pi5-imx219
+ref: waveshare/pi5-imx219
+vendor: waveshare
+sku: pi5-imx219
+name: pi5_imx219
 description: "IMX219 Camera Module For Raspberry Pi 5, 8MP, MIPI-CSI Interface, Options\
   \ For 79.3\xB0 / 120\xB0 FOV"
+status: ''
 extra:
   Multi Options: ''
   Price: $14.99 - $16.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-imx219-77-1_4.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pi5-imx219.htm
-  repositories: []
-name: pi5_imx219
-ref: waveshare/pi5-imx219
-release_date: null
-sku: pi5-imx219
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-imx219-77-1_4.jpg

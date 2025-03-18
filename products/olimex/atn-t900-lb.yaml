@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: atn-t900-lb
+ref: olimex/atn-t900-lb
+vendor: olimex
+sku: atn-t900-lb
+name: ATN-T900-LB
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Soldering/ATN-T900/images/thumbs/200x150/atten-t900-08d.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Soldering/ATN-T900-LB/
-  repositories: []
-name: ATN-T900-LB
-ref: olimex/atn-t900-lb
-release_date: null
-sku: atn-t900-lb
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/ATN-T900/images/thumbs/200x150/atten-t900-08d.jpg

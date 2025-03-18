@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: efr32fg23-series-2-socs
+ref: silicon-labs/efr32fg23-series-2-socs
+vendor: silicon-labs
+sku: efr32fg23-series-2-socs
+name: EFR32FG23 Series 2 SoCs
 description: ''
+status: ''
 extra:
   Flash (kB): 128, 256, 512
   Frequency Range (MHz): 110 970
@@ -11,17 +15,6 @@ extra:
   RAM (kB): 32, 64
   Security: AES-128, AES-256, ECC, SHA-1, SHA-2
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/wireless/proprietary/efr32fg23-sub-ghz-wireless-soc
-  repositories: []
-name: EFR32FG23 Series 2 SoCs
-ref: silicon-labs/efr32fg23-series-2-socs
-release_date: null
-sku: efr32fg23-series-2-socs
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

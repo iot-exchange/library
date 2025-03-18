@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '114992404'
+ref: seeedstudio/114992404
+vendor: seeedstudio
+sku: '114992404'
+name: '114992404'
 description: Now kids can customize their own game & load onto their own pocket-sized
   console. Fully supports Microsoft MakeCode, both for block programming and JavaScript.
   Suitable for STEM educators wanting to use video games as a way to introduce students
   to programming.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/g/a/gamego_2_1.png
-  models: []
   products:
   - https://www.seeedstudio.com/GameGo-p-4847.html
-  repositories: []
-name: '114992404'
-ref: seeedstudio/114992404
-release_date: null
-sku: '114992404'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/g/a/gamego_2_1.png

@@ -1,9 +1,13 @@
-alternatives: []
-certifications: []
+id: '114993135'
+ref: seeedstudio/114993135
+vendor: seeedstudio
+sku: '114993135'
+name: '114993135'
 description: "The SenseCAP M2 Multi-Platform LoRaWAN\xAE Gateway is a fully customizable\
   \ and open-sourced LoRaWAN\xAE gateway that supports connection to various network\
   \ servers. It supports global LoRaWAN\xAE frequency plans from 865 MHz to 923 MHz\
   \ and can be used in multiple LoRaWAN\xAE applications."
+status: ''
 extra:
   AI Performance: 100 TOPS
   Communication: 1xRS232/RS422/RS485, 4xDI/DO, 1xCAN
@@ -12,19 +16,8 @@ extra:
   Ports: 5xRJ45 GbE with PoE
   Pre-installed System: JetPack System
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993135_sensecap-multi-platform-lorawan-indoor-gateway_sx1302_au915-_australia_-first.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/SenseCAP-Multi-Platform-LoRaWAN-Indoor-Gateway-SX1302-AU915-Australia-p-5740.html
   - https://www.seeedstudio.com/reServer-industrial-J4012-p-5747.html
-  repositories: []
-name: '114993135'
-ref: seeedstudio/114993135
-release_date: null
-sku: '114993135'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993135_sensecap-multi-platform-lorawan-indoor-gateway_sx1302_au915-_australia_-first.jpg

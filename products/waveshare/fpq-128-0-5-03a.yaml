@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: fpq-128-0-5-03a
+ref: waveshare/fpq-128-0-5-03a
+vendor: waveshare
+sku: fpq-128-0-5-03a
+name: FPQ-128-0.5-03A
 description: Test & Burn-in Socket
+status: ''
 extra:
-  Price: $156.59 - $159.99
   Price Range: $156.59 - $159.99
   SKU: '6672'
+  Price: $156.59 - $159.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/p/fpq-128-0.5-03a_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/fpq-128-0.5-03a.htm
-  repositories: []
-name: FPQ-128-0.5-03A
-ref: waveshare/fpq-128-0-5-03a
-release_date: null
-sku: fpq-128-0-5-03a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/p/fpq-128-0.5-03a_l_1_5.jpg

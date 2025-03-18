@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: uart-fingerprint-sensor-c
+ref: waveshare/uart-fingerprint-sensor-c
+vendor: waveshare
+sku: uart-fingerprint-sensor-c
+name: UART Fingerprint Sensor (C)
 description: Round-shaped All-in-one UART Capacitive Fingerprint Sensor
+status: Out of Stock
 extra:
   Price: $18.97 - $19.99
   SKU: '16606'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/a/uart-fingerprint-sensor-c-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/uart-fingerprint-sensor-c.htm
   - https://www.waveshare.com/product/uart-fingerprint-sensor-c.htm "Round-shaped
     All-in-one UART Capacitive Fingerprint Sensor"
-  repositories: []
-name: UART Fingerprint Sensor (C)
-ref: waveshare/uart-fingerprint-sensor-c
-release_date: null
-sku: uart-fingerprint-sensor-c
-spec: null
-status: Out of Stock
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/a/uart-fingerprint-sensor-c-1.jpg

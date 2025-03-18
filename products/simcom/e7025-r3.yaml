@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: e7025-r3
+ref: simcom/e7025-r3
+vendor: simcom
+sku: e7025-r3
+name: E7025 R3
 description: ''
+status: ''
 extra:
   FOTA: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.simcom.com/Uploads/image/20241022/671795e1e68eb.png
-  models: []
   products:
   - https://www.simcom.com/product/E7025-R3.html
-  repositories: []
-name: E7025 R3
-ref: simcom/e7025-r3
-release_date: null
-sku: e7025-r3
-spec: null
-status: ''
-vendor: simcom
+  images:
+  - https://www.simcom.com/Uploads/image/20241022/671795e1e68eb.png

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: avr-isp-mk2
+ref: olimex/avr-isp-mk2
+vendor: olimex
+sku: avr-isp-mk2
+name: AVR-ISP-MK2
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/AVR/Programmers/AVR-ISP-MK2/images/thumbs/200x150/AVR-ISP-MK2-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/AVR/Programmers/AVR-ISP-MK2/open-source-hardware
-  repositories: []
-name: AVR-ISP-MK2
-ref: olimex/avr-isp-mk2
-release_date: null
-sku: avr-isp-mk2
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/AVR/Programmers/AVR-ISP-MK2/images/thumbs/200x150/AVR-ISP-MK2-01.jpg

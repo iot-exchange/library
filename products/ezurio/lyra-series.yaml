@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: lyra-series
+ref: ezurio/lyra-series
+vendor: ezurio
+sku: lyra-series
+name: Lyra Series
 description: Bluetooth 5.3 Modules
+status: ''
 extra:
   2MPHY: x
   802.15.4 / Matter / Thread: ''
@@ -8,17 +12,6 @@ extra:
   Classic BT: ''
   LE Long Range: x
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/lyra-series-bluetooth-53-modules
-  repositories: []
-name: Lyra Series
-ref: ezurio/lyra-series
-release_date: null
-sku: lyra-series
-spec: null
-status: ''
-vendor: ezurio
+  images: []

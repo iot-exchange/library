@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-6259
+ref: mikroe/mikroe-6259
+vendor: mikroe
+sku: mikroe-6259
+name: MIKROE-6259
 description: Inclinometer 4 Click is a compact add-on board designed to measure angles
   of slope or elevation of an object concerning gravity's direction. This board features
   the FXLS8971CF, a 3-axis low-g MEMS accelerometer from NXP Semiconductor.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/inclinometer-4-click/inclinometer-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=3935
   - https://www.mikroe.com/inclinometer-4-click
-  repositories: []
-name: MIKROE-6259
-ref: mikroe/mikroe-6259
-release_date: null
-sku: mikroe-6259
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/inclinometer-4-click/inclinometer-4-click-home_default-1.jpg?v=100

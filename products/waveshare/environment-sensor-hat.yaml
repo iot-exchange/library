@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: environment-sensor-hat
+ref: waveshare/environment-sensor-hat
+vendor: waveshare
+sku: environment-sensor-hat
+name: Environment Sensor HAT
 description: Environment Sensor HAT for Raspberry Pi, I2C Bus
+status: ''
 extra:
   Price: $25.63 - $26.99
   SKU: '20471'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/n/environment-sensor-hat-1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/environment-sensor-hat.htm
-  repositories: []
-name: Environment Sensor HAT
-ref: waveshare/environment-sensor-hat
-release_date: null
-sku: environment-sensor-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/n/environment-sensor-hat-1_2.jpg

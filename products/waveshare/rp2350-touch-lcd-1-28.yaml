@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rp2350-touch-lcd-1-28
+ref: waveshare/rp2350-touch-lcd-1-28
+vendor: waveshare
+sku: rp2350-touch-lcd-1-28
+name: RP2350-Touch-LCD-1.28
 description: "RP2350 MCU Board, With 1.28inch Round Touch LCD, Dual-core & Dual-architecture\
   \ Design, 240\xD7240 Pixels, 65K Color, IPS Panel"
+status: ''
 extra:
   Multi Options: ''
   Price: $21.99 - $26.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2350-touch-lcd-1.28-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rp2350-touch-lcd-1.28.htm
-  repositories: []
-name: RP2350-Touch-LCD-1.28
-ref: waveshare/rp2350-touch-lcd-1-28
-release_date: null
-sku: rp2350-touch-lcd-1-28
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2350-touch-lcd-1.28-1.jpg

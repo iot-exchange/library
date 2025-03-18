@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: avr-p40-8515-8mhz
+ref: olimex/avr-p40-8515-8mhz
+vendor: olimex
+sku: avr-p40-8515-8mhz
+name: AVR-P40-8515-8MHz
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/AVR/Proto/AVR-P40-8515-8MHz/images/thumbs/200x150/AVR-P40-8515-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/AVR/Proto/AVR-P40-8515-8MHz/
-  repositories: []
-name: AVR-P40-8515-8MHz
-ref: olimex/avr-p40-8515-8mhz
-release_date: null
-sku: avr-p40-8515-8mhz
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/AVR/Proto/AVR-P40-8515-8MHz/images/thumbs/200x150/AVR-P40-8515-01.jpg

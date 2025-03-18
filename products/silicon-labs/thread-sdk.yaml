@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: thread-sdk
+ref: silicon-labs/thread-sdk
+vendor: silicon-labs
+sku: thread-sdk
+name: Thread SDK
 description: Silicon Labs is a founding board member of the Thread Group with numerous
   successful customer deployments of mesh networking solutions based on 802.15.4 and
   Zigbee.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/developers/thread
-  repositories: []
-name: Thread SDK
-ref: silicon-labs/thread-sdk
-release_date: null
-sku: thread-sdk
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

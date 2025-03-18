@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: tc-k-type-0-4m
+ref: olimex/tc-k-type-0-4m
+vendor: olimex
+sku: tc-k-type-0-4m
+name: TC-K-TYPE-0-4M
 description: ''
+status: ''
 extra:
   discountedPrice1: 1.35 EUR
   discountedPrice2: 1.20 EUR
   price: 1.50 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Sensors/Temperature/TC-K-TYPE-0-4M/images/thumbs/200x150/K-type-0-4m.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Sensors/Temperature/TC-K-TYPE-0-4M/
-  repositories: []
-name: TC-K-TYPE-0-4M
-ref: olimex/tc-k-type-0-4m
-release_date: null
-sku: tc-k-type-0-4m
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/Temperature/TC-K-TYPE-0-4M/images/thumbs/200x150/K-type-0-4m.jpg

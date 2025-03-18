@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4876
+ref: mikroe/mikroe-4876
+vendor: mikroe
+sku: mikroe-4876
+name: MIKROE-4876
 description: Accel 16 Click is a compact add-on board that contains an acceleration
   sensor. This board features the ADXL363, a micropower three-sensor combination including
   acceleration and temperature from Analog Devices. This device combines a 3-axis
   MEMS accelerometer, a temperature sensor, and an analog-to-digital converter (ADC)
   input for synchronized conversions...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/accel-16-click/accel-16-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/accel-16-click
-  repositories: []
-name: MIKROE-4876
-ref: mikroe/mikroe-4876
-release_date: null
-sku: mikroe-4876
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/accel-16-click/accel-16-click-home_default-1.jpg?v=100

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pi5-case-argon-one
+ref: waveshare/pi5-case-argon-one
+vendor: waveshare
+sku: pi5-case-argon-one
+name: pi5_case_argon_one
 description: Argon ONE V3 Aluminum Alloy Case for Raspberry Pi 5, Built-in Cooling
   Fan, Optional for M.2 NVME Expansion Slot, Raspberry Pi 5 case
+status: ''
 extra:
   Multi Options: ''
   Price: $29.99 - $49.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-case-argon-one-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pi5-case-argon-one.htm
-  repositories: []
-name: pi5_case_argon_one
-ref: waveshare/pi5-case-argon-one
-release_date: null
-sku: pi5-case-argon-one
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-case-argon-one-1.jpg

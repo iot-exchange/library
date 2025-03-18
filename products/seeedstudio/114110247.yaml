@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: '114110247'
+ref: seeedstudio/114110247
+vendor: seeedstudio
+sku: '114110247'
+name: '114110247'
 description: "reServer J4012 brings AI-enabled NVR to the edge and features NVIDIA\
   \ Jetson Orin\u2122 NX 16GB for 100 TOPS AI performance, has a fanless design, 5xRJ45\
   \ GbE with PoE, 2x Drive bays for 2.5\" HDD/SSD, 1xRS232/RS422/RS485, 4xDI/DO, 1xCAN,\
   \ Pre-installed JetPack System."
+status: ''
 extra:
   design: Fanless
   module: "NVIDIA Jetson Orin\u2122 NX 16GB"
   performance: 100 TOPS
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114110247-reserver_industrial_j4012-app2.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/reServer-industrial-J4012-p-5747.html
-  repositories: []
-name: '114110247'
-ref: seeedstudio/114110247
-release_date: null
-sku: '114110247'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114110247-reserver_industrial_j4012-app2.jpg

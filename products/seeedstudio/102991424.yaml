@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: '102991424'
+ref: seeedstudio/102991424
+vendor: seeedstudio
+sku: '102991424'
+name: '102991424'
 description: This version of the Raspberry Pi Compute Module 4 includes a high-performance
   64-bit quad-core processor, 2GB LPDDR4 RAM, 16GB eMMC, dual-display support at resolutions
   up to 4K, hardware video decode at up to 4Kp60, Gigabit Ethernet, USB 2.0, dual
   camera interfaces, PCIe Gen 2 x1 interface.
+status: ''
 extra:
   Processor: 64-bit quad-core
   RAM: 2GB
   eMMC: 16GB
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/s/k/sku102991380_0.png
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-Compute-Module-CM4002016-p-5829.html
-  repositories: []
-name: '102991424'
-ref: seeedstudio/102991424
-release_date: null
-sku: '102991424'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/s/k/sku102991380_0.png

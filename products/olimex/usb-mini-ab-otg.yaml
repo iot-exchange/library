@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: usb-mini-ab-otg
+ref: olimex/usb-mini-ab-otg
+vendor: olimex
+sku: usb-mini-ab-otg
+name: USB-MINI-AB-OTG
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Connectors/USB-MINI-AB-OTG/images/thumbs/200x150/USB-MINI-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Connectors/USB-MINI-AB-OTG/
-  repositories: []
-name: USB-MINI-AB-OTG
-ref: olimex/usb-mini-ab-otg
-release_date: null
-sku: usb-mini-ab-otg
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Connectors/USB-MINI-AB-OTG/images/thumbs/200x150/USB-MINI-1.jpg

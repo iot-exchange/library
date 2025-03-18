@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: avr-jtag-l
+ref: olimex/avr-jtag-l
+vendor: olimex
+sku: avr-jtag-l
+name: AVR-JTAG-L
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/AVR/Programmers/AVR-JTAG-L/images/thumbs/200x150/AVR-JTAG-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/AVR/Programmers/AVR-JTAG-L/
-  repositories: []
-name: AVR-JTAG-L
-ref: olimex/avr-jtag-l
-release_date: null
-sku: avr-jtag-l
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/AVR/Programmers/AVR-JTAG-L/images/thumbs/200x150/AVR-JTAG-01.jpg

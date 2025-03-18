@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 55-1440-2560-lcd
+ref: waveshare/55-1440-2560-lcd
+vendor: waveshare
+sku: 55-1440-2560-lcd
+name: 55_1440_2560_lcd
 description: "Raspberry Pi 5.5inch 2K Capacitive Touch LCD Display, HDMI Interface,\
   \ IPS Screen, 1440\xD72560"
+status: ''
 extra:
   Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/_/5.5inch-1440x2560-lcd-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/5.5inch-1440x2560-lcd.htm
-  repositories: []
-name: 55_1440_2560_lcd
-ref: waveshare/55-1440-2560-lcd
-release_date: null
-sku: 55-1440-2560-lcd
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/_/5.5inch-1440x2560-lcd-1.jpg

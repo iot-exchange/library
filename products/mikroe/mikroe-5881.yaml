@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5881
+ref: mikroe/mikroe-5881
+vendor: mikroe
+sku: mikroe-5881
+name: MIKROE-5881
 description: Gyro 9 Click is a compact add-on board that contains a high-performance
   gyroscope. This board features the A3G4250D, a MEMS motion sensor from STMicroelectronics.
   It is a low-power 3-axes digital output gyroscope that provides unprecedented stability
   at zero rate level and sensitivity over temperature and time and is equipped with
   an embedded temperature...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gyro-9-click/gyro-9-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/gyro-9-click
-  repositories: []
-name: MIKROE-5881
-ref: mikroe/mikroe-5881
-release_date: null
-sku: mikroe-5881
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gyro-9-click/gyro-9-click-home_default-1.jpg?v=100

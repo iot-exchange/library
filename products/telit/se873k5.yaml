@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: se873k5
+ref: telit/se873k5
+vendor: telit
+sku: se873k5
+name: SE873K5
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2023/12/SE873K5-269x200.png
-  models: []
   products:
   - https://www.telit.com/devices/se873k5/
-  repositories: []
-name: SE873K5
-ref: telit/se873k5
-release_date: null
-sku: se873k5
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2023/12/SE873K5-269x200.png

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3744
+ref: mikroe/mikroe-3744
+vendor: mikroe
+sku: mikroe-3744
+name: MIKROE-3744
 description: Charger 12 Click is a single lithium-ion (Li+) cell or three-cell NiMH/NiCd
   battery charger. This click can be used for Low-Cost Li-Ion battery chargers, or
   Power Tools, toys, backup energy storage solutions, etc. Charger 12 click is based
   on MAX1501 controller from Analog Devices which has some extra features enabling
   charging without too much hassle....
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/charger-12-click/charger-12-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/charger-12-click
-  repositories: []
-name: MIKROE-3744
-ref: mikroe/mikroe-3744
-release_date: null
-sku: mikroe-3744
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/charger-12-click/charger-12-click-home_default-1.jpg?v=100

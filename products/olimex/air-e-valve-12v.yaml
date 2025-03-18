@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: air-e-valve-12v
+ref: olimex/air-e-valve-12v
+vendor: olimex
+sku: air-e-valve-12v
+name: AIR-E-VALVE-12V
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Misc/AIR-E-VALVE/images/thumbs/200x150/AIR-E-VALVEa.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Misc/AIR-E-VALVE-12V/
-  repositories: []
-name: AIR-E-VALVE-12V
-ref: olimex/air-e-valve-12v
-release_date: null
-sku: air-e-valve-12v
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Misc/AIR-E-VALVE/images/thumbs/200x150/AIR-E-VALVEa.jpg

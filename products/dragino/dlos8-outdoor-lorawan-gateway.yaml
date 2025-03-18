@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: dlos8-outdoor-lorawan-gateway
+ref: dragino/dlos8-outdoor-lorawan-gateway
+vendor: dragino
+sku: dlos8-outdoor-lorawan-gateway
+name: DLOS8 Outdoor LoRaWAN Gateway
 description: Outdoor LoRaWAN Gateway SX1301 + 2 * SX1257 10 programmable parallel
   demodulation paths Data-Only Hotspot, Not suitable for Helium Mining
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/9f6d22dec5a20bcdd01cd84e98637764_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lora-lorawan-gateway/item/160-dlos8.html
-  repositories: []
-name: DLOS8 Outdoor LoRaWAN Gateway
-ref: dragino/dlos8-outdoor-lorawan-gateway
-release_date: null
-sku: dlos8-outdoor-lorawan-gateway
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/9f6d22dec5a20bcdd01cd84e98637764_L.jpg

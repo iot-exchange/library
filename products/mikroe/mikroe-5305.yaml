@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-5305
+ref: mikroe/mikroe-5305
+vendor: mikroe
+sku: mikroe-5305
+name: MIKROE-5305
 description: UNI-DS v8 board is a full-featured universal development environment
   for various microcontroller architectures. This universal development station is
   equipped with many on-board modules which give you great power and flexibility,
   including multimedia, Ethernet, USB, and other.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/uni-ds-v8-over-usb-c/uni-ds-v8-over-usb-c-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/uni-ds-v8-over-usb-c
-  repositories: []
-name: MIKROE-5305
-ref: mikroe/mikroe-5305
-release_date: null
-sku: mikroe-5305
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/uni-ds-v8-over-usb-c/uni-ds-v8-over-usb-c-home_default-1.jpg?v=100

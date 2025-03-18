@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: motor-f1607
+ref: olimex/motor-f1607
+vendor: olimex
+sku: motor-f1607
+name: MOTOR-F1607
 description: ''
+status: ''
 extra:
   price1: 1.25 EUR
   price2: 1.13 EUR
   price3: 1.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/MOTOR-F1607/images/thumbs/200x150/MOTOR-F1607.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/MOTOR-F1607/
-  repositories: []
-name: MOTOR-F1607
-ref: olimex/motor-f1607
-release_date: null
-sku: motor-f1607
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/MOTOR-F1607/images/thumbs/200x150/MOTOR-F1607.jpg

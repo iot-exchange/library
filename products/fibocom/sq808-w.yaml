@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: sq808-w
+ref: fibocom/sq808-w
+vendor: fibocom
+sku: sq808-w
+name: SQ808-W
 description: 4G entry module for global applications.
+status: ''
 extra:
   Bands: /
   Form Factor: LGA / LCC
   Region: Global
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTE-SQ808-W.html
-  repositories: []
-name: SQ808-W
-ref: fibocom/sq808-w
-release_date: null
-sku: sq808-w
-spec: null
-status: ''
-vendor: fibocom
+  images: []

@@ -1,27 +1,20 @@
-alternatives: []
-certifications: []
+id: sim8262a-m2
+ref: waveshare/sim8262a-m2
+vendor: waveshare
+sku: sim8262a-m2
+name: SIM8262A-M2
 description: SIM8262A-M2 SIMCom original 5G module, M.2 form factor, Qualcomm Snapdragon
   X62
+status: ''
 extra:
   Price: $226.59  -  $229.99
   SKU: '24162'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/m/bme688-environmental-sensor-1.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim8262a-m2-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/bme68x-environmental-sensor.htm "BME68X Environmental
     Sensor, Supports Temperature / Humidity / Barometric Pressure / Gas Detection,
     optional AI function"
   - https://www.waveshare.com/product/sim8262a-m2.htm
-  repositories: []
-name: SIM8262A-M2
-ref: waveshare/sim8262a-m2
-release_date: null
-sku: sim8262a-m2
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/m/bme688-environmental-sensor-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim8262a-m2-1.jpg

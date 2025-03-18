@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: kapton-tape20mm
+ref: olimex/kapton-tape20mm
+vendor: olimex
+sku: kapton-tape20mm
+name: KAPTON-TAPE20MM
 description: ''
+status: ''
 extra:
   price1: 4.50 EUR
   price2: 4.28 EUR
   price3: 4.05 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Soldering/KAPTON-TAPE20MM/images/thumbs/200x150/KAPTON-TAPE20MM.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Soldering/KAPTON-TAPE20MM/
-  repositories: []
-name: KAPTON-TAPE20MM
-ref: olimex/kapton-tape20mm
-release_date: null
-sku: kapton-tape20mm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/KAPTON-TAPE20MM/images/thumbs/200x150/KAPTON-TAPE20MM.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: oki-h5003
+ref: olimex/oki-h5003
+vendor: olimex
+sku: oki-h5003
+name: OKI-H5003
 description: ''
+status: ''
 extra:
   price1: 89.95 EUR
   price2: 80.96 EUR
   price3: 71.96 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/OKI/OKI-H5003/images/thumbs/200x150/OKI-H5003.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/OKI/OKI-H5003/
-  repositories: []
-name: OKI-H5003
-ref: olimex/oki-h5003
-release_date: null
-sku: oki-h5003
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/OKI/OKI-H5003/images/thumbs/200x150/OKI-H5003.jpg

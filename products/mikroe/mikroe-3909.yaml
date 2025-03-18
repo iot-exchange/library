@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-3909
+ref: mikroe/mikroe-3909
+vendor: mikroe
+sku: mikroe-3909
+name: MIKROE-3909
 description: TFT Color Display with Touch Screen (7") and decorative cover glass (black
   bezel) is a color active matrix thin film transistor(TFT) liquid crystal display
   (LCD).
+status: Unavailable
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/7-tft-color-display-with-capacitive-touch-screen-and-bezel/7-tft-color-display-with-capacitive-touch-screen-and-bezel-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/7-tft-color-display-with-capacitive-touch-screen-and-bezel
-  repositories: []
-name: MIKROE-3909
-ref: mikroe/mikroe-3909
-release_date: null
-sku: mikroe-3909
-spec: null
-status: Unavailable
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/7-tft-color-display-with-capacitive-touch-screen-and-bezel/7-tft-color-display-with-capacitive-touch-screen-and-bezel-home_default-1.jpg?v=100

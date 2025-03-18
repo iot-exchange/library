@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: rs485-to-eth-for-eu
+ref: waveshare/rs485-to-eth-for-eu
+vendor: waveshare
+sku: rs485-to-eth-for-eu
+name: RS485 TO ETH (for EU)
 description: RS485 to Ethernet Converter for EU
+status: ''
 extra:
   Price: $18.31  -  $18.99
   SKU: '16529'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs485_to_eth_for_eu__2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rs485-to-eth-for-eu.htm
-  repositories: []
-name: RS485 TO ETH (for EU)
-ref: waveshare/rs485-to-eth-for-eu
-release_date: null
-sku: rs485-to-eth-for-eu
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs485_to_eth_for_eu__2.jpg

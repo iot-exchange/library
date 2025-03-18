@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mod-bmp085
+ref: olimex/mod-bmp085
+vendor: olimex
+sku: mod-bmp085
+name: MOD-BMP085
 description: ''
+status: ''
 extra:
-  bulkPrice: 4.76 EUR
-  discountedPrice: 5.36 EUR
   discountedPrice1: 5.36 EUR
   discountedPrice2: 4.76 EUR
   price: 5.95 EUR
+  bulkPrice: 4.76 EUR
+  discountedPrice: 5.36 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Sensors/MOD-BMP085/images/thumbs/200x150/MOD-BMP085.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Sensors/MOD-BMP085/open-source-hardware
-  repositories: []
-name: MOD-BMP085
-ref: olimex/mod-bmp085
-release_date: null
-sku: mod-bmp085
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Sensors/MOD-BMP085/images/thumbs/200x150/MOD-BMP085.jpg

@@ -1,0 +1,12 @@
+id: ai-360deg-panoramic-fisheye-camera
+ref: milesight/ai-360deg-panoramic-fisheye-camera
+vendor: milesight
+sku: ai-360deg-panoramic-fisheye-camera
+name: "AI 360\xB0 Panoramic Fisheye Camera"
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/security/product/ai-fisheye
+  images: []

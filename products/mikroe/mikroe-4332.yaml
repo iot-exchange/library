@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-4332
+ref: mikroe/mikroe-4332
+vendor: mikroe
+sku: mikroe-4332
+name: MIKROE-4332
 description: DAC 9 Click is a compact add-on board that contains a fully-featured,
   highly accurate digital-to-analog converter. This board features the DAC80501, a
   16-bit voltage-output digital-to-analog converter with precision internal reference.
+status: ''
 extra:
   price: $18.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/dac-9-click/dac-9-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/dac-9-click
-  repositories: []
-name: MIKROE-4332
-ref: mikroe/mikroe-4332
-release_date: null
-sku: mikroe-4332
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dac-9-click/dac-9-click-home_default-1.jpg?v=100

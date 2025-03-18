@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '110990092'
+ref: seeedstudio/110990092
+vendor: seeedstudio
+sku: '110990092'
+name: '110990092'
 description: Grove - Branch Cable (5PCs pack)
+status: ''
 extra:
   usage: Use this cable to connect two I2C Grove modules to one I2C Stem connector
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproduct4tx242.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Grove-Branch-Cable-5PCs-pack.html
-  repositories: []
-name: '110990092'
-ref: seeedstudio/110990092
-release_date: null
-sku: '110990092'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproduct4tx242.jpg

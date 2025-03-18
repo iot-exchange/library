@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: '317990687'
+ref: seeedstudio/317990687
+vendor: seeedstudio
+sku: '317990687'
+name: '317990687'
 description: The Wio-E5 wireless module is embedded with the ST system-level package
   chip STM32WLE5JC, ARM Cortex M4 ultra-low-power MCU, and Long Range SX126X. It supports
   LoRaWAN frequency plan on EU868, US915 and more, making it suitable for wireless
   sensor networks and other IoT devices that require battery power, low power consumption
   and long range.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-317990687-wio-e5-wireless-module-_bulk_-1111font.jpg
-  - https://www.seeedstudio.com/img/ah
-  models: []
   products:
   - https://www.seeedstudio.com/LoRa-E5-Wireless-Module-p-4745.html
   - https://www.seeedstudio.com/Wio-E5-Wireless-Module
-  repositories: []
-name: '317990687'
-ref: seeedstudio/317990687
-release_date: null
-sku: '317990687'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-317990687-wio-e5-wireless-module-_bulk_-1111font.jpg
+  - https://www.seeedstudio.com/img/ah

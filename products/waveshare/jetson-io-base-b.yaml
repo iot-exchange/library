@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: jetson-io-base-b
+ref: waveshare/jetson-io-base-b
+vendor: waveshare
+sku: jetson-io-base-b
+name: jetson_io_base_b
 description: Jetson Xavier NX AI Development Board, Waveshare NX Development Board
   Based on Jetson Xavier NX
+status: ''
 extra:
   Multi Options: ''
   price: $89.99 - $839.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/jetson-xavier-nx-dev-kit.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.47inch-lcd-module-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-io-base-b-6.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/jetson-xavier-nx-dev-kit.htm
-  repositories: []
-name: jetson_io_base_b
-ref: waveshare/jetson-io-base-b
-release_date: null
-sku: jetson-io-base-b
-spec: null
-status: ''
-vendor: waveshare

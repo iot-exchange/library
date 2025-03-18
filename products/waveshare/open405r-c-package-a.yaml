@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: open405r-c-package-a
+ref: waveshare/open405r-c-package-a
+vendor: waveshare
+sku: open405r-c-package-a
+name: Open405R-C Package A
 description: Open405R-C Package A, STM32F4 Development Board
+status: ''
 extra:
   Price: $70.99 - $74.99
   SKU: '8382'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.waveshare.com/product/open405r-c-package-a.htm
-  repositories: []
-name: Open405R-C Package A
-ref: waveshare/open405r-c-package-a
-release_date: null
-sku: open405r-c-package-a
-spec: null
-status: ''
-vendor: waveshare
+  images: []

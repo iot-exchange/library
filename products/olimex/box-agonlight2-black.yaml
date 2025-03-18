@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: box-agonlight2-black
+ref: olimex/box-agonlight2-black
+vendor: olimex
+sku: box-agonlight2-black
+name: BOX-AGONLIGHT2-BLACK
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Retro-Computers/BOX-AGONLIGHT2-BLACK/images/thumbs/200x150/BOX-AGONLIGHT2-4.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Retro-Computers/BOX-AGONLIGHT2-BLACK/
-  repositories: []
-name: BOX-AGONLIGHT2-BLACK
-ref: olimex/box-agonlight2-black
-release_date: null
-sku: box-agonlight2-black
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Retro-Computers/BOX-AGONLIGHT2-BLACK/images/thumbs/200x150/BOX-AGONLIGHT2-4.jpg

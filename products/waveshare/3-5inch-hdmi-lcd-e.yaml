@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 3-5inch-hdmi-lcd-e
+ref: waveshare/3-5inch-hdmi-lcd-e
+vendor: waveshare
+sku: 3-5inch-hdmi-lcd-e
+name: 3.5inch HDMI LCD (E)
 description: "3.5inch HDMI Capacitive Touch IPS LCD Display (E), 640\xD7480, Audio\
   \ jack"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/3.5inch-hdmi-lcd-e.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/_/3.5inch-hdmi-lcd-e-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/_/3.5inch-hdmi-lcd-e-4.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/3.5inch-hdmi-lcd-e.htm
-  repositories: []
-name: 3.5inch HDMI LCD (E)
-ref: waveshare/3-5inch-hdmi-lcd-e
-release_date: null
-sku: 3-5inch-hdmi-lcd-e
-spec: null
-status: ''
-vendor: waveshare

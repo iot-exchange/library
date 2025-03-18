@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-5391
+ref: mikroe/mikroe-5391
+vendor: mikroe
+sku: mikroe-5391
+name: MIKROE-5391
 description: "A5000 Plug&Trust Click is a compact add-on board representing a ready-to-use\
   \ secure IoT authenticator. This board features the EdgeLock\xAE A5000, a Secure\
   \ Authenticator from NXP Semiconductors."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/a5000-plugtrust-click/a5000-plugtrust-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/a5000-plugtrust-click
-  repositories: []
-name: MIKROE-5391
-ref: mikroe/mikroe-5391
-release_date: null
-sku: mikroe-5391
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/a5000-plugtrust-click/a5000-plugtrust-click-home_default-1.jpg?v=100

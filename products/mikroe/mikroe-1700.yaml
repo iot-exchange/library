@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-1700
+ref: mikroe/mikroe-1700
+vendor: mikroe
+sku: mikroe-1700
+name: MIKROE-1700
 description: "GL865-QUAD V3 represents a quad-band GSM/GPRS module based on the latest\
   \ release of Intel\u2019s 2G cellular chipset designed by Telit. The GL865-QUAD\
   \ V3 is highly recommended for new designs requiring quad-band GSM/GPRS coverage\
   \ and 3G scalability, delivering easy integration and reduced impact on final application\
   \ costs. An embedded SIM chip is also..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gl865-quad-telit-gsmgprs-module/gl865-quad-telit-gsmgprs-module-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/gl865-quad-telit-gsmgprs-module
-  repositories: []
-name: MIKROE-1700
-ref: mikroe/mikroe-1700
-release_date: null
-sku: mikroe-1700
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gl865-quad-telit-gsmgprs-module/gl865-quad-telit-gsmgprs-module-home_default-1.jpg?v=100

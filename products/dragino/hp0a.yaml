@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: hp0a
+ref: dragino/hp0a
+vendor: dragino
+sku: hp0a
+name: HP0A
 description: Outdoor LoRaWAN Gateway SX1302 + 2 * SX1250 10 programmable parallel
   demodulation paths Light Hotspot for Helium, Approval.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/70a2f0392847dc331972c7d3d3673ab9_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lora-lorawan-gateway/item/201-hp0a.html
-  repositories: []
-name: HP0A
-ref: dragino/hp0a
-release_date: null
-sku: hp0a
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/70a2f0392847dc331972c7d3d3673ab9_L.jpg

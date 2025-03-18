@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6036
+ref: mikroe/mikroe-6036
+vendor: mikroe
+sku: mikroe-6036
+name: MIKROE-6036
 description: "Flash 12 Click is a compact add-on board representing a highly reliable\
   \ memory solution. This board features the AT25EU0041A, a 4Mbit serial flash memory\
   \ from Renesas, known for its ultra-low power consumption. This Click board\u2122\
   \ is specifically designed to address the needs of systems operating at the IoT\
   \ network's edge, providing an optimal solution for..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/flash-12-click/flash-12-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/flash-12-click
-  repositories: []
-name: MIKROE-6036
-ref: mikroe/mikroe-6036
-release_date: null
-sku: mikroe-6036
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/flash-12-click/flash-12-click-home_default-1.jpg?v=100

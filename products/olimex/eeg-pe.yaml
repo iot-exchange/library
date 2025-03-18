@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: eeg-pe
+ref: olimex/eeg-pe
+vendor: olimex
+sku: eeg-pe
+name: EEG-PE
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/EEG/Electrodes/EEG-PE/images/thumbs/200x150/EEG-PE-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/EEG/Electrodes/EEG-PE/open-source-hardware
-  repositories: []
-name: EEG-PE
-ref: olimex/eeg-pe
-release_date: null
-sku: eeg-pe
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/EEG/Electrodes/EEG-PE/images/thumbs/200x150/EEG-PE-01.jpg

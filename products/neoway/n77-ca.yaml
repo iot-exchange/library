@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: n77-ca
+ref: neoway/n77-ca
+vendor: neoway
+sku: n77-ca
+name: N77-CA
 description: N77-CA can be used in utility, industrial router, LCD, sharing/payment
   products, etc.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.neoway.com/Uploads/Picture/2020/11/13/s5fae6dee4e049.png
-  models: []
   products:
   - https://www.neoway.com/products/wireless-communication/1282.html
-  repositories: []
-name: N77-CA
-ref: neoway/n77-ca
-release_date: null
-sku: n77-ca
-spec: null
-status: ''
-vendor: neoway
+  images:
+  - https://www.neoway.com/Uploads/Picture/2020/11/13/s5fae6dee4e049.png

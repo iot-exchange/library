@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: laq4
+ref: dragino/laq4
+vendor: dragino
+sku: laq4
+name: LAQ4
 description: LoRaWAN Air Quality Sensor
+status: ''
 extra:
   Features: TVOC, eCO2, Temperature and Relative air humidity, Datalog Feature
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/b1d237aad44a95e3871fc116e6241517_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lora-lorawan-end-node/item/174-laq4.html
-  repositories: []
-name: LAQ4
-ref: dragino/laq4
-release_date: null
-sku: laq4
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/b1d237aad44a95e3871fc116e6241517_L.jpg

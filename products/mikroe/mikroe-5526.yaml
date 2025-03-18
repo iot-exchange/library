@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-5526
+ref: mikroe/mikroe-5526
+vendor: mikroe
+sku: mikroe-5526
+name: MIKROE-5526
 description: Environment 4 Click is a compact add-on board combining 4th-generation
   SHT humidity and SGP air-quality sensing solutions from Sensirion. This board features
   the SHT41A-AD1B I2C-configurable high-accuracy relative humidity/temperature and
   the SGP41, an MOx-based gas sensor. The SHT41A-AD1B offers a linear digital output
   alongside temperature/humidity...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/environment-4-click/environment-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=3543
   - https://www.mikroe.com/environment-4-click
-  repositories: []
-name: MIKROE-5526
-ref: mikroe/mikroe-5526
-release_date: null
-sku: mikroe-5526
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/environment-4-click/environment-4-click-home_default-1.jpg?v=100

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lpc-p2124
+ref: olimex/lpc-p2124
+vendor: olimex
+sku: lpc-p2124
+name: LPC-P2124
 description: ''
+status: ''
 extra:
   discountedPrice1: 42.26 EUR
   discountedPrice2: 37.56 EUR
   price: 46.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/NXP/LPC-P2124/images/thumbs/200x150/LPC-P2124-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/NXP/LPC-P2124/
-  repositories: []
-name: LPC-P2124
-ref: olimex/lpc-p2124
-release_date: null
-sku: lpc-p2124
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-P2124/images/thumbs/200x150/LPC-P2124-01.jpg

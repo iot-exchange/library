@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '306050590'
+ref: seeedstudio/306050590
+vendor: seeedstudio
+sku: '306050590'
+name: '306050590'
 description: Arrestors secure your LoRa devices from over-voltage and strong current
   induced by bolts of lightning.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.seeedstudio.com/img/ad
-  models: []
   products:
   - https://www.seeedstudio.com/RF-Explorer-RFEA-1-External-Lightning-Arrestor-p-306050590.html
-  repositories: []
-name: '306050590'
-ref: seeedstudio/306050590
-release_date: null
-sku: '306050590'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://www.seeedstudio.com/img/ad

@@ -1,18 +1,11 @@
-alternatives: []
-certifications: []
+id: mikroe-abcd
+ref: mikroe/mikroe-abcd
+vendor: mikroe
+sku: mikroe-abcd
+name: MIKROE-ABCD
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: MIKROE-ABCD
-ref: mikroe/mikroe-abcd
-release_date: null
-sku: mikroe-abcd
-spec: null
-status: ''
-vendor: mikroe
+  images: []

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: cs01-lb
+ref: dragino/cs01-lb
+vendor: dragino
+sku: cs01-lb
+name: CS01-LB
 description: LoRaWAN 4 Channels Current Sensor Converter. Monitor the machine running
   status.
+status: ''
 extra:
   Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865
   Battery: 8500mAh Li/SOCl2
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/b42628f79a294675b36162209f86e045_L.jpg
-  models: []
   products:
   - https://dragino.com/products/distance-level-sensor/item/322-cs01-lb.html
-  repositories: []
-name: CS01-LB
-ref: dragino/cs01-lb
-release_date: null
-sku: cs01-lb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/b42628f79a294675b36162209f86e045_L.jpg

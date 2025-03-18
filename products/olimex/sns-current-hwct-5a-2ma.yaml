@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sns-current-hwct-5a-2ma
+ref: olimex/sns-current-hwct-5a-2ma
+vendor: olimex
+sku: sns-current-hwct-5a-2ma
+name: SNS-CURRENT-HWCT-5A-2MA
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Sensors/Current/SNS-CURRENT-HWCT-5A-5MA/images/thumbs/200x150/SNS-CURRENT-HWCT-5A-5MA.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Sensors/Current/SNS-CURRENT-HWCT-5A-2MA/
-  repositories: []
-name: SNS-CURRENT-HWCT-5A-2MA
-ref: olimex/sns-current-hwct-5a-2ma
-release_date: null
-sku: sns-current-hwct-5a-2ma
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/Current/SNS-CURRENT-HWCT-5A-5MA/images/thumbs/200x150/SNS-CURRENT-HWCT-5A-5MA.jpg

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: nano-fan-pwm
+ref: waveshare/nano-fan-pwm
+vendor: waveshare
+sku: nano-fan-pwm
+name: NANO-FAN-PWM
 description: Dedicated Cooling fan for Jetson Nano, Built-in Speed-Adjustable Fan,
   Compatible With JETSON NANO MINI
+status: SKU:24142
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/n/a/nano-fan-pwm-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/nano-fan-pwm.htm
-  repositories: []
-name: NANO-FAN-PWM
-ref: waveshare/nano-fan-pwm
-release_date: null
-sku: nano-fan-pwm
-spec: null
-status: SKU:24142
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/n/a/nano-fan-pwm-1.jpg

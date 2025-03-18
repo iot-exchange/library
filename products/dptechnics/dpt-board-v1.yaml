@@ -1,0 +1,23 @@
+id: dpt-board-v1
+ref: dptechnics/dpt-board-v1
+vendor: dptechnics
+sku: dpt-board-v1
+name: DPT-Board-v1
+description: The DPTechnics DPT-Board-v1 is a breakout board for the DPT-Module-v1.
+  It is designed as an IoT-modem that can be easily embedded into applications, featuring
+  various peripherals.
+status: ''
+extra:
+  Certification: CE certified
+  Ethernet Ports: Dual 100Mbps
+  High Voltage Inputs: 3 high voltage (< 75V) inputs
+  Outputs: 8 mosFET outputs (1A @ 20V max)
+  Power Usage: 0.45 watt
+  Processor: Atheros Qualcomm AR9331
+  Processor Speed: 400MHz
+  RAM: 64MHz DDR2
+  USB: USB2.0
+links:
+  products: []
+  images:
+  - https://www.dptechnics.com/images/product/dpt-board-v1.jpg

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '114992686'
+ref: seeedstudio/114992686
+vendor: seeedstudio
+sku: '114992686'
+name: '114992686'
 description: This Heatsink for the Jetson Nano Module offers effective cooling for
   prolonged high-performance computing with heat dissipation through its aluminum
   body.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2018-06bazaar857437_phonesummarysection1en_1_.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Jetson-Nano-Module-Heatsink-p-4968.html
-  repositories: []
-name: '114992686'
-ref: seeedstudio/114992686
-release_date: null
-sku: '114992686'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2018-06bazaar857437_phonesummarysection1en_1_.jpg

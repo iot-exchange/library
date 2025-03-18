@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: vc7200
+ref: vertexcom/vc7200
+vendor: vertexcom
+sku: vc7200
+name: VC7200
 description: VC7200 provides advanced mesh networking capabilities and open-CPU for
   small-to-medium scale IoT applications.
+status: ''
 extra:
   Body Size(mm): 9x9
   Flash: 512 KB
   Package: QFN-64
   RAM: 128 KB
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: VC7200
-ref: vertexcom/vc7200
-release_date: null
-sku: vc7200
-spec: null
-status: ''
-vendor: vertexcom
+  images: []

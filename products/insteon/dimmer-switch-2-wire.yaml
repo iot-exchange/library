@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: dimmer-switch-2-wire
+ref: insteon/dimmer-switch-2-wire
+vendor: insteon
+sku: dimmer-switch-2-wire
+name: Dimmer Switch (2-Wire)
 description: ''
+status: ''
 extra:
   Regular price: $54.95
   Sale price: $54.95
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/products/Insteon_Dimmer_Switch_2-Wire.jpg?v=1724709208&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/2-wire-dimmer-switch
-  repositories: []
-name: Dimmer Switch (2-Wire)
-ref: insteon/dimmer-switch-2-wire
-release_date: null
-sku: dimmer-switch-2-wire
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Insteon_Dimmer_Switch_2-Wire.jpg?v=1724709208&width=533

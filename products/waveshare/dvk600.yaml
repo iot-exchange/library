@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: dvk600
+ref: waveshare/dvk600
+vendor: waveshare
+sku: dvk600
+name: DVK600
 description: Part No.:DVK600
+status: ''
 extra:
   Price: $15.89 - $17.99
   SKU: '6522'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/v/dvk600_l_6_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/dvk600.htm
-  repositories: []
-name: DVK600
-ref: waveshare/dvk600
-release_date: null
-sku: dvk600
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/v/dvk600_l_6_2.jpg

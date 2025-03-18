@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '2600130082'
+ref: we/2600130082
+vendor: we
+sku: '2600130082'
+name: '2600130082'
 description: Hyperion-II 868 MHz
+status: Active
 extra:
   Expected lifetime: '>10 years'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o169403v214%20Single_WIRL_ACCE_2600130083_Hydra-l.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/WIRL_ACCE_2600130082#2600130082
-  repositories: []
-name: '2600130082'
-ref: we/2600130082
-release_date: null
-sku: '2600130082'
-spec: null
-status: Active
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o169403v214%20Single_WIRL_ACCE_2600130083_Hydra-l.jpg

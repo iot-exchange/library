@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: esp32-wroom-32e-n4
+ref: olimex/esp32-wroom-32e-n4
+vendor: olimex
+sku: esp32-wroom-32e-n4
+name: ESP32-WROOM-32E-N4
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/ESP32/ESP32-WROOM-32/images/thumbs/200x150/ESP32-WROOM32-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/ESP32/ESP32-WROOM-32E-N4/
-  repositories: []
-name: ESP32-WROOM-32E-N4
-ref: olimex/esp32-wroom-32e-n4
-release_date: null
-sku: esp32-wroom-32e-n4
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32/ESP32-WROOM-32/images/thumbs/200x150/ESP32-WROOM32-1.jpg

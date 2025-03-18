@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4296
+ref: mikroe/mikroe-4296
+vendor: mikroe
+sku: mikroe-4296
+name: MIKROE-4296
 description: "EEPROM 6 Click is a compact add-on board that contains a serial EEPROM\
   \ memory that operates from the 1-Wire interface. This board features the DS28EC20,\
   \ a 20480-bit EEPROM organized as 80 memory pages of 256 bits each from Analog Devices.\
   \ As a specific feature, blocks of eight memory pages can be write-protected or\
   \ put in \u201CEPROM-Emulation\u201D Mode, where..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/eeprom-6-click/eeprom-6-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/eeprom-6-click
-  repositories: []
-name: MIKROE-4296
-ref: mikroe/mikroe-4296
-release_date: null
-sku: mikroe-4296
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/eeprom-6-click/eeprom-6-click-home_default-1.jpg?v=100

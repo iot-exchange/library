@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '321010003'
+ref: seeedstudio/321010003
+vendor: seeedstudio
+sku: '321010003'
+name: '321010003'
 description: Type-B USB cable in length of 30cm, work with Arduino Uno, RoHS compliant
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductcable20atb.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/USB-Cable-Type-A-to-B-30CM-Black-p-1701.html
-  repositories: []
-name: '321010003'
-ref: seeedstudio/321010003
-release_date: null
-sku: '321010003'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductcable20atb.jpg

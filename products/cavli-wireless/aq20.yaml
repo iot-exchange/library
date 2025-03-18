@@ -1,38 +1,31 @@
-alternatives: []
-certifications: []
+id: aq20
+ref: cavli-wireless/aq20
+vendor: cavli-wireless
+sku: aq20
+name: AQ20
 description: The AQ20 is the first Made-in-India automotive IoT module developed by
   Cavli Wireless, designed to meet the rigorous demands of the automotive industry.
+status: ''
 extra:
-  Baseband Chipset: QWM2290
   Cellular Bands Supported: 'EMEA & APAC: LTE: B2/B4/B5/B7/B12/B13/B25/B41/B66/B71
     GSM- 900/1800MHz; NA: LTE: 2/4/5/7/12/13/25/66 GSM- 900 /1800 MHz'
   Cellular Connectivity Download & Uplink Speed: 'LTE Cat 4: 150Mbps (DL), 50Mbps
     (UL); GSM: 236.8Kbps (DL) & 236.8 Kbps (UL)'
+  Interfaces: 1xI2C, 4xUART, 1xSPI, 1x12S, 1xPCM, 1xMAIN_ANT, 1xGNSS_ANT
+  Key Highlights: LTE Cat 4, 2G Fallback, Open SDK Support, Inbuilt GNSS Support,
+    Integrated eSIM with Hubble Connectivity, USB 2.0 Interface, Applicable regions
+    - (APAC and EMEA)
+  OS: Yocto Linux
+  Baseband Chipset: QWM2290
   Cellular Connectivity Download Speed: 150Mbps
   Cellular Connectivity Uplink Speed: 50Mbps
   GPU: "Qualcomm Adreno\u2122 702"
   GSM Download Speed: 236.8Kbps
   GSM Uplink Speed: 236.8Kbps
-  Interfaces: 1xI2C, 4xUART, 1xSPI, 1x12S, 1xPCM, 1xMAIN_ANT, 1xGNSS_ANT
-  Key Highlights: LTE Cat 4, 2G Fallback, Open SDK Support, Inbuilt GNSS Support,
-    Integrated eSIM with Hubble Connectivity, USB 2.0 Interface, Applicable regions
-    - (APAC and EMEA)
   Middleware: LA2.1 Middleware for 4 wheelers
-  OS: Yocto Linux
   Processor: ARM Cortex-A53 64-bit Processor (Quad-core)
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.cavliwireless.com/assets/images/modules/a-series/AQ20.png
-  models: []
   products:
   - https://www.cavliwireless.com/a-series/aq20.html
-  repositories: []
-name: AQ20
-ref: cavli-wireless/aq20
-release_date: null
-sku: aq20
-spec: null
-status: ''
-vendor: cavli-wireless
+  images:
+  - https://www.cavliwireless.com/assets/images/modules/a-series/AQ20.png

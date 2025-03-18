@@ -1,0 +1,13 @@
+id: otx-cmsis-dap-10
+ref: onethinx/otx-cmsis-dap-10
+vendor: onethinx
+sku: otx-cmsis-dap-10
+name: OTX-CMSIS-DAP-10
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://shop.onethinx.com/products/otx-cmsis-dap-10
+  images:
+  - https://shop.onethinx.com/cdn/shop/files/OTX-CMSIS-DAP-10.png?v=1730990091&width=533

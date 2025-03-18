@@ -1,0 +1,22 @@
+id: gs601
+ref: milesight/gs601
+vendor: milesight
+sku: gs601
+name: GS601
+description: Milesight GS601 Vape Detector is a cutting-edge device designed to enhance
+  indoor air quality and safety by detecting the presence of vape and cigarette smoke
+  in real-time. Engineered for various environments like schools, offices, hospitals,
+  and public spaces, the GS601 uses advanced particulate and gas sensors to identify
+  harmful chemicals and vapor, ensuring a smoke-free and healthier atmosphere.
+status: ''
+extra:
+  Buzzer Setting: Buzzer Hibernate Time Setting
+  Environment Resistance: Resilient Against Environments and Interference
+  Indicators: Status Indicators
+  Sensor Integration: Multi-Sensor Integration
+  Tamper Detection: Tamper Detection
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/gs601
+  images:
+  - https://www.milesight.com/static/pc/en/iot/product/co-created-innovation-program/co-creation-program-gs601-side-selection-pic.png?t=1742198686599

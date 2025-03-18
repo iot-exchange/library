@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: laser-sensor
+ref: waveshare/laser-sensor
+vendor: waveshare
+sku: laser-sensor
+name: Laser Sensor
 description: Laser Sensor
+status: ''
 extra:
   Price: $9.29 - $10.79
   SKU: '9524'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/a/laser-sensor-1_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/laser-sensor.htm
-  repositories: []
-name: Laser Sensor
-ref: waveshare/laser-sensor
-release_date: null
-sku: laser-sensor
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/a/laser-sensor-1_1.jpg

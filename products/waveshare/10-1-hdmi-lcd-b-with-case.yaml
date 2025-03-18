@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 10-1-hdmi-lcd-b-with-case
+ref: waveshare/10-1-hdmi-lcd-b-with-case
+vendor: waveshare
+sku: 10-1-hdmi-lcd-b-with-case
+name: "10.1\u2033 HDMI LCD (B) (with case)"
 description: "10.1inch Capacitive Touch Screen LCD (B) with Case, 1280\xD7800, HDMI,\
   \ IPS Screen, Low Power"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/10.1inch-hdmi-lcd-b-with-case.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.1bk-m_3.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/o/touch-screen_36.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/10.1inch-hdmi-lcd-b-with-case.htm
-  repositories: []
-name: "10.1\u2033 HDMI LCD (B) (with case)"
-ref: waveshare/10-1-hdmi-lcd-b-with-case
-release_date: null
-sku: 10-1-hdmi-lcd-b-with-case
-spec: null
-status: ''
-vendor: waveshare

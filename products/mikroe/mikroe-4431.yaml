@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4431
+ref: mikroe/mikroe-4431
+vendor: mikroe
+sku: mikroe-4431
+name: MIKROE-4431
 description: "DSP Click is a compact add-on board that contains a multi-effects digital\
   \ signal processor. This board features the V1000, a complete multi-effects audio\
   \ DSP with ultra-high quality audio performance in a rapid \u2018time-to-market\u2019\
   \ solution from Coolaudio. The V1000 includes its integrated RAM with 16 built-in\
   \ multi-effects and reverb controlled via I/O pins..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/dsp-click/dsp-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/dsp-click
-  repositories: []
-name: MIKROE-4431
-ref: mikroe/mikroe-4431
-release_date: null
-sku: mikroe-4431
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dsp-click/dsp-click-home_default-1.jpg?v=100

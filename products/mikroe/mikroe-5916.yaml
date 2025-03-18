@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5916
+ref: mikroe/mikroe-5916
+vendor: mikroe
+sku: mikroe-5916
+name: MIKROE-5916
 description: H-Bridge 14 Click is a compact add-on board with an H-Bridge gate driver,
   also known as a full-bridge pre-driver. This board features the DRV8873, an automotive
   H-Bridge motor driver from Texas Instruments. The DRV8873 is an N-channel H-Bridge
   motor driver that can drive one bidirectional brushed DC motor, two unidirectional
   brushed DC motors, solenoids,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/h-bridge-14-click/h-bridge-14-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/h-bridge-14-click
-  repositories: []
-name: MIKROE-5916
-ref: mikroe/mikroe-5916
-release_date: null
-sku: mikroe-5916
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/h-bridge-14-click/h-bridge-14-click-home_default-1.jpg?v=100

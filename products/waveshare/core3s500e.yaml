@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: core3s500e
+ref: waveshare/core3s500e
+vendor: waveshare
+sku: core3s500e
+name: Core3S500E
 description: Part No.:Core3S500E, XILINX Core Board
+status: ''
 extra:
   Price: $98.29 - $99.99
   SKU: '6692'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/core3s500e_l_4_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/core3s500e.htm
-  repositories: []
-name: Core3S500E
-ref: waveshare/core3s500e
-release_date: null
-sku: core3s500e
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/core3s500e_l_4_2.jpg

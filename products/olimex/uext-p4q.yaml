@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: uext-p4q
+ref: olimex/uext-p4q
+vendor: olimex
+sku: uext-p4q
+name: UEXT-P4Q
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Adapters/UEXT-P4Q/images/thumbs/200x150/UEXT-P4Qaw.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Adapters/UEXT-P4Q/open-source-hardware
-  repositories: []
-name: UEXT-P4Q
-ref: olimex/uext-p4q
-release_date: null
-sku: uext-p4q
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Adapters/UEXT-P4Q/images/thumbs/200x150/UEXT-P4Qaw.jpg

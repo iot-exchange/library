@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: avr-pg1b
+ref: olimex/avr-pg1b
+vendor: olimex
+sku: avr-pg1b
+name: AVR-PG1B
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/AVR/Programmers/AVR-PG1B/images/thumbs/200x150/AVR-PG1B-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/AVR/Programmers/AVR-PG1B/
-  repositories: []
-name: AVR-PG1B
-ref: olimex/avr-pg1b
-release_date: null
-sku: avr-pg1b
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/AVR/Programmers/AVR-PG1B/images/thumbs/200x150/AVR-PG1B-01.jpg

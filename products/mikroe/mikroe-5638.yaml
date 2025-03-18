@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5638
+ref: mikroe/mikroe-5638
+vendor: mikroe
+sku: mikroe-5638
+name: MIKROE-5638
 description: GNSS 6 Click is a compact add-on board that provides fast positioning
   capabilities. This board features the Teseo-LIV3FL, a tiny low-power GNSS module
   from STMicroelectronics. It is an easy-to-use global navigation satellite system
   that embeds the Teseo III single-die standalone positioning receiver, which can
   work simultaneously on multiple...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gnss-6-click/gnss-6-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/gnss-6-click
-  repositories: []
-name: MIKROE-5638
-ref: mikroe/mikroe-5638
-release_date: null
-sku: mikroe-5638
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gnss-6-click/gnss-6-click-home_default-1.jpg?v=100

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: msp430-jtag
+ref: olimex/msp430-jtag
+vendor: olimex
+sku: msp430-jtag
+name: MSP430-JTAG
 description: ''
+status: ''
 extra:
   price1: 14.95 EUR
   price2: 13.46 EUR
   price3: 11.96 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/MSP430/JTAG/MSP430-JTAG/images/thumbs/200x150/MSP430-JTAG-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/MSP430/JTAG/MSP430-JTAG/
-  repositories: []
-name: MSP430-JTAG
-ref: olimex/msp430-jtag
-release_date: null
-sku: msp430-jtag
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/MSP430/JTAG/MSP430-JTAG/images/thumbs/200x150/MSP430-JTAG-01.jpg

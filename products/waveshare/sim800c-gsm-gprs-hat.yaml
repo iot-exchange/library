@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: sim800c-gsm-gprs-hat
+ref: waveshare/sim800c-gsm-gprs-hat
+vendor: waveshare
+sku: sim800c-gsm-gprs-hat
+name: SIM800C GSM/GPRS HAT
 description: $18.29  -  $19.99
+status: ''
 extra:
   SKU: '16157'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim800c-gsm-gprs-hat-1_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/sim800c-gsm-gprs-hat.htm
-  repositories: []
-name: SIM800C GSM/GPRS HAT
-ref: waveshare/sim800c-gsm-gprs-hat
-release_date: null
-sku: sim800c-gsm-gprs-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim800c-gsm-gprs-hat-1_1.jpg

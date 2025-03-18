@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pwr-cable-ra
+ref: olimex/pwr-cable-ra
+vendor: olimex
+sku: pwr-cable-ra
+name: PWR-CABLE-RA
 description: ''
+status: ''
 extra:
   discountedPrice1: 0.57 EUR
   discountedPrice2: 0.54 EUR
   price: 0.60 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Cables/PWR-CABLE-RA/images/thumbs/200x150/PWR-CABLE-RA.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Cables/PWR-CABLE-RA/
-  repositories: []
-name: PWR-CABLE-RA
-ref: olimex/pwr-cable-ra
-release_date: null
-sku: pwr-cable-ra
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Cables/PWR-CABLE-RA/images/thumbs/200x150/PWR-CABLE-RA.jpg

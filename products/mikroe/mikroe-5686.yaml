@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5686
+ref: mikroe/mikroe-5686
+vendor: mikroe
+sku: mikroe-5686
+name: MIKROE-5686
 description: IrDA 4 Click is a compact add-on board that provides a cost-effective
   solution for sending and receiving IR serial data. This board features the TFBS4650,
   an infrared transceiver from Vishay Semiconductors. The transceiver includes a PIN
   photodiode, an infrared emitter, and a low-power integral circuit and complies with
   the IrDA physical layer...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/irda-4-click/irda-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/irda-4-click
-  repositories: []
-name: MIKROE-5686
-ref: mikroe/mikroe-5686
-release_date: null
-sku: mikroe-5686
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/irda-4-click/irda-4-click-home_default-1.jpg?v=100

@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-5228
+ref: mikroe/mikroe-5228
+vendor: mikroe
+sku: mikroe-5228
+name: MIKROE-5228
 description: ADAC 3 Click is a compact add-on board representing the ADC/DAC combo
   solution. This board features the PCF8591, a low-power 8-bit CMOS data acquisition
   device with four analog inputs, one analog output, and a serial I2C interface from
   NXP Semiconductors. The PCF8591 includes analog input...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/adac-3-click/adac-3-click-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/necto/necto-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/adac-3-click
   - https://www.mikroe.com/necto
-  repositories: []
-name: MIKROE-5228
-ref: mikroe/mikroe-5228
-release_date: null
-sku: mikroe-5228
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/adac-3-click/adac-3-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/necto/necto-home_default-1.jpg?v=100

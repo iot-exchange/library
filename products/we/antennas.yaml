@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: antennas
+ref: we/antennas
+vendor: we
+sku: antennas
+name: Antennas
 description: Antennas
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o153218v214%20Single_WIRL_ACCE_Antennen_Sammelbild.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/wirl-antennas
-  repositories: []
-name: Antennas
-ref: we/antennas
-release_date: null
-sku: antennas
-spec: null
-status: ''
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o153218v214%20Single_WIRL_ACCE_Antennen_Sammelbild.jpg

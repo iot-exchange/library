@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-400-personal-computer-kit
+ref: raspberrypi/raspberry-pi-400-personal-computer-kit
+vendor: raspberrypi
+sku: raspberry-pi-400-personal-computer-kit
+name: Raspberry Pi 400 Personal Computer Kit
 description: Raspberry Pi 400 is a complete personal computer, built into a compact
   keyboard.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/99f04f883e91844ca08aedd3eff584b7/3f4ea/877421eb-1c8f-4698-853e-9bf664e9b061_400%2BDesktop%2BKIt%2BMain.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/raspberry-pi-400/
-  repositories: []
-name: Raspberry Pi 400 Personal Computer Kit
-ref: raspberrypi/raspberry-pi-400-personal-computer-kit
-release_date: null
-sku: raspberry-pi-400-personal-computer-kit
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/99f04f883e91844ca08aedd3eff584b7/3f4ea/877421eb-1c8f-4698-853e-9bf664e9b061_400%2BDesktop%2BKIt%2BMain.jpg

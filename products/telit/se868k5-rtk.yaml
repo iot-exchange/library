@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: se868k5-rtk
+ref: telit/se868k5-rtk
+vendor: telit
+sku: se868k5-rtk
+name: SE868K5-RTK
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2024/01/TC_SE868K5-RTK_dynamic-269x200.png
-  models: []
   products:
   - https://www.telit.com/devices/se868k5-rtk/
-  repositories: []
-name: SE868K5-RTK
-ref: telit/se868k5-rtk
-release_date: null
-sku: se868k5-rtk
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/01/TC_SE868K5-RTK_dynamic-269x200.png

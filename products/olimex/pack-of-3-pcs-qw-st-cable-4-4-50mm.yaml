@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pack-of-3-pcs-qw-st-cable-4-4-50mm
+ref: olimex/pack-of-3-pcs-qw-st-cable-4-4-50mm
+vendor: olimex
+sku: pack-of-3-pcs-qw-st-cable-4-4-50mm
+name: Pack of 3 pcs QW-ST-CABLE-4-4-50MM
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Adapters/QW-ST-CABLE-4-4-50MM/images/thumbs/200x150/QWST.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Adapters/QW-ST-CABLE-4-4-50MM/
-  repositories: []
-name: Pack of 3 pcs QW-ST-CABLE-4-4-50MM
-ref: olimex/pack-of-3-pcs-qw-st-cable-4-4-50mm
-release_date: null
-sku: pack-of-3-pcs-qw-st-cable-4-4-50mm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Adapters/QW-ST-CABLE-4-4-50MM/images/thumbs/200x150/QWST.jpg

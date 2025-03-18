@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: lsn50v2-s31b
+ref: dragino/lsn50v2-s31b
+vendor: dragino
+sku: lsn50v2-s31b
+name: LSN50v2-S31B
 description: LoRaWAN Waterproof /Outdoor Temperature Sensor Bands:EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
   Ultra Low Power Consumption Monitor Temperature , Humidity Temperature Alarm
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/817a0b87c8b4a5b09390d4c2ae24ca96_L.jpg
-  models: []
   products:
   - https://dragino.com/products/temperature-humidity-sensor/item/189-lsn50v2-s31b.html
-  repositories: []
-name: LSN50v2-S31B
-ref: dragino/lsn50v2-s31b
-release_date: null
-sku: lsn50v2-s31b
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/817a0b87c8b4a5b09390d4c2ae24ca96_L.jpg

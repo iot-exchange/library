@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: duinomite-shield
+ref: olimex/duinomite-shield
+vendor: olimex
+sku: duinomite-shield
+name: DUINOMITE-SHIELD
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Duino/Duinomite/DUINOMITE-SHIELD/images/thumbs/200x150/DUINOMITE-SHIELD-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Duino/Duinomite/DUINOMITE-SHIELD/open-source-hardware
-  repositories: []
-name: DUINOMITE-SHIELD
-ref: olimex/duinomite-shield
-release_date: null
-sku: duinomite-shield
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Duino/Duinomite/DUINOMITE-SHIELD/images/thumbs/200x150/DUINOMITE-SHIELD-1.jpg

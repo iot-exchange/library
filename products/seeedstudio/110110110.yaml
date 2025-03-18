@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '110110110'
+ref: seeedstudio/110110110
+vendor: seeedstudio
+sku: '110110110'
+name: '110110110'
 description: The Mini Router is pre-installed Seeed's custom OpenWRT system, the hardware
   is equipped with dual Gigabit Ethernet ports and dual USB 3.0 ports, as well as
   a Raspberry Pi Compute Module 4 with 4GB RAM and 32GB eMMC. The full system makes
   it suitable for soft router applications while keeping the hardware to a minimum.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110110110_preview-16.png
-  models: []
   products:
   - https://www.seeedstudio.com/Dual-GbE-Carrier-Board-with-4GB-RAM-32GB-eMMC-RPi-CM4-Case-p-5029.html
-  repositories: []
-name: '110110110'
-ref: seeedstudio/110110110
-release_date: null
-sku: '110110110'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110110110_preview-16.png

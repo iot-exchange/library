@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: type-2an
+ref: murata/type-2an
+vendor: murata
+sku: type-2an
+name: Type 2AN
 description: DSRC / C-V2X standard processor module
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/products/connectivitymodule/v2x/overview/lineup/type2an
-  repositories: []
-name: Type 2AN
-ref: murata/type-2an
-release_date: null
-sku: type-2an
-spec: null
-status: ''
-vendor: murata
+  images: []

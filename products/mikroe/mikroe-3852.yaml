@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-3852
+ref: mikroe/mikroe-3852
+vendor: mikroe
+sku: mikroe-3852
+name: MIKROE-3852
 description: MCU Card is a standardized add-on board, which allows very simple installation
   and replacement of the microcontroller unit (MCU) on a development board equipped
   with the MCU Card socket. By introducing the new MCU Card standard, we have ensured
   the absolute compatibility between the development board and any of the supported
   MCUs, regardless of their pin...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mcu-card-for-stm32-stm32f427zi/mcu-card-for-stm32-stm32f427zi-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/mcu-card-for-stm32-stm32f439zg/mcu-card-for-stm32-stm32f439zg-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=118#MCU-CARD-for-STM32-STM32F439ZG
   - https://www.mikroe.com/shop?p=118#SiBRAIN-for-STM32F427ZI
-  repositories: []
-name: MIKROE-3852
-ref: mikroe/mikroe-3852
-release_date: null
-sku: mikroe-3852
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mcu-card-for-stm32-stm32f427zi/mcu-card-for-stm32-stm32f427zi-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/mcu-card-for-stm32-stm32f439zg/mcu-card-for-stm32-stm32f439zg-home_default-1.jpg?v=100

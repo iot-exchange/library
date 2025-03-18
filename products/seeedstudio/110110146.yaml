@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: '110110146'
+ref: seeedstudio/110110146
+vendor: seeedstudio
+sku: '110110146'
+name: '110110146'
 description: "Powerful and compact edge AI device with NVIDIA\xAE Jetson Orin\u2122\
   \ Nano SoM, delivering 20 TOPS AI performance, up to 40X the performance of NVIDIA\xAE\
   \ Jetson Nano\u2122 and sets the new baseline for entry-level. reComputer J3010\
   \ is pre-built Jetpack 5.1.1, 128GB SSD, 4x USB 3.2, HDMI, GbE, carrier board also\
   \ includes M.2 key E for WIFI, M.2 Key M for SSD, RTC, CAN, 40-pin and more."
+status: ''
 extra:
   price: $499.00
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/reComputer-J3010-p-5589.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110110144.jpg
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110110146.jpg
-  models: []
-  products:
-  - https://www.seeedstudio.com/reComputer-J3010-p-5589.html
-  repositories: []
-name: '110110146'
-ref: seeedstudio/110110146
-release_date: null
-sku: '110110146'
-spec: null
-status: ''
-vendor: seeedstudio

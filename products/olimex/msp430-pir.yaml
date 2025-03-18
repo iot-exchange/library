@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: msp430-pir
+ref: olimex/msp430-pir
+vendor: olimex
+sku: msp430-pir
+name: MSP430-PIR
 description: ''
+status: ''
 extra:
   price1: 5.95 EUR
   price2: 5.36 EUR
   price3: 4.76 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/MSP430/Starter/MSP430-PIR/images/thumbs/200x150/MSP430-PIR-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/MSP430/Starter/MSP430-PIR/
-  repositories: []
-name: MSP430-PIR
-ref: olimex/msp430-pir
-release_date: null
-sku: msp430-pir
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/MSP430/Starter/MSP430-PIR/images/thumbs/200x150/MSP430-PIR-01.jpg

@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: '802000142'
+ref: seeedstudio/802000142
+vendor: seeedstudio
+sku: '802000142'
+name: '802000142'
 description: "Brain Builder is an AI training tool that facilitates efficient AI processing\
   \ on edge sensing devices equipped with IMX500 or IMX501. It enables rapid training\
   \ of AI models using images captured in the customer\u2019s environment. Additionally,\
@@ -7,25 +10,15 @@ description: "Brain Builder is an AI training tool that facilitates efficient AI
   \ supporting the development of compact AI that is crucial for edge implementations.\
   \ The current price is for early bird and will revert to original price after the\
   \ promotion period ends."
+status: ''
 extra:
-  Current Price: $285.00
-  Discount: 71%
   Discount Percentage: 71%
   Discounted Price: $285.00
   Original Price: $995.00
+  Current Price: $285.00
+  Discount: 71%
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/8/0/802000142_1_1.png
-  models: []
   products:
   - https://www.seeedstudio.com/Brain-Builder-Classifier-Detector-for-AITRIO-6M-p-6240.html
-  repositories: []
-name: '802000142'
-ref: seeedstudio/802000142
-release_date: null
-sku: '802000142'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/8/0/802000142_1_1.png

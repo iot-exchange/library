@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5835
+ref: mikroe/mikroe-5835
+vendor: mikroe
+sku: mikroe-5835
+name: MIKROE-5835
 description: DB9 Cable Male-to-Male (2m) is a cable in white designed for seamless
   data transfer between devices. With a 1:1 pin configuration, it ensures precise
   signal transmission. Ideal for various applications such as serial communication
   and industrial automation, it's durable construction and shielding maintain reliability
   even in noisy environments.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/db9-cable-male-to-male-2m/db9-cable-male-to-male-2m-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/db9-cable-male-to-male-2m
-  repositories: []
-name: MIKROE-5835
-ref: mikroe/mikroe-5835
-release_date: null
-sku: mikroe-5835
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/db9-cable-male-to-male-2m/db9-cable-male-to-male-2m-home_default-1.jpg?v=100

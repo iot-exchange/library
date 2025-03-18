@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: a13-olinuxino
+ref: olimex/a13-olinuxino
+vendor: olimex
+sku: a13-olinuxino
+name: A13-OLinuXino
 description: ''
+status: ''
 extra:
   10+ pcs: 28.50 EUR
   50+ pcs: 27.00 EUR
   Price: 30.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/A13/A13-OLinuXino/images/thumbs/200x150/A13-OLinuXino-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/A13/A13-OLinuXino/open-source-hardware
-  repositories: []
-name: A13-OLinuXino
-ref: olimex/a13-olinuxino
-release_date: null
-sku: a13-olinuxino
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A13/A13-OLinuXino/images/thumbs/200x150/A13-OLinuXino-01.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4480
+ref: mikroe/mikroe-4480
+vendor: mikroe
+sku: mikroe-4480
+name: MIKROE-4480
 description: The GNSS Active External Antenna is a unique multi-band type of antenna
   coming from u-Blox that is perfect selection for high precision GNSS applications,
   which require highly accurate location abilities such as RTK. The ANN-MB-00 is a
   multi-band (L1, L2/E5b/B2I) active GNSS antenna with 5 m cable and SMA connector.
   Antenna supports GPS, GLONASS, Galileo...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gnss-active-external-antenna/gnss-active-external-antenna-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/gnss-active-external-antenna
-  repositories: []
-name: MIKROE-4480
-ref: mikroe/mikroe-4480
-release_date: null
-sku: mikroe-4480
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gnss-active-external-antenna/gnss-active-external-antenna-home_default-1.jpg?v=100

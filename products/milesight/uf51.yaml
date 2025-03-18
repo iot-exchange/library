@@ -1,0 +1,13 @@
+id: uf51
+ref: milesight/uf51
+vendor: milesight
+sku: uf51
+name: UF51
+description: 5G CPE UF51 G-to-WiFi Solution
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/5g/uf51
+  images:
+  - https://www.milesight.com/static/pc/en/product/center/5g-cellular-products/index/uf51-5g-series.png?t=1742198692607

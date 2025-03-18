@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: nitrogen8m-mini-som
+ref: ezurio/nitrogen8m-mini-som
+vendor: ezurio
+sku: nitrogen8m-mini-som
+name: Nitrogen8M Mini SOM
 description: "4x Cortex\xAE-A53 cores @ 1.8 GHz (NXP i.MX 8M Mini), 1x Cortex\xAE\
   -M4F core (NXP i.MX 8M Mini), Wi-Fi 5 (802.11ac) Bluetooth 5.0"
+status: Active
 extra:
   Dimensions (L x W): 69.6 x 40
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ezurio.com/system-on-module/nxp-imx8/nitrogen8m-mini-som
-  repositories: []
-name: Nitrogen8M Mini SOM
-ref: ezurio/nitrogen8m-mini-som
-release_date: null
-sku: nitrogen8m-mini-som
-spec: null
-status: Active
-vendor: ezurio
+  images: []

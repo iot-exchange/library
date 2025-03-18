@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '113991236'
+ref: seeedstudio/113991236
+vendor: seeedstudio
+sku: '113991236'
+name: '113991236'
 description: The LinkStar-H28K has two Gigabit network ports that use PCIE/RGMII gigabit
   technology and a Quad-core chip. It has LPDDR4X 2GB memory and 8GB eMMC storage
   that can be expanded up to 512 GB with a TF card. It also has a 5V-12V Type-C connection
   for PD (Power Delivery) capability.
+status: ''
 extra:
   RAM: 2GB
   eMMC: 8GB
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-113991236-linkstar-h28k-0208-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/LinkStar-H28K-0208-p-5848.html
-  repositories: []
-name: '113991236'
-ref: seeedstudio/113991236
-release_date: null
-sku: '113991236'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-113991236-linkstar-h28k-0208-45font.jpg

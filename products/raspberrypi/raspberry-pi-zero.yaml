@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-zero
+ref: raspberrypi/raspberry-pi-zero
+vendor: raspberrypi
+sku: raspberry-pi-zero
+name: Raspberry Pi Zero
 description: Our lowest-cost single-board computer
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/391c8a80d908358052477829f0533997/3f4ea/656a14be-ba7e-476d-94ff-3dba02c4050e_Pi%2BZERO%2BAngle%2B1.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/raspberry-pi-zero/
-  repositories: []
-name: Raspberry Pi Zero
-ref: raspberrypi/raspberry-pi-zero
-release_date: null
-sku: raspberry-pi-zero
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/391c8a80d908358052477829f0533997/3f4ea/656a14be-ba7e-476d-94ff-3dba02c4050e_Pi%2BZERO%2BAngle%2B1.jpg

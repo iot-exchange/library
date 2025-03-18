@@ -1,18 +1,11 @@
-alternatives: []
-certifications: []
+id: matter-protocol
+ref: nxp/matter-protocol
+vendor: nxp
+sku: matter-protocol
+name: MATTER-PROTOCOL
 description: Matter Open-Source Protocol Compatible Products
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: MATTER-PROTOCOL
-ref: nxp/matter-protocol
-release_date: null
-sku: matter-protocol
-spec: null
-status: ''
-vendor: nxp
+  images: []

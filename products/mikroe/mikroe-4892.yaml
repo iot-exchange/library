@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4892
+ref: mikroe/mikroe-4892
+vendor: mikroe
+sku: mikroe-4892
+name: MIKROE-4892
 description: Temp&Hum 18 Click is a compact add-on board that represents temperature
   and humidity sensing solutions. This board features the HS3003, a highly accurate,
   fully calibrated relative humidity and temperature sensor from Renesas. It features
   proprietary sensor-level protection, ensuring high reliability and long-term stability.
   Integrated calibration and...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/temphum-18-click/temphum-18-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=72#Temp&Hum18Click
-  repositories: []
-name: MIKROE-4892
-ref: mikroe/mikroe-4892
-release_date: null
-sku: mikroe-4892
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/temphum-18-click/temphum-18-click-home_default-1.jpg?v=100

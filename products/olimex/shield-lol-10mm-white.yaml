@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: shield-lol-10mm-white
+ref: olimex/shield-lol-10mm-white
+vendor: olimex
+sku: shield-lol-10mm-white
+name: SHIELD-LOL-10MM-WHITE
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Duino/Shields/SHIELD-LOL-10MM/images/thumbs/200x150/LOL-10MM-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Duino/Shields/SHIELD-LOL-10MM-WHITE/open-source-hardware
-  repositories: []
-name: SHIELD-LOL-10MM-WHITE
-ref: olimex/shield-lol-10mm-white
-release_date: null
-sku: shield-lol-10mm-white
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Duino/Shields/SHIELD-LOL-10MM/images/thumbs/200x150/LOL-10MM-1.jpg

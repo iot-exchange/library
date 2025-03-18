@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6353
+ref: mikroe/mikroe-6353
+vendor: mikroe
+sku: mikroe-6353
+name: MIKROE-6353
 description: GNSS MAX 2 Click is a compact add-on board designed for precise positioning
   in urban environments. This board features the MAX-F10S, a professional-grade L1/L5
   dual-band GNSS receiver from u-blox. This receiver uses dual-band GNSS technology
   to provide meter-level accuracy, even in challenging urban areas, by mitigating
   multipath effects. It supports...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gnss-max-2-click/gnss-max-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/gnss-max-2-click
-  repositories: []
-name: MIKROE-6353
-ref: mikroe/mikroe-6353
-release_date: null
-sku: mikroe-6353
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gnss-max-2-click/gnss-max-2-click-home_default-1.jpg?v=100

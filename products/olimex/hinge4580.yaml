@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: hinge4580
+ref: olimex/hinge4580
+vendor: olimex
+sku: hinge4580
+name: HINGE4580
 description: ''
+status: ''
 extra:
   price1: 3.00 EUR
   price2: 2.85 EUR
   price3: 2.70 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/HINGE4580/images/thumbs/200x150/HINGE4580.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/HINGE4580/
-  repositories: []
-name: HINGE4580
-ref: olimex/hinge4580
-release_date: null
-sku: hinge4580
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/HINGE4580/images/thumbs/200x150/HINGE4580.jpg

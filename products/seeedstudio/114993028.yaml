@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '114993028'
+ref: seeedstudio/114993028
+vendor: seeedstudio
+sku: '114993028'
+name: '114993028'
 description: Raspberry Pi Camera Module 3 NoIR is a compact camera from Raspberry
   Pi. It offers an IMX708 12-megapixel sensor with HDR, and features phase detection
   autofocus.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114070181-sliding-block-for-linear-guideway-rail_including-screws_-45font.jpg
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993028-raspberry-pi-camera-3-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-Camera-3-NoIR-p-5575.html
   - https://www.seeedstudio.com/Raspberry-Pi-Camera-3-p-5574.html
-  repositories: []
-name: '114993028'
-ref: seeedstudio/114993028
-release_date: null
-sku: '114993028'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114070181-sliding-block-for-linear-guideway-rail_including-screws_-45font.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993028-raspberry-pi-camera-3-45font.jpg

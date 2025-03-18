@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: cc3501e
+ref: ti/cc3501e
+vendor: ti
+sku: cc3501e
+name: CC3501E
 description: ''
+status: New
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ti.com/product/CC3501E
-  repositories: []
-name: CC3501E
-ref: ti/cc3501e
-release_date: null
-sku: cc3501e
-spec: null
-status: New
-vendor: ti
+  images: []

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sns-inductive
+ref: olimex/sns-inductive
+vendor: olimex
+sku: sns-inductive
+name: SNS-INDUCTIVE
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Sensors/Distance/SNS-INDUCTIVE/images/thumbs/200x150/SNS-INDUCTIVE.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Sensors/Distance/SNS-INDUCTIVE/
-  repositories: []
-name: SNS-INDUCTIVE
-ref: olimex/sns-inductive
-release_date: null
-sku: sns-inductive
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/Distance/SNS-INDUCTIVE/images/thumbs/200x150/SNS-INDUCTIVE.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: msp430-rflink
+ref: olimex/msp430-rflink
+vendor: olimex
+sku: msp430-rflink
+name: MSP430-RFLINK
 description: ''
+status: ''
 extra:
   price1: 11.95 EUR
   price2: 10.76 EUR
   price3: 9.56 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/MSP430/Header/MSP430-RFLINK/images/thumbs/200x150/MSP430-RFLINK-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/MSP430/Header/MSP430-RFLINK/
-  repositories: []
-name: MSP430-RFLINK
-ref: olimex/msp430-rflink
-release_date: null
-sku: msp430-rflink
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/MSP430/Header/MSP430-RFLINK/images/thumbs/200x150/MSP430-RFLINK-01.jpg

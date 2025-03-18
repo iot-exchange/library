@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: gp-qfp144-0-5
+ref: waveshare/gp-qfp144-0-5
+vendor: waveshare
+sku: gp-qfp144-0-5
+name: GP-QFP144-0.5
 description: GP-QFP144-0.5, Programmer Adapter
+status: ''
 extra:
   Price: $96.99 - $102.99
   SKU: '6728'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/p/gp-qfp144-0.5_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/gp-qfp144-0.5.htm
-  repositories: []
-name: GP-QFP144-0.5
-ref: waveshare/gp-qfp144-0-5
-release_date: null
-sku: gp-qfp144-0-5
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/p/gp-qfp144-0.5_l_1_5.jpg

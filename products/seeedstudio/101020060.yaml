@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '101020060'
+ref: seeedstudio/101020060
+vendor: seeedstudio
+sku: '101020060'
+name: '101020060'
 description: "PIR\uFF08Passive Infrared Detection\uFF09are used to detect motion of\
   \ human movement"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductpir20motion20large20lens.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/PIR-Motion-Sensor-Large-Lens-version.html
-  repositories: []
-name: '101020060'
-ref: seeedstudio/101020060
-release_date: null
-sku: '101020060'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductpir20motion20large20lens.jpg

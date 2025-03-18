@@ -1,0 +1,13 @@
+id: em320-th
+ref: milesight/em320-th
+vendor: milesight
+sku: em320-th
+name: EM320-TH
+description: Temperature and Humidity Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/em320-th
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/environmental-monitoring-em300-series/temperature-and-humidity-sensor-em320-th.png?t=1742198585390

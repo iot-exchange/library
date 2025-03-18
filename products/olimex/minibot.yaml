@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: minibot
+ref: olimex/minibot
+vendor: olimex
+sku: minibot
+name: MINIBOT
 description: ''
+status: ''
 extra:
-  bulkPrice: 4.46 EUR
-  discountedPrice: 4.70 EUR
   discountedPrice1: 4.70 EUR
   discountedPrice2: 4.46 EUR
   price: 4.95 EUR
+  bulkPrice: 4.46 EUR
+  discountedPrice: 4.70 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Soldering-Kits/Beginner/MINIBOT/images/thumbs/200x150/minibot.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Soldering-Kits/Beginner/MINIBOT/open-source-hardware
-  repositories: []
-name: MINIBOT
-ref: olimex/minibot
-release_date: null
-sku: minibot
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Soldering-Kits/Beginner/MINIBOT/images/thumbs/200x150/minibot.jpg

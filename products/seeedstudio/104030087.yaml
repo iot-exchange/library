@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '104030087'
+ref: seeedstudio/104030087
+vendor: seeedstudio
+sku: '104030087'
+name: '104030087'
 description: "Seeed Studio Round Display for XIAO - 1.28-inch round touch screen,\
   \ 240\xD7240 resolution, 65k colors, RTC, charge IC, TF card slot, JST 1.25 connector,\
   \ All XIAO Compatible,HMI, Smart Home, Wearables"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-104030087-seeed-studio-round-display-for-xiao-new-first.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Seeed-Studio-Round-Display-for-XIAO-p-5638.html
-  repositories: []
-name: '104030087'
-ref: seeedstudio/104030087
-release_date: null
-sku: '104030087'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-104030087-seeed-studio-round-display-for-xiao-new-first.jpg

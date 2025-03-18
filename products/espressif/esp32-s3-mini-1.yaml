@@ -1,9 +1,13 @@
-alternatives: []
-certifications: []
+id: esp32-s3-mini-1
+ref: espressif/esp32-s3-mini-1
+vendor: espressif
+sku: esp32-s3-mini-1
+name: ESP32-S3-MINI-1
 description: ESP32-S3-MINI-1 is a powerful, generic Wi-Fi + Bluetooth LE MCU module
   that features a rich set of peripherals, yet an optimized size. It is an ideal choice
   for a wide variety of application scenarios related to Internet of Things (IoT),
   such as embedded systems, smart home, wearable electronics, etc.
+status: ''
 extra:
   Antenna: PCB antenna
   Chip Embedded: ESP32-S3FN8, ESP32-S3FH4R2
@@ -15,18 +19,7 @@ extra:
   PSRAM (MB): N/A
   Pins: '65'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP32-S3-MINI-1%20S_0.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf
-  repositories: []
-name: ESP32-S3-MINI-1
-ref: espressif/esp32-s3-mini-1
-release_date: null
-sku: esp32-s3-mini-1
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-S3-MINI-1%20S_0.png

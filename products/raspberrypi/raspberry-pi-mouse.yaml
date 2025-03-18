@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-mouse
+ref: raspberrypi/raspberry-pi-mouse
+vendor: raspberrypi
+sku: raspberry-pi-mouse
+name: Raspberry Pi Mouse
 description: The official Raspberry Pi mouse
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.raspberrypi.com/products/raspberry-pi-mouse/
-  repositories: []
-name: Raspberry Pi Mouse
-ref: raspberrypi/raspberry-pi-mouse
-release_date: null
-sku: raspberry-pi-mouse
-spec: null
-status: ''
-vendor: raspberrypi
+  images: []

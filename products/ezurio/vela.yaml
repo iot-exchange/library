@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: vela
+ref: ezurio/vela
+vendor: ezurio
+sku: vela
+name: Vela
 description: Bluetooth module for industrial applications.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ezurio.com/partners/technology/wirepas
-  repositories: []
-name: Vela
-ref: ezurio/vela
-release_date: null
-sku: vela
-spec: null
-status: ''
-vendor: ezurio
+  images: []

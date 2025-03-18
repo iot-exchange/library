@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: heatsink-for-rock-4
+ref: radxa/heatsink-for-rock-4
+vendor: radxa
+sku: heatsink-for-rock-4
+name: Heatsink for ROCK 4
 description: Specialized for ROCK 4 Series
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/heatsink/ae002/thumb_heatsink_for_rock4.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/heatsink-for-rock4
-  repositories: []
-name: Heatsink for ROCK 4
-ref: radxa/heatsink-for-rock-4
-release_date: null
-sku: heatsink-for-rock-4
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/heatsink/ae002/thumb_heatsink_for_rock4.webp

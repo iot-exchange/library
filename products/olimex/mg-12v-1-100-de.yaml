@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: mg-12v-1-100-de
+ref: olimex/mg-12v-1-100-de
+vendor: olimex
+sku: mg-12v-1-100-de
+name: MG-12V-1-100-DE
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/MG-12V-1-100-DE/images/thumbs/200x150/MG-12V-DE5.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/MG-12V-1-100-DE/
-  repositories: []
-name: MG-12V-1-100-DE
-ref: olimex/mg-12v-1-100-de
-release_date: null
-sku: mg-12v-1-100-de
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/MG-12V-1-100-DE/images/thumbs/200x150/MG-12V-DE5.jpg

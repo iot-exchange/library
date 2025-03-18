@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: '114993388'
+ref: seeedstudio/114993388
+vendor: seeedstudio
+sku: '114993388'
+name: '114993388'
 description: This MR60FDA2 Sensor Kit leverages 60GHz mmWave technology, offering
   reliable fall detection and human presence detection. Featuring light level sensing,
   an RGB LED for customizable interaction, and support for extended sensors/actuators,
@@ -9,21 +12,11 @@ description: This MR60FDA2 Sensor Kit leverages 60GHz mmWave technology, offerin
   ESPHome firmware, this kit offers no-code plug-and-play integration with Home Assistant
   to customize detection zones, making it an ideal solution for healthcare monitoring,
   safety monitoring, elderly care, home automation, and more.
+status: ''
 extra:
   price: $24.90
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/11-114993388-mr60fda2-60ghz-mmwave-1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/MR60FDA2-60GHz-mmWave-Sensor-Fall-Detection-Module-p-5946.html
-  repositories: []
-name: '114993388'
-ref: seeedstudio/114993388
-release_date: null
-sku: '114993388'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/11-114993388-mr60fda2-60ghz-mmwave-1.jpg

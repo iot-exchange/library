@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: atn-tr6005-s
+ref: olimex/atn-tr6005-s
+vendor: olimex
+sku: atn-tr6005-s
+name: ATN-TR6005-S
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Power/ATN-TR6005-S/images/thumbs/200x150/ATN-TR6005-S-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Power/ATN-TR6005-S/
-  repositories: []
-name: ATN-TR6005-S
-ref: olimex/atn-tr6005-s
-release_date: null
-sku: atn-tr6005-s
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Power/ATN-TR6005-S/images/thumbs/200x150/ATN-TR6005-S-1.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: cm3s-medge-rk3566
+ref: radxa/cm3s-medge-rk3566
+vendor: radxa
+sku: cm3s-medge-rk3566
+name: CM3S(mEdge-RK3566)
 description: Radxa mEdge-RK3566
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/medge/medge-rk3566/thumb_cm3s.webp
-  models: []
   products:
   - https://radxa.com/products/medge/cm3s
-  repositories: []
-name: CM3S(mEdge-RK3566)
-ref: radxa/cm3s-medge-rk3566
-release_date: null
-sku: cm3s-medge-rk3566
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/medge/medge-rk3566/thumb_cm3s.webp

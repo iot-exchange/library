@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: metal-flat-key-shaft-flange-plate-a
+ref: waveshare/metal-flat-key-shaft-flange-plate-a
+vendor: waveshare
+sku: metal-flat-key-shaft-flange-plate-a
+name: Metal Flat Key Shaft Flange Plate-A
 description: Metal Flat Key Shaft Flange Plate, Suitable For Using with Serial Bus
   Servo
+status: ''
 extra:
   Price: $2.82  -  $2.99
   SKU: '24985'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/e/metal-flat-key-shaft-flange-plate-a-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/metal-flat-key-shaft-flange-plate-a.htm
   - https://www.waveshare.com/product/metal-flat-key-shaft-flange-plate-a.htm "Metal
     Flat Key Shaft Flange Plate, Suitable For Using with Serial Bus Servo"
-  repositories: []
-name: Metal Flat Key Shaft Flange Plate-A
-ref: waveshare/metal-flat-key-shaft-flange-plate-a
-release_date: null
-sku: metal-flat-key-shaft-flange-plate-a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/e/metal-flat-key-shaft-flange-plate-a-1.jpg

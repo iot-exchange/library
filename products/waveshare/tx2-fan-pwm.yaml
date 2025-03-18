@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: tx2-fan-pwm
+ref: waveshare/tx2-fan-pwm
+vendor: waveshare
+sku: tx2-fan-pwm
+name: TX2-FAN-PWM
 description: Dedicated Cooling fan for Jetson TX2 NX
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/x/tx2-fan-pwm-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/tx2-fan-pwm.htm
-  repositories: []
-name: TX2-FAN-PWM
-ref: waveshare/tx2-fan-pwm
-release_date: null
-sku: tx2-fan-pwm
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/x/tx2-fan-pwm-1.jpg

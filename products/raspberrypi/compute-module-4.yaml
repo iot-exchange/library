@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: compute-module-4
+ref: raspberrypi/compute-module-4
+vendor: raspberrypi
+sku: compute-module-4
+name: Compute Module 4
 description: The power of Raspberry Pi 4 in a small, flexible form factor, available
   with a range of storage capacities and optional wireless connectivity
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/ae2f86fba83d3fc5ab584ca7ac380198/3f4ea/bfe15853-d10f-4ed9-b9f0-32540bd76e55_CM4%2BFeatured%2BImage.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/compute-module-4/
-  repositories: []
-name: Compute Module 4
-ref: raspberrypi/compute-module-4
-release_date: null
-sku: compute-module-4
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/ae2f86fba83d3fc5ab584ca7ac380198/3f4ea/bfe15853-d10f-4ed9-b9f0-32540bd76e55_CM4%2BFeatured%2BImage.jpg

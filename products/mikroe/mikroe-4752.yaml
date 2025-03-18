@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4752
+ref: mikroe/mikroe-4752
+vendor: mikroe
+sku: mikroe-4752
+name: MIKROE-4752
 description: Touchpad 4 Click is a compact add-on board that easily integrates projected
   capacitive touch into user's applications. This board features the IQS7211A, a tiny
   capacitive touch controller from Azoteq. A low-power dedicated wake-up touch controller
   launches a complete touchscreen sensing solution with a 25.4 x 29mm trackpad dimension,
   best-in-class...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/touchpad-4-click/touchpad-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/touchpad-4-click
-  repositories: []
-name: MIKROE-4752
-ref: mikroe/mikroe-4752
-release_date: null
-sku: mikroe-4752
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/touchpad-4-click/touchpad-4-click-home_default-1.jpg?v=100

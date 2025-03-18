@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: nucleo-f401re
+ref: waveshare/nucleo-f401re
+vendor: waveshare
+sku: nucleo-f401re
+name: NUCLEO-F401RE
 description: NUCLEO-F401RE , STM32F4 NUCLEO Board
+status: ''
 extra:
   Price: $25.97 - $26.99
   SKU: '8493'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/n/u/nucleo-f401re_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/nucleo-f401re.htm
-  repositories: []
-name: NUCLEO-F401RE
-ref: waveshare/nucleo-f401re
-release_date: null
-sku: nucleo-f401re
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/n/u/nucleo-f401re_l_1_5.jpg

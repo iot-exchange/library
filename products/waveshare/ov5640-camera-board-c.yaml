@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: ov5640-camera-board-c
+ref: waveshare/ov5640-camera-board-c
+vendor: waveshare
+sku: ov5640-camera-board-c
+name: OV5640 Camera Board (C)
 description: OV5640 Camera Board (C), 5 Megapixel (2592x1944), Auto Focusing, Onboard
   Flash
+status: ''
 extra:
   Price: $24.29 - $25.99
   SKU: '13802'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/ov5640-camera-board-c.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/v/ov5640-camera-board-c-4.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/v/ov5640-camera-board-c-intro.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/ov5640-camera-board-c.htm
-  repositories: []
-name: OV5640 Camera Board (C)
-ref: waveshare/ov5640-camera-board-c
-release_date: null
-sku: ov5640-camera-board-c
-spec: null
-status: ''
-vendor: waveshare

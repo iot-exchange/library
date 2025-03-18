@@ -1,0 +1,13 @@
+id: em300-mld
+ref: milesight/em300-mld
+vendor: milesight
+sku: em300-mld
+name: EM300-MLD
+description: Membrane Leakage Detection Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/em300-mld
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/environmental-monitoring-em300-series/em300-mld.png?t=1742198585390

@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: pi-pcie-cable-40-70-mm
+ref: waveshare/pi-pcie-cable-40-70-mm
+vendor: waveshare
+sku: pi-pcie-cable-40-70-mm
+name: PI-PCIE-Cable 40 / 70 mm
 description: PCIe Flexible Cable 40mm/70mm for Raspberry Pi 5, Suitable for Various
   Raspberry Pi 5 PCIe HATs
+status: ''
 extra:
   Multi Options: ''
   Price: $1.49
   multiOptions: Multi Options
   price: $1.49
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi-pcie-cable-40mm-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pi-pcie-cable-40mm.htm
-  repositories: []
-name: PI-PCIE-Cable 40 / 70 mm
-ref: waveshare/pi-pcie-cable-40-70-mm
-release_date: null
-sku: pi-pcie-cable-40-70-mm
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi-pcie-cable-40mm-1.jpg

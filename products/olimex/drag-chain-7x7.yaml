@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: drag-chain-7x7
+ref: olimex/drag-chain-7x7
+vendor: olimex
+sku: drag-chain-7x7
+name: DRAG-CHAIN-7X7
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/DRAG-CHAIN-10x10/images/thumbs/200x150/DRAG.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/DRAG-CHAIN-7X7/
-  repositories: []
-name: DRAG-CHAIN-7X7
-ref: olimex/drag-chain-7x7
-release_date: null
-sku: drag-chain-7x7
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/DRAG-CHAIN-10x10/images/thumbs/200x150/DRAG.jpg

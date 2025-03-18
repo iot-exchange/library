@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: e52c
+ref: radxa/e52c
+vendor: radxa
+sku: e52c
+name: E52C
 description: Enhanced Mini Network Titan
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/network-computer/e52c/thumb_radxa_e52c.webp
-  models: []
   products:
   - https://radxa.com/products/network-computer/e52c
-  repositories: []
-name: E52C
-ref: radxa/e52c
-release_date: null
-sku: e52c
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/network-computer/e52c/thumb_radxa_e52c.webp

@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: sd-240-training
+ref: olimex/sd-240-training
+vendor: olimex
+sku: sd-240-training
+name: SD-240-Training
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/StencilPrinters/SD-240-Training/
-  repositories: []
-name: SD-240-Training
-ref: olimex/sd-240-training
-release_date: null
-sku: sd-240-training
-spec: null
-status: ''
-vendor: olimex
+  images: []

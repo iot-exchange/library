@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 499-p44-20-rev-a
+ref: waveshare/499-p44-20-rev-a
+vendor: waveshare
+sku: 499-p44-20-rev-a
+name: 499-P44-20 (REV.A)
 description: Test & Burn-in Socket
+status: ''
 extra:
   Price: $26.99 - $29.99
   SKU: '5744'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/9/499-p44-00-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/499-p44-20-rev-a.htm
-  repositories: []
-name: 499-P44-20 (REV.A)
-ref: waveshare/499-p44-20-rev-a
-release_date: null
-sku: 499-p44-20-rev-a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/9/499-p44-00-2.jpg

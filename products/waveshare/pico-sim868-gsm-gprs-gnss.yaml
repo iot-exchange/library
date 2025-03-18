@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: pico-sim868-gsm-gprs-gnss
+ref: waveshare/pico-sim868-gsm-gprs-gnss
+vendor: waveshare
+sku: pico-sim868-gsm-gprs-gnss
+name: Pico-SIM868-GSM/GPRS/GNSS
 description: SIM868 GSM/GPRS/GNSS Module for Raspberry Pi Pico, Bluetooth Connection
+status: ''
 extra:
   Price: $30.29 - $31.99
   SKU: '20268'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-sim868-gsm-gprs-gnss-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pico-sim868-gsm-gprs-gnss.htm
-  repositories: []
-name: Pico-SIM868-GSM/GPRS/GNSS
-ref: waveshare/pico-sim868-gsm-gprs-gnss
-release_date: null
-sku: pico-sim868-gsm-gprs-gnss
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-sim868-gsm-gprs-gnss-1.jpg

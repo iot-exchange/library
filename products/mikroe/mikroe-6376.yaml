@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: mikroe-6376
+ref: mikroe/mikroe-6376
+vendor: mikroe
+sku: mikroe-6376
+name: MIKROE-6376
 description: "SiBRAIN Card is a standardized add-on board, which allows very simple\
   \ installation and replacement of the microcontroller unit (MCU) on a development\
   \ board equipped with the SiBRAIN socket. By introducing the new SiBRAIN standard,\
@@ -9,20 +12,10 @@ description: "SiBRAIN Card is a standardized add-on board, which allows very sim
   \ even MCUs with extremely high pin count. Their clever design allows very simple\
   \ usage, following the well-established plug & play concept of the Click board\u2122\
   \ line of product."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mcu-card-5-for-kinetis-mkv46f256vlh16/mcu-card-5-for-kinetis-mkv46f256vlh16-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mcu-card-5-for-kinetis-mkv46f256vlh16
-  repositories: []
-name: MIKROE-6376
-ref: mikroe/mikroe-6376
-release_date: null
-sku: mikroe-6376
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mcu-card-5-for-kinetis-mkv46f256vlh16/mcu-card-5-for-kinetis-mkv46f256vlh16-home_default-1.jpg?v=100

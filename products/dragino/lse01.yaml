@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lse01
+ref: dragino/lse01
+vendor: dragino
+sku: lse01
+name: LSE01
 description: LoRaWAN Soil Moisture & EC Sensor
+status: ''
 extra:
   Bands: EU433, CN470, EU868, IN865, KR920, AS923, AU915, US915
   Features: Monitor Soil Moisture, Monitor Soil EC
   Power Consumption: Ultra Low
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/29766e2a37e979b18d18c428ff9c5aba_L.jpg
-  models: []
   products:
   - https://dragino.com/products/agriculture-weather-station/item/159-lse01.html
-  repositories: []
-name: LSE01
-ref: dragino/lse01
-release_date: null
-sku: lse01
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/29766e2a37e979b18d18c428ff9c5aba_L.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3712
+ref: mikroe/mikroe-3712
+vendor: mikroe
+sku: mikroe-3712
+name: MIKROE-3712
 description: DAC 5 Click carries Texas Instruments DAC53608 IC, a low-power, eight-channel,
   10-bit buffered Digital-to-Analog Converter. DAC53608 converts digital value to
   the corresponding voltage level using external voltage reference. For that purpose,
   DAC 5 click uses MAX6106, which is a low-dropout micropower voltage reference with
   2,048V output voltage. With all...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/dac-5-click/dac-5-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/dac-5-click
-  repositories: []
-name: MIKROE-3712
-ref: mikroe/mikroe-3712
-release_date: null
-sku: mikroe-3712
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dac-5-click/dac-5-click-home_default-1.jpg?v=100

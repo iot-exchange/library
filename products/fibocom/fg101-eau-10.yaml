@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: fg101-eau-10
+ref: fibocom/fg101-eau-10
+vendor: fibocom
+sku: fg101-eau-10
+name: FG101-EAU-10
 description: LTE Cat 13 Modules
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/pro-FG101-EAU-10.html
-  repositories: []
-name: FG101-EAU-10
-ref: fibocom/fg101-eau-10
-release_date: null
-sku: fg101-eau-10
-spec: null
-status: ''
-vendor: fibocom
+  images: []

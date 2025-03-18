@@ -1,0 +1,14 @@
+id: ups01
+ref: milesight/ups01
+vendor: milesight
+sku: ups01
+name: UPS01
+description: Uninterruptible Power Supply UPS01 Accessories IP67 12000MAH
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/product/accessories/uninterruptible-power-supply-ups01
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/gateway/ups01.png?t=1742198585390
+  - https://www.milesight.com/static/pc/en/product/center/5g-cellular-products/index/ups01.png?t=1742198692607

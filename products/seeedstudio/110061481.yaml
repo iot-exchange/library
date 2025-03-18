@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '110061481'
+ref: seeedstudio/110061481
+vendor: seeedstudio
+sku: '110061481'
+name: '110061481'
 description: "NVIDIA Jetson Orin Nano Super Developer Kit is a compact edge AI board,\
   \ built with Jetson Orin\u2122 Nano 8GB module which delivers up to 67 TOPS AI performance--a\
   \ 1.7X improvement over its predecessor(NVIDIA Jetson Orin Nano Developer Kit).\
   \ It has a rich set of IOs including USB 3.2 Gen 2 ports, 2x M.2 Key M for SSD,\
   \ pre-installed Wi-Fi module, and more, all of this for just $249"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110061441.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/NVIDIAr-Jetson-Orintm-Nano-Developer-Kit-p-5617.html
   - https://www.seeedstudio.com/reComputer-J1020-v2-w-o-power-adapter-p-5608.html
-  repositories: []
-name: '110061481'
-ref: seeedstudio/110061481
-release_date: null
-sku: '110061481'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110061441.jpg

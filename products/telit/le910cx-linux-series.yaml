@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: le910cx-linux-series
+ref: telit/le910cx-linux-series
+vendor: telit
+sku: le910cx-linux-series
+name: LE910Cx Linux Series
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2024/11/TC_LE910Cx_dyn-295x200.png
-  models: []
   products:
   - https://www.telit.com/devices/le910cx-linux/
-  repositories: []
-name: LE910Cx Linux Series
-ref: telit/le910cx-linux-series
-release_date: null
-sku: le910cx-linux-series
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/11/TC_LE910Cx_dyn-295x200.png

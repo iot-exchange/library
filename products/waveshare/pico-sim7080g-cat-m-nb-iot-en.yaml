@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pico-sim7080g-cat-m-nb-iot-en
+ref: waveshare/pico-sim7080g-cat-m-nb-iot-en
+vendor: waveshare
+sku: pico-sim7080g-cat-m-nb-iot-en
+name: Pico-SIM7080G-Cat-M/NB-IoT (EN)
 description: SIM7080G NB-IoT / Cat-M(eMTC) / GNSS Module for Raspberry Pi Pico, Global
   Band Support
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-sim7080g-cat-m-nb-iot-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pico-sim7080g-cat-m-nb-iot.htm
   - https://www.waveshare.com/product/pico-sim7080g-cat-m-nb-iot.htm "SIM7080G NB-IoT
     / Cat-M(eMTC) / GNSS Module for Raspberry Pi Pico, Global Band Support"
-  repositories: []
-name: Pico-SIM7080G-Cat-M/NB-IoT (EN)
-ref: waveshare/pico-sim7080g-cat-m-nb-iot-en
-release_date: null
-sku: pico-sim7080g-cat-m-nb-iot-en
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-sim7080g-cat-m-nb-iot-1.jpg

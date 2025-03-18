@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5904
+ref: mikroe/mikroe-5904
+vendor: mikroe
+sku: mikroe-5904
+name: MIKROE-5904
 description: Thunder EMU Click is a compact add-on board that can be used to emulate
   lightning. This board features circuits that generate an RF signal that mimics lightning
   strikes. It is a thunder emulator board that allows you to mimic lightning signals
   that can represent different distances, thus enabling you to debug your lightning
   detector application for all...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/thunder-emu-click/thunder-emu-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/thunder-emu-click
-  repositories: []
-name: MIKROE-5904
-ref: mikroe/mikroe-5904
-release_date: null
-sku: mikroe-5904
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thunder-emu-click/thunder-emu-click-home_default-1.jpg?v=100

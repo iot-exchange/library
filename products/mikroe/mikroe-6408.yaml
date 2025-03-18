@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-6408
+ref: mikroe/mikroe-6408
+vendor: mikroe
+sku: mikroe-6408
+name: MIKROE-6408
 description: "Piezo Accel 2 Click - 25g is a compact add-on board for precise vibration\
   \ and motion monitoring in condition-based maintenance applications. This board\
   \ features the 830M1-0025, a triaxial piezoelectric accelerometer from TE Connectivity,\
   \ capable of detecting motion and acceleration along all three axes (X, Y, Z). The\
   \ 830M1-0025 offers a \xB125g range with a..."
+status: ''
 extra:
   price: $370.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/piezo-accel-2-click-25g/piezo-accel-2-click-25g-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/piezo-accel-2-click-25g
-  repositories: []
-name: MIKROE-6408
-ref: mikroe/mikroe-6408
-release_date: null
-sku: mikroe-6408
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/piezo-accel-2-click-25g/piezo-accel-2-click-25g-home_default-1.jpg?v=100

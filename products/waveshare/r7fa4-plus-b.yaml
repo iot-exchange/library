@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: r7fa4-plus-b
+ref: waveshare/r7fa4-plus-b
+vendor: waveshare
+sku: r7fa4-plus-b
+name: R7FA4 PLUS B
 description: R7FA4 PLUS B Development Board, Based on R7FA4M1AB3CFM, Equipped with
   ESP32-S3FN8, Compatible with Arduino UNO R4 WiFi
+status: ''
 extra:
   SKU: '26717'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/7/r7fa4-plus-b-1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/r7fa4-plus-b.htm
   - https://www.waveshare.com/product/r7fa4-plus-b.htm "R7FA4 PLUS B Development Board,
     Based on R7FA4M1AB3CFM, Equipped with ESP32-S3FN8, Compatible with Arduino UNO
     R4 WiFi"
-  repositories: []
-name: R7FA4 PLUS B
-ref: waveshare/r7fa4-plus-b
-release_date: null
-sku: r7fa4-plus-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/7/r7fa4-plus-b-1_2.jpg

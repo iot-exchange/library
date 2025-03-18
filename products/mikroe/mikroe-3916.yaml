@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3916
+ref: mikroe/mikroe-3916
+vendor: mikroe
+sku: mikroe-3916
+name: MIKROE-3916
 description: MUX 3 Click is the general purpose multiplexer which offers multiplexing
   one input channel to eight single-ended output channels. Given the TMUX1208 wide
   operating supply options from 1.08 V to 5.5 V and support of bidirectional I/O signals,
   its allowing you use in a broad array of applications ranging from personal electronics
   to building automation...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mux-3-click/mux-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=115#MUX-3-Click
-  repositories: []
-name: MIKROE-3916
-ref: mikroe/mikroe-3916
-release_date: null
-sku: mikroe-3916
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mux-3-click/mux-3-click-home_default-1.jpg?v=100

@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: cc3130
+ref: ti/cc3130
+vendor: ti
+sku: cc3130
+name: CC3130
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ti.com/product/CC3130
-  repositories: []
-name: CC3130
-ref: ti/cc3130
-release_date: null
-sku: cc3130
-spec: null
-status: ''
-vendor: ti
+  images: []

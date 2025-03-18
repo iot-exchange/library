@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: usb-to-ttl-ft232
+ref: waveshare/usb-to-ttl-ft232
+vendor: waveshare
+sku: usb-to-ttl-ft232
+name: usb_to_ttl_ft232
 description: USB To UART (TTL) Mini Communication Module, Compact Size, Stable Communication,
   Over-current/Over-voltage Protection, TTL Serial Converter, USB To TTL Converter
+status: ''
 extra:
   Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-ttl-ft232-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-to-ttl-ft232.htm
-  repositories: []
-name: usb_to_ttl_ft232
-ref: waveshare/usb-to-ttl-ft232
-release_date: null
-sku: usb-to-ttl-ft232
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-ttl-ft232-1.jpg

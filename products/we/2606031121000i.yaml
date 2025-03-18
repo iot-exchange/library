@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 2606031121000i
+ref: we/2606031121000i
+vendor: we
+sku: 2606031121000i
+name: 2606031121000i
 description: Thalassa with 50 Ohm RF pad
+status: NRND
 extra:
   Current Consumption: '500'
   Data Rate: '2.7'
@@ -12,17 +16,6 @@ extra:
   Sensitivity: '-102'
   Supply Voltage: '3.6'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/components/products/datasheet/2606031121000.pdf
-  repositories: []
-name: 2606031121000i
-ref: we/2606031121000i
-release_date: null
-sku: 2606031121000i
-spec: null
-status: NRND
-vendor: we
+  images: []

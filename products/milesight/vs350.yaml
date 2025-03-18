@@ -1,0 +1,13 @@
+id: vs350
+ref: milesight/vs350
+vendor: milesight
+sku: vs350
+name: VS350
+description: Passage People Counter
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/vs350
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/occupancy-people-counting-series/passage-people-counter-vs350.png?t=1742198585390

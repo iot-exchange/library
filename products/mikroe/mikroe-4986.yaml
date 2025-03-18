@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-4986
+ref: mikroe/mikroe-4986
+vendor: mikroe
+sku: mikroe-4986
+name: MIKROE-4986
 description: Oximeter 5 Click is a compact add-on board suitable for measuring blood
   oxygen saturation.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/oximeter-5-click/oximeter-5-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=3245&ipa=684
   - https://www.mikroe.com/oximeter-5-click
-  repositories: []
-name: MIKROE-4986
-ref: mikroe/mikroe-4986
-release_date: null
-sku: mikroe-4986
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/oximeter-5-click/oximeter-5-click-home_default-1.jpg?v=100

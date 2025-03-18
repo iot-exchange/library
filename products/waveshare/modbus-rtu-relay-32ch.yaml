@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: modbus-rtu-relay-32ch
+ref: waveshare/modbus-rtu-relay-32ch
+vendor: waveshare
+sku: modbus-rtu-relay-32ch
+name: Modbus RTU Relay 32CH
 description: Modbus RTU 32-Ch Relay Module, RS485 Interface, With Multiple Isolation
   Protection Circuits
+status: ''
 extra:
   Price: $60.95  -  $62.99
   SKU: '25140'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/o/modbus-rtu-relay-32ch-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/modbus-rtu-relay-32ch.htm
   - https://www.waveshare.com/product/modbus-rtu-relay-32ch.htm "Modbus RTU 32-Ch
     Relay Module, RS485 Interface, With Multiple Isolation Protection Circuits"
-  repositories: []
-name: Modbus RTU Relay 32CH
-ref: waveshare/modbus-rtu-relay-32ch
-release_date: null
-sku: modbus-rtu-relay-32ch
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/o/modbus-rtu-relay-32ch-1.jpg

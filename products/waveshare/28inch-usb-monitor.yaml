@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: 28inch-usb-monitor
+ref: waveshare/28inch-usb-monitor
+vendor: waveshare
+sku: 28inch-usb-monitor
+name: 28inch_usb_monitor
 description: 2.1 / 2.8 / 3.4 / 4 Inch USB Monitor, AIO LCD Screen, CPU Cooler Screen
   / Display Screen For Inside PC / Desktop RGB Ambient Screen, With Music Spectrum
   Analysis Function
+status: ''
 extra:
   Multi Options: ''
   Price: $38.99 -  $52.99
   price: $38.99 -  $52.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.8inch-usb-monitor-w-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/2.8inch-usb-monitor.htm
-  repositories: []
-name: 28inch_usb_monitor
-ref: waveshare/28inch-usb-monitor
-release_date: null
-sku: 28inch-usb-monitor
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.8inch-usb-monitor-w-1.jpg

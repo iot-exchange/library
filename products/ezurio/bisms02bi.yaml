@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: bisms02bi
+ref: ezurio/bisms02bi
+vendor: ezurio
+sku: bisms02bi
+name: BISMS02BI
 description: Embedded Bluetooth AT Module
+status: ''
 extra:
   2MPHY: ''
   802.15.4 / Matter / Thread: ''
@@ -8,18 +12,7 @@ extra:
   Classic BT: ''
   LE Long Range: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/BISMS02BI-1.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-20-21-and-30-modules/bisms02bi-embedded-bluetooth-module
-  repositories: []
-name: BISMS02BI
-ref: ezurio/bisms02bi
-release_date: null
-sku: bisms02bi
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/BISMS02BI-1.png

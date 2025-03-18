@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '102991558'
+ref: seeedstudio/102991558
+vendor: seeedstudio
+sku: '102991558'
+name: '102991558'
 description: EdgeBox-RPI-200 is not only an industrial raspberry pi/linux gateway
   and IIoT gateway, but also an all-in-one Raspberry Pi-based edge computing controllers
   that combines multiple industrial purposes. Designed as high-scalability and rugged
   industrial hardware, mounted with rich IO resources, and supported by the great
   Raspberry Pi industrial software ecosystem, it is an ideal choice for smart automation
   and Industrial Internet of Things(IIoT) solutions.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/i/m/image_2.jpeg
-  models: []
   products:
   - https://www.seeedstudio.com/EdgeBox-RPI4-A-1G8GN-p-4970.html
-  repositories: []
-name: '102991558'
-ref: seeedstudio/102991558
-release_date: null
-sku: '102991558'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/i/m/image_2.jpeg

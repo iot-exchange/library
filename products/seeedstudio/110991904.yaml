@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: '110991904'
+ref: seeedstudio/110991904
+vendor: seeedstudio
+sku: '110991904'
+name: '110991904'
 description: "Aluminum Heatsink with Fan for Jetson Orin NX/Orin Nano/Xavier NX Module.\
   \ This Aluminum Heatsink offers essential, active, physical, and strong fan air\
   \ cooling function for Jetson Orin\u2122 NX/Orin\u2122 Nano/Xavier NX modules, to\
   \ avoid overheating and throttling problems while operating tough computing tasks.\
   \ It is designed for continuous deployment. It can be customized to air flow speed\
   \ through PWM function and supports reComputer J401 board official."
+status: ''
 extra:
   Price: $19.90
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/_/1_16.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Aluminum-Heatsink-with-Fan-for-Jetson-Orin-NX-Orin-Nano-Xavier-NX-Module-p-5633.html
-  repositories: []
-name: '110991904'
-ref: seeedstudio/110991904
-release_date: null
-sku: '110991904'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/_/1_16.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5643
+ref: mikroe/mikroe-5643
+vendor: mikroe
+sku: mikroe-5643
+name: MIKROE-5643
 description: Magneto 13 Click is a compact add-on board with an accurate and reliable
   magnetic device. This board features the MA736, a contactless digital angle sensor
   from Monolithic Power Systems. It is a MagAlpha sensor that detects the absolute
   angular position of a permanent magnet, typically a diametrically magnetized cylinder
   or a rotating shaft.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/magneto-13-click/magneto-13-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/magneto-13-click
-  repositories: []
-name: MIKROE-5643
-ref: mikroe/mikroe-5643
-release_date: null
-sku: mikroe-5643
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/magneto-13-click/magneto-13-click-home_default-1.jpg?v=100

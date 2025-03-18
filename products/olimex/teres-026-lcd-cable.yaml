@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-026-lcd-cable
+ref: olimex/teres-026-lcd-cable
+vendor: olimex
+sku: teres-026-lcd-cable
+name: TERES-026-LCD-cable
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-026-LCD-cable/images/thumbs/200x150/TERES-026-LCD-cable.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-026-LCD-cable/
-  repositories: []
-name: TERES-026-LCD-cable
-ref: olimex/teres-026-lcd-cable
-release_date: null
-sku: teres-026-lcd-cable
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-026-LCD-cable/images/thumbs/200x150/TERES-026-LCD-cable.jpg

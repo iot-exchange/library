@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-6153
+ref: mikroe/mikroe-6153
+vendor: mikroe
+sku: mikroe-6153
+name: MIKROE-6153
 description: WIZFI360 Click is a compact add-on board for reliable WiFi connectivity
   in industrial applications. This board features the WIZFI360, a WiFi module from
   WIZnet, known for its low power consumption and full compliance with IEEE802.11
   b/g/n standards. The board supports SoftAP, Station, and SoftAP+Station modes, operates
   within the frequency range of...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/wizfi360-click/wizfi360-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/2x5-male-pin-3mm-leg-6mm-pin
   - https://www.mikroe.com/wizfi360-click
-  repositories: []
-name: MIKROE-6153
-ref: mikroe/mikroe-6153
-release_date: null
-sku: mikroe-6153
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/wizfi360-click/wizfi360-click-home_default-1.jpg?v=100

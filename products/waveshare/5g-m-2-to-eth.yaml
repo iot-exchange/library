@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 5g-m-2-to-eth
+ref: waveshare/5g-m-2-to-eth
+vendor: waveshare
+sku: 5g-m-2-to-eth
+name: 5g_m.2_to_eth
 description: 5G M.2 to Gigabit Ethernet Converter, 5G M.2 to USB3.1, Aluminum Alloy
   Case, Wall-Mount Support, Quad Antennas, Options For 5G Module
+status: ''
 extra:
   Multi Options: ''
   Price: $34.99 -  $249.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/g/5g-m.2-to-gigabit-eth-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/5g-m.2-to-gigabit-eth.htm
-  repositories: []
-name: 5g_m.2_to_eth
-ref: waveshare/5g-m-2-to-eth
-release_date: null
-sku: 5g-m-2-to-eth
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/g/5g-m.2-to-gigabit-eth-1.jpg

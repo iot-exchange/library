@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: female-yav36p-2x05
+ref: olimex/female-yav36p-2x05
+vendor: olimex
+sku: female-yav36p-2x05
+name: FEMALE-YAV36P-2x05
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Connectors/FEMALE-YAV36P-2x05/images/thumbs/200x150/FEMALE-YAV36P-2X20-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Connectors/FEMALE-YAV36P-2x05/
-  repositories: []
-name: FEMALE-YAV36P-2x05
-ref: olimex/female-yav36p-2x05
-release_date: null
-sku: female-yav36p-2x05
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Connectors/FEMALE-YAV36P-2x05/images/thumbs/200x150/FEMALE-YAV36P-2X20-1.jpg

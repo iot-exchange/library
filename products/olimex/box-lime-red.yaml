@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: box-lime-red
+ref: olimex/box-lime-red
+vendor: olimex
+sku: box-lime-red
+name: BOX-LIME-RED
 description: ''
+status: ''
 extra:
   discountedPrice1: 7.60 EUR
   discountedPrice2: 7.20 EUR
   price: 8.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/BOXES/BOX-LIME/images/thumbs/200x150/BOX-LIME-BLACK-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/BOXES/BOX-LIME-RED/
-  repositories: []
-name: BOX-LIME-RED
-ref: olimex/box-lime-red
-release_date: null
-sku: box-lime-red
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/BOXES/BOX-LIME/images/thumbs/200x150/BOX-LIME-BLACK-1.jpg

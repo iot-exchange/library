@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-5983
+ref: mikroe/mikroe-5983
+vendor: mikroe
+sku: mikroe-5983
+name: MIKROE-5983
 description: Ai-WB2-12F Click is a compact add-on board for easy integration into
   the Internet of Things (IoT) and smart home applications. This board features the
   Ai-WB2-12F, a WiFi and BLE module from Ai-Thinker Technology, powered by the BL602
   chip supporting WiFi 802.11b/g/n and BLE 5.0 protocols.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ai-wb2-12f-click/ai-wb2-12f-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ai-wb2-12f-click
-  repositories: []
-name: MIKROE-5983
-ref: mikroe/mikroe-5983
-release_date: null
-sku: mikroe-5983
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ai-wb2-12f-click/ai-wb2-12f-click-home_default-1.jpg?v=100

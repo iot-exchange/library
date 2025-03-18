@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lcd7cts-metal-frame
+ref: olimex/lcd7cts-metal-frame
+vendor: olimex
+sku: lcd7cts-metal-frame
+name: LCD7CTS-METAL-FRAME
 description: ''
+status: ''
 extra:
   discountedPrice1: 15.20 EUR
   discountedPrice2: 14.40 EUR
   price: 16.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/LCD/LCD7-METAL-FRAME/images/thumbs/200x150/LCD7-METAL-FRAME.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/LCD/LCD7CTS-METAL-FRAME/
-  repositories: []
-name: LCD7CTS-METAL-FRAME
-ref: olimex/lcd7cts-metal-frame
-release_date: null
-sku: lcd7cts-metal-frame
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/LCD/LCD7-METAL-FRAME/images/thumbs/200x150/LCD7-METAL-FRAME.jpg

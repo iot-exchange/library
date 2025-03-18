@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: esp-module-prog-sub-01-04
+ref: espressif/esp-module-prog-sub-01-04
+vendor: espressif
+sku: esp-module-prog-sub-01-04
+name: ESP-Module-Prog-SUB-01&04
 description: ESP-Module-Prog-SUB-01&04 is an Espressif flashing subboard designed
   specifically for modules. It can be used to flash modules without soldering the
   module to the power supply and signal lines.
+status: ''
 extra:
   Compatibility: ESP8685-WROOM-01, ESP8684-WROOM-01C, ESP8685-WROOM-04, ESP8684-WROOM-04C
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/styles/medium/public/esp-module-prog-sub-01041_2.png?itok=AuvPAnw_
-  models: []
   products:
   - https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/other/esp-module-prog-sub-01&04/user_guide.html
-  repositories: []
-name: ESP-Module-Prog-SUB-01&04
-ref: espressif/esp-module-prog-sub-01-04
-release_date: null
-sku: esp-module-prog-sub-01-04
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/styles/medium/public/esp-module-prog-sub-01041_2.png?itok=AuvPAnw_

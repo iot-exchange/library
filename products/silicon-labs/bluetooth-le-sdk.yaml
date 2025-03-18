@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bluetooth-le-sdk
+ref: silicon-labs/bluetooth-le-sdk
+vendor: silicon-labs
+sku: bluetooth-le-sdk
+name: Bluetooth LE SDK
 description: Supplied as part of the GSDK, the Bluetooth SDK provides developers with
   a single BLE protocol stack, API, example projects, and peripheral drivers.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/developer-tools/bluetooth-low-energy
-  repositories: []
-name: Bluetooth LE SDK
-ref: silicon-labs/bluetooth-le-sdk
-release_date: null
-sku: bluetooth-le-sdk
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

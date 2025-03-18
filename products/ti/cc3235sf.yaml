@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: cc3235sf
+ref: ti/cc3235sf
+vendor: ti
+sku: cc3235sf
+name: CC3235SF
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ti.com/product/CC3235SF
-  repositories: []
-name: CC3235SF
-ref: ti/cc3235sf
-release_date: null
-sku: cc3235sf
-spec: null
-status: ''
-vendor: ti
+  images: []

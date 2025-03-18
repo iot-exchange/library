@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: chain-of-trust-security-architecture
+ref: ezurio/chain-of-trust-security-architecture
+vendor: ezurio
+sku: chain-of-trust-security-architecture
+name: Chain of Trust Security Architecture
 description: 'A Closer Look at the Chain of Trust Security Architecture: Wi-Fi Certification,
   Authentication Support & FIPS 140-2 Turbo.'
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/537x300/filters:fill(white)/filters:background_color(white)/2025-01/60-Som-Security.png
-  models: []
   products:
   - https://www.ezurio.com/resources/blog/a-closer-look-at-the-chain-of-trust-security-architecture-wi-fi-certification-authentication-support-fips-140-2-turbo
-  repositories: []
-name: Chain of Trust Security Architecture
-ref: ezurio/chain-of-trust-security-architecture
-release_date: null
-sku: chain-of-trust-security-architecture
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/537x300/filters:fill(white)/filters:background_color(white)/2025-01/60-Som-Security.png

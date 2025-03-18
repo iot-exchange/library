@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: type-1dx
+ref: murata/type-1dx
+vendor: murata
+sku: type-1dx
+name: Type 1DX
 description: Consumer equipment, Industrial Equipment
+status: ''
 extra:
   Bluetooth: 5.1 BR/EDR/LE
   Chipset: CYW4343W
@@ -34,18 +38,7 @@ extra:
   Transmit Mode Current (Wi-Fi): 320mA @ 11Mbps270mA @ 54Mbps260mA @ 65Mbps
   Wi-Fi: Wi-Fi 4
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth#product-lineup
   - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth#series-lineup
-  repositories: []
-name: Type 1DX
-ref: murata/type-1dx
-release_date: null
-sku: type-1dx
-spec: null
-status: ''
-vendor: murata
+  images: []

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: lora915
+ref: olimex/lora915
+vendor: olimex
+sku: lora915
+name: LoRa915
 description: ''
+status: ''
 extra:
   100+ pcs: 6.53 EUR
   1000+ pcs: 6.26 EUR
   50+ pcs: 6.66 EUR
   500+ pcs: 6.39 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/LoRa/LoRa915/images/thumbs/200x150/LoRa915-.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/LoRa/LoRa915/open-source-hardware
-  repositories: []
-name: LoRa915
-ref: olimex/lora915
-release_date: null
-sku: lora915
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/LoRa/LoRa915/images/thumbs/200x150/LoRa915-.jpg

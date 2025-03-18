@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '321010013'
+ref: seeedstudio/321010013
+vendor: seeedstudio
+sku: '321010013'
+name: '321010013'
 description: Micro USB cable is commonly found on digital cameras, mobile phones,
   smart phones and tablets
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproduct100cmusbc.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Micro-USB-Cable-100cm.html
-  repositories: []
-name: '321010013'
-ref: seeedstudio/321010013
-release_date: null
-sku: '321010013'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproduct100cmusbc.jpg

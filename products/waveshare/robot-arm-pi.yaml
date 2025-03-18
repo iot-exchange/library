@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: robot-arm-pi
+ref: waveshare/robot-arm-pi
+vendor: waveshare
+sku: robot-arm-pi
+name: robot_arm_pi
 description: $49.99
+status: ''
 extra:
   Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/o/robot-arm-for-pi-7_3.jpg
-  models: []
   products:
   - https://www.waveshare.com/robot-arm-for-pi.htm
-  repositories: []
-name: robot_arm_pi
-ref: waveshare/robot-arm-pi
-release_date: null
-sku: robot-arm-pi
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/o/robot-arm-for-pi-7_3.jpg

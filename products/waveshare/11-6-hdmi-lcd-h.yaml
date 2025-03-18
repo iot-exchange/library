@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: 11-6-hdmi-lcd-h
+ref: waveshare/11-6-hdmi-lcd-h
+vendor: waveshare
+sku: 11-6-hdmi-lcd-h
+name: "11.6\u2033 HDMI LCD (H)"
 description: "11.6inch Capacitive Touch Screen LCD, 1920\xD71080, HDMI, IPS, Optical\
   \ Bonding Screen, Various Systems Support"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/1/11.6hp-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/11.6inch-hdmi-lcd-h.htm
-  repositories: []
-name: "11.6\u2033 HDMI LCD (H)"
-ref: waveshare/11-6-hdmi-lcd-h
-release_date: null
-sku: 11-6-hdmi-lcd-h
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/1/11.6hp-1.jpg

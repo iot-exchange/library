@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: rg191-lte-us
+ref: ezurio/rg191-lte-us
+vendor: ezurio
+sku: rg191-lte-us
+name: RG191 + LTE (US)
 description: LoRaWAN / Wi-Fi / Ethernet / LTE (IP67 Available).
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-10/Sentrius%20Gateway%20LTE.png
-  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-12/RG1xx-variants.png
-  models: []
   products:
   - https://www.ezurio.com/iot-devices/lorawan-iot-devices/sentrius-rg1xx-lorawan-gateway-wi-fi-ethernet-optional-lte-us-only
   - https://www.ezurio.com/wireless-modules/lorawan-solutions/sentrius-rg1xx-lorawan-gateway-wi-fi-ethernet-optional-lte-us-only
-  repositories: []
-name: RG191 + LTE (US)
-ref: ezurio/rg191-lte-us
-release_date: null
-sku: rg191-lte-us
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-10/Sentrius%20Gateway%20LTE.png
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-12/RG1xx-variants.png

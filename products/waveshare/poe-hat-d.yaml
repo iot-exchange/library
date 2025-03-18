@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: poe-hat-d
+ref: waveshare/poe-hat-d
+vendor: waveshare
+sku: poe-hat-d
+name: PoE HAT (D)
 description: Power over Ethernet HAT (D) for Raspberry Pi 3B+/4B, 802.3af-compliant,
   Official case compatible
+status: ''
 extra:
   Price: $15.63 - $16.99
   SKU: '19532'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/o/poe-hat-d-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/poe-hat-d.htm
-  repositories: []
-name: PoE HAT (D)
-ref: waveshare/poe-hat-d
-release_date: null
-sku: poe-hat-d
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/o/poe-hat-d-1.jpg

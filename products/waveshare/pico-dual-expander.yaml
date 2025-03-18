@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: pico-dual-expander
+ref: waveshare/pico-dual-expander
+vendor: waveshare
+sku: pico-dual-expander
+name: Pico-Dual-Expander
 description: Dual GPIO Expander for Raspberry Pi Pico, Two Sets of Male Headers
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-dual-expander-1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pico-dual-expander.htm
   - https://www.waveshare.com/product/pico-dual-expander.htm "Dual GPIO Expander for
     Raspberry Pi Pico, Two Sets of Male Headers"
-  repositories: []
-name: Pico-Dual-Expander
-ref: waveshare/pico-dual-expander
-release_date: null
-sku: pico-dual-expander
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-dual-expander-1_2.jpg

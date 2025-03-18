@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: aw9523b-io-expansion-board
+ref: waveshare/aw9523b-io-expansion-board
+vendor: waveshare
+sku: aw9523b-io-expansion-board
+name: AW9523B IO Expansion Board
 description: AW9523B IO Expansion Board, I2C Interface, Expands 16 I/O Pins
+status: ''
 extra:
   Price: $5.65 - $5.99
   SKU: '22132'
   price: $5.65 - $5.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/w/aw9523b-io-expansion-board-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/aw9523b-io-expansion-board.htm
-  repositories: []
-name: AW9523B IO Expansion Board
-ref: waveshare/aw9523b-io-expansion-board
-release_date: null
-sku: aw9523b-io-expansion-board
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/w/aw9523b-io-expansion-board-1.jpg

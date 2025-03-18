@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lpc-mt-2106
+ref: olimex/lpc-mt-2106
+vendor: olimex
+sku: lpc-mt-2106
+name: LPC-MT-2106
 description: ''
+status: ''
 extra:
   discountedPrice1: 53.96 EUR
   discountedPrice2: 47.96 EUR
   price: 59.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/NXP/LPC-MT-2106/images/thumbs/200x150/LPC-MT-2106-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/NXP/LPC-MT-2106/
-  repositories: []
-name: LPC-MT-2106
-ref: olimex/lpc-mt-2106
-release_date: null
-sku: lpc-mt-2106
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-MT-2106/images/thumbs/200x150/LPC-MT-2106-01.jpg

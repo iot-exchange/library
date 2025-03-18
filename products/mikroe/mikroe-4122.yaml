@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4122
+ref: mikroe/mikroe-4122
+vendor: mikroe
+sku: mikroe-4122
+name: MIKROE-4122
 description: "Pi 4 Click Shield Combine Raspberry Pi 4 with your favorite Click boards\u2122\
   \ Start your project development with our Pi 4 Click Shield fast and easy. The Raspberry\
   \ Pi 4 Model B, combined with the mikroBUS\u2122 and Shuttle socket, provides you\
   \ immediate access to hundreds of Click boards\u2122 in our offer, allowing you\
   \ to create a limitless number of applications..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/pi-4-click-shield/pi-4-click-shield-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/pi-4-click-shield
-  repositories: []
-name: MIKROE-4122
-ref: mikroe/mikroe-4122
-release_date: null
-sku: mikroe-4122
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/pi-4-click-shield/pi-4-click-shield-home_default-1.jpg?v=100

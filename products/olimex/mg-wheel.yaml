@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: mg-wheel
+ref: olimex/mg-wheel
+vendor: olimex
+sku: mg-wheel
+name: MG-WHEEL
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Wheels/MG-WHEEL/images/thumbs/200x150/WHEEL-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Wheels/MG-WHEEL/
-  repositories: []
-name: MG-WHEEL
-ref: olimex/mg-wheel
-release_date: null
-sku: mg-wheel
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Wheels/MG-WHEEL/images/thumbs/200x150/WHEEL-1.jpg

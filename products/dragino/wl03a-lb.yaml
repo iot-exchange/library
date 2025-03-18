@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: wl03a-lb
+ref: dragino/wl03a-lb
+vendor: dragino
+sku: wl03a-lb
+name: WL03A-LB
 description: LoRaWAN None-Position Rope Type Water Leak Controller
+status: ''
 extra:
   Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865
   Battery: 8500mAh Li/SOCl2 Battery (WL03A-LB), Solar panel + 3000mAh Li-ion battery
@@ -10,18 +14,7 @@ extra:
   Ultra-low power consumption: ''
   Water Leak detect: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/e36a512fe5b90101a88ae780e05256f8_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lorawan-nb-iot-door-sensor-water-leak/item/270-wl03a-lb-ls.html
-  repositories: []
-name: WL03A-LB
-ref: dragino/wl03a-lb
-release_date: null
-sku: wl03a-lb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/e36a512fe5b90101a88ae780e05256f8_L.jpg

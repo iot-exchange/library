@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: usb-bt4
+ref: olimex/usb-bt4
+vendor: olimex
+sku: usb-bt4
+name: USB-BT4
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/USB-Modules/USB-BT4/images/thumbs/200x150/USB-BT4.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/USB-Modules/USB-BT4/
-  repositories: []
-name: USB-BT4
-ref: olimex/usb-bt4
-release_date: null
-sku: usb-bt4
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/USB-Modules/USB-BT4/images/thumbs/200x150/USB-BT4.jpg

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: sterlingtm-lwb5
+ref: ezurio/sterlingtm-lwb5
+vendor: ezurio
+sku: sterlingtm-lwb5
+name: "Sterling\u2122-LWB5+"
 description: Wi-Fi 5 + Bluetooth Module / USB Adapter
+status: ''
 extra:
   Category: Professional Wi-Fi
   Chipset: Infineon 4373E
@@ -8,18 +12,7 @@ extra:
   SDIO: x
   Wi-Fi: Utility
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/MSD45N.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/wifi-modules-bluetooth/sterling-lwb5-plus-wifi-5-bluetooth-5-module
-  repositories: []
-name: "Sterling\u2122-LWB5+"
-ref: ezurio/sterlingtm-lwb5
-release_date: null
-sku: sterlingtm-lwb5
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/MSD45N.png

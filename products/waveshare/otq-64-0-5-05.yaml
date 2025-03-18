@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: otq-64-0-5-05
+ref: waveshare/otq-64-0-5-05
+vendor: waveshare
+sku: otq-64-0-5-05
+name: OTQ-64-0.5-05
 description: Test & Burn-in Socket
+status: ''
 extra:
   Price: $75.99 - $78.99
   SKU: '3555'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/t/otq-64-0.5-05_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/otq-64-0.5-05.htm
-  repositories: []
-name: OTQ-64-0.5-05
-ref: waveshare/otq-64-0-5-05
-release_date: null
-sku: otq-64-0-5-05
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/t/otq-64-0.5-05_l_1_5.jpg

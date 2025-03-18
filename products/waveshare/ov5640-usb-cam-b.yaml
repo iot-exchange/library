@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: ov5640-usb-cam-b
+ref: waveshare/ov5640-usb-cam-b
+vendor: waveshare
+sku: ov5640-usb-cam-b
+name: ov5640_usb_cam_b
 description: OV5640 5MP USB Camera, 1080P Video Recording, Available In AF/FF
+status: ''
 extra:
   Multi Options: ''
   Price: $27.99
   multiOptions: Multi Options
   price: $27.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/v/ov5640-5mp-usb-camera-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ov5640-5mp-usb-camera-b.htm
-  repositories: []
-name: ov5640_usb_cam_b
-ref: waveshare/ov5640-usb-cam-b
-release_date: null
-sku: ov5640-usb-cam-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/v/ov5640-5mp-usb-camera-b-1.jpg

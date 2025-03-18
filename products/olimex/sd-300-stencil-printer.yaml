@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sd-300-stencil-printer
+ref: olimex/sd-300-stencil-printer
+vendor: olimex
+sku: sd-300-stencil-printer
+name: SD-300-Stencil-Printer
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/StencilPrinters/SD-300-Stencil-Printer/images/thumbs/200x150/SD-300-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/StencilPrinters/SD-300-Stencil-Printer/
-  repositories: []
-name: SD-300-Stencil-Printer
-ref: olimex/sd-300-stencil-printer
-release_date: null
-sku: sd-300-stencil-printer
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/StencilPrinters/SD-300-Stencil-Printer/images/thumbs/200x150/SD-300-1.jpg

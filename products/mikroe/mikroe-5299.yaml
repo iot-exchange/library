@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5299
+ref: mikroe/mikroe-5299
+vendor: mikroe
+sku: mikroe-5299
+name: MIKROE-5299
 description: "XBee 3 Click is a compact add-on board suitable for mission-critical\
   \ wireless applications. This board features the XB8X-DMUS-001, a low-power CE/RED\
   \ certified Digi XBee\xAE RF module delivering superior performance and interference\
   \ immunity from Digi International. The module can run either a proprietary DigiMesh\xAE\
   \ or point-to-multipoint networking protocol..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/xbee-3-click/xbee-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/xbee-3-click
-  repositories: []
-name: MIKROE-5299
-ref: mikroe/mikroe-5299
-release_date: null
-sku: mikroe-5299
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/xbee-3-click/xbee-3-click-home_default-1.jpg?v=100

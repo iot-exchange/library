@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: 2611079021001i
+ref: we/2611079021001i
+vendor: we
+sku: 2611079021001i
+name: 2611079021001i
 description: Mini-EV Board Thyone-I
+status: NRND
 extra:
   Expected lifetime: 2-5 years
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/THYONE-I#2611079021001
-  repositories: []
-name: 2611079021001i
-ref: we/2611079021001i
-release_date: null
-sku: 2611079021001i
-spec: null
-status: NRND
-vendor: we
+  images: []

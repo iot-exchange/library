@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-led8x8rgb
+ref: olimex/mod-led8x8rgb
+vendor: olimex
+sku: mod-led8x8rgb
+name: MOD-LED8x8RGB
 description: ''
+status: ''
 extra:
   bulkPrice: 13.46 EUR
   discountedPrice: 14.20 EUR
   price: 14.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/LED/MOD-LED8x8RGB/images/thumbs/200x150/MOD-LED8x8RGB-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/LED/MOD-LED8x8RGB/open-source-hardware
-  repositories: []
-name: MOD-LED8x8RGB
-ref: olimex/mod-led8x8rgb
-release_date: null
-sku: mod-led8x8rgb
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/LED/MOD-LED8x8RGB/images/thumbs/200x150/MOD-LED8x8RGB-01.jpg

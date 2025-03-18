@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 36qn50s16060
+ref: waveshare/36qn50s16060
+vendor: waveshare
+sku: 36qn50s16060
+name: 36QN50S16060
 description: QFN36 Test & Burn-in Socket
+status: ''
 extra:
   Price: $88.59 - $91.99
   SKU: '11190'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/6/36qn50s16060-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/36qn50s16060.htm
-  repositories: []
-name: 36QN50S16060
-ref: waveshare/36qn50s16060
-release_date: null
-sku: 36qn50s16060
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/6/36qn50s16060-1.jpg

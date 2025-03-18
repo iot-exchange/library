@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: pi5-kit
+ref: waveshare/pi5-kit
+vendor: waveshare
+sku: pi5-kit
+name: pi5_kit
 description: Raspberry Pi 5 Kit, Options for Kits and 2GB/4GB/8GB/16GB RAM, BCM2712
   processor, 2.4GHz quad-core 64-bit Arm Cortex-A76 CPU, Built Using RP1 I/O Controller
   Designed By Raspberry Pi
+status: ''
 extra:
   Multi Options: ''
   Price: $26.99 - $374.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-4gb_starter_kit_7.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/raspberry-pi-5-kit.htm
-  repositories: []
-name: pi5_kit
-ref: waveshare/pi5-kit
-release_date: null
-sku: pi5-kit
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-4gb_starter_kit_7.jpg

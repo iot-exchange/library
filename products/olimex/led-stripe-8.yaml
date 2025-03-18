@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: led-stripe-8
+ref: olimex/led-stripe-8
+vendor: olimex
+sku: led-stripe-8
+name: LED-STRIPE-8
 description: ''
+status: ''
 extra:
   discountedPrice1: 5.04 EUR
   discountedPrice2: 4.48 EUR
   price: 5.60 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/LEDs/LED-STRIPE-8/images/thumbs/200x150/LED-STRIPE.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/LEDs/LED-STRIPE-8/
-  repositories: []
-name: LED-STRIPE-8
-ref: olimex/led-stripe-8
-release_date: null
-sku: led-stripe-8
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/LEDs/LED-STRIPE-8/images/thumbs/200x150/LED-STRIPE.jpg

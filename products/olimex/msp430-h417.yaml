@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: msp430-h417
+ref: olimex/msp430-h417
+vendor: olimex
+sku: msp430-h417
+name: MSP430-H417
 description: ''
+status: ''
 extra:
   price1: 15.95 EUR
   price2: 14.36 EUR
   price3: 12.76 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/MSP430/Header/MSP430-H417/images/thumbs/200x150/MSP430-H417.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/MSP430/Header/MSP430-H417/
-  repositories: []
-name: MSP430-H417
-ref: olimex/msp430-h417
-release_date: null
-sku: msp430-h417
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/MSP430/Header/MSP430-H417/images/thumbs/200x150/MSP430-H417.jpg

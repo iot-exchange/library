@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3714
+ref: mikroe/mikroe-3714
+vendor: mikroe
+sku: mikroe-3714
+name: MIKROE-3714
 description: Silent Step Click is the complete integrated bipolar step motor driver
   solution, rich with many features that allow extremely smooth and silent operation
   of the connected motor while being able to provide up to 2.5A peak motor current
   and withstand up to 46V supply voltage. The specialized TMC5130 IC driver from Analog
   Devices far exceeds the capabilities...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/silent-step-click/silent-step-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/silent-step-click
-  repositories: []
-name: MIKROE-3714
-ref: mikroe/mikroe-3714
-release_date: null
-sku: mikroe-3714
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/silent-step-click/silent-step-click-home_default-1.jpg?v=100

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4225
+ref: mikroe/mikroe-4225
+vendor: mikroe
+sku: mikroe-4225
+name: MIKROE-4225
 description: Single Wire CAN Click is a compact add-on board that contains an IC for
   a single wire data link capable of operating with various protocols such as the
   Controller Area Network (CAN). This board features the NCV7356D1R2G, Single Wire
   CAN transceiver from onsemi, which operates from a supply voltage from 5V to 27V
   with bus speed up to 40 kbps. It supports...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/single-wire-can-click/single-wire-can-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/single-wire-can-click
-  repositories: []
-name: MIKROE-4225
-ref: mikroe/mikroe-4225
-release_date: null
-sku: mikroe-4225
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/single-wire-can-click/single-wire-can-click-home_default-1.jpg?v=100

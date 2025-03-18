@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rfid125-sti
+ref: olimex/rfid125-sti
+vendor: olimex
+sku: rfid125-sti
+name: RFID125-STI
 description: ''
+status: ''
 extra:
   discountedPrice1: 0.57 EUR
   discountedPrice2: 0.50 EUR
   price: 0.63 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/RFID-Tags/125/RFID125-STI/images/thumbs/200x150/RFID-STICK.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/RFID-Tags/125/RFID125-STI/
-  repositories: []
-name: RFID125-STI
-ref: olimex/rfid125-sti
-release_date: null
-sku: rfid125-sti
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/RFID-Tags/125/RFID125-STI/images/thumbs/200x150/RFID-STICK.jpg

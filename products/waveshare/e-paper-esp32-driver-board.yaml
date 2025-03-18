@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: e-paper-esp32-driver-board
+ref: waveshare/e-paper-esp32-driver-board
+vendor: waveshare
+sku: e-paper-esp32-driver-board
+name: e-Paper ESP32 Driver Board
 description: Universal e-Paper Raw Panel Driver Board, ESP32 WiFi / Bluetooth Wireless
+status: ''
 extra:
   Price: $14.19 - $14.99
   SKU: '15823'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/-/e-paper-esp32-driver-board-1_3.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/e-paper-esp32-driver-board.htm
   - https://www.waveshare.com/product/e-paper-esp32-driver-board.htm "Universal e-Paper
     Raw Panel Driver Board, ESP32 WiFi / Bluetooth Wireless"
-  repositories: []
-name: e-Paper ESP32 Driver Board
-ref: waveshare/e-paper-esp32-driver-board
-release_date: null
-sku: e-paper-esp32-driver-board
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/-/e-paper-esp32-driver-board-1_3.jpg

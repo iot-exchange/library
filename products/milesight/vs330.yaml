@@ -1,0 +1,13 @@
+id: vs330
+ref: milesight/vs330
+vendor: milesight
+sku: vs330
+name: VS330
+description: Bathroom Occupancy Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/vs330
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/occupancy-people-counting-series/smart-occupancy-sensor-vs330.png?t=1742198585390

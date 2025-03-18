@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: '2611011024020'
+ref: we/2611011024020
+vendor: we
+sku: '2611011024020'
+name: '2611011024020'
 description: Setebos-I
+status: Active
 extra:
   Current Consumption (mA): '3.6'
   Expected Lifetime (years): '>10'
@@ -9,17 +13,6 @@ extra:
   Sensitivity (dBm): '-98'
   Supply Voltage (V): '1.8'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/SETEBOS-I_BLE#2611011024020
-  repositories: []
-name: '2611011024020'
-ref: we/2611011024020
-release_date: null
-sku: '2611011024020'
-spec: null
-status: Active
-vendor: we
+  images: []

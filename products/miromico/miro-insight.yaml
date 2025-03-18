@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: miro-insight
+ref: miromico/miro-insight
+vendor: miromico
+sku: miro-insight
+name: miro Insight
 description: Deeper insights for smarter buildings.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://miromico.ch/files/miromico/media-data/product_images/Monitoring/miro_Insight/png/miro_Insight_front_2500px.png
-  models: []
   products:
   - https://miromico.ch/en/products/details/miro-Insight
-  repositories: []
-name: miro Insight
-ref: miromico/miro-insight
-release_date: null
-sku: miro-insight
-spec: null
-status: ''
-vendor: miromico
+  images:
+  - https://miromico.ch/files/miromico/media-data/product_images/Monitoring/miro_Insight/png/miro_Insight_front_2500px.png

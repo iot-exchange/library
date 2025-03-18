@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: nitrogen8m-plus-smarc
+ref: ezurio/nitrogen8m-plus-smarc
+vendor: ezurio
+sku: nitrogen8m-plus-smarc
+name: Nitrogen8M Plus SMARC
 description: "4x Cortex\xAE-A53 cores @ 1.8 GHz (NXP i.MX 8M Plus SMARC), 1x Cortex\xAE\
   -M7 core @ 800 MHz (NXP i.MX 8M Plus SMARC), optional Wi-Fi 6/6E Bluetooth 5.3/5.4"
+status: ''
 extra:
   Dimensions (L x W): 82 x 50
   Form Factor: SMARC Connector
   Memory: 2GB or 4GB LPDDR4 Up to 8GB (MOQ required)
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-09/8MP_SMARC-RENDER-IF573.front.png
-  models: []
   products:
   - https://www.ezurio.com/system-on-module/nxp-imx8/nitrogen8m-plus-smarc
-  repositories: []
-name: Nitrogen8M Plus SMARC
-ref: ezurio/nitrogen8m-plus-smarc
-release_date: null
-sku: nitrogen8m-plus-smarc
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-09/8MP_SMARC-RENDER-IF573.front.png

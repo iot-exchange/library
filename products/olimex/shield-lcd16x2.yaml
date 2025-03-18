@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: shield-lcd16x2
+ref: olimex/shield-lcd16x2
+vendor: olimex
+sku: shield-lcd16x2
+name: SHIELD-LCD16x2
 description: ''
+status: ''
 extra:
   price1: 11.95 EUR
   price2: 10.76 EUR
   price3: 9.56 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Duino/Shields/SHIELD-LCD16x2/images/thumbs/200x150/SHIELD-LCD16x2-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Duino/Shields/SHIELD-LCD16x2/open-source-hardware
-  repositories: []
-name: SHIELD-LCD16x2
-ref: olimex/shield-lcd16x2
-release_date: null
-sku: shield-lcd16x2
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Duino/Shields/SHIELD-LCD16x2/images/thumbs/200x150/SHIELD-LCD16x2-1.jpg

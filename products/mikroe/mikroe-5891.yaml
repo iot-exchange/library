@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5891
+ref: mikroe/mikroe-5891
+vendor: mikroe
+sku: mikroe-5891
+name: MIKROE-5891
 description: IoT ExpressLink 3 Click is a compact add-on board that allows users to
   connect easily to IoT ExpressLink services and securely interact with cloud applications
   and other devices. This board features the NORA-W256WS, a standalone multi-radio
   module from u-blox. The module supports Wi-Fi radio at 802.11b/g/n standard and
   2.4GHz of ISM band.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/iot-expresslink-3-click/iot-expresslink-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/iot-expresslink-3-click
-  repositories: []
-name: MIKROE-5891
-ref: mikroe/mikroe-5891
-release_date: null
-sku: mikroe-5891
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/iot-expresslink-3-click/iot-expresslink-3-click-home_default-1.jpg?v=100

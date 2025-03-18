@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-compute-module-5
+ref: raspberrypi/raspberry-pi-compute-module-5
+vendor: raspberrypi
+sku: raspberry-pi-compute-module-5
+name: Raspberry Pi Compute Module 5
 description: "Leverage Raspberry Pi 5\u2019s powerful hardware and efficient software\
   \ stack in your own custom embedded systems."
+status: ''
 extra:
   price: $45
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.raspberrypi.com/products/compute-module-5/
   images:
   - https://assets.raspberrypi.com/static/44c9c175642e6d472a1a71231d24234b/3f4ea/ZzNJoa8jQArT0wRY_CM5Hero.jpg
   - https://assets.raspberrypi.com/static/afb51d9828ec655da2189f2fe9b92dd1/3f4ea/Z0RI1K8jQArT1Q2y_Documentation.jpg
-  models: []
-  products:
-  - https://www.raspberrypi.com/products/compute-module-5/
-  repositories: []
-name: Raspberry Pi Compute Module 5
-ref: raspberrypi/raspberry-pi-compute-module-5
-release_date: null
-sku: raspberry-pi-compute-module-5
-spec: null
-status: ''
-vendor: raspberrypi

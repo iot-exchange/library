@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 8-bit-8051-mcu
+ref: microchip/8-bit-8051-mcu
+vendor: microchip
+sku: 8-bit-8051-mcu
+name: 8-bit 8051 MCU
 description: ''
+status: ''
 extra:
   ADC: N/A
   EEPROM (Bytes): '4'
@@ -20,16 +24,5 @@ extra:
   UART: '0'
   VDD (V): 2.7 to 5.5
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: 8-bit 8051 MCU
-ref: microchip/8-bit-8051-mcu
-release_date: null
-sku: 8-bit-8051-mcu
-spec: null
-status: ''
-vendor: microchip
+  images: []

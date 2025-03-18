@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: slwrb4100a
+ref: silicon-labs/slwrb4100a
+vendor: silicon-labs
+sku: slwrb4100a
+name: SLWRB4100A
 description: EFR32BG1 Bluetooth +10.5 dBm Radio Board
+status: ''
 extra:
   MSRP: $29.00
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/bluetooth/slwrb4100a-efr32bg1-bluetooth-radio-board
-  repositories: []
-name: SLWRB4100A
-ref: silicon-labs/slwrb4100a
-release_date: null
-sku: slwrb4100a
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3658
+ref: mikroe/mikroe-3658
+vendor: mikroe
+sku: mikroe-3658
+name: MIKROE-3658
 description: "Thermo 15 Click is a Click board\u2122 equipped with the sensor IC,\
   \ which can digitize temperature measurements between -55\xB0C and +125\xB0C so\
   \ that the temperature measurement data can be processed by the host MCU. Thermo\
   \ 15 click provides an accuracy of \xB11\xB0C in the range from 0\xB0C to 70\xB0\
   C."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/thermo-15-click/thermo-15-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/thermo-15-click
-  repositories: []
-name: MIKROE-3658
-ref: mikroe/mikroe-3658
-release_date: null
-sku: mikroe-3658
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thermo-15-click/thermo-15-click-home_default-1.jpg?v=100

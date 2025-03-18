@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: 7inch-dsi-lcd
+ref: waveshare/7inch-dsi-lcd
+vendor: waveshare
+sku: 7inch-dsi-lcd
+name: 7inch DSI LCD
 description: "7inch Capacitive Touch Display for Raspberry Pi, DSI Interface, 800\xD7\
   480"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/i/7inch-dsi-lcd-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/7inch-dsi-lcd.htm
-  repositories: []
-name: 7inch DSI LCD
-ref: waveshare/7inch-dsi-lcd
-release_date: null
-sku: 7inch-dsi-lcd
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/i/7inch-dsi-lcd-1.jpg

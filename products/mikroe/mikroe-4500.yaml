@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4500
+ref: mikroe/mikroe-4500
+vendor: mikroe
+sku: mikroe-4500
+name: MIKROE-4500
 description: ECG/GSR Click is a compact add-on board representing a complete solution
   for the development of ECG and GSR applications. This board features the AS7030B,
   a vital sign sensor based on Photoplethysmography (PPG) and Electrocardiogram (ECG)
   operations from AMS-AG. This vital-sign sensor features a low noise analog front
   end, a single device integrated...
+status: Unavailable
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ecg-gsr-click/ecg-gsr-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ecg-gsr-click
-  repositories: []
-name: MIKROE-4500
-ref: mikroe/mikroe-4500
-release_date: null
-sku: mikroe-4500
-spec: null
-status: Unavailable
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ecg-gsr-click/ecg-gsr-click-home_default-1.jpg?v=100

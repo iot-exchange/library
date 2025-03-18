@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: hdmi-to-csi-adapter
+ref: waveshare/hdmi-to-csi-adapter
+vendor: waveshare
+sku: hdmi-to-csi-adapter
+name: HDMI to CSI Adapter
 description: HDMI To CSI Adapter For Raspberry Pi Series, 1080p@30fps Support
+status: ''
 extra:
   Price: $23.97 - $24.99
   SKU: '19137'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-to-csi-adapter-1_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/hdmi-to-csi-adapter.htm
   - https://www.waveshare.com/product/hdmi-to-csi-adapter.htm "HDMI To CSI Adapter
     For Raspberry Pi Series, 1080p@30fps Support"
-  repositories: []
-name: HDMI to CSI Adapter
-ref: waveshare/hdmi-to-csi-adapter
-release_date: null
-sku: hdmi-to-csi-adapter
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-to-csi-adapter-1_1.jpg

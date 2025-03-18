@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sns-pt100
+ref: olimex/sns-pt100
+vendor: olimex
+sku: sns-pt100
+name: SNS-PT100
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Sensors/Temperature/SNS-PT100/images/thumbs/200x150/SNS-PT100.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Sensors/Temperature/SNS-PT100/
-  repositories: []
-name: SNS-PT100
-ref: olimex/sns-pt100
-release_date: null
-sku: sns-pt100
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/Temperature/SNS-PT100/images/thumbs/200x150/SNS-PT100.jpg

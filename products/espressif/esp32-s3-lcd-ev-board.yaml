@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: esp32-s3-lcd-ev-board
+ref: espressif/esp32-s3-lcd-ev-board
+vendor: espressif
+sku: esp32-s3-lcd-ev-board
+name: ESP32-S3-LCD-EV-Board
 description: ESP32-S3-LCD-Ev-Board and ESP32-S3-LCD-Ev-Board-2 are two ESP32-S3-based
   development boards for RGB interface LCD, both of which utilize the module with
   16MB Flash and 8-line 8MB PSRAM memory. They are equipped with a 3.95' 480 x 480
@@ -8,6 +11,7 @@ description: ESP32-S3-LCD-Ev-Board and ESP32-S3-LCD-Ev-Board-2 are two ESP32-S3-
   and features touch screen and voice interaction. The boards are suitable for prototype
   construction of products such as smart central control screens, 86-type switch panels,
   home appliance control panels, electric vehicle dashboards, visual doorbells.
+status: ''
 extra:
   Flash: 1.8V 16 MB Quad Flash + 1.8V 16 MB Octal PSRAM
   Interfaces: I/O USB-C UART
@@ -15,18 +19,7 @@ extra:
   UI: LCD Screen, Microphones, Speaker, LED, Buttons
   User Guide: https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32s3/esp32-s3-lcd-ev-board/index.html
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/dev-board/ESP32-S3-LCD-EV-BOARD_S_0.png
-  models: []
   products:
   - https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32s3/esp32-s3-lcd-ev-board/index.html
-  repositories: []
-name: ESP32-S3-LCD-EV-Board
-ref: espressif/esp32-s3-lcd-ev-board
-release_date: null
-sku: esp32-s3-lcd-ev-board
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/dev-board/ESP32-S3-LCD-EV-BOARD_S_0.png

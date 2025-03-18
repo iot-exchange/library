@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '114992002'
+ref: seeedstudio/114992002
+vendor: seeedstudio
+sku: '114992002'
+name: '114992002'
 description: This is a very small USB microphone with plug-and-play features, which
   means you can use it on any computer and SBC.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/u/s/usb_mic004.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Mini-USB-Microphone-compatible-with-Raspberry-Pi-4-p-4158.html
-  repositories: []
-name: '114992002'
-ref: seeedstudio/114992002
-release_date: null
-sku: '114992002'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/u/s/usb_mic004.jpg

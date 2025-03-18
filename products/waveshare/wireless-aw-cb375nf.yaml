@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: wireless-aw-cb375nf
+ref: waveshare/wireless-aw-cb375nf
+vendor: waveshare
+sku: wireless-aw-cb375nf
+name: Wireless-AW-CB375NF
 description: AW-CB375NF Dual-Band Wireless NIC, 2.4G/5GHz Dual-Band WiFi 5, RTL8822CE-CG
   Core, Bluetooth 5.0, Supports BLE
+status: ''
 extra:
   Price: $11.31 - $11.99
   SKU: '24780'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/i/wireless-aw-cb375n-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/wireless-aw-cb375nf.htm
-  repositories: []
-name: Wireless-AW-CB375NF
-ref: waveshare/wireless-aw-cb375nf
-release_date: null
-sku: wireless-aw-cb375nf
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/i/wireless-aw-cb375n-1.jpg

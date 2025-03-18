@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lpc-p2106
+ref: olimex/lpc-p2106
+vendor: olimex
+sku: lpc-p2106
+name: LPC-P2106
 description: ''
+status: ''
 extra:
   discountedPrice1: 42.26 EUR
   discountedPrice2: 37.56 EUR
   price: 46.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/NXP/LPC-P2106/images/thumbs/200x150/LPC-P2106.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/NXP/LPC-P2106/
-  repositories: []
-name: LPC-P2106
-ref: olimex/lpc-p2106
-release_date: null
-sku: lpc-p2106
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-P2106/images/thumbs/200x150/LPC-P2106.jpg

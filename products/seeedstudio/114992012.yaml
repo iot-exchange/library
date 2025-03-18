@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '114992012'
+ref: seeedstudio/114992012
+vendor: seeedstudio
+sku: '114992012'
+name: '114992012'
 description: Raspberry Pi Keyboard FR Black/Grey. The official Raspberry Pi keyboard
   and hub is a standard 79-key (78-key US) keyboard that includes an additional three
   USB 2.0 type A ports.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/y/1/y1857716-01.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-2246.html?bazaar4_retailer-products%5Bpage%5D=2#114992012
   - https://www.seeedstudio.com/Raspberry-Pi-Keyboard-FR-Black-Grey-p-4184.html
-  repositories: []
-name: '114992012'
-ref: seeedstudio/114992012
-release_date: null
-sku: '114992012'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/y/1/y1857716-01.jpg

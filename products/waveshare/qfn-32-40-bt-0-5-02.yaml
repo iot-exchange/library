@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: qfn-32-40-bt-0-5-02
+ref: waveshare/qfn-32-40-bt-0-5-02
+vendor: waveshare
+sku: qfn-32-40-bt-0-5-02
+name: QFN-32(40)BT-0.5-02
 description: Test & Burn-in Socket
+status: ''
 extra:
   Price Range: $92.59 - $95.99
   SKU: '3518'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/q/f/qfn-3240bt-0.5-02_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/qfn-3240bt-0.5-02.htm
-  repositories: []
-name: QFN-32(40)BT-0.5-02
-ref: waveshare/qfn-32-40-bt-0-5-02
-release_date: null
-sku: qfn-32-40-bt-0-5-02
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/q/f/qfn-3240bt-0.5-02_l_1_5.jpg

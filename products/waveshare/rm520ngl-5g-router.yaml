@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rm520ngl-5g-router
+ref: waveshare/rm520ngl-5g-router
+vendor: waveshare
+sku: rm520ngl-5g-router
+name: rm520ngl_5g_router
 description: RM520N-GL industrial 5G Router, wireless CPE, snapdragon X62 onboard,
   5G Global Band Module, Gigabit Ethernet and WiFi
+status: ''
 extra:
   Price: $369.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/rm520n-gl-5g-router.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/m/rm520n-gl-5g-router-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/m/rm520n-gl-5g-router-2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/rm520n-gl-5g-router.htm
-  repositories: []
-name: rm520ngl_5g_router
-ref: waveshare/rm520ngl-5g-router
-release_date: null
-sku: rm520ngl-5g-router
-spec: null
-status: ''
-vendor: waveshare

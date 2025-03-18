@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: sx126x-lora-hat
+ref: waveshare/sx126x-lora-hat
+vendor: waveshare
+sku: sx126x-lora-hat
+name: sx126x_lora_hat
 description: SX1262/SX1268 LoRa HAT for Raspberry Pi, UART Interface, Options For
   Frequency Band
+status: ''
 extra:
-  Multi Options: ''
   Price: $23.99 - $25.99
+  Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/x/sx1262-868m-lora-hat-1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/sx1262-868m-lora-hat.htm
-  repositories: []
-name: sx126x_lora_hat
-ref: waveshare/sx126x-lora-hat
-release_date: null
-sku: sx126x-lora-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/x/sx1262-868m-lora-hat-1_5.jpg

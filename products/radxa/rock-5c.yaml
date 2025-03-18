@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rock-5c
+ref: radxa/rock-5c
+vendor: radxa
+sku: rock-5c
+name: ROCK 5C
 description: Your 8K Computer for Everything
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/rock5/rock_5c/thumb_rock_5c.webp
-  models: []
   products:
   - https://radxa.com/products/rock5/5c
-  repositories: []
-name: ROCK 5C
-ref: radxa/rock-5c
-release_date: null
-sku: rock-5c
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/rock5/rock_5c/thumb_rock_5c.webp

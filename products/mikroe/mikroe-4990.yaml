@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4990
+ref: mikroe/mikroe-4990
+vendor: mikroe
+sku: mikroe-4990
+name: MIKROE-4990
 description: Charger 18 Click is a compact add-on board representing a single-cell
   battery charger. This board features the LTC3553, a micropower, highly integrated
   power management, and battery charger for single-cell Li-Ion/Polymer battery applications
   from Analog Devices. Designed specifically for USB applications, it also includes
   a PowerPath manager with...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/charger-18-click/charger-18-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/charger-18-click
-  repositories: []
-name: MIKROE-4990
-ref: mikroe/mikroe-4990
-release_date: null
-sku: mikroe-4990
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/charger-18-click/charger-18-click-home_default-1.jpg?v=100

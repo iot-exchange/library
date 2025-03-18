@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mg996r-servo
+ref: waveshare/mg996r-servo
+vendor: waveshare
+sku: mg996r-servo
+name: MG996R Servo
 description: MG996R Servo, Metal Gear, High Torque
+status: ''
 extra:
   Price: $4.49 - $4.99
   SKU: '15299'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/g/mg996r-servo-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/mg996r-servo.htm
-  repositories: []
-name: MG996R Servo
-ref: waveshare/mg996r-servo
-release_date: null
-sku: mg996r-servo
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/g/mg996r-servo-1.jpg

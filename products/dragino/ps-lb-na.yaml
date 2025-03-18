@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: ps-lb-na
+ref: dragino/ps-lb-na
+vendor: dragino
+sku: ps-lb-na
+name: PS-LB-NA
 description: LoRaWAN Analog Sensor
+status: ''
 extra:
   1 x 0~20mA input: ''
   1 x 0~30v input: ''
@@ -12,18 +16,7 @@ extra:
   Support wireless OTA update firmware: ''
   Ultra-low power consumption: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/aee44fc32e47f07b5fe3050745ad94ac_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lora-lorawan-end-node/item/258-ps-lb-ls-na.html
-  repositories: []
-name: PS-LB-NA
-ref: dragino/ps-lb-na
-release_date: null
-sku: ps-lb-na
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/aee44fc32e47f07b5fe3050745ad94ac_L.jpg

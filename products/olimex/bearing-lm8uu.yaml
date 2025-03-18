@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bearing-lm8uu
+ref: olimex/bearing-lm8uu
+vendor: olimex
+sku: bearing-lm8uu
+name: BEARING-LM8UU
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-LM8UU/images/thumbs/200x150/LM8UU.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-LM8UU/
-  repositories: []
-name: BEARING-LM8UU
-ref: olimex/bearing-lm8uu
-release_date: null
-sku: bearing-lm8uu
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-LM8UU/images/thumbs/200x150/LM8UU.jpg

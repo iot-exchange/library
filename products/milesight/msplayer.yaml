@@ -1,0 +1,12 @@
+id: msplayer
+ref: milesight/msplayer
+vendor: milesight
+sku: msplayer
+name: MSPlayer
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/security/product/msplayer
+  images: []

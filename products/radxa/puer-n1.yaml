@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: puer-n1
+ref: radxa/puer-n1
+vendor: radxa
+sku: puer-n1
+name: PuER N1
 description: The Most Elegant Network Tiny PC
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/palmshell/pure-n1/thumb_pure_n1.webp
-  models: []
   products:
   - https://palmshell.io/puer-n1
-  repositories: []
-name: PuER N1
-ref: radxa/puer-n1
-release_date: null
-sku: puer-n1
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/palmshell/pure-n1/thumb_pure_n1.webp

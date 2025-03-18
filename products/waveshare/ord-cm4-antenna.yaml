@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: ord-cm4-antenna
+ref: waveshare/ord-cm4-antenna
+vendor: waveshare
+sku: ord-cm4-antenna
+name: ORD-CM4-ANTENNA
 description: Compatible Antenna for Raspberry Pi Compute Module 4 / 5, 2.4G/5G WiFi
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/compute-module-4-antenna-kit-1_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ord-cm4-antenna.htm
-  repositories: []
-name: ORD-CM4-ANTENNA
-ref: waveshare/ord-cm4-antenna
-release_date: null
-sku: ord-cm4-antenna
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/compute-module-4-antenna-kit-1_1.jpg

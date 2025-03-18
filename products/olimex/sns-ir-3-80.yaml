@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sns-ir-3-80
+ref: olimex/sns-ir-3-80
+vendor: olimex
+sku: sns-ir-3-80
+name: SNS-IR-3-80
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Sensors/Distance/SNS-IR-3-80/images/thumbs/200x150/SNS-IR-3-80.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Sensors/Distance/SNS-IR-3-80/
-  repositories: []
-name: SNS-IR-3-80
-ref: olimex/sns-ir-3-80
-release_date: null
-sku: sns-ir-3-80
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/Distance/SNS-IR-3-80/images/thumbs/200x150/SNS-IR-3-80.jpg

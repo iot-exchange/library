@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6195
+ref: mikroe/mikroe-6195
+vendor: mikroe
+sku: mikroe-6195
+name: MIKROE-6195
 description: for STM32F2 Resistive Rapid development of multimedia and gui-centric
   applications BUILD GREAT GUI IN NO TIME Rich with peripherals Mikromedia 3 for STM32F2
   Resistive is not limited to multimedia-based applications only. USB, digital motion
   sensor, battery charging functionality, SD card reader and much more expands its
   use beyond the...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mikromedia-3-for-stm32f2-resistive/mikromedia-3-for-stm32f2-resistive-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mikromedia-3-for-stm32f2-resistive
-  repositories: []
-name: MIKROE-6195
-ref: mikroe/mikroe-6195
-release_date: null
-sku: mikroe-6195
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-3-for-stm32f2-resistive/mikromedia-3-for-stm32f2-resistive-home_default-1.jpg?v=100

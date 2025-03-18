@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: we310f5
+ref: telit/we310f5
+vendor: telit
+sku: we310f5
+name: WE310F5
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2024/11/TC_WE310F5-P-I-dyn-231x200.png
-  models: []
   products:
   - https://www.telit.com/devices/we310f5/
-  repositories: []
-name: WE310F5
-ref: telit/we310f5
-release_date: null
-sku: we310f5
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/11/TC_WE310F5-P-I-dyn-231x200.png

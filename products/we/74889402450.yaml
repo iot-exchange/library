@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '74889402450'
+ref: we/74889402450
+vendor: we
+sku: '74889402450'
+name: '74889402450'
 description: ''
+status: Active
 extra:
   Expected lifetime: '>10 years'
   Production: active
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/WE-MCA_WCO#74889402450
-  repositories: []
-name: '74889402450'
-ref: we/74889402450
-release_date: null
-sku: '74889402450'
-spec: null
-status: Active
-vendor: we
+  images: []

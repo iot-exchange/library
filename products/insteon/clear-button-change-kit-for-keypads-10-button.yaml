@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: clear-button-change-kit-for-keypads-10-button
+ref: insteon/clear-button-change-kit-for-keypads-10-button
+vendor: insteon
+sku: clear-button-change-kit-for-keypads-10-button
+name: Clear Button Change Kit for Keypads, 10-Button
 description: ''
+status: ''
 extra:
   Regular price: $7.95
   Sale price: $7.95
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/products/Clear_Button_Change_Kit_for_Keypads_10-Button.jpg?v=1724707627&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/clear-button-change-kit-for-keypads
-  repositories: []
-name: Clear Button Change Kit for Keypads, 10-Button
-ref: insteon/clear-button-change-kit-for-keypads-10-button
-release_date: null
-sku: clear-button-change-kit-for-keypads-10-button
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Clear_Button_Change_Kit_for_Keypads_10-Button.jpg?v=1724707627&width=533

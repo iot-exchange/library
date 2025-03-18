@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: rs232-to-rs485-422
+ref: waveshare/rs232-to-rs485-422
+vendor: waveshare
+sku: rs232-to-rs485-422
+name: rs232_to_rs485_422
 description: RS232 To RS485/422 Active Digital isolated Converter, Onboard Original
   SP3232EEN and SP485EEN Chips, Options for RS232 DB9 Male / Female port
+status: ''
 extra:
   price: $11.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs232-to-rs485-422-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rs232-to-rs485-422.htm
-  repositories: []
-name: rs232_to_rs485_422
-ref: waveshare/rs232-to-rs485-422
-release_date: null
-sku: rs232-to-rs485-422
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs232-to-rs485-422-1.jpg

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: sona-if573
+ref: ezurio/sona-if573
+vendor: ezurio
+sku: sona-if573
+name: Sona-IF573
 description: The first Laird Wifi module that introduces 'Fast Virtual Simultaneous
   Dual Band Operation'.
+status: ''
 extra:
   bands: 2.4GHz and 5GHz
   feature: Fast Virtual Simultaneous Dual Band Operation
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Sona-IF573
-ref: ezurio/sona-if573
-release_date: null
-sku: sona-if573
-spec: null
-status: ''
-vendor: ezurio
+  images: []

@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: '110010004'
+ref: seeedstudio/110010004
+vendor: seeedstudio
+sku: '110010004'
+name: '110010004'
 description: Seeed Studio XIAO SAMD21 powered by SAMD21G18 is the pioneer, universal
   development board, extremely popular around the communities and derived a sight
   of projects. It is the perfect microcontroller for you to get started with electronics.
+status: ''
 extra:
   discount: $1.40 (10%)
   original_price: $13.99
   price: $12.59
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/Seeeduino-XIAO-3Pcs-p-4546.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-308030054-ink-7.5-monochrome-epaper-display-with-800x480-pixels-45font.jpg
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/w/e/wechatimg290.jpg
-  models: []
-  products:
-  - https://www.seeedstudio.com/Seeeduino-XIAO-3Pcs-p-4546.html
-  repositories: []
-name: '110010004'
-ref: seeedstudio/110010004
-release_date: null
-sku: '110010004'
-spec: null
-status: ''
-vendor: seeedstudio

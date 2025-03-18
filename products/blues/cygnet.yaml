@@ -1,0 +1,19 @@
+id: cygnet
+ref: blues/cygnet
+vendor: blues
+sku: cygnet
+name: Cygnet
+description: Feather-compatible dev board, powered by an STM32L433-based microcontroller
+status: ''
+extra:
+  Connectors: Qwiic/StemmaQT and USB C
+  Debug Connector: CORTEX Debug connector
+  Flash: 256KB
+  GPIO & Bus Pins: Feather-compatible
+  RAM: 64KB
+  Supported Languages: C/C++, Arduino
+links:
+  products:
+  - https://shop.blues.com/collections/feather-mcu/products/cygnet
+  images:
+  - https://blues.com/wp-content/uploads/2024/12/cygnet-with-measurements-768x768.png

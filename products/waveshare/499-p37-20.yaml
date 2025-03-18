@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 499-p37-20
+ref: waveshare/499-p37-20
+vendor: waveshare
+sku: 499-p37-20
+name: 499-P37-20
 description: Test & Burn-in Socket
+status: ''
 extra:
   Price: $34.99 - $37.99
   SKU: '11578'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/9/499-p37-20-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/499-p37-20.htm
-  repositories: []
-name: 499-P37-20
-ref: waveshare/499-p37-20
-release_date: null
-sku: 499-p37-20
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/9/499-p37-20-2.jpg

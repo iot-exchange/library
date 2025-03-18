@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: cc1354p10
+ref: ti/cc1354p10
+vendor: ti
+sku: cc1354p10
+name: CC1354P10
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ti.com/product/CC1354P10
-  repositories: []
-name: CC1354P10
-ref: ti/cc1354p10
-release_date: null
-sku: cc1354p10
-spec: null
-status: ''
-vendor: ti
+  images: []

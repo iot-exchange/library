@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rs232-to-rj45-console-cable
+ref: waveshare/rs232-to-rj45-console-cable
+vendor: waveshare
+sku: rs232-to-rj45-console-cable
+name: RS232-TO-RJ45-Console-Cable
 description: RS232 to RJ45 Console Cable, RS232 DB9 Female Port to RJ45 Console Male
   Port, Cable Length 1.8m
+status: ''
 extra:
   Price: $1.65 - $1.99
   SKU: '26013'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs232-to-rj45-console-cable-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rs232-to-rj45-console-cable.htm
-  repositories: []
-name: RS232-TO-RJ45-Console-Cable
-ref: waveshare/rs232-to-rj45-console-cable
-release_date: null
-sku: rs232-to-rj45-console-cable
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs232-to-rj45-console-cable-1.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5647
+ref: mikroe/mikroe-5647
+vendor: mikroe
+sku: mikroe-5647
+name: MIKROE-5647
 description: Ambient 22 Click is a compact add-on board that measures the intensity
   of visible light. This board features the OPT3005, a single-chip lux meter from
   Texas Instruments that transforms light intensity to a digital signal output that
   can be directly communicated via an I2C interface. The sensor's spectral response
   tightly matches the human eye's photopic...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ambient-22-click/ambient-22-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ambient-22-click
-  repositories: []
-name: MIKROE-5647
-ref: mikroe/mikroe-5647
-release_date: null
-sku: mikroe-5647
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ambient-22-click/ambient-22-click-home_default-1.jpg?v=100

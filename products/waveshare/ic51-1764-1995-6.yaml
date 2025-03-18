@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: ic51-1764-1995-6
+ref: waveshare/ic51-1764-1995-6
+vendor: waveshare
+sku: ic51-1764-1995-6
+name: IC51-1764-1995-6
 description: Test & Burn-in Socket
+status: ''
 extra:
   Price: $187.99 - $199.99
   SKU: '12832'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ic51-1764-1995-6-4.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ic51-1764-1995-6.htm
-  repositories: []
-name: IC51-1764-1995-6
-ref: waveshare/ic51-1764-1995-6
-release_date: null
-sku: ic51-1764-1995-6
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ic51-1764-1995-6-4.jpg

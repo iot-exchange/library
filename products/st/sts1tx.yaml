@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: sts1tx
+ref: st/sts1tx
+vendor: st
+sku: sts1tx
+name: STS1TX
 description: Low data rate, low power sub-1GHz transmitter
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.st.com/en/wireless-connectivity/sts1tx.html
-  repositories: []
-name: STS1TX
-ref: st/sts1tx
-release_date: null
-sku: sts1tx
-spec: null
-status: ''
-vendor: st
+  images: []

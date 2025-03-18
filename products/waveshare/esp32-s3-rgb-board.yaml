@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: esp32-s3-rgb-board
+ref: waveshare/esp32-s3-rgb-board
+vendor: waveshare
+sku: esp32-s3-rgb-board
+name: esp32_s3_rgb_board
 description: ESP32-S3 RGB LCD Driver Board, Equipped With 32-bit 240MHz LX7 Dual-Core
   Processor, 8MB PSRAM and Flash, WiFi & Bluetooth Support
+status: ''
 extra:
   Multi Options: ''
   Price: $11.99 -  $37.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-lcd-driver-board-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/esp32-s3-lcd-driver-board.htm
-  repositories: []
-name: esp32_s3_rgb_board
-ref: waveshare/esp32-s3-rgb-board
-release_date: null
-sku: esp32-s3-rgb-board
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-lcd-driver-board-1.jpg

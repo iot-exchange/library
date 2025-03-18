@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: ddsm115
+ref: waveshare/ddsm115
+vendor: waveshare
+sku: ddsm115
+name: DDSM115
 description: DDSM115 Direct Drive Servo Motor, Low Speed & High Torque, Low Noise,
   All-In-One Design, Hub Motor
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/d/ddsm115-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ddsm115.htm
-  repositories: []
-name: DDSM115
-ref: waveshare/ddsm115
-release_date: null
-sku: ddsm115
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/d/ddsm115-1.jpg

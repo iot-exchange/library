@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3979
+ref: mikroe/mikroe-3979
+vendor: mikroe
+sku: mikroe-3979
+name: MIKROE-3979
 description: 'TFT Board 4 Capacitive is a 4.3" display board which features the standardized
   2x20-pin display connector. The display board also integrates a capacitive multitouch
   panel with swipe and zoom gesture support. The TFT display module supports up to
   24-bit pixel format (RGB: 888), allowing a true-color palette of 16,7 million colors,
   and resolution of 480 x...'
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/tft-board-4-capacitive-with-bezel/tft-board-4-capacitive-with-bezel-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/tft-board-4-capacitive-with-bezel
-  repositories: []
-name: MIKROE-3979
-ref: mikroe/mikroe-3979
-release_date: null
-sku: mikroe-3979
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/tft-board-4-capacitive-with-bezel/tft-board-4-capacitive-with-bezel-home_default-1.jpg?v=100

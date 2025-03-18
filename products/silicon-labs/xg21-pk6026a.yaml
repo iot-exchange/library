@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: xg21-pk6026a
+ref: silicon-labs/xg21-pk6026a
+vendor: silicon-labs
+sku: xg21-pk6026a
+name: xG21-PK6026A
 description: EFR32xG21 Pro Kit designed to support the development of wireless IoT
   devices based on the EFR32xG21B Rev D +10 dBm SoC.
+status: ''
 extra:
   MSRP: $168.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/multiprotocol/xg21-pk6026a-pro-kit.png
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/efr32xg21-pro-kit-10-dbm
-  repositories: []
-name: xG21-PK6026A
-ref: silicon-labs/xg21-pk6026a
-release_date: null
-sku: xg21-pk6026a
-spec: null
-status: ''
-vendor: silicon-labs
+  images:
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/multiprotocol/xg21-pk6026a-pro-kit.png

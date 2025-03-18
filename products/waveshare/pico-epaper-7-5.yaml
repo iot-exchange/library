@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pico-epaper-7-5
+ref: waveshare/pico-epaper-7-5
+vendor: waveshare
+sku: pico-epaper-7-5
+name: Pico-ePaper-7.5
 description: "7.5inch E-Paper E-Ink Display Module for Raspberry Pi Pico, 800\xD7\
   480, Black / White, SPI"
+status: ''
 extra:
   Price: $55.95 - $57.99
   SKU: '20128'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-epaper-7.5-1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pico-epaper-7.5.htm
-  repositories: []
-name: Pico-ePaper-7.5
-ref: waveshare/pico-epaper-7-5
-release_date: null
-sku: pico-epaper-7-5
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-epaper-7.5-1_2.jpg

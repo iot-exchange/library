@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: the-things-indoor-gateway-pro
+ref: thethingsindustries/the-things-indoor-gateway-pro
+vendor: thethingsindustries
+sku: the-things-indoor-gateway-pro
+name: The Things Indoor Gateway Pro
 description: Collection of ready to use LoRaWAN Gateways
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://thethingsshop.com/products/the-things-indoor-gateway-pro
-  repositories: []
-name: The Things Indoor Gateway Pro
-ref: thethingsindustries/the-things-indoor-gateway-pro
-release_date: null
-sku: the-things-indoor-gateway-pro
-spec: null
-status: ''
-vendor: thethingsindustries
+  images: []

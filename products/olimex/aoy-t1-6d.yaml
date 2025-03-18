@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: aoy-t1-6d
+ref: olimex/aoy-t1-6d
+vendor: olimex
+sku: aoy-t1-6d
+name: AOY-T1-6D
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Soldering/AOY-T1-6D/images/thumbs/200x150/AOY-T1-6D.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Soldering/AOY-T1-6D/
-  repositories: []
-name: AOY-T1-6D
-ref: olimex/aoy-t1-6d
-release_date: null
-sku: aoy-t1-6d
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/AOY-T1-6D/images/thumbs/200x150/AOY-T1-6D.jpg

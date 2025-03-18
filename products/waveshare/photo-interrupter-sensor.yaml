@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: photo-interrupter-sensor
+ref: waveshare/photo-interrupter-sensor
+vendor: waveshare
+sku: photo-interrupter-sensor
+name: Photo Interrupter Sensor
 description: Photo Interrupter Sensor, Speed Measuring
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/h/photo-interrupter-sensor-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/photo-interrupter-sensor.htm
-  repositories: []
-name: Photo Interrupter Sensor
-ref: waveshare/photo-interrupter-sensor
-release_date: null
-sku: photo-interrupter-sensor
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/h/photo-interrupter-sensor-1.jpg

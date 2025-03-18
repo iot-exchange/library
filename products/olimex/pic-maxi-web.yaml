@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pic-maxi-web
+ref: olimex/pic-maxi-web
+vendor: olimex
+sku: pic-maxi-web
+name: PIC-MAXI-WEB
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/PIC/Development/PIC-MAXI-WEB/images/thumbs/200x150/PIC-MAXI-WEB-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/PIC/Development/PIC-MAXI-WEB/
-  repositories: []
-name: PIC-MAXI-WEB
-ref: olimex/pic-maxi-web
-release_date: null
-sku: pic-maxi-web
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/PIC/Development/PIC-MAXI-WEB/images/thumbs/200x150/PIC-MAXI-WEB-1.jpg

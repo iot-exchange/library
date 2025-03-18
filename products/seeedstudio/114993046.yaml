@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: '114993046'
+ref: seeedstudio/114993046
+vendor: seeedstudio
+sku: '114993046'
+name: '114993046'
 description: "Chelegance JNCRadio SV6301A \u2013 6.3G VNA WITH 7\u201D CAPACITIVE\
   \ TOUCHSCREEN"
+status: ''
 extra:
   Certification: CE, FCC, RoHS
   Frequency Range: 1MHz to 6.3GHz
@@ -9,18 +13,7 @@ extra:
   Power Out: -40dBm ~ -10dBm
   Storage: 8GB TF card
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/x/1x1a2490.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/JNCRADIO-VNA-6GHz-p-5737.html
-  repositories: []
-name: '114993046'
-ref: seeedstudio/114993046
-release_date: null
-sku: '114993046'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/x/1x1a2490.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: otq-80-0-5-02
+ref: waveshare/otq-80-0-5-02
+vendor: waveshare
+sku: otq-80-0-5-02
+name: OTQ-80-0.5-02
 description: Test & Burn-in Socket
+status: ''
 extra:
-  Price: $112.59 - $115.99
   Price Range: $112.59 - $115.99
   SKU: '3558'
+  Price: $112.59 - $115.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/t/otq-80-0.5-02_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/otq-80-0.5-02.htm
-  repositories: []
-name: OTQ-80-0.5-02
-ref: waveshare/otq-80-0-5-02
-release_date: null
-sku: otq-80-0-5-02
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/t/otq-80-0.5-02_l_1_5.jpg

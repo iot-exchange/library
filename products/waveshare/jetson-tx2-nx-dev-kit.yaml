@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: jetson-tx2-nx-dev-kit
+ref: waveshare/jetson-tx2-nx-dev-kit
+vendor: waveshare
+sku: jetson-tx2-nx-dev-kit
+name: jetson_tx2_nx_dev_kit
 description: Waveshare Jetson TX2 NX Development Kit, Deep Learning and Edge Computing
+status: ''
 extra:
   Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-tx2-nx-dev-kit-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/jetson-tx2-nx-dev-kit.htm
-  repositories: []
-name: jetson_tx2_nx_dev_kit
-ref: waveshare/jetson-tx2-nx-dev-kit
-release_date: null
-sku: jetson-tx2-nx-dev-kit
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-tx2-nx-dev-kit-1.jpg

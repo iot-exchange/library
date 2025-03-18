@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: wi-fi-halowtm-modules
+ref: murata/wi-fi-halowtm-modules
+vendor: murata
+sku: wi-fi-halowtm-modules
+name: "Wi-Fi HaLow\u2122 Modules"
 description: Murata has developed the Wi-Fi HaLow module for long range wireless connectivity.
   Our modules have a flexible design and certification in major countries. Murata
   can provide communications under conditions that were difficult to achieve with
   other wireless technologies.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth/overview/wi-fi-halow-modules
-  repositories: []
-name: "Wi-Fi HaLow\u2122 Modules"
-ref: murata/wi-fi-halowtm-modules
-release_date: null
-sku: wi-fi-halowtm-modules
-spec: null
-status: ''
-vendor: murata
+  images: []

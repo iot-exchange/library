@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: '2608011024000'
+ref: we/2608011024000
+vendor: we
+sku: '2608011024000'
+name: '2608011024000'
 description: Proteus-I with integrated antenna
+status: Active
 extra:
   ANTConn: Integrated PCB
   Frequency Range (MHz): 2402 - 2480
@@ -12,18 +16,7 @@ extra:
   VDD min.(V): '1.8'
   dLoS(m): '50'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o139383v214%20Single_Proteus-I_2608011024000.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/PROTEUS-I#2608011024000
-  repositories: []
-name: '2608011024000'
-ref: we/2608011024000
-release_date: null
-sku: '2608011024000'
-spec: null
-status: Active
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o139383v214%20Single_Proteus-I_2608011024000.jpg

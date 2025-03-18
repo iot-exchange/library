@@ -1,0 +1,13 @@
+id: sprouty-us-version
+ref: onethinx/sprouty-us-version
+vendor: onethinx
+sku: sprouty-us-version
+name: Sprouty US Version
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://shop.onethinx.com/products/sprouty-us-version
+  images:
+  - https://shop.onethinx.com/cdn/shop/files/EU_VERSION.png?v=1727011332&width=533

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4771
+ref: mikroe/mikroe-4771
+vendor: mikroe
+sku: mikroe-4771
+name: MIKROE-4771
 description: 8800 Retro Click is a compact add-on board that simplifies the control
   of multiple LEDs. This board features the AS1115, compact LED driver for 8x8 display
   screen programmed via a compatible 2-wire I2C interface from ASM-AG. The AS1115
   includes an integrated BCD code-B/HEX decoder, multiplex scan circuitry, segment
   and display drivers, and 64-bit memory.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/8800-retro-click/8800-retro-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/8800-retro-click
-  repositories: []
-name: MIKROE-4771
-ref: mikroe/mikroe-4771
-release_date: null
-sku: mikroe-4771
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/8800-retro-click/8800-retro-click-home_default-1.jpg?v=100

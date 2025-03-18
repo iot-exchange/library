@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: nbsn95a
+ref: dragino/nbsn95a
+vendor: dragino
+sku: nbsn95a
+name: NBSN95A
 description: 'IP68 Waterproof , Battery Powered NB-IoT Sensor Node Quectel BC35-G,
   support bands: B1/B3/B8/B5/B20/B28 @H-FDD Ultra Low Power Consumption'
+status: ''
 extra:
   Chipset: Quectel BC35-G
   Power: Battery Powered
@@ -9,18 +13,7 @@ extra:
   Supported Bands: B1/B3/B8/B5/B20/B28 @H-FDD
   Waterproof: IP68
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/c82e68ecc91a6115905b52a4dab0ec5b_L.jpg
-  models: []
   products:
   - https://dragino.com/products/nb-iot/item/186-nbsn95a.html
-  repositories: []
-name: NBSN95A
-ref: dragino/nbsn95a
-release_date: null
-sku: nbsn95a
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/c82e68ecc91a6115905b52a4dab0ec5b_L.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: olimexino-328
+ref: olimex/olimexino-328
+vendor: olimex
+sku: olimexino-328
+name: OLIMEXINO-328
 description: ''
+status: ''
 extra:
   price1: 21.95 EUR
   price2: 19.76 EUR
   price3: 17.56 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Duino/AVR/OLIMEXINO-328/images/thumbs/200x150/OLIMEXINO-328-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Duino/AVR/OLIMEXINO-328/open-source-hardware
-  repositories: []
-name: OLIMEXINO-328
-ref: olimex/olimexino-328
-release_date: null
-sku: olimexino-328
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Duino/AVR/OLIMEXINO-328/images/thumbs/200x150/OLIMEXINO-328-01.jpg

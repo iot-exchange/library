@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: gd32-p407
+ref: olimex/gd32-p407
+vendor: olimex
+sku: gd32-p407
+name: GD32-P407
 description: ''
+status: ''
 extra:
   price1: 44.95 EUR
   price2: 42.70 EUR
   price3: 40.46 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/ST/STM32-P407/images/thumbs/200x150/STM32-P407-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/ST/GD32-P407/
-  repositories: []
-name: GD32-P407
-ref: olimex/gd32-p407
-release_date: null
-sku: gd32-p407
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/ST/STM32-P407/images/thumbs/200x150/STM32-P407-01.jpg

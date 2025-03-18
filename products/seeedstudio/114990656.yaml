@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '114990656'
+ref: seeedstudio/114990656
+vendor: seeedstudio
+sku: '114990656'
+name: '114990656'
 description: The Loco Positioning node is a multi-functional node in a Loco Positioning
   system, it can act either as an Anchor or Tag. Most commonly it is used as an Anchor,
   being part of the reference base for the system. Alternatively is can also run in
   Tag mode when it can be attached to an object to track, for instance a robot.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/l/o/loco-node-400px-1_1024x1024.jpeg
-  models: []
   products:
   - https://www.seeedstudio.com/DWM1000-Node-p-2939.html
-  repositories: []
-name: '114990656'
-ref: seeedstudio/114990656
-release_date: null
-sku: '114990656'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/l/o/loco-node-400px-1_1024x1024.jpeg

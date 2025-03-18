@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bg22-rb4191a
+ref: silicon-labs/bg22-rb4191a
+vendor: silicon-labs
+sku: bg22-rb4191a
+name: BG22-RB4191A
 description: BG22 Bluetooth Dual Polarized Antenna Array Radio Board
+status: ''
 extra:
   MSRP: $149.00
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/bluetooth/bg22-rb4191a-bg22-bluetooth-dual-polarized-antenna-array-radio-board
-  repositories: []
-name: BG22-RB4191A
-ref: silicon-labs/bg22-rb4191a
-release_date: null
-sku: bg22-rb4191a
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: a7670e-cat-1-gnss-hat
+ref: waveshare/a7670e-cat-1-gnss-hat
+vendor: waveshare
+sku: a7670e-cat-1-gnss-hat
+name: A7670E Cat-1/GNSS HAT
 description: Cat-1/GSM/GPRS/GNSS HAT for Raspberry Pi, Based On A7670E module, LTE
   Cat-1 / 2G support, GNSS positioning
+status: ''
 extra:
   SKU: '26631'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/7/a7670e-cat-1-gnss-hat-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/a7670e-cat-1-gnss-hat.htm
   - https://www.waveshare.com/product/a7670e-cat-1-gnss-hat.htm "Cat-1/GSM/GPRS/GNSS
     HAT for Raspberry Pi, Based On A7670E module, LTE Cat-1 / 2G support, GNSS positioning"
-  repositories: []
-name: A7670E Cat-1/GNSS HAT
-ref: waveshare/a7670e-cat-1-gnss-hat
-release_date: null
-sku: a7670e-cat-1-gnss-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/7/a7670e-cat-1-gnss-hat-1.jpg

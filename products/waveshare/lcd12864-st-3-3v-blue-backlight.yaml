@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: lcd12864-st-3-3v-blue-backlight
+ref: waveshare/lcd12864-st-3-3v-blue-backlight
+vendor: waveshare
+sku: lcd12864-st-3-3v-blue-backlight
+name: LCD12864-ST (3.3V Blue Backlight)
 description: Part No.:LCD12864-ST (3.3V Blue Backlight)
+status: ''
 extra:
   Price: $9.59 - $12.79
   SKU: '4438'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/c/lcd12864-st-3.3v-blue_l_2_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/lcd12864-st-3.3v-blue.htm
-  repositories: []
-name: LCD12864-ST (3.3V Blue Backlight)
-ref: waveshare/lcd12864-st-3-3v-blue-backlight
-release_date: null
-sku: lcd12864-st-3-3v-blue-backlight
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/c/lcd12864-st-3.3v-blue_l_2_2.jpg

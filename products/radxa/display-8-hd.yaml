@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: display-8-hd
+ref: radxa/display-8-hd
+vendor: radxa
+sku: display-8-hd
+name: Display 8 HD
 description: An All-in-One Touchscreen Module
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/accessories/ad001/thumb_display_8hd.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/display-8hd
-  repositories: []
-name: Display 8 HD
-ref: radxa/display-8-hd
-release_date: null
-sku: display-8-hd
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/accessories/ad001/thumb_display_8hd.webp

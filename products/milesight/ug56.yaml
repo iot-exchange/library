@@ -1,0 +1,13 @@
+id: ug56
+ref: milesight/ug56
+vendor: milesight
+sku: ug56
+name: UG56
+description: "Industrial LoRaWAN\xAE Gateway"
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-gateway/ug56
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/gateway/lorawan-industrial-gateway.png?t=1742198585390

@@ -1,0 +1,13 @@
+id: sg50
+ref: milesight/sg50
+vendor: milesight
+sku: sg50
+name: SG50
+description: "Ultra Low Power Solar LoRaWAN\xAE Gateway"
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-gateway/sg50
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/gateway/sg50.png?t=1742198585390

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: snm960
+ref: meig-smart/snm960
+vendor: meig-smart
+sku: snm960
+name: SNM960
 description: High Computations Smart Module Support Wi-Fi 6E & BT5.2
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://en.meigsmart.com/userfiles/images/2023/06/05/2023060509199528.png
-  models: []
   products:
   - https://en.meigsmart.com/productdetail/aicomputingmod960.html
-  repositories: []
-name: SNM960
-ref: meig-smart/snm960
-release_date: null
-sku: snm960
-spec: null
-status: ''
-vendor: meig-smart
+  images:
+  - https://en.meigsmart.com/userfiles/images/2023/06/05/2023060509199528.png

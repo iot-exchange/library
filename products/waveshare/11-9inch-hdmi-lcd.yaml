@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: 11-9inch-hdmi-lcd
+ref: waveshare/11-9inch-hdmi-lcd
+vendor: waveshare
+sku: 11-9inch-hdmi-lcd
+name: 11.9inch HDMI LCD
 description: "11.9inch Capacitive Touch Screen LCD, 320\xD71480, HDMI, IPS, Toughened\
   \ Glass Cover"
+status: ''
 extra:
   Price: $99.59 - $102.99
   SKU: '19454'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/1/11.9inch-hdmi-lcd-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/11.9inch-hdmi-lcd.htm
   - "https://www.waveshare.com/product/11.9inch-hdmi-lcd.htm \"11.9inch Capacitive\
     \ Touch Screen LCD, 320\xD71480, HDMI, IPS, Toughened Glass Cover\""
-  repositories: []
-name: 11.9inch HDMI LCD
-ref: waveshare/11-9inch-hdmi-lcd
-release_date: null
-sku: 11-9inch-hdmi-lcd
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/1/11.9inch-hdmi-lcd-1.jpg

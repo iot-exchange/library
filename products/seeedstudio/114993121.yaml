@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '114993121'
+ref: seeedstudio/114993121
+vendor: seeedstudio
+sku: '114993121'
+name: '114993121'
 description: Wio-E5-LE module has a single-core STM32WLE5JC chip, Cortex M4 MCU, and
   SX126X. It uses 84% less power for transmission compared to the Wio-E5. The ultra-low
   power consumption of the Wio-E5-LE makes it very energy efficient, this power-saving
   design makes the Wio-E5-LE well-suited for applications needing minimal power usage.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993121-wio-e5-le-hf-45font_1__1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Wio-E5-LE-Wireless-Module-Tape-Reel-STM32WLE5JC-p-5752.html
-  repositories: []
-name: '114993121'
-ref: seeedstudio/114993121
-release_date: null
-sku: '114993121'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993121-wio-e5-le-hf-45font_1__1.jpg

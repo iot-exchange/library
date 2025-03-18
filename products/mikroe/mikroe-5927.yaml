@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5927
+ref: mikroe/mikroe-5927
+vendor: mikroe
+sku: mikroe-5927
+name: MIKROE-5927
 description: IoT ExpressLink 2 Click is a compact add-on board that allows users to
   connect to IoT ExpressLink services easily and securely interact with cloud applications
   and other services. This board features the SARA-R510AWS, an LTE-M AWS IoT EsxpressLink
   module from u-blox. It supports a comprehensive set of 3GPP Rel. 14 features that
   are relevant for IoT...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/iot-expresslink-2-click/iot-expresslink-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/iot-expresslink-2-click
-  repositories: []
-name: MIKROE-5927
-ref: mikroe/mikroe-5927
-release_date: null
-sku: mikroe-5927
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/iot-expresslink-2-click/iot-expresslink-2-click-home_default-1.jpg?v=100

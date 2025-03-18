@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4298
+ref: mikroe/mikroe-4298
+vendor: mikroe
+sku: mikroe-4298
+name: MIKROE-4298
 description: DTMF Generator Click is a compact add-on board that generates DTMF (Dual-Tone
   Multi-Frequency) signals designed for MCU interfaces. This board features the HT9200A,
   a dual-tone multi-frequency decoder mostly used in mobile communications systems
   from Holtek Semiconductor Inc.. The HT9200A tone generators can be instructed by
   an MCU to generate 16 dual...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/dtmf-generator-click/dtmf-generator-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/dtmf-generator-click
-  repositories: []
-name: MIKROE-4298
-ref: mikroe/mikroe-4298
-release_date: null
-sku: mikroe-4298
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dtmf-generator-click/dtmf-generator-click-home_default-1.jpg?v=100

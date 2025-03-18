@@ -1,0 +1,11 @@
+id: iconnect-lite
+ref: ithinx/iconnect-lite
+vendor: ithinx
+sku: iconnect-lite
+name: iConnect-Lite
+description: A compact and versatile gateway for IoT applications.
+status: ''
+extra: {}
+links:
+  products: []
+  images: []

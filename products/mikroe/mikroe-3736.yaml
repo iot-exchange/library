@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3736
+ref: mikroe/mikroe-3736
+vendor: mikroe
+sku: mikroe-3736
+name: MIKROE-3736
 description: "Stepper 13 Click is a bipolar step motor driver. It features an H-bridge\
   \ bipolar step motor driver, which supports full-, half-, quarter-, or eighth-step\
   \ modes. Stepper 13 click also carries a port expander so that the communication\
   \ can be done with a minimal number of pins, through the mikroBUS\u2122 I2C bus.\
   \ This click board\u2122 offers thermal protection,..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/stepper-13-click/stepper-13-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/stepper-13-click
-  repositories: []
-name: MIKROE-3736
-ref: mikroe/mikroe-3736
-release_date: null
-sku: mikroe-3736
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/stepper-13-click/stepper-13-click-home_default-1.jpg?v=100

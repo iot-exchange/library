@@ -1,0 +1,12 @@
+id: mcan-4-ao-box
+ref: microcontrol/mcan-4-ao-box
+vendor: microcontrol
+sku: mcan-4-ao-box
+name: "\xB5CAN.4.ao-BOX"
+description: 4-channel analogue output current / voltage
+status: ''
+extra: {}
+links:
+  products: []
+  images:
+  - data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20640'%3E%3C/svg%3E

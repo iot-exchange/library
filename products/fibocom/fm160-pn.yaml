@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: fm160-pn
+ref: fibocom/fm160-pn
+vendor: fibocom
+sku: fm160-pn
+name: FM160-PN
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/5G-FM160-PN.html
-  repositories: []
-name: FM160-PN
-ref: fibocom/fm160-pn
-release_date: null
-sku: fm160-pn
-spec: null
-status: ''
-vendor: fibocom
+  images: []

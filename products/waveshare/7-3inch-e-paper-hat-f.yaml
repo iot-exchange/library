@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: 7-3inch-e-paper-hat-f
+ref: waveshare/7-3inch-e-paper-hat-f
+vendor: waveshare
+sku: 7-3inch-e-paper-hat-f
+name: 7.3inch e-Paper HAT (F)
 description: "7.3inch ACeP 7-Color E-Paper E-Ink Display Module, 800\xD7480 Pixels,\
   \ SPI Communication"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/_/7.3inch-e-paper-hat-f-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/7.3inch-e-paper-hat-f.htm
-  repositories: []
-name: 7.3inch e-Paper HAT (F)
-ref: waveshare/7-3inch-e-paper-hat-f
-release_date: null
-sku: 7-3inch-e-paper-hat-f
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/_/7.3inch-e-paper-hat-f-1.jpg

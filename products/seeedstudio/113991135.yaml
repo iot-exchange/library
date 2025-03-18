@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '113991135'
+ref: seeedstudio/113991135
+vendor: seeedstudio
+sku: '113991135'
+name: '113991135'
 description: The LTE Cat 4 EC25-EUX-mini-PCIe is a Mini PCIe module that supports
   LTE-FDD and WCDMA mobile communication technologies and integrates multiple GNSS
   receivers for faster and more accurate positioning. All of these make it suitable
   for M2M and IoT applications.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-113991134--lte-cat-4-ec25-afxga-mini-pcie-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/LTE-Cat-4-EC25-EUX-mini-PCIe-p-5669.html
-  repositories: []
-name: '113991135'
-ref: seeedstudio/113991135
-release_date: null
-sku: '113991135'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-113991134--lte-cat-4-ec25-afxga-mini-pcie-45font.jpg

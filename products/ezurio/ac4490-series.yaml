@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: ac4490-series
+ref: ezurio/ac4490-series
+vendor: ezurio
+sku: ac4490-series
+name: AC4490 Series
 description: 3 Channel Sets comprising 56 total channels.
+status: Active
 extra:
   Dimensions (H x L): 5 x 49
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2019-06/ramp-ism-module_0.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/ramp-ism-modules/proprietary-900-mhz-modules/ac4490-series
-  repositories: []
-name: AC4490 Series
-ref: ezurio/ac4490-series
-release_date: null
-sku: ac4490-series
-spec: null
-status: Active
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2019-06/ramp-ism-module_0.png

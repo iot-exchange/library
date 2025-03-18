@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: hl7900-5g-lpwa-module
+ref: semtech/hl7900-5g-lpwa-module
+vendor: semtech
+sku: hl7900-5g-lpwa-module
+name: HL7900 5G LPWA Module
 description: "Semtech\u2019s HL7900 5G LPWA Module Certified by Leading U.S. Carriers"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products: []
   images:
   - https://www.semtech.com/uploads/news/OEM-PR-HL7900-Banner-1400x600.jpg
-  models: []
-  products: []
-  repositories: []
-name: HL7900 5G LPWA Module
-ref: semtech/hl7900-5g-lpwa-module
-release_date: null
-sku: hl7900-5g-lpwa-module
-spec: null
-status: ''
-vendor: semtech

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-5489
+ref: mikroe/mikroe-5489
+vendor: mikroe
+sku: mikroe-5489
+name: MIKROE-5489
 description: Male header, SMT, 2x20pin, 2.54mm (0.100") pitch, gold, shrouded - 4
   wall, polarizing key
+status: Unavailable
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/2x20-male-connector-header-smd/2x20-male-connector-header-smd-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/2x20-male-connector-header-smd
-  repositories: []
-name: MIKROE-5489
-ref: mikroe/mikroe-5489
-release_date: null
-sku: mikroe-5489
-spec: null
-status: Unavailable
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/2x20-male-connector-header-smd/2x20-male-connector-header-smd-home_default-1.jpg?v=100

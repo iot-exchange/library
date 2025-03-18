@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4153
+ref: mikroe/mikroe-4153
+vendor: mikroe
+sku: mikroe-4153
+name: MIKROE-4153
 description: 9DOF 3 Click introduces the BMX055, a small-scale absolute orientation
   sensor in the class of low-noise 9-axis measurement units, from Bosch Sensortec.
   It comprises the full functionality of a triaxial, low-g acceleration sensor, a
   triaxial angular rate sensor and a triaxial geomagnetic sensor. All three sensor
   components of the BMX055 can be operated and...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/9dof-3-click/9dof-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/9dof-3-click
-  repositories: []
-name: MIKROE-4153
-ref: mikroe/mikroe-4153
-release_date: null
-sku: mikroe-4153
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/9dof-3-click/9dof-3-click-home_default-1.jpg?v=100

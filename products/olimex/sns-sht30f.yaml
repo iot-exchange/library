@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sns-sht30f
+ref: olimex/sns-sht30f
+vendor: olimex
+sku: sns-sht30f
+name: SNS-SHT30F
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Sensors/Temperature/SNS-SHT30F/images/thumbs/200x150/SNS-SHT30-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Sensors/Temperature/SNS-SHT30F/
-  repositories: []
-name: SNS-SHT30F
-ref: olimex/sns-sht30f
-release_date: null
-sku: sns-sht30f
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/Temperature/SNS-SHT30F/images/thumbs/200x150/SNS-SHT30-1.jpg

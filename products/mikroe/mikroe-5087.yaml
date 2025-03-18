@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-5087
+ref: mikroe/mikroe-5087
+vendor: mikroe
+sku: mikroe-5087
+name: MIKROE-5087
 description: Haptic 3 Click is a compact add-on board that uses advanced vibration
   patterns and waveforms to convey information to a user. This board features the
   DA7282, a linear resonant actuator (LRA), and an eccentric rotating mass (ERM) haptic
   driver from Renesas.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/haptic-3-click/haptic-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/haptic-3-click
-  repositories: []
-name: MIKROE-5087
-ref: mikroe/mikroe-5087
-release_date: null
-sku: mikroe-5087
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/haptic-3-click/haptic-3-click-home_default-1.jpg?v=100

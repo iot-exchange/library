@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '110991406'
+ref: seeedstudio/110991406
+vendor: seeedstudio
+sku: '110991406'
+name: '110991406'
 description: This is the compatible Acrylic side panels of re_computer case. You can
   easily set up a complete re_computer case appearance for both of NVIDIA Jetson Nano
   B01 and A02 versions using the side panels.
+status: ''
 extra:
   Price: $0.90
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/re-computer-case-side-panels-for-Jetson-Nano-with-standoffs-p-4666.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110991406_all-04_1_5.png
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110991409_all-04_6.png
-  models: []
-  products:
-  - https://www.seeedstudio.com/re-computer-case-side-panels-for-Jetson-Nano-with-standoffs-p-4666.html
-  repositories: []
-name: '110991406'
-ref: seeedstudio/110991406
-release_date: null
-sku: '110991406'
-spec: null
-status: ''
-vendor: seeedstudio

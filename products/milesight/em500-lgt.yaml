@@ -1,0 +1,13 @@
+id: em500-lgt
+ref: milesight/em500-lgt
+vendor: milesight
+sku: em500-lgt
+name: EM500-LGT
+description: Light Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/em500-lgt
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/outdoor-environmental-monitoring-em500-series/light-sensor-em500-lgt.png?t=1742198585390

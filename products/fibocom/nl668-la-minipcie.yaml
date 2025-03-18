@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: nl668-la-minipcie
+ref: fibocom/nl668-la-minipcie
+vendor: fibocom
+sku: nl668-la-minipcie
+name: NL668-LA-MiniPCIe
 description: ''
+status: ''
 extra:
   Bands: 'LTE: B1/2/3/4/5/7/8/12/17/28/38/40/66'
   Form Factor: MiniPCIe
   Region: Latin America
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTECat-NL668-LA-MiniPCIe.html
-  repositories: []
-name: NL668-LA-MiniPCIe
-ref: fibocom/nl668-la-minipcie
-release_date: null
-sku: nl668-la-minipcie
-spec: null
-status: ''
-vendor: fibocom
+  images: []

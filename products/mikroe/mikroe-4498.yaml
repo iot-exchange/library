@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4498
+ref: mikroe/mikroe-4498
+vendor: mikroe
+sku: mikroe-4498
+name: MIKROE-4498
 description: 3D Hall 8 Click is a compact add-on board containing an ultra-small 3D-magnetic
   sensor for industrial and consumer applications. This board features the TLI493D-W2BW,
   a low-power 3D Hall sensor from Infineon. This magnetic sensor combines high-accuracy
   magnetic field measurements with exceptionally low power consumption (minimum 7nA).
   It features an I2C...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/3d-hall-8-click/3d-hall-8-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/3d-hall-8-click
-  repositories: []
-name: MIKROE-4498
-ref: mikroe/mikroe-4498
-release_date: null
-sku: mikroe-4498
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/3d-hall-8-click/3d-hall-8-click-home_default-1.jpg?v=100

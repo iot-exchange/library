@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: rs485-to-lte-cat4-eu
+ref: waveshare/rs485-to-lte-cat4-eu
+vendor: waveshare
+sku: rs485-to-lte-cat4-eu
+name: RS485 TO LTE CAT4 (EU)
 description: Industrial 4G DTU, RS485 TO LTE CAT4, DIN Rail-Mount, for EMEA, Korea,
   Thailand, India, Southeast Asia
+status: ''
 extra:
   Price: $71.95 - $73.99
   SKU: '21967'
   price: $71.95 - $73.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/rs485-to-lte-cat4-eu.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs485-to-lte-cat4-eu-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs485-to-lte-cat4-eu-details-5.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/rs485-to-lte-cat4-eu.htm
-  repositories: []
-name: RS485 TO LTE CAT4 (EU)
-ref: waveshare/rs485-to-lte-cat4-eu
-release_date: null
-sku: rs485-to-lte-cat4-eu
-spec: null
-status: ''
-vendor: waveshare

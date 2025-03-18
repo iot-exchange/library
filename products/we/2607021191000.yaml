@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: '2607021191000'
+ref: we/2607021191000
+vendor: we
+sku: '2607021191000'
+name: '2607021191000'
 description: Telesto-I USB radio stick
+status: NRND
 extra:
   Connector: SMA
   Dimensions: 74 x 23.65 x 12
@@ -8,17 +12,6 @@ extra:
   Output Power: '550'
   Sensitivity: '-106'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/TELESTO-I_MESH#2607021191000
-  repositories: []
-name: '2607021191000'
-ref: we/2607021191000
-release_date: null
-sku: '2607021191000'
-spec: null
-status: NRND
-vendor: we
+  images: []

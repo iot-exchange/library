@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: calypso-wifi-featherwing
+ref: we/calypso-wifi-featherwing
+vendor: we
+sku: calypso-wifi-featherwing
+name: Calypso WiFi FeatherWing
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o193552v214%20Single_Calypso-FeatherWing_2610039025001.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/CALYPSO_FEATHERWING_2
-  repositories: []
-name: Calypso WiFi FeatherWing
-ref: we/calypso-wifi-featherwing
-release_date: null
-sku: calypso-wifi-featherwing
-spec: null
-status: ''
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o193552v214%20Single_Calypso-FeatherWing_2610039025001.jpg

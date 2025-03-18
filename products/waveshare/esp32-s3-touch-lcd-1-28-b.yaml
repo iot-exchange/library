@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: esp32-s3-touch-lcd-1-28-b
+ref: waveshare/esp32-s3-touch-lcd-1-28-b
+vendor: waveshare
+sku: esp32-s3-touch-lcd-1-28-b
+name: ESP32-S3-Touch-LCD-1.28-B
 description: ESP32-S3 Development Board, with 1.28inch Round Touch LCD, Accelerometer
   And Gyroscope Sensor, Round Display, With CNC Metal Case
+status: ''
 extra:
   Price: $25.29 - $26.99
   SKU: '26959'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-1.28-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/esp32-s3-touch-lcd-1.28-b.htm
-  repositories: []
-name: ESP32-S3-Touch-LCD-1.28-B
-ref: waveshare/esp32-s3-touch-lcd-1-28-b
-release_date: null
-sku: esp32-s3-touch-lcd-1-28-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-1.28-b-1.jpg

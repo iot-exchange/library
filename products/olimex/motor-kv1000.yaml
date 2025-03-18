@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: motor-kv1000
+ref: olimex/motor-kv1000
+vendor: olimex
+sku: motor-kv1000
+name: MOTOR-KV1000
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/MOTOR-KV1000/images/thumbs/200x150/MOTOR-KV1000.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/MOTOR-KV1000/
-  repositories: []
-name: MOTOR-KV1000
-ref: olimex/motor-kv1000
-release_date: null
-sku: motor-kv1000
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/MOTOR-KV1000/images/thumbs/200x150/MOTOR-KV1000.jpg

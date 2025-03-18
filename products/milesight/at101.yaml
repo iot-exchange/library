@@ -1,0 +1,13 @@
+id: at101
+ref: milesight/at101
+vendor: milesight
+sku: at101
+name: AT101
+description: Outdoor Asset Tracker
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/at101
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/asset-tracking-series/milesight-outdoor-asset-tracker-at101.png?t=1742198585390

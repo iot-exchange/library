@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: hawk
+ref: digitalmatter/hawk
+vendor: digitalmatter
+sku: hawk
+name: Hawk
 description: Robust plug-and-play IoT data logger and sensor hub designed to support
   an extensive range of sensor integrations.
+status: ''
 extra:
   Connectivity: LTE-M and NB-IoT
   Onboard Accelerometer: 'Yes'
@@ -10,17 +14,6 @@ extra:
   Power Options: Large internal rechargeable LiPo battery, external power including
     solar, or 2 x D Cell LTC or Alkaline batteries
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.digitalmatter.com/overview#Hawk
-  repositories: []
-name: Hawk
-ref: digitalmatter/hawk
-release_date: null
-sku: hawk
-spec: null
-status: ''
-vendor: digitalmatter
+  images: []

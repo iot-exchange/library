@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: imx219-83-stereo-camera
+ref: waveshare/imx219-83-stereo-camera
+vendor: waveshare
+sku: imx219-83-stereo-camera
+name: IMX219-83 Stereo Camera
 description: Binocular Camera Module, Dual IMX219, 8 Megapixels, Applicable for Jetson
   Nano and Raspberry Pi, Stereo Vision, Depth Vision
+status: ''
 extra:
   Price: $43.29 - $44.99
   SKU: '17742'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx219-83-stereo-camera-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/imx219-83-stereo-camera.htm
-  repositories: []
-name: IMX219-83 Stereo Camera
-ref: waveshare/imx219-83-stereo-camera
-release_date: null
-sku: imx219-83-stereo-camera
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx219-83-stereo-camera-1.jpg

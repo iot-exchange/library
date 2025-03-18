@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: le-audio-evaluation-kit
+ref: ezurio/le-audio-evaluation-kit
+vendor: ezurio
+sku: le-audio-evaluation-kit
+name: LE Audio Evaluation Kit
 description: "Bluetooth Version 5.2 Development Kit Contents: 3 x Laird Connectivity\
   \ BL5340 DVKs, 3 x BL5340 AIB v1, 1 x ground loop isolator, 3 x audio cables TRS\
   \ 1/8\u201D (3.5mm), 3 x USB cables for power, Pre-loaded LE Audio Eval Kit binary\
   \ firmware, Quick Start Guide (QSG)"
+status: Active
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2025-01/EK-B02-BL5340_product2a_med.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/programming-kits/le-audio-evaluation-kit-laird-connectivity-packetcraft
-  repositories: []
-name: LE Audio Evaluation Kit
-ref: ezurio/le-audio-evaluation-kit
-release_date: null
-sku: le-audio-evaluation-kit
-spec: null
-status: Active
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2025-01/EK-B02-BL5340_product2a_med.png

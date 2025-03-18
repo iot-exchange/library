@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5471
+ref: mikroe/mikroe-5471
+vendor: mikroe
+sku: mikroe-5471
+name: MIKROE-5471
 description: Gyro 8 Click is a compact add-on board that contains a high-performance
   gyroscope. This board features Murata's SCR2100-D08, a high-performance single-axis
   angular rate sensor (gyroscope). Based on Murata's proven capacitive 3D-MEMS technology,
   the SCR2100-D08 is characterized by high stability and reliability, providing immensely
   stable output over a...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gyro-8-click/gyro-8-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/gyro-8-click
-  repositories: []
-name: MIKROE-5471
-ref: mikroe/mikroe-5471
-release_date: null
-sku: mikroe-5471
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gyro-8-click/gyro-8-click-home_default-1.jpg?v=100

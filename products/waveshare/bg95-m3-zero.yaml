@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: bg95-m3-zero
+ref: waveshare/bg95-m3-zero
+vendor: waveshare
+sku: bg95-m3-zero
+name: BG95-M3 Zero
 description: BG95 EVB Development Board Designed For QuecPython, Low Power Consumption,
   Supports LTE / EGPRS Communication And GNSS Positioning
+status: ''
 extra:
   Price: $52.95 - $54.99
   SKU: '27094'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/g/bg95-m3-zero-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/bg95-m3-zero.htm
-  repositories: []
-name: BG95-M3 Zero
-ref: waveshare/bg95-m3-zero
-release_date: null
-sku: bg95-m3-zero
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/g/bg95-m3-zero-1.jpg

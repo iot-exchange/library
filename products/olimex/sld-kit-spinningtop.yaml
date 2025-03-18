@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sld-kit-spinningtop
+ref: olimex/sld-kit-spinningtop
+vendor: olimex
+sku: sld-kit-spinningtop
+name: SLD-KIT-SPINNINGTOP
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Soldering-Kits/Beginner/SLD-KIT-SPINNINGTOP/images/thumbs/200x150/SLD-KIT-SPINNINGTOP-2.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Soldering-Kits/Beginner/SLD-KIT-SPINNINGTOP/
-  repositories: []
-name: SLD-KIT-SPINNINGTOP
-ref: olimex/sld-kit-spinningtop
-release_date: null
-sku: sld-kit-spinningtop
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Soldering-Kits/Beginner/SLD-KIT-SPINNINGTOP/images/thumbs/200x150/SLD-KIT-SPINNINGTOP-2.jpg

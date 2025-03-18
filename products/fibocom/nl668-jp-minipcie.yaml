@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: nl668-jp-minipcie
+ref: fibocom/nl668-jp-minipcie
+vendor: fibocom
+sku: nl668-jp-minipcie
+name: NL668-JP-MiniPCIe
 description: ''
+status: ''
 extra:
   Bands: 'LTE: B1/2/3/4/5/7/8/12/17/28/38/40/66'
   Form Factor: MiniPCIe
   Region: Japan
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTECat-NL668-JP-MiniPCIe.html
-  repositories: []
-name: NL668-JP-MiniPCIe
-ref: fibocom/nl668-jp-minipcie
-release_date: null
-sku: nl668-jp-minipcie
-spec: null
-status: ''
-vendor: fibocom
+  images: []

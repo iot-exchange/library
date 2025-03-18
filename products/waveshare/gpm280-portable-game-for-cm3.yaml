@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: gpm280-portable-game-for-cm3
+ref: waveshare/gpm280-portable-game-for-cm3
+vendor: waveshare
+sku: gpm280-portable-game-for-cm3
+name: GPM280 Portable Game For CM3
 description: GPM280 Portable Game Console Based On Raspberry Pi Compute Module 3+
   Lite (Optional), WiFi
+status: ''
 extra:
   Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/p/gpm2803p1-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/gpm280.htm
-  repositories: []
-name: GPM280 Portable Game For CM3
-ref: waveshare/gpm280-portable-game-for-cm3
-release_date: null
-sku: gpm280-portable-game-for-cm3
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/p/gpm2803p1-1.jpg

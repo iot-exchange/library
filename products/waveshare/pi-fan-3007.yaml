@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: pi-fan-3007
+ref: waveshare/pi-fan-3007
+vendor: waveshare
+sku: pi-fan-3007
+name: pi_fan_3007
 description: Low-Profile CPU Cooling Fan for Raspberry Pi 4B/3B+/3B, with Aluminum
   Alloy Bracket
+status: ''
 extra:
-  Multi Options: ''
   Price: $8.99 - $9.99
+  Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi-fan-3007-1_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pi-fan-3007.htm
   - https://www.waveshare.com/product/pi-fan-3007.htm "Low-Profile CPU Cooling Fan
     for Raspberry Pi 4B/3B+/3B, with Aluminum Alloy Bracket"
-  repositories: []
-name: pi_fan_3007
-ref: waveshare/pi-fan-3007
-release_date: null
-sku: pi-fan-3007
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi-fan-3007-1_1.jpg

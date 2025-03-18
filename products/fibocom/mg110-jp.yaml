@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: mg110-jp
+ref: fibocom/mg110-jp
+vendor: fibocom
+sku: mg110-jp
+name: MG110-JP
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTECat1-MG110-JP.html
-  repositories: []
-name: MG110-JP
-ref: fibocom/mg110-jp
-release_date: null
-sku: mg110-jp
-spec: null
-status: ''
-vendor: fibocom
+  images: []

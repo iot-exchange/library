@@ -1,0 +1,13 @@
+id: poe-switch
+ref: milesight/poe-switch
+vendor: milesight
+sku: poe-switch
+name: PoE Switch
+description: 4/8/16/24-Port PoE Switch Reliable, Flexible & Secure
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/product/poe-switch
+  images:
+  - https://www.milesight.com/static/pc/en/product/center/5g-cellular-products/index/poe-switch.png?t=1742198692607

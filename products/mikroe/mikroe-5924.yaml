@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5924
+ref: mikroe/mikroe-5924
+vendor: mikroe
+sku: mikroe-5924
+name: MIKROE-5924
 description: Buck-Boost 4 Click is a compact add-on board that contains a buck-boost
   DC/DC converter with four integrated MOSFETs. This board features the TPS55289,
   a buck-boost converter from Texas Instruments. It can deliver on its output voltages
   from 0.8 up to 22V, from the input voltage in a range of 3 up to 30V. The output
   voltage can be programmed in 10mV.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/buck-boost-4-click/buck-boost-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/buck-boost-4-click
-  repositories: []
-name: MIKROE-5924
-ref: mikroe/mikroe-5924
-release_date: null
-sku: mikroe-5924
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/buck-boost-4-click/buck-boost-4-click-home_default-1.jpg?v=100

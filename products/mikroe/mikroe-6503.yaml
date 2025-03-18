@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6503
+ref: mikroe/mikroe-6503
+vendor: mikroe
+sku: mikroe-6503
+name: MIKROE-6503
 description: Thin Film Element RTD Temperature Sensor, the NB-PTCO-154 from TE Connectivity,
   is designed for precise and reliable temperature measurement across various applications.
   This sensor has a platinum thin-film temperature element with ceramic construction
   and ensures superior stability, repeatability, and durability. Its Ni/Au wire cladding
   and open-end...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/thin-film-element-rtd-temperature-sensor/thin-film-element-rtd-temperature-sensor-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/thin-film-element-rtd-temperature-sensor
-  repositories: []
-name: MIKROE-6503
-ref: mikroe/mikroe-6503
-release_date: null
-sku: mikroe-6503
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thin-film-element-rtd-temperature-sensor/thin-film-element-rtd-temperature-sensor-home_default-1.jpg?v=100

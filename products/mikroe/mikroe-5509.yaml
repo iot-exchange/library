@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5509
+ref: mikroe/mikroe-5509
+vendor: mikroe
+sku: mikroe-5509
+name: MIKROE-5509
 description: "Thermo 27 Click is a compact add-on board for accurate temperature measurements.\
   \ This board features the TMP114, a high-accuracy digital temperature sensor from\
   \ Texas Instruments. The TMP114 consists of an internal thermal BJT factory-calibrated\
   \ sensor, 16-bit ADC, and a digital signal processor, offering a high accuracy of\
   \ \xB10.3\xB0C and a temperature..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/thermo-27-click/thermo-27-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/thermo-27-click
-  repositories: []
-name: MIKROE-5509
-ref: mikroe/mikroe-5509
-release_date: null
-sku: mikroe-5509
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thermo-27-click/thermo-27-click-home_default-1.jpg?v=100

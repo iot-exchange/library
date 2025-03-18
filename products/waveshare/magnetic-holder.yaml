@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: magnetic-holder
+ref: waveshare/magnetic-holder
+vendor: waveshare
+sku: magnetic-holder
+name: Magnetic Holder
 description: Metal Magnetic Ring Holder For USB Monitor / Display Screen / Mobile
   Phone
+status: ''
 extra:
   Price: $2.15 - $2.49
   SKU: '25780'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/a/magnetic-holder-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/magnetic-holder.htm
-  repositories: []
-name: Magnetic Holder
-ref: waveshare/magnetic-holder
-release_date: null
-sku: magnetic-holder
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/a/magnetic-holder-1.jpg

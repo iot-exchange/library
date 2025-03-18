@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: emmc-to-usd
+ref: radxa/emmc-to-usd
+vendor: radxa
+sku: emmc-to-usd
+name: eMMC to uSD
 description: Small Module, Easy to Use
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/accessories/va003/thumb_emmc_to_usd.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/emmc-to-usd
-  repositories: []
-name: eMMC to uSD
-ref: radxa/emmc-to-usd
-release_date: null
-sku: emmc-to-usd
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/accessories/va003/thumb_emmc_to_usd.webp

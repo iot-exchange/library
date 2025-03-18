@@ -1,0 +1,32 @@
+id: dpt-module-v1
+ref: dptechnics/dpt-module-v1
+vendor: dptechnics
+sku: dpt-module-v1
+name: DPT-Module-v1
+description: The DPTechnics DPT-Module-v1 is a compact System-on-Module which is perfect
+  to create smart IoT products. The base of the system is the ever so popular and
+  robust Atheros Qualcomm AR9331 System-on-Chip and 64MiB DDR2 Hynix RAM memory. Together
+  with 16MiB of Winbond flash storage this small (27.5mm x 52mm) Linux computer can
+  run any IoT application it is presented with.
+status: ''
+extra:
+  Certification: CE & FCC certified
+  Inputs: 16 optically isolated inputs
+  Mounting: Standard DIN-rail housing
+  Output Voltage: 24VDC or 75VAC maximum
+  Outputs: 16 relay outputs (normally open, normally closed, common contact)
+  Power Supply: 12V to 24V
+  Processor: ARM Cortex-M0 at 48MHz
+  WiFi: Built-in transceiver and antenna
+  Flash Storage: 16MiB
+  OS: DPT-Board OS based on OpenWRT Linux
+  Power Consumption: 0.3 Watts
+  RAM: 64MiB DDR2
+  Size: 27.5mm x 52mm
+  SoC: Atheros Qualcomm AR9331
+  User Application Space: More than 10MiB flash available
+links:
+  products: []
+  images:
+  - https://www.dptechnics.com/images/product/digital-module.jpg
+  - https://www.dptechnics.com/images/product/dpt-module-v1.jpg

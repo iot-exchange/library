@@ -1,0 +1,13 @@
+id: em500-pp
+ref: milesight/em500-pp
+vendor: milesight
+sku: em500-pp
+name: EM500-PP
+description: Pipe Pressure Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/em500-pp
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/outdoor-environmental-monitoring-em500-series/pipe-pressure-sensor-em500-pp.png?t=1742198585390

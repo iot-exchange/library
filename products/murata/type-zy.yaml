@@ -1,8 +1,11 @@
-alternatives: []
-certifications: []
+id: type-zy
+ref: murata/type-zy
+vendor: murata
+sku: type-zy
+name: Type ZY
 description: Bluetooth module for consumer and industrial equipment.
+status: ''
 extra:
-  Bluetooth: 4.2 LE
   Bluetooth Version: 4.2 LE
   Chipset: DA14580
   Dimension: 7.4 x 7.0 x 1.0 mm
@@ -11,36 +14,26 @@ extra:
   Frequency: 2.4GHz
   Grade: Consumer
   Host Interface: UART, SPI, I2C, GPIO, ADC, Quadrature Decoder
-  Host Interface (Bluetooth): UART, SPI, I2C, GPIO, ADC, Quadrature Decoder
   IC Manufacturer: Dialog
   Integrated Antenna: 'Yes'
   Interface Voltage: 3.0V
   MIC (Japan) Certified: 'Yes'
   Mounting Type: SMT
   Operating Temperature: "-40\u2103 to 85\u2103"
-  Operating Temperature (degC): "-40\u2103 to 85\u2103"
   Package: Shielded Resin
   Packaging: Tape and Reel
   Processor: ARM Cortex-M0
   Receive Mode Current: 5.1mA
   RoHS Support: 'Yes'
   Sleep Mode Current: 600nA
-  Sleep Mode Current (Bluetooth): 600nA
   Supply Voltage: 2.35V to 3.3V
   Technology: Bluetooth
   Transmit Mode Current: 4.8mA
+  Bluetooth: 4.2 LE
+  Host Interface (Bluetooth): UART, SPI, I2C, GPIO, ADC, Quadrature Decoder
+  Operating Temperature (degC): "-40\u2103 to 85\u2103"
+  Sleep Mode Current (Bluetooth): 600nA
   Transmit Mode Current (Bluetooth): 4.8mA
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Type ZY
-ref: murata/type-zy
-release_date: null
-sku: type-zy
-spec: null
-status: ''
-vendor: murata
+  images: []

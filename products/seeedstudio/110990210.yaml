@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '110990210'
+ref: seeedstudio/110990210
+vendor: seeedstudio
+sku: '110990210'
+name: '110990210'
 description: Grove is a convenient plug-and-play system with specialized interface,
   but that doesn't mean it couldn't be used in open ecosystem like breadboard
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductmalejumper.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Grove-4-pin-Male-Jumper-to-Grove-4-pin-Conversion-Cable-5-PCs-per-Pack.html
-  repositories: []
-name: '110990210'
-ref: seeedstudio/110990210
-release_date: null
-sku: '110990210'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductmalejumper.jpg

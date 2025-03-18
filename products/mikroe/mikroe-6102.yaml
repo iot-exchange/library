@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6102
+ref: mikroe/mikroe-6102
+vendor: mikroe
+sku: mikroe-6102
+name: MIKROE-6102
 description: Thermostat 5 Click is a compact add-on board designed for precise temperature
   monitoring and control of external devices. This board features the MCP6022 operational
   amplifier and MCP3221 A/D converter, both from Microchip, ensuring accurate signal
   processing. The board features an NTC connector for temperature sensing, a dual-mode
   signal processing...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/thermostat-5-click/thermostat-5-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/thermostat-5-click
-  repositories: []
-name: MIKROE-6102
-ref: mikroe/mikroe-6102
-release_date: null
-sku: mikroe-6102
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thermostat-5-click/thermostat-5-click-home_default-1.jpg?v=100

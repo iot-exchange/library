@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: rs485-can-for-jetson-nano
+ref: waveshare/rs485-can-for-jetson-nano
+vendor: waveshare
+sku: rs485-can-for-jetson-nano
+name: RS485 CAN for Jetson Nano
 description: RS485 CAN Expansion Board for Jetson Nano, Digital Isolation, Built-In
   Protection Circuit
+status: ''
 extra:
   Price: $18.63 - $19.99
   SKU: '22026'
   price: $18.63 - $19.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs485-can-for-jetson-nano-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rs485-can-for-jetson-nano.htm
-  repositories: []
-name: RS485 CAN for Jetson Nano
-ref: waveshare/rs485-can-for-jetson-nano
-release_date: null
-sku: rs485-can-for-jetson-nano
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs485-can-for-jetson-nano-1.jpg

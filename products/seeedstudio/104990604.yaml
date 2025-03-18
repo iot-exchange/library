@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '104990604'
+ref: seeedstudio/104990604
+vendor: seeedstudio
+sku: '104990604'
+name: '104990604'
 description: Nextion Basic NX4832T035 - Generic 3.5'' HMI 480*320 Touch Display for
   Arduino Raspberry Pi Nextion is a Human Machine Interface(HMI) solution that provides
   a control and visualization interface between a human and a process, machine, application,
   or appliance. Nextion is not just a touch display, it has a hardware part and a
   software part which is well developed for HMI applications.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-104990604.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Nextion-Basic-NX4832T035-Generic-3-5-HMI-480-320-Touch-Display-for-Arduino-Raspberry-Pi-p-4336.html
-  repositories: []
-name: '104990604'
-ref: seeedstudio/104990604
-release_date: null
-sku: '104990604'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-104990604.jpg

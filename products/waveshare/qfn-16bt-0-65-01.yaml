@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: qfn-16bt-0-65-01
+ref: waveshare/qfn-16bt-0-65-01
+vendor: waveshare
+sku: qfn-16bt-0-65-01
+name: QFN-16BT-0.65-01
 description: Test & Burn-in Socket
+status: ''
 extra:
   Price Range: $85.99 - $88.99
   SKU: '3782'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/q/f/qfn-16bt-0.65-01_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/qfn-16bt-0.65-01.htm
-  repositories: []
-name: QFN-16BT-0.65-01
-ref: waveshare/qfn-16bt-0-65-01
-release_date: null
-sku: qfn-16bt-0-65-01
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/q/f/qfn-16bt-0.65-01_l_1_5.jpg

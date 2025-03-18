@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pack-of-10-pcs-nut-din439-m3
+ref: olimex/pack-of-10-pcs-nut-din439-m3
+vendor: olimex
+sku: pack-of-10-pcs-nut-din439-m3
+name: Pack of 10 pcs NUT-DIN439-M3
 description: ''
+status: ''
 extra:
   price1: 0.30 EUR
   price2: 0.27 EUR
   price3: 0.24 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Fasteners/NUT-DIN439-M3/images/thumbs/200x150/NUT-DIN439.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Fasteners/NUT-DIN439-M3/
-  repositories: []
-name: Pack of 10 pcs NUT-DIN439-M3
-ref: olimex/pack-of-10-pcs-nut-din439-m3
-release_date: null
-sku: pack-of-10-pcs-nut-din439-m3
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Fasteners/NUT-DIN439-M3/images/thumbs/200x150/NUT-DIN439.jpg

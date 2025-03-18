@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pic-gsm
+ref: olimex/pic-gsm
+vendor: olimex
+sku: pic-gsm
+name: PIC-GSM
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/PIC/Development/PIC-GSM/images/thumbs/200x150/PIC-GSM-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/PIC/Development/PIC-GSM/
-  repositories: []
-name: PIC-GSM
-ref: olimex/pic-gsm
-release_date: null
-sku: pic-gsm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/PIC/Development/PIC-GSM/images/thumbs/200x150/PIC-GSM-1.jpg

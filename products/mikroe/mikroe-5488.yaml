@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-5488
+ref: mikroe/mikroe-5488
+vendor: mikroe
+sku: mikroe-5488
+name: MIKROE-5488
 description: Female socket, SMT, 2x20pin, 2.54mm (0.100") pitch, gold, push-pull,
   polarizing key
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/2x20-female-connector-header-smd/2x20-female-connector-header-smd-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/2x20-female-connector-header-smd
-  repositories: []
-name: MIKROE-5488
-ref: mikroe/mikroe-5488
-release_date: null
-sku: mikroe-5488
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/2x20-female-connector-header-smd/2x20-female-connector-header-smd-home_default-1.jpg?v=100

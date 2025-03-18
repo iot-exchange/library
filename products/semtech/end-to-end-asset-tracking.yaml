@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: end-to-end-asset-tracking
+ref: semtech/end-to-end-asset-tracking
+vendor: semtech
+sku: end-to-end-asset-tracking
+name: End to End Asset Tracking
 description: Building an End to End Asset Tracking
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products: []
   images:
   - https://play.vidyard.com/gB5S9jAWBK5Hd7sfWSi3Yp.jpg?&play_button=1
-  models: []
-  products: []
-  repositories: []
-name: End to End Asset Tracking
-ref: semtech/end-to-end-asset-tracking
-release_date: null
-sku: end-to-end-asset-tracking
-spec: null
-status: ''
-vendor: semtech

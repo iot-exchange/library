@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: ws1603212
+ref: waveshare/ws1603212
+vendor: waveshare
+sku: ws1603212
+name: WS1603212
 description: "M12 High Resolution Lens, 12MP, 160\xB0 FOV, 3.2mm Focal length, Compatible\
   \ with Raspberry Pi High Quality Camera M12"
+status: ''
 extra:
-  Price: $21.31 - $21.99
   price: $21.31 - $21.99
+  Price: $21.31 - $21.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/s/ws1603212-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ws1603212.htm
   - "https://www.waveshare.com/product/ws1603212.htm \"M12 High Resolution Lens, 12MP,\
     \ 160\xB0 FOV, 3.2mm Focal length, Compatible with Raspberry Pi High Quality Camera\
     \ M12\""
-  repositories: []
-name: WS1603212
-ref: waveshare/ws1603212
-release_date: null
-sku: ws1603212
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/s/ws1603212-1.jpg

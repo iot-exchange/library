@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rp2040pc
+ref: olimex/rp2040pc
+vendor: olimex
+sku: rp2040pc
+name: RP2040pc
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/RaspberryPi/PICO/RP2040pc/images/thumbs/200x150/RP2040pc.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/RaspberryPi/PICO/RP2040pc/open-source-hardware
-  repositories: []
-name: RP2040pc
-ref: olimex/rp2040pc
-release_date: null
-sku: rp2040pc
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/RaspberryPi/PICO/RP2040pc/images/thumbs/200x150/RP2040pc.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: avr-hx128-a1
+ref: olimex/avr-hx128-a1
+vendor: olimex
+sku: avr-hx128-a1
+name: AVR-HX128-A1
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/AVR/Header/AVR-HX128-A1/images/thumbs/200x150/AVR-HX128-A1-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/AVR/Header/AVR-HX128-A1/
-  repositories: []
-name: AVR-HX128-A1
-ref: olimex/avr-hx128-a1
-release_date: null
-sku: avr-hx128-a1
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/AVR/Header/AVR-HX128-A1/images/thumbs/200x150/AVR-HX128-A1-01.jpg

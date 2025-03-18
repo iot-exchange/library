@@ -1,27 +1,20 @@
-alternatives: []
-certifications: []
+id: '102110719'
+ref: seeedstudio/102110719
+vendor: seeedstudio
+sku: '102110719'
+name: '102110719'
 description: This IMX 219 CMOS camera module is based on the high-resolution Sony
   IMX 219 sensor and supports both M12 CS mount lenses. The 2 CSI (Camera Serial Interface)
   ports are 15 and 22 pin respectively, meaning this sensor can be easily assembled
   most of the board with the CSI port, and with plenty of choices in the aspect of
   the lens.
+status: ''
 extra:
   Price: $15.90
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/111_all-04.jpg
-  - https://www.seeedstudio.com/img/v
-  models: []
   products:
   - https://www.seeedstudio.com/IMX-219-CMOS-camera-module-M12-and-CS-camera-available-p-5372.html
   - https://www.seeedstudio.com/imx219-m12-cs-mount-cmos-camera-module.html
-  repositories: []
-name: '102110719'
-ref: seeedstudio/102110719
-release_date: null
-sku: '102110719'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/111_all-04.jpg
+  - https://www.seeedstudio.com/img/v

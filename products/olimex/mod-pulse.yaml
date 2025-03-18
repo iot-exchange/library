@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-pulse
+ref: olimex/mod-pulse
+vendor: olimex
+sku: mod-pulse
+name: MOD-PULSE
 description: ''
+status: ''
 extra:
   bulkPrice: 15.96 EUR
   discountedPrice: 17.96 EUR
   price: 19.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Biofeedback/MOD-PULSE/images/thumbs/200x150/MOD-PULSE-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Biofeedback/MOD-PULSE/open-source-hardware
-  repositories: []
-name: MOD-PULSE
-ref: olimex/mod-pulse
-release_date: null
-sku: mod-pulse
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Biofeedback/MOD-PULSE/images/thumbs/200x150/MOD-PULSE-01.jpg

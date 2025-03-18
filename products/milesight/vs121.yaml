@@ -1,0 +1,13 @@
+id: vs121
+ref: milesight/vs121
+vendor: milesight
+sku: vs121
+name: VS121
+description: AI Workplace Occupancy Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/vs121
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/occupancy-people-counting-series/ai-workplace-occupancy-sensor-vs121.png?t=1742198585390

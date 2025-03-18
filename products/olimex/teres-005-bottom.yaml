@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-005-bottom
+ref: olimex/teres-005-bottom
+vendor: olimex
+sku: teres-005-bottom
+name: TERES-005-Bottom
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-005-Bottom/images/thumbs/200x150/TERES-005-Bottom.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-005-Bottom/
-  repositories: []
-name: TERES-005-Bottom
-ref: olimex/teres-005-bottom
-release_date: null
-sku: teres-005-bottom
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-005-Bottom/images/thumbs/200x150/TERES-005-Bottom.jpg

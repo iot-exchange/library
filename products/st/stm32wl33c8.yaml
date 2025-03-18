@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: stm32wl33c8
+ref: st/stm32wl33c8
+vendor: st
+sku: stm32wl33c8
+name: STM32WL33C8
 description: Sub-GHz Wireless Microcontrollers. Single-core Arm Cortex-M0+ @64 MHz
   with 64 Kbytes of Flash memory, 16 Kbytes of SRAM.
+status: ''
 extra:
   Core: Single-core Arm Cortex-M0+
   Flash Memory: 64 Kbytes
   Frequency: 64 MHz
   SRAM: 16 Kbytes
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.st.com/en/microcontrollers-microprocessors/stm32wl33c8.html
-  repositories: []
-name: STM32WL33C8
-ref: st/stm32wl33c8
-release_date: null
-sku: stm32wl33c8
-spec: null
-status: ''
-vendor: st
+  images: []

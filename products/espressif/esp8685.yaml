@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: esp8685
+ref: espressif/esp8685
+vendor: espressif
+sku: esp8685
+name: ESP8685
 description: Single Core
+status: ''
 extra:
   Core: Single Core
   Development Board: N/A
@@ -14,18 +18,7 @@ extra:
   Pins: '28'
   RAM/ROM (KB): 400 KB RAM, 384 KB ROM, 8 KB RTC SRAM
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/chips/ESP8685_S.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp8685_datasheet_en.pdf
-  repositories: []
-name: ESP8685
-ref: espressif/esp8685
-release_date: null
-sku: esp8685
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP8685_S.png

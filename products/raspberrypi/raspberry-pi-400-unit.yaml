@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-400-unit
+ref: raspberrypi/raspberry-pi-400-unit
+vendor: raspberrypi
+sku: raspberry-pi-400-unit
+name: Raspberry Pi 400 unit
 description: Raspberry Pi 400 is your complete personal computer, built into a compact
   keyboard
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/3cc2aea4df61df03a5c5e1ec99eb26b0/3f4ea/c2831d25-216f-4a77-a1ad-45b1019c082e_RPi_400%2BFeatured.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/raspberry-pi-400-unit/
-  repositories: []
-name: Raspberry Pi 400 unit
-ref: raspberrypi/raspberry-pi-400-unit
-release_date: null
-sku: raspberry-pi-400-unit
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/3cc2aea4df61df03a5c5e1ec99eb26b0/3f4ea/c2831d25-216f-4a77-a1ad-45b1019c082e_RPi_400%2BFeatured.jpg

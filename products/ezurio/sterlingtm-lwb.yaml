@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: sterlingtm-lwb
+ref: ezurio/sterlingtm-lwb
+vendor: ezurio
+sku: sterlingtm-lwb
+name: "Sterling\u2122-LWB+"
 description: Wi-Fi 4 and Bluetooth Modules
+status: ''
 extra:
   Category: Professional Wi-Fi
   Chipset: Infineon 43439
   SDIO: x
   Wi-Fi: Low Cost
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/wifi-modules-bluetooth/sterling-lwb-wifi-4-and-bluetooth-52-modules
-  repositories: []
-name: "Sterling\u2122-LWB+"
-ref: ezurio/sterlingtm-lwb
-release_date: null
-sku: sterlingtm-lwb
-spec: null
-status: ''
-vendor: ezurio
+  images: []

@@ -1,8 +1,12 @@
-alternatives: []
-certifications: []
+id: esp8684-wroom-05
+ref: espressif/esp8684-wroom-05
+vendor: espressif
+sku: esp8684-wroom-05
+name: ESP8684-WROOM-05
 description: The ESP8684-WROOM-05 module is based on the ESP8684 chip. It can be mounted
   onto the surface of a PCB board, or connected to a PCB board via pin headers. It
   has 5 GPIOs, and supports UART, SPI, I2C, PWM, etc.
+status: ''
 extra:
   Antenna: PCB antenna
   Chip Embedded: ESP8684H2ESP8684H4
@@ -10,18 +14,7 @@ extra:
   Flash (MB): 2, 4
   Pins: '7'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP8684-WROOM-05%20S_0.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp8684-wroom-05_datasheet_en.pdf
-  repositories: []
-name: ESP8684-WROOM-05
-ref: espressif/esp8684-wroom-05
-release_date: null
-sku: esp8684-wroom-05
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP8684-WROOM-05%20S_0.png

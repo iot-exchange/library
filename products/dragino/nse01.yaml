@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: nse01
+ref: dragino/nse01
+vendor: dragino
+sku: nse01
+name: NSE01
 description: NB-IoT Soil Moisture & EC Sensor
+status: ''
 extra:
   Bands: B1/B3/B8/B5/B20/B28 @H-FDD
   Features: Monitor Soil Moisture, Monitor Soil Temperature, Monitor Soil Conductivity
   Power Consumption: Ultra-Low
   SIM Slot: Micro SIM card slot for NB-IoT SIM
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/5288462d048e0d3f60f64bb84cff6df4_L.jpg
-  models: []
   products:
   - https://dragino.com/products/agriculture-weather-station/item/177-nse01.html
-  repositories: []
-name: NSE01
-ref: dragino/nse01
-release_date: null
-sku: nse01
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/5288462d048e0d3f60f64bb84cff6df4_L.jpg

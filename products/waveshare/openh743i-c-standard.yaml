@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: openh743i-c-standard
+ref: waveshare/openh743i-c-standard
+vendor: waveshare
+sku: openh743i-c-standard
+name: OpenH743I-C Standard
 description: OpenH743I-C Standard, STM32H7 Development Board
+status: ''
 extra:
   Price: $69.29 - $70.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/openh743i-c-1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/openh743i-c-standard.htm
-  repositories: []
-name: OpenH743I-C Standard
-ref: waveshare/openh743i-c-standard
-release_date: null
-sku: openh743i-c-standard
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/openh743i-c-1_2.jpg

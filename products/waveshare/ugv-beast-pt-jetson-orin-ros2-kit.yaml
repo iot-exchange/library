@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: ugv-beast-pt-jetson-orin-ros2-kit
+ref: waveshare/ugv-beast-pt-jetson-orin-ros2-kit
+vendor: waveshare
+sku: ugv-beast-pt-jetson-orin-ros2-kit
+name: UGV Beast PT Jetson Orin ROS2 Kit
 description: "UGV Beast ROS 2 Open-source Off-Road Tracked AI Robot For Jetson Orin\
   \ Series Board, Dual controllers, 360\xB0 Flexible Omnidirectional Pan-Tilt, Optional\
   \ For Jetson Orin Nano 4GB Kit"
+status: ''
 extra:
   Multi Options: ''
   Price: $554.99 - $936.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/g/ugv-beast-pt-jetson-orin-ros2-kit-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ugv-beast-pt-jetson-orin-ros2-kit.htm
-  repositories: []
-name: UGV Beast PT Jetson Orin ROS2 Kit
-ref: waveshare/ugv-beast-pt-jetson-orin-ros2-kit
-release_date: null
-sku: ugv-beast-pt-jetson-orin-ros2-kit
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/g/ugv-beast-pt-jetson-orin-ros2-kit-1.jpg

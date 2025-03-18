@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 10-1-hdmi-lcd-h-with-case
+ref: waveshare/10-1-hdmi-lcd-h-with-case
+vendor: waveshare
+sku: 10-1-hdmi-lcd-h-with-case
+name: "10.1\u2033 HDMI LCD (H) (with case)"
 description: "10.1inch Capacitive Touch Screen LCD (H) with Case, 1024\xD7600, HDMI,\
   \ Various Systems Support"
+status: ''
 extra:
   Price: $104.99 - $105.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.1hk-m.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/10.1inch-hdmi-lcd-with-case.htm
-  repositories: []
-name: "10.1\u2033 HDMI LCD (H) (with case)"
-ref: waveshare/10-1-hdmi-lcd-h-with-case
-release_date: null
-sku: 10-1-hdmi-lcd-h-with-case
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.1hk-m.jpg

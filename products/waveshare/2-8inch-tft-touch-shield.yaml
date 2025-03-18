@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 2-8inch-tft-touch-shield
+ref: waveshare/2-8inch-tft-touch-shield
+vendor: waveshare
+sku: 2-8inch-tft-touch-shield
+name: 2.8inch TFT Touch Shield
 description: 2.8inch Touch LCD Shield for Arduino
+status: ''
 extra:
   Price: $16.27 - $18.99
   SKU: '10684'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.8inch-tft-touch-shield-1_3.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/2.8inch-tft-touch-shield.htm
-  repositories: []
-name: 2.8inch TFT Touch Shield
-ref: waveshare/2-8inch-tft-touch-shield
-release_date: null
-sku: 2-8inch-tft-touch-shield
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.8inch-tft-touch-shield-1_3.jpg

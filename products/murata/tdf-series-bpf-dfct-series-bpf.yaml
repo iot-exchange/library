@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: tdf-series-bpf-dfct-series-bpf
+ref: murata/tdf-series-bpf-dfct-series-bpf
+vendor: murata
+sku: tdf-series-bpf-dfct-series-bpf
+name: TDF Series (BPF)/DFCT Series (BPF)
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/search/productsearch?cate=luGigafilTDF
-  repositories: []
-name: TDF Series (BPF)/DFCT Series (BPF)
-ref: murata/tdf-series-bpf-dfct-series-bpf
-release_date: null
-sku: tdf-series-bpf-dfct-series-bpf
-spec: null
-status: ''
-vendor: murata
+  images: []

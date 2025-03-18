@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: efr32xg24-dev-kit
+ref: silicon-labs/efr32xg24-dev-kit
+vendor: silicon-labs
+sku: efr32xg24-dev-kit
+name: EFR32xG24 Dev Kit
 description: The EFR32xG24 Dev Kit is a compact, feature-packed development platform.
   It provides the fastest path to develop and prototype wireless IoT products. The
   development platform supports up to +10 dBm output power and includes support for
   the 20-bit ADC as well as other key features.
+status: ''
 extra:
   MSRP: $79.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/multiprotocol/xg24-dk2601b.png
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/efr32xg24-dev-kit
-  repositories: []
-name: EFR32xG24 Dev Kit
-ref: silicon-labs/efr32xg24-dev-kit
-release_date: null
-sku: efr32xg24-dev-kit
-spec: null
-status: ''
-vendor: silicon-labs
+  images:
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/multiprotocol/xg24-dk2601b.png

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5803
+ref: mikroe/mikroe-5803
+vendor: mikroe
+sku: mikroe-5803
+name: MIKROE-5803
 description: ESP8684 Click is a compact add-on board that contains a wireless combo
   module. It features the ESP8684-MINI-1, a highly integrated WiFi, and a Bluetooth
   5 module from Espressif Systems. It simultaneously supports BSS in Station mode,
   SoftAP mode, Station + SoftAP mode, and promiscuous mode. As for the Bluetooth 5,
   the module supports central role and...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/esp8684-click/esp8684-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/esp8684-click
-  repositories: []
-name: MIKROE-5803
-ref: mikroe/mikroe-5803
-release_date: null
-sku: mikroe-5803
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/esp8684-click/esp8684-click-home_default-1.jpg?v=100

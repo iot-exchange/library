@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: robot-chassis-3
+ref: olimex/robot-chassis-3
+vendor: olimex
+sku: robot-chassis-3
+name: ROBOT-CHASSIS-3
 description: ''
+status: ''
 extra:
   discountedPrice1: 2.70 EUR
   discountedPrice2: 2.40 EUR
@@ -9,18 +13,7 @@ extra:
   price2: 2.70 EUR
   price3: 2.40 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Chassis/ROBOT-CHASSIS-3/images/thumbs/200x150/CHASSIS-3-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Chassis/ROBOT-CHASSIS-3/
-  repositories: []
-name: ROBOT-CHASSIS-3
-ref: olimex/robot-chassis-3
-release_date: null
-sku: robot-chassis-3
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Chassis/ROBOT-CHASSIS-3/images/thumbs/200x150/CHASSIS-3-1.jpg

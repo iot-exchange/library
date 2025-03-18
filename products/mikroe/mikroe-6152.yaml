@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6152
+ref: mikroe/mikroe-6152
+vendor: mikroe
+sku: mikroe-6152
+name: MIKROE-6152
 description: LTE Cat.1 3 Click (for Europe) is a compact add-on board for reliable
   4G wireless communication. This board features the EG91EXGA-128-SGNS, an LTE Cat
   1 IoT module that meets the 3GPP Release 11 standard from Quectel. It supports multiple
   wireless standards, including LTE-FDD, WCDMA, and GSM, ensuring broad network compatibility.
   Key features include...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/lte-cat1-3-click/lte-cat1-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/lte-cat1-3-click
-  repositories: []
-name: MIKROE-6152
-ref: mikroe/mikroe-6152
-release_date: null
-sku: mikroe-6152
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lte-cat1-3-click/lte-cat1-3-click-home_default-1.jpg?v=100

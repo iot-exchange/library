@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: v6-0
+ref: ezurio/v6-0
+vendor: ezurio
+sku: v6-0
+name: v6.0
 description: Decision-Based Advertising Filtering - Introduces Decision PDUs to allow
   devices to make decisions about advertising events.
+status: ''
 extra:
   Use Case: Improves efficiency of scanning devices.
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: v6.0
-ref: ezurio/v6-0
-release_date: null
-sku: v6-0
-spec: null
-status: ''
-vendor: ezurio
+  images: []

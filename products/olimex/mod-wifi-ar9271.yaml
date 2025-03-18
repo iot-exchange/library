@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: mod-wifi-ar9271
+ref: olimex/mod-wifi-ar9271
+vendor: olimex
+sku: mod-wifi-ar9271
+name: MOD-WIFI-AR9271
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/USB-Modules/MOD-WIFI-AR9271-ANT/images/thumbs/200x150/MOD-WIFI-AR9271-ANT-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/USB-Modules/MOD-WIFI-AR9271/
-  repositories: []
-name: MOD-WIFI-AR9271
-ref: olimex/mod-wifi-ar9271
-release_date: null
-sku: mod-wifi-ar9271
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/USB-Modules/MOD-WIFI-AR9271-ANT/images/thumbs/200x150/MOD-WIFI-AR9271-ANT-1.jpg

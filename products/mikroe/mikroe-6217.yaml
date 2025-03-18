@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6217
+ref: mikroe/mikroe-6217
+vendor: mikroe
+sku: mikroe-6217
+name: MIKROE-6217
 description: WiFi NORA Click is a compact add-on board that provides WiFi and BLE
   connectivity for professional-grade applications. This board features the NORA-W366-00B6-00B,
   a dual-band WiFi module with Bluetooth Low Energy (BLE) from u-blox, offering support
   for WiFi 4 (802.11a/b/g/n) in both 2.4 and 5GHz bands and Bluetooth v5.3 with peripheral
   and central roles.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/wifi-nora-click/wifi-nora-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/wifi-nora-click
-  repositories: []
-name: MIKROE-6217
-ref: mikroe/mikroe-6217
-release_date: null
-sku: mikroe-6217
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/wifi-nora-click/wifi-nora-click-home_default-1.jpg?v=100

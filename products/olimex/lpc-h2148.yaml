@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lpc-h2148
+ref: olimex/lpc-h2148
+vendor: olimex
+sku: lpc-h2148
+name: LPC-H2148
 description: ''
+status: ''
 extra:
   discountedPrice1: 16.16 EUR
   discountedPrice2: 14.36 EUR
   price: 17.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/NXP/LPC-H2148/images/thumbs/200x150/LPC-H2148-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/NXP/LPC-H2148/
-  repositories: []
-name: LPC-H2148
-ref: olimex/lpc-h2148
-release_date: null
-sku: lpc-h2148
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-H2148/images/thumbs/200x150/LPC-H2148-01.jpg

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 08qn65t33030
+ref: waveshare/08qn65t33030
+vendor: waveshare
+sku: 08qn65t33030
+name: 08QN65T33030
 description: Test & Burn-in Socket
+status: ''
 extra:
   Price Range: $60.99 - $63.99
   SKU: '5591'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/0/8/08qn65t33030_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/08qn65t33030.htm
-  repositories: []
-name: 08QN65T33030
-ref: waveshare/08qn65t33030
-release_date: null
-sku: 08qn65t33030
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/0/8/08qn65t33030_l_1_5.jpg

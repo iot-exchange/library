@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: avr-m32
+ref: olimex/avr-m32
+vendor: olimex
+sku: avr-m32
+name: AVR-M32
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/AVR/Header/AVR-M32/images/thumbs/200x150/AVR-M32-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/AVR/Header/AVR-M32/
-  repositories: []
-name: AVR-M32
-ref: olimex/avr-m32
-release_date: null
-sku: avr-m32
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/AVR/Header/AVR-M32/images/thumbs/200x150/AVR-M32-01.jpg

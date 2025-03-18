@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: '103110043'
+ref: seeedstudio/103110043
+vendor: seeedstudio
+sku: '103110043'
+name: '103110043'
 description: Jetson A203 V2 carrier board is an upgraded version of Jetson-A203, which
   is still an extended carrier board specifically for NVIDIA Jetson Nano / Xavier
   NX/TX2 NX. The rich peripheral interfaces (supporting wifi, bluetooth, SSD, etc)
@@ -7,25 +10,15 @@ description: Jetson A203 V2 carrier board is an upgraded version of Jetson-A203,
   retail, agriculture, and other industries. With the powerful NVIDIA controlling
   module(not included) and its compact design, it is good for Video Analysis and Robotics
   like UAVs, Unmanned boat, Unmanned submarines, etc.
+status: ''
 extra:
   discountPercentage: 25%
   discountedPrice: $786.75
   originalPrice: $1,049.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992738-1.png
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/a/2/a203_preview-07.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/A203-Carrier-Board-for-Jetson-Nano-Xavier-NX-V2-p-5214.html
   - https://www.seeedstudio.com/Jetson-SUB-Mini-PC-Black-p-5226.html
-  repositories: []
-name: '103110043'
-ref: seeedstudio/103110043
-release_date: null
-sku: '103110043'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992738-1.png
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/a/2/a203_preview-07.jpg

@@ -1,18 +1,16 @@
-alternatives: []
-certifications: []
+id: esp32-c6-lcd-1-47
+ref: waveshare/esp32-c6-lcd-1-47
+vendor: waveshare
+sku: esp32-c6-lcd-1-47
+name: ESP32-C6-LCD-1.47
 description: "ESP32-C6 1.47inch Display Development Board, 172\xD7320, 262K Color,\
   \ 160MHz Running Frequency Single-core Processor, Supports WiFi 6 & Bluetooth, ESP32\
   \ With Display"
+status: ''
 extra:
-  Price: $11.31 -  $11.99
   SKU: '28563'
+  Price: $11.31 -  $11.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/i/4inch-e-paper-hat-plus-e-1_8.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-c6-lcd-1.47-1.jpg
-  models: []
   products:
   - "https://www.waveshare.com/product/4inch-e-paper-hat-plus-e.htm \"4inch E Ink\
     \ Spectra 6 (E6) Full color E-Paper Display, 600\xD7400 Pixels, SPI Communication,\
@@ -21,11 +19,6 @@ links:
   - "https://www.waveshare.com/product/esp32-c6-lcd-1.47.htm \"ESP32-C6 1.47inch Display\
     \ Development Board, 172\xD7320, 262K Color, 160MHz Running Frequency Single-core\
     \ Processor, Supports WiFi 6 & Bluetooth, ESP32 With Display\""
-  repositories: []
-name: ESP32-C6-LCD-1.47
-ref: waveshare/esp32-c6-lcd-1-47
-release_date: null
-sku: esp32-c6-lcd-1-47
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/i/4inch-e-paper-hat-plus-e-1_8.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-c6-lcd-1.47-1.jpg

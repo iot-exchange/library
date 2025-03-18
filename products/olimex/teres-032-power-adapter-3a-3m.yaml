@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-032-power-adapter-3a-3m
+ref: olimex/teres-032-power-adapter-3a-3m
+vendor: olimex
+sku: teres-032-power-adapter-3a-3m
+name: TERES-032-Power-Adapter-3A-3M
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-032-Power-Adapter-3A-3M/images/thumbs/200x150/TERES-032-ADAPTER-3A-3M.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-032-Power-Adapter-3A-3M/
-  repositories: []
-name: TERES-032-Power-Adapter-3A-3M
-ref: olimex/teres-032-power-adapter-3a-3m
-release_date: null
-sku: teres-032-power-adapter-3a-3m
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-032-Power-Adapter-3A-3M/images/thumbs/200x150/TERES-032-ADAPTER-3A-3M.jpg

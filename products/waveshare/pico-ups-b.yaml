@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pico-ups-b
+ref: waveshare/pico-ups-b
+vendor: waveshare
+sku: pico-ups-b
+name: Pico-UPS-B
 description: UPS Module for Raspberry Pi Pico, Uninterruptible Power Supply, Li-po
   Battery, Stackable Design
+status: ''
 extra:
   Price: $14.63 - $15.99
   SKU: '20121'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-ups-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pico-ups-b.htm
-  repositories: []
-name: Pico-UPS-B
-ref: waveshare/pico-ups-b
-release_date: null
-sku: pico-ups-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-ups-b-1.jpg

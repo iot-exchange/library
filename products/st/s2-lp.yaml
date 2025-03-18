@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: s2-lp
+ref: st/s2-lp
+vendor: st
+sku: s2-lp
+name: S2-LP
 description: Ultra-low power, high performance, sub-1GHz transceiver
+status: ''
 extra:
   Data Rate (kbps) max: '500'
   Data Rate (kbps) min: '0.1'
@@ -17,17 +21,6 @@ extra:
   "Standby Current (\xB5A) typ": '0.3'
   TX current (mA) @ Max Output Power: '10'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.st.com/en/wireless-connectivity/s2-lp.html
-  repositories: []
-name: S2-LP
-ref: st/s2-lp
-release_date: null
-sku: s2-lp
-spec: null
-status: ''
-vendor: st
+  images: []

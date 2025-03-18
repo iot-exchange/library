@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: cm4-nas-double-deck
+ref: waveshare/cm4-nas-double-deck
+vendor: waveshare
+sku: cm4-nas-double-deck
+name: cm4-nas-double-deck
 description: Network Attached Storage(NAS) All-In-One Mini-Computer for Raspberry
   Pi Compute Module 4, Optional For CM4 Module
+status: ''
 extra:
   Price: $84.99 - $142.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-nas-double-deck-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/cm4-nas-double-deck-c4a.htm
-  repositories: []
-name: cm4-nas-double-deck
-ref: waveshare/cm4-nas-double-deck
-release_date: null
-sku: cm4-nas-double-deck
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-nas-double-deck-1.jpg

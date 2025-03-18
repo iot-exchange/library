@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: finger-vein-scanner-module-a
+ref: waveshare/finger-vein-scanner-module-a
+vendor: waveshare
+sku: finger-vein-scanner-module-a
+name: Finger Vein Scanner Module (A)
 description: All-in-one Thin-Type Finger Vein Module, Built-in Cortex Core, USB Drive-Free
   Adaptability, UART Communication Interface
+status: ''
 extra:
   Price: $23.63 - $24.99
   SKU: '29062'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/i/finger-vein-scanner-module-a-1_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/finger-vein-scanner-module-a.htm
-  repositories: []
-name: Finger Vein Scanner Module (A)
-ref: waveshare/finger-vein-scanner-module-a
-release_date: null
-sku: finger-vein-scanner-module-a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/i/finger-vein-scanner-module-a-1_1.jpg

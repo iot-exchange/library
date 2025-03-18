@@ -1,0 +1,13 @@
+id: ws303
+ref: milesight/ws303
+vendor: milesight
+sku: ws303
+name: WS303
+description: Mini Leak Detection Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/ws303
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/smart-workplace-cowork-series/mini-leak-detection-sensor-ws303.png?t=1742198585390

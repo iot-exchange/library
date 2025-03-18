@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6352
+ref: mikroe/mikroe-6352
+vendor: mikroe
+sku: mikroe-6352
+name: MIKROE-6352
 description: "RYB080I Click is a compact add-on board for seamless Bluetooth Low Energy\
   \ (LE) communication in various wireless applications. This board features the RYB080I,\
   \ a 2.4GHz Bluetooth 4.2/5.0 LE module with an integrated antenna from REYAX, based\
   \ on the TI CC2640R2F ARM\xAE Cortex\xAE-M3 MCU. This module supports dual-device\
   \ connectivity, operates in both Host and..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ryb080i-click/ryb080i-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ryb080i-click
-  repositories: []
-name: MIKROE-6352
-ref: mikroe/mikroe-6352
-release_date: null
-sku: mikroe-6352
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ryb080i-click/ryb080i-click-home_default-1.jpg?v=100

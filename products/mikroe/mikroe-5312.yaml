@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5312
+ref: mikroe/mikroe-5312
+vendor: mikroe
+sku: mikroe-5312
+name: MIKROE-5312
 description: USB to I2C Click is an adapter add-on board with a general-purpose USB
   master to I2C/UART serial interface. This board features the FT260 from FTDI, an
   interface device controller that provides a bridge between standard USB Human Interface
   Device (HID) class drivers and an I2C or UART slave devices. The FT260Q is highly-integrated
   with a USB 2.0-compliant...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/usb-to-i2c-click/usb-to-i2c-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/usb-to-i2c-click
-  repositories: []
-name: MIKROE-5312
-ref: mikroe/mikroe-5312
-release_date: null
-sku: mikroe-5312
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/usb-to-i2c-click/usb-to-i2c-click-home_default-1.jpg?v=100

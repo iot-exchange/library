@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4125
+ref: mikroe/mikroe-4125
+vendor: mikroe
+sku: mikroe-4125
+name: MIKROE-4125
 description: "The Stepper 14 Click is a Click board\u2122 that features the DRV8847PWPR,\
   \ a step motor driver, from Texas Instruments. This Click board\u2122 provides a\
   \ bipolar step motor control, It features an H-bridge bipolar step motor driver,\
   \ which supports full-, half-, quarter-, or eighth-step modes. This click board\u2122\
   \ also carries a port expander so that the communication..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/stepper-14-click/stepper-14-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/stepper-14-click
-  repositories: []
-name: MIKROE-4125
-ref: mikroe/mikroe-4125
-release_date: null
-sku: mikroe-4125
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/stepper-14-click/stepper-14-click-home_default-1.jpg?v=100

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: binary-watch
+ref: olimex/binary-watch
+vendor: olimex
+sku: binary-watch
+name: Binary-Watch
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Soldering-Kits/Intermediate/Binary-Watch/images/thumbs/200x150/Binary-Watch-ska.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Soldering-Kits/Intermediate/Binary-Watch/
-  repositories: []
-name: Binary-Watch
-ref: olimex/binary-watch
-release_date: null
-sku: binary-watch
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Soldering-Kits/Intermediate/Binary-Watch/images/thumbs/200x150/Binary-Watch-ska.jpg

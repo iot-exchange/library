@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: discrete-switch-ic
+ref: murata/discrete-switch-ic
+vendor: murata
+sku: discrete-switch-ic
+name: Discrete switch IC
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/products/rfswitch/discreteswic
-  repositories: []
-name: Discrete switch IC
-ref: murata/discrete-switch-ic
-release_date: null
-sku: discrete-switch-ic
-spec: null
-status: ''
-vendor: murata
+  images: []

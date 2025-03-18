@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: usb-to-ttl-b
+ref: waveshare/usb-to-ttl-b
+vendor: waveshare
+sku: usb-to-ttl-b
+name: USB TO TTL (B)
 description: Industrial USB TO TTL Converter, Original CH343G Onboard, Multi Protection
   & Systems Support
+status: ''
 extra:
   Price: $4.97 - $5.99
   SKU: '21550'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-ttl-b-3.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-to-ttl-b.htm
-  repositories: []
-name: USB TO TTL (B)
-ref: waveshare/usb-to-ttl-b
-release_date: null
-sku: usb-to-ttl-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-ttl-b-3.jpg

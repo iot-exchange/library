@@ -1,31 +1,24 @@
-alternatives: []
-certifications: []
+id: siwx917m
+ref: silicon-labs/siwx917m
+vendor: silicon-labs
+sku: siwx917m
+name: SiWx917M
 description: The SiWx917M Wi-Fi 6 and Bluetooth LE 5.4 Dev Kit is a compact, yet feature-packed
   development platform for testing, developing, and prototyping wireless IoT applications
   quickly. The development platform includes a broad range of sensors, various peripheral
   devices, and a Qwiic connector, allowing you to explore the endless world of Sparkfun
   expansion hardware.
+status: ''
 extra:
   Bluetooth: LE 5.4
   Integrated MCU: "ARM\xAE Cortex\xAE-M4"
-  MSRP: $40.00
   Package Size: 7x7 mm
   Wi-Fi: '6'
+  MSRP: $40.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/wifi/siwx917-wireless-socs/siwx917-dk2605a-dev-kit.png
-  - https://www.silabs.com/content/siliconlabs/en/wireless/wi-fi/siwx917-wireless-socs.thumb.256.144.png
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/wi-fi/siwx917-dk2605a-wifi-6-bluetooth-le-soc-dev-kit
   - https://www.silabs.com/wireless/wi-fi/siwx917-wireless-socs
-  repositories: []
-name: SiWx917M
-ref: silicon-labs/siwx917m
-release_date: null
-sku: siwx917m
-spec: null
-status: ''
-vendor: silicon-labs
+  images:
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/wifi/siwx917-wireless-socs/siwx917-dk2605a-dev-kit.png
+  - https://www.silabs.com/content/siliconlabs/en/wireless/wi-fi/siwx917-wireless-socs.thumb.256.144.png

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: ov5640-camera-board-b
+ref: waveshare/ov5640-camera-board-b
+vendor: waveshare
+sku: ov5640-camera-board-b
+name: OV5640 Camera Board (B)
 description: OV5640 Camera Board (B), 5 Megapixel (2592x1944), Fisheye Lens
+status: ''
 extra:
   Price: $14.29 - $15.99
   SKU: '13930'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/ov5640-camera-board-b.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/v/ov5640-camera-board-b-4.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/v/ov5640-camera-board-b-intro.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/ov5640-camera-board-b.htm
-  repositories: []
-name: OV5640 Camera Board (B)
-ref: waveshare/ov5640-camera-board-b
-release_date: null
-sku: ov5640-camera-board-b
-spec: null
-status: ''
-vendor: waveshare

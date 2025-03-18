@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: compute-module-1-3-3-io-board
+ref: raspberrypi/compute-module-1-3-3-io-board
+vendor: raspberrypi
+sku: compute-module-1-3-3-io-board
+name: Compute Module 1/3/3+ IO Board
 description: The Compute Module 1/3/3+ IO Board for CM1/CM3/CM3+
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/47246e5b1d1108a3914c35f15c842fc6/3f4ea/24235a1b5d89165d5851c9d29d40bbee6a855dd9_compute-module-io-board-1714x1080-1-1714x1080.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/compute-module-io-board-v3/
-  repositories: []
-name: Compute Module 1/3/3+ IO Board
-ref: raspberrypi/compute-module-1-3-3-io-board
-release_date: null
-sku: compute-module-1-3-3-io-board
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/47246e5b1d1108a3914c35f15c842fc6/3f4ea/24235a1b5d89165d5851c9d29d40bbee6a855dd9_compute-module-io-board-1714x1080-1-1714x1080.jpg

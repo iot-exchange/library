@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-4207
+ref: mikroe/mikroe-4207
+vendor: mikroe
+sku: mikroe-4207
+name: MIKROE-4207
 description: I2C Extend Click is a compact add-on board for applications that require
   extending the I2C communication bus over a long distance. This board features the
   LTC4331 - an I2C slave device extender over a rugged differential link, from Analog
   Devices.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/i2c-extend-click/i2c-extend-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/i2c-extend-click
-  repositories: []
-name: MIKROE-4207
-ref: mikroe/mikroe-4207
-release_date: null
-sku: mikroe-4207
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/i2c-extend-click/i2c-extend-click-home_default-1.jpg?v=100

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: sy0612e
+ref: olimex/sy0612e
+vendor: olimex
+sku: sy0612e
+name: SY0612E
 description: ''
+status: ''
 extra:
   discountedPrice1: 6.60 EUR
   discountedPrice2: 6.26 EUR
   price: 6.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Power/SY0612E/images/thumbs/200x150/Power-Supply.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Power/SY0612E/
-  repositories: []
-name: SY0612E
-ref: olimex/sy0612e
-release_date: null
-sku: sy0612e
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Power/SY0612E/images/thumbs/200x150/Power-Supply.jpg

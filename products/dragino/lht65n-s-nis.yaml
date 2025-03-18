@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lht65n-s-nis
+ref: dragino/lht65n-s-nis
+vendor: dragino
+sku: lht65n-s-nis
+name: LHT65N/S-NIS
 description: LoRaWAN NIST Traceable Temperature Sensor with external NIST Traceable
   probe.
+status: ''
 extra:
   Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
   Battery: 2400mAh
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/ce11944b98d0742eead2b016a253afd2_L.jpg
-  models: []
   products:
   - https://dragino.com/products/temperature-humidity-sensor/item/326-lht65n-s-nis.html
-  repositories: []
-name: LHT65N/S-NIS
-ref: dragino/lht65n-s-nis
-release_date: null
-sku: lht65n-s-nis
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/ce11944b98d0742eead2b016a253afd2_L.jpg

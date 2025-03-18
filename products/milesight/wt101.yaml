@@ -1,0 +1,13 @@
+id: wt101
+ref: milesight/wt101
+vendor: milesight
+sku: wt101
+name: WT101
+description: Smart Radiator Thermostat
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/wt101
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/wt-series/wt101.png?t=1742198585390

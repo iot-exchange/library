@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: rak2287
+ref: rakwireless/rak2287
+vendor: rakwireless
+sku: rak2287
+name: RAK2287
 description: Gateway Concentrator Module for LoRaWAN, SX1302 LoRa core (SPI or USB,
   GPS). A mini-PCIe form factor module based on the Semtech SX1302. It allows for
   easy integration into any embedded platform that provides a mini-PCIe slot with
   SPI or USB connectivity.
+status: ''
 extra:
   Core: Semtech SX1302
   Form Factor: mini-PCIe
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://res.rakwireless.com/tracked/products/concentrator-modules/product-wislink-concentrator-lorawan-rak2287@2x.png?fm=webp&w=650
-  models: []
   products:
   - https://news.rakwireless.com/rakwireless-releases-energy-friendly-rak2287-lpwan-concentrator-module
   - https://store.rakwireless.com/products/wislink-concentrator-module-sx1302-rak2287-lorawan?_gl=1%2A1oyagg2%2A_ga%2AMTAxNDQxODg0OC4xNzEyNTU1MzQ4%2A_ga_9MEJ39NSTZ%2AMTcxNTA1MzA0NC4yNDMuMS4xNzE1MDUzMDU3LjQ3LjAuMA..&utm_campaign=RAKwireless&utm_medium=ConcentratorModulesforLoRaWAN&utm_source=ConcentratorModulesforLoRaWAN&variant=41826859385030??utm_source=ConcentratorModulesforLoRaWAN&utm_medium=ConcentratorModulesforLoRaWAN&utm_campaign=RAKwireless
-  repositories: []
-name: RAK2287
-ref: rakwireless/rak2287
-release_date: null
-sku: rak2287
-spec: null
-status: ''
-vendor: rakwireless
+  images:
+  - https://res.rakwireless.com/tracked/products/concentrator-modules/product-wislink-concentrator-lorawan-rak2287@2x.png?fm=webp&w=650

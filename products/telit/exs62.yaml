@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: exs62
+ref: telit/exs62
+vendor: telit
+sku: exs62
+name: EXS62
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2024/10/TC_EXS62_dynamic-340x200.png
-  models: []
   products:
   - https://www.telit.com/devices/exs62/
-  repositories: []
-name: EXS62
-ref: telit/exs62
-release_date: null
-sku: exs62
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/10/TC_EXS62_dynamic-340x200.png

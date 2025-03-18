@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: '2611011024000'
+ref: we/2611011024000
+vendor: we
+sku: '2611011024000'
+name: '2611011024000'
 description: Proteus-III
+status: Active
 extra:
   Antenna type: RF pad and internal antenna
   Data rate (kbps): '2000'
@@ -11,17 +15,6 @@ extra:
   Sensitivity: '-90'
   Voltage (V): '1.8'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/PROTEUS-III#2611011024000
-  repositories: []
-name: '2611011024000'
-ref: we/2611011024000
-release_date: null
-sku: '2611011024000'
-spec: null
-status: Active
-vendor: we
+  images: []

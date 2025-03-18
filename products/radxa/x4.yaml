@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: x4
+ref: radxa/x4
+vendor: radxa
+sku: x4
+name: X4
 description: 'Credit Card Size, Big Performance: Intel N100 and RP2040 Inside'
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/x/x4/thumb_radxa_x4.webp
-  models: []
   products:
   - https://radxa.com/products/x/x4
-  repositories: []
-name: X4
-ref: radxa/x4
-release_date: null
-sku: x4
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/x/x4/thumb_radxa_x4.webp

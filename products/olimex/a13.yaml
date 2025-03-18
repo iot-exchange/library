@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: a13
+ref: olimex/a13
+vendor: olimex
+sku: a13
+name: A13
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/IC/A13/images/thumbs/200x150/A13.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/IC/A13/
-  repositories: []
-name: A13
-ref: olimex/a13
-release_date: null
-sku: a13
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/IC/A13/images/thumbs/200x150/A13.jpg

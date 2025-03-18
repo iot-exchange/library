@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '2600130084'
+ref: we/2600130084
+vendor: we
+sku: '2600130084'
+name: '2600130084'
 description: Hati-I 700 to 2700 MHz
+status: Active
 extra:
   Expected lifetime: '>10 years'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o758711v214%20Single_WIRL_ACCE_2600130086_Hermippe-III.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/HATI-I#2600130084
-  repositories: []
-name: '2600130084'
-ref: we/2600130084
-release_date: null
-sku: '2600130084'
-spec: null
-status: Active
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o758711v214%20Single_WIRL_ACCE_2600130086_Hermippe-III.jpg

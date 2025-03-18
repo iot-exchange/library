@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bb-tb6612
+ref: olimex/bb-tb6612
+vendor: olimex
+sku: bb-tb6612
+name: BB-TB6612
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/MotorDrivers/BB-TB6612/images/thumbs/200x150/BB-TB6612b.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/MotorDrivers/BB-TB6612/open-source-hardware
-  repositories: []
-name: BB-TB6612
-ref: olimex/bb-tb6612
-release_date: null
-sku: bb-tb6612
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/MotorDrivers/BB-TB6612/images/thumbs/200x150/BB-TB6612b.jpg

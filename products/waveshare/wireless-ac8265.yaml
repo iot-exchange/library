@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: wireless-ac8265
+ref: waveshare/wireless-ac8265
+vendor: waveshare
+sku: wireless-ac8265
+name: Wireless-AC8265
 description: AC8265 Wireless NIC, Dual-Band Wi-Fi 5, Bluetooth 4.2, High Speed And
   Low Latency
+status: ''
 extra:
   Price: $16.31 - $16.99
   SKU: '16578'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/i/wireless-ac8265-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/wireless-ac8265.htm
   - https://www.waveshare.com/wireless-ac8265.htm "AC8265 Wireless NIC, Dual-Band
     Wi-Fi 5, Bluetooth 4.2, High Speed And Low Latency"
-  repositories: []
-name: Wireless-AC8265
-ref: waveshare/wireless-ac8265
-release_date: null
-sku: wireless-ac8265
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/i/wireless-ac8265-1.jpg

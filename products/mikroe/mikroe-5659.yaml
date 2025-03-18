@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-5659
+ref: mikroe/mikroe-5659
+vendor: mikroe
+sku: mikroe-5659
+name: MIKROE-5659
 description: RS485 7 Click is a compact add-on board that enables communication over
   an RS485 network. This board features the THVD1424, a full duplex RS485 transceiver
   with a selectable data rate from Texas Instruments.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.mikroe.com/rs485-7-click
-  repositories: []
-name: MIKROE-5659
-ref: mikroe/mikroe-5659
-release_date: null
-sku: mikroe-5659
-spec: null
-status: ''
-vendor: mikroe
+  images: []

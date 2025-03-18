@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: fn990a40-a28
+ref: telit/fn990a40-a28
+vendor: telit
+sku: fn990a40-a28
+name: FN990A40/A28
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2022/12/FN990Axx_thumb-262x200.png
-  models: []
   products:
   - https://www.telit.com/devices/fn990axx/
-  repositories: []
-name: FN990A40/A28
-ref: telit/fn990a40-a28
-release_date: null
-sku: fn990a40-a28
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2022/12/FN990Axx_thumb-262x200.png

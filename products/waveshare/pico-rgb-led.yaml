@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: pico-rgb-led
+ref: waveshare/pico-rgb-led
+vendor: waveshare
+sku: pico-rgb-led
+name: Pico-RGB-LED
 description: "RGB Full-color LED Matrix Panel for Raspberry Pi Pico, 16\xD710 Grid"
+status: ''
 extra:
   Price: $13.97 - $14.99
   SKU: '20170'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-rgb-led-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pico-rgb-led.htm
-  repositories: []
-name: Pico-RGB-LED
-ref: waveshare/pico-rgb-led
-release_date: null
-sku: pico-rgb-led
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-rgb-led-1.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: gt2-belt200-6mm
+ref: olimex/gt2-belt200-6mm
+vendor: olimex
+sku: gt2-belt200-6mm
+name: GT2-BELT200-6MM
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/GT2/GT2-BELT200-6MM/images/thumbs/200x150/GT2-BELT200-6MM.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/GT2/GT2-BELT200-6MM/
-  repositories: []
-name: GT2-BELT200-6MM
-ref: olimex/gt2-belt200-6mm
-release_date: null
-sku: gt2-belt200-6mm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/GT2/GT2-BELT200-6MM/images/thumbs/200x150/GT2-BELT200-6MM.jpg

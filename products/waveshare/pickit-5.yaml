@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pickit-5
+ref: waveshare/pickit-5
+vendor: waveshare
+sku: pickit-5
+name: PICkit 5
 description: PICkit 5 In-Circuit Debugger/Programmer, Programmer-to-Go support, Type-C
   port, Supports MPLAB, Card Programmer
+status: ''
 extra:
   Price: $137.27 - $139.99
   SKU: '27374'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pickit-5-1_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pickit-5.htm
-  repositories: []
-name: PICkit 5
-ref: waveshare/pickit-5
-release_date: null
-sku: pickit-5
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pickit-5-1_1.jpg

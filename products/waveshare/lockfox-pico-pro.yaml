@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: lockfox-pico-pro
+ref: waveshare/lockfox-pico-pro
+vendor: waveshare
+sku: lockfox-pico-pro
+name: lockfox_pico_pro
 description: Luckfox Pico Pro/Max RV1106 Linux Micro Development Board, Integrates
   ARM Cortex-A7/RISC-V MCU/NPU/ISP Processors
+status: ''
 extra:
   Multi Options: ''
   Price: $12.99 -  $15.99
   price: $12.99 -  $15.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/1/11.9inch-touch-monitor-1.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/u/luckfox-pico-pro-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/11.9inch-side-monitor.htm
   - https://www.waveshare.com/product/luckfox-pico-pro.htm
-  repositories: []
-name: lockfox_pico_pro
-ref: waveshare/lockfox-pico-pro
-release_date: null
-sku: lockfox-pico-pro
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/1/11.9inch-touch-monitor-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/u/luckfox-pico-pro-1.jpg

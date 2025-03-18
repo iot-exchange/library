@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lpc-p1343
+ref: olimex/lpc-p1343
+vendor: olimex
+sku: lpc-p1343
+name: LPC-P1343
 description: ''
+status: ''
 extra:
   discountedPrice1: 11.66 EUR
   discountedPrice2: 10.36 EUR
   price: 12.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/NXP/LPC-P1343/images/thumbs/200x150/LPC1343-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/NXP/LPC-P1343/
-  repositories: []
-name: LPC-P1343
-ref: olimex/lpc-p1343
-release_date: null
-sku: lpc-p1343
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-P1343/images/thumbs/200x150/LPC1343-01.jpg

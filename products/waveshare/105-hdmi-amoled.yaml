@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: 105-hdmi-amoled
+ref: waveshare/105-hdmi-amoled
+vendor: waveshare
+sku: 105-hdmi-amoled
+name: 105_hdmi_amoled
 description: "10.5inch Capacitive Touch AMOLED, HDMI, 2560\xD71600 2K Resolution,\
   \ Optical Bonding"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.5inch-hdmi-amoled-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/10.5inch-hdmi-amoled.htm
-  repositories: []
-name: 105_hdmi_amoled
-ref: waveshare/105-hdmi-amoled
-release_date: null
-sku: 105-hdmi-amoled
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.5inch-hdmi-amoled-1.jpg

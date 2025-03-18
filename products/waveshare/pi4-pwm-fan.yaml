@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: pi4-pwm-fan
+ref: waveshare/pi4-pwm-fan
+vendor: waveshare
+sku: pi4-pwm-fan
+name: pi4_pwm_fan
 description: Dedicated All-In-One aluminum alloy cooling fan for Raspberry Pi 4B,
   PWM speed adjustment, better cooling
+status: ''
 extra:
   Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-fan-pwm-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pi4-fan-pwm.htm
-  repositories: []
-name: pi4_pwm_fan
-ref: waveshare/pi4-pwm-fan
-release_date: null
-sku: pi4-pwm-fan
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-fan-pwm-1.jpg

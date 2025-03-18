@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6009
+ref: mikroe/mikroe-6009
+vendor: mikroe
+sku: mikroe-6009
+name: MIKROE-6009
 description: "EZO Carrier Click - pH is a compact add-on board that allows you to\
   \ measure the potential of hydrogen (the power of hydrogen) in your application.\
   \ This board features the EZO\u2122 pH, a pH measurement interface circuit board\
   \ from Atlas Scientific. The EZO\u2122 pH is a small additional board that comes\
   \ with the carrier board and allows you to read the pH values of..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ezo-carrier-click-ph/ezo-carrier-click-ph-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ezo-carrier-click-ph
-  repositories: []
-name: MIKROE-6009
-ref: mikroe/mikroe-6009
-release_date: null
-sku: mikroe-6009
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ezo-carrier-click-ph/ezo-carrier-click-ph-home_default-1.jpg?v=100

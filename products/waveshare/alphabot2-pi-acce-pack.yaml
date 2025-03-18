@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: alphabot2-pi-acce-pack
+ref: waveshare/alphabot2-pi-acce-pack
+vendor: waveshare
+sku: alphabot2-pi-acce-pack
+name: AlphaBot2-Pi Acce Pack
 description: AlphaBot2 robot building kit for Raspberry Pi 3B/3B+/4B (no Pi)
+status: ''
 extra:
   Price: $93.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/l/alphabot2-pi-5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/alphabot2-pi-acce-pack.htm
-  repositories: []
-name: AlphaBot2-Pi Acce Pack
-ref: waveshare/alphabot2-pi-acce-pack
-release_date: null
-sku: alphabot2-pi-acce-pack
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/l/alphabot2-pi-5.jpg

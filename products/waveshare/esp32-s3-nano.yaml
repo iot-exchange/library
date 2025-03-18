@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: esp32-s3-nano
+ref: waveshare/esp32-s3-nano
+vendor: waveshare
+sku: esp32-s3-nano
+name: esp32_s3_nano
 description: ESP32-S3-Nano Development Board, Based on ESP32-S3R8, Compatible with
   Arduino Nano ESP32
+status: ''
 extra:
   Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-nano-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/esp32-s3-nano.htm
   - https://www.waveshare.com/product/esp32-s3-nano.htm "ESP32-S3-Nano Development
     Board, Based on ESP32-S3R8, Compatible with Arduino Nano ESP32"
-  repositories: []
-name: esp32_s3_nano
-ref: waveshare/esp32-s3-nano
-release_date: null
-sku: esp32-s3-nano
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-nano-1.jpg

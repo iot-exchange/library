@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6170
+ref: mikroe/mikroe-6170
+vendor: mikroe
+sku: mikroe-6170
+name: MIKROE-6170
 description: EPOS Module Click is a compact add-on board that provides a low-power
   modem solution for use in EPOS terminals and telephone-based systems. It is based
   on the CMX869B, a multi-standard v.32 bis modem from CML Micro, which supports multiple
   communication protocols. The CMX869B has built-in functions such as DTMF encoding/decoding
   and a Powersave mode to...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/epos-module-click/epos-module-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/epos-module-click
-  repositories: []
-name: MIKROE-6170
-ref: mikroe/mikroe-6170
-release_date: null
-sku: mikroe-6170
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/epos-module-click/epos-module-click-home_default-1.jpg?v=100

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: pi4-case-c
+ref: waveshare/pi4-case-c
+vendor: waveshare
+sku: pi4-case-c
+name: PI4-CASE-C
 description: Aluminium Alloy Case for Raspberry Pi 4, Dual Cooling Fans
+status: ''
 extra:
   Price: $6.97 - $7.99
   SKU: '16932'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-case-b-8.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-case-c-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pi4-case-b.htm
   - https://www.waveshare.com/product/pi4-case-c.htm
-  repositories: []
-name: PI4-CASE-C
-ref: waveshare/pi4-case-c
-release_date: null
-sku: pi4-case-c
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-case-b-8.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-case-c-2.jpg

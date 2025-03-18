@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: esp32-h2-wroom-03
+ref: espressif/esp32-h2-wroom-03
+vendor: espressif
+sku: esp32-h2-wroom-03
+name: ESP32-H2-WROOM-03
 description: The ESP32-H2-WROOM-03 module is based on ESP32-H2, and can be vertically
   soldered to a PCB board. It has 8 GPIOs, and supports UART, LED PWM, I2C, etc.
+status: ''
 extra:
   Antenna: PCB antenna
   Chip Embedded: ESP32-H2FH2ESP32-H2FH4
@@ -9,18 +13,7 @@ extra:
   Flash (MB): 2, 4
   Pins: '11'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP32-H2-WROOM-03%20S_0.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp32-h2-wroom-03_datasheet_en.pdf
-  repositories: []
-name: ESP32-H2-WROOM-03
-ref: espressif/esp32-h2-wroom-03
-release_date: null
-sku: esp32-h2-wroom-03
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-H2-WROOM-03%20S_0.png

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rfid1356-iso-mifare
+ref: olimex/rfid1356-iso-mifare
+vendor: olimex
+sku: rfid1356-iso-mifare
+name: RFID1356-ISO-MIFARE
 description: ''
+status: ''
 extra:
   discountedPrice1: 0.90 EUR
   discountedPrice2: 0.80 EUR
   price: 1.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/RFID-Tags/MIFARE/RFID1356-ISO-MIFARE/images/thumbs/200x150/RFID1356-MIFARE-ISO.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/RFID-Tags/MIFARE/RFID1356-ISO-MIFARE/
-  repositories: []
-name: RFID1356-ISO-MIFARE
-ref: olimex/rfid1356-iso-mifare
-release_date: null
-sku: rfid1356-iso-mifare
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/RFID-Tags/MIFARE/RFID1356-ISO-MIFARE/images/thumbs/200x150/RFID1356-MIFARE-ISO.jpg

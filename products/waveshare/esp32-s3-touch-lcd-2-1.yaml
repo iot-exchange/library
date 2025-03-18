@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: esp32-s3-touch-lcd-2-1
+ref: waveshare/esp32-s3-touch-lcd-2-1
+vendor: waveshare
+sku: esp32-s3-touch-lcd-2-1
+name: ESP32-S3-Touch-LCD-2.1
 description: "ESP32-S3 2.1inch Capacitive Touch Round Display Development Board, 480\xD7\
   480, IPS, 32-bit LX7 Dual-core Processor, Supports WiFi & Bluetooth, 262K Color,\
   \ ESP32 With Display"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/esp32-s3-touch-lcd-2.1.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-2.1-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-2.1-2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/esp32-s3-touch-lcd-2.1.htm
-  repositories: []
-name: ESP32-S3-Touch-LCD-2.1
-ref: waveshare/esp32-s3-touch-lcd-2-1
-release_date: null
-sku: esp32-s3-touch-lcd-2-1
-spec: null
-status: ''
-vendor: waveshare

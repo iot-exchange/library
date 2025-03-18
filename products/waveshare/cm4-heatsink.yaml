@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: cm4-heatsink
+ref: waveshare/cm4-heatsink
+vendor: waveshare
+sku: cm4-heatsink
+name: CM4-HEATSINK
 description: Dedicated Aluminum Heatsink for Raspberry Pi Compute Module 4 CM4
+status: ''
 extra:
   Price: $3.15 - $3.49
   SKU: '19623'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-heatsink-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/cm4-heatsink.htm
-  repositories: []
-name: CM4-HEATSINK
-ref: waveshare/cm4-heatsink
-release_date: null
-sku: cm4-heatsink
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-heatsink-1.jpg

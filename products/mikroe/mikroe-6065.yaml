@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6065
+ref: mikroe/mikroe-6065
+vendor: mikroe
+sku: mikroe-6065
+name: MIKROE-6065
 description: Current 12 Click is a compact add-on board designed for high-precision
   monitoring of current, voltage, power, and temperature in various applications.
   This board features the TSC1641, a 60V 16-bit power monitor with an I2C interface
   from STMicroelectronics. The TSC1641 consist of a high-precision 16-bit dual-channel
   sigma-delta ADC, capable of measuring...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/current-12-click/current-12-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/current-12-click
-  repositories: []
-name: MIKROE-6065
-ref: mikroe/mikroe-6065
-release_date: null
-sku: mikroe-6065
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/current-12-click/current-12-click-home_default-1.jpg?v=100

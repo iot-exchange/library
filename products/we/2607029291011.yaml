@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '2607029291011'
+ref: we/2607029291011
+vendor: we
+sku: '2607029291011'
+name: '2607029291011'
 description: EV-Kit Telesto-II FHSS incl. ext. antenna
+status: Active
 extra:
   Expected lifetime: '>10 years'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/TELESTO-II#2607029291011
-  repositories: []
-name: '2607029291011'
-ref: we/2607029291011
-release_date: null
-sku: '2607029291011'
-spec: null
-status: Active
-vendor: we
+  images: []

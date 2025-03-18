@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 3-5inch-tft-touch-shield
+ref: waveshare/3-5inch-tft-touch-shield
+vendor: waveshare
+sku: 3-5inch-tft-touch-shield
+name: 3.5inch TFT Touch Shield
 description: 3.5inch Touch LCD Shield for Arduino
+status: ''
 extra:
   Price: $19.99 - $26.99
   SKU: '13506'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/_/3.5inch-tft-touch-shield-3.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/3.5inch-tft-touch-shield.htm
-  repositories: []
-name: 3.5inch TFT Touch Shield
-ref: waveshare/3-5inch-tft-touch-shield
-release_date: null
-sku: 3-5inch-tft-touch-shield
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/_/3.5inch-tft-touch-shield-3.jpg

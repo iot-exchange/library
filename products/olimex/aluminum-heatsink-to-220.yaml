@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: aluminum-heatsink-to-220
+ref: olimex/aluminum-heatsink-to-220
+vendor: olimex
+sku: aluminum-heatsink-to-220
+name: ALUMINUM-HEATSINK-TO-220
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Misc/ALUMINUM-HEATSINK-TO-220/images/thumbs/200x150/ALUMINUM-HEATSINK-TO-220.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Misc/ALUMINUM-HEATSINK-TO-220/
-  repositories: []
-name: ALUMINUM-HEATSINK-TO-220
-ref: olimex/aluminum-heatsink-to-220
-release_date: null
-sku: aluminum-heatsink-to-220
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Misc/ALUMINUM-HEATSINK-TO-220/images/thumbs/200x150/ALUMINUM-HEATSINK-TO-220.jpg

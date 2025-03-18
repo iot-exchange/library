@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: a20-som204-1gs16me16g-mc
+ref: olimex/a20-som204-1gs16me16g-mc
+vendor: olimex
+sku: a20-som204-1gs16me16g-mc
+name: A20-SOM204-1Gs16Me16G-MC
 description: ''
+status: ''
 extra:
   100+ pcs: 43.20 EUR
   1000+ pcs: 41.40 EUR
   50+ pcs: 44.10 EUR
   500+ pcs: 42.30 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/SOM204/A20/A20-SOM204/images/thumbs/200x150/A20-SOM204-T.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/SOM204/A20/A20-SOM204-1Gs16Me16G-MC/
-  repositories: []
-name: A20-SOM204-1Gs16Me16G-MC
-ref: olimex/a20-som204-1gs16me16g-mc
-release_date: null
-sku: a20-som204-1gs16me16g-mc
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/SOM204/A20/A20-SOM204/images/thumbs/200x150/A20-SOM204-T.jpg

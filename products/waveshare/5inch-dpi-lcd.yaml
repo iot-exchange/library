@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: 5inch-dpi-lcd
+ref: waveshare/5inch-dpi-lcd
+vendor: waveshare
+sku: 5inch-dpi-lcd
+name: 5inch DPI LCD
 description: "5inch Display for Raspberry Pi, 800\xD7480, DPI Interface, IPS, No Touch"
+status: ''
 extra:
   Price: $32.29 - $33.99
   SKU: '16381'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/m/5mp-m.jpg
-  models: []
   products:
   - https://www.waveshare.com/5inch-lcd-for-pi.htm
   - "https://www.waveshare.com/5inch-lcd-for-pi.htm \"5inch Display for Raspberry\
     \ Pi, 800\xD7480, DPI Interface, IPS, No Touch\""
-  repositories: []
-name: 5inch DPI LCD
-ref: waveshare/5inch-dpi-lcd
-release_date: null
-sku: 5inch-dpi-lcd
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/m/5mp-m.jpg

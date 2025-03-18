@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: n75
+ref: neoway/n75
+vendor: neoway
+sku: n75
+name: N75
 description: N75 can be externally connected to Codec, Wi-Fi, and BT.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.neoway.com/Uploads/Picture/2020/11/09/s5fa958c02c0e6.png
-  models: []
   products:
   - https://www.neoway.com/products/wireless-communication/824.html
-  repositories: []
-name: N75
-ref: neoway/n75
-release_date: null
-sku: n75
-spec: null
-status: ''
-vendor: neoway
+  images:
+  - https://www.neoway.com/Uploads/Picture/2020/11/09/s5fa958c02c0e6.png

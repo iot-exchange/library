@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: esp8266ex
+ref: espressif/esp8266ex
+vendor: espressif
+sku: esp8266ex
+name: ESP8266EX
 description: "Recommended upgrade \u2192ESP8684"
+status: Recommended upgrade
 extra:
   Core: Single core
   Development Board: ESP8266-DevKitC, ESP-Launcher
@@ -16,18 +20,7 @@ extra:
   SPQ: '5000'
   Variants: N/A
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/chips/ESP8266EX_L_4.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf
-  repositories: []
-name: ESP8266EX
-ref: espressif/esp8266ex
-release_date: null
-sku: esp8266ex
-spec: null
-status: Recommended upgrade
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP8266EX_L_4.png

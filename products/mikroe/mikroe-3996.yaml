@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3996
+ref: mikroe/mikroe-3996
+vendor: mikroe
+sku: mikroe-3996
+name: MIKROE-3996
 description: Heater Click is designed with intention of PCB heater concept testing
   and useful tool for heating complete casing where staying in specified temperature
   range is crucial. Exact PCB temperature can be set and controlled using TMP235 on
   board temperature sensor from Texas Instruments. Heater Click is useful tool for
   some projects and products that require...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/heater-click/heater-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/heater-click
-  repositories: []
-name: MIKROE-3996
-ref: mikroe/mikroe-3996
-release_date: null
-sku: mikroe-3996
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/heater-click/heater-click-home_default-1.jpg?v=100

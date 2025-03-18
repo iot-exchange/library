@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5603
+ref: mikroe/mikroe-5603
+vendor: mikroe
+sku: mikroe-5603
+name: MIKROE-5603
 description: I2C Isolator 6 Click is a compact add-on board that offers completely
   isolated bidirectional communication. This board features the ADUM2250, a two-channel,
   5kVRMS I2C digital isolator from Analog Devices. The ADUM2250 provides two bidirectional
   channels, supporting a completely isolated I2C interface that eliminates the need
   for splitting I2C signals.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/i2c-isolator-6-click/i2c-isolator-6-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/i2c-isolator-6-click
-  repositories: []
-name: MIKROE-5603
-ref: mikroe/mikroe-5603
-release_date: null
-sku: mikroe-5603
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/i2c-isolator-6-click/i2c-isolator-6-click-home_default-1.jpg?v=100

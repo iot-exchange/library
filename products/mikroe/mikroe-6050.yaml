@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-6050
+ref: mikroe/mikroe-6050
+vendor: mikroe
+sku: mikroe-6050
+name: MIKROE-6050
 description: Inclinometer 3 Click is a compact add-on board for precise tilt and leveling
   measurement applications. This board features the SCL3400-D01, a two-axis inclinometer
   sensor from Murata.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/inclinometer-3-click/inclinometer-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/inclinometer-3-click
-  repositories: []
-name: MIKROE-6050
-ref: mikroe/mikroe-6050
-release_date: null
-sku: mikroe-6050
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/inclinometer-3-click/inclinometer-3-click-home_default-1.jpg?v=100

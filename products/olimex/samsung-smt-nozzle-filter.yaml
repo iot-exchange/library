@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: samsung-smt-nozzle-filter
+ref: olimex/samsung-smt-nozzle-filter
+vendor: olimex
+sku: samsung-smt-nozzle-filter
+name: SAMSUNG-SMT-NOZZLE-FILTER
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/SMT/SAMSUNG-SMT-NOZZLE-FILTER/images/thumbs/200x150/samsung-nozzle-filter.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/SMT/SAMSUNG-SMT-NOZZLE-FILTER/
-  repositories: []
-name: SAMSUNG-SMT-NOZZLE-FILTER
-ref: olimex/samsung-smt-nozzle-filter
-release_date: null
-sku: samsung-smt-nozzle-filter
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/SMT/SAMSUNG-SMT-NOZZLE-FILTER/images/thumbs/200x150/samsung-nozzle-filter.jpg

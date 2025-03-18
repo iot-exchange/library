@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: sx1262-lora-dtu
+ref: waveshare/sx1262-lora-dtu
+vendor: waveshare
+sku: sx1262-lora-dtu
+name: sx1262_lora_dtu
 description: Rail-mount SX1262 LoRa Data Transfer unit, RS232/RS485/RS422 to LoRa,
   Suitable for Sub-GHz band
+status: ''
 extra:
   Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/x/sx1262-lora-dtu-lf-1_3.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/sx1262-lora-dtu-lf.htm
-  repositories: []
-name: sx1262_lora_dtu
-ref: waveshare/sx1262-lora-dtu
-release_date: null
-sku: sx1262-lora-dtu
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/x/sx1262-lora-dtu-lf-1_3.jpg

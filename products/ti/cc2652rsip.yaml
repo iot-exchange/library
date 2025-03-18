@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: cc2652rsip
+ref: ti/cc2652rsip
+vendor: ti
+sku: cc2652rsip
+name: CC2652RSIP
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ti.com/product/CC2652RSIP
-  repositories: []
-name: CC2652RSIP
-ref: ti/cc2652rsip
-release_date: null
-sku: cc2652rsip
-spec: null
-status: ''
-vendor: ti
+  images: []

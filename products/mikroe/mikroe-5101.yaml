@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5101
+ref: mikroe/mikroe-5101
+vendor: mikroe
+sku: mikroe-5101
+name: MIKROE-5101
 description: DC Motor 13 Click is a compact add-on board with a brushed DC motor driver.
   This board features the TB67H481FNG, a dual-channel, H-bridge, brushed DC motor
   driver from Toshiba Semiconductor that uses the PWM IN interface to control the
   DC motor outputs. Fabricated with the BiCD process (DMOSFET is used for output power
   transistor), it covers a wide...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/dc-motor-13-click/dc-motor-13-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/dc-motor-13-click
-  repositories: []
-name: MIKROE-5101
-ref: mikroe/mikroe-5101
-release_date: null
-sku: mikroe-5101
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dc-motor-13-click/dc-motor-13-click-home_default-1.jpg?v=100

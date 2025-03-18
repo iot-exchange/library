@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: nitrogen8m-plus
+ref: ezurio/nitrogen8m-plus
+vendor: ezurio
+sku: nitrogen8m-plus
+name: Nitrogen8M Plus
 description: "Nitrogen8M Plus SMARC\xAE System-On-Module Combining Powerful NXP Edge\
   \ Processing with Wi-Fi 5 and Bluetooth 5.2 Connectivity"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/537x300/filters:fill(white)/filters:background_color(white)/2024-03/8MP_SMARC-RENDER.flat%20with%20shadow.png
-  models: []
   products:
   - https://www.ezurio.com/resources/newsroom/nitrogen8m-plus-smarc-system-on-module-combining-powerful-nxp-edge-processing-with-wi-fi-5-and-bluetooth-5-2-connectivity
-  repositories: []
-name: Nitrogen8M Plus
-ref: ezurio/nitrogen8m-plus
-release_date: null
-sku: nitrogen8m-plus
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/537x300/filters:fill(white)/filters:background_color(white)/2024-03/8MP_SMARC-RENDER.flat%20with%20shadow.png

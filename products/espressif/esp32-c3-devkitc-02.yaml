@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: esp32-c3-devkitc-02
+ref: espressif/esp32-c3-devkitc-02
+vendor: espressif
+sku: esp32-c3-devkitc-02
+name: ESP32-C3-DevKitC-02
 description: ESP32-C3-DevKitC-02 is an entry-level development board equipped with
   ESP32-C3-WROOM-02 or ESP32-C3-WROOM-02U. Most of the I/O pins are broken out to
   the pin headers on both sides for easy interfacing.
+status: ''
 extra:
   Flash: 4 MB
   Interfaces: I/O USB
   Related Products: ESP32-C3-WROOM-02, ESP32-C3-WROOM-02U
   UI: Buttons, LEDs
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32c3/esp32-c3-devkitc-02/index.html
-  repositories: []
-name: ESP32-C3-DevKitC-02
-ref: espressif/esp32-c3-devkitc-02
-release_date: null
-sku: esp32-c3-devkitc-02
-spec: null
-status: ''
-vendor: espressif
+  images: []

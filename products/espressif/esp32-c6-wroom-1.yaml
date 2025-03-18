@@ -1,9 +1,13 @@
-alternatives: []
-certifications: []
+id: esp32-c6-wroom-1
+ref: espressif/esp32-c6-wroom-1
+vendor: espressif
+sku: esp32-c6-wroom-1
+name: ESP32-C6-WROOM-1
 description: ESP32-C6-WROOM-1 is a ESP32-C6 based module, which supports Wi-Fi 6 in
   2.4 GHz band, Bluetooth 5, Zigbee 3.0 and Thread. It's pin-to-pin compatible with
   the ESP32-WROOM series module. With low power consumption, it is an ideal choice
   for a variety of IoT devices.
+status: ''
 extra:
   Antenna: PCB antenna
   Chip Embedded: ESP32-C6
@@ -13,19 +17,8 @@ extra:
   PSRAM (MB): N/A
   Pins: '28'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP32-C6-WROOM-1%20S_0.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1-wroom-1u_datasheet_en.pdf
   - https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_wroom-1u_datasheet_en.pdf
-  repositories: []
-name: ESP32-C6-WROOM-1
-ref: espressif/esp32-c6-wroom-1
-release_date: null
-sku: esp32-c6-wroom-1
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-C6-WROOM-1%20S_0.png

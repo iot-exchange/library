@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: ws-431e-4g-router
+ref: waveshare/ws-431e-4g-router
+vendor: waveshare
+sku: ws-431e-4g-router
+name: WS-431E 4G Router
 description: Industrial 4G LTE Router, multiple VPN protocols support, 3-ch Ethernet
   Ports, WIFI high-speed internet access, dual Qualcomm chips
+status: ''
 extra:
   Price: $96.59  -  $99.99
   SKU: '24769'
   price: $96.59 - $99.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/s/ws-431e-4g-router-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ws-431e-4g-router.htm
-  repositories: []
-name: WS-431E 4G Router
-ref: waveshare/ws-431e-4g-router
-release_date: null
-sku: ws-431e-4g-router
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/s/ws-431e-4g-router-1.jpg

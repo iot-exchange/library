@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4001
+ref: mikroe/mikroe-4001
+vendor: mikroe
+sku: mikroe-4001
+name: MIKROE-4001
 description: Rectangular NFC 40x30 Antenna is PCB antenna designed with the intention
   to be used as extension of development boards and placed remotely on desired place
   such as plastic casing, existing products, or even under displays. Antenna is designed
   in circular shape with diameter of 40mm. Its important to mention that this antenna
   can be used for NFC and RFID...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/rectangular-nfc-40x30-antenna/rectangular-nfc-40x30-antenna-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/rectangular-nfc-40x30-antenna
-  repositories: []
-name: MIKROE-4001
-ref: mikroe/mikroe-4001
-release_date: null
-sku: mikroe-4001
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rectangular-nfc-40x30-antenna/rectangular-nfc-40x30-antenna-home_default-1.jpg?v=100

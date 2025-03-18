@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pack-of-3-pcs-qw-st-cable-4-4-200mm
+ref: olimex/pack-of-3-pcs-qw-st-cable-4-4-200mm
+vendor: olimex
+sku: pack-of-3-pcs-qw-st-cable-4-4-200mm
+name: Pack of 3 pcs QW-ST-CABLE-4-4-200MM
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Adapters/QW-ST-CABLE-4-4-50MM/images/thumbs/200x150/QWST.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Adapters/QW-ST-CABLE-4-4-200MM/
-  repositories: []
-name: Pack of 3 pcs QW-ST-CABLE-4-4-200MM
-ref: olimex/pack-of-3-pcs-qw-st-cable-4-4-200mm
-release_date: null
-sku: pack-of-3-pcs-qw-st-cable-4-4-200mm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Adapters/QW-ST-CABLE-4-4-50MM/images/thumbs/200x150/QWST.jpg

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 60-2230c-series
+ref: ezurio/60-2230c-series
+vendor: ezurio
+sku: 60-2230c-series
+name: 60-2230C Series
 description: Bluetooth and Wi-Fi Module
+status: ''
 extra:
   Category: Enterprise Wi-Fi
   Chipset: NXP 88W8997
@@ -9,18 +13,7 @@ extra:
   USB/UART: x
   Wi-Fi: Performance
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/s3fs-public/2018-10/60_SiP_straight.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/wifi-modules-bluetooth/60-2230c-series-bluetooth-and-wifi-module
-  repositories: []
-name: 60-2230C Series
-ref: ezurio/60-2230c-series
-release_date: null
-sku: 60-2230c-series
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/s3fs-public/2018-10/60_SiP_straight.png

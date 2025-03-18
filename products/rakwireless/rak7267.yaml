@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rak7267
+ref: rakwireless/rak7267
+vendor: rakwireless
+sku: rak7267
+name: RAK7267
 description: The WisGate Soho Pro RAK7267 is ideal for smart agriculture, smart cities,
   industrial IoT, and remote monitoring solutions. It supports applications like greenhouses,
   small-scale farms, and solar-powered street lighting, offering easy installation,
   compatibility with non-traditional power sources, and robust connectivity.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://res.rakwireless.com/tracked/products/wisgate-edge/rss/opensensors.jpeg
-  models: []
   products:
   - https://news.rakwireless.com/rakwireless-unveils-wisgate-soho-pro-rak7267-the-ultimate-compact-lorawan-gateway-solution/
-  repositories: []
-name: RAK7267
-ref: rakwireless/rak7267
-release_date: null
-sku: rak7267
-spec: null
-status: ''
-vendor: rakwireless
+  images:
+  - https://res.rakwireless.com/tracked/products/wisgate-edge/rss/opensensors.jpeg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: shield-lol-5mm-red
+ref: olimex/shield-lol-5mm-red
+vendor: olimex
+sku: shield-lol-5mm-red
+name: SHIELD-LOL-5MM-RED
 description: ''
+status: ''
 extra:
   price1: 15.95 EUR
   price2: 14.36 EUR
   price3: 12.76 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Duino/Shields/SHIELD-LOL-5MM/images/thumbs/200x150/LOL-5MM-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Duino/Shields/SHIELD-LOL-5MM-RED/open-source-hardware
-  repositories: []
-name: SHIELD-LOL-5MM-RED
-ref: olimex/shield-lol-5mm-red
-release_date: null
-sku: shield-lol-5mm-red
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Duino/Shields/SHIELD-LOL-5MM/images/thumbs/200x150/LOL-5MM-1.jpg

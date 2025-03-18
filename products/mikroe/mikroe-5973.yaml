@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5973
+ref: mikroe/mikroe-5973
+vendor: mikroe
+sku: mikroe-5973
+name: MIKROE-5973
 description: Rotary O 2 Click is a compact add-on board that allows you to add a precision
   input knob to your design. This board features the TLC5925, a low-power 16-channel
   constant-current LED sink driver from Texas Instruments that, combined with a high-quality
   rotary encoder from ALPS, the EC12D1564402, allows you to add a precision input
   knob to your design. It...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/rotary-o-2-click/rotary-o-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/rotary-o-2-click
-  repositories: []
-name: MIKROE-5973
-ref: mikroe/mikroe-5973
-release_date: null
-sku: mikroe-5973
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rotary-o-2-click/rotary-o-2-click-home_default-1.jpg?v=100

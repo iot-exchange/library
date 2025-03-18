@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: bluetooth-4-0-nrf51822-core-board
+ref: waveshare/bluetooth-4-0-nrf51822-core-board
+vendor: waveshare
+sku: bluetooth-4-0-nrf51822-core-board
+name: Bluetooth 4.0 NRF51822 Core Board
 description: Bluetooth 4.0 NRF51822 Core Board
+status: ''
 extra:
-  Price: $5.99 - $6.99
   SKU: '10649'
+  Price: $5.99 - $6.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/core51822-1.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/core51822-b-intro.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/core51822-b.htm
   - https://www.waveshare.com/product/core51822.htm
-  repositories: []
-name: Bluetooth 4.0 NRF51822 Core Board
-ref: waveshare/bluetooth-4-0-nrf51822-core-board
-release_date: null
-sku: bluetooth-4-0-nrf51822-core-board
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/core51822-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/core51822-b-intro.jpg

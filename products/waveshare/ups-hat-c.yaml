@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: ups-hat-c
+ref: waveshare/ups-hat-c
+vendor: waveshare
+sku: ups-hat-c
+name: UPS HAT (C)
 description: Uninterruptible Power Supply UPS HAT For Raspberry Pi Zero, Stable 5V
   Power Output
+status: ''
 extra:
   Price: $22.29 - $23.99
   SKU: '19739'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/p/ups-hat-c-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ups-hat-c.htm
-  repositories: []
-name: UPS HAT (C)
-ref: waveshare/ups-hat-c
-release_date: null
-sku: ups-hat-c
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/p/ups-hat-c-1.jpg

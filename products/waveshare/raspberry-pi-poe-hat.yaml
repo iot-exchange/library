@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-poe-hat
+ref: waveshare/raspberry-pi-poe-hat
+vendor: waveshare
+sku: raspberry-pi-poe-hat
+name: Raspberry Pi PoE+ HAT
 description: Raspberry Pi PoE+ HAT for Raspberry Pi 3B+/4B, 802.3af/at-compliant
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-poe-plus-hat-1_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/raspberry-pi-poe-plus-hat.htm
-  repositories: []
-name: Raspberry Pi PoE+ HAT
-ref: waveshare/raspberry-pi-poe-hat
-release_date: null
-sku: raspberry-pi-poe-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-poe-plus-hat-1_1.jpg

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '2607029281001'
+ref: we/2607029281001
+vendor: we
+sku: '2607029281001'
+name: '2607029281001'
 description: EV-Kit Tarvos-II incl. ext. antenna
+status: Active i
 extra:
   Expected lifetime: '>10 years'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o170890v214%20Single_Tarvos-II_2607021181000.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/TARVOS-II#2607029281001
   - https://www.we-online.com/en/components/products/TARVOS-II_MESH#2607029281001
-  repositories: []
-name: '2607029281001'
-ref: we/2607029281001
-release_date: null
-sku: '2607029281001'
-spec: null
-status: Active i
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o170890v214%20Single_Tarvos-II_2607021181000.jpg

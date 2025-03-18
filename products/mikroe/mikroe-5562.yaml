@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5562
+ref: mikroe/mikroe-5562
+vendor: mikroe
+sku: mikroe-5562
+name: MIKROE-5562
 description: board features the NE555, a precision timer from Diodes Incorporated.
   It is a precision timing circuit capable of producing accurate time delays in a
   monostable mode of operation. The Timer Relay Click features the SRD-5VDC-SL-C,
   a relay from Ningbo, to...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/timer-relay-click/timer-relay-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=3751
   - https://www.mikroe.com/timer-relay-click
-  repositories: []
-name: MIKROE-5562
-ref: mikroe/mikroe-5562
-release_date: null
-sku: mikroe-5562
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/timer-relay-click/timer-relay-click-home_default-1.jpg?v=100

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rgb-matrix-p2-5-96x48-f
+ref: waveshare/rgb-matrix-p2-5-96x48-f
+vendor: waveshare
+sku: rgb-matrix-p2-5-96x48-f
+name: RGB-Matrix-P2.5-96x48-F
 description: Flexible RGB full-color LED matrix panel, 2.5mm Pitch, 96x48 pixels,
   adjustable brightness and bendable PCB
+status: ''
 extra:
   Price: $28.95 - $30.99
   SKU: '23709'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb-matrix-p2.5-96x48-f-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rgb-matrix-p2.5-96x48-f.htm
-  repositories: []
-name: RGB-Matrix-P2.5-96x48-F
-ref: waveshare/rgb-matrix-p2-5-96x48-f
-release_date: null
-sku: rgb-matrix-p2-5-96x48-f
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb-matrix-p2.5-96x48-f-1.jpg

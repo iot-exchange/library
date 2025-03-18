@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: ups-module-3s
+ref: waveshare/ups-module-3s
+vendor: waveshare
+sku: ups-module-3s
+name: ups_module_3s
 description: Uninterruptible Power Supply Module, Supports charging And Power output
   at the same time, 3S & 5V 5A Output
+status: ''
 extra:
   Price: $21.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/p/ups-module-3s-5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ups-module-3s.htm
-  repositories: []
-name: ups_module_3s
-ref: waveshare/ups-module-3s
-release_date: null
-sku: ups-module-3s
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/p/ups-module-3s-5.jpg

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-4317
+ref: mikroe/mikroe-4317
+vendor: mikroe
+sku: mikroe-4317
+name: MIKROE-4317
 description: Mikromedia 5 for STM32F7 CAPACITIVE FPI with bezel Rapid development
   of multimedia and gui-centric applications
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mikromedia-5-for-stm32f7-capacitive-fpi-with-bezel/mikromedia-5-for-stm32f7-capacitive-fpi-with-bezel-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mikromedia-5-for-stm32f7-capacitive-fpi-with-bezel
-  repositories: []
-name: MIKROE-4317
-ref: mikroe/mikroe-4317
-release_date: null
-sku: mikroe-4317
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-5-for-stm32f7-capacitive-fpi-with-bezel/mikromedia-5-for-stm32f7-capacitive-fpi-with-bezel-home_default-1.jpg?v=100

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rs232-485-422-to-poe-eth-b-kl
+ref: waveshare/rs232-485-422-to-poe-eth-b-kl
+vendor: waveshare
+sku: rs232-485-422-to-poe-eth-b-kl
+name: RS232/485/422 TO POE ETH (B) (KL)
 description: KLAYERS RS232/485/422 to RJ45 Ethernet Module, TCP/IP to serial, With
   POE Function
+status: ''
 extra:
   Price: $53.31 - $53.99
   SKU: '23825'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs232-485-422-to-poe-eth-b-kl-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rs232-485-422-to-poe-eth-b-kl.htm
-  repositories: []
-name: RS232/485/422 TO POE ETH (B) (KL)
-ref: waveshare/rs232-485-422-to-poe-eth-b-kl
-release_date: null
-sku: rs232-485-422-to-poe-eth-b-kl
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs232-485-422-to-poe-eth-b-kl-2.jpg

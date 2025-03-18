@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pic32-pinguino
+ref: olimex/pic32-pinguino
+vendor: olimex
+sku: pic32-pinguino
+name: PIC32-PINGUINO
 description: ''
+status: ''
 extra:
   discountedPrice1: 20.85 EUR
   discountedPrice2: 19.76 EUR
   price: 21.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Duino/PIC32/PIC32-PINGUINO/images/thumbs/200x150/PIC32-PINGUINO-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Duino/PIC32/PIC32-PINGUINO/open-source-hardware
-  repositories: []
-name: PIC32-PINGUINO
-ref: olimex/pic32-pinguino
-release_date: null
-sku: pic32-pinguino
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Duino/PIC32/PIC32-PINGUINO/images/thumbs/200x150/PIC32-PINGUINO-01.jpg

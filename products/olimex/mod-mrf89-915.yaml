@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-mrf89-915
+ref: olimex/mod-mrf89-915
+vendor: olimex
+sku: mod-mrf89-915
+name: MOD-MRF89-915
 description: ''
+status: ''
 extra:
   bulkPrice: 7.96 EUR
   discountedPrice: 8.96 EUR
   price: 9.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/RF/MOD-MRF89-915/images/thumbs/200x150/MOD-MRF89-XXX-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/RF/MOD-MRF89-915/
-  repositories: []
-name: MOD-MRF89-915
-ref: olimex/mod-mrf89-915
-release_date: null
-sku: mod-mrf89-915
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/RF/MOD-MRF89-915/images/thumbs/200x150/MOD-MRF89-XXX-1.jpg

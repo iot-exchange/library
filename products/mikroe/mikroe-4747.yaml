@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4747
+ref: mikroe/mikroe-4747
+vendor: mikroe
+sku: mikroe-4747
+name: MIKROE-4747
 description: Pressure 15 Click is a compact add-on board that contains a board-mount
   pressure sensor. This board features the LPS27HHW, an ultra-compact piezoresistive
   absolute pressure sensor that functions as a digital output barometer from STMicroelectronics.
   The device comprises a sensing element and an IC interface that communicates through
   I2C or SPI serial...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/pressure-15-click/pressure-15-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/pressure-15-click
-  repositories: []
-name: MIKROE-4747
-ref: mikroe/mikroe-4747
-release_date: null
-sku: mikroe-4747
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/pressure-15-click/pressure-15-click-home_default-1.jpg?v=100

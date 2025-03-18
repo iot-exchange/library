@@ -1,0 +1,14 @@
+id: starnote
+ref: blues/starnote
+vendor: blues
+sku: starnote
+name: Starnote
+description: Streamlined Satellite Connectivity for Only $49. Integrated Data Package.
+  Backup Connectivity. Cost-Effective Hardware. Requires a Notecard.
+status: ''
+extra: {}
+links:
+  products:
+  - https://blues.com/starnote/
+  images:
+  - https://blues.com/wp-content/uploads/2024/02/Starnote1.1-Ignion-Front-537x1024.png

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: cm4-to-cm3-board
+ref: waveshare/cm4-to-cm3-board
+vendor: waveshare
+sku: cm4-to-cm3-board
+name: CM4-to-CM3-Board
 description: Raspberry Pi CM4 To CM3 Adapter, Alternative Solution for Raspberry Pi
   CM3 / CM3+
+status: ''
 extra:
   SKU: '22594'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-to-cm3-board-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/cm4-to-cm3-board.htm
-  repositories: []
-name: CM4-to-CM3-Board
-ref: waveshare/cm4-to-cm3-board
-release_date: null
-sku: cm4-to-cm3-board
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-to-cm3-board-1.jpg

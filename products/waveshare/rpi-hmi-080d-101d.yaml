@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rpi-hmi-080d-101d
+ref: waveshare/rpi-hmi-080d-101d
+vendor: waveshare
+sku: rpi-hmi-080d-101d
+name: RPI-HMI-080D/101D
 description: Industrial HMI All-in-one Touch Display For Raspberry Pi, Options For
   8inch / 10.1inch, Supports Dual 4K HDMI Output, 10-point Touch, Optical Bonding,
   Aluminum Alloy Case
+status: ''
 extra:
   Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-hmi-080d.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pi5-hmi-080d.htm
-  repositories: []
-name: RPI-HMI-080D/101D
-ref: waveshare/rpi-hmi-080d-101d
-release_date: null
-sku: rpi-hmi-080d-101d
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-hmi-080d.jpg

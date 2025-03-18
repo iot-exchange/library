@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: matter-vs-z-wave
+ref: silicon-labs/matter-vs-z-wave
+vendor: silicon-labs
+sku: matter-vs-z-wave
+name: Matter vs Z-Wave
 description: What You Need to Know
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/blog/matter-vs-z-wave-what-you-need-to-know
-  repositories: []
-name: Matter vs Z-Wave
-ref: silicon-labs/matter-vs-z-wave
-release_date: null
-sku: matter-vs-z-wave
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

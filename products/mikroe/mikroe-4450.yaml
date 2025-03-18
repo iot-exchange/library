@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4450
+ref: mikroe/mikroe-4450
+vendor: mikroe
+sku: mikroe-4450
+name: MIKROE-4450
 description: Volume Click is a compact add-on board that provides the user with complete
   digital volume control. This board features the CS3310, a stereo digital volume
   control designed specifically for audio systems from Cirrus Logic. It controls two
   independent low distortion audio channels with an adjustable range of 127 dB, in
   0.5 dB steps achieved through 95.5 dB...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/volume-click/volume-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/volume-click
-  repositories: []
-name: MIKROE-4450
-ref: mikroe/mikroe-4450
-release_date: null
-sku: mikroe-4450
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/volume-click/volume-click-home_default-1.jpg?v=100

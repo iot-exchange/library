@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: olimexino-nano-gsm
+ref: olimex/olimexino-nano-gsm
+vendor: olimex
+sku: olimexino-nano-gsm
+name: OLIMEXINO-NANO-GSM
 description: ''
+status: ''
 extra:
   price1: 15.00 EUR
   price2: 13.50 EUR
   price3: 12.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Duino/AVR/OLIMEXINO-NANO-GSM/images/thumbs/200x150/OLIMEXINO-NANO-GSM-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Duino/AVR/OLIMEXINO-NANO-GSM/
-  repositories: []
-name: OLIMEXINO-NANO-GSM
-ref: olimex/olimexino-nano-gsm
-release_date: null
-sku: olimexino-nano-gsm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Duino/AVR/OLIMEXINO-NANO-GSM/images/thumbs/200x150/OLIMEXINO-NANO-GSM-1.jpg

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '2611017221001'
+ref: we/2611017221001
+vendor: we
+sku: '2611017221001'
+name: '2611017221001'
 description: EV-Kit Thyone-I Long Range
+status: Active i
 extra:
   Expected lifetime: '>10 years'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/THYONE-I#2611017221001
   - https://www.we-online.com/en/components/products/THYONE-I_MESH#2611017221001
-  repositories: []
-name: '2611017221001'
-ref: we/2611017221001
-release_date: null
-sku: '2611017221001'
-spec: null
-status: Active i
-vendor: we
+  images: []

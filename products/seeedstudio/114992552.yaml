@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: '114992552'
+ref: seeedstudio/114992552
+vendor: seeedstudio
+sku: '114992552'
+name: '114992552'
 description: The original Argon ONE Raspberry Pi 4 Case is already very popular among
   the Raspberry Pi community. Now we bring you the latest version of it, Argon ONE
   Raspberry Pi 4 Case V2! It is a Raspberry Pi 4 compatible case that is made with
   aluminum alloy and polished with a modern Space Grey finish for stunning aesthetics
   and functionality. It is equipped with an inbuilt power button/ cooling fan/ dual
   full-size HDMI connectors/ IR receiver with much more functionalities.
+status: ''
 extra:
   price: $25.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/103990563_preview-07.png
-  models: []
   products:
   - https://www.seeedstudio.com/Argon-ONE-Raspberry-Pi-4-Case-V2-p-4783.html
-  repositories: []
-name: '114992552'
-ref: seeedstudio/114992552
-release_date: null
-sku: '114992552'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/103990563_preview-07.png

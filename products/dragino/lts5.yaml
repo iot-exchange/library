@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lts5
+ref: dragino/lts5
+vendor: dragino
+sku: lts5
+name: LTS5
 description: "LoRa/LoRaWAN HMI Touch ScreenOpen Source ProjectDrag & Drop for UI developmentSend\
   \ data to control screen via LoRa/LoRaWAN or WiFi5.0\u201D SizeESP32 MCU + LoRa\
   \ ModuleRS485 Interface"
+status: ''
 extra:
   Catalog: LoRa / LoRaWAN Module, Kits
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/7ced67c0d648122bcae10129de981341_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lora/item/353-lts5-lora-lorawan-hmi-touch-screen.html
-  repositories: []
-name: LTS5
-ref: dragino/lts5
-release_date: null
-sku: lts5
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/7ced67c0d648122bcae10129de981341_L.jpg

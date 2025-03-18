@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-5111
+ref: mikroe/mikroe-5111
+vendor: mikroe
+sku: mikroe-5111
+name: MIKROE-5111
 description: VU Meter Click is a compact add-on board representing a volume unit meter
   that displays the intensity of an audio signal. This board features the LM3914,
   a monolithic integrated circuit that senses analog voltage levels and drives a 10-segment
   bar graph display from Texas Instruments.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/vu-meter-click/vu-meter-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/vu-meter-click
-  repositories: []
-name: MIKROE-5111
-ref: mikroe/mikroe-5111
-release_date: null
-sku: mikroe-5111
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/vu-meter-click/vu-meter-click-home_default-1.jpg?v=100

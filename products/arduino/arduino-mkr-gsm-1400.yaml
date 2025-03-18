@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: arduino-mkr-gsm-1400
+ref: arduino/arduino-mkr-gsm-1400
+vendor: arduino
+sku: arduino-mkr-gsm-1400
+name: Arduino MKR GSM 1400
 description: A board equipped with a GSM radio module.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.arduino.cc/wiki/static/fb89e0ebb3639e5d8b906d175a573ad4/5a190/mkr_gsm_1400.png
-  models: []
   products:
   - https://store.arduino.cc/products/arduino-mkr-gsm-1400
-  repositories: []
-name: Arduino MKR GSM 1400
-ref: arduino/arduino-mkr-gsm-1400
-release_date: null
-sku: arduino-mkr-gsm-1400
-spec: null
-status: ''
-vendor: arduino
+  images:
+  - https://www.arduino.cc/wiki/static/fb89e0ebb3639e5d8b906d175a573ad4/5a190/mkr_gsm_1400.png

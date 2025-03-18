@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: ms-3-2-36
+ref: olimex/ms-3-2-36
+vendor: olimex
+sku: ms-3-2-36
+name: MS-3.2-36
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/ServoMotors/MS-3.2-36/images/thumbs/200x150/MS-3.2-36-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/ServoMotors/MS-3.2-36/
-  repositories: []
-name: MS-3.2-36
-ref: olimex/ms-3-2-36
-release_date: null
-sku: ms-3-2-36
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/ServoMotors/MS-3.2-36/images/thumbs/200x150/MS-3.2-36-01.jpg

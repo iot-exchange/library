@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 1-51inch-transparent-oled
+ref: waveshare/1-51inch-transparent-oled
+vendor: waveshare
+sku: 1-51inch-transparent-oled
+name: 1.51inch Transparent OLED
 description: "1.51inch Transparent OLED, 128\xD764 Resolution, SPI/I2C Interfaces,\
   \ light blue color display"
+status: ''
 extra:
   Price: $18.97 - $19.99
   SKU: '22545'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.51inch-transparent-oled-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/1.51inch-transparent-oled.htm
-  repositories: []
-name: 1.51inch Transparent OLED
-ref: waveshare/1-51inch-transparent-oled
-release_date: null
-sku: 1-51inch-transparent-oled
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.51inch-transparent-oled-1.jpg

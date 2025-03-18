@@ -1,0 +1,13 @@
+id: emb-lr1280-mpcie-4x
+ref: embit/emb-lr1280-mpcie-4x
+vendor: embit
+sku: emb-lr1280-mpcie-4x
+name: EMB-LR1280-mPCIe-4x
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.embit.eu/products/emb-lr1280-mpcie-4x/
+  images:
+  - https://www.embit.eu/wp-content/uploads/2021/01/EMB-LR1280-mPCIe-fronte-modifica-1-300x225.jpg

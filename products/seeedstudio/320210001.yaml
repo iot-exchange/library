@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '320210001'
+ref: seeedstudio/320210001
+vendor: seeedstudio
+sku: '320210001'
+name: '320210001'
 description: This is a micro HDMI(Type D) to HDMI(Type A) Adapter. It provides a more
   convenient way to use micro HDMI equipment. This product is fully compatible with
   Raspberry Pi 4 2GB & Pi 4 4GB.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproducthdmi20adapter.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Micro-HDMI-to-HDMI-Adapter-p-1656.html
-  repositories: []
-name: '320210001'
-ref: seeedstudio/320210001
-release_date: null
-sku: '320210001'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproducthdmi20adapter.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: esp32-s2-devkit-lipo
+ref: olimex/esp32-s2-devkit-lipo
+vendor: olimex
+sku: esp32-s2-devkit-lipo
+name: ESP32-S2-DevKit-Lipo
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/ESP32-S2/ESP32-S2-DevKit-Lipo/images/thumbs/200x150/ESP32-S2-DevKit-Lipo-A.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/ESP32-S2/ESP32-S2-DevKit-Lipo/open-source-hardware
-  repositories: []
-name: ESP32-S2-DevKit-Lipo
-ref: olimex/esp32-s2-devkit-lipo
-release_date: null
-sku: esp32-s2-devkit-lipo
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32-S2/ESP32-S2-DevKit-Lipo/images/thumbs/200x150/ESP32-S2-DevKit-Lipo-A.jpg

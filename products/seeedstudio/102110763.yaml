@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: '102110763'
+ref: seeedstudio/102110763
+vendor: seeedstudio
+sku: '102110763'
+name: '102110763'
 description: "ODYSSEY - X86J4125864 v2 (Win11 Pro Activated) features Quad-core Intel\xAE\
   \ Celeron\xAE J4125 and RP2040 co-processor, equipping dual 2.5GbE interfaces and\
   \ multiple wireless connectivities, supporting 4K output, carrying sufficient storage\
@@ -7,20 +10,10 @@ description: "ODYSSEY - X86J4125864 v2 (Win11 Pro Activated) features Quad-core 
   \ OS(pre-installed Win 11 Pro), all of which indicate that it can be an ideal mini\
   \ PC, a functional router, a media center or other development applications by your\
   \ definition."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102110763-45font_3.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/ODYSSEY-X86J4125864-v2-Win11-Enterprise-Activated-p-5534.html
-  repositories: []
-name: '102110763'
-ref: seeedstudio/102110763
-release_date: null
-sku: '102110763'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102110763-45font_3.jpg

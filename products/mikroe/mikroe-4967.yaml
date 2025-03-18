@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-4967
+ref: mikroe/mikroe-4967
+vendor: mikroe
+sku: mikroe-4967
+name: MIKROE-4967
 description: Ambient 15 Click is a compact add-on board used to measure the amount
   of the present ambient light.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ambient-15-click/ambient-15-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ambient-15-click
-  repositories: []
-name: MIKROE-4967
-ref: mikroe/mikroe-4967
-release_date: null
-sku: mikroe-4967
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ambient-15-click/ambient-15-click-home_default-1.jpg?v=100

@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: cc3235modasf
+ref: ti/cc3235modasf
+vendor: ti
+sku: cc3235modasf
+name: CC3235MODASF
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ti.com/product/CC3235MODASF
-  repositories: []
-name: CC3235MODASF
-ref: ti/cc3235modasf
-release_date: null
-sku: cc3235modasf
-spec: null
-status: ''
-vendor: ti
+  images: []

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: d22-nb
+ref: dragino/d22-nb
+vendor: dragino
+sku: d22-nb
+name: D22-NB
 description: NB-IoT Waterproof /Outdoor Temperature Sensor
+status: ''
 extra:
   2 x DS18B20 Temperature probes: ''
   Battery: 8500mAh for long term use
@@ -10,18 +14,7 @@ extra:
   Support BLE remote configure and update firmware: ''
   Temperature alarm: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/ea82697ed9755e975f3c7d735db2070c_L.jpg
-  models: []
   products:
   - https://dragino.com/products/temperature-humidity-sensor/item/294-d22-nb.html
-  repositories: []
-name: D22-NB
-ref: dragino/d22-nb
-release_date: null
-sku: d22-nb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/ea82697ed9755e975f3c7d735db2070c_L.jpg

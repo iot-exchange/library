@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: lora868-ant
+ref: olimex/lora868-ant
+vendor: olimex
+sku: lora868-ant
+name: LoRa868-ANT
 description: ''
+status: ''
 extra:
   100+ pcs: 7.68 EUR
   1000+ pcs: 7.36 EUR
   50+ pcs: 7.84 EUR
   500+ pcs: 7.52 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/LoRa/LoRa868/images/thumbs/200x150/LoRa868a.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/LoRa/LoRa868-ANT/open-source-hardware
-  repositories: []
-name: LoRa868-ANT
-ref: olimex/lora868-ant
-release_date: null
-sku: lora868-ant
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/LoRa/LoRa868/images/thumbs/200x150/LoRa868a.jpg

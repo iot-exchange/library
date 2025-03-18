@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: serial-modem-interface-plm
+ref: insteon/serial-modem-interface-plm
+vendor: insteon
+sku: serial-modem-interface-plm
+name: Serial Modem Interface (PLM)
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/products/Serial_Modem_Interface_PLM.jpg?v=1724712224&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/plm-serial-modem-interface
-  repositories: []
-name: Serial Modem Interface (PLM)
-ref: insteon/serial-modem-interface-plm
-release_date: null
-sku: serial-modem-interface-plm
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Serial_Modem_Interface_PLM.jpg?v=1724712224&width=533

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-4767
+ref: mikroe/mikroe-4767
+vendor: mikroe
+sku: mikroe-4767
+name: MIKROE-4767
 description: DAC 11 Click is a compact add-on board that contains a highly accurate
   digital-to-analog converter. This board features the DAC128S085, a general-purpose
   OCTAL 12-bit analog voltage-output DAC from Texas Instruments.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/dac-11-click/dac-11-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/dac-11-click
-  repositories: []
-name: MIKROE-4767
-ref: mikroe/mikroe-4767
-release_date: null
-sku: mikroe-4767
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dac-11-click/dac-11-click-home_default-1.jpg?v=100

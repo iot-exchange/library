@@ -1,0 +1,12 @@
+id: smart-tools
+ref: milesight/smart-tools
+vendor: milesight
+sku: smart-tools
+name: Smart Tools
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/security/product/smart-tools
+  images: []

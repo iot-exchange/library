@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: battery-lipo6600mah
+ref: olimex/battery-lipo6600mah
+vendor: olimex
+sku: battery-lipo6600mah
+name: BATTERY-LIPO6600mAh
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Power/Lipo-battery/BATTERY-LIPO6600mAh/images/thumbs/200x150/BATTERY-LIPO6600.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Power/Lipo-battery/BATTERY-LIPO6600mAh/
-  repositories: []
-name: BATTERY-LIPO6600mAh
-ref: olimex/battery-lipo6600mah
-release_date: null
-sku: battery-lipo6600mah
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Power/Lipo-battery/BATTERY-LIPO6600mAh/images/thumbs/200x150/BATTERY-LIPO6600.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-2850
+ref: mikroe/mikroe-2850
+vendor: mikroe
+sku: mikroe-2850
+name: MIKROE-2850
 description: ETH 3 Click is a compact add-on board that contains Ethernet Controller
   & PHY for embedded applications. This board features the LAN9250, a fully featured
   10/100 Ethernet controller that provides performance, flexibility, ease of integration,
   and system cost control from Microchip Technology. It complies with the IEEE802.3
   (Full/Half-Duplex 10BASE-T...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/eth-3-click/eth-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/eth-3-click
-  repositories: []
-name: MIKROE-2850
-ref: mikroe/mikroe-2850
-release_date: null
-sku: mikroe-2850
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/eth-3-click/eth-3-click-home_default-1.jpg?v=100

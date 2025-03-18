@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: ps-lb-ls-d
+ref: dragino/ps-lb-ls-d
+vendor: dragino
+sku: ps-lb-ls-d
+name: PS-LB/LS-D
 description: LoRaWAN Differential Pressure Sensor. Measure the Differential Pressure
   of two input.
+status: ''
 extra:
   Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865
   Battery: 8500mAh Li/SOCl2 Battery (PS-LB-D), Solar panel + 3000mAh Li-ion battery
@@ -10,18 +14,7 @@ extra:
   Power Consumption: Ultra-low
   Pressure Range: from 100Pa to 10KPa
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/d521b3285331148964fc0a459a826ae3_L.jpg
-  models: []
   products:
   - https://dragino.com/products/distance-level-sensor/item/319-ps-lb-ls-d.html
-  repositories: []
-name: PS-LB/LS-D
-ref: dragino/ps-lb-ls-d
-release_date: null
-sku: ps-lb-ls-d
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/d521b3285331148964fc0a459a826ae3_L.jpg

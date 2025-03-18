@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lpc2478-stk-mictor
+ref: olimex/lpc2478-stk-mictor
+vendor: olimex
+sku: lpc2478-stk-mictor
+name: LPC2478-STK-MICTOR
 description: ''
+status: ''
 extra:
   discountedPrice1: 149.36 EUR
   discountedPrice2: 132.76 EUR
   price: 165.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/NXP/LPC2478-STK-MICTOR/images/thumbs/200x150/LPC2478-STK-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/NXP/LPC2478-STK-MICTOR/
-  repositories: []
-name: LPC2478-STK-MICTOR
-ref: olimex/lpc2478-stk-mictor
-release_date: null
-sku: lpc2478-stk-mictor
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC2478-STK-MICTOR/images/thumbs/200x150/LPC2478-STK-01.jpg

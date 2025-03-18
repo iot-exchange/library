@@ -1,8 +1,12 @@
-alternatives: []
-certifications: []
+id: fg190-fm190
+ref: fibocom/fg190-fm190
+vendor: fibocom
+sku: fg190-fm190
+name: FG190/FM190
 description: Fibocom FG190/FM190 is a series of 5G Sub-6GHz and mmWave module, designed
   to bring outstanding cellular performance to mass data transmission applications
   such as mobile broadband, FWA, enterprise 5G, and IIoT.
+status: ''
 extra:
   Bandwidth: Up to 300MHz
   Carrier Aggregation: FDD+FDD uplink carrier aggregation
@@ -11,17 +15,6 @@ extra:
   Interfaces: USB 3.1/3.0/2.0, PCIe 4.0/3.0, I2S
   MIMO: FDD uplink MIMO in the Sub-6GHz spectrum
 links:
-  datasheets: []
-  examples: []
+  products: []
   images:
   - 1.png
-  models: []
-  products: []
-  repositories: []
-name: FG190/FM190
-ref: fibocom/fg190-fm190
-release_date: null
-sku: fg190-fm190
-spec: null
-status: ''
-vendor: fibocom

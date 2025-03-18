@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '102100002'
+ref: seeedstudio/102100002
+vendor: seeedstudio
+sku: '102100002'
+name: '102100002'
 description: The Spresense extension board provides pin compatibility with selected
   Arduino shields along with an SD card slot, a headphone jack and multiple microphone
   pins.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/_/_/__4_.png
-  models: []
   products:
   - https://www.seeedstudio.com/Spresense-Extension-Board-p-2847.html
-  repositories: []
-name: '102100002'
-ref: seeedstudio/102100002
-release_date: null
-sku: '102100002'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/_/_/__4_.png

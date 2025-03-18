@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pi400-gpio-adapter-a
+ref: waveshare/pi400-gpio-adapter-a
+vendor: waveshare
+sku: pi400-gpio-adapter-a
+name: PI400-GPIO-ADAPTER-A
 description: Raspberry Pi 400 GPIO Header Adapter, Header Expansion
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi400-gpio-adapter-a-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pi400-gpio-adapter-a.htm
-  repositories: []
-name: PI400-GPIO-ADAPTER-A
-ref: waveshare/pi400-gpio-adapter-a
-release_date: null
-sku: pi400-gpio-adapter-a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi400-gpio-adapter-a-2.jpg

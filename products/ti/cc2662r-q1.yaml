@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: cc2662r-q1
+ref: ti/cc2662r-q1
+vendor: ti
+sku: cc2662r-q1
+name: CC2662R-Q1
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ti.com/product/CC2662R-Q1
-  repositories: []
-name: CC2662R-Q1
-ref: ti/cc2662r-q1
-release_date: null
-sku: cc2662r-q1
-spec: null
-status: ''
-vendor: ti
+  images: []

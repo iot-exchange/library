@@ -1,0 +1,13 @@
+id: wt30x
+ref: milesight/wt30x
+vendor: milesight
+sku: wt30x
+name: WT30x
+description: Smart Fan Coil Thermostat
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/wt30x
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/wt-series/wt30x.png?t=1742198585390

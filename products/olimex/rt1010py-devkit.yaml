@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rt1010py-devkit
+ref: olimex/rt1010py-devkit
+vendor: olimex
+sku: rt1010py-devkit
+name: RT1010Py-DevKit
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/MicroPython/RT1010Py-DevKit/images/thumbs/200x150/RT1010Py-EVB-a.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/MicroPython/RT1010Py-DevKit/open-source-hardware
-  repositories: []
-name: RT1010Py-DevKit
-ref: olimex/rt1010py-devkit
-release_date: null
-sku: rt1010py-devkit
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/MicroPython/RT1010Py-DevKit/images/thumbs/200x150/RT1010Py-EVB-a.jpg

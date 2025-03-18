@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: siwx917-rb4346a
+ref: silicon-labs/siwx917-rb4346a
+vendor: silicon-labs
+sku: siwx917-rb4346a
+name: SiWx917-RB4346A
 description: The SiWx917-RB4346A, SiWN917 Co-Processor Radio Board, you can develop
   ultra-low-power Wi-Fi 6 and Bluetooth LE 5.4, Matter wireless IoT solutions for
   external host processors.
+status: ''
 extra:
   MSRP: $40.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/wifi/siwx917-wireless-socs/siwx917-rb4346a-radio-board.png
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/wi-fi/siwx917-rb4346a-wifi-6-bluetooth-le-soc-4mb-flash-radio-board
-  repositories: []
-name: SiWx917-RB4346A
-ref: silicon-labs/siwx917-rb4346a
-release_date: null
-sku: siwx917-rb4346a
-spec: null
-status: ''
-vendor: silicon-labs
+  images:
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/wifi/siwx917-wireless-socs/siwx917-rb4346a-radio-board.png

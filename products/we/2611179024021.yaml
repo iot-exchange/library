@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '2611179024021'
+ref: we/2611179024021
+vendor: we
+sku: '2611179024021'
+name: '2611179024021'
 description: Setebos-I FeatherWing
+status: Active
 extra:
   Expected lifetime: '>10 years'
   Production: active
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/components/products/manual/2611179024021_Thyone FeatherWing
     2611059021001 Manual_rev1.0.pdf
   - https://www.we-online.com/en/components/products/SETEBOS-I_WIRELESS_FEATHERWING_BLE#2611179024021
-  repositories: []
-name: '2611179024021'
-ref: we/2611179024021
-release_date: null
-sku: '2611179024021'
-spec: null
-status: Active
-vendor: we
+  images: []

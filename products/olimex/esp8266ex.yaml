@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: esp8266ex
+ref: olimex/esp8266ex
+vendor: olimex
+sku: esp8266ex
+name: ESP8266EX
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/IC/ESP8266EX/images/thumbs/200x150/ESP8266.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/IC/ESP8266EX/
-  repositories: []
-name: ESP8266EX
-ref: olimex/esp8266ex
-release_date: null
-sku: esp8266ex
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/IC/ESP8266EX/images/thumbs/200x150/ESP8266.jpg

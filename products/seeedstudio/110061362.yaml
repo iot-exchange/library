@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: '110061362'
+ref: seeedstudio/110061362
+vendor: seeedstudio
+sku: '110061362'
+name: '110061362'
 description: A hand-sized edge AI box with 0.5 TFLOPs of power, built with the NVIDIA
   Jetson Nano 4GB production module. It features a rich set of IOs, an aluminum case,
   a passive heatsink, pre-built Jetpack 4.6.1, onboard 16 GB eMMC, 2x SCI, 1x USB
   3, 2x USB 2, M.2 Key E, HDMI.
+status: ''
 extra:
   Price: $219.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.seeedstudio.com/img/t
-  - https://www.seeedstudio.com/img/y
-  models: []
   products:
   - https://www.seeedstudio.com/reComputer-J1010-Edge-AI-Computer-with-NVIDIA-Jetson-Nano-4GB-p-110061362.html
   - https://www.seeedstudio.com/recomputer-j1010-edge-ai-computer-with-nvidia-jetson-nano-4gb.html
-  repositories: []
-name: '110061362'
-ref: seeedstudio/110061362
-release_date: null
-sku: '110061362'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://www.seeedstudio.com/img/t
+  - https://www.seeedstudio.com/img/y

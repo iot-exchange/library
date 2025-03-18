@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3782
+ref: mikroe/mikroe-3782
+vendor: mikroe
+sku: mikroe-3782
+name: MIKROE-3782
 description: "Shuttle click in combination with mikroBUS Shuttle provides an easy\
   \ and elegant solution for stacking multiple Click boards\u2122 on a single mikroBUS\u2122\
   . Shuttle click can be especially interesting for the IoT development systems that\
   \ are equipped with a very small number of mikroBUS\u2122 slots. Using Shuttle click\
   \ on such system will greatly improve its usability..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mikrobus-shuttle-bundle/mikrobus-shuttle-bundle-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mikrobus-shuttle-bundle
-  repositories: []
-name: MIKROE-3782
-ref: mikroe/mikroe-3782
-release_date: null
-sku: mikroe-3782
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikrobus-shuttle-bundle/mikrobus-shuttle-bundle-home_default-1.jpg?v=100

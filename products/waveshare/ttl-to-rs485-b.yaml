@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: ttl-to-rs485-b
+ref: waveshare/ttl-to-rs485-b
+vendor: waveshare
+sku: ttl-to-rs485-b
+name: TTL TO RS485 (B)
 description: Rail-mount TTL To RS485 Galvanic isolated Converter, 600W Lightningproof
   & Anti-Surge, Multi-Isolation Protection
+status: ''
 extra:
   Price: $11.31 - $11.99
   SKU: '23778'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/t/ttl-to-rs485-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ttl-to-rs485-b.htm
-  repositories: []
-name: TTL TO RS485 (B)
-ref: waveshare/ttl-to-rs485-b
-release_date: null
-sku: ttl-to-rs485-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/t/ttl-to-rs485-b-1.jpg

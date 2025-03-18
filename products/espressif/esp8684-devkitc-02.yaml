@@ -1,29 +1,22 @@
-alternatives: []
-certifications: []
+id: esp8684-devkitc-02
+ref: espressif/esp8684-devkitc-02
+vendor: espressif
+sku: esp8684-devkitc-02
+name: ESP8684-DevKitC-02
 description: The ESP8684-DevKitC-02 is an entry-level development board based on ESP8684-WROOM-02C,
   ESP8684-WROOM-02UC. This board integrates complete Wi-Fi and Bluetooth LE functions.
   Most of the I/O pins on the module are broken out to the pin headers on both sides
   of this board for easy interfacing. Developers can either connect peripherals with
   jumper wires or mount ESP8684-DevKitC-02 on a breadboard.
+status: ''
 extra:
   Flash / PSRAM: 4 MB Flash
   Interfaces: I/O USB
   Related Products: ESP8684-WROOM-02C
   UI: Buttons, LEDs
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/dev-board/ESP8684-DevkitC-02_S_0.png
-  models: []
   products:
   - https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp8684/esp8684-devkitc-02/user_guide.html
   - https://www.espressif.com/en/products/devkits/ESP8684-DevKitC-02
-  repositories: []
-name: ESP8684-DevKitC-02
-ref: espressif/esp8684-devkitc-02
-release_date: null
-sku: esp8684-devkitc-02
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/dev-board/ESP8684-DevkitC-02_S_0.png

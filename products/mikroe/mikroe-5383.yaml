@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-5383
+ref: mikroe/mikroe-5383
+vendor: mikroe
+sku: mikroe-5383
+name: MIKROE-5383
 description: LED Stripe 6W is a super bright white LED light strip with a durable
   and flexible silicone flex hose and DC connector representing an essential element
   of good lightning. Its DC female connector cable is ideal for quick, easy, and convenient
   mains connection from your LED strip light setup to your DC power adapter without
   a need for any soldering or...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/dot-matrix-07in-5x7-red/dot-matrix-07in-5x7-red-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/led-stripe-6w-135m-with-silicon-flex-hose-and-dc-cable-female/led-stripe-6w-135m-with-silicon-flex-hose-and-dc-cable-female-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=52#Dot-matrix-0.7in-5x7-RED
   - https://www.mikroe.com/shop?p=52#LED-stripe-6W-1.35m
-  repositories: []
-name: MIKROE-5383
-ref: mikroe/mikroe-5383
-release_date: null
-sku: mikroe-5383
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dot-matrix-07in-5x7-red/dot-matrix-07in-5x7-red-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/led-stripe-6w-135m-with-silicon-flex-hose-and-dc-cable-female/led-stripe-6w-135m-with-silicon-flex-hose-and-dc-cable-female-home_default-1.jpg?v=100

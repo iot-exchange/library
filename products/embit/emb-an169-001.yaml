@@ -1,0 +1,13 @@
+id: emb-an169-001
+ref: embit/emb-an169-001
+vendor: embit
+sku: emb-an169-001
+name: EMB-AN169-001
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.embit.eu/products/169-mhz-antenna-with-ground-plane/
+  images:
+  - https://www.embit.eu/wp-content/uploads/2020/10/EMB-AN169-001-modif-300x225.jpg

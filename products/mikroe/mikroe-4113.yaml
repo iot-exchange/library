@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-4113
+ref: mikroe/mikroe-4113
+vendor: mikroe
+sku: mikroe-4113
+name: MIKROE-4113
 description: Clock Gen Click offers an ideal replacement for crystals, crystal oscillators,
   VCXOs, phase-locked loops (PLLs), and fanout buffers in cost-sensitive applications.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/clock-gen-click/clock-gen-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/clock-gen-click
-  repositories: []
-name: MIKROE-4113
-ref: mikroe/mikroe-4113
-release_date: null
-sku: mikroe-4113
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/clock-gen-click/clock-gen-click-home_default-1.jpg?v=100

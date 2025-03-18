@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 648-0482211-a01
+ref: waveshare/648-0482211-a01
+vendor: waveshare
+sku: 648-0482211-a01
+name: 648-0482211-A01
 description: Test & Burn-in Socket
+status: ''
 extra:
   Price: $37.59 - $40.99
   SKU: '4791'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/6/4/648-0482211-a01_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/648-0482211-a01.htm
-  repositories: []
-name: 648-0482211-A01
-ref: waveshare/648-0482211-a01
-release_date: null
-sku: 648-0482211-a01
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/6/4/648-0482211-a01_l_1_5.jpg

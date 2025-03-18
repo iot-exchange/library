@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5599
+ref: mikroe/mikroe-5599
+vendor: mikroe
+sku: mikroe-5599
+name: MIKROE-5599
 description: "eFuse 5 Click is a compact add-on board with a power path protection\
   \ solution that limits circuit currents and voltages to safe levels during fault\
   \ conditions. This board features the TPS16530, an easy-to-use, positive 58V, 4.5A\
   \ eFuse with a 31m\u03A9 integrated FET from Texas Instruments. This industrial\
   \ eFuse has programmable undervoltage, overcurrent,..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/efuse-5-click/efuse-5-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/efuse-5-click
-  repositories: []
-name: MIKROE-5599
-ref: mikroe/mikroe-5599
-release_date: null
-sku: mikroe-5599
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/efuse-5-click/efuse-5-click-home_default-1.jpg?v=100

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: msp430-bsl
+ref: olimex/msp430-bsl
+vendor: olimex
+sku: msp430-bsl
+name: MSP430-BSL
 description: ''
+status: ''
 extra:
   price1: 9.95 EUR
   price2: 8.96 EUR
   price3: 7.96 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/MSP430/BSL/MSP430-BSL/images/thumbs/200x150/MSP430-BSL-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/MSP430/BSL/MSP430-BSL/
-  repositories: []
-name: MSP430-BSL
-ref: olimex/msp430-bsl
-release_date: null
-sku: msp430-bsl
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/MSP430/BSL/MSP430-BSL/images/thumbs/200x150/MSP430-BSL-1.jpg

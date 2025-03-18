@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6337
+ref: mikroe/mikroe-6337
+vendor: mikroe
+sku: mikroe-6337
+name: MIKROE-6337
 description: Brushless 30 Click is a compact add-on board for precise and reliable
   control of brushless motors. This board features the TB9083FTG, a gate-driver IC
   from Toshiba Semiconductor, known for its robust performance in automotive environments.
   It also includes additional header pins for 6 PWM inputs, safety relays and current
   sense amplifiers. Comprehensive...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/brushless-30-click/brushless-30-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/brushless-30-click
-  repositories: []
-name: MIKROE-6337
-ref: mikroe/mikroe-6337
-release_date: null
-sku: mikroe-6337
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/brushless-30-click/brushless-30-click-home_default-1.jpg?v=100

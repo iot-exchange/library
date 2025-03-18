@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '114992278'
+ref: seeedstudio/114992278
+vendor: seeedstudio
+sku: '114992278'
+name: '114992278'
 description: 8-50mm 3MP Lens for Raspberry Pi High Quality Camera with C-Mount This
   is a 8-50mm 3MP Lens which is suitable to use with the Raspberry Pi High Quality
   Camera. It has an adjustable aperture ring from F1.4. The lens can be easily screwed
   into the Raspberry Pi High Quality Camera. Also, it comes with front and back covers
   for protection when it's not in use.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992278_preview-16.png
-  models: []
   products:
   - https://www.seeedstudio.com/3MP-8-50mm-C-Mount-Lens-for-Raspberry-Pi-High-Quality-Camera-p-4626.html
-  repositories: []
-name: '114992278'
-ref: seeedstudio/114992278
-release_date: null
-sku: '114992278'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992278_preview-16.png

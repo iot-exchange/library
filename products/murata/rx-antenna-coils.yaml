@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: rx-antenna-coils
+ref: murata/rx-antenna-coils
+vendor: murata
+sku: rx-antenna-coils
+name: Rx Antenna Coils
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/search/productsearch?cate=cgsubRxLFAntennaCoils
-  repositories: []
-name: Rx Antenna Coils
-ref: murata/rx-antenna-coils
-release_date: null
-sku: rx-antenna-coils
-spec: null
-status: ''
-vendor: murata
+  images: []

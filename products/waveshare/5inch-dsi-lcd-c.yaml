@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 5inch-dsi-lcd-c
+ref: waveshare/5inch-dsi-lcd-c
+vendor: waveshare
+sku: 5inch-dsi-lcd-c
+name: 5inch DSI LCD (C)
 description: 5inch Capacitive Touch Display For Raspberry Pi, DSI Interface, IPS Panel,
   1024x600 Pixels, Toughened Glass Panel, Driver-Free
+status: ''
 extra:
   price: $44.95  -  $46.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/i/5inch-dsi-lcd-c-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/5inch-dsi-lcd-c.htm
-  repositories: []
-name: 5inch DSI LCD (C)
-ref: waveshare/5inch-dsi-lcd-c
-release_date: null
-sku: 5inch-dsi-lcd-c
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/i/5inch-dsi-lcd-c-1.jpg

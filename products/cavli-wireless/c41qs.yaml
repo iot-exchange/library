@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: c41qs
+ref: cavli-wireless/c41qs
+vendor: cavli-wireless
+sku: c41qs
+name: C41QS
 description: LPWALTE NB2 3GPP Release 14
+status: ''
 extra:
   Cellular Bands Supported: 'GLOBAL: B1 / B2 / B3 / B4 / B5 / B8 / B12 / B13 / B14
     / B17 / B18 / B19 / B20 / B25 / B26 / B28 / B66 / B70 / B85'
@@ -10,18 +14,7 @@ extra:
     Applicable regions - (GLOBAL)
   OS: FreeRTOS
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.cavliwireless.com/assets/images/modules/c-series/webp-img/C41QS.webp
-  models: []
   products:
   - https://www.cavliwireless.com/c-series/c41qs.html
-  repositories: []
-name: C41QS
-ref: cavli-wireless/c41qs
-release_date: null
-sku: c41qs
-spec: null
-status: ''
-vendor: cavli-wireless
+  images:
+  - https://www.cavliwireless.com/assets/images/modules/c-series/webp-img/C41QS.webp

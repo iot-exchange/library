@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: 2-ch-rs485-hat
+ref: waveshare/2-ch-rs485-hat
+vendor: waveshare
+sku: 2-ch-rs485-hat
+name: 2-CH RS485 HAT
 description: 2-Channel Isolated RS485 Expansion HAT for Raspberry Pi
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/-/2-ch-rs485-hat-2_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/2-ch-rs485-hat.htm
-  repositories: []
-name: 2-CH RS485 HAT
-ref: waveshare/2-ch-rs485-hat
-release_date: null
-sku: 2-ch-rs485-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/-/2-ch-rs485-hat-2_5.jpg

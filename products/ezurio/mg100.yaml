@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mg100
+ref: ezurio/mg100
+vendor: ezurio
+sku: mg100
+name: MG100
 description: Captures data from Bluetooth 5 sensors and sends it to the cloud via
   LTE-M/NB-IoT
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-10/canvas-mg100.png
-  models: []
   products:
   - https://www.ezurio.com/iot-devices/iot-gateways/sentrius-mg100-gateway-lte-mnb-iot-and-bluetooth-5
-  repositories: []
-name: MG100
-ref: ezurio/mg100
-release_date: null
-sku: mg100
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-10/canvas-mg100.png

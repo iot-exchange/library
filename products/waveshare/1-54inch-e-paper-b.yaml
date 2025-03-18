@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 1-54inch-e-paper-b
+ref: waveshare/1-54inch-e-paper-b
+vendor: waveshare
+sku: 1-54inch-e-paper-b
+name: 1.54inch e-Paper (B)
 description: 200x200, 1.54inch E-Ink raw display panel, three-color
+status: ''
 extra:
   Price: $6.31 - $6.99
   SKU: '13275'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.54inch-e-paper-b-5_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/1.54inch-e-paper-b.htm
-  repositories: []
-name: 1.54inch e-Paper (B)
-ref: waveshare/1-54inch-e-paper-b
-release_date: null
-sku: 1-54inch-e-paper-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.54inch-e-paper-b-5_1.jpg

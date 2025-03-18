@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-6171
+ref: mikroe/mikroe-6171
+vendor: mikroe
+sku: mikroe-6171
+name: MIKROE-6171
 description: Mikromedia 7 Resistive Rapid development of multimedia and gui-centric
   applications.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mikromedia-7-resistive/mikromedia-7-resistive-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mikromedia-7-resistive
-  repositories: []
-name: MIKROE-6171
-ref: mikroe/mikroe-6171
-release_date: null
-sku: mikroe-6171
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-7-resistive/mikromedia-7-resistive-home_default-1.jpg?v=100

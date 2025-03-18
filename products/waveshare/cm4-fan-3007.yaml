@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: cm4-fan-3007
+ref: waveshare/cm4-fan-3007
+vendor: waveshare
+sku: cm4-fan-3007
+name: cm4_fan_3007
 description: Dedicated 3007 Cooling Fan for Raspberry Pi Compute Module 4 CM4, Low
   Noise, 5V/12V power supply(Optional)
+status: ''
 extra:
   Price: $6.99 - $7.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-fan-3007-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/cm4-fan-3007.htm
-  repositories: []
-name: cm4_fan_3007
-ref: waveshare/cm4-fan-3007
-release_date: null
-sku: cm4-fan-3007
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-fan-3007-2.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '114993115'
+ref: seeedstudio/114993115
+vendor: seeedstudio
+sku: '114993115'
+name: '114993115'
 description: OV5640 Camera for XIAO ESP32S3 Sense (With Heat Sink) - from QVGA(320*240)
   up to QSXGA(2592*1944), 8/10-bit RGB RAW Output, auto-focusing
+status: ''
 extra:
   price: $11.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/OV5640-Camera-for-XIAO-ESP32S3-Sense-With-Heat-Sink-p-5739.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993115-ov5640-camera-for-xiao-esp32s3-sense-_with-heat-sink_-45font.jpg
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991794_00.default_804x603_1.jpg
-  models: []
-  products:
-  - https://www.seeedstudio.com/OV5640-Camera-for-XIAO-ESP32S3-Sense-With-Heat-Sink-p-5739.html
-  repositories: []
-name: '114993115'
-ref: seeedstudio/114993115
-release_date: null
-sku: '114993115'
-spec: null
-status: ''
-vendor: seeedstudio

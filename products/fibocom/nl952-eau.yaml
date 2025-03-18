@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: nl952-eau
+ref: fibocom/nl952-eau
+vendor: fibocom
+sku: nl952-eau
+name: NL952-EAU
 description: LTE Cat 18 Modules
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/pro-NL952-EAU.html
-  repositories: []
-name: NL952-EAU
-ref: fibocom/nl952-eau
-release_date: null
-sku: nl952-eau
-spec: null
-status: ''
-vendor: fibocom
+  images: []

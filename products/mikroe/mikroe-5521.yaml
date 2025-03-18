@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5521
+ref: mikroe/mikroe-5521
+vendor: mikroe
+sku: mikroe-5521
+name: MIKROE-5521
 description: "2Pin ST Connector (DG500-5.08) is a PCB terminal block from Degson that\
   \ provides connections for high current conductor cross-section with the proven\
   \ clamping-yoke connection in 5.08 mm pitch and 90\xB0 conductor outlet direction.\
   \ It can withstand current and voltage ratings up to 20A and 300VAC, ensuring reliability\
   \ in power delivery applications."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/2pin-st-connector-508mm-pitch/2pin-st-connector-508mm-pitch-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/2pin-st-connector-508mm-pitch
-  repositories: []
-name: MIKROE-5521
-ref: mikroe/mikroe-5521
-release_date: null
-sku: mikroe-5521
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/2pin-st-connector-508mm-pitch/2pin-st-connector-508mm-pitch-home_default-1.jpg?v=100

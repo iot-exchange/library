@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: esp32-pico-v3-zero
+ref: espressif/esp32-pico-v3-zero
+vendor: espressif
+sku: esp32-pico-v3-zero
+name: ESP32-PICO-V3-ZERO
 description: "ESP32-PICO-V3-ZERO is an Alexa Connect Kit (ACK) module with Espressif.\
   \ It provides an easy way for customers to build Alexa-compatible devices without\
   \ worrying about managing cloud services, writing an Alexa Skill, creating phone\
@@ -7,6 +10,7 @@ description: "ESP32-PICO-V3-ZERO is an Alexa Connect Kit (ACK) module with Espre
   \ is based on ESP32-PICO-V3, a System-in-Package (SiP) device. It provides complete\
   \ Wi-Fi and Bluetooth\xAE functionalities with ultra-small size, robust performance\
   \ and low energy consumption."
+status: ''
 extra:
   Antenna: PCB antenna
   Development Board: ESP32-PICO-V3-ZERO-DevKit
@@ -15,18 +19,7 @@ extra:
   PSRAM: N/A
   Pins: '77'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP32-PICO-V3-ZERO%20S.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp32-pico-v3-zero_datasheet_en.pdf
-  repositories: []
-name: ESP32-PICO-V3-ZERO
-ref: espressif/esp32-pico-v3-zero
-release_date: null
-sku: esp32-pico-v3-zero
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-PICO-V3-ZERO%20S.png

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4755
+ref: mikroe/mikroe-4755
+vendor: mikroe
+sku: mikroe-4755
+name: MIKROE-4755
 description: Current 4 Click is a compact add-on board that provides a precise and
   accurate current sensing solution. This board features the INA250, a bidirectional,
   zero-drift current-shunt monitor from Texas Instruments. This voltage-output, current-sensing
   amplifier measures the voltage developed across the internal current-sensing resistor
   when current passes...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/current-4-click/current-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/current-4-click
-  repositories: []
-name: MIKROE-4755
-ref: mikroe/mikroe-4755
-release_date: null
-sku: mikroe-4755
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/current-4-click/current-4-click-home_default-1.jpg?v=100

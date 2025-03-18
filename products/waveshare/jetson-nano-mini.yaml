@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: jetson-nano-mini
+ref: waveshare/jetson-nano-mini
+vendor: waveshare
+sku: jetson-nano-mini
+name: jetson_nano_mini
 description: Mini-Computer Based on Jetson Nano Module, Onboard Multiple Peripheral
   Interfaces, Supports Installing WiFi Or 4G Module, Metal Case
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-nano-mini-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/jetson-nano-mini.htm
-  repositories: []
-name: jetson_nano_mini
-ref: waveshare/jetson-nano-mini
-release_date: null
-sku: jetson-nano-mini
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-nano-mini-1.jpg

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-3914
+ref: mikroe/mikroe-3914
+vendor: mikroe
+sku: mikroe-3914
+name: MIKROE-3914
 description: GSR Electrodes designed to be used with the GSR Click and ECG/EMG cable
   for measuring human galvanic skin response (GSR).
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gsr-electrode-2pcs/gsr-electrode-2pcs-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/gsr-electrode-2pcs "Elektrode GSR - product"
-  repositories: []
-name: MIKROE-3914
-ref: mikroe/mikroe-3914
-release_date: null
-sku: mikroe-3914
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gsr-electrode-2pcs/gsr-electrode-2pcs-home_default-1.jpg?v=100

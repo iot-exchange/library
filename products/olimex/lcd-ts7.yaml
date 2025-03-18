@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lcd-ts7
+ref: olimex/lcd-ts7
+vendor: olimex
+sku: lcd-ts7
+name: LCD-TS7
 description: ''
+status: ''
 extra:
   discountedPrice1: 9.00 EUR
   discountedPrice2: 8.00 EUR
   price: 10.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/LCD/LCD-TS7/images/thumbs/200x150/A13-TS7.png
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/LCD/LCD-TS7/
-  repositories: []
-name: LCD-TS7
-ref: olimex/lcd-ts7
-release_date: null
-sku: lcd-ts7
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/LCD/LCD-TS7/images/thumbs/200x150/A13-TS7.png

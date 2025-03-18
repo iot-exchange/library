@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 8inch-dsi-lcd-c
+ref: waveshare/8inch-dsi-lcd-c
+vendor: waveshare
+sku: 8inch-dsi-lcd-c
+name: 8inch DSI LCD (C)
 description: "8inch Capacitive Touch Display for Raspberry Pi, 1280\xD7800, IPS, DSI\
   \ Interface"
+status: ''
 extra:
   Price: $72.27 - $74.99
   SKU: '23448'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/8/i/8inch-dsi-lcd-c-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/8inch-dsi-lcd-c.htm
-  repositories: []
-name: 8inch DSI LCD (C)
-ref: waveshare/8inch-dsi-lcd-c
-release_date: null
-sku: 8inch-dsi-lcd-c
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/8/i/8inch-dsi-lcd-c-1.jpg

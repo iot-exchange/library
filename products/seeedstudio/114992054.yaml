@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '114992054'
+ref: seeedstudio/114992054
+vendor: seeedstudio
+sku: '114992054'
+name: '114992054'
 description: Argon NEO Raspberry Pi 4 Aluminum Case Argon NEO is a Raspberry Pi 4
   compatible case which is made with aluminum alloy and polished with a modern Space
   Grey finish for stunning aesthetics. It gives you the overall protection you need
   for your Raspberry Pi.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/a/r/ar-neo-iso1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Argon-NEO-Raspberry-Pi-4-Case-p-4249.html
-  repositories: []
-name: '114992054'
-ref: seeedstudio/114992054
-release_date: null
-sku: '114992054'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/a/r/ar-neo-iso1.jpg

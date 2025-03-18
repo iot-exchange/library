@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: ots-28-0-635-02
+ref: waveshare/ots-28-0-635-02
+vendor: waveshare
+sku: ots-28-0-635-02
+name: OTS-28-0.635-02
 description: OTS-28-0.635-02, Test & Burn-in Socket
+status: ''
 extra:
   Price: $38.99 - $41.99
   SKU: '3608'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/t/ots-28-0.635-02_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ots-28-0.635-02.htm
-  repositories: []
-name: OTS-28-0.635-02
-ref: waveshare/ots-28-0-635-02
-release_date: null
-sku: ots-28-0-635-02
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/t/ots-28-0.635-02_l_1_5.jpg

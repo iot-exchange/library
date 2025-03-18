@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-mp3-x-lite
+ref: olimex/mod-mp3-x-lite
+vendor: olimex
+sku: mod-mp3-x-lite
+name: MOD-MP3-X-LITE
 description: ''
+status: ''
 extra:
   bulkPrice: 14.36 EUR
   discountedPrice: 15.15 EUR
   price: 15.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/MP3/MOD-MP3-X-LITE/images/thumbs/200x150/MOD-MP3-X-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/MP3/MOD-MP3-X-LITE/
-  repositories: []
-name: MOD-MP3-X-LITE
-ref: olimex/mod-mp3-x-lite
-release_date: null
-sku: mod-mp3-x-lite
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/MP3/MOD-MP3-X-LITE/images/thumbs/200x150/MOD-MP3-X-01.jpg

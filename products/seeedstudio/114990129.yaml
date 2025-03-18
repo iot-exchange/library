@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '114990129'
+ref: seeedstudio/114990129
+vendor: seeedstudio
+sku: '114990129'
+name: '114990129'
 description: It is a good plastic box for Raspberry Pi, which can protect it with
   one of these snazzy plastic enclosures?
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproduct114990129201.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-2246.html?bazaar4_retailer-products%5Bpage%5D=2#114990129
   - https://www.seeedstudio.com/Raspberry-Pi-B-2-Acrylic-Enclosure-w-CPU-Fan.html
-  repositories: []
-name: '114990129'
-ref: seeedstudio/114990129
-release_date: null
-sku: '114990129'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproduct114990129201.jpg

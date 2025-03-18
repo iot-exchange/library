@@ -1,0 +1,13 @@
+id: wt201
+ref: milesight/wt201
+vendor: milesight
+sku: wt201
+name: WT201
+description: Smart Thermostat
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/wt201
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/wt-series/wt201.png?t=1742198585390

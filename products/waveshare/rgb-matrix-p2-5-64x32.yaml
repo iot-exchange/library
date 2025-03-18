@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rgb-matrix-p2-5-64x32
+ref: waveshare/rgb-matrix-p2-5-64x32
+vendor: waveshare
+sku: rgb-matrix-p2-5-64x32
+name: RGB-Matrix-P2.5-64x32
 description: RGB full-color LED matrix panel, 2.5mm Pitch, 64x32 pixels, adjustable
   brightness
+status: ''
 extra:
   Price: $16.29 - $17.99
   SKU: '23707'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb-matrix-p2.5-64x32-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rgb-matrix-p2.5-64x32.htm
-  repositories: []
-name: RGB-Matrix-P2.5-64x32
-ref: waveshare/rgb-matrix-p2-5-64x32
-release_date: null
-sku: rgb-matrix-p2-5-64x32
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb-matrix-p2.5-64x32-1.jpg

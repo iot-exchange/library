@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-031-fpc-kbd-btn
+ref: olimex/teres-031-fpc-kbd-btn
+vendor: olimex
+sku: teres-031-fpc-kbd-btn
+name: TERES-031-FPC-Kbd-Btn
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-031-FPC-Kbd-Btn/images/thumbs/200x150/TERES-031-FPC-Kbd-Btn.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-031-FPC-Kbd-Btn/
-  repositories: []
-name: TERES-031-FPC-Kbd-Btn
-ref: olimex/teres-031-fpc-kbd-btn
-release_date: null
-sku: teres-031-fpc-kbd-btn
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-031-FPC-Kbd-Btn/images/thumbs/200x150/TERES-031-FPC-Kbd-Btn.jpg

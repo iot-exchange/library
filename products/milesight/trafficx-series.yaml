@@ -1,0 +1,12 @@
+id: trafficx-series
+ref: milesight/trafficx-series
+vendor: milesight
+sku: trafficx-series
+name: TrafficX Series
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/security/product/intelligent-traffic#trafficx-series
+  images: []

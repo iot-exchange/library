@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4130
+ref: mikroe/mikroe-4130
+vendor: mikroe
+sku: mikroe-4130
+name: MIKROE-4130
 description: DMX Click is a device used to establish communication between the MCU
   and equipment that uses the DMX512-A communication protocol. Unlike many similar
   solutions on the market, this unique device allows using the common UART data format,
   which is converted to an appropriate DMX512 format by the powerful PIC18F26K42 MCU
   from Microchip. This MCU has an...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/dmx-click/dmx-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/dmx-click
-  repositories: []
-name: MIKROE-4130
-ref: mikroe/mikroe-4130
-release_date: null
-sku: mikroe-4130
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dmx-click/dmx-click-home_default-1.jpg?v=100

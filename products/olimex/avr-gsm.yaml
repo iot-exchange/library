@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: avr-gsm
+ref: olimex/avr-gsm
+vendor: olimex
+sku: avr-gsm
+name: AVR-GSM
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/AVR/Development/AVR-GSM/images/thumbs/200x150/AVR-GSM-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/AVR/Development/AVR-GSM/
-  repositories: []
-name: AVR-GSM
-ref: olimex/avr-gsm
-release_date: null
-sku: avr-gsm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/AVR/Development/AVR-GSM/images/thumbs/200x150/AVR-GSM-01.jpg

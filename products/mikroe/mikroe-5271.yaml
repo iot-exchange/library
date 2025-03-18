@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5271
+ref: mikroe/mikroe-5271
+vendor: mikroe
+sku: mikroe-5271
+name: MIKROE-5271
 description: Balancer 4 Click is a compact add-on board optimized for overvoltage
   protection balancing the voltage of serially connected batteries. This board features
   the MP2672A, a highly integrated, flexible switch-mode battery charger for Lithium-Ion
   batteries with two cells in series from Monolithic Power Systems (MPS). The MP2672A
   has a narrow voltage DC (NVDC)...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/balancer-4-click/balancer-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/balancer-4-click
-  repositories: []
-name: MIKROE-5271
-ref: mikroe/mikroe-5271
-release_date: null
-sku: mikroe-5271
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/balancer-4-click/balancer-4-click-home_default-1.jpg?v=100

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6479
+ref: mikroe/mikroe-6479
+vendor: mikroe
+sku: mikroe-6479
+name: MIKROE-6479
 description: LightRanger 13 Click is a compact add-on board for precise distance measurement
   in various applications. This board features the TMF8806-1A, a time-of-flight (TOF)
   sensor from ams OSRAM, housed in an industry-leading small modular package. The
   sensor features advanced dTOF technology with high-sensitivity SPAD detection, a
   fast time-to-digital converter,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/lightranger-13-click/lightranger-13-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/lightranger-13-click
-  repositories: []
-name: MIKROE-6479
-ref: mikroe/mikroe-6479
-release_date: null
-sku: mikroe-6479
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lightranger-13-click/lightranger-13-click-home_default-1.jpg?v=100

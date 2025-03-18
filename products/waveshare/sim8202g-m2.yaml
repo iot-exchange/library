@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: sim8202g-m2
+ref: waveshare/sim8202g-m2
+vendor: waveshare
+sku: sim8202g-m2
+name: SIM8202G-M2
 description: SIM8202X-M2 SIMCom Original 5G Module, M.2 Form Factor, High Throughput
   Data Communication
+status: ''
 extra:
   Price: $251.59 - $254.99
   SKU: '19256'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim8202x-m2-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/sim8202x-m2.htm
-  repositories: []
-name: SIM8202G-M2
-ref: waveshare/sim8202g-m2
-release_date: null
-sku: sim8202g-m2
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim8202x-m2-1.jpg

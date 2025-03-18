@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '101990862'
+ref: seeedstudio/101990862
+vendor: seeedstudio
+sku: '101990862'
+name: '101990862'
 description: The S-NH3-01 is an industrial-grade IP65 rated electrochemical detection
   of solid polymers with a revolutionary innovative technique in electrochemical detection
   areas with wide applications in farming, industrial areas, and meteorological monitoring.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/101990862-nh3-sensor-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/RS485-NH3-Sensor-Connector-p-5113.html
-  repositories: []
-name: '101990862'
-ref: seeedstudio/101990862
-release_date: null
-sku: '101990862'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/101990862-nh3-sensor-45font.jpg

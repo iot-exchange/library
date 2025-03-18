@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: arm-usb-ocd-h
+ref: olimex/arm-usb-ocd-h
+vendor: olimex
+sku: arm-usb-ocd-h
+name: ARM-USB-OCD-H
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/JTAG/ARM-USB-OCD-H/images/thumbs/200x150/ARM-USB-OCD-H-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/JTAG/ARM-USB-OCD-H/
-  repositories: []
-name: ARM-USB-OCD-H
-ref: olimex/arm-usb-ocd-h
-release_date: null
-sku: arm-usb-ocd-h
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/JTAG/ARM-USB-OCD-H/images/thumbs/200x150/ARM-USB-OCD-H-1.jpg

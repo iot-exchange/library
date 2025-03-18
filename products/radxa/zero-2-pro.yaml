@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: zero-2-pro
+ref: radxa/zero-2-pro
+vendor: radxa
+sku: zero-2-pro
+name: ZERO 2 Pro
 description: A Ultra Tiny High Performance SBC
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/zero/zero2pro/thumb_zero2pro.webp
-  models: []
   products:
   - https://radxa.com/products/zeros/zero2pro
-  repositories: []
-name: ZERO 2 Pro
-ref: radxa/zero-2-pro
-release_date: null
-sku: zero-2-pro
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/zero/zero2pro/thumb_zero2pro.webp

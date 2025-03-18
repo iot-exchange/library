@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rock-4se
+ref: radxa/rock-4se
+vendor: radxa
+sku: rock-4se
+name: ROCK 4SE
 description: A Cost-Effective SBC with Dual Display and 4K
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/rock4/rock4se/thumb_rock4se.webp
-  models: []
   products:
   - https://radxa.com/products/rock4/4se
-  repositories: []
-name: ROCK 4SE
-ref: radxa/rock-4se
-release_date: null
-sku: rock-4se
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/rock4/rock4se/thumb_rock4se.webp

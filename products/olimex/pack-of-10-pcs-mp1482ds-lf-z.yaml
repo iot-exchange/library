@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pack-of-10-pcs-mp1482ds-lf-z
+ref: olimex/pack-of-10-pcs-mp1482ds-lf-z
+vendor: olimex
+sku: pack-of-10-pcs-mp1482ds-lf-z
+name: Pack of 10 pcs MP1482DS-LF-Z
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/IC/MP1482DS-LF-Z/images/thumbs/200x150/MP1482DS-LF-Z-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/IC/MP1482DS-LF-Z/
-  repositories: []
-name: Pack of 10 pcs MP1482DS-LF-Z
-ref: olimex/pack-of-10-pcs-mp1482ds-lf-z
-release_date: null
-sku: pack-of-10-pcs-mp1482ds-lf-z
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/IC/MP1482DS-LF-Z/images/thumbs/200x150/MP1482DS-LF-Z-1.jpg

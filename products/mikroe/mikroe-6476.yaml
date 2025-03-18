@@ -1,27 +1,20 @@
-alternatives: []
-certifications: []
+id: mikroe-6476
+ref: mikroe/mikroe-6476
+vendor: mikroe
+sku: mikroe-6476
+name: MIKROE-6476
 description: "4G LTE 2 Click - Data (for North America) is a compact add-on board\
   \ providing a secure-cloud multi-band solution offering universal connectivity and\
   \ reliable performance. This board features the LARA-R6401D, the world\u2019s smallest\
   \ LTE Cat 1 module from u-blox with coverage for North American region and a built-in\
   \ MQTT client, representing a data-only..."
+status: Reduced price!
 extra:
   discountedPrice: $57.00
   originalPrice: $114.00
   specialDeal: 50% OFF
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/4g-lte-2-click-data-for-north-america/4g-lte-2-click-data-for-north-america-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/4g-lte-2-click-data-for-north-america
-  repositories: []
-name: MIKROE-6476
-ref: mikroe/mikroe-6476
-release_date: null
-sku: mikroe-6476
-spec: null
-status: Reduced price!
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/4g-lte-2-click-data-for-north-america/4g-lte-2-click-data-for-north-america-home_default-1.jpg?v=100

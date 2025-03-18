@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: bmp388-barometric-pressure-sensor
+ref: waveshare/bmp388-barometric-pressure-sensor
+vendor: waveshare
+sku: bmp388-barometric-pressure-sensor
+name: BMP388 Barometric Pressure Sensor
 description: BMP388 High Precision Barometric Pressure Sensor, Accurate Altitude Tracing
+status: ''
 extra:
   Price: $11.97 - $12.99
   SKU: '16115'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/m/bmp388-barometric-pressure-sensor-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/bmp388-barometric-pressure-sensor.htm "BMP388 High Precision
     Barometric Pressure Sensor, Accurate Altitude Tracing"
-  repositories: []
-name: BMP388 Barometric Pressure Sensor
-ref: waveshare/bmp388-barometric-pressure-sensor
-release_date: null
-sku: bmp388-barometric-pressure-sensor
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/m/bmp388-barometric-pressure-sensor-1.jpg

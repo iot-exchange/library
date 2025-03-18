@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: cm4-io-poe-box-b
+ref: waveshare/cm4-io-poe-box-b
+vendor: waveshare
+sku: cm4-io-poe-box-b
+name: CM4-IO-POE-BOX-B
 description: PoE Mini-Computer (Type B) Based on Raspberry Pi Compute Module 4 (NOT
   Included), Metal Case, With Cooling Fan
+status: ''
 extra:
   Multi Options: ''
   Price: $66.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-io-poe-box-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/cm4-io-poe-box-b.htm
-  repositories: []
-name: CM4-IO-POE-BOX-B
-ref: waveshare/cm4-io-poe-box-b
-release_date: null
-sku: cm4-io-poe-box-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-io-poe-box-b-1.jpg

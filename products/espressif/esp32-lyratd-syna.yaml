@@ -1,10 +1,14 @@
-alternatives: []
-certifications: []
+id: esp32-lyratd-syna
+ref: espressif/esp32-lyratd-syna
+vendor: espressif
+sku: esp32-lyratd-syna
+name: ESP32-LyraTD-SYNA
 description: "ESP32-LyraTD-SYNA is one of Espressif\u2019s Audio Development Board\
   \ based on ESP32 MCU and Synaptics DSP. It is an Acoustic Echo Cancelation (AEC)\
   \ solution, supporting voice recognition and voice wake-up. It also supports connection\
   \ to Amazon\u2019s AVS (Alexa Voice Service), Google\\'s Dialog\uFB02ow and Google\\\
   's GVA (Google Voice Assistant)."
+status: ''
 extra:
   ADC: ''
   Flash: 16 MB
@@ -14,17 +18,6 @@ extra:
   PSRAM: 8 MB
   UART: ''
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/ESP32-LyraTD-SYNA_User_Guide__EN.pdf
-  repositories: []
-name: ESP32-LyraTD-SYNA
-ref: espressif/esp32-lyratd-syna
-release_date: null
-sku: esp32-lyratd-syna
-spec: null
-status: ''
-vendor: espressif
+  images: []

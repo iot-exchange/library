@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: rpi-relay-board-b
+ref: waveshare/rpi-relay-board-b
+vendor: waveshare
+sku: rpi-relay-board-b
+name: RPi Relay Board (B)
 description: Raspberry Pi 8-ch Relay Expansion Board
+status: ''
 extra:
   SKU: '15423'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/rpi-relay-board-b.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rpi-relay-board-b-4.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rpi-relay-board-b-5.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/rpi-relay-board-b.htm
-  repositories: []
-name: RPi Relay Board (B)
-ref: waveshare/rpi-relay-board-b
-release_date: null
-sku: rpi-relay-board-b
-spec: null
-status: ''
-vendor: waveshare

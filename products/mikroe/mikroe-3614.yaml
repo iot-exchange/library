@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-3614
+ref: mikroe/mikroe-3614
+vendor: mikroe
+sku: mikroe-3614
+name: MIKROE-3614
 description: 'EasyPIC v8 is packed in the protective box along with the relevant documentation.
   The package contains: Damage resistant protective box EasyPIC v8 board Adapter -
   USB-C Female to USB-A Male Adapter - USB Micro Female to USB-C Male USB cable Board
   Schematic User Manual CODEGRIP Suite Quick Start Guide MCU PIC18F47K42 and 8MHz.'
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products: []
   images:
   - https://www.mikroe.com/img/ac
-  models: []
-  products: []
-  repositories: []
-name: MIKROE-3614
-ref: mikroe/mikroe-3614
-release_date: null
-sku: mikroe-3614
-spec: null
-status: ''
-vendor: mikroe

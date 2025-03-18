@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: ic51-1764-1505-5
+ref: waveshare/ic51-1764-1505-5
+vendor: waveshare
+sku: ic51-1764-1505-5
+name: IC51-1764-1505-5
 description: Test & Burn-in Socket
+status: ''
 extra:
-  Price: $156.99 - $159.99
   Price Range: $156.99 - $159.99
   SKU: '6733'
+  Price: $156.99 - $159.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ic51-1444-1354-7_l_1_5.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ic51-1764-1505-5_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ic51-1444-1354-7.htm
   - https://www.waveshare.com/product/ic51-1764-1505-5.htm
-  repositories: []
-name: IC51-1764-1505-5
-ref: waveshare/ic51-1764-1505-5
-release_date: null
-sku: ic51-1764-1505-5
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ic51-1444-1354-7_l_1_5.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ic51-1764-1505-5_l_1_5.jpg

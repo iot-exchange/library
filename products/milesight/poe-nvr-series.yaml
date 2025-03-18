@@ -1,0 +1,12 @@
+id: poe-nvr-series
+ref: milesight/poe-nvr-series
+vendor: milesight
+sku: poe-nvr-series
+name: PoE NVR Series
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/security/product/poe-nvr-series
+  images: []

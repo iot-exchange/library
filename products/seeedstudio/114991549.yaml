@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '114991549'
+ref: seeedstudio/114991549
+vendor: seeedstudio
+sku: '114991549'
+name: '114991549'
 description: The Flow Deck v2 is an add-on board for the Crazyflie 2.1 drone that
   enables stable indoor flight with optical flow and Tof sensors. It offers accurate
   and responsive control up to 4m, making it a powerful tool for researchers, developers,
   and drone enthusiasts.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/f/l/flow_deck_v2_1200px-1_1024x1024.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Crazyflie-Flow-v2-deck-p-2936.html
-  repositories: []
-name: '114991549'
-ref: seeedstudio/114991549
-release_date: null
-sku: '114991549'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/f/l/flow_deck_v2_1200px-1_1024x1024.jpg

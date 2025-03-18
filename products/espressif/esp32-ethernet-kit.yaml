@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: esp32-ethernet-kit
+ref: espressif/esp32-ethernet-kit
+vendor: espressif
+sku: esp32-ethernet-kit
+name: ESP32-Ethernet-Kit
 description: ESP32-Ethernet-Kit is an ESP32-based development board produced by Espressif.
   It consists of two development boards, the Ethernet board A and the PoE board B.
+status: ''
 extra:
   Flash: 4 MB
   PSRAM: 8 MB
   RMII: ''
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-ethernet-kit.html
-  repositories: []
-name: ESP32-Ethernet-Kit
-ref: espressif/esp32-ethernet-kit
-release_date: null
-sku: esp32-ethernet-kit
-spec: null
-status: ''
-vendor: espressif
+  images: []

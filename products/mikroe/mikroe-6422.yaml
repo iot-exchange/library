@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6422
+ref: mikroe/mikroe-6422
+vendor: mikroe
+sku: mikroe-6422
+name: MIKROE-6422
 description: "LR 15 Click is a compact add-on board designed for ultra-low-power long-range\
   \ communication in IoT applications. It is based on the Wio-E5-LE, a LoRaWAN\xAE\
   \ module from Seeed Studio, featuring the STM32WLE5JC SoC and SX126X LoRa\xAE chip\
   \ for high-performance and energy-efficient operation. This board supports LoRa\xAE\
   \ and (G)FSK modulation modes, with adjustable..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/lr-15-click/lr-15-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/lr-15-click
-  repositories: []
-name: MIKROE-6422
-ref: mikroe/mikroe-6422
-release_date: null
-sku: mikroe-6422
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lr-15-click/lr-15-click-home_default-1.jpg?v=100

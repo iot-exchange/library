@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-3725
+ref: mikroe/mikroe-3725
+vendor: mikroe
+sku: mikroe-3725
+name: MIKROE-3725
 description: Feather Click Shield Make learning fun - create embedded toys We are
   introducing our first Feather to mikroBUS adapter board which will allow you to
   quickly make prototypes by combining more than 100 of Adafruit Feather compatible
   base-boards with hundreds of Click boards.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/feather-click-shield/feather-click-shield-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/feather-click-shield "Feather Click Shield"
-  repositories: []
-name: MIKROE-3725
-ref: mikroe/mikroe-3725
-release_date: null
-sku: mikroe-3725
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/feather-click-shield/feather-click-shield-home_default-1.jpg?v=100

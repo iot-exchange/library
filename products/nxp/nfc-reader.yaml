@@ -1,18 +1,11 @@
-alternatives: []
-certifications: []
+id: nfc-reader
+ref: nxp/nfc-reader
+vendor: nxp
+sku: nfc-reader
+name: NFC-READER
 description: "EdgeVerse\u2122 NFC Readers"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: NFC-READER
-ref: nxp/nfc-reader
-release_date: null
-sku: nfc-reader
-spec: null
-status: ''
-vendor: nxp
+  images: []

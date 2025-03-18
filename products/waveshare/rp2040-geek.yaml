@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rp2040-geek
+ref: waveshare/rp2040-geek
+vendor: waveshare
+sku: rp2040-geek
+name: RP2040-GEEK
 description: Waveshare RP2040-GEEK Development Board, Based On RP2040 Microcontroller,
   With 1.14inch 65K Color LCD
+status: ''
 extra:
   Price: $9.31  -  $9.99
   SKU: '25394'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-geek-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rp2040-geek.htm
-  repositories: []
-name: RP2040-GEEK
-ref: waveshare/rp2040-geek
-release_date: null
-sku: rp2040-geek
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-geek-1.jpg

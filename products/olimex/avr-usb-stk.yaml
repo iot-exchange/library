@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: avr-usb-stk
+ref: olimex/avr-usb-stk
+vendor: olimex
+sku: avr-usb-stk
+name: AVR-USB-STK
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/AVR/Development/AVR-USB-STK/images/thumbs/200x150/AVR-USB-STK-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/AVR/Development/AVR-USB-STK/
-  repositories: []
-name: AVR-USB-STK
-ref: olimex/avr-usb-stk
-release_date: null
-sku: avr-usb-stk
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/AVR/Development/AVR-USB-STK/images/thumbs/200x150/AVR-USB-STK-01.jpg

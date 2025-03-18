@@ -1,29 +1,22 @@
-alternatives: []
-certifications: []
+id: '113990976'
+ref: seeedstudio/113990976
+vendor: seeedstudio
+sku: '113990976'
+name: '113990976'
 description: The EMC3090 Wi-Fi modules are mainly used for IoT data communication.
   This modules are used in a wide range of IoT applications through a variety of different
   form factors, interface types, antenna interfaces and temperature range.
+status: ''
 extra:
+  price: $2.70
   antenna interfaces: variety of different
   application: IoT data communication
   form factors: variety of different
   interface types: variety of different
-  price: $2.70
   temperature range: variety of different
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/EMW3090V2-WI-FI-Module-p-5017.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/e/m/emc3080-p_preview-07.png
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/e/m/emm3090v2-p_preview-07.png
-  models: []
-  products:
-  - https://www.seeedstudio.com/EMW3090V2-WI-FI-Module-p-5017.html
-  repositories: []
-name: '113990976'
-ref: seeedstudio/113990976
-release_date: null
-sku: '113990976'
-spec: null
-status: ''
-vendor: seeedstudio

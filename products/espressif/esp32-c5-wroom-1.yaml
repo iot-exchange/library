@@ -1,8 +1,12 @@
-alternatives: []
-certifications: []
+id: esp32-c5-wroom-1
+ref: espressif/esp32-c5-wroom-1
+vendor: espressif
+sku: esp32-c5-wroom-1
+name: ESP32-C5-WROOM-1
 description: "A general-purpose 2.4 and 5 GHz dual-band Wi-Fi 6 (802.11ax), Bluetooth\xAE\
   \ 5 (LE), Zigbee, and Thread (802.15.4) module, ideal for smart homes, industrial\
   \ automation, health care, consumer electronics, etc."
+status: ''
 extra:
   Antenna: N/A
   Chip Embedded: ESP32-C5NR4, ESP32-C5NF4
@@ -12,18 +16,7 @@ extra:
   PSRAM (MB): '4'
   Pins: '29'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP32-C5-WROOM-1_S_0.png
-  models: []
   products:
   - https://products.espressif.com/#/product-selector?language=en
-  repositories: []
-name: ESP32-C5-WROOM-1
-ref: espressif/esp32-c5-wroom-1
-release_date: null
-sku: esp32-c5-wroom-1
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-C5-WROOM-1_S_0.png

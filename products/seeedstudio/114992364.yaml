@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '114992364'
+ref: seeedstudio/114992364
+vendor: seeedstudio
+sku: '114992364'
+name: '114992364'
 description: Raspberry Pi Compute Module 4/5 Antenna Kit This Antenna Kit is certified
   for use with the Raspberry Pi Compute Module 4/5. If a different antenna is used,
   then separate certification will be required, and this must be arranged by the end-product
   design engineer.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992364_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Compute-Module-CM4-Antenna-kit-p-4717.html
-  repositories: []
-name: '114992364'
-ref: seeedstudio/114992364
-release_date: null
-sku: '114992364'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992364_1.jpg

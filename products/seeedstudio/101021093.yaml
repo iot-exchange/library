@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '101021093'
+ref: seeedstudio/101021093
+vendor: seeedstudio
+sku: '101021093'
+name: '101021093'
 description: Grove - NFC (ST25DV64), ST25DV64K Chip, Versatile NFC/RFID tag board,
   3.3V/5V power supply
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-voc-and-eco2-gas-sensor_sgp41_-v1.0-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Grove-NFC-ST25DV64KC-p-5688.html
-  repositories: []
-name: '101021093'
-ref: seeedstudio/101021093
-release_date: null
-sku: '101021093'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-voc-and-eco2-gas-sensor_sgp41_-v1.0-45font.jpg

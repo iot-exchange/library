@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '104990762'
+ref: seeedstudio/104990762
+vendor: seeedstudio
+sku: '104990762'
+name: '104990762'
 description: WT32-SC01 Plus is a development board for visual touch screen, the board
   is equipped with GUI platform firmware developed independently, supports graphic
   drag and drop programming to help users complete the development of customized control
   platform. It is ideal for implementing smart home.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/WT32-3-5-Inch-Display-p-5542.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101991032-grove-ac-voltage-sensor-45-font.jpg
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-1049907621-wt32-3.5-inch-display-45font.jpg
-  models: []
-  products:
-  - https://www.seeedstudio.com/WT32-3-5-Inch-Display-p-5542.html
-  repositories: []
-name: '104990762'
-ref: seeedstudio/104990762
-release_date: null
-sku: '104990762'
-spec: null
-status: ''
-vendor: seeedstudio

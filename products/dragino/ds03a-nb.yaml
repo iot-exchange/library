@@ -1,29 +1,22 @@
-alternatives: []
-certifications: []
+id: ds03a-nb
+ref: dragino/ds03a-nb
+vendor: dragino
+sku: ds03a-nb
+name: DS03A-NB
 description: NB-IoT Open/Close Door Sensor
+status: ''
 extra:
   Battery: 8500mAh for long term use
-  Door open/close detect: open alarm
-  Door open/close statistics: ''
   Function: Door open/close detect, open alarm, statistics
-  Multiply Sampling and one uplink: ''
   NB-IoT Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85 @H-FDD
   Power Consumption: Ultra-low
+  Door open/close detect: open alarm
+  Door open/close statistics: ''
+  Multiply Sampling and one uplink: ''
   Support BLE remote configure and update firmware: ''
   Ultra-low power consumption: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/79e08f32fa8a036f84441baab7b7a7ff_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lorawan-nb-iot-door-sensor-water-leak/item/304-ds03a-nb.html
-  repositories: []
-name: DS03A-NB
-ref: dragino/ds03a-nb
-release_date: null
-sku: ds03a-nb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/79e08f32fa8a036f84441baab7b7a7ff_L.jpg

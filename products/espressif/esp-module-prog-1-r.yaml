@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: esp-module-prog-1-r
+ref: espressif/esp-module-prog-1-r
+vendor: espressif
+sku: esp-module-prog-1-r
+name: ESP-Module-Prog-1(R)
 description: ESP-Module-Prog-1(R) is an Espressif flashing mainboard designed specifically
   for Espressif modules. It can be used to flash modules without soldering the module
   to the power supply and signal lines.
+status: ''
 extra:
   Compatibility: ESP32-WROOM-32E, ESP32-WROOM-32UE, ESP32-S2-SOLO, ESP32-S2-SOLO-U,
     ESP32-S2-SOLO-2, ESP32-S2-SOLO-2U, ESP32-S3-WROOM-1, ESP32-S3-WROOM-1U, ESP32-S3-WROOM-2,
     ESP32-C6-WROOM-1, ESP32-C6-WROOM-1U, ESP32-WROVER-E, ESP32-WROVER-IE
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/styles/medium/public/esp-module-prog-11_1.png?itok=0z39eXZW
-  models: []
   products:
   - https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/other/esp-module-prog-1-r/user_guide.html
-  repositories: []
-name: ESP-Module-Prog-1(R)
-ref: espressif/esp-module-prog-1-r
-release_date: null
-sku: esp-module-prog-1-r
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/styles/medium/public/esp-module-prog-11_1.png?itok=0z39eXZW

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: wfm200s
+ref: silicon-labs/wfm200s
+vendor: silicon-labs
+sku: wfm200s
+name: WFM200S
 description: The SLEXP8023C WFM200S Wi-Fi Expansion kit + Raspberry Pi includes a
   built-in Raspberry Pi Connector to get started immediately with Linux development
   and an EXP Connector to enable development on Silicon Labs' MCUs and Wireless MCUs.
+status: ''
 extra:
   MSRP: $99.00
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/wi-fi/wfm200-wifi-expansion-kit-with-raspberry-pi
-  repositories: []
-name: WFM200S
-ref: silicon-labs/wfm200s
-release_date: null
-sku: wfm200s
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: bb-black-beaglebone-black
+ref: waveshare/bb-black-beaglebone-black
+vendor: waveshare
+sku: bb-black-beaglebone-black
+name: BB Black (BeagleBone Black)
 description: $70.95  -  $72.99
+status: ''
 extra:
   SKU: '8103'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/b/bb-black_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/bb-black.htm
-  repositories: []
-name: BB Black (BeagleBone Black)
-ref: waveshare/bb-black-beaglebone-black
-release_date: null
-sku: bb-black-beaglebone-black
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/b/bb-black_l_1_5.jpg

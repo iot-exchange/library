@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-rtc-battery
+ref: raspberrypi/raspberry-pi-rtc-battery
+vendor: raspberrypi
+sku: raspberry-pi-rtc-battery
+name: Raspberry Pi RTC Battery
 description: ML2020 manganese rechargeable lithium battery to power Raspberry Pi 5's
   real-time clock
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.raspberrypi.com/products/rtc-battery/
-  repositories: []
-name: Raspberry Pi RTC Battery
-ref: raspberrypi/raspberry-pi-rtc-battery
-release_date: null
-sku: raspberry-pi-rtc-battery
-spec: null
-status: ''
-vendor: raspberrypi
+  images: []

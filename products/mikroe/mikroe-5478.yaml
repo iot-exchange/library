@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5478
+ref: mikroe/mikroe-5478
+vendor: mikroe
+sku: mikroe-5478
+name: MIKROE-5478
 description: "Brushless 24 Click is a compact add-on board for controlling brushless\
   \ DC (BLDC) motors with any MCU. This board features the DRV10866, a 3-phase sensorless\
   \ motor driver from Texas Instruments with integrated MOSFETs capable of driving\
   \ current up to 800mA in peak. The DRV10866 also has a 150\xB0 sensorless BEMF control\
   \ scheme implemented for a 3-phase..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/brushless-24-click/brushless-24-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/brushless-24-click
-  repositories: []
-name: MIKROE-5478
-ref: mikroe/mikroe-5478
-release_date: null
-sku: mikroe-5478
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/brushless-24-click/brushless-24-click-home_default-1.jpg?v=100

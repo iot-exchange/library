@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: ldds45
+ref: dragino/ldds45
+vendor: dragino
+sku: ldds45
+name: LDDS45
 description: "LoRaWAN Distance Detection Sensor Bands:EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915\
   \ Ultra Low Power Consumption Ultrasonic sensing\uFF0CDistance: 30-4500 mm Accuracy:\
   \ \xB1(1cm+S*0.3%) (S: Distance) Measure Angle: 60\xB0"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/47b9371a5ec847a6416d19e09506ac86_L.jpg
-  models: []
   products:
   - https://dragino.com/products/distance-level-sensor/item/191-ldds45.html
-  repositories: []
-name: LDDS45
-ref: dragino/ldds45
-release_date: null
-sku: ldds45
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/47b9371a5ec847a6416d19e09506ac86_L.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4353
+ref: mikroe/mikroe-4353
+vendor: mikroe
+sku: mikroe-4353
+name: MIKROE-4353
 description: "VCT Monitor Click is a compact add-on board that contains a highly integrated\
   \ monitoring solution without compromising accuracy. This board features the LTC2990,\
   \ an I2C configurable high-performance temperature, voltage, and current monitor\
   \ from Analog Devices. The LTC2990 incorporates a 14-bit ADC and a 10ppm/\xB0C voltage\
   \ reference to provide sub-millivolt..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/vct-monitor-click/vct-monitor-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/vct-monitor-click
-  repositories: []
-name: MIKROE-4353
-ref: mikroe/mikroe-4353
-release_date: null
-sku: mikroe-4353
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/vct-monitor-click/vct-monitor-click-home_default-1.jpg?v=100

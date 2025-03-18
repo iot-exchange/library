@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: sim7600g-h-dtu
+ref: waveshare/sim7600g-h-dtu
+vendor: waveshare
+sku: sim7600g-h-dtu
+name: sim7600g_h_dtu
 description: Industrial Grade SIM7600G-H 4G DTU, USB UART/RS232/RS485 Multi Interfaces
   Communication, LTE Global Band Support
+status: ''
 extra:
   multiOptions: Multi Options
   price: $79.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim7600g-h-4g-dtu-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/sim7600g-h-4g-dtu.htm
-  repositories: []
-name: sim7600g_h_dtu
-ref: waveshare/sim7600g-h-dtu
-release_date: null
-sku: sim7600g-h-dtu
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim7600g-h-4g-dtu-1.jpg

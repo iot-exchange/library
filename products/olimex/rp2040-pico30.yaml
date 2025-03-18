@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rp2040-pico30
+ref: olimex/rp2040-pico30
+vendor: olimex
+sku: rp2040-pico30
+name: RP2040-PICO30
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/RaspberryPi/PICO/RP2040-PICO30/images/thumbs/200x150/RP2040-PICO30U-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/RaspberryPi/PICO/RP2040-PICO30/open-source-hardware
-  repositories: []
-name: RP2040-PICO30
-ref: olimex/rp2040-pico30
-release_date: null
-sku: rp2040-pico30
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/RaspberryPi/PICO/RP2040-PICO30/images/thumbs/200x150/RP2040-PICO30U-1.jpg

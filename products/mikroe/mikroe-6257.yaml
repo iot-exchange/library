@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6257
+ref: mikroe/mikroe-6257
+vendor: mikroe
+sku: mikroe-6257
+name: MIKROE-6257
 description: "PWR Meter 3 Click - 30A is a compact add-on board that measures voltage\
   \ and current through the connected load. This board features the ACS37800KMACTR-030B3-I2C,\
   \ an I2C-configurable power monitoring solution from Allegro Microsystems, which\
   \ simplifies the addition of power monitoring to many AC/DC powered systems. The\
   \ ACS37800KMACLU-030B3-I2C\u2019s..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/pwr-meter-3-click-30a/pwr-meter-3-click-30a-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/pwr-meter-3-click-30a
-  repositories: []
-name: MIKROE-6257
-ref: mikroe/mikroe-6257
-release_date: null
-sku: mikroe-6257
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/pwr-meter-3-click-30a/pwr-meter-3-click-30a-home_default-1.jpg?v=100

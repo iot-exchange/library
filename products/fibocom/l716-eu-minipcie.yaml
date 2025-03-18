@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: l716-eu-minipcie
+ref: fibocom/l716-eu-minipcie
+vendor: fibocom
+sku: l716-eu-minipcie
+name: L716-EU-MiniPCIe
 description: ''
+status: ''
 extra:
   Bands: 'LTE: B1/3/5/7/8/20/28/8/40/41'
   Form Factor: MiniPCIe
   Region: Europe
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTECat-L716-EU-MiniPCIe.html
-  repositories: []
-name: L716-EU-MiniPCIe
-ref: fibocom/l716-eu-minipcie
-release_date: null
-sku: l716-eu-minipcie
-spec: null
-status: ''
-vendor: fibocom
+  images: []

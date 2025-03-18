@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: high-precision-ad-hat
+ref: waveshare/high-precision-ad-hat
+vendor: waveshare
+sku: high-precision-ad-hat
+name: High-Precision AD HAT
 description: High-Precision AD HAT For Raspberry Pi, ADS1263 10-Ch 32-Bit ADC
+status: ''
 extra:
   Price: $32.95 - $34.99
   SKU: '18983'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/h/i/high-precision-ad-hat-1.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi400-gpio-adapter-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/18983.htm
   - https://www.waveshare.com/product/pi400-gpio-adapter-b.htm
-  repositories: []
-name: High-Precision AD HAT
-ref: waveshare/high-precision-ad-hat
-release_date: null
-sku: high-precision-ad-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/h/i/high-precision-ad-hat-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi400-gpio-adapter-b-1.jpg

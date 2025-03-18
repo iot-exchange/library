@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: bme280-environmental-sensor
+ref: waveshare/bme280-environmental-sensor
+vendor: waveshare
+sku: bme280-environmental-sensor
+name: BME280 Environmental Sensor
 description: BME280 Environmental Sensor, Temperature, Humidity, Barometric Pressure
+status: ''
 extra:
   Price: $7.97 - $8.99
   SKU: '15231'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/bme280-environmental-sensor.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/m/bme280-environmental-sensor-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/m/bme280-environmental-sensor-3.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/bme280-environmental-sensor.htm
-  repositories: []
-name: BME280 Environmental Sensor
-ref: waveshare/bme280-environmental-sensor
-release_date: null
-sku: bme280-environmental-sensor
-spec: null
-status: ''
-vendor: waveshare

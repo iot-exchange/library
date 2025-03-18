@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: arduino-nano
+ref: arduino/arduino-nano
+vendor: arduino
+sku: arduino-nano
+name: Arduino Nano
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.arduino.cc/wiki/static/3dbf51a969cfdb2e998fff260563f1db/4b190/nano.jpg
-  models: []
   products:
   - https://store.arduino.cc/products/arduino-nano
-  repositories: []
-name: Arduino Nano
-ref: arduino/arduino-nano
-release_date: null
-sku: arduino-nano
-spec: null
-status: ''
-vendor: arduino
+  images:
+  - https://www.arduino.cc/wiki/static/3dbf51a969cfdb2e998fff260563f1db/4b190/nano.jpg

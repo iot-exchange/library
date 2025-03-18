@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: x2l
+ref: radxa/x2l
+vendor: radxa
+sku: x2l
+name: X2L
 description: An SBC with an Intel J4125 combined with the RP2040
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/x/x2l/thumb_x2l.webp
-  models: []
   products:
   - https://radxa.com/products/x/x2l
-  repositories: []
-name: X2L
-ref: radxa/x2l
-release_date: null
-sku: x2l
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/x/x2l/thumb_x2l.webp

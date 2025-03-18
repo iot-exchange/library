@@ -1,10 +1,17 @@
-alternatives: []
-certifications: []
+id: nrf9160
+ref: nordicsemi/nrf9160
+vendor: nordicsemi
+sku: nrf9160
+name: nRF9160
 description: Low power SiP for cellular IoT Multimode LTE-M/NB-IoT modem with GNSS
   700-2200 MHz LTE band support Certified for global operation Dedicated application
   processor and memory 64 MHz Arm Cortex-M33 1 MB flash + 256 KB RAM Arm TrustZone
   + Arm CryptoCell
+status: ''
 extra:
+  Memory: 1 MB flash + 256 KB RAM
+  Modem: LTE-M/NB-IoT
+  Processor: 64 MHz Arm Cortex-M33
   Arm Trustzone: "\u2714\uFE0F"
   CPU: Arm Cortex-M33 @ 64MHz
   Certified Bands: 1-5, 8, 12, 13, 17-20, 25, 26, 28, 66
@@ -15,28 +22,14 @@ extra:
   Integrated PMIC, passives & Xtral: "\u2714\uFE0F"
   LTE-M: 3GPP rel 13
   Maximum TX Power: 23 dBm
-  Memory: 1 MB flash + 256 KB RAM
-  Modem: LTE-M/NB-IoT
   NB-IoT: 3GPP rel 13
   Operating temperature: "-40 to 85\xB0C"
   Package options: 10x16x1.04 mm LGA
   Power Class 5 20dBm: "\u2714\uFE0F"
   Pre-certified: "\u2714\uFE0F"
-  Processor: 64 MHz Arm Cortex-M33
   Supply Voltage Range: 3.0 to 5.5 V
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.nordicsemi.com/-/media/Images/Products/SiP/nRF9160-SiP/nRF9160-SiP-rev2-1016-front.png?h=250&iar=0&mh=250&w=382&hash=D70F3088259A7FE96AA8F63696342B52
-  models: []
   products:
   - https://www.nordicsemi.com/Products/nRF9160
-  repositories: []
-name: nRF9160
-ref: nordicsemi/nrf9160
-release_date: null
-sku: nrf9160
-spec: null
-status: ''
-vendor: nordicsemi
+  images:
+  - https://www.nordicsemi.com/-/media/Images/Products/SiP/nRF9160-SiP/nRF9160-SiP-rev2-1016-front.png?h=250&iar=0&mh=250&w=382&hash=D70F3088259A7FE96AA8F63696342B52

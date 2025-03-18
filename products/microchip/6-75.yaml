@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 6-75
+ref: microchip/6-75
+vendor: microchip
+sku: 6-75
+name: '6.75'
 description: Bluetooth LE, Zigbee, Thread, Proprietary
+status: ''
 extra:
   Bluetooth: '5.2'
   Certifications: FCC, ISED, CE, UKCA, SRRC, MIC, NC, KC
@@ -16,16 +20,5 @@ extra:
   Type: Module
   Version: '3.0'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: '6.75'
-ref: microchip/6-75
-release_date: null
-sku: 6-75
-spec: null
-status: ''
-vendor: microchip
+  images: []

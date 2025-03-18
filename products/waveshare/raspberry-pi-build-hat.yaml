@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-build-hat
+ref: waveshare/raspberry-pi-build-hat
+vendor: waveshare
+sku: raspberry-pi-build-hat
+name: Raspberry Pi Build HAT
 description: Raspberry Pi Build HAT, Connecting Raspberry Pi with LEGO
+status: ''
 extra:
   Price: $29.31 - $29.99
   SKU: '21236'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-build-hat-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/raspberry-pi-build-hat.htm
-  repositories: []
-name: Raspberry Pi Build HAT
-ref: waveshare/raspberry-pi-build-hat
-release_date: null
-sku: raspberry-pi-build-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-build-hat-1.jpg

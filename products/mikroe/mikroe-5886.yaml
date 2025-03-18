@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5886
+ref: mikroe/mikroe-5886
+vendor: mikroe
+sku: mikroe-5886
+name: MIKROE-5886
 description: "Brushless 13 Click is a compact add-on board that controls brushless\
   \ DC motors with any MCU. This board features the STSPIN830, a compact and versatile\
   \ three-phase and three-sense motor driver from STMicroelectronics. The driver integrates\
   \ both the control logic and a fully protected low RDson triple half-bridge power\
   \ stage. On this Click board\u2122, the..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/brushless-13-click/brushless-13-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/brushless-13-click
-  repositories: []
-name: MIKROE-5886
-ref: mikroe/mikroe-5886
-release_date: null
-sku: mikroe-5886
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/brushless-13-click/brushless-13-click-home_default-1.jpg?v=100

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: screw-t-40-8x25
+ref: olimex/screw-t-40-8x25
+vendor: olimex
+sku: screw-t-40-8x25
+name: SCREW-T-40-8X25
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Fasteners/SCREW-T-30-8X25/images/thumbs/200x150/Tnut.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Fasteners/SCREW-T-40-8X25/
-  repositories: []
-name: SCREW-T-40-8X25
-ref: olimex/screw-t-40-8x25
-release_date: null
-sku: screw-t-40-8x25
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Fasteners/SCREW-T-30-8X25/images/thumbs/200x150/Tnut.jpg

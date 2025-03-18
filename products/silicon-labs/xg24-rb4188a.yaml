@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: xg24-rb4188a
+ref: silicon-labs/xg24-rb4188a
+vendor: silicon-labs
+sku: xg24-rb4188a
+name: XG24-RB4188A
 description: EFR32xG24 Wireless 2.4 GHz +20 dBm Antenna Diversity Radio Board
+status: ''
 extra:
   MSRP: $49.00
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/xg24-rb4188a-efr32xg24-wireless-gecko-radio-board
-  repositories: []
-name: XG24-RB4188A
-ref: silicon-labs/xg24-rb4188a
-release_date: null
-sku: xg24-rb4188a
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

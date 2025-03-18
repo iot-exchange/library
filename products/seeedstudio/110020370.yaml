@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '110020370'
+ref: seeedstudio/110020370
+vendor: seeedstudio
+sku: '110020370'
+name: '110020370'
 description: "Grove - ORP Sensor Kit (HR-O) is a Grove sensor that measures the ORP\
   \ value, detecting the quality of the liquid. It works with a 5-meter IP68 ORP probe,\
   \ offering a -2000mV to 2000mV sensing range, operating under 0-80\u2103, supporting\
   \ Arduino programming. The sensor is environmentally friendly and RoHS certificated."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-317060562-mt7628n-a-wifi-module-45font_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Grove-ORP-Sensor-Kit-Pro-p-5570.html
-  repositories: []
-name: '110020370'
-ref: seeedstudio/110020370
-release_date: null
-sku: '110020370'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-317060562-mt7628n-a-wifi-module-45font_1.jpg

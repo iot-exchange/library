@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-5336
+ref: mikroe/mikroe-5336
+vendor: mikroe
+sku: mikroe-5336
+name: MIKROE-5336
 description: "Accel 24 Click is a compact add-on board that contains an acceleration\
   \ sensor. This board features the MXC6655XA, a 12-bit three-axis accelerometer from\
   \ MEMSIC. It allows selectable full-scale acceleration measurements in ranges of\
   \ \xB12g, \xB14g, or \xB18g in three axes with a compatible I2C serial interface\
   \ with 400kHz fast mode operation. Alongside low offset..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/accel-24-click/accel-24-click-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/dram-click/dram-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/accel-24-click
   - https://www.mikroe.com/accel-24-click "Accel 24 Click"
-  repositories: []
-name: MIKROE-5336
-ref: mikroe/mikroe-5336
-release_date: null
-sku: mikroe-5336
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/accel-24-click/accel-24-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/dram-click/dram-click-home_default-1.jpg?v=100

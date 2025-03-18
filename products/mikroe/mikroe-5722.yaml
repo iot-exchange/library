@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5722
+ref: mikroe/mikroe-5722
+vendor: mikroe
+sku: mikroe-5722
+name: MIKROE-5722
 description: Toslink Optical Cable (1.5m) is a top-of-the-line fiber optic audio cable
   designed for use with a wide range of digital audio components. It uses a 1mm low-loss
   core, low-jitter synthetic fiber, and heavy metal connectors to deliver the cleanest
   possible signal, while its gold-plated ferrule and precision-polished fiber tips
   ensure maximum signal...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/toslink-optical-cable-15m/toslink-optical-cable-15m-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/toslink-optical-cable-15m
-  repositories: []
-name: MIKROE-5722
-ref: mikroe/mikroe-5722
-release_date: null
-sku: mikroe-5722
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/toslink-optical-cable-15m/toslink-optical-cable-15m-home_default-1.jpg?v=100

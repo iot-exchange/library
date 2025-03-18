@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: rock-4b
+ref: radxa/rock-4b
+vendor: radxa
+sku: rock-4b
+name: ROCK 4B+
 description: An Upgraded ROCK 4A+ SBC with WiFi5 & BT5 and PoE Support
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/rock4/rock4b+/thumb_rock4b+.webp
-  - https://radxa.com/rock4/rock4b/thumb_rock4b.webp
-  models: []
   products:
   - https://radxa.com/products/rock4/4b
   - https://radxa.com/products/rock4/4bp
-  repositories: []
-name: ROCK 4B+
-ref: radxa/rock-4b
-release_date: null
-sku: rock-4b
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/rock4/rock4b+/thumb_rock4b+.webp
+  - https://radxa.com/rock4/rock4b/thumb_rock4b.webp

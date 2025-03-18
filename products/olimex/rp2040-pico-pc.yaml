@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rp2040-pico-pc
+ref: olimex/rp2040-pico-pc
+vendor: olimex
+sku: rp2040-pico-pc
+name: RP2040-PICO-PC
 description: ''
+status: ''
 extra:
   price1: 12.00 EUR
   price2: 11.40 EUR
   price3: 10.80 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/RaspberryPi/PICO/RP2040-PICO-PC/images/thumbs/200x150/RP2040-PICO-PC.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/RaspberryPi/PICO/RP2040-PICO-PC/open-source-hardware
-  repositories: []
-name: RP2040-PICO-PC
-ref: olimex/rp2040-pico-pc
-release_date: null
-sku: rp2040-pico-pc
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/RaspberryPi/PICO/RP2040-PICO-PC/images/thumbs/200x150/RP2040-PICO-PC.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '102010388'
+ref: seeedstudio/102010388
+vendor: seeedstudio
+sku: '102010388'
+name: '102010388'
 description: XIAO SAMD21 with pre-soldered header, powered by Microchip SAMD21G18
   chip is an ultra-small, high-performance universal development board, the pioneering
   product of the XIAO series. It supports Arduino / Micropython / CircuitPython development,
   which is the perfect microcontroller for you to get started with electronics.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-103030375-arduino-sensor-kit---base-first.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Seeeduino-XIAO-Pre-Soldered-p-4747.html
-  repositories: []
-name: '102010388'
-ref: seeedstudio/102010388
-release_date: null
-sku: '102010388'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-103030375-arduino-sensor-kit---base-first.jpg

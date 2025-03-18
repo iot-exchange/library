@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: c42gm
+ref: cavli-wireless/c42gm
+vendor: cavli-wireless
+sku: c42gm
+name: C42GM
 description: LPWALTE-M1NB2/NB1 3GPP Release 14
+status: ''
 extra:
   Cellular Bands Supported: 'M1 bands: B1/ B2/ B3/ B4/ B5/ B6/ B8/B10/B12/ B13/ B14/
     B15/ B16/ B17/ B18/ B19/ B20/ B24/ B25/B26/ B27/ B28/ B39/ B54/ B65/B66/ B68/
@@ -15,18 +19,7 @@ extra:
     Applicable regions - (GLOBAL)
   OS: Zephyr RTOS
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.cavliwireless.com/assets/images/modules/c-series/webp-img/C42GM.webp
-  models: []
   products:
   - https://www.cavliwireless.com/c-series/c42gm.html
-  repositories: []
-name: C42GM
-ref: cavli-wireless/c42gm
-release_date: null
-sku: c42gm
-spec: null
-status: ''
-vendor: cavli-wireless
+  images:
+  - https://www.cavliwireless.com/assets/images/modules/c-series/webp-img/C42GM.webp

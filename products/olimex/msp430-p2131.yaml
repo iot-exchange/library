@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: msp430-p2131
+ref: olimex/msp430-p2131
+vendor: olimex
+sku: msp430-p2131
+name: MSP430-P2131
 description: ''
+status: ''
 extra:
   price1: 5.95 EUR
   price2: 5.36 EUR
   price3: 4.76 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/MSP430/Proto/MSP430-P2131/images/thumbs/200x150/MSP430-P2131.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/MSP430/Proto/MSP430-P2131/
-  repositories: []
-name: MSP430-P2131
-ref: olimex/msp430-p2131
-release_date: null
-sku: msp430-p2131
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/MSP430/Proto/MSP430-P2131/images/thumbs/200x150/MSP430-P2131.jpg

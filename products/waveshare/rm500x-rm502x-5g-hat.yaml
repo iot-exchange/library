@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: rm500x-rm502x-5g-hat
+ref: waveshare/rm500x-rm502x-5g-hat
+vendor: waveshare
+sku: rm500x-rm502x-5g-hat
+name: rm500x_rm502x_5g_hat
 description: RM500x / RM502x 5G HAT for Raspberry Pi, quad antennas LTE-A, multi band,
   5G/4G/3G
+status: ''
 extra:
   Multi Options: ''
   Price: $7.99 -  $381.99
   multiOptions: Multi Options
   price: $7.99 -  $381.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/m/rm500u-cn-5g-hat-1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rm500u-cn-5g-hat.htm
-  repositories: []
-name: rm500x_rm502x_5g_hat
-ref: waveshare/rm500x-rm502x-5g-hat
-release_date: null
-sku: rm500x-rm502x-5g-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/m/rm500u-cn-5g-hat-1_5.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5583
+ref: mikroe/mikroe-5583
+vendor: mikroe
+sku: mikroe-5583
+name: MIKROE-5583
 description: "LED Driver 15 Click is a compact add-on board that simplifies the control\
   \ of multiple LEDs. This board features the MP3309C, a fully integrated synchronous\
   \ boost white LED driver with an I2C interface from Monolithic Power Systems. The\
   \ MP3309C offers high efficiency, delivers up to 40mA of LED current, and operates\
   \ from a voltage of mikroBUS\u2122 power rails,..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/accel-30-click/accel-30-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/led-driver-15-click
-  repositories: []
-name: MIKROE-5583
-ref: mikroe/mikroe-5583
-release_date: null
-sku: mikroe-5583
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/accel-30-click/accel-30-click-home_default-1.jpg?v=100

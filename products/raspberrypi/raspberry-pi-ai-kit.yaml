@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-ai-kit
+ref: raspberrypi/raspberry-pi-ai-kit
+vendor: raspberrypi
+sku: raspberry-pi-ai-kit
+name: Raspberry Pi AI Kit
 description: A kit containing a Hailo AI module pre-installed on the M.2 HAT+
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/b707e971611c4b204c24f05e938bcf7d/3f4ea/ZlcINKWtHYXtT40E_AIKITonPi5.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/ai-kit/
-  repositories: []
-name: Raspberry Pi AI Kit
-ref: raspberrypi/raspberry-pi-ai-kit
-release_date: null
-sku: raspberry-pi-ai-kit
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/b707e971611c4b204c24f05e938bcf7d/3f4ea/ZlcINKWtHYXtT40E_AIKITonPi5.jpg

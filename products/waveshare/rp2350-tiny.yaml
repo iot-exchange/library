@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: rp2350-tiny
+ref: waveshare/rp2350-tiny
+vendor: waveshare
+sku: rp2350-tiny
+name: RP2350-Tiny
 description: Waveshare RP2350-Tiny Development Board, Raspberry Pi Microcontroller
   Development Board, Based On RP2350A Dual-core & Dual-architecture Microcontroller
+status: ''
 extra:
   Multi Options: ''
   Price: $4.99 - $5.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/rp2350-tiny.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2350-tiny-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2350-tiny-2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/rp2350-tiny.htm
-  repositories: []
-name: RP2350-Tiny
-ref: waveshare/rp2350-tiny
-release_date: null
-sku: rp2350-tiny
-spec: null
-status: ''
-vendor: waveshare

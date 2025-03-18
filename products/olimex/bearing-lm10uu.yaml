@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bearing-lm10uu
+ref: olimex/bearing-lm10uu
+vendor: olimex
+sku: bearing-lm10uu
+name: BEARING-LM10UU
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-LM10UU/images/thumbs/200x150/lm10uu.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-LM10UU/
-  repositories: []
-name: BEARING-LM10UU
-ref: olimex/bearing-lm10uu
-release_date: null
-sku: bearing-lm10uu
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-LM10UU/images/thumbs/200x150/lm10uu.jpg

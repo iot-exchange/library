@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: heatsink-7012b
+ref: radxa/heatsink-7012b
+vendor: radxa
+sku: heatsink-7012b
+name: Heatsink 7012B
 description: Specialized for Radxa CM3I
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/heatsink/ae009b/thumb_heatsink_7012b.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/heatsink-7012b
-  repositories: []
-name: Heatsink 7012B
-ref: radxa/heatsink-7012b
-release_date: null
-sku: heatsink-7012b
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/heatsink/ae009b/thumb_heatsink_7012b.webp

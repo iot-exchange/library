@@ -1,0 +1,23 @@
+name: Blues Inc.
+description: |
+  We believe every individual has the power to make a positive impact.
+  Our mission is to empower innovation by making connectivity easy— for organizations of all sizes, their customers, 
+  and the environment. Make a difference in the world through the power of information-connected IoT solutions.
+
+  Blues helps businesses and governments worldwide confidently create reliable and innovative connectivity solutions 
+  that deliver measurable value using IoT-driven data intelligence. With Blues, customers can easily send and receive 
+  information to and from any device, anywhere, and at any time, improving business operations while reducing costs. 
+  
+  Our flagship products, Notecard and Notehub, solve the biggest challenges associated with IoT connectivity, 
+  making it easy to securely cloud-connect any physical product.
+links:
+  logo: https://blues.com/wp-content/uploads/2024/08/webcoverdefault.jpg
+  website: https://blues.com
+  linkedin: https://www.linkedin.com/company/buildwithblues/
+  github: https://github.com/blues
+  products:
+    - https://blues.com/products/notecard/
+    - https://blues.com/products/notecarrier/
+    - https://blues.com/wireless-for-plc/
+    - https://blues.com/feather-mcu/
+    - https://blues.com/products/airnote/

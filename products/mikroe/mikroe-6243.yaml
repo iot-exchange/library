@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6243
+ref: mikroe/mikroe-6243
+vendor: mikroe
+sku: mikroe-6243
+name: MIKROE-6243
 description: Proximity 20 Click is a compact add-on board for short-range proximity
   sensing applications up to 200mm. This board features two VCNL36828P proximity sensors
   from Vishay Semiconductor. Key features include a 940nm VCSEL for immunity to a
   red glow, intelligent cancellation technology to minimize crosstalk, and a smart
   persistence scheme for reduced...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/proximity-20-click/proximity-20-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/proximity-20-click
-  repositories: []
-name: MIKROE-6243
-ref: mikroe/mikroe-6243
-release_date: null
-sku: mikroe-6243
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/proximity-20-click/proximity-20-click-home_default-1.jpg?v=100

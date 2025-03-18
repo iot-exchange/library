@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mg-12v-m4x55
+ref: olimex/mg-12v-m4x55
+vendor: olimex
+sku: mg-12v-m4x55
+name: MG-12V-M4X55
 description: ''
+status: ''
 extra:
   discountedPrice1: 7.20 EUR
   discountedPrice2: 6.40 EUR
   price: 8.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/MG-12V-M4X55/images/thumbs/200x150/MG-12V-M4X55.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/MG-12V-M4X55/
-  repositories: []
-name: MG-12V-M4X55
-ref: olimex/mg-12v-m4x55
-release_date: null
-sku: mg-12v-m4x55
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/MG-12V-M4X55/images/thumbs/200x150/MG-12V-M4X55.jpg

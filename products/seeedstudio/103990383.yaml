@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '103990383'
+ref: seeedstudio/103990383
+vendor: seeedstudio
+sku: '103990383'
+name: '103990383'
 description: This is an industrial USB to RS232/485/TTL isolated converter with original
   FT232RL inside
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2018-12bazaar1004130_usbtors232485ttl01.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/USB-TO-RS232--RS485--TTL-Industrial-Isolated-Converter-p-3231.html
-  repositories: []
-name: '103990383'
-ref: seeedstudio/103990383
-release_date: null
-sku: '103990383'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2018-12bazaar1004130_usbtors232485ttl01.jpg

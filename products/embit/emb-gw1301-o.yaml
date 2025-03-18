@@ -1,0 +1,13 @@
+id: emb-gw1301-o
+ref: embit/emb-gw1301-o
+vendor: embit
+sku: emb-gw1301-o
+name: EMB-GW1301-O
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.embit.eu/products/prodotto-1-2/
+  images:
+  - https://www.embit.eu/wp-content/uploads/2020/02/Gateway-1301-modificato-1-300x225.jpg

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: '2608011124010'
+ref: we/2608011124010
+vendor: we
+sku: '2608011124010'
+name: '2608011124010'
 description: Proteus-II with 50 Ohm RF pad
+status: Active
 extra:
   Antenna type: RF pad
   Data rate (kbps): '2000'
@@ -11,17 +15,6 @@ extra:
   Sensitivity: '-96'
   Voltage (V): '1.8'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/PROTEUS-II#2608011124010
-  repositories: []
-name: '2608011124010'
-ref: we/2608011124010
-release_date: null
-sku: '2608011124010'
-spec: null
-status: Active
-vendor: we
+  images: []

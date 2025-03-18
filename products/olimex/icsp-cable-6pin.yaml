@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: icsp-cable-6pin
+ref: olimex/icsp-cable-6pin
+vendor: olimex
+sku: icsp-cable-6pin
+name: ICSP-CABLE-6pin
 description: ''
+status: ''
 extra:
   price1: 1.50 EUR
   price2: 1.35 EUR
   price3: 1.20 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Cables/ICSP-CABLE-6pin/images/thumbs/200x150/ICSP-CABLE-6PIN.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Cables/ICSP-CABLE-6pin/
-  repositories: []
-name: ICSP-CABLE-6pin
-ref: olimex/icsp-cable-6pin
-release_date: null
-sku: icsp-cable-6pin
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Cables/ICSP-CABLE-6pin/images/thumbs/200x150/ICSP-CABLE-6PIN.jpg

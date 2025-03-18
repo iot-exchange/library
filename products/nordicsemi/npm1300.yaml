@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: npm1300
+ref: nordicsemi/npm1300
+vendor: nordicsemi
+sku: npm1300
+name: nPM1300
 description: "Smart wireless stethoscope achieves unmatched battery performance with\
   \ Nordic\u2019s nPM1300"
+status: ''
 extra:
   Additional Features: Access to the Nordic Fuel Gauge
   Applications: nRF52, nRF53, nRF54L, nRF54H Series
@@ -12,21 +16,10 @@ extra:
   efficiency: Highly efficient power regulation
   fuelGauge: Access to Nordic Fuel Gauge for estimating state-of-charge
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.nordicsemi.com/Nordic-news/2025/02/Lapsi-Health-Keikku-employs-Nordic-nRF5340-SoC-and-nPM1300-PMIC
+  - https://www.nordicsemi.com/Products/nPM1300
   images:
   - https://www.nordicsemi.com/-/media/Images/News/2025/Q1/NS_Keikku_promo.png?h=500&iar=0&mh=500&w=558&hash=9580522A05856042BDEFF8346EE3C2F8
   - https://www.nordicsemi.com/-/media/Images/Products/PMICs/nPM1300/nPM1300_QFN32_5x5_stacked_web.png?h=250&iar=0&mh=250&w=252&hash=8971E7386C67A1D4DF7FE3AD1C3A7BCB
   - https://www.nordicsemi.com/-/media/Images/Products/PMICs/nPM1300/nPM1300_QFN32_5x5_stacked_web.png?h=500&iar=0&mh=500&w=503&hash=2C476BDEBCC26845AD9DA1C1139183A1
-  models: []
-  products:
-  - https://www.nordicsemi.com/Nordic-news/2025/02/Lapsi-Health-Keikku-employs-Nordic-nRF5340-SoC-and-nPM1300-PMIC
-  - https://www.nordicsemi.com/Products/nPM1300
-  repositories: []
-name: nPM1300
-ref: nordicsemi/npm1300
-release_date: null
-sku: npm1300
-spec: null
-status: ''
-vendor: nordicsemi

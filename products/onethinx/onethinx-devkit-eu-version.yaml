@@ -1,0 +1,13 @@
+id: onethinx-devkit-eu-version
+ref: onethinx/onethinx-devkit-eu-version
+vendor: onethinx
+sku: onethinx-devkit-eu-version
+name: Onethinx Devkit EU Version
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://shop.onethinx.com/products/onethinx-sample-eu-version
+  images:
+  - https://shop.onethinx.com/cdn/shop/files/2_317eef5d-9080-4c74-89fa-a6182d12ff49.png?v=1727012602&width=533

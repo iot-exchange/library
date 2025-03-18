@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: gps-external-antenna-e
+ref: waveshare/gps-external-antenna-e
+vendor: waveshare
+sku: gps-external-antenna-e
+name: GPS External Antenna (E)
 description: GNSS L1+L2+L5 Multi-GNSS & Multi-Frequency Active Antenna, SMA-J Connector,
   Supports Multi-GNSS Positioning Systems
+status: ''
 extra:
   Price: $46.97 - $47.99
   SKU: '25482'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/gps-external-antenna-e.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/p/gps-external-antenna-d-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/p/gps-external-antenna-e-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/p/gps-external-antenna-e-2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/gps-external-antenna-e.htm
-  repositories: []
-name: GPS External Antenna (E)
-ref: waveshare/gps-external-antenna-e
-release_date: null
-sku: gps-external-antenna-e
-spec: null
-status: ''
-vendor: waveshare

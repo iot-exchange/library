@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '114993111'
+ref: seeedstudio/114993111
+vendor: seeedstudio
+sku: '114993111'
+name: '114993111'
 description: The reTerminal DM Dual DB9 extension offers two extended DB9 connectors
   to reTerminal DM, as it expands dual RS232/422/485 DB9 interface via the CM4 USB
   interface.
+status: ''
 extra:
   Function: Expands dual RS232/422/485 DB9 interface
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993111-reterminal-dm-dual-db9-extension-45font_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/reTerminal-DM-Dual-DB9-extension-p-5808.html
-  repositories: []
-name: '114993111'
-ref: seeedstudio/114993111
-release_date: null
-sku: '114993111'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993111-reterminal-dm-dual-db9-extension-45font_1.jpg

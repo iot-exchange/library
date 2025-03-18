@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '103990703'
+ref: seeedstudio/103990703
+vendor: seeedstudio
+sku: '103990703'
+name: '103990703'
 description: The Raspberry Pi AI HAT+ is an add-on board with a built-in Hailo AI
   accelerator for Raspberry Pi 5. It provides an accessible, cost-effective, and power-efficient
   way to integrate high-performance AI. Explore applications including process control,
   security, home automation, and robotics.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/a/i/ai_hat.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-Al-HAT-26-TOPS-p-6243.html
-  repositories: []
-name: '103990703'
-ref: seeedstudio/103990703
-release_date: null
-sku: '103990703'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/a/i/ai_hat.jpg

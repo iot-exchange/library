@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: le270-eu
+ref: fibocom/le270-eu
+vendor: fibocom
+sku: le270-eu
+name: LE270-EU
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTECat1-LE270-EU.html
-  repositories: []
-name: LE270-EU
-ref: fibocom/le270-eu
-release_date: null
-sku: le270-eu
-spec: null
-status: ''
-vendor: fibocom
+  images: []

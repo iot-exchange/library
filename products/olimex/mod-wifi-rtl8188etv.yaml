@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-wifi-rtl8188etv
+ref: olimex/mod-wifi-rtl8188etv
+vendor: olimex
+sku: mod-wifi-rtl8188etv
+name: MOD-WIFI-RTL8188ETV
 description: ''
+status: ''
 extra:
   price1: 4.95 EUR
   price2: 4.70 EUR
   price3: 4.46 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/USB-Modules/MOD-WIFI-RTL8188/images/thumbs/200x150/MOD-WIFI-RTL8188-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/USB-Modules/MOD-WIFI-RTL8188ETV/
-  repositories: []
-name: MOD-WIFI-RTL8188ETV
-ref: olimex/mod-wifi-rtl8188etv
-release_date: null
-sku: mod-wifi-rtl8188etv
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/USB-Modules/MOD-WIFI-RTL8188/images/thumbs/200x150/MOD-WIFI-RTL8188-1.jpg

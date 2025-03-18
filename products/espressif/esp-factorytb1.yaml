@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: esp-factorytb1
+ref: espressif/esp-factorytb1
+vendor: espressif
+sku: esp-factorytb1
+name: ESP-FactoryTB1
 description: Designed for R&D and certification test, this stable production testing
   board works as a serial port board that provides two high-speed serial ports.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/styles/medium/public/ESP-FactoryTB1_L.png?itok=yj6saDg6
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/production_testing_guide_en.pdf
-  repositories: []
-name: ESP-FactoryTB1
-ref: espressif/esp-factorytb1
-release_date: null
-sku: esp-factorytb1
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/styles/medium/public/ESP-FactoryTB1_L.png?itok=yj6saDg6

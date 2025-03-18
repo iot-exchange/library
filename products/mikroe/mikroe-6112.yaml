@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6112
+ref: mikroe/mikroe-6112
+vendor: mikroe
+sku: mikroe-6112
+name: MIKROE-6112
 description: "LR 6 Click is a compact add-on board designed for ultra-long-distance\
   \ spread-spectrum communication. This board features the Ra-01S, a LoRa\u2122 wireless\
   \ radio frequency module from Ai-Thinker Technology, featuring the SX1268 radio\
   \ chip. This module provides exceptional sensitivity of over -148dBm, a power output\
   \ of +22dBm, and supports multiple modulation..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/lr-6-click/lr-6-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/lr-6-click
-  repositories: []
-name: MIKROE-6112
-ref: mikroe/mikroe-6112
-release_date: null
-sku: mikroe-6112
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lr-6-click/lr-6-click-home_default-1.jpg?v=100

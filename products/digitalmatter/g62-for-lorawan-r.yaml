@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: g62-for-lorawan-r
+ref: digitalmatter/g62-for-lorawan-r
+vendor: digitalmatter
+sku: g62-for-lorawan-r
+name: "G62 for LoRaWAN\xAE"
 description: Ultra-rugged and robust wired vehicle and equipment GPS tracking device
   with I/O's
+status: ''
 extra:
   Applications: Equipment Tracking, Fleet Management, Trailer Tracking
   Connectivity: "LoRaWAN\xAE"
@@ -9,18 +13,7 @@ extra:
     IP68 Rated
   Power: Wired
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.digitalmatter.com/wp-content/uploads/2020/04/G62-Angle-compressed.png
-  models: []
   products:
   - https://www.digitalmatter.com/devices/g62-lorawan/
-  repositories: []
-name: "G62 for LoRaWAN\xAE"
-ref: digitalmatter/g62-for-lorawan-r
-release_date: null
-sku: g62-for-lorawan-r
-spec: null
-status: ''
-vendor: digitalmatter
+  images:
+  - https://www.digitalmatter.com/wp-content/uploads/2020/04/G62-Angle-compressed.png

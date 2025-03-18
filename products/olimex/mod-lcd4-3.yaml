@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-lcd4-3
+ref: olimex/mod-lcd4-3
+vendor: olimex
+sku: mod-lcd4-3
+name: MOD-LCD4.3''
 description: ''
+status: ''
 extra:
   bulkPrice: 39.56 EUR
   discountedPrice: 41.75 EUR
   price: 43.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/LCD/MOD-LCD4.3''/images/thumbs/200x150/MOD-LCD4.3-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/LCD/MOD-LCD4.3''/open-source-hardware
-  repositories: []
-name: MOD-LCD4.3''
-ref: olimex/mod-lcd4-3
-release_date: null
-sku: mod-lcd4-3
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/LCD/MOD-LCD4.3''/images/thumbs/200x150/MOD-LCD4.3-1.jpg

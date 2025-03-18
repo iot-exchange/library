@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: washer-din125-m3
+ref: olimex/washer-din125-m3
+vendor: olimex
+sku: washer-din125-m3
+name: WASHER-DIN125-M3
 description: Pack of 10 pcs
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Fasteners/WASHER-DIN125-M3/images/thumbs/200x150/WASHER-DIN125.png
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Fasteners/WASHER-DIN125-M3/
-  repositories: []
-name: WASHER-DIN125-M3
-ref: olimex/washer-din125-m3
-release_date: null
-sku: washer-din125-m3
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Fasteners/WASHER-DIN125-M3/images/thumbs/200x150/WASHER-DIN125.png

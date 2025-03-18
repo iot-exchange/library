@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: wss-09
+ref: dragino/wss-09
+vendor: dragino
+sku: wss-09
+name: WSS-09
 description: 'WSS09 9 in 1 Sensors: Wind Speed, Wind Direction, Temperature, Humidity,
   Air Pressure, Illumination, PM2.5, PM10, NoiseWeather Station Sensor for WSC2-L'
+status: ''
 extra:
   Catalog: Agriculture & Weather Station
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/23f6a067599ae98276b159b7685c0abf_L.jpg
-  models: []
   products:
   - https://dragino.com/products/agriculture-weather-station/item/341-wss-09.html
-  repositories: []
-name: WSS-09
-ref: dragino/wss-09
-release_date: null
-sku: wss-09
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/23f6a067599ae98276b159b7685c0abf_L.jpg

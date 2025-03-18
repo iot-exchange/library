@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: mds120-lb-ls
+ref: dragino/mds120-lb-ls
+vendor: dragino
+sku: mds120-lb-ls
+name: MDS120-LB/LS
 description: LoRaWAN Microwave Radar Distance Sensor
+status: ''
 extra:
   Battery: 8500mAh Li/SOCl2 Battery (MDS120-LB), Solar panel + 3000mAh Li-ion battery
     (MDS120-LS)
@@ -11,18 +15,7 @@ extra:
   Power Consumption: Ultra-low power consumption
   Type: LoRaWAN 1.0.3 Class A
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/48689e827932dc70ec0a6e6067e8a72b_L.jpg
-  models: []
   products:
   - https://dragino.com/products/distance-level-sensor/item/274-mds120-lb-ls.html
-  repositories: []
-name: MDS120-LB/LS
-ref: dragino/mds120-lb-ls
-release_date: null
-sku: mds120-lb-ls
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/48689e827932dc70ec0a6e6067e8a72b_L.jpg

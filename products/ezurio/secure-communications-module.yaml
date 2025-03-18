@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: secure-communications-module
+ref: ezurio/secure-communications-module
+vendor: ezurio
+sku: secure-communications-module
+name: Secure Communications Module
 description: "Securing Your Medical Device Starts with a Secure Communications Module.\
   \ In today\u2019s technological landscape, securing your device is an increasingly\
   \ complex goal that requires more comprehensive approaches."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/537x300/filters:fill(white)/filters:background_color(white)/2019-11/white-paper-chain-of-trust.jpg
-  models: []
   products:
   - https://www.ezurio.com/resources/white-papers/securing-your-medical-device-starts-secure-communications-module
-  repositories: []
-name: Secure Communications Module
-ref: ezurio/secure-communications-module
-release_date: null
-sku: secure-communications-module
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/537x300/filters:fill(white)/filters:background_color(white)/2019-11/white-paper-chain-of-trust.jpg

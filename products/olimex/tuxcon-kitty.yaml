@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: tuxcon-kitty
+ref: olimex/tuxcon-kitty
+vendor: olimex
+sku: tuxcon-kitty
+name: TuxCon-Kitty
 description: ''
+status: ''
 extra:
   discountedPrice1: 4.70 EUR
   discountedPrice2: 4.46 EUR
   price: 4.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Soldering-Kits/Beginner/TuxCon-Kitty/images/thumbs/200x150/TuxCon-Kitty-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Soldering-Kits/Beginner/TuxCon-Kitty/open-source-hardware
-  repositories: []
-name: TuxCon-Kitty
-ref: olimex/tuxcon-kitty
-release_date: null
-sku: tuxcon-kitty
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Soldering-Kits/Beginner/TuxCon-Kitty/images/thumbs/200x150/TuxCon-Kitty-1.jpg

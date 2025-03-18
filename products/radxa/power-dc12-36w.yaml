@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: power-dc12-36w
+ref: radxa/power-dc12-36w
+vendor: radxa
+sku: power-dc12-36w
+name: Power DC12 36W
 description: Specialized for Radxa SBCs
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/accessories/ap004/thumb_power_dc12_36w.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/power-dc12-36w
-  repositories: []
-name: Power DC12 36W
-ref: radxa/power-dc12-36w
-release_date: null
-sku: power-dc12-36w
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/accessories/ap004/thumb_power_dc12_36w.webp

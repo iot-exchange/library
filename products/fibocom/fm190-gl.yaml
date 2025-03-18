@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: fm190-gl
+ref: fibocom/fm190-gl
+vendor: fibocom
+sku: fm190-gl
+name: FM190-GL
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/5G-FM190-GL.html
-  repositories: []
-name: FM190-GL
-ref: fibocom/fm190-gl
-release_date: null
-sku: fm190-gl
-spec: null
-status: ''
-vendor: fibocom
+  images: []

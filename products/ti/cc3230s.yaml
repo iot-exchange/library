@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: cc3230s
+ref: ti/cc3230s
+vendor: ti
+sku: cc3230s
+name: CC3230S
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ti.com/product/CC3230S
-  repositories: []
-name: CC3230S
-ref: ti/cc3230s
-release_date: null
-sku: cc3230s
-spec: null
-status: ''
-vendor: ti
+  images: []

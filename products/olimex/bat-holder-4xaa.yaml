@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bat-holder-4xaa
+ref: olimex/bat-holder-4xaa
+vendor: olimex
+sku: bat-holder-4xaa
+name: BAT-HOLDER-4XAA
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/BAT-HOLDER-4XAA/images/thumbs/200x150/BAT-4xAA.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/BAT-HOLDER-4XAA/
-  repositories: []
-name: BAT-HOLDER-4XAA
-ref: olimex/bat-holder-4xaa
-release_date: null
-sku: bat-holder-4xaa
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/BAT-HOLDER-4XAA/images/thumbs/200x150/BAT-4xAA.jpg

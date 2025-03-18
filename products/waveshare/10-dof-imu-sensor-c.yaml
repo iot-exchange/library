@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 10-dof-imu-sensor-c
+ref: waveshare/10-dof-imu-sensor-c
+vendor: waveshare
+sku: 10-dof-imu-sensor-c
+name: 10 DOF IMU Sensor (C)
 description: 10 DOF IMU Sensor, Low Power
+status: ''
 extra:
   Price: $38.63 - $39.99
   SKU: '12476'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10-dof-imu-sensor-c-1_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/10-dof-imu-sensor-c.htm
-  repositories: []
-name: 10 DOF IMU Sensor (C)
-ref: waveshare/10-dof-imu-sensor-c
-release_date: null
-sku: 10-dof-imu-sensor-c
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10-dof-imu-sensor-c-1_1.jpg

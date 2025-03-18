@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: lsph01
+ref: dragino/lsph01
+vendor: dragino
+sku: lsph01
+name: LSPH01
 description: LoRaWAN Soil pH Sensor
+status: ''
 extra:
   Bands: EU433, CN470, EU868, IN865, KR920, AS923, AU915, US915
   Features: Monitor soil pH with temperature compensation, Monitor soil temperature,
@@ -8,18 +12,7 @@ extra:
   LoRaWAN Version: 1.0.3 Class A
   Power Consumption: Ultra Low
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/576492c356d8e0278dfa7b752bad5bc8_L.jpg
-  models: []
   products:
   - https://dragino.com/products/agriculture-weather-station/item/184-lsph01.html
-  repositories: []
-name: LSPH01
-ref: dragino/lsph01
-release_date: null
-sku: lsph01
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/576492c356d8e0278dfa7b752bad5bc8_L.jpg

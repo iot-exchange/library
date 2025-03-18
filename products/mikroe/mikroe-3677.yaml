@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-3677
+ref: mikroe/mikroe-3677
+vendor: mikroe
+sku: mikroe-3677
+name: MIKROE-3677
 description: "CAP Wheel 2 Click is a capacitive touch sensor with round-shaped electrodes\
   \ integrated on a Click board\u2122. This click can sense touch even through plastic,\
   \ wood, or other dielectric materials."
+status: ''
 extra:
   discount: 35% OFF
   discountedPrice: $11.70
   originalPrice: $18.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/cap-wheel-2-click/cap-wheel-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cap-wheel-2-click
-  repositories: []
-name: MIKROE-3677
-ref: mikroe/mikroe-3677
-release_date: null
-sku: mikroe-3677
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/cap-wheel-2-click/cap-wheel-2-click-home_default-1.jpg?v=100

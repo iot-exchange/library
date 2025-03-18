@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 32qn65s17070
+ref: waveshare/32qn65s17070
+vendor: waveshare
+sku: 32qn65s17070
+name: 32QN65S17070
 description: Test & Burn-in Socket
+status: ''
 extra:
   Price Range: $79.59 - $82.99
   SKU: '7782'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/2/32qn65s17070_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/32qn65s17070.htm
-  repositories: []
-name: 32QN65S17070
-ref: waveshare/32qn65s17070
-release_date: null
-sku: 32qn65s17070
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/2/32qn65s17070_l_1_5.jpg

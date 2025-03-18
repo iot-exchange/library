@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: am3352-debian-sd
+ref: olimex/am3352-debian-sd
+vendor: olimex
+sku: am3352-debian-sd
+name: AM3352-DEBIAN-SD
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/SOM/AM335X/AM3352-ANDROID-SD/images/thumbs/200x150/SD-Card.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/SOM/AM335X/AM3352-DEBIAN-SD/
-  repositories: []
-name: AM3352-DEBIAN-SD
-ref: olimex/am3352-debian-sd
-release_date: null
-sku: am3352-debian-sd
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/SOM/AM335X/AM3352-ANDROID-SD/images/thumbs/200x150/SD-Card.jpg

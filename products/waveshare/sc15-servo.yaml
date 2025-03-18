@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: sc15-servo
+ref: waveshare/sc15-servo
+vendor: waveshare
+sku: sc15-servo
+name: SC15 Servo
 description: SC15 17kg Large Torque Programmable Serial Bus Servo
+status: ''
 extra:
   Price: $16.97 - $17.99
   SKU: '21568'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/c/sc15-servo-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/sc15-servo.htm
-  repositories: []
-name: SC15 Servo
-ref: waveshare/sc15-servo
-release_date: null
-sku: sc15-servo
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/c/sc15-servo-2.jpg

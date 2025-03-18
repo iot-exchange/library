@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: '2605031141000'
+ref: we/2605031141000
+vendor: we
+sku: '2605031141000'
+name: '2605031141000'
 description: Herse
+status: ''
 extra:
   Current Consumption: '100'
   Data Rate: '2.2'
@@ -12,17 +16,6 @@ extra:
   Sensitivity: '-107'
   Supply Voltage: '3.6'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/components/products/datasheet/2605031141000.pdf
-  repositories: []
-name: '2605031141000'
-ref: we/2605031141000
-release_date: null
-sku: '2605031141000'
-spec: null
-status: ''
-vendor: we
+  images: []

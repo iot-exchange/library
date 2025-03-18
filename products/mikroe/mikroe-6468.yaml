@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-6468
+ref: mikroe/mikroe-6468
+vendor: mikroe
+sku: mikroe-6468
+name: MIKROE-6468
 description: GNSS L1/L5 Band Active Antenna - High Precision (ANN-MB1) is designed
   for high-precision GNSS applications requiring accurate location capabilities. This
   multi-band antenna supports GPS, GLONASS, Galileo, and BeiDou systems, covering
   L1, L5, E5a, B2a, and NavIC frequency bands.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gnss-l1l5-band-active-antenna-high-precision/gnss-l1l5-band-active-antenna-high-precision-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/gnss-l1l5-band-active-antenna-high-precision
-  repositories: []
-name: MIKROE-6468
-ref: mikroe/mikroe-6468
-release_date: null
-sku: mikroe-6468
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gnss-l1l5-band-active-antenna-high-precision/gnss-l1l5-band-active-antenna-high-precision-home_default-1.jpg?v=100

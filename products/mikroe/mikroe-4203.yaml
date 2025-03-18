@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4203
+ref: mikroe/mikroe-4203
+vendor: mikroe
+sku: mikroe-4203
+name: MIKROE-4203
 description: Current 3 Click is a compact add-on board for applications like current
   sense and temperature monitoring. This board features the EMC1702, a combination
   of the high-side current sensing device with a temperature measurement function
   from Microchip. The EMC1702 measures the voltage developed across a sense resistor
   to represent the high-side current of a...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/current-3-click/current-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/current-3-click
-  repositories: []
-name: MIKROE-4203
-ref: mikroe/mikroe-4203
-release_date: null
-sku: mikroe-4203
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/current-3-click/current-3-click-home_default-1.jpg?v=100

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5960
+ref: mikroe/mikroe-5960
+vendor: mikroe
+sku: mikroe-5960
+name: MIKROE-5960
 description: Charger 27 Click is a compact add-on board that provides a single-cell
   charging solution. This board features the MP2639B, a Li-Ion or Li-Polymer switching
   charger from MPS. It is a highly integrated, flexible switch-mode battery charging
   management device for a single-cell battery for various portable applications. It
   uses a 4.5V up to 16V external input...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/charger-27-click/charger-27-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/charger-27-click
-  repositories: []
-name: MIKROE-5960
-ref: mikroe/mikroe-5960
-release_date: null
-sku: mikroe-5960
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/charger-27-click/charger-27-click-home_default-1.jpg?v=100

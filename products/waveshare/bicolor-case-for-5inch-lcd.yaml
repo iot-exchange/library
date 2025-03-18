@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: bicolor-case-for-5inch-lcd
+ref: waveshare/bicolor-case-for-5inch-lcd
+vendor: waveshare
+sku: bicolor-case-for-5inch-lcd
+name: Bicolor Case for 5inch LCD
 description: Bicolor Case for 5inch LCD
+status: ''
 extra:
   Price: $3.79 - $4.79
   SKU: '11188'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/i/5inch-hdmi-lcd-bicolor-holder-1_3.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/bicolor-case-for-5inch-lcd.htm
-  repositories: []
-name: Bicolor Case for 5inch LCD
-ref: waveshare/bicolor-case-for-5inch-lcd
-release_date: null
-sku: bicolor-case-for-5inch-lcd
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/i/5inch-hdmi-lcd-bicolor-holder-1_3.jpg

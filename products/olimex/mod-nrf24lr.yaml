@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-nrf24lr
+ref: olimex/mod-nrf24lr
+vendor: olimex
+sku: mod-nrf24lr
+name: MOD-NRF24LR
 description: ''
+status: ''
 extra:
   bulkPrice: 3.56 EUR
   discountedPrice: 3.75 EUR
   price: 3.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/RF/MOD-NRF24LR/images/thumbs/200x150/MOD-NRF24LR-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/RF/MOD-NRF24LR/
-  repositories: []
-name: MOD-NRF24LR
-ref: olimex/mod-nrf24lr
-release_date: null
-sku: mod-nrf24lr
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/RF/MOD-NRF24LR/images/thumbs/200x150/MOD-NRF24LR-01.jpg

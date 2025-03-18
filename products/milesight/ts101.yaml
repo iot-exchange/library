@@ -1,0 +1,13 @@
+id: ts101
+ref: milesight/ts101
+vendor: milesight
+sku: ts101
+name: TS101
+description: Insertion Temperature Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/ts101
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/insertion-temperature-sensor-ts-series/insertion-temperature-sensor-ts101.png?t=1742198585390

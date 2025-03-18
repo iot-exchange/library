@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: m-2-extension-board
+ref: radxa/m-2-extension-board
+vendor: radxa
+sku: m-2-extension-board
+name: M.2 Extension Board
 description: Easily Support M.2 2280 SSD
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/accessories/ra015/thumb_m2_extension_board.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/m2-extension-board
-  repositories: []
-name: M.2 Extension Board
-ref: radxa/m-2-extension-board
-release_date: null
-sku: m-2-extension-board
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/accessories/ra015/thumb_m2_extension_board.webp

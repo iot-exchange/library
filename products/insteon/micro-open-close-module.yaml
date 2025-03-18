@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: micro-open-close-module
+ref: insteon/micro-open-close-module
+vendor: insteon
+sku: micro-open-close-module
+name: Micro Open/Close Module
 description: ''
+status: ''
 extra:
   reviews: '2'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/products/Micro_Open_Close_Module.jpg?v=1724711111&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/micro-open-close-module
-  repositories: []
-name: Micro Open/Close Module
-ref: insteon/micro-open-close-module
-release_date: null
-sku: micro-open-close-module
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Micro_Open_Close_Module.jpg?v=1724711111&width=533

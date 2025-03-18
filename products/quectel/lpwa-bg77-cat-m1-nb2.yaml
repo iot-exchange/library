@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: lpwa-bg77-cat-m1-nb2
+ref: quectel/lpwa-bg77-cat-m1-nb2
+vendor: quectel
+sku: lpwa-bg77-cat-m1-nb2
+name: LPWA BG77 Cat M1/NB2
 description: ARM Cortex A7  Cat M  Cat NB2  GNSS  USB 2.0
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.quectel.com/content/uploads/2024/03/BG77_Layered.png
-  models: []
   products:
   - https://www.quectel.com/product/lte-bg77-cat-m1-nb2/
-  repositories: []
-name: LPWA BG77 Cat M1/NB2
-ref: quectel/lpwa-bg77-cat-m1-nb2
-release_date: null
-sku: lpwa-bg77-cat-m1-nb2
-spec: null
-status: ''
-vendor: quectel
+  images:
+  - https://www.quectel.com/content/uploads/2024/03/BG77_Layered.png

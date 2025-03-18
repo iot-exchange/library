@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: rp2350-lcd-1-28
+ref: waveshare/rp2350-lcd-1-28
+vendor: waveshare
+sku: rp2350-lcd-1-28
+name: RP2350-LCD-1.28
 description: "RP2350 MCU Board, With 1.28inch Round LCD, Dual-core & Dual-architecture\
   \ Design, 240\xD7240 Pixels, 65K Color, IPS Panel"
+status: ''
 extra:
   Multi Options: ''
   Price: $16.99 -  $21.99
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.waveshare.com/product/rp2350-lcd-1.28.htm
-  repositories: []
-name: RP2350-LCD-1.28
-ref: waveshare/rp2350-lcd-1-28
-release_date: null
-sku: rp2350-lcd-1-28
-spec: null
-status: ''
-vendor: waveshare
+  images: []

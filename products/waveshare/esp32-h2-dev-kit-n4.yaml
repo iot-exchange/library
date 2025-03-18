@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: esp32-h2-dev-kit-n4
+ref: waveshare/esp32-h2-dev-kit-n4
+vendor: waveshare
+sku: esp32-h2-dev-kit-n4
+name: esp32_h2_dev_kit_n4
 description: ESP32-H2 Microcontroller, 96MHz Processor, ESP32-H2-MINI-1-N4 Module,
   Built in 4MB Flash, supports BLE/Zigbee/Thread wireless communication
+status: ''
 extra:
   Multi Options: ''
   Price: $5.99 - $6.99
   options: Multi Options
   price: $5.99 - $6.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-h2-dev-kit-n4-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/esp32-h2-dev-kit-n4.htm
-  repositories: []
-name: esp32_h2_dev_kit_n4
-ref: waveshare/esp32-h2-dev-kit-n4
-release_date: null
-sku: esp32-h2-dev-kit-n4
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-h2-dev-kit-n4-1.jpg

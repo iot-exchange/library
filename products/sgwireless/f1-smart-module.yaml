@@ -1,0 +1,12 @@
+id: f1-smart-module
+ref: sgwireless/f1-smart-module
+vendor: sgwireless
+sku: f1-smart-module
+name: F1 Smart Module
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://docs.sgwireless.com/product-info-datasheets/f1-smart-module/
+  images: []

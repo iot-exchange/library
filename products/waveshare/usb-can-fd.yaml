@@ -1,29 +1,22 @@
-alternatives: []
-certifications: []
+id: usb-can-fd
+ref: waveshare/usb-can-fd
+vendor: waveshare
+sku: usb-can-fd
+name: USB-CAN-FD
 description: Industrial Grade CAN/CAN FD Bus Data Analyzer, USB To CAN FD Adapter,
   CAN/CAN FD Bus Communication Interface Card
+status: ''
 extra:
   Multi Options: ''
   Price: $69.99 -  $86.99
   multiOptions: Multi Options
   price: $69.99 - $86.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-can-fd-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pd-030b-us.htm
   - https://www.waveshare.com/product/usb-can-fd.htm
   - https://www.waveshare.com/product/usb-can-fd.htm "Industrial Grade CAN/CAN FD
     Bus Data Analyzer, USB To CAN FD Adapter, CAN/CAN FD Bus Communication Interface
     Card"
-  repositories: []
-name: USB-CAN-FD
-ref: waveshare/usb-can-fd
-release_date: null
-sku: usb-can-fd
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-can-fd-1.jpg

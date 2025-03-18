@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: optimize-building-management
+ref: semtech/optimize-building-management
+vendor: semtech
+sku: optimize-building-management
+name: Optimize Building Management
 description: Optimize Building Management
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.semtech.com/uploads/technology/lora-talkpool-nordic-propeye_360x220.jpg
-  models: []
   products:
   - https://info.semtech.com/lora-building-management-infographic
-  repositories: []
-name: Optimize Building Management
-ref: semtech/optimize-building-management
-release_date: null
-sku: optimize-building-management
-spec: null
-status: ''
-vendor: semtech
+  images:
+  - https://www.semtech.com/uploads/technology/lora-talkpool-nordic-propeye_360x220.jpg

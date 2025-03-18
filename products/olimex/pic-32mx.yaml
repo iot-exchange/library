@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pic-32mx
+ref: olimex/pic-32mx
+vendor: olimex
+sku: pic-32mx
+name: PIC-32MX
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/PIC/Proto/PIC-32MX/images/thumbs/200x150/PIC32-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/PIC/Proto/PIC-32MX/
-  repositories: []
-name: PIC-32MX
-ref: olimex/pic-32mx
-release_date: null
-sku: pic-32mx
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/PIC/Proto/PIC-32MX/images/thumbs/200x150/PIC32-1.jpg

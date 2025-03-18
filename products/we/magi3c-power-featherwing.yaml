@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: magi3c-power-featherwing
+ref: we/magi3c-power-featherwing
+vendor: we
+sku: magi3c-power-featherwing
+name: "MagI\xB3C Power FeatherWing"
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o194223v214%20Single_MagIC-FeatherWing_2601157101001.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/VDRM_FEATHERWING_2
-  repositories: []
-name: "MagI\xB3C Power FeatherWing"
-ref: we/magi3c-power-featherwing
-release_date: null
-sku: magi3c-power-featherwing
-spec: null
-status: ''
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o194223v214%20Single_MagIC-FeatherWing_2601157101001.jpg

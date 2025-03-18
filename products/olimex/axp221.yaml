@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: axp221
+ref: olimex/axp221
+vendor: olimex
+sku: axp221
+name: AXP221
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/IC/AXP221/images/thumbs/200x150/AXP221.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/IC/AXP221/
-  repositories: []
-name: AXP221
-ref: olimex/axp221
-release_date: null
-sku: axp221
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/IC/AXP221/images/thumbs/200x150/AXP221.jpg

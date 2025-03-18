@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-4935
+ref: mikroe/mikroe-4935
+vendor: mikroe
+sku: mikroe-4935
+name: MIKROE-4935
 description: "Turbidity sensor (TSD-10) represents a high-accuracy turbidity sensing\
   \ solution from Amphenol that is designed to be placed remotely on the Turbidity\
   \ Click board\u2122. The sensor is designed in a circular shape with a diameter\
   \ of 30mm."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/tsd-10-turbidity-sensor/tsd-10-turbidity-sensor-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/tsd-10-turbidity-sensor
-  repositories: []
-name: MIKROE-4935
-ref: mikroe/mikroe-4935
-release_date: null
-sku: mikroe-4935
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/tsd-10-turbidity-sensor/tsd-10-turbidity-sensor-home_default-1.jpg?v=100

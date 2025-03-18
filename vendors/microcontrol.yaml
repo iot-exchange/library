@@ -1,0 +1,23 @@
+name: MicroControl GmbH & Co. KG
+description: |
+  MicroControl – solutions for most demanding requirements: enhanced temparature range, higher resolution, broadened 
+  power supply range and higher IP rating – more than 25 years of cutting-edge measurement technology. 
+  
+  MicroControl’s philosophy is our commitment to the customers’ needs and requirements in automation. 
+  MicroControl products offer tangible advantages and comprehensive added value for the customer in CAN bus or Linux 
+  based future applications.
+
+  MicroControl has earned a worldwide reputation for its innovative solutions in the acqusition of measurement data via 
+  CAN bus. Acquisition of analogue signals obtained from pressure or temperature measurements and their conversion into 
+  digized CAN or Ethernet compatible data – MicroControl’s solutions excel in precision, reliability and quality. 
+  
+  In cooperation with our experienced suppliers and renowned production partners, we provide high-quality, cutting-edge 
+  products – e.g. based on the current Ball Grid Array (BGA) semi-conductor technology. 
+  
+  From the beginning, we have played an active role in the CiA user association.
+links:
+  logo: https://www.microcontrol.net/wp-content/uploads/2021/03/MicroControl.svg
+  website: https://www.microcontrol.net/
+  products:
+    - https://www.microcontrol.net/en/portfolio/i-o-modules/box/
+    - https://www.microcontrol.net/en/portfolio/control-units/

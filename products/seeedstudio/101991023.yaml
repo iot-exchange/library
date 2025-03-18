@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '101991023'
+ref: seeedstudio/101991023
+vendor: seeedstudio
+sku: '101991023'
+name: '101991023'
 description: SenseCAP S800 8-in-1 Compact Weather Sensor measures air temperature,
   relative humidity, barometric pressure, wind speed, wind direction (ultrasonic),
   PM2.5, PM10, and noise. It is ideal for application in a rough environment like
   the outdoors, agriculture, or smart cities. Use it with SenseCAP LoRaWAN Data Logger
   or SenseCAP 4G Data Logger.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101991023-sensecap-s800-8-in-1-compact-weather-station-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/SenseCAP-S800-8-in-1-Compact-Weather-Station-p-5653.html
-  repositories: []
-name: '101991023'
-ref: seeedstudio/101991023
-release_date: null
-sku: '101991023'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101991023-sensecap-s800-8-in-1-compact-weather-station-45font.jpg

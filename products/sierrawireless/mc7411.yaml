@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mc7411
+ref: sierrawireless/mc7411
+vendor: sierrawireless
+sku: mc7411
+name: MC7411
 description: 4G LTE Advanced (Cat-6 and Cat-7)
+status: ''
 extra:
   Bands: 'LTE: B2, B4, B5, B7, B12, B13, B14, B25, B26, B41, B42, B43, B48, B66, B71'
   Fallback: 3G
   Region (Carrier): NAM (T-Mobile, AT&T, Verizon, US Cellular, Telus, SouthernLINC)
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.sierrawireless.com/iot-modules/4g-modules/mc7411/
-  repositories: []
-name: MC7411
-ref: sierrawireless/mc7411
-release_date: null
-sku: mc7411
-spec: null
-status: ''
-vendor: sierrawireless
+  images: []

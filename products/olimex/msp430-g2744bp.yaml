@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: msp430-g2744bp
+ref: olimex/msp430-g2744bp
+vendor: olimex
+sku: msp430-g2744bp
+name: MSP430-G2744BP
 description: ''
+status: ''
 extra:
   price1: 12.95 EUR
   price2: 11.66 EUR
   price3: 10.36 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/MSP430/Booster/MSP430-G2744BP/images/thumbs/200x150/MSP430-G2744-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/MSP430/Booster/MSP430-G2744BP/open-source-hardware
-  repositories: []
-name: MSP430-G2744BP
-ref: olimex/msp430-g2744bp
-release_date: null
-sku: msp430-g2744bp
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/MSP430/Booster/MSP430-G2744BP/images/thumbs/200x150/MSP430-G2744-01.jpg

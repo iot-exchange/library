@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: fe990b34-40
+ref: telit/fe990b34-40
+vendor: telit
+sku: fe990b34-40
+name: FE990B34/40
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2024/02/FE990Bxx_dynamic-295x200.png
-  models: []
   products:
   - https://www.telit.com/devices/fe990bxx/
-  repositories: []
-name: FE990B34/40
-ref: telit/fe990b34-40
-release_date: null
-sku: fe990b34-40
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/02/FE990Bxx_dynamic-295x200.png

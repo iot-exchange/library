@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 4inch-720x720-lcd
+ref: waveshare/4inch-720x720-lcd
+vendor: waveshare
+sku: 4inch-720x720-lcd
+name: 4inch 720x720 LCD
 description: "4inch HDMI Round Touch Display, 720 \xD7 720, IPS, 10-Point Touch, Round\
   \ LCD, Optical Bonding Toughened Glass Panel"
+status: ''
 extra:
   SKU: '27486'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/i/4inch-720x720-lcd-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/4inch-720x720-lcd.htm
-  repositories: []
-name: 4inch 720x720 LCD
-ref: waveshare/4inch-720x720-lcd
-release_date: null
-sku: 4inch-720x720-lcd
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/i/4inch-720x720-lcd-1.jpg

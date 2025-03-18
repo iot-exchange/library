@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: sim8262e-m2
+ref: waveshare/sim8262e-m2
+vendor: waveshare
+sku: sim8262e-m2
+name: SIM8262E-M2
 description: SIM8262E-M2 SIMCom original 5G module, M.2 form factor, Qualcomm Snapdragon
   X62
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim8262e-m2-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/sim8262e-m2.htm
-  repositories: []
-name: SIM8262E-M2
-ref: waveshare/sim8262e-m2
-release_date: null
-sku: sim8262e-m2
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim8262e-m2-1.jpg

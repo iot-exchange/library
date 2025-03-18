@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-5281
+ref: mikroe/mikroe-5281
+vendor: mikroe
+sku: mikroe-5281
+name: MIKROE-5281
 description: CODEGRIP for Tiva is a fast USB-C programmer and hardware debugger. It
   supports all Stellaris and Tiva C Series ARM Cortex-M3 and M4 devices.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/codegrip-for-tiva-over-usb-c/codegrip-for-tiva-over-usb-c-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/codegrip-for-tiva-over-usb-c
-  repositories: []
-name: MIKROE-5281
-ref: mikroe/mikroe-5281
-release_date: null
-sku: mikroe-5281
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/codegrip-for-tiva-over-usb-c/codegrip-for-tiva-over-usb-c-home_default-1.jpg?v=100

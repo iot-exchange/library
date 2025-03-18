@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5056
+ref: mikroe/mikroe-5056
+vendor: mikroe
+sku: mikroe-5056
+name: MIKROE-5056
 description: RS232 to I2C Click is a compact add-on board representing a universal
   usable RS232 to I2C converter. This board features the ZDU0110RFX, a bridge between
   a UART port and an I2C bus from Littelfuse, which at the same time represents the
   connection between the MCU and the RS232 line driver and receiver, the MAX3232.
   The ZDU0110RFX provides full-duplex...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/rs232-to-i2c-click/rs232-to-i2c-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/rs232-to-i2c-click
-  repositories: []
-name: MIKROE-5056
-ref: mikroe/mikroe-5056
-release_date: null
-sku: mikroe-5056
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rs232-to-i2c-click/rs232-to-i2c-click-home_default-1.jpg?v=100

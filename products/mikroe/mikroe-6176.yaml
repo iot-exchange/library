@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6176
+ref: mikroe/mikroe-6176
+vendor: mikroe
+sku: mikroe-6176
+name: MIKROE-6176
 description: GNSS 17 Click is a compact add-on board for precise and reliable global
   navigation and positioning. This board features the M20071, an integrated full-function
   GNSS receiver module from Antenova, which features the MediaTek AG3335MN flash chip.
   This module can concurrently track multiple GNSS constellations, including GPS,
   GLONASS, GALILEO, BEIDOU, and...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gnss-17-click/gnss-17-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/gnss-17-click
-  repositories: []
-name: MIKROE-6176
-ref: mikroe/mikroe-6176
-release_date: null
-sku: mikroe-6176
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gnss-17-click/gnss-17-click-home_default-1.jpg?v=100

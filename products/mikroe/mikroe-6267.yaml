@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6267
+ref: mikroe/mikroe-6267
+vendor: mikroe
+sku: mikroe-6267
+name: MIKROE-6267
 description: SiBRAIN Card is a standardized add-on board, which allows very simple
   installation and replacement of the microcontroller unit (MCU) on a development
   board equipped with the SiBRAIN socket. By introducing the new SiBRAIN standard,
   we have ensured the absolute compatibility between the development board and any
   of the supported MCUs, regardless of their...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mcu-card-2-for-pic-pic18f86j16/mcu-card-2-for-pic-pic18f86j16-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mcu-card-2-for-pic-pic18f86j16
-  repositories: []
-name: MIKROE-6267
-ref: mikroe/mikroe-6267
-release_date: null
-sku: mikroe-6267
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mcu-card-2-for-pic-pic18f86j16/mcu-card-2-for-pic-pic18f86j16-home_default-1.jpg?v=100

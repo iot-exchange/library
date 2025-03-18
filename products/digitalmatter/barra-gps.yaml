@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: barra-gps
+ref: digitalmatter/barra-gps
+vendor: digitalmatter
+sku: barra-gps
+name: Barra GPS
 description: Low-cost battery-powered GPS asset tracker for LTE-M and NB-IoT Networks
+status: ''
 extra:
   Applications: Equipment Tracking, Non-Powered Asset Tracking
   Connectivity: LTE-M (Cat-M1) / NB-IoT
   Features: 3-Axis Accelerometer, IP68 Rated
   Power: Battery-Powered
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.digitalmatter.com/wp-content/uploads/2023/09/Barra-Top-Digital-Matter-1.png
-  models: []
   products:
   - https://www.digitalmatter.com/devices/barra-gps/
-  repositories: []
-name: Barra GPS
-ref: digitalmatter/barra-gps
-release_date: null
-sku: barra-gps
-spec: null
-status: ''
-vendor: digitalmatter
+  images:
+  - https://www.digitalmatter.com/wp-content/uploads/2023/09/Barra-Top-Digital-Matter-1.png

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: chn-pli-lf
+ref: olimex/chn-pli-lf
+vendor: olimex
+sku: chn-pli-lf
+name: CHN-PLI-LF
 description: ''
+status: ''
 extra:
   discountedPrice1: 1.80 EUR
   discountedPrice2: 1.60 EUR
   price: 2.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/HandTools/CHN-PLI-LF/images/thumbs/200x150/CHN-PLI-LF.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/HandTools/CHN-PLI-LF/
-  repositories: []
-name: CHN-PLI-LF
-ref: olimex/chn-pli-lf
-release_date: null
-sku: chn-pli-lf
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/HandTools/CHN-PLI-LF/images/thumbs/200x150/CHN-PLI-LF.jpg

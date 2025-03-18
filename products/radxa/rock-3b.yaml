@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rock-3b
+ref: radxa/rock-3b
+vendor: radxa
+sku: rock-3b
+name: ROCK 3B
 description: An Pico-ITX form factor SBC with Multifunctional Interface
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/rock3/rock_3b/thumb_rock3b.webp
-  models: []
   products:
   - https://radxa.com/products/rock3/3b
-  repositories: []
-name: ROCK 3B
-ref: radxa/rock-3b
-release_date: null
-sku: rock-3b
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/rock3/rock_3b/thumb_rock3b.webp

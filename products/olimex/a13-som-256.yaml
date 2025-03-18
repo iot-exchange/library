@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: a13-som-256
+ref: olimex/a13-som-256
+vendor: olimex
+sku: a13-som-256
+name: A13-SOM-256
 description: ''
+status: ''
 extra:
   10+ pcs: 21.60 EUR
   100+ pcs: 18.00 EUR
   1000+ pcs: 16.80 EUR
   50+ pcs: 19.20 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/SOM/A13/A13-SOM-256/images/thumbs/200x150/A13-SOM-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/SOM/A13/A13-SOM-256/
-  repositories: []
-name: A13-SOM-256
-ref: olimex/a13-som-256
-release_date: null
-sku: a13-som-256
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/SOM/A13/A13-SOM-256/images/thumbs/200x150/A13-SOM-1.jpg

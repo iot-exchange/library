@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5267
+ref: mikroe/mikroe-5267
+vendor: mikroe
+sku: mikroe-5267
+name: MIKROE-5267
 description: Lithium Battery CR2032 is a non-rechargeable (primary) coin-cell battery
   utilizing lithium chemistry, which is very common today and used in many applications.
   It offers long-lasting, reliable power for various devices providing a high voltage
   of 3V. It is characterized by a very low self-discharge and long shelf life (up
   to 10 years), alongside its...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/lithium-battery-3v-cr2032/lithium-battery-3v-cr2032-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/lithium-battery-3v-cr2032
-  repositories: []
-name: MIKROE-5267
-ref: mikroe/mikroe-5267
-release_date: null
-sku: mikroe-5267
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lithium-battery-3v-cr2032/lithium-battery-3v-cr2032-home_default-1.jpg?v=100

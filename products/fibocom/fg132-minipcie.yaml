@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: fg132-minipcie
+ref: fibocom/fg132-minipcie
+vendor: fibocom
+sku: fg132-minipcie
+name: FG132-MiniPCIe
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/5GRedCap-FG132-MiniPCIe.html
-  repositories: []
-name: FG132-MiniPCIe
-ref: fibocom/fg132-minipcie
-release_date: null
-sku: fg132-minipcie
-spec: null
-status: ''
-vendor: fibocom
+  images: []

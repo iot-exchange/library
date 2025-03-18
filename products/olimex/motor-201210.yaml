@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: motor-201210
+ref: olimex/motor-201210
+vendor: olimex
+sku: motor-201210
+name: MOTOR-201210
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/MOTOR-201210/images/thumbs/200x150/MOTOR-201210.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/MOTOR-201210/
-  repositories: []
-name: MOTOR-201210
-ref: olimex/motor-201210
-release_date: null
-sku: motor-201210
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/MOTOR-201210/images/thumbs/200x150/MOTOR-201210.jpg

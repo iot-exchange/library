@@ -1,8 +1,12 @@
-alternatives: []
-certifications: []
+id: esp8685-wroom-07
+ref: espressif/esp8685-wroom-07
+vendor: espressif
+sku: esp8685-wroom-07
+name: ESP8685-WROOM-07
 description: The ESP8685-WROOM-07 module is based on ESP8685, and has can be vertically
   soldered to a PCB board. It has 3 GPIOs, and supports UART, SPI, I2C, LED PWM, I2S,
   RMT, etc.
+status: ''
 extra:
   Antenna: Solder pad for external monopole antenna
   Chip Embedded: ESP8685H4
@@ -12,18 +16,7 @@ extra:
   PSRAM (MB): N/A
   Pins: '6'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP8685-WROOM-07_S_0.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp8685-wroom-07_datasheet_en.pdf
-  repositories: []
-name: ESP8685-WROOM-07
-ref: espressif/esp8685-wroom-07
-release_date: null
-sku: esp8685-wroom-07
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP8685-WROOM-07_S_0.png

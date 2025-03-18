@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: '103030277'
+ref: seeedstudio/103030277
+vendor: seeedstudio
+sku: '103030277'
+name: '103030277'
 description: Pi RTC (DS1307), Real time
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.seeedstudio.com/Pi-RTC-DS1307-p-103030277.html
-  repositories: []
-name: '103030277'
-ref: seeedstudio/103030277
-release_date: null
-sku: '103030277'
-spec: null
-status: ''
-vendor: seeedstudio
+  images: []

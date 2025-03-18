@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: wp7607-accessory-board
+ref: sierrawireless/wp7607-accessory-board
+vendor: sierrawireless
+sku: wp7607-accessory-board
+name: WP7607 Accessory Board
 description: Mini Card Accessory Board
+status: ''
 extra:
   Bands: 'LTE Cat-4: B1, B3, B7, B8, B20, B28'
   Fallback: 2G, 3G
   Region (Carrier): 'EMEA (Planned: Semtech)'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.sierrawireless.com/iot-modules/4g-modules/wp7607-accessory-board/
-  repositories: []
-name: WP7607 Accessory Board
-ref: sierrawireless/wp7607-accessory-board
-release_date: null
-sku: wp7607-accessory-board
-spec: null
-status: ''
-vendor: sierrawireless
+  images: []

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '2600130083'
+ref: we/2600130083
+vendor: we
+sku: '2600130083'
+name: '2600130083'
 description: Hydra-I 915 MHz
+status: Active
 extra:
   Expected lifetime: '>10 years'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/WIRL_ACCE_2600130083#2600130083
-  repositories: []
-name: '2600130083'
-ref: we/2600130083
-release_date: null
-sku: '2600130083'
-spec: null
-status: Active
-vendor: we
+  images: []

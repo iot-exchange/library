@@ -1,0 +1,13 @@
+id: am103-am103l
+ref: milesight/am103-am103l
+vendor: milesight
+sku: am103-am103l
+name: AM103/AM103L
+description: 3-in-1 IAQ Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/am103-am103l
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/indoor-air-quality-am-series/3-in-1-iaq-sensor-am103-am103l.png?t=1742198585390

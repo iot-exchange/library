@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6235
+ref: mikroe/mikroe-6235
+vendor: mikroe
+sku: mikroe-6235
+name: MIKROE-6235
 description: "Click Shield for Arduino DUE Unlock limitless potential with our Click\
   \ Shield for Arduino DUE! Maximize the capabilities of the Arduino DUE board with\
   \ mikroBUS\u2122 sockets that grant immediate access to the extensive range of Click\
   \ boards\u2122. Explore endless applications and innovate without constraints using\
   \ a single host board."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/click-shield-for-arduino-due/click-shield-for-arduino-due-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/click-shield-for-arduino-due
-  repositories: []
-name: MIKROE-6235
-ref: mikroe/mikroe-6235
-release_date: null
-sku: mikroe-6235
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/click-shield-for-arduino-due/click-shield-for-arduino-due-home_default-1.jpg?v=100

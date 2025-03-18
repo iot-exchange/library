@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: rp2040-ble
+ref: waveshare/rp2040-ble
+vendor: waveshare
+sku: rp2040-ble
+name: rp2040_ble
 description: Waveshare RP2040-BLE Development Board, Raspberry Pi Microcontroller
   Development Board, Based On RP2040, Supports Bluetooth 5.1 Dual Mode
+status: ''
 extra:
   Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-ble-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rp2040-ble.htm
   - https://www.waveshare.com/product/rp2040-ble.htm "Waveshare RP2040-BLE Development
     Board, Raspberry Pi Microcontroller Development Board, Based On RP2040, Supports
     Bluetooth 5.1 Dual Mode"
-  repositories: []
-name: rp2040_ble
-ref: waveshare/rp2040-ble
-release_date: null
-sku: rp2040-ble
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-ble-1.jpg

@@ -1,9 +1,13 @@
-alternatives: []
-certifications: []
+id: esp32-s2-solo-u
+ref: espressif/esp32-s2-solo-u
+vendor: espressif
+sku: esp32-s2-solo-u
+name: ESP32-S2-SOLO-U
 description: ESP32-S2-SOLO-U is a powerful, generic Wi-Fi MCU modules that have a
   rich set of peripherals and pin-to-pin compatible with the ESP32-WROOM modules.
   Its an ideal choice for a wide variety of application scenarios relating to Internet
   of Things (IoT), wearable electronics and smart home.
+status: ''
 extra:
   Antenna: IPEX antenna connector
   Chip Embedded: ESP32-S2ESP32-S2R2
@@ -15,18 +19,7 @@ extra:
   PSRAM (MB): N/A2
   Pins: '40'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP32-S2-SOLO-U%20S_0.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp32-s2-solo_esp32-s2-solo-u_datasheet_en.pdf
-  repositories: []
-name: ESP32-S2-SOLO-U
-ref: espressif/esp32-s2-solo-u
-release_date: null
-sku: esp32-s2-solo-u
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-S2-SOLO-U%20S_0.png

@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: fg101-eau-20
+ref: fibocom/fg101-eau-20
+vendor: fibocom
+sku: fg101-eau-20
+name: FG101-EAU-20
 description: LTE Cat 6 Modules
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTECat-FG101-EAU-20.html
-  repositories: []
-name: FG101-EAU-20
-ref: fibocom/fg101-eau-20
-release_date: null
-sku: fg101-eau-20
-spec: null
-status: ''
-vendor: fibocom
+  images: []

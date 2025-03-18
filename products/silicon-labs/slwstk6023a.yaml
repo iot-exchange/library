@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: slwstk6023a
+ref: silicon-labs/slwstk6023a
+vendor: silicon-labs
+sku: slwstk6023a
+name: SLWSTK6023A
 description: EFR32xG21 Bluetooth Starter Kit
+status: ''
 extra:
   MSRP: $164.00
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/efr32xg21-bluetooth-starter-kit
-  repositories: []
-name: SLWSTK6023A
-ref: silicon-labs/slwstk6023a
-release_date: null
-sku: slwstk6023a
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

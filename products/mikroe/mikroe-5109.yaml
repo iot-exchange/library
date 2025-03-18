@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5109
+ref: mikroe/mikroe-5109
+vendor: mikroe
+sku: mikroe-5109
+name: MIKROE-5109
 description: "RS232 3 Click is a compact add-on board representing a universal usable\
   \ RS232 transceiver. This board features the SP3221E, a low-power RS232 transceiver\
   \ from MaxLinear. The SP3221E uses an internal high-efficiency, charge-pump power\
   \ supply and is compliant with EIA/TIA-232-F standards when powered by any of the\
   \ mikroBUS\u2122 power rails. The AUTO ON-LINE\xAE..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/rs232-3-click/rs232-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/rs232-3-click
-  repositories: []
-name: MIKROE-5109
-ref: mikroe/mikroe-5109
-release_date: null
-sku: mikroe-5109
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rs232-3-click/rs232-3-click-home_default-1.jpg?v=100

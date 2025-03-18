@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: pcie-to-m-2-board-c
+ref: waveshare/pcie-to-m-2-board-c
+vendor: waveshare
+sku: pcie-to-m-2-board-c
+name: PCIe TO M.2 Board (C)
 description: PCIe To M.2 Adapter Board (C) for Raspberry Pi 5, Supports NVMe Protocol
   M.2 Solid State Drive, High-speed Reading/Writing
+status: ''
 extra:
   Price: $7.81 - $8.49
   SKU: '26785'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/pcie-to-m.2-board-c.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-m.2-board-c-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-m.2-board-c-2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/pcie-to-m.2-board-c.htm
-  repositories: []
-name: PCIe TO M.2 Board (C)
-ref: waveshare/pcie-to-m-2-board-c
-release_date: null
-sku: pcie-to-m-2-board-c
-spec: null
-status: ''
-vendor: waveshare

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '109020022'
+ref: seeedstudio/109020022
+vendor: seeedstudio
+sku: '109020022'
+name: '109020022'
 description: Grove - GPS (Air530),GPS location, Long-distance communication
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/Grove-GPS-Air530-p-109020022.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/0/3/03_11.png
   - https://www.seeedstudio.com/img/ab
-  models: []
-  products:
-  - https://www.seeedstudio.com/Grove-GPS-Air530-p-109020022.html
-  repositories: []
-name: '109020022'
-ref: seeedstudio/109020022
-release_date: null
-sku: '109020022'
-spec: null
-status: ''
-vendor: seeedstudio

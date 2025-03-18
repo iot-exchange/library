@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-5935
+ref: mikroe/mikroe-5935
+vendor: mikroe
+sku: mikroe-5935
+name: MIKROE-5935
 description: NFC 6 Click is a compact add-on board that contains an NFC transceiver
   for contactless communication. This board features the ST25R95, a near-field communication
   transceiver from STMicroelectronics. It supports reader and writer operating modes
   and emulates ISO/IEC 14443-3 Type A cards. The RF communications are done over the
   13.56MHz. The transceiver...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/nfc-6-click/nfc-6-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=3831
   - https://www.mikroe.com/nfc-6-click
-  repositories: []
-name: MIKROE-5935
-ref: mikroe/mikroe-5935
-release_date: null
-sku: mikroe-5935
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/nfc-6-click/nfc-6-click-home_default-1.jpg?v=100

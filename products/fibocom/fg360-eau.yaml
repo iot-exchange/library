@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: fg360-eau
+ref: fibocom/fg360-eau
+vendor: fibocom
+sku: fg360-eau
+name: FG360-EAU
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/5G-FG360-EAU.html
-  repositories: []
-name: FG360-EAU
-ref: fibocom/fg360-eau
-release_date: null
-sku: fg360-eau
-spec: null
-status: ''
-vendor: fibocom
+  images: []

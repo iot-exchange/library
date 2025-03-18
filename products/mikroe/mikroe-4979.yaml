@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4979
+ref: mikroe/mikroe-4979
+vendor: mikroe
+sku: mikroe-4979
+name: MIKROE-4979
 description: Thermo 23 Click is a compact add-on board that provides an accurate temperature
   measurement. This board features the TMP144, a high-precision digital temperature
   sensor from Texas Instruments. The temperature sensor in the TMP144 is the chip
   itself, that houses temperature sensor circuitry, 12-bit analog-to-digital converter
   (ADC), a control logic, and a...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/thermo-23-click/thermo-23-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/thermo-23-click
-  repositories: []
-name: MIKROE-4979
-ref: mikroe/mikroe-4979
-release_date: null
-sku: mikroe-4979
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thermo-23-click/thermo-23-click-home_default-1.jpg?v=100

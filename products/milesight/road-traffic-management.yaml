@@ -1,0 +1,12 @@
+id: road-traffic-management
+ref: milesight/road-traffic-management
+vendor: milesight
+sku: road-traffic-management
+name: Road Traffic Management
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/security/product/intelligent-traffic#road-traffic-management
+  images: []

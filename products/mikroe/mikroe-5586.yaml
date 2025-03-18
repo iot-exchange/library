@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-5586
+ref: mikroe/mikroe-5586
+vendor: mikroe
+sku: mikroe-5586
+name: MIKROE-5586
 description: "Thermo 29 Click is a compact add-on board for accurate temperature measurements.\
   \ This board features the TMP126, a high-accuracy SPI-configurable digital temperature\
   \ sensor from Texas Instruments. The TMP126 consists of an internal thermal BJT\
   \ factory-calibrated sensor, 14-bit ADC, and a digital signal processor, offering\
   \ a high accuracy of \xB10.25\xB0C."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/led-driver-15-click/led-driver-15-click-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/thermo-29-click/thermo-29-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/led-driver-15-click
   - https://www.mikroe.com/thermo-29-click
-  repositories: []
-name: MIKROE-5586
-ref: mikroe/mikroe-5586
-release_date: null
-sku: mikroe-5586
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/led-driver-15-click/led-driver-15-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/thermo-29-click/thermo-29-click-home_default-1.jpg?v=100

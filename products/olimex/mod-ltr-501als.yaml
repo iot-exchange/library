@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-ltr-501als
+ref: olimex/mod-ltr-501als
+vendor: olimex
+sku: mod-ltr-501als
+name: MOD-LTR-501ALS
 description: ''
+status: ''
 extra:
   bulkPrice: 3.16 EUR
   discountedPrice: 3.56 EUR
   price: 3.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Sensors/MOD-LTR-501ALS/images/thumbs/200x150/MOD-LTR501-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Sensors/MOD-LTR-501ALS/open-source-hardware
-  repositories: []
-name: MOD-LTR-501ALS
-ref: olimex/mod-ltr-501als
-release_date: null
-sku: mod-ltr-501als
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Sensors/MOD-LTR-501ALS/images/thumbs/200x150/MOD-LTR501-1.jpg

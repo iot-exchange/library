@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: cm7-io-wireless-b
+ref: waveshare/cm7-io-wireless-b
+vendor: waveshare
+sku: cm7-io-wireless-b
+name: cm7_io_wireless_b
 description: Industrial IoT 5G/4G Wireless Expansion Module Designed for Raspberry
   Pi Compute Module 4, With UPS Module, Onboard M.2 Slot
+status: ''
 extra:
   Multi Options: ''
   Price: $62.99 - $117.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-io-wireless-base-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/cm4-io-wireless-base-b.htm
-  repositories: []
-name: cm7_io_wireless_b
-ref: waveshare/cm7-io-wireless-b
-release_date: null
-sku: cm7-io-wireless-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-io-wireless-base-b-1.jpg

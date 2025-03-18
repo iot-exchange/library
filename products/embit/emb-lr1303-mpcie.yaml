@@ -1,0 +1,13 @@
+id: emb-lr1303-mpcie
+ref: embit/emb-lr1303-mpcie
+vendor: embit
+sku: emb-lr1303-mpcie
+name: EMB-LR1303-mPCIe
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.embit.eu/products/emb-lr1303-mpcie/
+  images:
+  - https://www.embit.eu/wp-content/uploads/2024/01/EMB-LR1303-modifica-1-300x225.jpg

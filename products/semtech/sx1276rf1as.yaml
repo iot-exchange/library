@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: sx1276rf1as
+ref: semtech/sx1276rf1as
+vendor: semtech
+sku: sx1276rf1as
+name: SX1276RF1AS
 description: "LoRa Connect\u2122 Mbed Shield, SX1276, 433MHz (LF) or 868MHz (HF)"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.semtech.com/products/wireless-rf/lora-connect/sx1276mb1mas
-  repositories: []
-name: SX1276RF1AS
-ref: semtech/sx1276rf1as
-release_date: null
-sku: sx1276rf1as
-spec: null
-status: ''
-vendor: semtech
+  images: []

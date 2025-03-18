@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pi400-ord
+ref: waveshare/pi400-ord
+vendor: waveshare
+sku: pi400-ord
+name: pi400_ord
 description: Raspberry Pi 400 Keyboard Computer with Third-Party Accessories
+status: ''
 extra:
   Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi400-kit-ord-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pi400-kit-ord.htm
   - https://www.waveshare.com/product/pi400-kit-ord.htm "Raspberry Pi 400 Keyboard
     Computer with Third-Party Accessories"
-  repositories: []
-name: pi400_ord
-ref: waveshare/pi400-ord
-release_date: null
-sku: pi400-ord
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi400-kit-ord-1.jpg

@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-6222
+ref: mikroe/mikroe-6222
+vendor: mikroe
+sku: mikroe-6222
+name: MIKROE-6222
 description: This dark blue t-shirt is made from 100% cotton, ensuring both comfort
   and durability. The front features the EmbeddedWiki logo print with a bold message
   that adds a playful touch to any outfit. This message reflects the values of MIKROE,
   where everyone is dedicated to hard work, delivering quality products, supporting
   customers, and making a positive...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/embeddedwiki-dark-blue/embeddedwiki-dark-blue-home_default-2.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=3921&ipa=661
   - https://www.mikroe.com/embeddedwiki-dark-blue
-  repositories: []
-name: MIKROE-6222
-ref: mikroe/mikroe-6222
-release_date: null
-sku: mikroe-6222
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/embeddedwiki-dark-blue/embeddedwiki-dark-blue-home_default-2.jpg?v=100

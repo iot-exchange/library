@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '2612019024001'
+ref: we/2612019024001
+vendor: we
+sku: '2612019024001'
+name: '2612019024001'
 description: ''
+status: Active
 extra:
   Expected lifetime: '>10 years'
   Product type: EV-Kit Proteus-e
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/components/products/manual/2612019024001_Proteus-e EV
     2612019204001 Manual_rev1.5.pdf
   - https://www.we-online.com/en/components/products/PROTEUS-E#2612019024001
-  repositories: []
-name: '2612019024001'
-ref: we/2612019024001
-release_date: null
-sku: '2612019024001'
-spec: null
-status: Active
-vendor: we
+  images: []

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5078
+ref: mikroe/mikroe-5078
+vendor: mikroe
+sku: mikroe-5078
+name: MIKROE-5078
 description: GNSS 10 Click is a compact add-on board that provides fast positioning
   capability. This board features the NEO-M8J, a standard precision GNSS module built
   on the high-performing M8 GNSS engine in the industry-proven NEO form factor from
   u-blox. This module utilizes concurrent reception of up to three GNSS systems (GPS/Galileo
   together with BeiDou or...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gnss-10-click/gnss-10-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/gnss-10-click
-  repositories: []
-name: MIKROE-5078
-ref: mikroe/mikroe-5078
-release_date: null
-sku: mikroe-5078
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gnss-10-click/gnss-10-click-home_default-1.jpg?v=100

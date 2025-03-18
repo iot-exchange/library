@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5129
+ref: mikroe/mikroe-5129
+vendor: mikroe
+sku: mikroe-5129
+name: MIKROE-5129
 description: RTC 17 Click is a compact add-on board that accurately keeps the time
   of a day. This board features the RV5C387A, a CMOS real-time clock with a built-in
   interrupt generation function from Nisshinbo Micro Devices Inc, to perform serial
   transmission of time and calendar data to the MCU. The BU9873 provides information
   like year, month, day, weekday, hours,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/rtc-17-click/rtc-17-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=63#RTC-17-Click
-  repositories: []
-name: MIKROE-5129
-ref: mikroe/mikroe-5129
-release_date: null
-sku: mikroe-5129
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rtc-17-click/rtc-17-click-home_default-1.jpg?v=100

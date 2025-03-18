@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: jetson-orin-nx-dev-kit
+ref: waveshare/jetson-orin-nx-dev-kit
+vendor: waveshare
+sku: jetson-orin-nx-dev-kit
+name: jetson_orin_nx_dev_kit
 description: Jetson Orin NX AI Development Kit For Embedded And Edge Systems, Options
   for 8GB/16GB Memory Jetson Orin NX Module
+status: ''
 extra:
   multiOptions: Multi Options
   price: $739.99 - $1,119.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-orin-nx-16g-dev-kit-1_14.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/jetson-orin-nx-16g-dev-kit.htm
   - https://www.waveshare.com/product/jetson-orin-nx-16g-dev-kit.htm "Jetson Orin
     NX AI Development Kit For Embedded And Edge Systems, Options for 8GB/16GB Memory
     Jetson Orin NX Module"
-  repositories: []
-name: jetson_orin_nx_dev_kit
-ref: waveshare/jetson-orin-nx-dev-kit
-release_date: null
-sku: jetson-orin-nx-dev-kit
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-orin-nx-16g-dev-kit-1_14.jpg

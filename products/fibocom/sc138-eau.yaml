@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: sc138-eau
+ref: fibocom/sc138-eau
+vendor: fibocom
+sku: sc138-eau
+name: SC138-EAU
 description: 4G premium module for the European, Australian, and Brazilian markets.
+status: ''
 extra:
   Bands: 'LTE: B1/3/5/7/8/20/28/38/40/41'
   Form Factor: LGA / LCC
   Region: Asia, Europe, Australia, Brazil
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTE-SC138-EAU.html
-  repositories: []
-name: SC138-EAU
-ref: fibocom/sc138-eau
-release_date: null
-sku: sc138-eau
-spec: null
-status: ''
-vendor: fibocom
+  images: []

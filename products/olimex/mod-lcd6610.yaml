@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-lcd6610
+ref: olimex/mod-lcd6610
+vendor: olimex
+sku: mod-lcd6610
+name: MOD-LCD6610
 description: ''
+status: ''
 extra:
   bulkPrice: 8.96 EUR
   discountedPrice: 9.45 EUR
   price: 9.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/LCD/MOD-LCD6610/images/thumbs/200x150/MOD-LCD6610-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/LCD/MOD-LCD6610/open-source-hardware
-  repositories: []
-name: MOD-LCD6610
-ref: olimex/mod-lcd6610
-release_date: null
-sku: mod-lcd6610
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/LCD/MOD-LCD6610/images/thumbs/200x150/MOD-LCD6610-1.jpg

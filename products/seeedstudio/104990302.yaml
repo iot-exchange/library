@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: '104990302'
+ref: seeedstudio/104990302
+vendor: seeedstudio
+sku: '104990302'
+name: '104990302'
 description: WS2813 is an upgraded version of WS2812.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.seeedstudio.com/WS2813B-Digital-RGB-LED-Flexi-Strip-30-LED-1-Meter-p-2815.html
-  repositories: []
-name: '104990302'
-ref: seeedstudio/104990302
-release_date: null
-sku: '104990302'
-spec: null
-status: ''
-vendor: seeedstudio
+  images: []

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: chn-sld802
+ref: olimex/chn-sld802
+vendor: olimex
+sku: chn-sld802
+name: CHN-SLD802
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Soldering/CHN-SLD802/images/thumbs/200x150/CHN-SLD802.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Soldering/CHN-SLD802/
-  repositories: []
-name: CHN-SLD802
-ref: olimex/chn-sld802
-release_date: null
-sku: chn-sld802
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/CHN-SLD802/images/thumbs/200x150/CHN-SLD802.jpg

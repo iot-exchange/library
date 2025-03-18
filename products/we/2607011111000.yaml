@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: '2607011111000'
+ref: we/2607011111000
+vendor: we
+sku: '2607011111000'
+name: '2607011111000'
 description: ''
+status: New
 extra:
   Antenna type: RF pad and internal antenna
   Current consumption: '-85'
@@ -12,19 +16,8 @@ extra:
   Sensitivity: '-4'
   Voltage: '4'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o164911v214%20Single_eiSmart_USB-Stick.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/THYONE-E#2612011021000
   - https://www.we-online.com/redexpert/#/module/30/selecteditems/2607011111000/productdata/=2607011111000/dr/onlcat
-  repositories: []
-name: '2607011111000'
-ref: we/2607011111000
-release_date: null
-sku: '2607011111000'
-spec: null
-status: New
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o164911v214%20Single_eiSmart_USB-Stick.jpg

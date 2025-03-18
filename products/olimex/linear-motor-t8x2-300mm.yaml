@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: linear-motor-t8x2-300mm
+ref: olimex/linear-motor-t8x2-300mm
+vendor: olimex
+sku: linear-motor-t8x2-300mm
+name: LINEAR-MOTOR-T8X2-300MM
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/LINEAR-MOTOR-T8X2-300MM/images/thumbs/200x150/T8x2-300mm-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/LINEAR-MOTOR-T8X2-300MM/
-  repositories: []
-name: LINEAR-MOTOR-T8X2-300MM
-ref: olimex/linear-motor-t8x2-300mm
-release_date: null
-sku: linear-motor-t8x2-300mm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/LINEAR-MOTOR-T8X2-300MM/images/thumbs/200x150/T8x2-300mm-1.jpg

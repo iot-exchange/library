@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: aqs01-l
+ref: dragino/aqs01-l
+vendor: dragino
+sku: aqs01-l
+name: AQS01-L
 description: LoRaWAN CO2 Sensor. Monitor CO2/Temperature/Relative Humidity/Pressure.
+status: ''
 extra:
   Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865
   Battery: 4000mAh
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/daf30d03da42a5291604b3fcca07f0d0_L.jpg
-  models: []
   products:
   - https://dragino.com/products/water-air-quality-sensor/item/325-aqs01-l.html
-  repositories: []
-name: AQS01-L
-ref: dragino/aqs01-l
-release_date: null
-sku: aqs01-l
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/daf30d03da42a5291604b3fcca07f0d0_L.jpg

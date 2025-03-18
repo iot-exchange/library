@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: '107990273'
+ref: seeedstudio/107990273
+vendor: seeedstudio
+sku: '107990273'
+name: '107990273'
 description: "Powered by XMOS XU316 AI Sound and Audio chipset, this dev board excels\
   \ in audio processing with its integrated dual microphone array, ideal for speech\
   \ recognition and voice control. Featuring advanced onboard NLU algorithms, the\
@@ -7,22 +10,12 @@ description: "Powered by XMOS XU316 AI Sound and Audio chipset, this dev board e
   \ It supports I2S and USB connections and is compatible with Seeed Studio XIAO ESP32S3\
   \ (Sense), Adafruit QT Py, Raspberry Pi, and PC. \u3010Valentine's Day offer: 5%\
   \ off for 2 or more items, ends on February 18\uFF0C2025\u3011"
+status: ''
 extra:
   price: $49.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-107990273-respeaker-lite-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/ReSpeaker-Lite-p-5928.html
   - https://www.seeedstudio.com/Seeed-XIAO-Starter-Kit-p-5378.html
-  repositories: []
-name: '107990273'
-ref: seeedstudio/107990273
-release_date: null
-sku: '107990273'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-107990273-respeaker-lite-45font.jpg

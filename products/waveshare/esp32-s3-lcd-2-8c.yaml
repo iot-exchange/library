@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: esp32-s3-lcd-2-8c
+ref: waveshare/esp32-s3-lcd-2-8c
+vendor: waveshare
+sku: esp32-s3-lcd-2-8c
+name: ESP32-S3-LCD-2.8C
 description: "ESP32-S3 2.8inch Round Display Development Board, 480\xD7480, 32-bit\
   \ LX7 Dual-core Processor, Supports WiFi & Bluetooth, Options For Touch Function,\
   \ ESP32 With Display"
+status: ''
 extra:
   Multi Options: ''
   Price: $32.99 - $39.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/esp32-s3-touch-lcd-2.8c.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-2.8c-2.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/g/ugv-beast-pt-jetson-orin-ros2-kit-1.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/esp32-s3-touch-lcd-2.8c.htm
-  repositories: []
-name: ESP32-S3-LCD-2.8C
-ref: waveshare/esp32-s3-lcd-2-8c
-release_date: null
-sku: esp32-s3-lcd-2-8c
-spec: null
-status: ''
-vendor: waveshare

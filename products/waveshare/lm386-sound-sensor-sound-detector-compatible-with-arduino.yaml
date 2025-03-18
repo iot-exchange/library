@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: lm386-sound-sensor-sound-detector-compatible-with-arduino
+ref: waveshare/lm386-sound-sensor-sound-detector-compatible-with-arduino
+vendor: waveshare
+sku: lm386-sound-sensor-sound-detector-compatible-with-arduino
+name: LM386 Sound Sensor, Sound Detector, Compatible with Arduino
 description: $3.29  -  $3.89
+status: ''
 extra:
   SKU: '9534'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/o/sound-sensor-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/sound-sensor.htm
-  repositories: []
-name: LM386 Sound Sensor, Sound Detector, Compatible with Arduino
-ref: waveshare/lm386-sound-sensor-sound-detector-compatible-with-arduino
-release_date: null
-sku: lm386-sound-sensor-sound-detector-compatible-with-arduino
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/o/sound-sensor-1.jpg

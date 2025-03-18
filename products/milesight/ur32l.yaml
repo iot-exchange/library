@@ -1,0 +1,13 @@
+id: ur32l
+ref: milesight/ur32l
+vendor: milesight
+sku: ur32l
+name: UR32L
+description: Lite Series UR32L 4G Industrial Router Rugged & Secure
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/cellular/ur32l
+  images:
+  - https://www.milesight.com/static/pc/en/product/center/5g-cellular-products/index/ur32l-router.png?t=1742198692607

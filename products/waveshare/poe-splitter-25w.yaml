@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: poe-splitter-25w
+ref: waveshare/poe-splitter-25w
+vendor: waveshare
+sku: poe-splitter-25w
+name: poe_splitter,_25w
 description: Industrial Gigabit PoE Splitter, options for 5V 5A Type-C / DC Power
   Output Port, Onboard MPS Control Chip, Safer And More Stable
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/o/poe-splitter-25w-type-c-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/poe-splitter-25w-type-c.htm
-  repositories: []
-name: poe_splitter,_25w
-ref: waveshare/poe-splitter-25w
-release_date: null
-sku: poe-splitter-25w
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/o/poe-splitter-25w-type-c-1.jpg

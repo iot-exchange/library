@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: modbus-rtu-analog-input-8ch
+ref: waveshare/modbus-rtu-analog-input-8ch
+vendor: waveshare
+sku: modbus-rtu-analog-input-8ch
+name: modbus_rtu_analog_input_8ch
 description: Industrial 8-Ch Analog Acquisition Module, 12-bit High-precision, Supports
   Voltage And Current Acquisition
+status: ''
 extra:
   Price: $24.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/o/modbus-rtu-analog-input-8ch-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/modbus-rtu-analog-input-8ch.htm
-  repositories: []
-name: modbus_rtu_analog_input_8ch
-ref: waveshare/modbus-rtu-analog-input-8ch
-release_date: null
-sku: modbus-rtu-analog-input-8ch
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/o/modbus-rtu-analog-input-8ch-1.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '101021072'
+ref: seeedstudio/101021072
+vendor: seeedstudio
+sku: '101021072'
+name: '101021072'
 description: The Grove AS3935 Lightning sensor is an easy-to-use sensor built around
   the AS3935 IC, which can detect both cloud-to-ground and intra-cloud types of lightning
   for up to 30 or 40 km. It is programmable with I2C or SPI communication and supports
   3.3V and 5.0V power supply.
+status: ''
 extra:
   Price: $26.90
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101021072-lightning-sensor-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Grove-Lightning-Sensor-AS3935-p-5603.html
-  repositories: []
-name: '101021072'
-ref: seeedstudio/101021072
-release_date: null
-sku: '101021072'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101021072-lightning-sensor-45font.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: stm32wl33kc
+ref: st/stm32wl33kc
+vendor: st
+sku: stm32wl33kc
+name: STM32WL33KC
 description: Sub-GHz Wireless Microcontrollers. Single-core Arm Cortex-M0+ @64 MHz
   with 256 Kbytes of Flash memory, 32 Kbytes of SRAM.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.st.com/en/microcontrollers-microprocessors/stm32wl33kc.html
-  repositories: []
-name: STM32WL33KC
-ref: st/stm32wl33kc
-release_date: null
-sku: stm32wl33kc
-spec: null
-status: ''
-vendor: st
+  images: []

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: ac4868
+ref: ezurio/ac4868
+vendor: ezurio
+sku: ac4868
+name: AC4868
 description: 900 MHz FHSS
+status: EOL
 extra:
   Antenna Options: MMCX Connector
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2019-06/ramp-ism-module_0.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/ramp-ism-modules/proprietary-900-mhz-modules/ac4868
-  repositories: []
-name: AC4868
-ref: ezurio/ac4868
-release_date: null
-sku: ac4868
-spec: null
-status: EOL
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2019-06/ramp-ism-module_0.png

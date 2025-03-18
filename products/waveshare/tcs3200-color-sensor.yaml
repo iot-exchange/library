@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: tcs3200-color-sensor
+ref: waveshare/tcs3200-color-sensor
+vendor: waveshare
+sku: tcs3200-color-sensor
+name: TCS3200 Color Sensor
 description: TCS3200 Color Sensor
+status: ''
 extra:
   Price: $9.09 - $9.99
   SKU: '9520'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/color-sensor_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/color-sensor.htm
-  repositories: []
-name: TCS3200 Color Sensor
-ref: waveshare/tcs3200-color-sensor
-release_date: null
-sku: tcs3200-color-sensor
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/color-sensor_l_1_5.jpg

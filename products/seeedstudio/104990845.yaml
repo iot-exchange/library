@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '104990845'
+ref: seeedstudio/104990845
+vendor: seeedstudio
+sku: '104990845'
+name: '104990845'
 description: 2.13" Monochrome eInk / ePaper Display with 122x250 Pixels, SPI interface,
   Support XIAO/Arduino/STM32. The 2.13 inch E-paper Display offers a high-quality,
   low-power solution for a wide range of applications.
+status: ''
 extra:
   price: $6.50
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-308030042-e-ink1.54-monochrome-epaper-display-with-200x200-pixels-45font.jpg
-  - https://www.seeedstudio.com/img/y
-  models: []
   products:
   - https://www.seeedstudio.com/2-13-Monochrome-ePaper-Display-with-122x250-Pixels-p-5778.html
   - https://www.seeedstudio.com/2.13-Monochrome-eInk-ePaper-Display-with-122x250-Pixels-SPI-interface-Support-XIAO-Arduino-STM32.html
-  repositories: []
-name: '104990845'
-ref: seeedstudio/104990845
-release_date: null
-sku: '104990845'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-308030042-e-ink1.54-monochrome-epaper-display-with-200x200-pixels-45font.jpg
+  - https://www.seeedstudio.com/img/y

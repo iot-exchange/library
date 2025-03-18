@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '102010428'
+ref: seeedstudio/102010428
+vendor: seeedstudio
+sku: '102010428'
+name: '102010428'
 description: Seeed Studio XIAO nRF52840 Sense by Nordic is carrying Bluetooth 5.0
   wireless capability and is able to operate with low power consumption. Featuring
   onboard IMU and PDM, it can be your best tool for embedded Machine Learning projects.
+status: ''
 extra:
   price: $15.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102010428-seeed-studio-xiao-rp2040-45font_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Seeed-XIAO-BLE-Sense-nRF52840-p-5253.html
-  repositories: []
-name: '102010428'
-ref: seeedstudio/102010428
-release_date: null
-sku: '102010428'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102010428-seeed-studio-xiao-rp2040-45font_1.jpg

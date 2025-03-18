@@ -1,8 +1,12 @@
-alternatives: []
-certifications: []
+id: esp32-s3-devkitm-1
+ref: espressif/esp32-s3-devkitm-1
+vendor: espressif
+sku: esp32-s3-devkitm-1
+name: ESP32-S3-DevKitM-1
 description: ESP32-S3 general-purpose development board, based on ESP32-S3-MINI-1
   or ESP32-S3-MINI-1U. It has all the ESP32-S3 pins exposed and is easy to connect
   and use.
+status: ''
 extra:
   Flash / PSRAM: 8 MB Flash
   Getting Started: User Guide
@@ -10,18 +14,7 @@ extra:
   Related Products: ESP32-S3-MINI-1, ESP32-S3-MINI-1U
   UI: Buttons, LEDs
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/dev-board/ESP32-S3-DevKitM-1_S.png
-  models: []
   products:
   - https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitm-1.html
-  repositories: []
-name: ESP32-S3-DevKitM-1
-ref: espressif/esp32-s3-devkitm-1
-release_date: null
-sku: esp32-s3-devkitm-1
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/dev-board/ESP32-S3-DevKitM-1_S.png

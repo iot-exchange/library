@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: avr-p20-10mhz
+ref: olimex/avr-p20-10mhz
+vendor: olimex
+sku: avr-p20-10mhz
+name: AVR-P20-10MHz
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/AVR/Proto/AVR-P20-10MHz/images/thumbs/200x150/AVR-P20-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/AVR/Proto/AVR-P20-10MHz/
-  repositories: []
-name: AVR-P20-10MHz
-ref: olimex/avr-p20-10mhz
-release_date: null
-sku: avr-p20-10mhz
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/AVR/Proto/AVR-P20-10MHz/images/thumbs/200x150/AVR-P20-01.jpg

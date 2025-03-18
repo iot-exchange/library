@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: type-1yn
+ref: murata/type-1yn
+vendor: murata
+sku: type-1yn
+name: Type 1YN
 description: Wi-Fi 4 module with Bluetooth support
+status: ''
 extra:
   Bluetooth: 5.1 BR/EDR/LE
   Chipset: CYW43439
@@ -24,23 +28,12 @@ extra:
   Processor: 'No'
   Receive Mode Current: 47mA
   RoHS Support: 'Yes'
-  Sleep Mode Current (Bluetooth): ''
   Sleep Mode Current (Wi-Fi): 28mA
   Supply Voltage: 3.2V to 4.2V
   Technology: Wi-Fi,Bluetooth
-  Transmit Mode Current (Bluetooth): ''
   Transmit Mode Current (Wi-Fi): 320mA @ 11Mbps (2.4GHz)
+  Sleep Mode Current (Bluetooth): ''
+  Transmit Mode Current (Bluetooth): ''
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Type 1YN
-ref: murata/type-1yn
-release_date: null
-sku: type-1yn
-spec: null
-status: ''
-vendor: murata
+  images: []

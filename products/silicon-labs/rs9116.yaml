@@ -1,29 +1,22 @@
-alternatives: []
-certifications: []
+id: rs9116
+ref: silicon-labs/rs9116
+vendor: silicon-labs
+sku: rs9116
+name: RS9116
 description: Provides a comprehensive multiprotocol ultra-low-power solution including
   Wi-Fi 4 and dual-mode Bluetooth 5.
+status: ''
 extra:
-  Application MCU: UART, SPI, SDIO, USB CDC
   Bluetooth: Dual-mode 5
+  Wi-Fi: 802.11 b/g/n
+  protocol: Wi-Fi 4, Bluetooth Classic, Bluetooth LE
+  Application MCU: UART, SPI, SDIO, USB CDC
   Frequency Bands: Single Band (2.4)
   Key Peripherals: ''
   Onboard IP Support: ''
-  Wi-Fi: 802.11 b/g/n
-  protocol: Wi-Fi 4, Bluetooth Classic, Bluetooth LE
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.silabs.com/content/siliconlabs/en/wireless/wi-fi/rs9116-wi-fi-ncp-socs.thumb.256.144.png
-  models: []
   products:
   - https://www.silabs.com/security/secure-vault
   - https://www.silabs.com/wireless/wi-fi/rs9116-wi-fi-ncp-socs
-  repositories: []
-name: RS9116
-ref: silicon-labs/rs9116
-release_date: null
-sku: rs9116
-spec: null
-status: ''
-vendor: silicon-labs
+  images:
+  - https://www.silabs.com/content/siliconlabs/en/wireless/wi-fi/rs9116-wi-fi-ncp-socs.thumb.256.144.png

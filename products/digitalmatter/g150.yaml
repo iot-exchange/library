@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: g150
+ref: digitalmatter/g150
+vendor: digitalmatter
+sku: g150
+name: G150
 description: Advanced wired options for comprehensive fleet and driver management.
+status: ''
 extra:
   Backup Battery: 'Yes'
   Connectivity: 4G LTE Cat 1bis and 2G fallback
@@ -11,17 +15,6 @@ extra:
   Real-Time Tracking: 'Yes'
   Remote Immobilization: 'Yes'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.digitalmatter.com/overview#G150
-  repositories: []
-name: G150
-ref: digitalmatter/g150
-release_date: null
-sku: g150
-spec: null
-status: ''
-vendor: digitalmatter
+  images: []

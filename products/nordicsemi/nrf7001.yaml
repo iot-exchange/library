@@ -1,27 +1,20 @@
-alternatives: []
-certifications: []
+id: nrf7001
+ref: nordicsemi/nrf7001
+vendor: nordicsemi
+sku: nrf7001
+name: nRF7001
 description: Low-power, advanced security, seamless coexistence 2.4 GHz single-band
   Low-power and Secure Wi-Fi for the IoT Ideal coexistence with Bluetooth LE Supported
   in nRF Connect SDK Wi-Fi 6 Station (STA) Complies with 802.11b/g/n/ax 1 Spatial
   Stream (SS) 20 MHz channel bandwidth 64 QAM (MCS7), 86 Mbps PHY throughput OFDMA
   (Downlink and Uplink) BSS Coloring TWT SPI / QSPI Co-existence interfaces
+status: ''
 extra:
   Coexistence: Bluetooth LE
   Frequency Bands: 2.4GHz
   Wi-Fi Standard: Wi-Fi 6
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF70-Series/nRF7001-QFN48-6x6_stacked_web.png?h=250&iar=0&mh=250&w=252&hash=17E894E51D6D9331ED5DF7D3235D2338
-  models: []
   products:
   - https://www.nordicsemi.com/Products/nRF7001
-  repositories: []
-name: nRF7001
-ref: nordicsemi/nrf7001
-release_date: null
-sku: nrf7001
-spec: null
-status: ''
-vendor: nordicsemi
+  images:
+  - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF70-Series/nRF7001-QFN48-6x6_stacked_web.png?h=250&iar=0&mh=250&w=252&hash=17E894E51D6D9331ED5DF7D3235D2338

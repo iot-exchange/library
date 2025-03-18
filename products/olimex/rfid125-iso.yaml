@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: rfid125-iso
+ref: olimex/rfid125-iso
+vendor: olimex
+sku: rfid125-iso
+name: RFID125-ISO
 description: ''
+status: ''
 extra:
   discountedPrice1: 0.46 EUR
   discountedPrice2: 0.41 EUR
   price: 0.51 EUR
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-LIME2-s16M/open-source-hardwareo
-  repositories: []
-name: RFID125-ISO
-ref: olimex/rfid125-iso
-release_date: null
-sku: rfid125-iso
-spec: null
-status: ''
-vendor: olimex
+  images: []

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '318020070'
+ref: seeedstudio/318020070
+vendor: seeedstudio
+sku: '318020070'
+name: '318020070'
 description: Patch 2.4GHz perfect for WiFi, Wireless Video, Bluetooth, FPV SMA standard
   connector for direct fit in RF Explorer devices
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.seeedstudio.com/Directional-Patch-2-4Ghz-SMA-Articulated-Antenna-p-2670.html
-  repositories: []
-name: '318020070'
-ref: seeedstudio/318020070
-release_date: null
-sku: '318020070'
-spec: null
-status: ''
-vendor: seeedstudio
+  images: []

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: pcie-to-5g-hat-for-pi5
+ref: waveshare/pcie-to-5g-hat-for-pi5
+vendor: waveshare
+sku: pcie-to-5g-hat-for-pi5
+name: pcie_to_5g_hat_for_pi5
 description: PCIe to 5G/4G/3G HAT designed for Raspberry Pi 5, Compatible with 3042/3052
   packages SIMCom/Quectel 5G modules, Raspberry Pi 5 HAT, Options For 5G Module
+status: ''
 extra:
   Price: $239.99 - $314.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/m/rm520n-gl-5g-hat-plus-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rm520n-gl-5g-hat-plus.htm
-  repositories: []
-name: pcie_to_5g_hat_for_pi5
-ref: waveshare/pcie-to-5g-hat-for-pi5
-release_date: null
-sku: pcie-to-5g-hat-for-pi5
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/m/rm520n-gl-5g-hat-plus-1.jpg

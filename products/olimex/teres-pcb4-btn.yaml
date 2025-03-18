@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-pcb4-btn
+ref: olimex/teres-pcb4-btn
+vendor: olimex
+sku: teres-pcb4-btn
+name: TERES-PCB4-BTN
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-PCB4-BTN/images/thumbs/200x150/TERES-PCB4-BTN.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-PCB4-BTN/
-  repositories: []
-name: TERES-PCB4-BTN
-ref: olimex/teres-pcb4-btn
-release_date: null
-sku: teres-pcb4-btn
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-PCB4-BTN/images/thumbs/200x150/TERES-PCB4-BTN.jpg

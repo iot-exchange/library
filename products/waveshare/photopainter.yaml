@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: photopainter
+ref: waveshare/photopainter
+vendor: waveshare
+sku: photopainter
+name: photopainter
 description: "7.3inch ACeP 7-Color E-Paper with Solid Wood Photo Frame, Ultra-long\
   \ Standby, 800 \xD7 480 Resolution, Batteries Optional"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/h/photopainter-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/photopainter.htm
-  repositories: []
-name: photopainter
-ref: waveshare/photopainter
-release_date: null
-sku: photopainter
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/h/photopainter-1.jpg

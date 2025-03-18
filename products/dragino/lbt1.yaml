@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: lbt1
+ref: dragino/lbt1
+vendor: dragino
+sku: lbt1
+name: LBT1
 description: LoRaWAN BLE Indoor Tracker
+status: EOL, Replaced by TrackerD
 extra:
   Bands: EU433, CN470, EU868, IN865, KR920, AS923, AU915, US915
   Features: Walk Counting
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/461011bcaf5b5e723e897c33f049f169_L.jpg
-  models: []
   products:
   - https://dragino.com/products/tracker/item/165-lbt1.html
-  repositories: []
-name: LBT1
-ref: dragino/lbt1
-release_date: null
-sku: lbt1
-spec: null
-status: EOL, Replaced by TrackerD
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/461011bcaf5b5e723e897c33f049f169_L.jpg

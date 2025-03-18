@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: li-ion-battery-hat-en
+ref: waveshare/li-ion-battery-hat-en
+vendor: waveshare
+sku: li-ion-battery-hat-en
+name: Li-ion Battery HAT (EN)
 description: Li-ion Battery HAT for Raspberry Pi, 5V Output, Quick Charge
+status: ''
 extra:
   Price: $17.99 - $18.99
   SKU: '15141'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/li-ion-battery-hat.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/i/li-ion-battery-hat-1_1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/i/li-ion-battery-hat-3_3.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/li-ion-battery-hat.htm
-  repositories: []
-name: Li-ion Battery HAT (EN)
-ref: waveshare/li-ion-battery-hat-en
-release_date: null
-sku: li-ion-battery-hat-en
-spec: null
-status: ''
-vendor: waveshare

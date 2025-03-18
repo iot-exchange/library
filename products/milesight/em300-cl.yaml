@@ -1,0 +1,13 @@
+id: em300-cl
+ref: milesight/em300-cl
+vendor: milesight
+sku: em300-cl
+name: EM300-CL
+description: Capacitive Level Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/em300-cl
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/environmental-monitoring-em300-series/capacitive-level-sensor-em300-cl.png?t=1742198585390

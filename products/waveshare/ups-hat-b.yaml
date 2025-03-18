@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: ups-hat-b
+ref: waveshare/ups-hat-b
+vendor: waveshare
+sku: ups-hat-b
+name: ups_hat_b
 description: Uninterruptible Power Supply UPS HAT (B) for Raspberry Pi, 5V Output,
   up to 5A Current, Pogo Pins Connector
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/p/ups-hat-b-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ups-hat-b.htm
-  repositories: []
-name: ups_hat_b
-ref: waveshare/ups-hat-b
-release_date: null
-sku: ups-hat-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/p/ups-hat-b-2.jpg

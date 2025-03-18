@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: imx378-190-12-3mp-camera
+ref: waveshare/imx378-190-12-3mp-camera
+vendor: waveshare
+sku: imx378-190-12-3mp-camera
+name: IMX378-190 12.3MP Camera
 description: IMX378-190 Fisheye Lens Camera for Raspberry Pi, 12.3MP, Wider Field
   Of View
+status: ''
 extra:
-  Price: $46.29 - $47.99
   SKU: '21658'
+  Price: $46.29 - $47.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/imx378-190-12.3mp-camera.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx378-190-12.3mp-camera-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx378-190-12.3mp-camera-5.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/imx378-190-12.3mp-camera.htm
-  repositories: []
-name: IMX378-190 12.3MP Camera
-ref: waveshare/imx378-190-12-3mp-camera
-release_date: null
-sku: imx378-190-12-3mp-camera
-spec: null
-status: ''
-vendor: waveshare

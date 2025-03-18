@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: lora-lorawan-modules
+ref: murata/lora-lorawan-modules
+vendor: murata
+sku: lora-lorawan-modules
+name: LoRa (LoRaWAN) Modules
 description: "Murata is a member of the LoRa Alliance\u2122 and has worked with STMicro\
   \ and Semtech to design a low-cost, compact LoRaWAN\u2122 module that supports a\
   \ variety of sensors and long-range wireless protocols. Murata's Low Power Wide\
   \ Area (LPWA) wireless modules are the industry\u2019s smallest modules, enabling\
   \ the design of a wide range of compact end devices. It is also certified by the\
   \ LoRa AllianceTM."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/products/connectivitymodule/lora
   - https://www.murata.com/en-eu/search/productsearch?cate=cgsubLoRaWANModules
-  repositories: []
-name: LoRa (LoRaWAN) Modules
-ref: murata/lora-lorawan-modules
-release_date: null
-sku: lora-lorawan-modules
-spec: null
-status: ''
-vendor: murata
+  images: []

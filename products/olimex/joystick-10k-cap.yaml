@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: joystick-10k-cap
+ref: olimex/joystick-10k-cap
+vendor: olimex
+sku: joystick-10k-cap
+name: JOYSTICK-10K-CAP
 description: ''
+status: ''
 extra:
   price1: 0.60 EUR
   price2: 0.54 EUR
   price3: 0.48 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Misc/JOYSTICK/images/thumbs/200x150/JOYSTICK.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Misc/JOYSTICK-10K-CAP/
-  repositories: []
-name: JOYSTICK-10K-CAP
-ref: olimex/joystick-10k-cap
-release_date: null
-sku: joystick-10k-cap
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Misc/JOYSTICK/images/thumbs/200x150/JOYSTICK.jpg

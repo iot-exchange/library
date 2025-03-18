@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: dielectric-filters-gigafil
+ref: murata/dielectric-filters-gigafil
+vendor: murata
+sku: dielectric-filters-gigafil
+name: Dielectric Filters GIGAFIL
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/search/productsearch?cate=cgsubGigafil
-  repositories: []
-name: Dielectric Filters GIGAFIL
-ref: murata/dielectric-filters-gigafil
-release_date: null
-sku: dielectric-filters-gigafil
-spec: null
-status: ''
-vendor: murata
+  images: []

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: fmlr-72-stm
+ref: miromico/fmlr-72-stm
+vendor: miromico
+sku: fmlr-72-stm
+name: FMLR-72-STM
 description: "LoRa\xAE and LoRaWAN\xAE IoT module built on Semtech's SX1272 chipset."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://miromico.ch/files/miromico/media-data/product_images/FMLR_Module/FMLR-72-STM/jpg/FMLR-72-STM_2500px.jpg
-  models: []
   products:
   - https://miromico.ch/en/products/details/FMLR-72-STM
-  repositories: []
-name: FMLR-72-STM
-ref: miromico/fmlr-72-stm
-release_date: null
-sku: fmlr-72-stm
-spec: null
-status: ''
-vendor: miromico
+  images:
+  - https://miromico.ch/files/miromico/media-data/product_images/FMLR_Module/FMLR-72-STM/jpg/FMLR-72-STM_2500px.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6206
+ref: mikroe/mikroe-6206
+vendor: mikroe
+sku: mikroe-6206
+name: MIKROE-6206
 description: Stepper 22 Click is a compact add-on board designed for precise motion
   control of bipolar stepper motors and brushed DC motors. This board features the
   DRV8711, a bipolar stepper motor gate driver from Texas Instruments, which uses
   external N-channel MOSFETs to drive motors with up to 5A of output current. The
   board features a wide range of microstepping.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/stepper-22-click/stepper-22-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/stepper-22-click
-  repositories: []
-name: MIKROE-6206
-ref: mikroe/mikroe-6206
-release_date: null
-sku: mikroe-6206
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/stepper-22-click/stepper-22-click-home_default-1.jpg?v=100

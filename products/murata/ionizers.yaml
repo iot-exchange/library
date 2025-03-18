@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: ionizers
+ref: murata/ionizers
+vendor: murata
+sku: ionizers
+name: Ionizers
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/search/productsearch?cate=cgsubIonizers
-  repositories: []
-name: Ionizers
-ref: murata/ionizers
-release_date: null
-sku: ionizers
-spec: null
-status: ''
-vendor: murata
+  images: []

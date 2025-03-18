@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-4067
+ref: mikroe/mikroe-4067
+vendor: mikroe
+sku: mikroe-4067
+name: MIKROE-4067
 description: Series offers flexibility and performance well beyond ordinary Serial
   Flash devices. They are ideal for code shadowing to RAM, executing code directly
   from Dual/Quad SPI (XIP) and storing voice, text...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/flash-6-click/flash-6-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=2718
   - https://www.mikroe.com/shop?p=108#Flash-6-Click
-  repositories: []
-name: MIKROE-4067
-ref: mikroe/mikroe-4067
-release_date: null
-sku: mikroe-4067
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/flash-6-click/flash-6-click-home_default-1.jpg?v=100

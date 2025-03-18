@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: nucleo-f446re
+ref: waveshare/nucleo-f446re
+vendor: waveshare
+sku: nucleo-f446re
+name: NUCLEO-F446RE
 description: STM32F4 NUCLEO Board
+status: ''
 extra:
   Price: $30.97 - $31.99
   SKU: '11147'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/n/u/nucleo-f446re-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/nucleo-f446re.htm
-  repositories: []
-name: NUCLEO-F446RE
-ref: waveshare/nucleo-f446re
-release_date: null
-sku: nucleo-f446re
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/n/u/nucleo-f446re-1.jpg

@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: imx219-series
+ref: waveshare/imx219-series
+vendor: waveshare
+sku: imx219-series
+name: imx219_series
 description: IMX219 Camera series, 8MP, Applicable for Jetson Nano and Raspberry Pi,
   Options for FOV and Night Vision function
+status: ''
 extra:
   Multi Options: ''
   Price: $13.99 - $25.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx219-160-camera-1_3.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/imx219-160-camera.htm
   - https://www.waveshare.com/product/imx219-160-camera.htm "IMX219 Camera series,
     8MP, Applicable for Jetson Nano and Raspberry Pi, Options for FOV and Night Vision
     function"
-  repositories: []
-name: imx219_series
-ref: waveshare/imx219-series
-release_date: null
-sku: imx219-series
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx219-160-camera-1_3.jpg

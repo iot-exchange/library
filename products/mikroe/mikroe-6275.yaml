@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-6275
+ref: mikroe/mikroe-6275
+vendor: mikroe
+sku: mikroe-6275
+name: MIKROE-6275
 description: Button 2 Click is a compact add-on board designed for simple and efficient
   tactile input detection. This board features the TL3215AF160BQ, a TL3215 series
   of tactile switches from E-Switch, featuring high reliability and precise operation.
   The switch has a 2mm actuator, 160gf actuation force, silver contact material, and
   a lifespan of 1,000,000 cycles,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/button-2-click/button-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/button-2-click
   - https://www.mikroe.com/cart?add=1&id_product=3958
-  repositories: []
-name: MIKROE-6275
-ref: mikroe/mikroe-6275
-release_date: null
-sku: mikroe-6275
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/button-2-click/button-2-click-home_default-1.jpg?v=100

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4961
+ref: mikroe/mikroe-4961
+vendor: mikroe
+sku: mikroe-4961
+name: MIKROE-4961
 description: Mikromedia 4 for PIC CAPACITIVE FPI with frame Rapid development of multimedia
   and gui-centric applications BUILD GREAT GUI IN NO TIME Rich with peripherals Mikromedia
   4 for PIC CAPACITIVE FPI with frame is not limited to multimedia-based applications
   only. USB, digital motion sensor, battery charging functionality, SD card reader
   and much more...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mikromedia-4-for-pic-capacitive-fpi-with-frame/mikromedia-4-for-pic-capacitive-fpi-with-frame-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mikromedia-4-for-pic-capacitive-fpi-with-frame
-  repositories: []
-name: MIKROE-4961
-ref: mikroe/mikroe-4961
-release_date: null
-sku: mikroe-4961
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-4-for-pic-capacitive-fpi-with-frame/mikromedia-4-for-pic-capacitive-fpi-with-frame-home_default-1.jpg?v=100

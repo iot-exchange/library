@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: pd-cable-100w
+ref: waveshare/pd-cable-100w
+vendor: waveshare
+sku: pd-cable-100w
+name: PD-Cable-100W
 description: Type-C to Type-C 100W Fast Charging Data Cable, 1m Cable Length, Supports
   5A High Current
+status: ''
 extra:
   Price: $2.81  -  $3.49
   SKU: '25003'
   price: $2.81 - $3.49
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/d/pd-cable-100w-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pd-cable-100w.htm
-  repositories: []
-name: PD-Cable-100W
-ref: waveshare/pd-cable-100w
-release_date: null
-sku: pd-cable-100w
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/d/pd-cable-100w-1.jpg

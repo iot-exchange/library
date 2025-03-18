@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '101021097'
+ref: seeedstudio/101021097
+vendor: seeedstudio
+sku: '101021097'
+name: '101021097'
 description: Grove Ultrasonic Sensor (US5) features a compact design, utilizing Time-of-Flight
   (ToF) principle for accurate distance measurement, and the ability to differentiate
   between different materials. It offers plug and play connector and the easy to use
   tutorial.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101021097-grove_ultrasonic_sensor_sms812_-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Grove-Ultrasonic-Sensor-SMS812-p-5805.html
-  repositories: []
-name: '101021097'
-ref: seeedstudio/101021097
-release_date: null
-sku: '101021097'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101021097-grove_ultrasonic_sensor_sms812_-45font.jpg

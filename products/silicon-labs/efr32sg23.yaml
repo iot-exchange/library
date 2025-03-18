@@ -1,9 +1,13 @@
-alternatives: []
-certifications: []
+id: efr32sg23
+ref: silicon-labs/efr32sg23
+vendor: silicon-labs
+sku: efr32sg23
+name: EFR32SG23
 description: "The SG23 is a secure, low power, high-performance SoC supporting sub-GHz\
   \ FSK and features an ARM Cortex\xAE-M33 running up to 78 MHz, 512 kB of Flash and\
   \ 64 kB of RAM. The low active and sleep currents make it ideal for battery operated\
   \ smart home devices for Amazon Sidewalk."
+status: ''
 extra:
   Flash (kB): '512'
   GPIO: '23'
@@ -12,17 +16,6 @@ extra:
   Package Type: QFN40
   RAM (kB): '64'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/wireless/amazon-sidewalk/efr32sg23-sub-ghz-wireless-socs
-  repositories: []
-name: EFR32SG23
-ref: silicon-labs/efr32sg23
-release_date: null
-sku: efr32sg23
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-016-hinge-set
+ref: olimex/teres-016-hinge-set
+vendor: olimex
+sku: teres-016-hinge-set
+name: TERES-016-Hinge-Set
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-016-Hinge-Set/images/thumbs/200x150/TERES-016-Hinge-Set.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-016-Hinge-Set/
-  repositories: []
-name: TERES-016-Hinge-Set
-ref: olimex/teres-016-hinge-set
-release_date: null
-sku: teres-016-hinge-set
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-016-Hinge-Set/images/thumbs/200x150/TERES-016-Hinge-Set.jpg

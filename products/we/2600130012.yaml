@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '2600130012'
+ref: we/2600130012
+vendor: we
+sku: '2600130012'
+name: '2600130012'
 description: Helike-II 169 MHz
+status: Active
 extra:
   Expected lifetime: '>10 years'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o758708v214%20Single_WIRL_ACCE_2600130012_Helike-II.jpg
-  models: []
   products:
   - https://www.we-online.com/components/products/datasheet/2600130016.pdf
-  repositories: []
-name: '2600130012'
-ref: we/2600130012
-release_date: null
-sku: '2600130012'
-spec: null
-status: Active
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o758708v214%20Single_WIRL_ACCE_2600130012_Helike-II.jpg

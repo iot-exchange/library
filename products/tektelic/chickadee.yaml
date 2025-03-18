@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: chickadee
+ref: tektelic/chickadee
+vendor: tektelic
+sku: chickadee
+name: CHICKADEE
 description: Wearable Badge Tracker
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://tektelic.com/wp-content/uploads/CHICKADEE-ISO2.png
-  models: []
   products:
   - https://tektelic.com/products/sensors/chickadee-wearable-badge-tracker/
-  repositories: []
-name: CHICKADEE
-ref: tektelic/chickadee
-release_date: null
-sku: chickadee
-spec: null
-status: ''
-vendor: tektelic
+  images:
+  - https://tektelic.com/wp-content/uploads/CHICKADEE-ISO2.png

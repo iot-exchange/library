@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-6315
+ref: mikroe/mikroe-6315
+vendor: mikroe
+sku: mikroe-6315
+name: MIKROE-6315
 description: Current 14 Click is a compact add-on board designed for precise current
   measurement without direct contact. This board features the BM14270, a magnetic
   current sensor IC from ROHM Semiconductor. It uses a coreless, non-contact magnetic
   impedance (MI) sensor, ensuring low power loss and accurate current detection. It
   communicates through a 2-wire I2C...
+status: ''
 extra:
   price: $39.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/current-14-click/current-14-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/current-14-click
-  repositories: []
-name: MIKROE-6315
-ref: mikroe/mikroe-6315
-release_date: null
-sku: mikroe-6315
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/current-14-click/current-14-click-home_default-1.jpg?v=100

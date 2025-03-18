@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: str-p711
+ref: olimex/str-p711
+vendor: olimex
+sku: str-p711
+name: STR-P711
 description: ''
+status: ''
 extra:
   discountedPrice1: 46.76 EUR
   discountedPrice2: 41.56 EUR
   price: 51.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/ST/STR-P711/images/thumbs/200x150/STR-P711-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/ST/STR-P711/
-  repositories: []
-name: STR-P711
-ref: olimex/str-p711
-release_date: null
-sku: str-p711
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/ST/STR-P711/images/thumbs/200x150/STR-P711-01.jpg

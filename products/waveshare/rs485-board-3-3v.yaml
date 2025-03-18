@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: rs485-board-3-3v
+ref: waveshare/rs485-board-3-3v
+vendor: waveshare
+sku: rs485-board-3-3v
+name: RS485 Board (3.3V)
 description: $3.39  -  $3.99
+status: ''
 extra:
   Part No.: RS485 Board (3.3V)
   SKU: '4777'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs485-board_l_2_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rs485-board-3.3v.htm
-  repositories: []
-name: RS485 Board (3.3V)
-ref: waveshare/rs485-board-3-3v
-release_date: null
-sku: rs485-board-3-3v
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs485-board_l_2_5.jpg

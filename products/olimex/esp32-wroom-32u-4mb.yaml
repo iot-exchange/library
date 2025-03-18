@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: esp32-wroom-32u-4mb
+ref: olimex/esp32-wroom-32u-4mb
+vendor: olimex
+sku: esp32-wroom-32u-4mb
+name: ESP32-WROOM-32U-4MB
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/ESP32/ESP32-WROOM-32/images/thumbs/200x150/ESP32-WROOM32-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/ESP32/ESP32-WROOM-32U-4MB/
-  repositories: []
-name: ESP32-WROOM-32U-4MB
-ref: olimex/esp32-wroom-32u-4mb
-release_date: null
-sku: esp32-wroom-32u-4mb
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32/ESP32-WROOM-32/images/thumbs/200x150/ESP32-WROOM32-1.jpg

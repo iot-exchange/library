@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: nb-iot-bee
+ref: dragino/nb-iot-bee
+vendor: dragino
+sku: nb-iot-bee
+name: NB-IoT Bee
 description: NB-IoT Module in Bee form factor. Micro SIM slot & SMA Interface. Global
   Regions base on BC95-G or BG96. EOL due to NB Module EOL.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/52ec984cc72302fd412e2aa145a6526c_L.jpg
-  models: []
   products:
   - https://dragino.com/products/nb-iot/item/132-nb-iot-bee.html
-  repositories: []
-name: NB-IoT Bee
-ref: dragino/nb-iot-bee
-release_date: null
-sku: nb-iot-bee
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/52ec984cc72302fd412e2aa145a6526c_L.jpg

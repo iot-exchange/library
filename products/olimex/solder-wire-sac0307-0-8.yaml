@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: solder-wire-sac0307-0-8
+ref: olimex/solder-wire-sac0307-0-8
+vendor: olimex
+sku: solder-wire-sac0307-0-8
+name: SOLDER-WIRE-SAC0307-0-8
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/RF/ANTENNA-WIFI-BT-2.4G-5G-U.FL/images/thumbs/200x150/ANTENNA-2.4G-5.8G.jpgx
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/A10/A10-LIME-DEBIAN-SD/fy
-  repositories: []
-name: SOLDER-WIRE-SAC0307-0-8
-ref: olimex/solder-wire-sac0307-0-8
-release_date: null
-sku: solder-wire-sac0307-0-8
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/RF/ANTENNA-WIFI-BT-2.4G-5G-U.FL/images/thumbs/200x150/ANTENNA-2.4G-5.8G.jpgx

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bb-pwr-8113
+ref: olimex/bb-pwr-8113
+vendor: olimex
+sku: bb-pwr-8113
+name: BB-PWR-8113
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Breadboarding/BB-PWR-8113/images/thumbs/200x150/BB-PWR-8113-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Breadboarding/BB-PWR-8113/open-source-hardware
-  repositories: []
-name: BB-PWR-8113
-ref: olimex/bb-pwr-8113
-release_date: null
-sku: bb-pwr-8113
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Breadboarding/BB-PWR-8113/images/thumbs/200x150/BB-PWR-8113-1.jpg

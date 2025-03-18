@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: extendedmesh
+ref: we/extendedmesh
+vendor: we
+sku: extendedmesh
+name: EXTENDEDMesh
 description: EXTENDEDMesh
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o449368v214%20Image_Online_Catalog_Mesh.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/mesh
-  repositories: []
-name: EXTENDEDMesh
-ref: we/extendedmesh
-release_date: null
-sku: extendedmesh
-spec: null
-status: ''
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o449368v214%20Image_Online_Catalog_Mesh.jpg

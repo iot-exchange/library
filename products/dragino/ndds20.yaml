@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: ndds20
+ref: dragino/ndds20
+vendor: dragino
+sku: ndds20
+name: NDDS20
 description: NB-IoT Liquid Level Sensor
+status: ''
 extra:
   Bands: B1/B3/B8/B5/B20/B28
   Power Consumption: Ultra Low
   Uplink Methods: MQTT,TCP,CoAP or UDP
   Valid Level Range: 20mm - 2000mm
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/2722f6bcd13027c06fe9d3b0e6f955cf_L.jpg
-  models: []
   products:
   - https://dragino.com/products/distance-level-sensor/item/175-ndds20.html
-  repositories: []
-name: NDDS20
-ref: dragino/ndds20
-release_date: null
-sku: ndds20
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/2722f6bcd13027c06fe9d3b0e6f955cf_L.jpg

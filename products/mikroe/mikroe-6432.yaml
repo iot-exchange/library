@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: mikroe-6432
+ref: mikroe/mikroe-6432
+vendor: mikroe
+sku: mikroe-6432
+name: MIKROE-6432
 description: "BT122-A Click is a compact add-on board designed for Bluetooth connectivity\
   \ in low-energy and Classic communication applications. This board features the\
   \ BT122-A, a dual-mode Bluetooth BR/EDR and BLE v4.2 module from Silicon Labs, with\
@@ -10,20 +13,10 @@ description: "BT122-A Click is a compact add-on board designed for Bluetooth con
   \ embedded applications using BGScript\u2122. Ideal for cable replacement, health\
   \ and fitness monitoring, industrial automation, and smart home systems, BT122-A\
   \ Click ensures reliable Bluetooth connectivity across diverse use cases."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/bt122-a-click/bt122-a-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/bt122-a-click
-  repositories: []
-name: MIKROE-6432
-ref: mikroe/mikroe-6432
-release_date: null
-sku: mikroe-6432
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/bt122-a-click/bt122-a-click-home_default-1.jpg?v=100

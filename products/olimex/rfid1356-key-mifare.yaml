@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rfid1356-key-mifare
+ref: olimex/rfid1356-key-mifare
+vendor: olimex
+sku: rfid1356-key-mifare
+name: RFID1356-KEY-MIFARE
 description: ''
+status: ''
 extra:
   discountedPrice1: 0.90 EUR
   discountedPrice2: 0.80 EUR
   price: 1.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/RFID-Tags/MIFARE/RFID1356-KEY-MIFARE/images/thumbs/200x150/RFID1356-MIFARE-KEY.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/RFID-Tags/MIFARE/RFID1356-KEY-MIFARE/
-  repositories: []
-name: RFID1356-KEY-MIFARE
-ref: olimex/rfid1356-key-mifare
-release_date: null
-sku: rfid1356-key-mifare
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/RFID-Tags/MIFARE/RFID1356-KEY-MIFARE/images/thumbs/200x150/RFID1356-MIFARE-KEY.jpg

@@ -1,0 +1,15 @@
+id: bluetooth-mesh-lighting-modules
+ref: dptechnics/bluetooth-mesh-lighting-modules
+vendor: dptechnics
+sku: bluetooth-mesh-lighting-modules
+name: Bluetooth Mesh lighting modules
+description: Bluetooth Mesh lighting modules that make luminars smart, enabling them
+  to interact with their environment and gather sensor information.
+status: Available soon
+extra:
+  features: Custom LED driver design, sensor networks, control anytime, anywhere
+  technology: Bluetooth 5 Mesh
+links:
+  products: []
+  images:
+  - https://www.dptechnics.com/images/product/mesh.jpg

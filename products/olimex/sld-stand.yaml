@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sld-stand
+ref: olimex/sld-stand
+vendor: olimex
+sku: sld-stand
+name: SLD-STAND
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Soldering/SLD-STAND/images/thumbs/200x150/SLD-STAND.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Soldering/SLD-STAND/
-  repositories: []
-name: SLD-STAND
-ref: olimex/sld-stand
-release_date: null
-sku: sld-stand
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/SLD-STAND/images/thumbs/200x150/SLD-STAND.jpg

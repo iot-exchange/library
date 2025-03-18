@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5873
+ref: mikroe/mikroe-5873
+vendor: mikroe
+sku: mikroe-5873
+name: MIKROE-5873
 description: SPI Isolator 8 Click is a compact add-on board representing a digital
   isolator optimized for a serial peripheral interface. This board features the ISOW7743,
   a quad-channel digital isolator from Texas Instruments. This device has a maximum
   data rate of 100Mbps and transfers digital signals between circuits with different
   power domains featuring reinforced...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/spi-isolator-8-click/spi-isolator-8-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/spi-isolator-8-click
-  repositories: []
-name: MIKROE-5873
-ref: mikroe/mikroe-5873
-release_date: null
-sku: mikroe-5873
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/spi-isolator-8-click/spi-isolator-8-click-home_default-1.jpg?v=100

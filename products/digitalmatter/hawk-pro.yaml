@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: hawk-pro
+ref: digitalmatter/hawk-pro
+vendor: digitalmatter
+sku: hawk-pro
+name: Hawk Pro
 description: Connect any sensor within cellular coverage with multiple power options.
+status: ''
 extra:
   Connectivity: LTE-M and NB-IoT
   Input Voltage Range: 6-28V
@@ -8,17 +12,6 @@ extra:
   Onboard LiPo Battery Charger: 'Yes'
   Onboard Output Power: Flexible onboard output power to power your sensors
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.digitalmatter.com/overview#HawkPro
-  repositories: []
-name: Hawk Pro
-ref: digitalmatter/hawk-pro
-release_date: null
-sku: hawk-pro
-spec: null
-status: ''
-vendor: digitalmatter
+  images: []

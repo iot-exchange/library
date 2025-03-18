@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-3817
+ref: mikroe/mikroe-3817
+vendor: mikroe
+sku: mikroe-3817
+name: MIKROE-3817
 description: FRAM 3 click offers much faster alternative to common serial FLASH and
   EEPROM modules, which use the conventional technologies.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/fram-3-click/fram-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=2560
   - https://www.mikroe.com/fram-3-click
-  repositories: []
-name: MIKROE-3817
-ref: mikroe/mikroe-3817
-release_date: null
-sku: mikroe-3817
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/fram-3-click/fram-3-click-home_default-1.jpg?v=100

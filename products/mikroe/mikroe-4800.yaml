@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4800
+ref: mikroe/mikroe-4800
+vendor: mikroe
+sku: mikroe-4800
+name: MIKROE-4800
 description: GainAMP 3 Click is a compact add-on board that contains a 4-channel programmable
   gain amplifier. This board features the ADA4254, a zero drift, high voltage, programmable
   gain instrumentation amplifier from Analog Devices. It features 12 binary weighted
   gains and three scaling gain options resulting in 36 possible gain settings. It
   comes with an input...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gainamp-3-click/gainamp-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/gainamp-3-click
-  repositories: []
-name: MIKROE-4800
-ref: mikroe/mikroe-4800
-release_date: null
-sku: mikroe-4800
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gainamp-3-click/gainamp-3-click-home_default-1.jpg?v=100

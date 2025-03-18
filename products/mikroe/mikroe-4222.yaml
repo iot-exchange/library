@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-4222
+ref: mikroe/mikroe-4222
+vendor: mikroe
+sku: mikroe-4222
+name: MIKROE-4222
 description: "VCP Monitor 3 Click is a high precision Voltage, Current and Power measurement\
   \ Click board\u2122 with an input capable of taking up to 15V. It features the LTC2947,\
   \ from Analog Devices, a high precision power and energy monitor with an internal\
   \ sense resistor supporting up to \xB130A."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/vcp-monitor-3-click/vcp-monitor-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/vcp-monitor-3-click
-  repositories: []
-name: MIKROE-4222
-ref: mikroe/mikroe-4222
-release_date: null
-sku: mikroe-4222
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/vcp-monitor-3-click/vcp-monitor-3-click-home_default-1.jpg?v=100

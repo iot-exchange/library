@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lht65n-e31f
+ref: dragino/lht65n-e31f
+vendor: dragino
+sku: lht65n-e31f
+name: LHT65N-E31F
 description: LoRaWAN Temperature & Humidity Sensor
+status: ''
 extra:
   Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
   Built-in: 2400mAh battery
   External Temperature & Humidity Probe: SHT31F
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/32088387da419227f20729e6cf7687d8_L.jpg
-  models: []
   products:
   - https://dragino.com/products/temperature-humidity-sensor/item/266-lht65n-e31f.html
-  repositories: []
-name: LHT65N-E31F
-ref: dragino/lht65n-e31f
-release_date: null
-sku: lht65n-e31f
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/32088387da419227f20729e6cf7687d8_L.jpg

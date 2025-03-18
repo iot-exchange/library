@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5476
+ref: mikroe/mikroe-5476
+vendor: mikroe
+sku: mikroe-5476
+name: MIKROE-5476
 description: DC Motor 23 Click is a compact add-on board with a brushed DC motor driver.
   This board features the TB67H480FNG, a dual-channel, H-bridge, brushed DC motor
   driver from Toshiba Semiconductor. Fabricated with the BiCD process (DMOSFET is
   used for output power transistor), it covers a wide operating voltage range of 8.2V
   to 44V with a maximum output current...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/dc-motor-23-click/dc-motor-23-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/dc-motor-23-click
-  repositories: []
-name: MIKROE-5476
-ref: mikroe/mikroe-5476
-release_date: null
-sku: mikroe-5476
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dc-motor-23-click/dc-motor-23-click-home_default-1.jpg?v=100

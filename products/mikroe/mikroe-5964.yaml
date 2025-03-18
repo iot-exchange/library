@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-5964
+ref: mikroe/mikroe-5964
+vendor: mikroe
+sku: mikroe-5964
+name: MIKROE-5964
 description: "Are you a true champion of Click boards? MIKROE proudly presents the\
   \ Champion T-Shirt! Crafted in a rich and vibrant blue color, this 100% cotton T-shirt\
   \ is designed for those who share our passion for innovation and the power of Click\
   \ boards\u2122."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/champion-t-shirt/champion-t-shirt-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/champion-t-shirt
-  repositories: []
-name: MIKROE-5964
-ref: mikroe/mikroe-5964
-release_date: null
-sku: mikroe-5964
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/champion-t-shirt/champion-t-shirt-home_default-1.jpg?v=100

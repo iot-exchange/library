@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5178
+ref: mikroe/mikroe-5178
+vendor: mikroe
+sku: mikroe-5178
+name: MIKROE-5178
 description: DIGI Isolator Click is a compact add-on board that provides electrical
   isolation and signal conditioning for the serial peripheral interface and a UART
   interface. This board features two DCL540C01, high-speed, quad-channel digital isolators
   from Toshiba Semiconductor. Depending on the usage, this CMOS isolator can achieve
   data rates of up to 150Mbps,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/digi-isolator-click/digi-isolator-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/digi-isolator-click
-  repositories: []
-name: MIKROE-5178
-ref: mikroe/mikroe-5178
-release_date: null
-sku: mikroe-5178
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/digi-isolator-click/digi-isolator-click-home_default-1.jpg?v=100

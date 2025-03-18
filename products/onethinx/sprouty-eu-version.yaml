@@ -1,0 +1,13 @@
+id: sprouty-eu-version
+ref: onethinx/sprouty-eu-version
+vendor: onethinx
+sku: sprouty-eu-version
+name: Sprouty EU version
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://shop.onethinx.com/products/sprouty-eu-version
+  images:
+  - https://shop.onethinx.com/cdn/shop/files/Sprouty_Onethinx_LoRaWAN_Module_EU_VERSION.png?v=1727011110&width=533

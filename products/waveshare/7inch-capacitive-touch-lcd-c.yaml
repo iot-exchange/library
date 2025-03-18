@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 7inch-capacitive-touch-lcd-c
+ref: waveshare/7inch-capacitive-touch-lcd-c
+vendor: waveshare
+sku: 7inch-capacitive-touch-lcd-c
+name: 7inch Capacitive Touch LCD (C)
 description: 7inch Capacitive Touch LCD (C) 800x480
+status: ''
 extra:
-  Price: $62.27 - $64.99
   SKU: '8964'
+  Price: $62.27 - $64.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/i/7inch-capacitive-touch-lcd-c-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/7inch-capacitive-touch-lcd-c.htm
-  repositories: []
-name: 7inch Capacitive Touch LCD (C)
-ref: waveshare/7inch-capacitive-touch-lcd-c
-release_date: null
-sku: 7inch-capacitive-touch-lcd-c
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/i/7inch-capacitive-touch-lcd-c-1.jpg

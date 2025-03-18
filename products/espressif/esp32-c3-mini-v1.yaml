@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: esp32-c3-mini-v1
+ref: espressif/esp32-c3-mini-v1
+vendor: espressif
+sku: esp32-c3-mini-v1
+name: ESP32-C3-MINI-V1
 description: For flashing / testing ESP32-C3-MINI-1 / ESP32-C6-MINI-1 / ESP32-H2-MINI-1
   / ESP8684-MINI-1 modules (must be used with ESP-BAT32 for testing)
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/styles/medium/public/ESP32-WROOM-V1-V3%20%26%20ESP32-WROVER-V1-V2%20%26%20ESP-WROOM-V1-V1_L_37.png?itok=oG_bL8u3
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/production_testing_guide_en.pdf
-  repositories: []
-name: ESP32-C3-MINI-V1
-ref: espressif/esp32-c3-mini-v1
-release_date: null
-sku: esp32-c3-mini-v1
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/styles/medium/public/ESP32-WROOM-V1-V3%20%26%20ESP32-WROVER-V1-V2%20%26%20ESP-WROOM-V1-V1_L_37.png?itok=oG_bL8u3

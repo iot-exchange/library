@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: mc116-jp
+ref: fibocom/mc116-jp
+vendor: fibocom
+sku: mc116-jp
+name: MC116-JP
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTECat1-MC116-JP.html
-  repositories: []
-name: MC116-JP
-ref: fibocom/mc116-jp
-release_date: null
-sku: mc116-jp
-spec: null
-status: ''
-vendor: fibocom
+  images: []

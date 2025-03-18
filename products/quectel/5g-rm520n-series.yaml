@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: 5g-rm520n-series
+ref: quectel/5g-rm520n-series
+vendor: quectel
+sku: 5g-rm520n-series
+name: 5G RM520N series
 description: 3GPP Rel-16  5G  5G Sub-6GHz  GNSS  LTE DL Cat19  LTE UL Cat18  NSA  SA
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.quectel.com/content/uploads/2024/03/RM520N.png
-  models: []
   products:
   - https://www.quectel.com/product/5g-rm520n-series/
-  repositories: []
-name: 5G RM520N series
-ref: quectel/5g-rm520n-series
-release_date: null
-sku: 5g-rm520n-series
-spec: null
-status: ''
-vendor: quectel
+  images:
+  - https://www.quectel.com/content/uploads/2024/03/RM520N.png

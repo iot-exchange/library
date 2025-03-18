@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4109
+ref: mikroe/mikroe-4109
+vendor: mikroe
+sku: mikroe-4109
+name: MIKROE-4109
 description: Power MUX Click features power multiplexer that enables transition between
   two power supplies (such as a battery and a wall adapter), each operating at 2.8V
   to 5.5V and delivering up to 2A current depending on the package. This IC provides
   inrush current control and thermal protection to Power MUX Click, manual and auto-switching
   operating modes,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/power-mux-click/power-mux-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/power-mux-click
-  repositories: []
-name: MIKROE-4109
-ref: mikroe/mikroe-4109
-release_date: null
-sku: mikroe-4109
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/power-mux-click/power-mux-click-home_default-1.jpg?v=100

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: a10-lime-android-sd
+ref: olimex/a10-lime-android-sd
+vendor: olimex
+sku: a10-lime-android-sd
+name: A10-LIME-ANDROID-SD
 description: ''
+status: ''
 extra:
   10+ pcs: 8.96 EUR
   50+ pcs: 7.96 EUR
   Price: 9.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/A10/A10-LIME-ANDROID-SD/images/thumbs/200x150/SD-Card.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/A10/A10-LIME-ANDROID-SD/
-  repositories: []
-name: A10-LIME-ANDROID-SD
-ref: olimex/a10-lime-android-sd
-release_date: null
-sku: a10-lime-android-sd
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A10/A10-LIME-ANDROID-SD/images/thumbs/200x150/SD-Card.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '101020089'
+ref: seeedstudio/101020089
+vendor: seeedstudio
+sku: '101020089'
+name: '101020089'
 description: Grove - Sunlight Sensor is a multi-channel digital light sensor, which
   has the ability to detect visible light and infrared light. It offers excellent
   performance under a wide dynamic range and a variety of light sources including
   direct sunlight. Suitable for your Raspberry Pi weather station or smart irrigation
   system using Arduino if you need to monitor the visible spectrum.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2018-07bazaar885583_3.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Grove-Sunlight-Sensor.html
-  repositories: []
-name: '101020089'
-ref: seeedstudio/101020089
-release_date: null
-sku: '101020089'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2018-07bazaar885583_3.jpg

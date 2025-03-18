@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: product3
+ref: enocean/product3
+vendor: enocean
+sku: product3
+name: Product3
 description: Description of Product 3
+status: Discontinued
 extra:
   attribute1: value1
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.enocean.com/en/products/images/product3.jpg
-  models: []
   products:
   - https://www.enocean.com/en/products/product3
-  repositories: []
-name: Product3
-ref: enocean/product3
-release_date: null
-sku: product3
-spec: null
-status: Discontinued
-vendor: enocean
+  images:
+  - https://www.enocean.com/en/products/images/product3.jpg

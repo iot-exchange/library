@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '114991602'
+ref: seeedstudio/114991602
+vendor: seeedstudio
+sku: '114991602'
+name: '114991602'
 description: RF Explorer RFEM4G PLUS is an expansion module to convert an RF Explorer
   WSUB1G PLUS into a powerful 4G Combo PLUS Spectrum Analyzer, covering the full range
   starting at 50KHz up to 4GHz with no gaps or limitations. A future firmware license
   will allow you to expand the range up to 5.1GHz with no need for additional hardware.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/r/f/rfe4g1.png
-  models: []
   products:
   - https://www.seeedstudio.com/RF-Explorer-RFEM4G-PLUS-p-4637.html
-  repositories: []
-name: '114991602'
-ref: seeedstudio/114991602
-release_date: null
-sku: '114991602'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/r/f/rfe4g1.png

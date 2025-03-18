@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5441
+ref: mikroe/mikroe-5441
+vendor: mikroe
+sku: mikroe-5441
+name: MIKROE-5441
 description: "HMI CAPACITIVE Rapid development of multimedia and GUI-centric applications\
   \ BUILD GREAT GUI IN NO TIME Rich with peripherals The board integrates a microSD\
   \ card for expanding storage capacity, a haptic feedback motor, small audio speaker,\
   \ and a USB-C connector, expanding its use beyond the multimedia. Two standardized\
   \ mikroBUS\u2122 Shuttle..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mikromedia-hmi-7-capacitive/mikromedia-hmi-7-capacitive-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mikromedia-hmi-7-capacitive
-  repositories: []
-name: MIKROE-5441
-ref: mikroe/mikroe-5441
-release_date: null
-sku: mikroe-5441
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-hmi-7-capacitive/mikromedia-hmi-7-capacitive-home_default-1.jpg?v=100

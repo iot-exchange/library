@@ -1,0 +1,24 @@
+id: notecarrier-x
+ref: blues/notecarrier-x
+vendor: blues
+sku: notecarrier-x
+name: Notecarrier X
+description: The Notecarrier X is our most capable small-form factor Notecarrier with
+  JST connectors for LiPo battery and charging support, as well as Qwiic and ESLOV
+  ports for connecting the Notecard to host MCUs over I2C.
+status: ''
+extra:
+  Antenna: Bring Your Own Antenna
+  Compatibility: Any MCU
+  Connection: USB-C
+  Dimensions: 66mm x 38mm
+  Ports: One Qwiic & One ESLOV I2C Port
+  Power: 2.5V-5.5V to V+
+  SIM Socket: External Nano-SIM Socket for Additional Carriers
+links:
+  products:
+  - https://blues.com/notecarrier-series-x/
+  - https://dev.blues.io/datasheets/notecarrier-datasheet/notecarrier-x-v1-2/?__hstc=171785791.41e0a2aa6e680b06cebdc71f5c4ca7ed.1742303092656.1742303092656.1742303092656.1&__hssc=171785791.4.1742303092656&__hsfp=2702779587#blues-notecarrier%C2%AE-datasheet
+  images:
+  - https://blues.com/wp-content/uploads/2024/09/X_1.2_Front_720x.webp
+  - https://blues.com/wp-content/uploads/2025/02/X_1.2_Front-e1740690245988.png

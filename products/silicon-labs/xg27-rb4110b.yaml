@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: xg27-rb4110b
+ref: silicon-labs/xg27-rb4110b
+vendor: silicon-labs
+sku: xg27-rb4110b
+name: xG27-RB4110B
 description: EFR32xG27 Wireless 2.4 GHz +4 dBm Radio Board (Buck)
+status: ''
 extra:
   MSRP: $35.00
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/bluetooth/bg27-rb4110b-efr32bg27-4-dbm-buck-wireless-radio-board
-  repositories: []
-name: xG27-RB4110B
-ref: silicon-labs/xg27-rb4110b
-release_date: null
-sku: xg27-rb4110b
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

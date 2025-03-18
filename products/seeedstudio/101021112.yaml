@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '101021112'
+ref: seeedstudio/101021112
+vendor: seeedstudio
+sku: '101021112'
+name: '101021112'
 description: It is an MCU-based vision AI module powered by Himax WiseEye2, featuring
   Arm Cortex-M55 & Ethos-U55. TensorFlow and PyTorch frameworks are supported. Compatible
   with Arduino IDE and no code model deployment and immediate visualization of identification
   results with SenseCraft AI.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101021112-grove-vision-ai-module-v2-45font.jpg
-  - https://www.seeedstudio.com/img/e
-  models: []
   products:
   - https://www.seeedstudio.com/Grove-Vision-AI-Module-V2-p-101021112.html
   - https://www.seeedstudio.com/Grove-Vision-AI-Module-V2-p-5851.html
-  repositories: []
-name: '101021112'
-ref: seeedstudio/101021112
-release_date: null
-sku: '101021112'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101021112-grove-vision-ai-module-v2-45font.jpg
+  - https://www.seeedstudio.com/img/e

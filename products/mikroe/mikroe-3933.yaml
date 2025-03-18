@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3933
+ref: mikroe/mikroe-3933
+vendor: mikroe
+sku: mikroe-3933
+name: MIKROE-3933
 description: CAN FD Click is a add-on board based on TLE9252V CAN network transceiver,
   designed for HS CAN networks up to 5 Mbit/s in automotive and industrial applications.
   As an interface between the physical bus layer and the CAN protocol controller,
   the TLE9252V drives the signals to the bus and protects the microcontroller against
   interferences generated within...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/can-fd-click/can-fd-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=115#CAN-FD-Click
-  repositories: []
-name: MIKROE-3933
-ref: mikroe/mikroe-3933
-release_date: null
-sku: mikroe-3933
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/can-fd-click/can-fd-click-home_default-1.jpg?v=100

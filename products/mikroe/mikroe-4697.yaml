@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-4697
+ref: mikroe/mikroe-4697
+vendor: mikroe
+sku: mikroe-4697
+name: MIKROE-4697
 description: RTC 12 Click is a compact add-on board that measures the passage of time.
   This board features the DS1343, a low-current SPI-configurable real-time clock (RTC)
   from Analog Devices.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/rtc-12-click/rtc-12-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=3086
   - https://www.mikroe.com/rtc-12-click
-  repositories: []
-name: MIKROE-4697
-ref: mikroe/mikroe-4697
-release_date: null
-sku: mikroe-4697
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rtc-12-click/rtc-12-click-home_default-1.jpg?v=100

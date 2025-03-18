@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: snm950
+ref: meig-smart/snm950
+vendor: meig-smart
+sku: snm950
+name: SNM950
 description: High Computations Smart Module Support Wi-Fi 6 & BT5.1
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://en.meigsmart.com/userfiles/images/2023/06/03/2023060310021220.png
-  models: []
   products:
   - https://en.meigsmart.com/productdetail/snm95000.html
-  repositories: []
-name: SNM950
-ref: meig-smart/snm950
-release_date: null
-sku: snm950
-spec: null
-status: ''
-vendor: meig-smart
+  images:
+  - https://en.meigsmart.com/userfiles/images/2023/06/03/2023060310021220.png

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: agonlight2-proto
+ref: olimex/agonlight2-proto
+vendor: olimex
+sku: agonlight2-proto
+name: AgonLight2-Proto
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Retro-Computers/AgonLight2-Proto/images/thumbs/200x150/AgonLight2-Proto-1w.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Retro-Computers/AgonLight2-Proto/open-source-hardware
-  repositories: []
-name: AgonLight2-Proto
-ref: olimex/agonlight2-proto
-release_date: null
-sku: agonlight2-proto
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Retro-Computers/AgonLight2-Proto/images/thumbs/200x150/AgonLight2-Proto-1w.jpg

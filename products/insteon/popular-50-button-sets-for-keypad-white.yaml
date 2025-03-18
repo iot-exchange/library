@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: popular-50-button-sets-for-keypad-white
+ref: insteon/popular-50-button-sets-for-keypad-white
+vendor: insteon
+sku: popular-50-button-sets-for-keypad-white
+name: Popular 50-Button Sets for Keypad, White
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/files/2401BT50-Popular_50-Button_Set_for_Keypad_White.png?v=1737221763&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/popular-button-kits-for-keypads
-  repositories: []
-name: Popular 50-Button Sets for Keypad, White
-ref: insteon/popular-50-button-sets-for-keypad-white
-release_date: null
-sku: popular-50-button-sets-for-keypad-white
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/files/2401BT50-Popular_50-Button_Set_for_Keypad_White.png?v=1737221763&width=533

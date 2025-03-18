@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: jetson-tx2-nx
+ref: waveshare/jetson-tx2-nx
+vendor: waveshare
+sku: jetson-tx2-nx
+name: Jetson TX2 NX
 description: NVIDIA Jetson TX2 NX Module, High Performance AI at the Edge
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-tx2-nx-3.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/jetson-tx2-nx.htm
-  repositories: []
-name: Jetson TX2 NX
-ref: waveshare/jetson-tx2-nx
-release_date: null
-sku: jetson-tx2-nx
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-tx2-nx-3.jpg

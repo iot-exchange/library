@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '2611019021011'
+ref: we/2611019021011
+vendor: we
+sku: '2611019021011'
+name: '2611019021011'
 description: 'Active i Production is active. Expected lifetime: >10 years.'
+status: Active i
 extra:
   Expected lifetime: '>10 years'
   Product series: EV-Kit Thetis-I
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o422298v214%20Single_Thetis-I_EV-Board.jpg
-  models: []
   products:
   - https://www.we-online.com/components/products/manual/2611019021011_Thetis-I EV-Kit
     2611019021011 Manual_rev1.4.pdf
   - https://www.we-online.com/en/components/products/THETIS-I_MESH#2611019021011
-  repositories: []
-name: '2611019021011'
-ref: we/2611019021011
-release_date: null
-sku: '2611019021011'
-spec: null
-status: Active i
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o422298v214%20Single_Thetis-I_EV-Board.jpg

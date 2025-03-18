@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 1-70
+ref: microchip/1-70
+vendor: microchip
+sku: 1-70
+name: '1.70'
 description: "dsPIC\xAE DSC"
+status: ''
 extra:
   ADC: PTG+ADC
   CAN: 'No'
@@ -15,16 +19,5 @@ extra:
   UART: 3-UART
   VDD (V): '3.6'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: '1.70'
-ref: microchip/1-70
-release_date: null
-sku: 1-70
-spec: null
-status: ''
-vendor: microchip
+  images: []

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bearing-lmk12uu
+ref: olimex/bearing-lmk12uu
+vendor: olimex
+sku: bearing-lmk12uu
+name: BEARING-LMK12UU
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-LMK6UU/images/thumbs/200x150/LMK.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-LMK12UU/
-  repositories: []
-name: BEARING-LMK12UU
-ref: olimex/bearing-lmk12uu
-release_date: null
-sku: bearing-lmk12uu
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-LMK6UU/images/thumbs/200x150/LMK.jpg

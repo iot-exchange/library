@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: ethernet-cable-panel
+ref: olimex/ethernet-cable-panel
+vendor: olimex
+sku: ethernet-cable-panel
+name: ETHERNET-CABLE-PANEL
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Cables/ETHERNET-CABLE-PANEL/images/thumbs/200x150/ETHERNET-CABLE-PANEL4.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Cables/ETHERNET-CABLE-PANEL/
-  repositories: []
-name: ETHERNET-CABLE-PANEL
-ref: olimex/ethernet-cable-panel
-release_date: null
-sku: ethernet-cable-panel
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Cables/ETHERNET-CABLE-PANEL/images/thumbs/200x150/ETHERNET-CABLE-PANEL4.jpg

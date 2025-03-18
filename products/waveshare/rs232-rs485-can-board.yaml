@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: rs232-rs485-can-board
+ref: waveshare/rs232-rs485-can-board
+vendor: waveshare
+sku: rs232-rs485-can-board
+name: RS232 RS485 CAN Board
 description: Isolated RS232 / RS485 / CAN / CAN FD Expansion Board For Raspberry Pi,
   Expands 2x RS485, 1x RS232, 1x CAN FD, and 1x CAN, Wall-mount & Rail-mount Support
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/rs232-rs485-can-board.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs232-rs485-can-board-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs232-rs485-can-board-2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/rs232-rs485-can-board.htm
-  repositories: []
-name: RS232 RS485 CAN Board
-ref: waveshare/rs232-rs485-can-board
-release_date: null
-sku: rs232-rs485-can-board
-spec: null
-status: ''
-vendor: waveshare

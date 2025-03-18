@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: 32f429idiscovery
+ref: waveshare/32f429idiscovery
+vendor: waveshare
+sku: 32f429idiscovery
+name: 32F429IDISCOVERY
 description: 32F429IDISCOVERY / STM32F429I-DISC1, STM32F4 Discovery Kit
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/2/32f429idiscovery-3_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/32f429idiscovery.htm
-  repositories: []
-name: 32F429IDISCOVERY
-ref: waveshare/32f429idiscovery
-release_date: null
-sku: 32f429idiscovery
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/2/32f429idiscovery-3_1.jpg

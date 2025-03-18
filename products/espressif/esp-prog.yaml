@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: esp-prog
+ref: espressif/esp-prog
+vendor: espressif
+sku: esp-prog
+name: ESP-Prog
 description: "ESP-Prog is one of Espressif\u2019s development and debugging tools,\
   \ with functions including automatic firmware downloading, serial communication,\
   \ and JTAG online debugging. ESP-Prog's automatic firmware downloading and serial\
   \ communication functions are supported on both the ESP8266 and ESP32 platforms,\
   \ while the JTAG online debugging is supported only on the ESP32 platform. ESP-Prog\
   \ uses FT2232HL as its USB Bridge Controller chip."
+status: ''
 extra:
   Interfaces: I/O, USB, Header connectors
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/dev-board/ESP-Prog.png
-  models: []
   products:
   - https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/other/esp-prog/user_guide.html
-  repositories: []
-name: ESP-Prog
-ref: espressif/esp-prog
-release_date: null
-sku: esp-prog
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/dev-board/ESP-Prog.png

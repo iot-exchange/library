@@ -1,0 +1,13 @@
+id: em300-th
+ref: milesight/em300-th
+vendor: milesight
+sku: em300-th
+name: EM300-TH
+description: Temperature and Humidity Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/em300-th
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/environmental-monitoring-em300-series/temperature-and-humidity-sensor-em300-th.png?t=1742198585390

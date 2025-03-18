@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-4300
+ref: mikroe/mikroe-4300
+vendor: mikroe
+sku: mikroe-4300
+name: MIKROE-4300
 description: Clock Gen 4 Click is a compact add-on board that contains both a clock
   generator and a multiplier/jitter reduced clock frequency synthesizer. This board
   features the CS2200-CP, an analog PLL architecture comprised of a Delta-Sigma fractional-N
   frequency synthesizer from Cirrus Logic. This clocking device utilizes a programmable
   phase lock loop and allows...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/clock-gen-4-click/clock-gen-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=2877
   - https://www.mikroe.com/clock-gen-4-click
-  repositories: []
-name: MIKROE-4300
-ref: mikroe/mikroe-4300
-release_date: null
-sku: mikroe-4300
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/clock-gen-4-click/clock-gen-4-click-home_default-1.jpg?v=100

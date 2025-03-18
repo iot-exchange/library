@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: llcc68
+ref: semtech/llcc68
+vendor: semtech
+sku: llcc68
+name: LLCC68
 description: ''
+status: Active
 extra:
   Frequency Range (MHz): 150-960
   Link Budget (dB): '151'
@@ -11,17 +15,6 @@ extra:
   SF: 5-11
   Tx Power (dBm): '+22'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.semtech.com/products/wireless-rf/lora-connect/llcc68
-  repositories: []
-name: LLCC68
-ref: semtech/llcc68
-release_date: null
-sku: llcc68
-spec: null
-status: Active
-vendor: semtech
+  images: []

@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: people-counter-enocean
+ref: imbuildings/people-counter-enocean
+vendor: imbuildings
+sku: people-counter-enocean
+name: "People Counter \u2013 EnOcean"
 description: People Counting device using EnOcean technology.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://imbuildings.com/products/people-counter-enocean/
-  repositories: []
-name: "People Counter \u2013 EnOcean"
-ref: imbuildings/people-counter-enocean
-release_date: null
-sku: people-counter-enocean
-spec: null
-status: ''
-vendor: imbuildings
+  images: []

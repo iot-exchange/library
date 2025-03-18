@@ -1,0 +1,14 @@
+id: smart-building-kit
+ref: milesight/smart-building-kit
+vendor: milesight
+sku: smart-building-kit
+name: Smart Building Kit
+description: Smart Building Solution
+status: ''
+extra:
+  application: Residential Building, Commercial Property
+  benefit: Building Automation and Management
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-ibox-kit/smart-building-kit
+  images: []

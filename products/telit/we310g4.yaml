@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: we310g4
+ref: telit/we310g4
+vendor: telit
+sku: we310g4
+name: WE310G4
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2024/11/TC_WE310G4-P-I_dyn-231x200.png
-  models: []
   products:
   - https://www.telit.com/devices/we310g4/
-  repositories: []
-name: WE310G4
-ref: telit/we310g4
-release_date: null
-sku: we310g4
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/11/TC_WE310G4-P-I_dyn-231x200.png

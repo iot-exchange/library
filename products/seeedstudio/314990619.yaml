@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '314990619'
+ref: seeedstudio/314990619
+vendor: seeedstudio
+sku: '314990619'
+name: '314990619'
 description: The Liquid Level Sensor is designed with industry-grade standards, for
   monitoring water level, oil level, and other mild-corrosive liquid levels. It incorporates
   stainless steel and insulated rubber, is IP68 rated, suitable for application in
   severe environments.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/0/1/01_14_4.png
-  models: []
   products:
   - https://www.seeedstudio.com/Liquid-Level-Sensor-p-4619.html
-  repositories: []
-name: '314990619'
-ref: seeedstudio/314990619
-release_date: null
-sku: '314990619'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/0/1/01_14_4.png

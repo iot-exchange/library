@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 1-50
+ref: microchip/1-50
+vendor: microchip
+sku: 1-50
+name: '1.50'
 description: Cortex-M0+
+status: ''
 extra:
   CAN-FD: 'No'
   GPIO: '2'
@@ -10,16 +14,5 @@ extra:
   Temperature Range: '-40'
   Voltage: '3.63'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: '1.50'
-ref: microchip/1-50
-release_date: null
-sku: 1-50
-spec: null
-status: ''
-vendor: microchip
+  images: []

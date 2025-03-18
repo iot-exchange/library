@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: sc126-na
+ref: fibocom/sc126-na
+vendor: fibocom
+sku: sc126-na
+name: SC126-NA
 description: 4G entry module designed for North America.
+status: ''
 extra:
   Bands: 'LTE: B2/4/5/7/12/13/17/25/26/41/66/71'
   Form Factor: LGA / LCC
   Region: North America
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTE-SC126-NA.html
-  repositories: []
-name: SC126-NA
-ref: fibocom/sc126-na
-release_date: null
-sku: sc126-na
-spec: null
-status: ''
-vendor: fibocom
+  images: []

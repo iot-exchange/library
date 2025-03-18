@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: arduino-mkr-1000-wifi
+ref: arduino/arduino-mkr-1000-wifi
+vendor: arduino
+sku: arduino-mkr-1000-wifi
+name: Arduino MKR 1000 WiFi
 description: "A board equipped with a Wi-Fi\xAE radio module."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.arduino.cc/wiki/static/b92e82929f10b85ae50614e733897b31/67e9d/mkr_1000_wifi.jpg
-  models: []
   products:
   - https://store.arduino.cc/products/arduino-mkr1000-wifi
-  repositories: []
-name: Arduino MKR 1000 WiFi
-ref: arduino/arduino-mkr-1000-wifi
-release_date: null
-sku: arduino-mkr-1000-wifi
-spec: null
-status: ''
-vendor: arduino
+  images:
+  - https://www.arduino.cc/wiki/static/b92e82929f10b85ae50614e733897b31/67e9d/mkr_1000_wifi.jpg

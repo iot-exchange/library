@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5223
+ref: mikroe/mikroe-5223
+vendor: mikroe
+sku: mikroe-5223
+name: MIKROE-5223
 description: "Magnetic Rotary 4 Click is a compact add-on board for accurate magnet-position\
   \ sensing. This board features the AS5047D, an SPI-configurable high-resolution\
   \ rotary position sensor for fast absolute angle measurement over a full 360-degree\
   \ range from ams AG. The AS5047D is equipped with revolutionary integrated dynamic\
   \ angle error compensation (DAEC\u2122) with..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/magnetic-rotary-4-click/magnetic-rotary-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/magnetic-rotary-4-click
-  repositories: []
-name: MIKROE-5223
-ref: mikroe/mikroe-5223
-release_date: null
-sku: mikroe-5223
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/magnetic-rotary-4-click/magnetic-rotary-4-click-home_default-1.jpg?v=100

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pack-of-3-pcs-puext-cable-10-10-100mm
+ref: olimex/pack-of-3-pcs-puext-cable-10-10-100mm
+vendor: olimex
+sku: pack-of-3-pcs-puext-cable-10-10-100mm
+name: Pack of 3 pcs pUEXT-CABLE-10-10-100MM
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Adapters/pUEXT-CABLE-10-10-50MM/images/thumbs/200x150/pUEXT-cable.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Adapters/pUEXT-CABLE-10-10-100MM/
-  repositories: []
-name: Pack of 3 pcs pUEXT-CABLE-10-10-100MM
-ref: olimex/pack-of-3-pcs-puext-cable-10-10-100mm
-release_date: null
-sku: pack-of-3-pcs-puext-cable-10-10-100mm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Adapters/pUEXT-CABLE-10-10-50MM/images/thumbs/200x150/pUEXT-cable.jpg

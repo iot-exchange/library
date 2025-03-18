@@ -1,29 +1,22 @@
-alternatives: []
-certifications: []
+id: '102010573'
+ref: seeedstudio/102010573
+vendor: seeedstudio
+sku: '102010573'
+name: '102010573'
 description: "Seeed Studio XIAO ESP32S3 leverages 240MHz Xtensa 32-bit LX7 dual-core\
   \ processor, supporting both WiFi and BLE 5.0 wireless connectivities, a 2.4GHz\
   \ Rod antenna, allows for deep sleep mode with power consumption as low as 14\u03BC\
   A while supporting lithium battery charging management. Ideal for the Internet of\
   \ Things, Smart Homes, Wireless wearable devices, Robotics, etc. This is the 3PCS\
   \ version of it."
+status: ''
 extra:
   discount: $2.00 (10%)
   original_price: $19.99
   price: $17.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32S3-3PCS-p-5919.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/w/e/wechatimg496_1.jpg
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/w/e/wechatimg496_2.jpg
-  models: []
-  products:
-  - https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32S3-3PCS-p-5919.html
-  repositories: []
-name: '102010573'
-ref: seeedstudio/102010573
-release_date: null
-sku: '102010573'
-spec: null
-status: ''
-vendor: seeedstudio

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: esp-12f
+ref: waveshare/esp-12f
+vendor: waveshare
+sku: esp-12f
+name: ESP-12F
 description: ESP-12F, WiFi Module Based on ESP8266
+status: ''
 extra:
   Price: $2.39 - $2.79
   SKU: '14162'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp-12f-1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/esp-12f.htm
   - https://www.waveshare.com/product/esp-12f.htm "ESP-12F, WiFi Module Based on ESP8266"
-  repositories: []
-name: ESP-12F
-ref: waveshare/esp-12f
-release_date: null
-sku: esp-12f
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp-12f-1_2.jpg

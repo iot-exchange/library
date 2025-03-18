@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sns-ldr5mm
+ref: olimex/sns-ldr5mm
+vendor: olimex
+sku: sns-ldr5mm
+name: SNS-LDR5MM
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Sensors/SNS-LDR5MM/images/thumbs/200x150/SNS-LDR5MM.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Sensors/SNS-LDR5MM/
-  repositories: []
-name: SNS-LDR5MM
-ref: olimex/sns-ldr5mm
-release_date: null
-sku: sns-ldr5mm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/SNS-LDR5MM/images/thumbs/200x150/SNS-LDR5MM.jpg

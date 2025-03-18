@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rc7620
+ref: sierrawireless/rc7620
+vendor: sierrawireless
+sku: rc7620
+name: RC7620
 description: 'EMEA, Brazil, Taiwan, Australia (Telstra, Planned: Semtech)'
+status: ''
 extra:
   Bands: 'LTE: B1, B3, B7, B8, B20, B28'
   Edge Processing: "\u2013"
   Fallback: 2G, 3G
   Region (Carrier): 'EMEA, Brazil, Taiwan, Australia (Telstra, Planned: Semtech)'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.sierrawireless.com/iot-modules/smart-modules/rc7620/
-  repositories: []
-name: RC7620
-ref: sierrawireless/rc7620
-release_date: null
-sku: rc7620
-spec: null
-status: ''
-vendor: sierrawireless
+  images: []

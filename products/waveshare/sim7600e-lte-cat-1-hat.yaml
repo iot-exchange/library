@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: sim7600e-lte-cat-1-hat
+ref: waveshare/sim7600e-lte-cat-1-hat
+vendor: waveshare
+sku: sim7600e-lte-cat-1-hat
+name: SIM7600E LTE Cat-1 HAT
 description: SIM7600E LTE Cat-1 HAT for Raspberry Pi, 3G / 2G / GNSS as well, for
   Southeast Asia, West Asia, Europe, Africa
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim7600e-lte-cat-1-hat-1_2.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim7600e-lte-cat-1-hat-5_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/sim7600e-lte-cat-1-hat.htm
   - https://www.waveshare.com/product/sim7600e-lte-cat-1-hat.htm "SIM7600E LTE Cat-1
     HAT for Raspberry Pi, 3G / 2G / GNSS as well, for Southeast Asia, West Asia, Europe,
     Africa"
-  repositories: []
-name: SIM7600E LTE Cat-1 HAT
-ref: waveshare/sim7600e-lte-cat-1-hat
-release_date: null
-sku: sim7600e-lte-cat-1-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim7600e-lte-cat-1-hat-1_2.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim7600e-lte-cat-1-hat-5_2.jpg

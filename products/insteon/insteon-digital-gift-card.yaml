@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: insteon-digital-gift-card
+ref: insteon/insteon-digital-gift-card
+vendor: insteon
+sku: insteon-digital-gift-card
+name: Insteon Digital Gift Card
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/files/insteon-digital-gift-card.png?v=1706282039&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/insteon-egift-card
-  repositories: []
-name: Insteon Digital Gift Card
-ref: insteon/insteon-digital-gift-card
-release_date: null
-sku: insteon-digital-gift-card
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/files/insteon-digital-gift-card.png?v=1706282039&width=533

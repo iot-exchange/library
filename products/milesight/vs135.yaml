@@ -1,0 +1,13 @@
+id: vs135
+ref: milesight/vs135
+vendor: milesight
+sku: vs135
+name: VS135
+description: Ultra ToF People Counter
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/vs135
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/occupancy-people-counting-series/vs135.png?t=1742198585390

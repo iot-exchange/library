@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-3649
+ref: mikroe/mikroe-3649
+vendor: mikroe
+sku: mikroe-3649
+name: MIKROE-3649
 description: DC Motor 11 Click is a brushed DC motor driver with the current limiting
   and current sensing. It is based on the DRV8830, an integrated H-Bridge driver IC,
   optimized for motor driving applications.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products: []
   images:
   - https://www.mikroe.com/img/ai
-  models: []
-  products: []
-  repositories: []
-name: MIKROE-3649
-ref: mikroe/mikroe-3649
-release_date: null
-sku: mikroe-3649
-spec: null
-status: ''
-vendor: mikroe

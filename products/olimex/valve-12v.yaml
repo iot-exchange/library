@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: valve-12v
+ref: olimex/valve-12v
+vendor: olimex
+sku: valve-12v
+name: VALVE-12V
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Misc/VALVE-12V/images/thumbs/200x150/VALVE-12V.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Misc/VALVE-12V/
-  repositories: []
-name: VALVE-12V
-ref: olimex/valve-12v
-release_date: null
-sku: valve-12v
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Misc/VALVE-12V/images/thumbs/200x150/VALVE-12V.jpg

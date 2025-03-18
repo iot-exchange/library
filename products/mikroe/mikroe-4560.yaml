@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-4560
+ref: mikroe/mikroe-4560
+vendor: mikroe
+sku: mikroe-4560
+name: MIKROE-4560
 description: Volume 2 Click is a compact add-on board that provides the user with
   complete digital volume control. This board features the NJU72341, a 2-channel I2C
   configurable electronic volume IC with external mute control from NJRC.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/volume-2-click/volume-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/volume-2-click
-  repositories: []
-name: MIKROE-4560
-ref: mikroe/mikroe-4560
-release_date: null
-sku: mikroe-4560
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/volume-2-click/volume-2-click-home_default-1.jpg?v=100

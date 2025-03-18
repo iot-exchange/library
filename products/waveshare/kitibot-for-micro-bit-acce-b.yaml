@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: kitibot-for-micro-bit-acce-b
+ref: waveshare/kitibot-for-micro-bit-acce-b
+vendor: waveshare
+sku: kitibot-for-micro-bit-acce-b
+name: KitiBot for micro:bit Acce B
 description: KitiBot 2WD robot building kit for micro:bit (no micro:bit)
+status: ''
 extra:
   Price: $67.95 - $69.99
   SKU: '14982'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/kitibot-for-micro-bit-acce-b.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/k/i/kitibot-for-micro-bit-acce-b_4.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/k/i/kitibot-for-micro-bit-w-5_1.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/kitibot-for-micro-bit-acce-b.htm
-  repositories: []
-name: KitiBot for micro:bit Acce B
-ref: waveshare/kitibot-for-micro-bit-acce-b
-release_date: null
-sku: kitibot-for-micro-bit-acce-b
-spec: null
-status: ''
-vendor: waveshare

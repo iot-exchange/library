@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pico-10dof-imu
+ref: waveshare/pico-10dof-imu
+vendor: waveshare
+sku: pico-10dof-imu
+name: Pico-10DOF-IMU
 description: 10-DOF IMU Sensor Module for Raspberry Pi Pico, onboard ICM20948 and
   LPS22HB chip
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-10dof-imu-1_4.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pico-10dof-imu.htm
   - https://www.waveshare.com/product/pico-10dof-imu.htm "10-DOF IMU Sensor Module
     for Raspberry Pi Pico, onboard ICM20948 and LPS22HB chip"
-  repositories: []
-name: Pico-10DOF-IMU
-ref: waveshare/pico-10dof-imu
-release_date: null
-sku: pico-10dof-imu
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-10dof-imu-1_4.jpg

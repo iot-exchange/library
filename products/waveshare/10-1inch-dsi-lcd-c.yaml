@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 10-1inch-dsi-lcd-c
+ref: waveshare/10-1inch-dsi-lcd-c
+vendor: waveshare
+sku: 10-1inch-dsi-lcd-c
+name: 10.1inch DSI LCD (C)
 description: "10.1inch Capacitive Touch Display for Raspberry Pi, 1280\xD7800, IPS,\
   \ DSI Interface"
+status: ''
 extra:
   Price: $77.27 - $79.99
   SKU: '23450'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.1inch-dsi-lcd-c-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/10.1inch-dsi-lcd-c.htm
-  repositories: []
-name: 10.1inch DSI LCD (C)
-ref: waveshare/10-1inch-dsi-lcd-c
-release_date: null
-sku: 10-1inch-dsi-lcd-c
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.1inch-dsi-lcd-c-1.jpg

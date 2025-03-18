@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6025
+ref: mikroe/mikroe-6025
+vendor: mikroe
+sku: mikroe-6025
+name: MIKROE-6025
 description: Accel&Qvar Click is a compact add-on board for capturing precise acceleration
   measurements and detecting electric charge variations. This board features the LIS2DUXS12,
   an ultralow-power accelerometer from STMicroelectronics. Besides low power consumption,
   it also includes Qvar technology, artificial intelligence, and an anti-aliasing
   filter.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/accelqvar-click/accelqvar-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/accelqvar-click
-  repositories: []
-name: MIKROE-6025
-ref: mikroe/mikroe-6025
-release_date: null
-sku: mikroe-6025
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/accelqvar-click/accelqvar-click-home_default-1.jpg?v=100

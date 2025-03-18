@@ -1,0 +1,13 @@
+id: gs101
+ref: milesight/gs101
+vendor: milesight
+sku: gs101
+name: GS101
+description: Gas Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/gs101
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/gas-sensor-gs-series/lorawan-gas-detector-gs101.png?t=1742198585390

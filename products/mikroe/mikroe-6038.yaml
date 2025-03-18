@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-6038
+ref: mikroe/mikroe-6038
+vendor: mikroe
+sku: mikroe-6038
+name: MIKROE-6038
 description: LR 9 Click is a compact add-on board designed for ultra-long-range spread
   spectrum communication tasks within the LPWAN domain.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/lr-9-click/lr-9-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/lr-9-click
-  repositories: []
-name: MIKROE-6038
-ref: mikroe/mikroe-6038
-release_date: null
-sku: mikroe-6038
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lr-9-click/lr-9-click-home_default-1.jpg?v=100

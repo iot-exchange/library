@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: piezzo-knock
+ref: olimex/piezzo-knock
+vendor: olimex
+sku: piezzo-knock
+name: PIEZZO-KNOCK
 description: ''
+status: ''
 extra:
   discountedPrice1: 0.90 EUR
   discountedPrice2: 0.80 EUR
   price: 1.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Breadboarding/Sensors/PIEZZO-KNOCK/images/thumbs/200x150/PIEZZO-KNOCK.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Breadboarding/Sensors/PIEZZO-KNOCK/
-  repositories: []
-name: PIEZZO-KNOCK
-ref: olimex/piezzo-knock
-release_date: null
-sku: piezzo-knock
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Breadboarding/Sensors/PIEZZO-KNOCK/images/thumbs/200x150/PIEZZO-KNOCK.jpg

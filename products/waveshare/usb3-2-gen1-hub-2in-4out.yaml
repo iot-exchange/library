@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: usb3-2-gen1-hub-2in-4out
+ref: waveshare/usb3-2-gen1-hub-2in-4out
+vendor: waveshare
+sku: usb3-2-gen1-hub-2in-4out
+name: USB3.2-Gen1-HUB-2IN-4OUT
 description: Industrial grade USB HUB, Extending 4x USB 3.2 Ports, Switchable dual
   hosts, Multi Protections
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb3.2-gen1-hub-2in-4out-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb3.2-gen1-hub-2in-4out.htm
-  repositories: []
-name: USB3.2-Gen1-HUB-2IN-4OUT
-ref: waveshare/usb3-2-gen1-hub-2in-4out
-release_date: null
-sku: usb3-2-gen1-hub-2in-4out
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb3.2-gen1-hub-2in-4out-1.jpg

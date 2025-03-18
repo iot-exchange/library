@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: usb-to-4ch-rs485-422
+ref: waveshare/usb-to-4ch-rs485-422
+vendor: waveshare
+sku: usb-to-4ch-rs485-422
+name: USB TO 4CH RS485/422
 description: Industrial Isolated USB To RS485/422 Converter, Original FT4232HL Chip,
   Supports USB To 2-Ch RS485 + 2-Ch RS485/422
+status: ''
 extra:
   price: $31.97 - $32.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-4ch-rs485-422-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-to-4ch-rs485-422.htm
-  repositories: []
-name: USB TO 4CH RS485/422
-ref: waveshare/usb-to-4ch-rs485-422
-release_date: null
-sku: usb-to-4ch-rs485-422
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-4ch-rs485-422-1.jpg

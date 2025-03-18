@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: hdmi-switcher-3in-1out
+ref: waveshare/hdmi-switcher-3in-1out
+vendor: waveshare
+sku: hdmi-switcher-3in-1out
+name: HDMI-SWITCHER-3IN-1OUT
 description: HDMI 4K Switcher, 3 In 1 Out, One-Click Switch
+status: ''
 extra:
   SKU: '23120'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-switcher-3in-1out-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/hdmi-switcher-3in-1out.htm
-  repositories: []
-name: HDMI-SWITCHER-3IN-1OUT
-ref: waveshare/hdmi-switcher-3in-1out
-release_date: null
-sku: hdmi-switcher-3in-1out
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-switcher-3in-1out-1.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4137
+ref: mikroe/mikroe-4137
+vendor: mikroe
+sku: mikroe-4137
+name: MIKROE-4137
 description: "M-Bus Slave Click is a Click board\u2122 equipped with the TSS721A,\
   \ a single chip transceiver developed by Texas Instruments for Meter-Bus applications\
   \ according to EN1434-3 standard. The connection to the bus is polarity independent\
   \ and serves as a slave node in the system. M-Bus Slave Click has full galvanic\
   \ isolation with optocouplers to improve the..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/m-bus-slave-click/m-bus-slave-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/m-bus-slave-click
-  repositories: []
-name: MIKROE-4137
-ref: mikroe/mikroe-4137
-release_date: null
-sku: mikroe-4137
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/m-bus-slave-click/m-bus-slave-click-home_default-1.jpg?v=100

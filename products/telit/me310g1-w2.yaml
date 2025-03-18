@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: me310g1-w2
+ref: telit/me310g1-w2
+vendor: telit
+sku: me310g1-w2
+name: ME310G1-W2
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2024/11/TC_ME310G1-W2_dyn-234x200.png
-  models: []
   products:
   - https://www.telit.com/devices/me310g1-w2/
-  repositories: []
-name: ME310G1-W2
-ref: telit/me310g1-w2
-release_date: null
-sku: me310g1-w2
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/11/TC_ME310G1-W2_dyn-234x200.png

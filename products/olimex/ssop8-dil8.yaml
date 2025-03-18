@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: ssop8-dil8
+ref: olimex/ssop8-dil8
+vendor: olimex
+sku: ssop8-dil8
+name: SSOP8-DIL8
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Connectors/SSOP8-DIL8/images/thumbs/200x150/SSOP8-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Connectors/SSOP8-DIL8/
-  repositories: []
-name: SSOP8-DIL8
-ref: olimex/ssop8-dil8
-release_date: null
-sku: ssop8-dil8
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Connectors/SSOP8-DIL8/images/thumbs/200x150/SSOP8-1.jpg

@@ -1,0 +1,23 @@
+id: analog-can-bus-module
+ref: dptechnics/analog-can-bus-module
+vendor: dptechnics
+sku: analog-can-bus-module
+name: Analog CAN-bus module
+description: The DPTechnics analog CAN-bus module is a very high module with 8 independant
+  analog input channels and 8 independant analog output channels. Every channel can
+  handle everything between [-10V, 10V] and [0mA, 24mA] at 16-bits precision.
+status: ''
+extra:
+  Input Channels: '8'
+  Input Voltage Range: '[-10V, 10V]'
+  Mounting: DIN-rail
+  Output Channels: '8'
+  Output Current Range: '[0mA, 24mA]'
+  Power Supply Voltage: 12V to 24V
+  Precision: 16-bits
+  Processor: ARM Cortex-M0
+  Processor Speed: 48MHz
+links:
+  products: []
+  images:
+  - https://www.dptechnics.com/images/product/analog-module.jpg

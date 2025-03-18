@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: electric-imp-iot-connectivity-platform
+ref: murata/electric-imp-iot-connectivity-platform
+vendor: murata
+sku: electric-imp-iot-connectivity-platform
+name: Electric Imp IoT Connectivity Platform
 description: Innovative platform which simply connects devices and the cloud
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://solution.murata.com/sites/default/files/2018-11/bnr_electric-imp_2.jpg
-  models: []
   products:
   - https://solution.murata.com/en-eu/technology/electric-imp
-  repositories: []
-name: Electric Imp IoT Connectivity Platform
-ref: murata/electric-imp-iot-connectivity-platform
-release_date: null
-sku: electric-imp-iot-connectivity-platform
-spec: null
-status: ''
-vendor: murata
+  images:
+  - https://solution.murata.com/sites/default/files/2018-11/bnr_electric-imp_2.jpg

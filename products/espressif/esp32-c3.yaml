@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: esp32-c3
+ref: espressif/esp32-c3
+vendor: espressif
+sku: esp32-c3
+name: ESP32-C3
 description: 32-bit RISC-V MCU & 2.4 GHz Wi-Fi & Bluetooth 5 (LE)
+status: ''
 extra:
   Core: Single Core
   Development Board: ESP32-C3-DevKitM-1, ESP32-C3-DevKitC-02, ESP32-C3-DevKit-RUST-1,
@@ -14,18 +18,7 @@ extra:
   Pins: '32'
   RAM/ROM (KB): 400 KB RAM, 384 KB ROM, 8 KB RTC SRAM
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/chips/ESP32-C3_S.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf
-  repositories: []
-name: ESP32-C3
-ref: espressif/esp32-c3
-release_date: null
-sku: esp32-c3
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP32-C3_S.png

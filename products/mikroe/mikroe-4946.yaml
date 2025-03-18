@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-4946
+ref: mikroe/mikroe-4946
+vendor: mikroe
+sku: mikroe-4946
+name: MIKROE-4946
 description: 168 positions high-speed male SMT connector, compatible with SiBRAIN
   add-on boards.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/168-pin-high-speed-male-connector-header-smd/168-pin-high-speed-male-connector-header-smd-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/168-pin-high-speed-male-connector-header-smd
-  repositories: []
-name: MIKROE-4946
-ref: mikroe/mikroe-4946
-release_date: null
-sku: mikroe-4946
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/168-pin-high-speed-male-connector-header-smd/168-pin-high-speed-male-connector-header-smd-home_default-1.jpg?v=100

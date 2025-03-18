@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3912
+ref: mikroe/mikroe-3912
+vendor: mikroe
+sku: mikroe-3912
+name: MIKROE-3912
 description: RS232 SPI Click is based around the MAX3100, a universal universal asynchronous
   receiver transmitter (UART) - the first UART specifically optimized for small microcontroller-based
   systems, from Maxim Integrated. Because of the features contained in its modules,
   the RS232 SPI Click can be used for handheld instruments, small networks in HVAC
   or Building...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/rs232-spi-click/rs232-spi-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=115#RS232-SPI-Click
-  repositories: []
-name: MIKROE-3912
-ref: mikroe/mikroe-3912
-release_date: null
-sku: mikroe-3912
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rs232-spi-click/rs232-spi-click-home_default-1.jpg?v=100

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '2605039241001'
+ref: we/2605039241001
+vendor: we
+sku: '2605039241001'
+name: '2605039241001'
 description: EV-Kit Thadeus incl. ext. antenna
+status: Active i
 extra:
   Expected lifetime: '>10 years'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o139394v214%20Single_Thadeus_2605031141000.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/THADEUS#2605039241001
-  repositories: []
-name: '2605039241001'
-ref: we/2605039241001
-release_date: null
-sku: '2605039241001'
-spec: null
-status: Active i
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o139394v214%20Single_Thadeus_2605031141000.jpg

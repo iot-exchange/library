@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: ots-48-64-0-5-02
+ref: waveshare/ots-48-64-0-5-02
+vendor: waveshare
+sku: ots-48-64-0-5-02
+name: OTS-48(64)-0.5-02
 description: OTS-48(64)-0.5-02, Test & Burn-in Socket
+status: ''
 extra:
   Price: $74.89 - $79.99
   SKU: '3616'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/t/ots-4864-0.5-02_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ots-4864-0.5-02.htm
-  repositories: []
-name: OTS-48(64)-0.5-02
-ref: waveshare/ots-48-64-0-5-02
-release_date: null
-sku: ots-48-64-0-5-02
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/t/ots-4864-0.5-02_l_1_5.jpg

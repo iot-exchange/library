@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: rp2040-pizero
+ref: waveshare/rp2040-pizero
+vendor: waveshare
+sku: rp2040-pizero
+name: RP2040-PiZero
 description: Waveshare RP2040-PiZero Development Board, Based On The Raspberry Pi
   RP2040 Dual-core Processor, 264KB SRAM And 16MB Onboard Flash Memory
+status: ''
 extra:
-  Price: $9.31 - $9.99
   SKU: '25506'
   price: $9.31  -  $9.99
+  Price: $9.31 - $9.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/rp2040-pizero.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-pizero-1_1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-pizero-2_1.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/rp2040-pizero.htm
-  repositories: []
-name: RP2040-PiZero
-ref: waveshare/rp2040-pizero
-release_date: null
-sku: rp2040-pizero
-spec: null
-status: ''
-vendor: waveshare

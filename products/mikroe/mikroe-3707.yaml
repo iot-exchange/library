@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-3707
+ref: mikroe/mikroe-3707
+vendor: mikroe
+sku: mikroe-3707
+name: MIKROE-3707
 description: "DAC 4 Click carries Microchip\u2019s MCP4728 IC, a Quad Digital-to-Analog\
   \ Converter with nonvolatile (EEPROM) Memory. The digital value is converted to\
   \ the appropriate voltage level in the range between GND and VCC."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/dac-4-click/dac-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=125#MIKROE-3707
-  repositories: []
-name: MIKROE-3707
-ref: mikroe/mikroe-3707
-release_date: null
-sku: mikroe-3707
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dac-4-click/dac-4-click-home_default-1.jpg?v=100

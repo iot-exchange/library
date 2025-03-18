@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: am3352-som-evb
+ref: olimex/am3352-som-evb
+vendor: olimex
+sku: am3352-som-evb
+name: AM3352-SOM-EVB
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/SOM/AM335X/AM3352-SOM-EVB/images/thumbs/200x150/AM3352-SOM-EVB-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/SOM/AM335X/AM3352-SOM-EVB/open-source-hardware
-  repositories: []
-name: AM3352-SOM-EVB
-ref: olimex/am3352-som-evb
-release_date: null
-sku: am3352-som-evb
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/SOM/AM335X/AM3352-SOM-EVB/images/thumbs/200x150/AM3352-SOM-EVB-1.jpg

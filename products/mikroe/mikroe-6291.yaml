@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-6291
+ref: mikroe/mikroe-6291
+vendor: mikroe
+sku: mikroe-6291
+name: MIKROE-6291
 description: "Click Shield for FRDM-MCXN947 Expand your horizons with the Click Shield\
   \ for FRDM-MCXN947! Enhance the FRDM-MCXN947 board's capabilities using mikroBUS\u2122\
   \ sockets to access a wide array of Click boards\u2122 instantly. Unlock new possibilities\
   \ and innovate without limits with just one host board."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/click-shield-for-frdm-mcxn947/click-shield-for-frdm-mcxn947-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/click-shield-for-frdm-mcxn947
-  repositories: []
-name: MIKROE-6291
-ref: mikroe/mikroe-6291
-release_date: null
-sku: mikroe-6291
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/click-shield-for-frdm-mcxn947/click-shield-for-frdm-mcxn947-home_default-1.jpg?v=100

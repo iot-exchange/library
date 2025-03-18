@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: sy0612e-china
+ref: olimex/sy0612e-china
+vendor: olimex
+sku: sy0612e-china
+name: SY0612E-CHINA
 description: ''
+status: ''
 extra:
   discountedPrice1: 3.75 EUR
   discountedPrice2: 3.56 EUR
   price: 3.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Power/SY0612E-CHINA/images/thumbs/200x150/Power-Supply.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Power/SY0612E-CHINA/
-  repositories: []
-name: SY0612E-CHINA
-ref: olimex/sy0612e-china
-release_date: null
-sku: sy0612e-china
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Power/SY0612E-CHINA/images/thumbs/200x150/Power-Supply.jpg

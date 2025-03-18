@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-4976
+ref: mikroe/mikroe-4976
+vendor: mikroe
+sku: mikroe-4976
+name: MIKROE-4976
 description: Current 7 Click is a compact add-on board providing a precise and accurate
   current sensing solution. This board features the INA282, a wide common-mode range,
   bidirectional, high-accuracy current shunt monitor from Texas Instruments. The INA282
   represents a voltage output current shunt monitor that can sense drops across shunts
   at common-mode voltages...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/current-7-click/current-7-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=3279
   - https://www.mikroe.com/current-7-click
-  repositories: []
-name: MIKROE-4976
-ref: mikroe/mikroe-4976
-release_date: null
-sku: mikroe-4976
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/current-7-click/current-7-click-home_default-1.jpg?v=100

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: arduino-nano-33-iot
+ref: arduino/arduino-nano-33-iot
+vendor: arduino
+sku: arduino-nano-33-iot
+name: Arduino Nano 33 IoT
 description: "A board with a tiny footprint, packed with features including Bluetooth\xAE\
   \ and Wi-Fi\xAE radio modules."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.arduino.cc/wiki/static/8ec0d0616effd3d37ddd111d93310a6b/4b190/nano-33-iot.jpg
-  models: []
   products:
   - https://store.arduino.cc/products/arduino-nano-33-iot
-  repositories: []
-name: Arduino Nano 33 IoT
-ref: arduino/arduino-nano-33-iot
-release_date: null
-sku: arduino-nano-33-iot
-spec: null
-status: ''
-vendor: arduino
+  images:
+  - https://www.arduino.cc/wiki/static/8ec0d0616effd3d37ddd111d93310a6b/4b190/nano-33-iot.jpg

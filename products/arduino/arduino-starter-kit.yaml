@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: arduino-starter-kit
+ref: arduino/arduino-starter-kit
+vendor: arduino
+sku: arduino-starter-kit
+name: Arduino Starter Kit
 description: The classic Starter Kit includes an Arduino UNO R3, a large set of electronic
   components, and a physical book with 15 chapters to help you get started.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.arduino.cc/wiki/static/babf36463632d2746aaf748c193afd87/4b190/starter-kit.jpg
-  models: []
   products:
   - https://store.arduino.cc/products/arduino-starter-kit-multi-language
-  repositories: []
-name: Arduino Starter Kit
-ref: arduino/arduino-starter-kit
-release_date: null
-sku: arduino-starter-kit
-spec: null
-status: ''
-vendor: arduino
+  images:
+  - https://www.arduino.cc/wiki/static/babf36463632d2746aaf748c193afd87/4b190/starter-kit.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '316040005'
+ref: seeedstudio/316040005
+vendor: seeedstudio
+sku: '316040005'
+name: '316040005'
 description: This mini vibration motor worked at 3V can be used for multipurposes
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproduct316040005201.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Mini-vibration-motor-SMD-p-2298.html
-  repositories: []
-name: '316040005'
-ref: seeedstudio/316040005
-release_date: null
-sku: '316040005'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproduct316040005201.jpg

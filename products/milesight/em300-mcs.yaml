@@ -1,0 +1,13 @@
+id: em300-mcs
+ref: milesight/em300-mcs
+vendor: milesight
+sku: em300-mcs
+name: EM300-MCS
+description: Magnetic Contact Switch
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/em300-mcs
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/environmental-monitoring-em300-series/magnetic-contact-switch-em300-mcs.png?t=1742198585390

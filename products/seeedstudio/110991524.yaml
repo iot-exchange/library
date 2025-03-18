@@ -1,27 +1,20 @@
-alternatives: []
-certifications: []
+id: '110991524'
+ref: seeedstudio/110991524
+vendor: seeedstudio
+sku: '110991524'
+name: '110991524'
 description: "Wio Lite AI is a microcontroller vision development tool based on the\
   \ STM32H725AE chip which is an Arm\xAE Cortex\xAE-M7 32-bit 550 MHz high-performance\
   \ microprocessor. The Single board is equipped with 16MB SPI NOR flash, 8MB PSRAM,\
   \ dual-band 2.4GHz/5GHz Wi-Fi and Bluetooth 5.1. Also, there are 2-million-pixel\
   \ DCMI camera and a 2.8-inch resistive touch screen RGB LCD in this kit, which makes\
   \ it easy to apply into a vision project just out-of-box."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991596_front-05_1.jpg
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110991524_preview-07-min_.png
-  models: []
   products:
   - https://www.seeedstudio.com/CANBed-RP2040-CAN-Bus-development-board-p-5262.html
   - https://www.seeedstudio.com/Wio-Lite-AI-p-5119.html
-  repositories: []
-name: '110991524'
-ref: seeedstudio/110991524
-release_date: null
-sku: '110991524'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991596_front-05_1.jpg
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110991524_preview-07-min_.png

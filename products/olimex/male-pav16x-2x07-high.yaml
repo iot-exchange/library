@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: male-pav16x-2x07-high
+ref: olimex/male-pav16x-2x07-high
+vendor: olimex
+sku: male-pav16x-2x07-high
+name: MALE-PAV16X-2x07-HIGH
 description: ''
+status: ''
 extra:
   discountedPrice1: 0.16 EUR
   discountedPrice2: 0.14 EUR
   price: 0.18 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Connectors/MALE-PAV16X-2x05/images/thumbs/200x150/MALE-PAV16X-2X20-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Connectors/MALE-PAV16X-2x07-HIGH/
-  repositories: []
-name: MALE-PAV16X-2x07-HIGH
-ref: olimex/male-pav16x-2x07-high
-release_date: null
-sku: male-pav16x-2x07-high
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Connectors/MALE-PAV16X-2x05/images/thumbs/200x150/MALE-PAV16X-2X20-1.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4895
+ref: mikroe/mikroe-4895
+vendor: mikroe
+sku: mikroe-4895
+name: MIKROE-4895
 description: ReRAM 2 Click is a compact add-on board containing highly reliable resistive
   random-access memory. This board features the MB85AS8MT, an 8Mbit memory organized
   as 1,048,576 words of 8 bits from Fujitsu Semiconductor. The MB85AS8MT uses the
   resistance-variable memory process and silicon-gate CMOS process technologies to
   form nonvolatile memory cells.
+status: Unavailable
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/reram-2-click/reram-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/reram-2-click
-  repositories: []
-name: MIKROE-4895
-ref: mikroe/mikroe-4895
-release_date: null
-sku: mikroe-4895
-spec: null
-status: Unavailable
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/reram-2-click/reram-2-click-home_default-1.jpg?v=100

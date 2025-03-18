@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '114090050'
+ref: seeedstudio/114090050
+vendor: seeedstudio
+sku: '114090050'
+name: '114090050'
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/t/t/ttmotor.png
-  models: []
   products:
   - https://www.seeedstudio.com/TT-Motor-Dual-output-shaft-1-48-p-4128.html
-  repositories: []
-name: '114090050'
-ref: seeedstudio/114090050
-release_date: null
-sku: '114090050'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/t/t/ttmotor.png

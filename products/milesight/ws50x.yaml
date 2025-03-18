@@ -1,0 +1,13 @@
+id: ws50x
+ref: milesight/ws50x
+vendor: milesight
+sku: ws50x
+name: WS50x
+description: Smart Wall Switch
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/ws50x
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/smart-workplace-cowork-series/smart-wall-switch-ws50x.png?t=1742198585390

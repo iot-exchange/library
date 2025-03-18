@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: msex25-i
+ref: vertexcom/msex25-i
+vendor: vertexcom
+sku: msex25-i
+name: MSEX25-i
 description: MSEX25-i is a companion line driver for MSE1022, used for EVCC (Electric
   Vehicle Communication Controller).
+status: ''
 extra:
   Body Size (mm): 4x4
   Package: wettable QFN16
   Temperature Range: "-40 ~ +105\xB0C"
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: MSEX25-i
-ref: vertexcom/msex25-i
-release_date: null
-sku: msex25-i
-spec: null
-status: ''
-vendor: vertexcom
+  images: []

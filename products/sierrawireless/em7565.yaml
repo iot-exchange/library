@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: em7565
+ref: sierrawireless/em7565
+vendor: sierrawireless
+sku: em7565
+name: EM7565
 description: ''
+status: ''
 extra:
   Bands: 'LTE: B1, B2, B3, B4, B5, B7, B8, B9, B12, B13, B18, B19, B20, B26, B28,
     B29, B30, B32, B41, B42, B43, B46, B48, B66'
@@ -8,17 +12,6 @@ extra:
   Region (Carrier): Global (AT&T, Verizon, Sprint, NTT Docomo, Telus, Softbank, US
     Cellular, Telstra, SouthernLINC, T-Mobile, KDDI, Korea Telecom, Deutsche Telekom)
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.sierrawireless.com/iot-modules/4g-modules/em7565/
-  repositories: []
-name: EM7565
-ref: sierrawireless/em7565
-release_date: null
-sku: em7565
-spec: null
-status: ''
-vendor: sierrawireless
+  images: []

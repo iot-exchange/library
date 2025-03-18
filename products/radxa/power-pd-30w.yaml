@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: power-pd-30w
+ref: radxa/power-pd-30w
+vendor: radxa
+sku: power-pd-30w
+name: Power PD 30W
 description: 5A High Current Super Fast Charge
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/accessories/ap002/thumb_power_pd30w.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/power-pd-30w
-  repositories: []
-name: Power PD 30W
-ref: radxa/power-pd-30w
-release_date: null
-sku: power-pd-30w
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/accessories/ap002/thumb_power_pd30w.webp

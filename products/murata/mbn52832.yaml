@@ -1,8 +1,11 @@
-alternatives: []
-certifications: []
+id: mbn52832
+ref: murata/mbn52832
+vendor: murata
+sku: mbn52832
+name: MBN52832
 description: Bluetooth 5.0 LE 2MPHY module for consumer and industrial equipment.
+status: ''
 extra:
-  Bluetooth: 5.0 LE 2MPHY
   Chipset: nRF52832
   Dimension: 7.4 x 7.0 x 0.9 mm
   ETSI Report: 'Yes'
@@ -26,18 +29,8 @@ extra:
   Supply Voltage: 1.7V to 3.6V
   Technology: Bluetooth
   Transmit Mode Current (Bluetooth): 6mA (DCDC mode)
+  Bluetooth: 5.0 LE 2MPHY
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/products/connectivitymodule/bluetooth#series-lineup
-  repositories: []
-name: MBN52832
-ref: murata/mbn52832
-release_date: null
-sku: mbn52832
-spec: null
-status: ''
-vendor: murata
+  images: []

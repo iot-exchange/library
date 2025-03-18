@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: 3-ch-relay-for-jetson-nano
+ref: waveshare/3-ch-relay-for-jetson-nano
+vendor: waveshare
+sku: 3-ch-relay-for-jetson-nano
+name: 3-CH Relay for Jetson Nano
 description: Quality 3-Ch Relay Expansion Board Designed For Jetson Nano, Optocoupler
   Isolation
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/-/3-ch-relay-for-jetson-nano-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/3-ch-relay-for-jetson-nano.htm
-  repositories: []
-name: 3-CH Relay for Jetson Nano
-ref: waveshare/3-ch-relay-for-jetson-nano
-release_date: null
-sku: 3-ch-relay-for-jetson-nano
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/-/3-ch-relay-for-jetson-nano-1.jpg

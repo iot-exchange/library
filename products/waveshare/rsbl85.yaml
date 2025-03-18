@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: rsbl85
+ref: waveshare/rsbl85
+vendor: waveshare
+sku: rsbl85
+name: rsbl85
 description: "85kg.cm RSBL85-12 / RSBL85-24 Servo Motor, High Precision And Large\
   \ Torque, Aluminum Alloy Case, With Programmable 360\xB0 Magnetic Encoder"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rsbl85-12-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rsbl85-12.htm
-  repositories: []
-name: rsbl85
-ref: waveshare/rsbl85
-release_date: null
-sku: rsbl85
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rsbl85-12-1.jpg

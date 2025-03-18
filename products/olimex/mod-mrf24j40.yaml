@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-mrf24j40
+ref: olimex/mod-mrf24j40
+vendor: olimex
+sku: mod-mrf24j40
+name: MOD-MRF24J40
 description: ''
+status: ''
 extra:
   bulkPrice: 5.56 EUR
   discountedPrice: 6.26 EUR
   price: 6.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/RF/MOD-MRF24J40/images/thumbs/200x150/MOD-MRF24J40-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/RF/MOD-MRF24J40/
-  repositories: []
-name: MOD-MRF24J40
-ref: olimex/mod-mrf24j40
-release_date: null
-sku: mod-mrf24j40
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/RF/MOD-MRF24J40/images/thumbs/200x150/MOD-MRF24J40-01.jpg

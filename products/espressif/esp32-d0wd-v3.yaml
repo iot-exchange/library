@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: esp32-d0wd-v3
+ref: espressif/esp32-d0wd-v3
+vendor: espressif
+sku: esp32-d0wd-v3
+name: ESP32-D0WD-V3
 description: 32-bit MCU & 2.4 GHz Wi-Fi & Bluetooth/Bluetooth LE
+status: ''
 extra:
   Core: Dual Core
   Development Board: '[ESP32-DevKitC](https://www.espressif.com/en/products/hardware/esp32-devkitc/overview)[ESP-WROVER-KIT](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-wrover-kit-v3.html)[ESP32-LyraT](https://docs.espressif.com/projects/esp-adf/en/latest/get-started/get-started-esp32-lyrat.html)[ESP32-LyraT-Mini](https://docs.espressif.com/projects/esp-adf/en/latest/get-started/get-started-esp32-lyrat-mini.html)[ESP32-LyraTD-MSC](https://docs.espressif.com/projects/esp-adf/en/latest/get-started/get-started-esp32-lyratd-msc.html)[ESP32-LyraTD-SYNA](https://www.espressif.com/sites/default/files/documentation/ESP32-LyraTD-SYNA_User_Guide__EN.pdf)[ESP32-Vaquita-DSPG](https://github.com/espressif/esp-va-sdk/blob/master/docs/en/hw-reference/esp32/user-guide-esp32-vaquita-dspg.md)[ESP32-Korvo](https://github.com/espressif/esp-skainet/blob/master/docs/en/hw-reference/esp32/user-guide-esp32-korvo-v1.1.md)[ESP32-Ethernet-Kit](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-ethernet-kit.html)[ESP32-Korvo-DU1906](https://docs.espressif.com/projects/esp-adf/en/latest/get-started/get-started-esp32-korvo-du1906.html)'
@@ -17,18 +21,7 @@ extra:
   SPQ: '5000'
   Variants: N/A
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/chips/ESP32-D0WD-V3_S_0.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
-  repositories: []
-name: ESP32-D0WD-V3
-ref: espressif/esp32-d0wd-v3
-release_date: null
-sku: esp32-d0wd-v3
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP32-D0WD-V3_S_0.png

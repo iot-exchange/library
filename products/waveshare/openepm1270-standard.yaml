@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: openepm1270-standard
+ref: waveshare/openepm1270-standard
+vendor: waveshare
+sku: openepm1270-standard
+name: OpenEPM1270 Standard
 description: Part No.:OpenEPM1270 Standard, CPLD Development Board
+status: Out of Stock
 extra:
   Price: $26.29 - $27.99
   SKU: '5632'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/openepm1270-standard_l_1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/openepm1270-standard.htm
-  repositories: []
-name: OpenEPM1270 Standard
-ref: waveshare/openepm1270-standard
-release_date: null
-sku: openepm1270-standard
-spec: null
-status: Out of Stock
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/openepm1270-standard_l_1_2.jpg

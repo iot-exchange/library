@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: '114993079'
+ref: seeedstudio/114993079
+vendor: seeedstudio
+sku: '114993079'
+name: '114993079'
 description: "The SenseCAP M2 Multi-Platform LoRaWAN\xAE Gateway is a fully customizable\
   \ and open-sourced LoRaWAN\xAE gateway that supports connection to various network\
   \ servers. It supports global LoRaWAN\xAE frequency plans from 865 MHz to 923 MHz\
@@ -7,23 +10,13 @@ description: "The SenseCAP M2 Multi-Platform LoRaWAN\xAE Gateway is a fully cust
   \ monitoring systems, precision farming, etc. It has wide-range coverage and strong\
   \ signal output capability and other features, making it the perfect gateway for\
   \ building a LoRaWAN\xAE network."
+status: ''
 extra:
   discount: $40.00 (21%)
   original_price: $189.00
   price: $149.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114993079_us915_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/SenseCAP-Multi-Platform-LoRaWAN-Indoor-Gateway-SX1302-4G-US915-p-5600.html
-  repositories: []
-name: '114993079'
-ref: seeedstudio/114993079
-release_date: null
-sku: '114993079'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114993079_us915_1.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: cold-chain-iot-sensors
+ref: ezurio/cold-chain-iot-sensors
+vendor: ezurio
+sku: cold-chain-iot-sensors
+name: Cold Chain IoT Sensors
 description: Protecting the Cold Chain with IoT Sensors
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/537x300/filters:fill(white)/filters:background_color(white)/2020-01/RS1xx%20-%20Cold%20Chain%20-%20transparent.png
-  models: []
   products:
   - https://www.ezurio.com/resources/blog/protecting-cold-chain-iot-sensors
-  repositories: []
-name: Cold Chain IoT Sensors
-ref: ezurio/cold-chain-iot-sensors
-release_date: null
-sku: cold-chain-iot-sensors
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/537x300/filters:fill(white)/filters:background_color(white)/2020-01/RS1xx%20-%20Cold%20Chain%20-%20transparent.png

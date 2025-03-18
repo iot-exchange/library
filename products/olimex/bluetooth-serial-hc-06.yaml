@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bluetooth-serial-hc-06
+ref: olimex/bluetooth-serial-hc-06
+vendor: olimex
+sku: bluetooth-serial-hc-06
+name: BLUETOOTH-SERIAL-HC-06
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/RF/BLUETOOTH-SERIAL-HC-06/images/thumbs/200x150/HC-06-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/RF/BLUETOOTH-SERIAL-HC-06/
-  repositories: []
-name: BLUETOOTH-SERIAL-HC-06
-ref: olimex/bluetooth-serial-hc-06
-release_date: null
-sku: bluetooth-serial-hc-06
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/RF/BLUETOOTH-SERIAL-HC-06/images/thumbs/200x150/HC-06-1.jpg

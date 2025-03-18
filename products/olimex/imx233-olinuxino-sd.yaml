@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: imx233-olinuxino-sd
+ref: olimex/imx233-olinuxino-sd
+vendor: olimex
+sku: imx233-olinuxino-sd
+name: iMX233-OLinuXino-SD
 description: ''
+status: ''
 extra:
   price1: 9.95 EUR
   price2: 8.96 EUR
   price3: 7.96 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/iMX233/iMX233-OLinuXino-SD/images/thumbs/200x150/SD-Card.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/iMX233/iMX233-OLinuXino-SD/
-  repositories: []
-name: iMX233-OLinuXino-SD
-ref: olimex/imx233-olinuxino-sd
-release_date: null
-sku: imx233-olinuxino-sd
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/iMX233/iMX233-OLinuXino-SD/images/thumbs/200x150/SD-Card.jpg

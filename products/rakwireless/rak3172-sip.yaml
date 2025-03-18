@@ -1,9 +1,13 @@
-alternatives: []
-certifications: []
+id: rak3172-sip
+ref: rakwireless/rak3172-sip
+vendor: rakwireless
+sku: rak3172-sip
+name: RAK3172-SiP
 description: The WisDuo RAK3172 module is also produced in the miniature System-in-Package
   (SiP) form factor. It is smaller in size than the standard component and can fit
   into the most compact LoRa devices. This is a surface-mounted device (SMD) that
   provides full LoRa functionality.
+status: ''
 extra:
   Antenna connector: RF pinout
   Certification: CE, FCC
@@ -16,17 +20,6 @@ extra:
   Sleep current: "1.69 \xB5A"
   TCXO: Supported
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3172-SiP/Overview/
-  repositories: []
-name: RAK3172-SiP
-ref: rakwireless/rak3172-sip
-release_date: null
-sku: rak3172-sip
-spec: null
-status: ''
-vendor: rakwireless
+  images: []

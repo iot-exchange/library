@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: lig16
+ref: dragino/lig16
+vendor: dragino
+sku: lig16
+name: LIG16
 description: Indoor LoRaWAN Gateway
+status: ''
 extra:
   Chipset: SX1302 + 2 * SX1250
   Demodulators: "8 x SF5-SF12 LoRa\xAE demodulators"
   Mining: Not suitable for Helium Mining
   Type: Data-Only Hotspot
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/69bc9c3e85c501b0a6208cc7a55abbf9_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lora-lorawan-gateway/item/171-lig16.html
-  repositories: []
-name: LIG16
-ref: dragino/lig16
-release_date: null
-sku: lig16
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/69bc9c3e85c501b0a6208cc7a55abbf9_L.jpg

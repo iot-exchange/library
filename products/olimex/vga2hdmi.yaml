@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: vga2hdmi
+ref: olimex/vga2hdmi
+vendor: olimex
+sku: vga2hdmi
+name: VGA2HDMI
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Retro-Computers/VGA2HDMI/images/thumbs/200x150/VGA2HDMI-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Retro-Computers/VGA2HDMI/open-source-hardware
-  repositories: []
-name: VGA2HDMI
-ref: olimex/vga2hdmi
-release_date: null
-sku: vga2hdmi
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Retro-Computers/VGA2HDMI/images/thumbs/200x150/VGA2HDMI-1.jpg

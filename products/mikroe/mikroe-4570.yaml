@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: mikroe-4570
+ref: mikroe/mikroe-4570
+vendor: mikroe
+sku: mikroe-4570
+name: MIKROE-4570
 description: Debug Planet
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/planet-debug/planet-debug-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=82#MIKROE-4570
-  repositories: []
-name: MIKROE-4570
-ref: mikroe/mikroe-4570
-release_date: null
-sku: mikroe-4570
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/planet-debug/planet-debug-home_default-1.jpg?v=100

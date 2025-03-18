@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: hdmi-adapter
+ref: waveshare/hdmi-adapter
+vendor: waveshare
+sku: hdmi-adapter
+name: hdmi_adapter
 description: 'DIY HDMI Cable: HDMI Adapter Vertical'
+status: ''
 extra:
-  Multi Options: ''
   Price: $2.79 - $2.99
+  Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-adapter-vertical-1_4.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/hdmi-adapter-vertical.htm
-  repositories: []
-name: hdmi_adapter
-ref: waveshare/hdmi-adapter
-release_date: null
-sku: hdmi-adapter
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-adapter-vertical-1_4.jpg

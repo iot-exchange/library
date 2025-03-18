@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4822
+ref: mikroe/mikroe-4822
+vendor: mikroe
+sku: mikroe-4822
+name: MIKROE-4822
 description: Proximity 15 Click is a compact add-on board that contains a close-range
   proximity sensing solution. This board features the VL53L1, a state-of-the-art,
   Time-of-Flight (ToF), a laser-ranging miniature sensor from STMicroelectronics.
   The VL53L1 allows absolute distance measurement, whatever the target color and reflectance.
   It integrates a SPAD...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/proximity-15-click/proximity-15-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/proximity-15-click
-  repositories: []
-name: MIKROE-4822
-ref: mikroe/mikroe-4822
-release_date: null
-sku: mikroe-4822
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/proximity-15-click/proximity-15-click-home_default-1.jpg?v=100

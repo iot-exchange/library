@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: rk3188-som-4gb
+ref: olimex/rk3188-som-4gb
+vendor: olimex
+sku: rk3188-som-4gb
+name: RK3188-SOM-4GB
 description: ''
+status: ''
 extra:
   10+ pcs: 51.30 EUR
   100+ pcs: 42.75 EUR
   1000+ pcs: 39.90 EUR
   50+ pcs: 45.60 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/SOM/RK3188/RK3188-SOM/images/thumbs/200x150/rk3188-som.PNG
-  models: []
   products:
   - https://www.olimex.com/Products/SOM/RK3188/RK3188-SOM-4GB/
-  repositories: []
-name: RK3188-SOM-4GB
-ref: olimex/rk3188-som-4gb
-release_date: null
-sku: rk3188-som-4gb
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/SOM/RK3188/RK3188-SOM/images/thumbs/200x150/rk3188-som.PNG

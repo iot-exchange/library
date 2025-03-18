@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: summit-60
+ref: ezurio/summit-60
+vendor: ezurio
+sku: summit-60
+name: Summit-60
 description: A Laird Wifi module with USB interface.
+status: ''
 extra:
   interface: USB
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Summit-60
-ref: ezurio/summit-60
-release_date: null
-sku: summit-60
-spec: null
-status: ''
-vendor: ezurio
+  images: []

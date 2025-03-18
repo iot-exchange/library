@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '110990028'
+ref: seeedstudio/110990028
+vendor: seeedstudio
+sku: '110990028'
+name: '110990028'
 description: High quality copper wires Easy to use connectors Converts 2.54 pitch
   pin headers to Grove connector Designed for plug-n-play Five in one.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductgrove4p254.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Grove-4-pin-Female-Jumper-to-Grove-4-pin-Conversion-Cable-5-PCs-per-PAck.html
-  repositories: []
-name: '110990028'
-ref: seeedstudio/110990028
-release_date: null
-sku: '110990028'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductgrove4p254.jpg

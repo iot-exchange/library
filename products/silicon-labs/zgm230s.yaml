@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: zgm230s
+ref: silicon-labs/zgm230s
+vendor: silicon-labs
+sku: zgm230s
+name: ZGM230S
 description: The ZGM230S is a system-in-package (SiP) module for Z-Wave connectivity
   and networking built for the performance, security, and energy demands of the Smart
   Home.
+status: ''
 extra:
   Ideal for: Smart home, security, lighting & building automation
   Security: "Highest level of IoT security, Secure Vault\u2122 High"
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.silabs.com/content/siliconlabs/en/wireless/z-wave/800-series-modules.thumb.256.144.png
-  models: []
   products:
   - https://www.silabs.com/wireless/z-wave/800-series-modules
-  repositories: []
-name: ZGM230S
-ref: silicon-labs/zgm230s
-release_date: null
-sku: zgm230s
-spec: null
-status: ''
-vendor: silicon-labs
+  images:
+  - https://www.silabs.com/content/siliconlabs/en/wireless/z-wave/800-series-modules.thumb.256.144.png

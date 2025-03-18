@@ -1,39 +1,32 @@
-alternatives: []
-certifications: []
+id: '2611011021000'
+ref: we/2611011021000
+vendor: we
+sku: '2611011021000'
+name: '2611011021000'
 description: Thyone-I
+status: Active
 extra:
   ANTConn: RF pad and internal antenna
-  Antenna type: RF pad and internal antenna
-  Current consumption: '6'
-  Dimensions (mm): ''
   Expected lifetime: '>10 years'
   Frequency Range (MHz): 2403 - 2479
-  Frequency range: 2403 - 2479
-  Max data rate: '1.8'
-  Output power: '750'
   "PTx, 50 \u2126(dBm)": '6'
   PTx, e.r.p.(dBm): '4'
   Rb max.(kbps): '2000'
   "Rxsens, 50 \u2126(dBm)": '-100'
   Rxsens, e.r.p.(dBm): '-98'
-  Sensitivity: '-98'
   VDD max.(V): '3.6'
   VDD min.(V): '1.8'
-  Voltage: '-100'
   dLoS(m): '750'
+  Antenna type: RF pad and internal antenna
+  Current consumption: '6'
+  Dimensions (mm): ''
+  Frequency range: 2403 - 2479
+  Max data rate: '1.8'
+  Output power: '750'
+  Sensitivity: '-98'
+  Voltage: '-100'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o164911v214%20Single_eiSmart_USB-Stick.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/THYONE-I#2611011021000
-  repositories: []
-name: '2611011021000'
-ref: we/2611011021000
-release_date: null
-sku: '2611011021000'
-spec: null
-status: Active
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o164911v214%20Single_eiSmart_USB-Stick.jpg

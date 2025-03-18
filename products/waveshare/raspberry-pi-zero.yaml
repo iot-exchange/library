@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-zero
+ref: waveshare/raspberry-pi-zero
+vendor: waveshare
+sku: raspberry-pi-zero
+name: Raspberry Pi Zero
 description: Raspberry Pi Zero V1.3
+status: ''
 extra:
   Price: $15.65 - $15.99
   SKU: '13562'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-zero-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/raspberry-pi-zero.htm
-  repositories: []
-name: Raspberry Pi Zero
-ref: waveshare/raspberry-pi-zero
-release_date: null
-sku: raspberry-pi-zero
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-zero-1.jpg

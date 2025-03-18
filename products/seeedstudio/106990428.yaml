@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '106990428'
+ref: seeedstudio/106990428
+vendor: seeedstudio
+sku: '106990428'
+name: '106990428'
 description: 27W USB-C PD Power Supply is an official accessory for the Raspberry
   Pi 5, delivering 5.1V, 5A power. It increases the USB power limit to 1.6A when the
   USB-C PD Power Supply is detected.
+status: ''
 extra:
   Power: 5.1V, 5A
   USB Power Limit: 1.6A
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/27W-USB-C-PD-Power-Supply-Black-US-Version-p-5812.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102110919-raspberry-pi-5-8gb-45font_1.jpg
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-106990428-27w-usb-c-power-supply-first.jpg
-  models: []
-  products:
-  - https://www.seeedstudio.com/27W-USB-C-PD-Power-Supply-Black-US-Version-p-5812.html
-  repositories: []
-name: '106990428'
-ref: seeedstudio/106990428
-release_date: null
-sku: '106990428'
-spec: null
-status: ''
-vendor: seeedstudio

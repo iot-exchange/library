@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rpi-uext
+ref: olimex/rpi-uext
+vendor: olimex
+sku: rpi-uext
+name: RPi-UEXT
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Adapters/RPi-UEXT/images/thumbs/200x150/RPI-UEXT-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Adapters/RPi-UEXT/open-source-hardware
-  repositories: []
-name: RPi-UEXT
-ref: olimex/rpi-uext
-release_date: null
-sku: rpi-uext
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Adapters/RPi-UEXT/images/thumbs/200x150/RPI-UEXT-1.jpg

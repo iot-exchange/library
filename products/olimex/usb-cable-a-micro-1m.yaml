@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: usb-cable-a-micro-1m
+ref: olimex/usb-cable-a-micro-1m
+vendor: olimex
+sku: usb-cable-a-micro-1m
+name: USB-CABLE-A-MICRO-1M
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Cables/USB-CABLE-A-MICRO-1.8M/images/thumbs/200x150/CABLE-USB-A-MICRO-1.8M.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Cables/USB-CABLE-A-MICRO-1M/
-  repositories: []
-name: USB-CABLE-A-MICRO-1M
-ref: olimex/usb-cable-a-micro-1m
-release_date: null
-sku: usb-cable-a-micro-1m
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Cables/USB-CABLE-A-MICRO-1.8M/images/thumbs/200x150/CABLE-USB-A-MICRO-1.8M.jpg

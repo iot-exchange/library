@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5115
+ref: mikroe/mikroe-5115
+vendor: mikroe
+sku: mikroe-5115
+name: MIKROE-5115
 description: GPS 6 Click is a compact add-on board that provides users with positioning,
   navigation, and timing services. This board features the A2200-A, a GPS receiver
   module that enables fast acquisition and tracking with SiRFstar IV technology from
   Lantronix. This small-form-factor module operates with a frequency of 1,575GHz with
   accuracy from 2 up to 2.5m and...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gps-6-click/gps-6-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/gps-6-click
-  repositories: []
-name: MIKROE-5115
-ref: mikroe/mikroe-5115
-release_date: null
-sku: mikroe-5115
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gps-6-click/gps-6-click-home_default-1.jpg?v=100

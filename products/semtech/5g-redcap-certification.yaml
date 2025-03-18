@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: 5g-redcap-certification
+ref: semtech/5g-redcap-certification
+vendor: semtech
+sku: 5g-redcap-certification
+name: 5G RedCap Certification
 description: Semtech Achieves 5G RedCap Certification with AT&T
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products: []
   images:
   - https://www.semtech.com/uploads/news/OEM-PR-RedCap-pr-press-800x450.jpg
-  models: []
-  products: []
-  repositories: []
-name: 5G RedCap Certification
-ref: semtech/5g-redcap-certification
-release_date: null
-sku: 5g-redcap-certification
-spec: null
-status: ''
-vendor: semtech

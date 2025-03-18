@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: ots-8-24-0-65-01
+ref: waveshare/ots-8-24-0-65-01
+vendor: waveshare
+sku: ots-8-24-0-65-01
+name: OTS-8(24)-0.65-01
 description: OTS-8(24)-0.65-01, Test & Burn-in Socket
+status: ''
 extra:
   Price: $26.59 - $29.99
   SKU: '3595'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/t/ots-824-0.65-01_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ots-824-0.65-01.htm
-  repositories: []
-name: OTS-8(24)-0.65-01
-ref: waveshare/ots-8-24-0-65-01
-release_date: null
-sku: ots-8-24-0-65-01
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/t/ots-824-0.65-01_l_1_5.jpg

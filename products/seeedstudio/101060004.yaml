@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: '101060004'
+ref: seeedstudio/101060004
+vendor: seeedstudio
+sku: '101060004'
+name: '101060004'
 description: TF03-100 LiDAR is an industrial-grade long-range distance sensor. Its
   maximum detection range can reach up to 100m and it has an adjustable frame rate
   with a maximum of 1KHz. With an integrated compensating algorithm for outdoor glare
@@ -7,20 +10,10 @@ description: TF03-100 LiDAR is an industrial-grade long-range distance sensor. I
   fog, and snow conditions. It also has an aluminum alloy enclosure with IP67 water
   and dust resistance. Multiple built-in operating modes are included for the users
   to change its parameters and configurations to meet different applications.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992168_front-05_1.png
-  models: []
   products:
   - https://www.seeedstudio.com/TF03-100-LiDAR-Long-Range-Distance-Sensor-p-4887.html
-  repositories: []
-name: '101060004'
-ref: seeedstudio/101060004
-release_date: null
-sku: '101060004'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992168_front-05_1.png

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lpc-p11c24
+ref: olimex/lpc-p11c24
+vendor: olimex
+sku: lpc-p11c24
+name: LPC-P11C24
 description: ''
+status: ''
 extra:
   discountedPrice1: 14.36 EUR
   discountedPrice2: 12.76 EUR
   price: 15.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/NXP/LPC-P11C24/images/thumbs/200x150/LPC-P11C24-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/NXP/LPC-P11C24/
-  repositories: []
-name: LPC-P11C24
-ref: olimex/lpc-p11c24
-release_date: null
-sku: lpc-p11c24
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-P11C24/images/thumbs/200x150/LPC-P11C24-01.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3863
+ref: mikroe/mikroe-3863
+vendor: mikroe
+sku: mikroe-3863
+name: MIKROE-3863
 description: RS485 Isolator 2 Click features ADM2867E a 5.7 kV rms signal and power
   isolated full duplex RS-485 transceiver. The device also features cable invert pins,
   allowing the user to quickly correct reversed cable connection on A, B, Y, and Z
   bus pins while maintaining receiver full receiver fail-safe performance. This full
   duplex device allows for independent...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/rs485-isolator-2-click/rs485-isolator-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/rs485-isolator-2-click
-  repositories: []
-name: MIKROE-3863
-ref: mikroe/mikroe-3863
-release_date: null
-sku: mikroe-3863
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rs485-isolator-2-click/rs485-isolator-2-click-home_default-1.jpg?v=100

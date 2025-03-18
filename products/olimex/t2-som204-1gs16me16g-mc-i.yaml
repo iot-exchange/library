@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: t2-som204-1gs16me16g-mc-i
+ref: olimex/t2-som204-1gs16me16g-mc-i
+vendor: olimex
+sku: t2-som204-1gs16me16g-mc-i
+name: T2-SOM204-1Gs16Me16G-MC-I
 description: ''
+status: ''
 extra:
   discountedPrices:
   - 47.04 EUR
@@ -9,18 +13,7 @@ extra:
   - 44.16 EUR
   price: 48.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/SOM204/A20/A20-SOM204/images/thumbs/200x150/A20-SOM204-T.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/SOM204/A20/T2-SOM204-1Gs16Me16G-MC-I/
-  repositories: []
-name: T2-SOM204-1Gs16Me16G-MC-I
-ref: olimex/t2-som204-1gs16me16g-mc-i
-release_date: null
-sku: t2-som204-1gs16me16g-mc-i
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/SOM204/A20/A20-SOM204/images/thumbs/200x150/A20-SOM204-T.jpg

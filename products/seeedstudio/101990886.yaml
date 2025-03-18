@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '101990886'
+ref: seeedstudio/101990886
+vendor: seeedstudio
+sku: '101990886'
+name: '101990886'
 description: MR60BHA1 60GHz mmWave Module - Respiratory Heartbeat Detection | FMCW
   | Sync Sense | Privacy Protect
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/101990886_front-05_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/60GHz-mmWave-Radar-Sensor-Breathing-and-Heartbeat-Module-p-5305.html
-  repositories: []
-name: '101990886'
-ref: seeedstudio/101990886
-release_date: null
-sku: '101990886'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/101990886_front-05_1.jpg

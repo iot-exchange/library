@@ -1,0 +1,12 @@
+id: opta-rs485
+ref: blues/opta-rs485
+vendor: blues
+sku: opta-rs485
+name: Opta RS485
+description: "Another configuration of the Arduino\xAE Opta\xAE microPLC."
+status: ''
+extra: {}
+links:
+  products:
+  - https://store-usa.arduino.cc/products/opta-rs485?_gl=1%2At8jjn5%2A_ga%2AMzc3ODM2OTMyLjE3MDk2NTQ2MjI.%2A_ga_NEXN8H46L5%2AMTcxMzIwODYwNS43LjEuMTcxMzIwOTc1My4wLjAuNzAzMjkzODc3
+  images: []

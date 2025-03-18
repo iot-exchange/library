@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: 8inch-1536x2048
+ref: waveshare/8inch-1536x2048
+vendor: waveshare
+sku: 8inch-1536x2048
+name: 8inch_1536x2048
 description: "8inch 2K Capacitive Touch Display, Optical Bonding Toughened Glass Panel,\
   \ 1536\xD72048, IPS, High Compatibility"
+status: Multi Options
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/8/i/8inch-1536x2048-lcd-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/8inch-1536x2048-lcd.htm
-  repositories: []
-name: 8inch_1536x2048
-ref: waveshare/8inch-1536x2048
-release_date: null
-sku: 8inch-1536x2048
-spec: null
-status: Multi Options
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/8/i/8inch-1536x2048-lcd-1.jpg

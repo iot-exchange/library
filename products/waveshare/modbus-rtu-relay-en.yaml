@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: modbus-rtu-relay-en
+ref: waveshare/modbus-rtu-relay-en
+vendor: waveshare
+sku: modbus-rtu-relay-en
+name: Modbus RTU Relay (EN)
 description: Industrial Modbus RTU 8-ch Relay Module with RS485 Interface, Multi Isolation
   Protection Circuits, 5V Power Supply
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/o/modbus-rtu-relay-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/modbus-rtu-relay.htm
-  repositories: []
-name: Modbus RTU Relay (EN)
-ref: waveshare/modbus-rtu-relay-en
-release_date: null
-sku: modbus-rtu-relay-en
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/o/modbus-rtu-relay-1.jpg

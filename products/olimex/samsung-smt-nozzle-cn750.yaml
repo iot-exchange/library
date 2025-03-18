@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: samsung-smt-nozzle-cn750
+ref: olimex/samsung-smt-nozzle-cn750
+vendor: olimex
+sku: samsung-smt-nozzle-cn750
+name: SAMSUNG-SMT-NOZZLE-CN750
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/SMT/SAMSUNG-SMT-NOZZLE-CN750/images/thumbs/200x150/CN750.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/SMT/SAMSUNG-SMT-NOZZLE-CN750/
-  repositories: []
-name: SAMSUNG-SMT-NOZZLE-CN750
-ref: olimex/samsung-smt-nozzle-cn750
-release_date: null
-sku: samsung-smt-nozzle-cn750
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/SMT/SAMSUNG-SMT-NOZZLE-CN750/images/thumbs/200x150/CN750.jpg

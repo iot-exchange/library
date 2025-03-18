@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '101010001'
+ref: seeedstudio/101010001
+vendor: seeedstudio
+sku: '101010001'
+name: '101010001'
 description: Seeed Studio 24Ghz mmwave Human Static Presence Module for XIAO and QT
   py. 24GHz mmWave Sensor for XIAO - Human Static Presence is a expansion board for
   Seeed Studio XIAO series. It is an antenna-integrated, high-sensitivity mmwave radar
   sensor that is based on the FMCW principle. Combined with radar signal processing
   and accurate human body sensing algorithms, it can identify human bodies in motion
   and stationary states.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101010001-seeed-studio-24ghz-mmwave-for-xiao-45font_1_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Seeed-Studio-XIAO-24Ghz-mmwave-Human-Static-Presence-Module-p-6266.html
-  repositories: []
-name: '101010001'
-ref: seeedstudio/101010001
-release_date: null
-sku: '101010001'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101010001-seeed-studio-24ghz-mmwave-for-xiao-45font_1_1.jpg

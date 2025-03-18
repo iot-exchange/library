@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: sc09-servo
+ref: waveshare/sc09-servo
+vendor: waveshare
+sku: sc09-servo
+name: SC09 Servo
 description: "2.3kg Serial Bus Servo, Two-way Feedback, Servo/Motor Mode Switchable,\
   \ Compact Size, 300\xB0 Rotation Angle"
+status: ''
 extra:
   Price: $8.31 - $8.99
   SKU: '24440'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/c/sc09-servo-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/sc09-servo.htm
-  repositories: []
-name: SC09 Servo
-ref: waveshare/sc09-servo
-release_date: null
-sku: sc09-servo
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/c/sc09-servo-1.jpg

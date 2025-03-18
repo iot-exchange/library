@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: wirnet-ibts-64-highway
+ref: kerlink/wirnet-ibts-64-highway
+vendor: kerlink
+sku: wirnet-ibts-64-highway
+name: Wirnet iBTS 64 Highway
 description: Specially tailored for the US market, Kerlink Wirnet iBTS 64 Highway
   is a carrier-grade full-duplex outdoor LoRaWAN gateway. It is a concentrate of performance,
   reliability and robustness, for evolutive LPWA IoT connectivity.
+status: ''
 extra:
   features: 64 channels, ultra-secure HW and SW requirements, geolocation-ready.
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.kerlink.com/wp-content/uploads/2018/09/Wirnet-64-HIGHWAY-340x340.png
-  models: []
   products:
   - https://www.kerlink.com/product/wirnet-ibts-64-highway/
-  repositories: []
-name: Wirnet iBTS 64 Highway
-ref: kerlink/wirnet-ibts-64-highway
-release_date: null
-sku: wirnet-ibts-64-highway
-spec: null
-status: ''
-vendor: kerlink
+  images:
+  - https://www.kerlink.com/wp-content/uploads/2018/09/Wirnet-64-HIGHWAY-340x340.png

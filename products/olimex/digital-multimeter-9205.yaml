@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: digital-multimeter-9205
+ref: olimex/digital-multimeter-9205
+vendor: olimex
+sku: digital-multimeter-9205
+name: DIGITAL-MULTIMETER-9205
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Meters/DIGITAL-MULTIMETER-9205/images/thumbs/200x150/DIGITAL-MULTIMETER-9205.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Meters/DIGITAL-MULTIMETER-9205/
-  repositories: []
-name: DIGITAL-MULTIMETER-9205
-ref: olimex/digital-multimeter-9205
-release_date: null
-sku: digital-multimeter-9205
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Meters/DIGITAL-MULTIMETER-9205/images/thumbs/200x150/DIGITAL-MULTIMETER-9205.jpg

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: ss808-w
+ref: fibocom/ss808-w
+vendor: fibocom
+sku: ss808-w
+name: SS808-W
 description: 4G medium module for global applications.
+status: ''
 extra:
   Bands: /
   Form Factor: LGA / LCC
   Region: Global
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTE-SS808-W.html
-  repositories: []
-name: SS808-W
-ref: fibocom/ss808-w
-release_date: null
-sku: ss808-w
-spec: null
-status: ''
-vendor: fibocom
+  images: []

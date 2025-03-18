@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-5264
+ref: mikroe/mikroe-5264
+vendor: mikroe
+sku: mikroe-5264
+name: MIKROE-5264
 description: Rubber Foot - RF-003, commonly called rubber bumpers, represents a rubber
   pad generally used on all forms of equipment. This cylindrical bumper comes with
   an adhesive back to avoid using screws made of a unique material to prevent the
   equipment from skidding and also helps stabilize the enclosure and protect the finish.
   Based on its compact design and...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/rubber-foot-36pcs/rubber-foot-36pcs-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/rubber-foot-36pcs
   - https://www.mikroe.com/shop?p=56#MIKROE-5264
-  repositories: []
-name: MIKROE-5264
-ref: mikroe/mikroe-5264
-release_date: null
-sku: mikroe-5264
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rubber-foot-36pcs/rubber-foot-36pcs-home_default-1.jpg?v=100

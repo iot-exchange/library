@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: shield-midi
+ref: olimex/shield-midi
+vendor: olimex
+sku: shield-midi
+name: SHIELD-MIDI
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Duino/Shields/SHIELD-MIDI/images/thumbs/200x150/SHIELD-MIDI-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Duino/Shields/SHIELD-MIDI/open-source-hardware
-  repositories: []
-name: SHIELD-MIDI
-ref: olimex/shield-midi
-release_date: null
-sku: shield-midi
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Duino/Shields/SHIELD-MIDI/images/thumbs/200x150/SHIELD-MIDI-01.jpg

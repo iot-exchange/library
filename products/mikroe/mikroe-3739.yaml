@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3739
+ref: mikroe/mikroe-3739
+vendor: mikroe
+sku: mikroe-3739
+name: MIKROE-3739
 description: "Special Deal 35% OFF \nThingstream Click is an IoT gateway Click board\u2122\
   \ with the Thingstream client SDK preinstalled. This enables the device to connect\
   \ to the Thingstream global MQTT network and connectivity tools straight out of\
   \ the box. Global connectivity is achieved by connecting to the strongest GSM network\
   \ available across over 600 networks worldwide. This Click board\u2122..."
+status: Reduced price!
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/thingstream-click/thingstream-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/thingstream-click
-  repositories: []
-name: MIKROE-3739
-ref: mikroe/mikroe-3739
-release_date: null
-sku: mikroe-3739
-spec: null
-status: Reduced price!
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thingstream-click/thingstream-click-home_default-1.jpg?v=100

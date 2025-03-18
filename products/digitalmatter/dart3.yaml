@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: dart3
+ref: digitalmatter/dart3
+vendor: digitalmatter
+sku: dart3
+name: Dart3
 description: Advanced wired options for comprehensive fleet and driver management.
+status: ''
 extra:
   Backup Battery: 'Yes'
   Connectivity: LTE-M and NB-IoT, or 4G LTE
@@ -11,17 +15,6 @@ extra:
   Real-Time Tracking: 'Yes'
   Remote Immobilization: 'Yes'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.digitalmatter.com/overview#Dart3
-  repositories: []
-name: Dart3
-ref: digitalmatter/dart3
-release_date: null
-sku: dart3
-spec: null
-status: ''
-vendor: digitalmatter
+  images: []

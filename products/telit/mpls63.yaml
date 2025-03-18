@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: mpls63
+ref: telit/mpls63
+vendor: telit
+sku: mpls63
+name: mPLS63
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2023/11/Telit-Cinterion_mPLS63_dynamic_2023-185x200.png
-  models: []
   products:
   - https://www.telit.com/devices/mpls63/
-  repositories: []
-name: mPLS63
-ref: telit/mpls63
-release_date: null
-sku: mpls63
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2023/11/Telit-Cinterion_mPLS63_dynamic_2023-185x200.png

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: sc126-w
+ref: fibocom/sc126-w
+vendor: fibocom
+sku: sc126-w
+name: SC126-W
 description: 4G entry module for global applications.
+status: ''
 extra:
   Bands: /
   Form Factor: LGA / LCC
   Region: Global
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTE-SC126-W.html
-  repositories: []
-name: SC126-W
-ref: fibocom/sc126-w
-release_date: null
-sku: sc126-w
-spec: null
-status: ''
-vendor: fibocom
+  images: []

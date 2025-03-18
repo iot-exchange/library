@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: type-1zm
+ref: murata/type-1zm
+vendor: murata
+sku: type-1zm
+name: Type 1ZM
 description: Wi-Fi 5 module with Bluetooth support
+status: ''
 extra:
   Bluetooth: 5.1 BR/EDR/LE
   Chipset: 88W8987
@@ -25,24 +29,13 @@ extra:
   Receive Mode Current: 64 mA @ 11b (2.4GHz)64 mA @ 11g (2.4GHz)64 mA @ 11n (2.4GHz)79
     mA @ 11a (5GHz)91 mA @ 11n (5GHz)102 mA @ 11ac (5GHz)
   RoHS Support: 'Yes'
-  Sleep Mode Current (Bluetooth): ''
   Sleep Mode Current (Wi-Fi): ''
   Supply Voltage: 1.8V
   Technology: Wi-Fi,Bluetooth
-  Transmit Mode Current (Bluetooth): ''
   Transmit Mode Current (Wi-Fi): 384 mA @ 11b (2.4GHz)336 mA @ 11g (2.4GHz)316 mA
     @ 11n (2.4GHz)408 mA @ 11a (5GHz)387 mA @ 11n (5GHz)376 mA @ 11ac (5GHz)
+  Sleep Mode Current (Bluetooth): ''
+  Transmit Mode Current (Bluetooth): ''
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Type 1ZM
-ref: murata/type-1zm
-release_date: null
-sku: type-1zm
-spec: null
-status: ''
-vendor: murata
+  images: []

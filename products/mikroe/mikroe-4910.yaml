@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4910
+ref: mikroe/mikroe-4910
+vendor: mikroe
+sku: mikroe-4910
+name: MIKROE-4910
 description: AFBR-S50 ToF Sensor Board represents an integrated solution based on
   the Broadcom AFBR-S50 medium-range 3D multipixel Time-of-Flight (ToF) sensor for
   distance and motion measurement. The AFBR-S50 has been optimized to measure various
   distances working equally well on white, black, colored, and metallic reflective
   surfaces. It provides an ideal solution...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/bdc-afbr-s50-tof-sensor-board/bdc-afbr-s50-tof-sensor-board-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/bdc-afbr-s50-tof-sensor-board
-  repositories: []
-name: MIKROE-4910
-ref: mikroe/mikroe-4910
-release_date: null
-sku: mikroe-4910
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/bdc-afbr-s50-tof-sensor-board/bdc-afbr-s50-tof-sensor-board-home_default-1.jpg?v=100

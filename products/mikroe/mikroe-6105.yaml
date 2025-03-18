@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-6105
+ref: mikroe/mikroe-6105
+vendor: mikroe
+sku: mikroe-6105
+name: MIKROE-6105
 description: Light 4 Click is a compact add-on board designed for precise ambient
   light, UV index, and light flicker detection. This board features the TSL2585 sensor
   from ams OSRAM, which incorporates photopic, infrared (IR), and ultraviolet (UV)
   photodiodes to enable multiple concurrent sensing functions. The TSL2585 continuously
   monitors ambient light, calculates...
+status: ''
 extra:
   price: $12.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/light-4-click/light-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/light-4-click
-  repositories: []
-name: MIKROE-6105
-ref: mikroe/mikroe-6105
-release_date: null
-sku: mikroe-6105
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/light-4-click/light-4-click-home_default-1.jpg?v=100

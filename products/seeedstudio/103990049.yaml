@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '103990049'
+ref: seeedstudio/103990049
+vendor: seeedstudio
+sku: '103990049'
+name: '103990049'
 description: USB To Uart 5V/3V3 is a USB to serial adapter,Which is base on CH340,CH340
   is a USB bus convert chip and it can realize USB convert to serial interface, USB
   convert to IrDA infrared or USB convert to printer interface
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductusb20to20uart205v3v3.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/USB-To-Uart-5V-3V3-p-1832.html
-  repositories: []
-name: '103990049'
-ref: seeedstudio/103990049
-release_date: null
-sku: '103990049'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductusb20to20uart205v3v3.jpg

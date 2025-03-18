@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: le910cx-threadx-mpcie-series
+ref: telit/le910cx-threadx-mpcie-series
+vendor: telit
+sku: le910cx-threadx-mpcie-series
+name: LE910Cx ThreadX mPCIe Series
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2024/11/TC_LE910Cx-TX-mPCie_dynamic_236_200.png
-  models: []
   products:
   - https://www.telit.com/devices/le910cx-tx-mini-pcie-series/
-  repositories: []
-name: LE910Cx ThreadX mPCIe Series
-ref: telit/le910cx-threadx-mpcie-series
-release_date: null
-sku: le910cx-threadx-mpcie-series
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/11/TC_LE910Cx-TX-mPCie_dynamic_236_200.png

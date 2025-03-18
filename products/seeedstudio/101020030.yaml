@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '101020030'
+ref: seeedstudio/101020030
+vendor: seeedstudio
+sku: '101020030'
+name: '101020030'
 description: This module is based on the I2C light-to-digital converter TSL2561 to
   transform light intensity into a digital signal. It has three detection modes to
   take your readings (infrared mode, full-spectrum, and human visible mode) and can
   be used to measure the change in light intensity in various light situations with
   many popular microcontrollers.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/Grove-Digital-Light-Sensor-TSL2561.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2018-07bazaar881092_3.jpg
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/s/k/sku113020091_0.jpg
-  models: []
-  products:
-  - https://www.seeedstudio.com/Grove-Digital-Light-Sensor-TSL2561.html
-  repositories: []
-name: '101020030'
-ref: seeedstudio/101020030
-release_date: null
-sku: '101020030'
-spec: null
-status: ''
-vendor: seeedstudio

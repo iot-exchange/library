@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pcie-to-m-2-mini
+ref: waveshare/pcie-to-m-2-mini
+vendor: waveshare
+sku: pcie-to-m-2-mini
+name: PCIe TO M.2 MINI
 description: PCIe To M.2 Mini Adapter for Raspberry Pi 5, Supports NVMe Protocol M.2
   Solid State Drive, High-speed Reading/Writing, Raspberry Pi 5 NVMe HAT
+status: ''
 extra:
   Price: $5.31 - $5.99
   SKU: '27580'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-m.2-mini-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pcie-to-m.2-mini.htm
-  repositories: []
-name: PCIe TO M.2 MINI
-ref: waveshare/pcie-to-m-2-mini
-release_date: null
-sku: pcie-to-m-2-mini
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-m.2-mini-1.jpg

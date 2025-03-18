@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: button-19mm-blue
+ref: olimex/button-19mm-blue
+vendor: olimex
+sku: button-19mm-blue
+name: BUTTON-19MM-BLUE
 description: ''
+status: ''
 extra:
   discountedPrice1: 3.33 EUR
   discountedPrice2: 2.96 EUR
   price: 3.70 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Switches/WATER-PROOF-BUTTONS/images/thumbs/200x150/but-12mm.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Switches/BUTTON-19MM-BLUE/
-  repositories: []
-name: BUTTON-19MM-BLUE
-ref: olimex/button-19mm-blue
-release_date: null
-sku: button-19mm-blue
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Switches/WATER-PROOF-BUTTONS/images/thumbs/200x150/but-12mm.jpg

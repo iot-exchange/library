@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: '102010574'
+ref: seeedstudio/102010574
+vendor: seeedstudio
+sku: '102010574'
+name: '102010574'
 description: "This is a 3PCs pack of XIAO ESP32C6, which is a cost-effective MCU based\
   \ on Espressif\u2019s ESP32-C6. This compact MCU excels in Matter-compliant smart\
   \ home applications with its support for various wireless connectivity (2.4GHz Wi-Fi\
@@ -8,24 +11,14 @@ description: "This is a 3PCs pack of XIAO ESP32C6, which is a cost-effective MCU
   \ Encrypted on the chip, the XIAO ESP32C6 ensures a desired level of security streamlined\
   \ development experience, and swift market entry by integrating easily with major\
   \ IoT Cloud platforms."
+status: ''
 extra:
   discount: $1.45 (10%)
   original_price: $14.49
   price: $13.04
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/Seeed-StudioXIAO-ESP32C6-3PCS-p-5918.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/w/e/wechatimg496.jpg
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/w/e/wechatimg496_1.jpg
-  models: []
-  products:
-  - https://www.seeedstudio.com/Seeed-StudioXIAO-ESP32C6-3PCS-p-5918.html
-  repositories: []
-name: '102010574'
-ref: seeedstudio/102010574
-release_date: null
-sku: '102010574'
-spec: null
-status: ''
-vendor: seeedstudio

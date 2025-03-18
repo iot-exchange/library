@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: xcore407i
+ref: waveshare/xcore407i
+vendor: waveshare
+sku: xcore407i
+name: XCore407I
 description: Part No.:XCore407I, STM32F4 Core Board
+status: ''
 extra:
   Price: $46.27 - $48.99
   SKU: '7696'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/x/c/xcore407i_l.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/xcore407i.htm
-  repositories: []
-name: XCore407I
-ref: waveshare/xcore407i
-release_date: null
-sku: xcore407i
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/x/c/xcore407i_l.jpg

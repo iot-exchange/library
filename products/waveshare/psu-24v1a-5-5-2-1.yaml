@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: psu-24v1a-5-5-2-1
+ref: waveshare/psu-24v1a-5-5-2-1
+vendor: waveshare
+sku: psu-24v1a-5-5-2-1
+name: PSU-24V1A-5.5-2.1
 description: Power Supply, Power Adapter, 24V / 1A, DC Jack Output, OD 5.5mm, ID 2.1mm,
   Available In US / EU / UK Plug
+status: ''
 extra:
   Price: $6.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/s/psu-24v1a-5.5-2.1-us-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/psu-24v1a-5.5-2.1.htm
-  repositories: []
-name: PSU-24V1A-5.5-2.1
-ref: waveshare/psu-24v1a-5-5-2-1
-release_date: null
-sku: psu-24v1a-5-5-2-1
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/s/psu-24v1a-5.5-2.1-us-1.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rp2350-pico2-hdr
+ref: olimex/rp2350-pico2-hdr
+vendor: olimex
+sku: rp2350-pico2-hdr
+name: RP2350-PICO2-HDR
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/RaspberryPi/PICO/RP2350-PICO2/images/thumbs/200x150/PICO2-HDR.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/RaspberryPi/PICO/RP2350-PICO2-HDR/
-  repositories: []
-name: RP2350-PICO2-HDR
-ref: olimex/rp2350-pico2-hdr
-release_date: null
-sku: rp2350-pico2-hdr
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/RaspberryPi/PICO/RP2350-PICO2/images/thumbs/200x150/PICO2-HDR.jpg

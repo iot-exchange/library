@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: micro-sd-storage-board
+ref: waveshare/micro-sd-storage-board
+vendor: waveshare
+sku: micro-sd-storage-board
+name: Micro SD Storage Board
 description: Micro SD(TF) Storage Board
+status: ''
 extra:
   Price: $3.39 - $3.99
   SKU: '3947'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/i/micro-sd-storage-board_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/micro-sd-storage-board.htm
-  repositories: []
-name: Micro SD Storage Board
-ref: waveshare/micro-sd-storage-board
-release_date: null
-sku: micro-sd-storage-board
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/i/micro-sd-storage-board_l_1_5.jpg

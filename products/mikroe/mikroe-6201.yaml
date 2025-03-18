@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6201
+ref: mikroe/mikroe-6201
+vendor: mikroe
+sku: mikroe-6201
+name: MIKROE-6201
 description: PMIC Click is a compact add-on board for efficient power management in
   rechargeable applications. This board features the nPM1300, an advanced Power Management
   Integrated Circuit (PMIC) from Nordic Semiconductor, offering integrated battery
   charging, fuel gauge, and advanced system power management features. The board includes
   an 800mA JEITA-compliant...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/pmic-click/pmic-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/pmic-click
-  repositories: []
-name: MIKROE-6201
-ref: mikroe/mikroe-6201
-release_date: null
-sku: mikroe-6201
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/pmic-click/pmic-click-home_default-1.jpg?v=100

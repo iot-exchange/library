@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: camera-ov2640
+ref: olimex/camera-ov2640
+vendor: olimex
+sku: camera-ov2640
+name: CAMERA-OV2640
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Camera/CAMERA-OV2640/images/thumbs/200x150/CAMERA-OV2640.png
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Camera/CAMERA-OV2640/
-  repositories: []
-name: CAMERA-OV2640
-ref: olimex/camera-ov2640
-release_date: null
-sku: camera-ov2640
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Camera/CAMERA-OV2640/images/thumbs/200x150/CAMERA-OV2640.png

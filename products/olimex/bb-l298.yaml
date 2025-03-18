@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bb-l298
+ref: olimex/bb-l298
+vendor: olimex
+sku: bb-l298
+name: BB-L298
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/MotorDrivers/BB-L298/images/thumbs/200x150/BB-L298-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/MotorDrivers/BB-L298/open-source-hardware
-  repositories: []
-name: BB-L298
-ref: olimex/bb-l298
-release_date: null
-sku: bb-l298
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/MotorDrivers/BB-L298/images/thumbs/200x150/BB-L298-1.jpg

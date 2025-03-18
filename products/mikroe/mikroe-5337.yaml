@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5337
+ref: mikroe/mikroe-5337
+vendor: mikroe
+sku: mikroe-5337
+name: MIKROE-5337
 description: DRAM Click is a compact add-on board representing a dynamic random-access
   memory solution. This board contains the APS6404L-3SKR from AP Memory, a high-performance
   64Mb SPI/KPI PSRAM memory organized as 8M x 8 bits each. This Pseudo-SRAM device
   features a high speed, low pin count interface and incorporates a seamless self-managed
   refresh mechanism to...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/dram-click/dram-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/dram-click
-  repositories: []
-name: MIKROE-5337
-ref: mikroe/mikroe-5337
-release_date: null
-sku: mikroe-5337
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dram-click/dram-click-home_default-1.jpg?v=100

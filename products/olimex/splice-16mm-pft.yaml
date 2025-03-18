@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: splice-16mm-pft
+ref: olimex/splice-16mm-pft
+vendor: olimex
+sku: splice-16mm-pft
+name: SPLICE-16MM-PFT
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/SMT/SPLICE-16MM-PFT/images/thumbs/200x150/SPLICE-8MM-PFT-2.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/SMT/SPLICE-16MM-PFT/
-  repositories: []
-name: SPLICE-16MM-PFT
-ref: olimex/splice-16mm-pft
-release_date: null
-sku: splice-16mm-pft
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/SMT/SPLICE-16MM-PFT/images/thumbs/200x150/SPLICE-8MM-PFT-2.jpg

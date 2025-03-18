@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 2-13inch-e-paper-hat-d
+ref: waveshare/2-13inch-e-paper-hat-d
+vendor: waveshare
+sku: 2-13inch-e-paper-hat-d
+name: 2.13inch e-Paper HAT (D)
 description: 212x104, 2.13inch flexible E-Ink display HAT for Raspberry Pi
+status: ''
 extra:
   Price: $17.29 - $18.99
   SKU: '15084'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/2.13inch-e-paper-hat-d.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.13inch-e-paper-hat-d-1_3.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.13inch-e-paper-hat-d-2_3.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/2.13inch-e-paper-hat-d.htm
-  repositories: []
-name: 2.13inch e-Paper HAT (D)
-ref: waveshare/2-13inch-e-paper-hat-d
-release_date: null
-sku: 2-13inch-e-paper-hat-d
-spec: null
-status: ''
-vendor: waveshare

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-nrf8001
+ref: olimex/mod-nrf8001
+vendor: olimex
+sku: mod-nrf8001
+name: MOD-nRF8001
 description: ''
+status: ''
 extra:
   bulkPrice: 3.96 EUR
   discountedPrice: 4.46 EUR
   price: 4.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/RF/MOD-nRF8001/images/thumbs/200x150/MOD-nRF8001-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/RF/MOD-nRF8001/
-  repositories: []
-name: MOD-nRF8001
-ref: olimex/mod-nrf8001
-release_date: null
-sku: mod-nrf8001
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/RF/MOD-nRF8001/images/thumbs/200x150/MOD-nRF8001-1.jpg

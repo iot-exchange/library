@@ -1,0 +1,17 @@
+id: notecard-wifi
+ref: blues/notecard-wifi
+vendor: blues
+sku: notecard-wifi
+name: Notecard WiFi
+description: "Compatible with Wi-Fi 802.11, 2.4Ghz b/g/n, and Notecard pinouts for\
+  \ additional functionality. Wi-Fi Triangulation lets you determine a device\u2019\
+  s location, even when indoors, with as little as a single network. Ideal for line-powered\
+  \ device clusters with a high sampling rate, fixed-room scenarios, and cell signal-challenged\
+  \ locations."
+status: ''
+extra: {}
+links:
+  products:
+  - http://blues.com/notecard-wifi
+  images:
+  - https://blues.com/wp-content/uploads/2023/09/Wifi1-1.png

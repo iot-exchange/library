@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: xgm240-rb4317a
+ref: silicon-labs/xgm240-rb4317a
+vendor: silicon-labs
+sku: xgm240-rb4317a
+name: xGM240-RB4317A
 description: xGM240P +20 dBm Module Radio Board
+status: ''
 extra:
   MSRP: $49.00
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/xgm240-rb4317a-xgm240p-module-radio-board
-  repositories: []
-name: xGM240-RB4317A
-ref: silicon-labs/xgm240-rb4317a
-release_date: null
-sku: xgm240-rb4317a
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: lpwa-bg600l-m3-cat-m1-cat-nb2-egprs
+ref: quectel/lpwa-bg600l-m3-cat-m1-cat-nb2-egprs
+vendor: quectel
+sku: lpwa-bg600l-m3-cat-m1-cat-nb2-egprs
+name: LPWA BG600L-M3 Cat M1/Cat NB2/EGPRS
 description: ARM Cortex A7  Cat NB2  EDGE  GNSS  GPRS  USB 2.0
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - "https://www.quectel.com/content/uploads/2024/03/\u5FAE\u4FE1\u56FE\u7247_20211022211239.png"
-  models: []
   products:
   - https://www.quectel.com/product/lte-bg600l-m3-cat-m1-cat-nb2-egprs/
-  repositories: []
-name: LPWA BG600L-M3 Cat M1/Cat NB2/EGPRS
-ref: quectel/lpwa-bg600l-m3-cat-m1-cat-nb2-egprs
-release_date: null
-sku: lpwa-bg600l-m3-cat-m1-cat-nb2-egprs
-spec: null
-status: ''
-vendor: quectel
+  images:
+  - "https://www.quectel.com/content/uploads/2024/03/\u5FAE\u4FE1\u56FE\u7247_20211022211239.png"

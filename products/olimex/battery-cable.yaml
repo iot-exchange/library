@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: battery-cable
+ref: olimex/battery-cable
+vendor: olimex
+sku: battery-cable
+name: BATTERY-CABLE
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Cables/BATTERY-CABLE/images/thumbs/200x150/BATTERY-CABLE-w.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Cables/BATTERY-CABLE/
-  repositories: []
-name: BATTERY-CABLE
-ref: olimex/battery-cable
-release_date: null
-sku: battery-cable
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Cables/BATTERY-CABLE/images/thumbs/200x150/BATTERY-CABLE-w.jpg

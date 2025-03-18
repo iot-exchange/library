@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-3930
+ref: mikroe/mikroe-3930
+vendor: mikroe
+sku: mikroe-3930
+name: MIKROE-3930
 description: MCU Card is a standardized add-on board, which allows very simple installation
   and replacement of the microcontroller unit (MCU) on a development board equipped
   with the MCU Card socket. By introducing the new MCU Card standard, we have ensured
   the absolute compatibility between the development board and any of the supported
   MCUs, regardless of their pin...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mcu-card-5-for-kinetis-mkv42f64vlh16/mcu-card-5-for-kinetis-mkv42f64vlh16-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=2616
   - https://www.mikroe.com/shop?p=115#MCU-CARD-5-for-Kinetis-MKV42F64VLH16
-  repositories: []
-name: MIKROE-3930
-ref: mikroe/mikroe-3930
-release_date: null
-sku: mikroe-3930
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mcu-card-5-for-kinetis-mkv42f64vlh16/mcu-card-5-for-kinetis-mkv42f64vlh16-home_default-1.jpg?v=100

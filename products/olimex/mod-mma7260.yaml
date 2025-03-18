@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-mma7260
+ref: olimex/mod-mma7260
+vendor: olimex
+sku: mod-mma7260
+name: MOD-MMA7260
 description: ''
+status: ''
 extra:
   bulkPrice: 14.36 EUR
   discountedPrice: 15.15 EUR
   price: 15.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Sensors/MOD-MMA7260/images/thumbs/200x150/MOD-MMA7260-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Sensors/MOD-MMA7260/
-  repositories: []
-name: MOD-MMA7260
-ref: olimex/mod-mma7260
-release_date: null
-sku: mod-mma7260
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Sensors/MOD-MMA7260/images/thumbs/200x150/MOD-MMA7260-01.jpg

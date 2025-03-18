@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: heatsink-5519a
+ref: radxa/heatsink-5519a
+vendor: radxa
+sku: heatsink-5519a
+name: Heatsink 5519A
 description: Specialized for Radxa ZERO 3W / 3E
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/heatsink/ae015a/thumb_heatsink_5519a.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/heatsink-5519a
-  repositories: []
-name: Heatsink 5519A
-ref: radxa/heatsink-5519a
-release_date: null
-sku: heatsink-5519a
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/heatsink/ae015a/thumb_heatsink_5519a.webp

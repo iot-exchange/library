@@ -1,0 +1,13 @@
+id: em500-udl
+ref: milesight/em500-udl
+vendor: milesight
+sku: em500-udl
+name: EM500-UDL
+description: Ultrasonic Distance/Level Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/em500-udl
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/outdoor-environmental-monitoring-em500-series/ultrasonic-distance-level-sensor-em500-udl.png?t=1742198585390

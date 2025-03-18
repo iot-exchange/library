@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: sma-ipex-cable
+ref: waveshare/sma-ipex-cable
+vendor: waveshare
+sku: sma-ipex-cable
+name: sma_ipex_cable
 description: SMA To IPEX1/IPEX4 RF Cable
+status: ''
 extra:
   Price: $0.69
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/m/sma-to-ipex1-cable-15cm-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/sma-to-ipex-cable.htm
   - https://www.waveshare.com/product/sma-to-ipex-cable.htm "SMA To IPEX1/IPEX4 RF
     Cable"
-  repositories: []
-name: sma_ipex_cable
-ref: waveshare/sma-ipex-cable
-release_date: null
-sku: sma-ipex-cable
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/m/sma-to-ipex1-cable-15cm-1.jpg

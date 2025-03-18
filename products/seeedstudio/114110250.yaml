@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: '114110250'
+ref: seeedstudio/114110250
+vendor: seeedstudio
+sku: '114110250'
+name: '114110250'
 description: "reServer J3010 brings AI-enabled NVR to the edge and features NVIDIA\
   \ Jetson Orin\u2122 Nano 4GB for 20 TOPS AI performance, has a fanless design, 5xRJ45\
   \ GbE with PoE, 2x Drive bays for 2.5\" HDD/SSD, 1xRS232/RS422/RS485, 4xDI/DO, 1xCAN,\
   \ Pre-installed JetPack System."
+status: ''
 extra:
   design: Fanless
   module: "NVIDIA Jetson Orin\u2122 Nano 4GB"
   performance: 20 TOPS
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114110250-reserver_industrial_j3010--app2_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/reServer-industrial-J3010-p-5749.html
-  repositories: []
-name: '114110250'
-ref: seeedstudio/114110250
-release_date: null
-sku: '114110250'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114110250-reserver_industrial_j3010--app2_1.jpg

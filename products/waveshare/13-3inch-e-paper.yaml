@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: 13-3inch-e-paper
+ref: waveshare/13-3inch-e-paper
+vendor: waveshare
+sku: 13-3inch-e-paper
+name: 13.3inch e-Paper
 description: "13.3inch e-Paper e-Ink Raw Display, 1600\xD71200, Black / White, 16\
   \ Grey Scales, Parallel Port, Without PCB"
+status: ''
 extra:
   Price: $364.59 - $367.99
   SKU: '15598'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/3/13.3inch-e-paper-1_3.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.13inch-touch-e-paper-hat-1_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/13.3inch-e-paper.htm
   - "https://www.waveshare.com/product/2.13inch-touch-e-paper-hat.htm \"2.13inch Touch\
     \ e-Paper HAT for Raspberry Pi, 250\xD7122, Black / White, SPI\""
-  repositories: []
-name: 13.3inch e-Paper
-ref: waveshare/13-3inch-e-paper
-release_date: null
-sku: 13-3inch-e-paper
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/3/13.3inch-e-paper-1_3.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.13inch-touch-e-paper-hat-1_1.jpg

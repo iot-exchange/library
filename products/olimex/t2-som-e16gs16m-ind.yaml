@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: t2-som-e16gs16m-ind
+ref: olimex/t2-som-e16gs16m-ind
+vendor: olimex
+sku: t2-som-e16gs16m-ind
+name: T2-SOM-e16Gs16M-IND
 description: ''
+status: ''
 extra:
   discountedPrices:
   - 49.00 EUR
@@ -9,18 +13,7 @@ extra:
   - 46.00 EUR
   price: 50.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/SOM/A20/A20-SOM/images/thumbs/200x150/A20-SOM-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/SOM/A20/T2-SOM-e16Gs16M-IND/
-  repositories: []
-name: T2-SOM-e16Gs16M-IND
-ref: olimex/t2-som-e16gs16m-ind
-release_date: null
-sku: t2-som-e16gs16m-ind
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/SOM/A20/A20-SOM/images/thumbs/200x150/A20-SOM-1.jpg

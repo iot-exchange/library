@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: ws-ttl-can
+ref: waveshare/ws-ttl-can
+vendor: waveshare
+sku: ws-ttl-can
+name: WS-TTL-CAN
 description: TTL UART To CAN Mini Module, With TTL And CAN Conversion Protocol, Supports
   Bi-Directional Transmitting And Receiving
+status: ''
 extra:
   Price: $8.65 - $8.99
   SKU: '26077'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/s/ws-ttl-can-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ws-ttl-can.htm
-  repositories: []
-name: WS-TTL-CAN
-ref: waveshare/ws-ttl-can
-release_date: null
-sku: ws-ttl-can
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/s/ws-ttl-can-1.jpg

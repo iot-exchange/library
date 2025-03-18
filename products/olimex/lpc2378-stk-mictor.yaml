@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lpc2378-stk-mictor
+ref: olimex/lpc2378-stk-mictor
+vendor: olimex
+sku: lpc2378-stk-mictor
+name: LPC2378-STK-MICTOR
 description: ''
+status: ''
 extra:
   discountedPrice1: 62.96 EUR
   discountedPrice2: 55.96 EUR
   price: 69.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/NXP/LPC2378-STK-MICTOR/images/thumbs/200x150/LPC2378-STK-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/NXP/LPC2378-STK-MICTOR/
-  repositories: []
-name: LPC2378-STK-MICTOR
-ref: olimex/lpc2378-stk-mictor
-release_date: null
-sku: lpc2378-stk-mictor
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC2378-STK-MICTOR/images/thumbs/200x150/LPC2378-STK-01.jpg

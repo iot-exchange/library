@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4846
+ref: mikroe/mikroe-4846
+vendor: mikroe
+sku: mikroe-4846
+name: MIKROE-4846
 description: Buck 16 Click is a compact add-on board that contains a DC-DC power converter
   that steps down the voltage from its input to its output. This board features the
   TPS62912, a high-efficiency, low noise, and low ripple current-mode synchronous
   buck converter from Texas Instruments. The TPS62912 has an output-voltage error
   of less than 1%, which helps ensure...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/buck-16-click/buck-16-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/buck-16-click
-  repositories: []
-name: MIKROE-4846
-ref: mikroe/mikroe-4846
-release_date: null
-sku: mikroe-4846
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/buck-16-click/buck-16-click-home_default-1.jpg?v=100

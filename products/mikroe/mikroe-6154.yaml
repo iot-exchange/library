@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6154
+ref: mikroe/mikroe-6154
+vendor: mikroe
+sku: mikroe-6154
+name: MIKROE-6154
 description: "NINA-W152 Click is a compact add-on board designed for seamless integration\
   \ of Wi-Fi and Bluetooth communication into your projects. Based on the NINA-W152\
   \ multi-radio module from u-blox, this Click board\u2122 provides dual-mode wireless\
   \ connectivity, including Wi-Fi 802.11b/g/n and Bluetooth BR/EDR v4.2+EDR and Bluetooth\
   \ Low Energy v4.2. It features an..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/nina-w152-click/nina-w152-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/nina-w152-click
-  repositories: []
-name: MIKROE-6154
-ref: mikroe/mikroe-6154
-release_date: null
-sku: mikroe-6154
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/nina-w152-click/nina-w152-click-home_default-1.jpg?v=100

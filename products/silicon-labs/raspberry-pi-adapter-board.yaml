@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-adapter-board
+ref: silicon-labs/raspberry-pi-adapter-board
+vendor: silicon-labs
+sku: raspberry-pi-adapter-board
+name: Raspberry Pi Adapter Board
 description: The Si-EB8045B, Raspberry Pi Adapter Board for Co-Processor Radio Boards
   is an excellent way to explore and evaluate SiWx917 with a Raspberry Pi host. This
   Adapter Board features built-in Raspberry Pi Hardware Attach on Top (HAT) with SDIO
   data interface, UART, I2C, Low-Power Signals, and Power.
+status: ''
 extra:
   MSRP: $55.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/wifi/siwx917-wireless-socs/si-eb8045b-expansion-board.png
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/wi-fi/raspberry-pi-hat-adapter-board-for-co-processor-radio-boards
-  repositories: []
-name: Raspberry Pi Adapter Board
-ref: silicon-labs/raspberry-pi-adapter-board
-release_date: null
-sku: raspberry-pi-adapter-board
-spec: null
-status: ''
-vendor: silicon-labs
+  images:
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/wifi/siwx917-wireless-socs/si-eb8045b-expansion-board.png

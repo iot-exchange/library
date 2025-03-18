@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3922
+ref: mikroe/mikroe-3922
+vendor: mikroe
+sku: mikroe-3922
+name: MIKROE-3922
 description: "Determine your current position with GNSS 7 click. It carries the NEO-M9N\
   \ GNSS receiver module from u-blox. Thanks to u-blox\u2019s advanced algorithms\
   \ and complete GNSS solution, the GNSS 7 click meets even the most stringent requirements\
   \ in versatile industrial and consumer applications, such as UAVs, vehicles and\
   \ assets tracking, navigation devices based on..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gnss-7-click/gnss-7-click-home_default-9.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/gnss-7-click "GNSS 7 Click"
-  repositories: []
-name: MIKROE-3922
-ref: mikroe/mikroe-3922
-release_date: null
-sku: mikroe-3922
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gnss-7-click/gnss-7-click-home_default-9.jpg?v=100

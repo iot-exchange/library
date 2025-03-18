@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: chn-t907-k
+ref: olimex/chn-t907-k
+vendor: olimex
+sku: chn-t907-k
+name: CHN-T907-K
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Soldering/CHN-T907-K/images/thumbs/200x150/CHN-T907-K.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Soldering/CHN-T907-K/
-  repositories: []
-name: CHN-T907-K
-ref: olimex/chn-t907-k
-release_date: null
-sku: chn-t907-k
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/CHN-T907-K/images/thumbs/200x150/CHN-T907-K.jpg

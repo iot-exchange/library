@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: a20
+ref: olimex/a20
+vendor: olimex
+sku: a20
+name: A20
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/IC/A20/images/thumbs/200x150/20.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/IC/A20/
-  repositories: []
-name: A20
-ref: olimex/a20
-release_date: null
-sku: a20
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/IC/A20/images/thumbs/200x150/20.jpg

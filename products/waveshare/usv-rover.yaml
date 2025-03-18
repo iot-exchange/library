@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: usv-rover
+ref: waveshare/usv-rover
+vendor: waveshare
+sku: usv-rover
+name: usv_rover
 description: UGV Rover Open-source 6 Wheels 4WD AI Robot, Dual controllers, All-metal
   Body, Computer Vision, Suitable for Raspberry Pi 4B / Raspberry Pi 5
+status: ''
 extra:
   price: $244.99 -  $352.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/g/ugv-rover-pt-pi4b-ai-kit-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ugv-rover.htm
   - https://www.waveshare.com/product/ugv-rover.htm "UGV Rover Open-source 6 Wheels
     4WD AI Robot, Dual controllers, All-metal Body, Computer Vision, Suitable for
     Raspberry Pi 4B / Raspberry Pi 5"
-  repositories: []
-name: usv_rover
-ref: waveshare/usv-rover
-release_date: null
-sku: usv-rover
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/g/ugv-rover-pt-pi4b-ai-kit-1.jpg

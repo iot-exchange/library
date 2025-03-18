@@ -1,0 +1,14 @@
+id: smart-restroom-kit
+ref: milesight/smart-restroom-kit
+vendor: milesight
+sku: smart-restroom-kit
+name: Smart Restroom Kit
+description: Smart Restroom Solution
+status: ''
+extra:
+  application: Airport, Train Station, Scenic Spot, Department Store
+  benefit: Reshape Restroom, Release the Value of Smartness
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-ibox-kit/restroom-kit
+  images: []

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4662
+ref: mikroe/mikroe-4662
+vendor: mikroe
+sku: mikroe-4662
+name: MIKROE-4662
 description: "Speaker Click is a compact add-on board that contains an audio power\
   \ amplifier with a high-quality audio reproduction. This board features the MAX9717,\
   \ a 1.4W mono bridge-tied load (BTL) architecture audio power amplifier from Maxim\
   \ Integrated. It delivers 1.4W continuous power into a 4\u03A9 load from a single\
   \ +5V supply, or 350mW continuous power into an 8\u03A9..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/speaker-click/speaker-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=81#Speaker-Click
-  repositories: []
-name: MIKROE-4662
-ref: mikroe/mikroe-4662
-release_date: null
-sku: mikroe-4662
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/speaker-click/speaker-click-home_default-1.jpg?v=100

@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: 10-considerations-for-developing-a-matter-product
+ref: silicon-labs/10-considerations-for-developing-a-matter-product
+vendor: silicon-labs
+sku: 10-considerations-for-developing-a-matter-product
+name: 10 Considerations for Developing a Matter Product
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/whitepapers/10-considerations-for-developing-a-matter-product
-  repositories: []
-name: 10 Considerations for Developing a Matter Product
-ref: silicon-labs/10-considerations-for-developing-a-matter-product
-release_date: null
-sku: 10-considerations-for-developing-a-matter-product
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

@@ -1,8 +1,11 @@
-alternatives: []
-certifications: []
+id: type-1gr
+ref: murata/type-1gr
+vendor: murata
+sku: type-1gr
+name: Type 1GR
 description: Bluetooth 4.1 or earlier module for consumer and industrial equipment.
+status: ''
 extra:
-  Bluetooth: 4.1 or earlier
   Chipset: CYW20736
   Dimension: 9.0 x 7.0 x 1.2 mm
   ETSI Report: 'Yes'
@@ -24,18 +27,8 @@ extra:
   Supply Voltage: 1.8V
   Technology: Bluetooth
   Transmit Mode Current (Bluetooth): 38mA
+  Bluetooth: 4.1 or earlier
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/products/connectivitymodule/bluetooth#series-lineup
-  repositories: []
-name: Type 1GR
-ref: murata/type-1gr
-release_date: null
-sku: type-1gr
-spec: null
-status: ''
-vendor: murata
+  images: []

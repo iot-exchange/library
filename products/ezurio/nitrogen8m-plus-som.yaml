@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: nitrogen8m-plus-som
+ref: ezurio/nitrogen8m-plus-som
+vendor: ezurio
+sku: nitrogen8m-plus-som
+name: Nitrogen8M Plus SOM
 description: "4x Cortex\xAE-A53 cores @ 1.8 GHz (NXP i.MX 8M Plus), 1x Cortex\xAE\
   -M7 core @ 800 MHz (NXP i.MX 8M Plus), Wi-Fi 5 (802.11ac) Bluetooth 5.0"
+status: Active
 extra:
   Dimensions (L x W): 48 x 38
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ezurio.com/system-on-module/nxp-imx8/nitrogen8m-plus-som
-  repositories: []
-name: Nitrogen8M Plus SOM
-ref: ezurio/nitrogen8m-plus-som
-release_date: null
-sku: nitrogen8m-plus-som
-spec: null
-status: Active
-vendor: ezurio
+  images: []

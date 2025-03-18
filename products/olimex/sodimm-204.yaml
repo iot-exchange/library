@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sodimm-204
+ref: olimex/sodimm-204
+vendor: olimex
+sku: sodimm-204
+name: SODIMM-204
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/SOM204/SODIMM-204/images/thumbs/200x150/SODIM204.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/SOM204/SODIMM-204/
-  repositories: []
-name: SODIMM-204
-ref: olimex/sodimm-204
-release_date: null
-sku: sodimm-204
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/SOM204/SODIMM-204/images/thumbs/200x150/SODIM204.jpg

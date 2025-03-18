@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: a64-olinuxino-2ge16g-ind
+ref: olimex/a64-olinuxino-2ge16g-ind
+vendor: olimex
+sku: a64-olinuxino-2ge16g-ind
+name: A64-OLinuXino-2Ge16G-IND
 description: ''
+status: ''
 extra:
   10+ pcs: 66.50 EUR
   50+ pcs: 63.00 EUR
   Price: 70.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/A64/A64-OLinuXino/images/thumbs/200x150/A64-OLinuXino-EA.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/A64/A64-OLinuXino-2Ge16G-IND/open-source-hardware
-  repositories: []
-name: A64-OLinuXino-2Ge16G-IND
-ref: olimex/a64-olinuxino-2ge16g-ind
-release_date: null
-sku: a64-olinuxino-2ge16g-ind
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A64/A64-OLinuXino/images/thumbs/200x150/A64-OLinuXino-EA.jpg

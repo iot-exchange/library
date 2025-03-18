@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6131
+ref: mikroe/mikroe-6131
+vendor: mikroe
+sku: mikroe-6131
+name: MIKROE-6131
 description: Mikromedia 3 for STM32F4 Resistive Rapid development of multimedia and
   gui-centric applications BUILD GREAT GUI IN NO TIME Rich with peripherals Mikromedia
   3 for STM32F4 Resistive is not limited to multimedia-based applications only. USB,
   digital motion sensor, battery charging functionality, SD card reader and much more
   expands its use beyond the...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mikromedia-3-for-stm32-resistive/mikromedia-3-for-stm32-resistive-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mikromedia-3-for-stm32-resistive
-  repositories: []
-name: MIKROE-6131
-ref: mikroe/mikroe-6131
-release_date: null
-sku: mikroe-6131
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-3-for-stm32-resistive/mikromedia-3-for-stm32-resistive-home_default-1.jpg?v=100

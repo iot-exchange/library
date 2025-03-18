@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: arduino-giga-display-shield
+ref: arduino/arduino-giga-display-shield
+vendor: arduino
+sku: arduino-giga-display-shield
+name: Arduino GIGA Display Shield
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.arduino.cc/wiki/static/e471ad8ea53630d58b11f30ff715ad66/4b190/display-shield.jpg
-  models: []
   products:
   - https://store.arduino.cc/products/giga-display-shield
-  repositories: []
-name: Arduino GIGA Display Shield
-ref: arduino/arduino-giga-display-shield
-release_date: null
-sku: arduino-giga-display-shield
-spec: null
-status: ''
-vendor: arduino
+  images:
+  - https://www.arduino.cc/wiki/static/e471ad8ea53630d58b11f30ff715ad66/4b190/display-shield.jpg

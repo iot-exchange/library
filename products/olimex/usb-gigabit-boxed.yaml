@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: usb-gigabit-boxed
+ref: olimex/usb-gigabit-boxed
+vendor: olimex
+sku: usb-gigabit-boxed
+name: USB-Gigabit-BOXED
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/USB-Modules/USB-GIGABIT/images/thumbs/200x150/USB-GIGABITaa.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/USB-Modules/USB-Gigabit-BOXED/open-source-hardware
-  repositories: []
-name: USB-Gigabit-BOXED
-ref: olimex/usb-gigabit-boxed
-release_date: null
-sku: usb-gigabit-boxed
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/USB-Modules/USB-GIGABIT/images/thumbs/200x150/USB-GIGABITaa.jpg

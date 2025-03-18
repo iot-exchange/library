@@ -1,0 +1,34 @@
+name: DPtechnics B.V.
+description: |
+    While studying computer science at Ghent university in Belgium Daan Pape started developing the DPT-Module and
+    DPT-Board early in 2014. In the summer of 2014 the company DPTechnics was officially started a crowdfunding campaign
+    to get the hardware into mass production. The funding was a success and the DPT-Board was shipped all over the world.
+  
+    We immediately realized the full potential of the Internet-of-Things and focused on creating an IoT based on smart
+    devices and not a smart cloud. Therefore we worked more than 2 years in perfecting the architecture of the
+    BlueCherry.io cloud and in the meanwhile the first projects were built.
+  
+    The first projects of DPTechnics were released on the market early 2016 and they were a great success for us and our
+    customers. Since then DPTechnics is growing every day and we now are a team with multiple experts on embedded
+    programming, GUI design, IoT techniques and business development.
+    We now specialize in IoT hardware development and continuously work on the BlueCherry platform to make it even better.
+  
+    For DPTechnics openess and honesty are esteemed values. We are convinced that this approach is essential
+    to develop sustainable high quality products.
+links:
+  website: https://www.dptechnics.com/
+  logo: https://www.dptechnics.com/images/logo-horizontal.svg
+  github: https://github.com/dptechnics
+  linkedin: https://www.linkedin.com/company/dptechnics/
+  products:
+      - https://www.dptechnics.com/en/products/walter.html
+      - https://www.dptechnics.com/en/products/dpt-module-v1.html
+      - https://www.dptechnics.com/en/products/dpt-board-v1.html
+      - https://www.dptechnics.com/en/products/can-iot-modem.html
+      - https://www.dptechnics.com/en/products/digital-module.html
+      - https://www.dptechnics.com/en/products/analog-module.html
+      - https://www.dptechnics.com/en/products/pt100-module.html
+      - https://www.dptechnics.com/en/products/touchscreen-7.html
+      - https://www.dptechnics.com/en/products/ble-mesh-gateway.html
+      - https://www.dptechnics.com/en/products/ble-lighting-modules.html
+      - https://www.dptechnics.com/en/products/ble-dali-module.html

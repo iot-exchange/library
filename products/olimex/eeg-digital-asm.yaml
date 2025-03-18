@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: eeg-digital-asm
+ref: olimex/eeg-digital-asm
+vendor: olimex
+sku: eeg-digital-asm
+name: EEG-DIGITAL-ASM
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/EEG/OpenEEG/EEG-DIGITAL-ASM/images/thumbs/200x150/EEG-DIGITAL-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/EEG/OpenEEG/EEG-DIGITAL-ASM/open-source-hardware
-  repositories: []
-name: EEG-DIGITAL-ASM
-ref: olimex/eeg-digital-asm
-release_date: null
-sku: eeg-digital-asm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/EEG/OpenEEG/EEG-DIGITAL-ASM/images/thumbs/200x150/EEG-DIGITAL-01.jpg

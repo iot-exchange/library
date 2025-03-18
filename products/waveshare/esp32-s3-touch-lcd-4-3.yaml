@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: esp32-s3-touch-lcd-4-3
+ref: waveshare/esp32-s3-touch-lcd-4-3
+vendor: waveshare
+sku: esp32-s3-touch-lcd-4-3
+name: ESP32-S3-Touch-LCD-4.3
 description: "ESP32-S3 4.3inch Capacitive Touch Display Development Board, 800\xD7\
   480, 5-point Touch, 32-bit LX7 Dual-core Processor"
+status: ''
 extra:
   Price: $30.95  -  $32.99
   SKU: '25948'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-4.3-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/esp32-s3-touch-lcd-4.3.htm
-  repositories: []
-name: ESP32-S3-Touch-LCD-4.3
-ref: waveshare/esp32-s3-touch-lcd-4-3
-release_date: null
-sku: esp32-s3-touch-lcd-4-3
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-4.3-1.jpg

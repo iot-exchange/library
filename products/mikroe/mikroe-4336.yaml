@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4336
+ref: mikroe/mikroe-4336
+vendor: mikroe
+sku: mikroe-4336
+name: MIKROE-4336
 description: CXPI Click is a compact add-on board that contains a transceiver that
   supports the next-generation automotive communication protocol. This board features
   the BD41000AFJ-C, a transceiver for the CXPI (Clock Extension Peripheral Interface)
   communication from Rohm Semiconductor. It operates from 7V to 18V external power
   supply, features easy switching...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/cxpi-click/cxpi-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cxpi-click
-  repositories: []
-name: MIKROE-4336
-ref: mikroe/mikroe-4336
-release_date: null
-sku: mikroe-4336
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/cxpi-click/cxpi-click-home_default-1.jpg?v=100

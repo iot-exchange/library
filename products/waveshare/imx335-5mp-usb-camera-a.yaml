@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: imx335-5mp-usb-camera-a
+ref: waveshare/imx335-5mp-usb-camera-a
+vendor: waveshare
+sku: imx335-5mp-usb-camera-a
+name: IMX335 5MP USB Camera (A)
 description: Large Aperture, 2K Video Recording, Plug-and-Play, Driver Free
+status: ''
 extra:
   Price: $38.97 - $39.99
   SKU: '18584'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx335-5mp-usb-camera-a-1_3.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/imx335-5mp-usb-camera-a.htm
   - https://www.waveshare.com/product/imx335-5mp-usb-camera-a.htm "IMX335 5MP USB
     Camera (A) , Large Aperture, 2K Video Recording, Plug-and-Play, Driver Free"
-  repositories: []
-name: IMX335 5MP USB Camera (A)
-ref: waveshare/imx335-5mp-usb-camera-a
-release_date: null
-sku: imx335-5mp-usb-camera-a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx335-5mp-usb-camera-a-1_3.jpg

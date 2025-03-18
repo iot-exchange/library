@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: pi5-module-box
+ref: waveshare/pi5-module-box
+vendor: waveshare
+sku: pi5-module-box
+name: pi5_module_box
 description: Multi-functional All-in-one Mini-Computer Kit Designed for Raspberry
   Pi 5 (NOT included), Aluminum Alloy Case, Options for Inside PCIe adapter board
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-module-box-a-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pi5-module-box.htm
-  repositories: []
-name: pi5_module_box
-ref: waveshare/pi5-module-box
-release_date: null
-sku: pi5-module-box
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-module-box-a-1.jpg

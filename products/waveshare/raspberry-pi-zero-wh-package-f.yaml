@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-zero-wh-package-f
+ref: waveshare/raspberry-pi-zero-wh-package-f
+vendor: waveshare
+sku: raspberry-pi-zero-wh-package-f
+name: Raspberry Pi Zero WH Package F
 description: Raspberry Pi Zero WH Package F, with UPS Module and 1.3inch LCD Display
+status: ''
 extra:
   Price: $50.97 - $51.99
   SKU: '20487'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-zero-wh-package-f-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/raspberry-pi-zero-wh-package-f.htm
-  repositories: []
-name: Raspberry Pi Zero WH Package F
-ref: waveshare/raspberry-pi-zero-wh-package-f
-release_date: null
-sku: raspberry-pi-zero-wh-package-f
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-zero-wh-package-f-1.jpg

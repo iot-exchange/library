@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: cm-io-poe-4g-box
+ref: waveshare/cm-io-poe-4g-box
+vendor: waveshare
+sku: cm-io-poe-4g-box
+name: CM-IO-POE-4G-BOX
 description: Industrial IoT Mini-computer Add-ons, 4G / PoE Features, Based on Raspberry
   Pi Compute Module CM4S / CM3 / CM3+ Series
+status: ''
 extra:
   Price: $104.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm-io-poe-4g-box-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/cm-io-poe-4g-box.htm
-  repositories: []
-name: CM-IO-POE-4G-BOX
-ref: waveshare/cm-io-poe-4g-box
-release_date: null
-sku: cm-io-poe-4g-box
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm-io-poe-4g-box-1.jpg

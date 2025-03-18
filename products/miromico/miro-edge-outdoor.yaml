@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: miro-edge-outdoor
+ref: miromico/miro-edge-outdoor
+vendor: miromico
+sku: miro-edge-outdoor
+name: miro Edge Outdoor
 description: Customizable and modular LoRaWAN outdoor gateway.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://miromico.ch/files/miromico/media-data/product_images/Gateways/miro_Edge_outdoor/jpg/miro-Edge-outdoor_front_868_915_LTE_2500px.jpg
-  models: []
   products:
   - https://miromico.ch/en/products/details/miroEdge-Outdoor_LoRaWAN
-  repositories: []
-name: miro Edge Outdoor
-ref: miromico/miro-edge-outdoor
-release_date: null
-sku: miro-edge-outdoor
-spec: null
-status: ''
-vendor: miromico
+  images:
+  - https://miromico.ch/files/miromico/media-data/product_images/Gateways/miro_Edge_outdoor/jpg/miro-Edge-outdoor_front_868_915_LTE_2500px.jpg

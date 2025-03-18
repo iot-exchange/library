@@ -1,35 +1,28 @@
-alternatives: []
-certifications: []
+id: nrf52810
+ref: nordicsemi/nrf52810
+vendor: nordicsemi
+sku: nrf52810
+name: nRF52810
 description: nRF52810 SoC Bluetooth 5.4 SoC supporting Bluetooth Low Energy
+status: ''
 extra:
-  ADC: 12-bit
-  Bluetooth Versions: 2 Mbps, 1 Mbps
   CPU: 64 MHz Cortex-M4
-  Encryption: 128-bit AES
   Flash: 192 KB
+  RAM: 24 KB
+  TX Power: +4 dBm
+  ADC: 12-bit
   Interfaces: UART, SPI, TWI, PDM, PWM
   Operating temperature: "-40 to 85 \xB0C"
   Packages: 6x6 mm QFN48 (32 GPIOs) 5x5 mm QFN32 (16 GPIOs) 2.48x2.46 mm WLCSP33 (15
     GPIOs)
-  RAM: 24 KB
   Security: 128-bit AES
   Supply voltage range: 1.7 to 3.6 V
-  TX Power: +4 dBm
+  Bluetooth Versions: 2 Mbps, 1 Mbps
+  Encryption: 128-bit AES
   Transceiver: 2.4 GHz
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.nordicsemi.com/Products/nRF52810
   images:
   - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52810-QFN48-6x6-stacked_web.png?h=400&iar=0&mh=500&w=400&hash=1D3C5FF8CD1EFD08F5BF025A1ED3958C
   - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52810-QFN48-6x6-stacked_web.png?h=50&iar=0&mw=50&w=50&hash=640E1C8DE5D8C56187AFD70B4DFF576F
-  models: []
-  products:
-  - https://www.nordicsemi.com/Products/nRF52810
-  repositories: []
-name: nRF52810
-ref: nordicsemi/nrf52810
-release_date: null
-sku: nrf52810
-spec: null
-status: ''
-vendor: nordicsemi

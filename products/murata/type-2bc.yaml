@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: type-2bc
+ref: murata/type-2bc
+vendor: murata
+sku: type-2bc
+name: Type 2BC
 description: Wi-Fi 5 module with Bluetooth support
+status: ''
 extra:
   Bluetooth: 5.2 BR/EDR/LE
   Chipset: CYW4373
@@ -24,23 +28,12 @@ extra:
   Processor: 'No'
   Receive Mode Current: ''
   RoHS Support: 'Yes'
-  Sleep Mode Current (Bluetooth): ''
   Sleep Mode Current (Wi-Fi): ''
   Supply Voltage: 3.2V to 4.8V
   Technology: Wi-Fi,Bluetooth
-  Transmit Mode Current (Bluetooth): ''
   Transmit Mode Current (Wi-Fi): ''
+  Sleep Mode Current (Bluetooth): ''
+  Transmit Mode Current (Bluetooth): ''
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Type 2BC
-ref: murata/type-2bc
-release_date: null
-sku: type-2bc
-spec: null
-status: ''
-vendor: murata
+  images: []

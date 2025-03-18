@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: pico-epaper-2-66
+ref: waveshare/pico-epaper-2-66
+vendor: waveshare
+sku: pico-epaper-2-66
+name: Pico-ePaper-2.66
 description: "2.66inch E-Paper E-Ink Display Module for Raspberry Pi Pico, 296\xD7\
   152, Black / White, SPI"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/pico-epaper-2.66.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-epaper-2.66-1_2.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-epaper-2.66-2_2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/pico-epaper-2.66.htm
-  repositories: []
-name: Pico-ePaper-2.66
-ref: waveshare/pico-epaper-2-66
-release_date: null
-sku: pico-epaper-2-66
-spec: null
-status: ''
-vendor: waveshare

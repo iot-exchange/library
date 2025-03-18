@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: esp32-s2-mini-2
+ref: espressif/esp32-s2-mini-2
+vendor: espressif
+sku: esp32-s2-mini-2
+name: ESP32-S2-MINI-2
 description: For flashing / testing ESP32-S2-MINI-1 / ESP32-S2-MINI-2 / ESP32-S3-MINI-1
   modules (must be used with ESP-BAT32 for testing)
+status: ''
 extra:
   Antenna: PCB antenna
   Chip Embedded: ESP32-S2FH4ESP32-S2FN4R2
@@ -13,18 +17,7 @@ extra:
   PSRAM (MB): N/A2
   Pins: '65'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP32-S2-MINI-2%20S_0.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp32-s2-mini-2_esp32-s2-mini-2u_datasheet_en.pdf
-  repositories: []
-name: ESP32-S2-MINI-2
-ref: espressif/esp32-s2-mini-2
-release_date: null
-sku: esp32-s2-mini-2
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-S2-MINI-2%20S_0.png

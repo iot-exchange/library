@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '101991041'
+ref: seeedstudio/101991041
+vendor: seeedstudio
+sku: '101991041'
+name: '101991041'
 description: High-precision ultrasonic distance sensor with a measuring range of 28~750cm.
   Suitable for various applications like Sewer, water level monitoring, Intelligent
   trash can management systems, Robot avoidance, and automatic control.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101991041-rs485-750cm-ultrasonic-level-sensor-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/RS485-750cm-Ultrasonic-Level-Sensor-p-5587.html
-  repositories: []
-name: '101991041'
-ref: seeedstudio/101991041
-release_date: null
-sku: '101991041'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101991041-rs485-750cm-ultrasonic-level-sensor-45font.jpg

@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '110061506'
+ref: seeedstudio/110061506
+vendor: seeedstudio
+sku: '110061506'
+name: '110061506'
 description: This power adapter for EU standard boasts an average efficiency reaching
   the Energy Star VI standard of 86.20%.
+status: ''
 extra:
+  price: $7.00
   efficiency: Energy Star VI standard
   input_voltage: 100V to 240V
-  price: $7.00
   service_life: 30,000 hours
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-110061506-power-adapter-12v-2a---eu-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Power-Adapter-12V-2A-EU-p-5732.html
-  repositories: []
-name: '110061506'
-ref: seeedstudio/110061506
-release_date: null
-sku: '110061506'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-110061506-power-adapter-12v-2a---eu-45font.jpg

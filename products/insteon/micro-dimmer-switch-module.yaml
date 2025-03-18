@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: micro-dimmer-switch-module
+ref: insteon/micro-dimmer-switch-module
+vendor: insteon
+sku: micro-dimmer-switch-module
+name: Micro Dimmer Switch Module
 description: ''
+status: ''
 extra:
   reviews: '15'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/products/Micro_Dimmer_Switch_Module.jpg?v=1724711032&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/micro-dimmer-switch-module
-  repositories: []
-name: Micro Dimmer Switch Module
-ref: insteon/micro-dimmer-switch-module
-release_date: null
-sku: micro-dimmer-switch-module
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Micro_Dimmer_Switch_Module.jpg?v=1724711032&width=533

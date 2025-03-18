@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: coupler-5mm8mm
+ref: olimex/coupler-5mm8mm
+vendor: olimex
+sku: coupler-5mm8mm
+name: COUPLER-5MM8MM
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Couplers/COUPLER-5MM8MM/images/thumbs/200x150/COUPLER5-8.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Couplers/COUPLER-5MM8MM/
-  repositories: []
-name: COUPLER-5MM8MM
-ref: olimex/coupler-5mm8mm
-release_date: null
-sku: coupler-5mm8mm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Couplers/COUPLER-5MM8MM/images/thumbs/200x150/COUPLER5-8.jpg

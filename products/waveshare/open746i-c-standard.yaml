@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: open746i-c-standard
+ref: waveshare/open746i-c-standard
+vendor: waveshare
+sku: open746i-c-standard
+name: Open746I-C Standard
 description: STM32F7 Development Board
+status: ''
 extra:
   Price: $71.59 - $74.99
   SKU: '11473'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/open746i-c-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/open746i-c-standard.htm
-  repositories: []
-name: Open746I-C Standard
-ref: waveshare/open746i-c-standard
-release_date: null
-sku: open746i-c-standard
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/open746i-c-1.jpg

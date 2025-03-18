@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: connectors
+ref: murata/connectors
+vendor: murata
+sku: connectors
+name: Connectors
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/products/connector/
-  repositories: []
-name: Connectors
-ref: murata/connectors
-release_date: null
-sku: connectors
-spec: null
-status: ''
-vendor: murata
+  images: []

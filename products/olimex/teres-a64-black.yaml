@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-a64-black
+ref: olimex/teres-a64-black
+vendor: olimex
+sku: teres-a64-black
+name: TERES-A64-BLACK
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/KITS/TERES-A64-BLACK/images/thumbs/200x150/laptop-12.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/KITS/TERES-A64-BLACK/open-source-hardware
-  repositories: []
-name: TERES-A64-BLACK
-ref: olimex/teres-a64-black
-release_date: null
-sku: teres-a64-black
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/KITS/TERES-A64-BLACK/images/thumbs/200x150/laptop-12.jpg

@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '314990737'
+ref: seeedstudio/314990737
+vendor: seeedstudio
+sku: '314990737'
+name: '314990737'
 description: S-YM-01 Sensor comes in the shape of a leaf, simulating the wetness and
   temperature on a real leaf. It measures leaf wetness and temperature, providing
   insights for pest control, irrigation, and other management that are optimal for
   plant and crop health. The sensor is IP68 rated and the output signal can be RS485.
   It can be widely used in applications of farming in the outdoor, in greenhouses,
   plant research, and other scenarios where leaf wetness and temperature are important.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/3/1/314990737_front-05.png
-  models: []
   products:
   - https://www.seeedstudio.com/leaf-wetness-sensor-p-a-4861.html
-  repositories: []
-name: '314990737'
-ref: seeedstudio/314990737
-release_date: null
-sku: '314990737'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/3/1/314990737_front-05.png

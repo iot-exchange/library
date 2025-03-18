@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: '2607046211001'
+ref: we/2607046211001
+vendor: we
+sku: '2607046211001'
+name: '2607046211001'
 description: ''
+status: Active
 extra:
   Antenna type: ''
   Current consumption: ''
@@ -12,18 +16,7 @@ extra:
   Sensitivity: ''
   Voltage: ''
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/TITANIA#2607011111000
   - https://www.we-online.com/en/components/products/TITANIA#2607046211001
-  repositories: []
-name: '2607046211001'
-ref: we/2607046211001
-release_date: null
-sku: '2607046211001'
-spec: null
-status: Active
-vendor: we
+  images: []

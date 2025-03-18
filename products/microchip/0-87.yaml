@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 0-87
+ref: microchip/0-87
+vendor: microchip
+sku: 0-87
+name: '0.87'
 description: Cortex-M0+
+status: ''
 extra:
   CAN-FD: 'Yes'
   GPIO: '4'
@@ -10,16 +14,5 @@ extra:
   Temperature Range: '-40'
   Voltage: '5.5'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: '0.87'
-ref: microchip/0-87
-release_date: null
-sku: 0-87
-spec: null
-status: ''
-vendor: microchip
+  images: []

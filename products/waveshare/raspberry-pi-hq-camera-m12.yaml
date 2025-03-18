@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-hq-camera-m12
+ref: waveshare/raspberry-pi-hq-camera-m12
+vendor: waveshare
+sku: raspberry-pi-hq-camera-m12
+name: Raspberry Pi HQ Camera M12
 description: Raspberry Pi High Quality Camera M12, 12.3MP IMX477R Sensor, High Sensitivity,
   Supports M12 mount Lenses
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-hq-camera-m12-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/raspberry-pi-hq-camera-m12.htm
-  repositories: []
-name: Raspberry Pi HQ Camera M12
-ref: waveshare/raspberry-pi-hq-camera-m12
-release_date: null
-sku: raspberry-pi-hq-camera-m12
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-hq-camera-m12-1.jpg

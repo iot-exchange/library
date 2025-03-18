@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: stm32-h103
+ref: olimex/stm32-h103
+vendor: olimex
+sku: stm32-h103
+name: STM32-H103
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/ST/STM32-H103/images/thumbs/200x150/STM32-H103-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/ST/STM32-H103/
-  repositories: []
-name: STM32-H103
-ref: olimex/stm32-h103
-release_date: null
-sku: stm32-h103
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/ST/STM32-H103/images/thumbs/200x150/STM32-H103-01.jpg

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: ic120-0284-508
+ref: waveshare/ic120-0284-508
+vendor: waveshare
+sku: ic120-0284-508
+name: IC120-0284-508
 description: Test & Burn-in Socket
+status: ''
 extra:
   Price: $14.99 - $16.99
   SKU: '9610'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ic120-0284-508-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ic120-0284-508.htm
-  repositories: []
-name: IC120-0284-508
-ref: waveshare/ic120-0284-508
-release_date: null
-sku: ic120-0284-508
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ic120-0284-508-2.jpg

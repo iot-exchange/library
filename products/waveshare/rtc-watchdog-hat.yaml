@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rtc-watchdog-hat
+ref: waveshare/rtc-watchdog-hat
+vendor: waveshare
+sku: rtc-watchdog-hat
+name: RTC WatchDog HAT
 description: RTC WatchDog HAT for Raspberry Pi, Auto Reset, High Precision RTC
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/t/rtc-watchdog-hat-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rtc-watchdog-hat.htm
-  repositories: []
-name: RTC WatchDog HAT
-ref: waveshare/rtc-watchdog-hat
-release_date: null
-sku: rtc-watchdog-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/t/rtc-watchdog-hat-1.jpg

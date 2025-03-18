@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: zero
+ref: radxa/zero
+vendor: radxa
+sku: zero
+name: ZERO
 description: An Ultra Tiny SBC Supports 4K Display
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/zero/zero/thumb_zero.webp
-  models: []
   products:
   - https://radxa.com/products/zeros/zero
-  repositories: []
-name: ZERO
-ref: radxa/zero
-release_date: null
-sku: zero
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/zero/zero/thumb_zero.webp

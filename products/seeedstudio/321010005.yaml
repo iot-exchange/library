@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '321010005'
+ref: seeedstudio/321010005
+vendor: seeedstudio
+sku: '321010005'
+name: '321010005'
 description: 100CM mini usb cable, it is needed anywhere
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductblackusbcbale.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Mini-USB-cable-100cm-p-252.html
-  repositories: []
-name: '321010005'
-ref: seeedstudio/321010005
-release_date: null
-sku: '321010005'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductblackusbcbale.jpg

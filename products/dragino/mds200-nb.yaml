@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: mds200-nb
+ref: dragino/mds200-nb
+vendor: dragino
+sku: mds200-nb
+name: MDS200-NB
 description: NB-IoT Microwave Radar Distance Sensor
+status: ''
 extra:
   24Ghz Microwave Radar for distance detection: ''
   Accuracy: "\xB10.1m"
@@ -12,18 +16,7 @@ extra:
   Support Bluetooth v5.1 remote configure and update firmware: ''
   Ultra-low power consumption: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/274936c4b649c88ffad7944bfc7a744a_L.jpg
-  models: []
   products:
   - https://dragino.com/products/distance-level-sensor/item/302-mds200-nb.html
-  repositories: []
-name: MDS200-NB
-ref: dragino/mds200-nb
-release_date: null
-sku: mds200-nb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/274936c4b649c88ffad7944bfc7a744a_L.jpg

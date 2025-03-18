@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 48qn50k17070
+ref: waveshare/48qn50k17070
+vendor: waveshare
+sku: 48qn50k17070
+name: 48QN50K17070
 description: Test & Burn-in Socket
+status: ''
 extra:
   Price Range: $83.59 - $86.99
   SKU: '6872'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/8/48qn50s17070_l_1_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/48qn50k17070.htm
-  repositories: []
-name: 48QN50K17070
-ref: waveshare/48qn50k17070
-release_date: null
-sku: 48qn50k17070
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/8/48qn50s17070_l_1_1_5.jpg

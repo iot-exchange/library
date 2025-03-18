@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '110070128'
+ref: seeedstudio/110070128
+vendor: seeedstudio
+sku: '110070128'
+name: '110070128'
 description: "The first water cooling kit specially designed for Raspberry Pi 5, which\
   \ is a collaborative product released by Seeed Studio and 52Pi, can control the\
   \ temperature of a single fully loaded Raspberry Pi 5 at about 40\u2103. Each water\
   \ cooling kit is capable of simultaneously cooling multiple Raspberry Pi 5 units,\
   \ offering a cooling solution for Raspberry Pi 5 cluster management."
+status: ''
 extra:
   price: $120.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/6/-/6-110070128-high-performance-liquid-cooler-for-raspberry-pi-5-feature.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/High-Performance-Liquid-Cooler-for-Raspberry-Pi-5-p-5854.html
-  repositories: []
-name: '110070128'
-ref: seeedstudio/110070128
-release_date: null
-sku: '110070128'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/6/-/6-110070128-high-performance-liquid-cooler-for-raspberry-pi-5-feature.jpg

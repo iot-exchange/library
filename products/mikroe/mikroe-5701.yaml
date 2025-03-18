@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-5701
+ref: mikroe/mikroe-5701
+vendor: mikroe
+sku: mikroe-5701
+name: MIKROE-5701
 description: Ambient 23 Click is a compact add-on board that measures the intensity
   of visible light. This board features the VEML3235SL, an advanced ambient light
   sensor designed by the CMOS process from Vishay Semiconductors.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ambient-23-click/ambient-23-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ambient-23-click
-  repositories: []
-name: MIKROE-5701
-ref: mikroe/mikroe-5701
-release_date: null
-sku: mikroe-5701
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ambient-23-click/ambient-23-click-home_default-1.jpg?v=100

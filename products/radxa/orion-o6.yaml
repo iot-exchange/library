@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: orion-o6
+ref: radxa/orion-o6
+vendor: radxa
+sku: orion-o6
+name: Orion O6
 description: World's First Open Source Arm V9 Motherboard
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/orion/o6/thumb_orion_o6.webp
-  models: []
   products:
   - https://radxa.com/products/orion/o6
-  repositories: []
-name: Orion O6
-ref: radxa/orion-o6
-release_date: null
-sku: orion-o6
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/orion/o6/thumb_orion_o6.webp

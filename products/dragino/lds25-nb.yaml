@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: lds25-nb
+ref: dragino/lds25-nb
+vendor: dragino
+sku: lds25-nb
+name: LDS25-NB
 description: "NB-IoT Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85\
   \ @H-FDDUltra-low power consumptionLaser technology for distance detectionMeasure\
   \ Distance: 0.1m ~ 25m @ 90% Reflectivity; 0.1m ~ 12m @ 10% ReflectivityDistance\
   \ resolution: 1cmFOV : 3\xB0Multiply Sampling and one uplinkSupport BLE remote configure\
   \ and update firmware8500mAh Battery for long term use"
+status: ''
 extra:
   Catalog: Distance & Level Detect Sensor
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/3bd6583af5a14653b7b54db2c9fe7f3e_L.jpg
-  models: []
   products:
   - https://dragino.com/products/distance-level-sensor/item/349-lds25-nb.html
-  repositories: []
-name: LDS25-NB
-ref: dragino/lds25-nb
-release_date: null
-sku: lds25-nb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/3bd6583af5a14653b7b54db2c9fe7f3e_L.jpg

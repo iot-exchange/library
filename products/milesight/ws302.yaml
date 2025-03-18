@@ -1,0 +1,13 @@
+id: ws302
+ref: milesight/ws302
+vendor: milesight
+sku: ws302
+name: WS302
+description: Sound Level Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/ws302
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/smart-workplace-cowork-series/sound-level-sensor-ws302.png?t=1742198585390

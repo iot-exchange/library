@@ -1,0 +1,13 @@
+id: ws101
+ref: milesight/ws101
+vendor: milesight
+sku: ws101
+name: WS101
+description: Smart Button
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/ws101
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/smart-workplace-cowork-series/smart-button-ws101.png?t=1742198585390

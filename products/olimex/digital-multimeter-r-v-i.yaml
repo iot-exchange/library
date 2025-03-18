@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: digital-multimeter-r-v-i
+ref: olimex/digital-multimeter-r-v-i
+vendor: olimex
+sku: digital-multimeter-r-v-i
+name: DIGITAL-MULTIMETER-R-V-I
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Meters/DIGITAL-MULTIMETER-R-V-I/images/thumbs/200x150/VRI3.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Meters/DIGITAL-MULTIMETER-R-V-I/
-  repositories: []
-name: DIGITAL-MULTIMETER-R-V-I
-ref: olimex/digital-multimeter-r-v-i
-release_date: null
-sku: digital-multimeter-r-v-i
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Meters/DIGITAL-MULTIMETER-R-V-I/images/thumbs/200x150/VRI3.jpg

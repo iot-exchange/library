@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rock-2f
+ref: radxa/rock-2f
+vendor: radxa
+sku: rock-2f
+name: ROCK 2F
 description: Your 4K Card Computer
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/rock2/2f/thumb_rock2f.webp
-  models: []
   products:
   - https://radxa.com/products/rock2/2f
-  repositories: []
-name: ROCK 2F
-ref: radxa/rock-2f
-release_date: null
-sku: rock-2f
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/rock2/2f/thumb_rock2f.webp

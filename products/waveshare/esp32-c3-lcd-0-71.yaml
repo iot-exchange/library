@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: esp32-c3-lcd-0-71
+ref: waveshare/esp32-c3-lcd-0-71
+vendor: waveshare
+sku: esp32-c3-lcd-0-71
+name: ESP32-C3-LCD-0.71
 description: "ESP32-C3 0.71inch Round Display Development Board, 160\xD7160 Resolution,\
   \ Based on ESP32-C3 Single-core Processor, SPI Interface Display, ESP32 With Display"
+status: ''
 extra:
   Multi Options: ''
   Price: $11.99 -  $13.99
   multiOptions: Multi Options
   price: $11.99 -  $13.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-c3-lcd-0.71-6.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/esp32-c3-lcd-0.71.htm
-  repositories: []
-name: ESP32-C3-LCD-0.71
-ref: waveshare/esp32-c3-lcd-0-71
-release_date: null
-sku: esp32-c3-lcd-0-71
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-c3-lcd-0.71-6.jpg

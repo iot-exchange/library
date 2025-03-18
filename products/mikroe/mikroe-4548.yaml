@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4548
+ref: mikroe/mikroe-4548
+vendor: mikroe
+sku: mikroe-4548
+name: MIKROE-4548
 description: 'Fusion for PIC v8 is packed in the protective box along with the relevant
   documentation. This box is very resistant to all kinds of damage and shock. The
   package contains: Damage resistant protective box Fusion for PIC v8 board MCU and
   Display board flyers Adapter - USB-C Female to USB-A Male Adapter - USB Micro Female
   to USB-C Male USB-C...'
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/fusion-for-pic-v8/fusion-for-pic-v8-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=82#MIKROE-4548
-  repositories: []
-name: MIKROE-4548
-ref: mikroe/mikroe-4548
-release_date: null
-sku: mikroe-4548
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/fusion-for-pic-v8/fusion-for-pic-v8-home_default-1.jpg?v=100

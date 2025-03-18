@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: duinomite-mega
+ref: olimex/duinomite-mega
+vendor: olimex
+sku: duinomite-mega
+name: DUINOMITE-MEGA
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Duino/Duinomite/DUINOMITE-MEGA/images/thumbs/200x150/DUINOMITE-MEGA-2.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Duino/Duinomite/DUINOMITE-MEGA/open-source-hardware
-  repositories: []
-name: DUINOMITE-MEGA
-ref: olimex/duinomite-mega
-release_date: null
-sku: duinomite-mega
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Duino/Duinomite/DUINOMITE-MEGA/images/thumbs/200x150/DUINOMITE-MEGA-2.jpg

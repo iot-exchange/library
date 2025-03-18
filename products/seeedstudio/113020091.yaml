@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '113020091'
+ref: seeedstudio/113020091
+vendor: seeedstudio
+sku: '113020091'
+name: '113020091'
 description: Grove Wio-E5 embedded with Wio-E5 STM32WLE5JC, powered by ARM Cortex
   M4 ultra-low-power MCU core and Wio SX126x, is an easy-to-use wireless radio module.
   It supports EU868 and US915, making it suitable for wireless sensor networks and
   other IoT devices that require battery power, low power consumption and long range.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/Grove-LoRa-E5-STM32WLE5JC-p-4867.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/101020952_preview-07.png
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/s/k/sku113020091_0.jpg
-  models: []
-  products:
-  - https://www.seeedstudio.com/Grove-LoRa-E5-STM32WLE5JC-p-4867.html
-  repositories: []
-name: '113020091'
-ref: seeedstudio/113020091
-release_date: null
-sku: '113020091'
-spec: null
-status: ''
-vendor: seeedstudio

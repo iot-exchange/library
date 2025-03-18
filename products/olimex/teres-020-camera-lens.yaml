@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-020-camera-lens
+ref: olimex/teres-020-camera-lens
+vendor: olimex
+sku: teres-020-camera-lens
+name: TERES-020-Camera-Lens
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-020-Camera-Lens/images/thumbs/200x150/TERES-020-Camera-Lens.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-020-Camera-Lens/
-  repositories: []
-name: TERES-020-Camera-Lens
-ref: olimex/teres-020-camera-lens
-release_date: null
-sku: teres-020-camera-lens
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-020-Camera-Lens/images/thumbs/200x150/TERES-020-Camera-Lens.jpg

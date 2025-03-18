@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 15-6-portable-monitor
+ref: waveshare/15-6-portable-monitor
+vendor: waveshare
+sku: 15-6-portable-monitor
+name: "15.6\u2033 Portable Monitor"
 description: "Luckfox 15.6inch Portable Monitor With Stand, IPS screen, Mini HDMI\
   \ Interface, 1920 \xD7 1080 Full HD, 178\xB0 Viewing Angle, ABS Case, Supports HDR,\
   \ No Touch"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/15.6inch-portable-monitor.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/5/15.6inch-portable-monitor-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/5/15.6inch-portable-monitor-2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/15.6inch-portable-monitor.htm
-  repositories: []
-name: "15.6\u2033 Portable Monitor"
-ref: waveshare/15-6-portable-monitor
-release_date: null
-sku: 15-6-portable-monitor
-spec: null
-status: ''
-vendor: waveshare

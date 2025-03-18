@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-sd-card
+ref: waveshare/raspberry-pi-sd-card
+vendor: waveshare
+sku: raspberry-pi-sd-card
+name: Raspberry Pi SD Card
 description: Official Raspberry Pi Class A2 SD Card, Compatible With microSDHC-supporting
   And microSDXC-supporting Host Devices, Options For 32GB / 64GB
+status: ''
 extra:
   Multi Options: ''
   Price: $5.99 -  $9.99
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.waveshare.com/product/raspberry-pi-sd-card.htm
-  repositories: []
-name: Raspberry Pi SD Card
-ref: waveshare/raspberry-pi-sd-card
-release_date: null
-sku: raspberry-pi-sd-card
-spec: null
-status: ''
-vendor: waveshare
+  images: []

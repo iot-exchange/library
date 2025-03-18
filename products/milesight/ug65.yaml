@@ -1,0 +1,13 @@
+id: ug65
+ref: milesight/ug65
+vendor: milesight
+sku: ug65
+name: UG65
+description: "Indoor LoRaWAN\xAE Gateway"
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-gateway/ug65
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/gateway/lorawan-indoor-gateway.png?t=1742198585390

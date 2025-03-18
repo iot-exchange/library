@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5060
+ref: mikroe/mikroe-5060
+vendor: mikroe
+sku: mikroe-5060
+name: MIKROE-5060
 description: Air quality 9 Click is a compact add-on board containing a best-in-class
   air-quality sensing solution. This board features the ENS160, a digital multi-gas
   sensor solution based on metal oxide (MOX) technology with four MOx sensor elements
   from ScioSense. Each sensor element has independent hotplate control to detect a
   wide range of gases. The ENS160...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/air-quality-9-click/air-quality-9-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/air-quality-9-click
-  repositories: []
-name: MIKROE-5060
-ref: mikroe/mikroe-5060
-release_date: null
-sku: mikroe-5060
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/air-quality-9-click/air-quality-9-click-home_default-1.jpg?v=100

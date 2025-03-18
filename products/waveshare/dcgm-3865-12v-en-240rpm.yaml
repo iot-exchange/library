@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: dcgm-3865-12v-en-240rpm
+ref: waveshare/dcgm-3865-12v-en-240rpm
+vendor: waveshare
+sku: dcgm-3865-12v-en-240rpm
+name: DCGM-3865-12V-EN-240RPM
 description: L-shaped Permanent Magnet DC Gear Motor, Magnetic Hall Encoder, All-metal
   Gear Motor
+status: ''
 extra:
   Price: $9.31 - $9.99
   SKU: '22346'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/c/dcgm-3865-12v-en-240rpm-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/dcgm-3865-12v-en-240rpm.htm
-  repositories: []
-name: DCGM-3865-12V-EN-240RPM
-ref: waveshare/dcgm-3865-12v-en-240rpm
-release_date: null
-sku: dcgm-3865-12v-en-240rpm
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/c/dcgm-3865-12v-en-240rpm-1.jpg

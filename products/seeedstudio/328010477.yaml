@@ -1,9 +1,13 @@
-alternatives: []
-certifications: []
+id: '328010477'
+ref: seeedstudio/328010477
+vendor: seeedstudio
+sku: '328010477'
+name: '328010477'
 description: The SD Card preloaded with NOOBS - 16GB is an easy-to-use solution for
   setting up a Raspberry Pi with a user-friendly operating system installer. It comes
   with ample space for an operating system and additional software or files, making
   it a great choice for beginners and experienced users alike.
+status: ''
 extra:
   Capacity: 16GB
   Price: $2.00
@@ -11,18 +15,7 @@ extra:
   capacity: 16GB
   preloaded_os: Raspberry Pi 4 OS
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-328010477--sd-card-preloaded-with-noobs---16gb-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/SD-Card-preloaded-with-NOOBS-16GB-p-5725.html
-  repositories: []
-name: '328010477'
-ref: seeedstudio/328010477
-release_date: null
-sku: '328010477'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-328010477--sd-card-preloaded-with-noobs---16gb-45font.jpg

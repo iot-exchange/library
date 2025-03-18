@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '110061441'
+ref: seeedstudio/110061441
+vendor: seeedstudio
+sku: '110061441'
+name: '110061441'
 description: "reComputer J1020 v2 - Edge AI Computer with NVIDIA\xAE Jetson Nano 4GB"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110061441_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/reComputer-J1020-v2-p-5498.html
-  repositories: []
-name: '110061441'
-ref: seeedstudio/110061441
-release_date: null
-sku: '110061441'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110061441_1.jpg

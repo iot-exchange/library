@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: 2ch-rs485-to-eth
+ref: waveshare/2ch-rs485-to-eth
+vendor: waveshare
+sku: 2ch-rs485-to-eth
+name: 2ch_rs485_to_eth
 description: 2-Ch RS485 to RJ45 Ethernet Serial Server, Dual channels RS485 independent
   operation, Dual Ethernet Ports
+status: ''
 extra:
   Multi Options: ''
   Price: $32.99 -  $35.99
   multiOptions: Multi Options
   price: $32.99 - $35.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/-/2-ch-rs485-to-eth-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/2-ch-rs485-to-eth-b.htm
-  repositories: []
-name: 2ch_rs485_to_eth
-ref: waveshare/2ch-rs485-to-eth
-release_date: null
-sku: 2ch-rs485-to-eth
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/-/2-ch-rs485-to-eth-b-1.jpg

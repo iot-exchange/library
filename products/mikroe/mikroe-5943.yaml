@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-5943
+ref: mikroe/mikroe-5943
+vendor: mikroe
+sku: mikroe-5943
+name: MIKROE-5943
 description: I2C Isolator 7 Click is a compact add-on board that offers completely
   isolated bidirectional communication. This board features the ADuM1252, an ultra-low
   power, bidirectional I2C isolator from Analog Devices. It can isolate I2C bidirectional
   data transfer of up to 2MHz SCL and bidirectional SCL for advanced bus topologies,
   and it supports clock...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/i2c-isolator-7-click/i2c-isolator-7-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=3792
   - https://www.mikroe.com/i2c-isolator-7-click
-  repositories: []
-name: MIKROE-5943
-ref: mikroe/mikroe-5943
-release_date: null
-sku: mikroe-5943
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/i2c-isolator-7-click/i2c-isolator-7-click-home_default-1.jpg?v=100

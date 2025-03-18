@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sns-fingerprint
+ref: olimex/sns-fingerprint
+vendor: olimex
+sku: sns-fingerprint
+name: SNS-FINGERPRINT
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Sensors/SNS-FINGERPRINT/images/thumbs/200x150/SNS-FINGERPRINT.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Sensors/SNS-FINGERPRINT/
-  repositories: []
-name: SNS-FINGERPRINT
-ref: olimex/sns-fingerprint
-release_date: null
-sku: sns-fingerprint
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/SNS-FINGERPRINT/images/thumbs/200x150/SNS-FINGERPRINT.jpg

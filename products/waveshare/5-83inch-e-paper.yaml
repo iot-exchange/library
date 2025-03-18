@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 5-83inch-e-paper
+ref: waveshare/5-83inch-e-paper
+vendor: waveshare
+sku: 5-83inch-e-paper
+name: 5.83inch e-Paper
 description: "5.83inch E-Paper E-Ink Raw Display, 648\xD7480, Black / White, SPI,\
   \ Without PCB"
+status: ''
 extra:
   Price: $40.63 - $41.99
   SKU: '14410'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/_/5.83inch-e-paper-1_4.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/5.83inch-e-paper.htm
-  repositories: []
-name: 5.83inch e-Paper
-ref: waveshare/5-83inch-e-paper
-release_date: null
-sku: 5-83inch-e-paper
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/_/5.83inch-e-paper-1_4.jpg

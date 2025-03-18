@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: arm-jtag
+ref: olimex/arm-jtag
+vendor: olimex
+sku: arm-jtag
+name: ARM-JTAG
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/JTAG/ARM-JTAG/images/thumbs/200x150/ARM-JTAG.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/JTAG/ARM-JTAG/
-  repositories: []
-name: ARM-JTAG
-ref: olimex/arm-jtag
-release_date: null
-sku: arm-jtag
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/JTAG/ARM-JTAG/images/thumbs/200x150/ARM-JTAG.jpg

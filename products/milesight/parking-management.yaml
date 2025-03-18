@@ -1,0 +1,12 @@
+id: parking-management
+ref: milesight/parking-management
+vendor: milesight
+sku: parking-management
+name: Parking Management
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/security/product/intelligent-traffic#parking-management
+  images: []

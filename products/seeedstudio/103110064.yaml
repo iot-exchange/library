@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '103110064'
+ref: seeedstudio/103110064
+vendor: seeedstudio
+sku: '103110064'
+name: '103110064'
 description: PCIe to dual M.2 hat designed for Raspberry Pi 5. Support PCIe Gen2 x1
   speed work with 2230/2242/2260/2280 NVMe SSD. Support Hailo8/8L and Google Coral
   AI accelerators.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-103110064-pcie-to-m.2-dual-hat-for-raspberry-pi-5.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/PCIe-to-dual-M-2-hat-for-Raspberry-Pi-5-p-5973.html
-  repositories: []
-name: '103110064'
-ref: seeedstudio/103110064
-release_date: null
-sku: '103110064'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-103110064-pcie-to-m.2-dual-hat-for-raspberry-pi-5.jpg

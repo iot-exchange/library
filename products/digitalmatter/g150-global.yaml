@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: g150-global
+ref: digitalmatter/g150-global
+vendor: digitalmatter
+sku: g150-global
+name: G150 Global
 description: "Robust real-time GPS tracking device and Bluetooth\xAE Gateway with\
   \ comprehensive I/Os, and global connectivity with optional Iridium satellite coverage"
+status: ''
 extra:
   Applications: Accident Detection, Cold Chain, Driver Behavior, Driver ID, Equipment
     Tracking, Fleet Management, Global Visibility, In-Vehicle Alerts, Remote Immobilization,
@@ -12,18 +16,7 @@ extra:
     \ Out, Vehicle Access Control, Wiegand Interface"
   Power: Wired
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.digitalmatter.com/wp-content/uploads/2022/07/Hawk-D-Cell-Housing-Grey-Digital-Matter.png
-  models: []
   products:
   - https://www.digitalmatter.com/devices/g150-global/
-  repositories: []
-name: G150 Global
-ref: digitalmatter/g150-global
-release_date: null
-sku: g150-global
-spec: null
-status: ''
-vendor: digitalmatter
+  images:
+  - https://www.digitalmatter.com/wp-content/uploads/2022/07/Hawk-D-Cell-Housing-Grey-Digital-Matter.png

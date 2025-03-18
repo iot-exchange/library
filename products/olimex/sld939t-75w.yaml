@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sld939t-75w
+ref: olimex/sld939t-75w
+vendor: olimex
+sku: sld939t-75w
+name: SLD939T-75W
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Soldering/SLD939T-75W/images/thumbs/200x150/SLD-939.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Soldering/SLD939T-75W/
-  repositories: []
-name: SLD939T-75W
-ref: olimex/sld939t-75w
-release_date: null
-sku: sld939t-75w
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/SLD939T-75W/images/thumbs/200x150/SLD-939.jpg

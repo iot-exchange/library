@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pi-zero-kit
+ref: waveshare/pi-zero-kit
+vendor: waveshare
+sku: pi-zero-kit
+name: pi_zero_kit
 description: Raspberry Pi Zero W, the low-cost pared-down Pi, with built-in WiFi and
   Bluetooth
+status: ''
 extra:
-  Multi Options: ''
   Price: $19.99 - $52.99
+  Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-zero-w-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/raspberry-pi-zero-w.htm
-  repositories: []
-name: pi_zero_kit
-ref: waveshare/pi-zero-kit
-release_date: null
-sku: pi-zero-kit
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-zero-w-1.jpg

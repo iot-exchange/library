@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: efr32bg26
+ref: silicon-labs/efr32bg26
+vendor: silicon-labs
+sku: efr32bg26
+name: EFR32BG26
 description: High-Performance, High Memory, Low Power. Provides maximum flash and
   RAM, ensuring the longevity of your devices.
+status: ''
 extra:
   Ideal for: High-end battery-powered IoT devices
   Supports: Bluetooth 5.4, Bluetooth mesh & proprietary
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.silabs.com/content/siliconlabs/en/wireless/bluetooth/efr32bg26-series-2-socs.thumb.256.144.png
-  models: []
   products:
   - https://www.silabs.com/wireless/bluetooth/efr32bg26-series-2-socs
-  repositories: []
-name: EFR32BG26
-ref: silicon-labs/efr32bg26
-release_date: null
-sku: efr32bg26
-spec: null
-status: ''
-vendor: silicon-labs
+  images:
+  - https://www.silabs.com/content/siliconlabs/en/wireless/bluetooth/efr32bg26-series-2-socs.thumb.256.144.png

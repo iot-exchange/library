@@ -1,0 +1,13 @@
+id: ws201
+ref: milesight/ws201
+vendor: milesight
+sku: ws201
+name: WS201
+description: Smart Fill Level Monitoring Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/ws201
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/smart-workplace-cowork-series/smart-fill-level-monitoring-sensor-ws201.png?t=1742198585390

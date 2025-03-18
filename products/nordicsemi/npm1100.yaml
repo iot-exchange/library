@@ -1,27 +1,20 @@
-alternatives: []
-certifications: []
+id: npm1100
+ref: nordicsemi/npm1100
+vendor: nordicsemi
+sku: npm1100
+name: nPM1100
 description: Ultra-small form-factor Power Management IC (PMIC) for charging batteries
   and power delivery.
+status: ''
 extra:
   Applications: Advanced wearables, connected medical devices
   Features: Dual-mode configurable buck regulator, integrated battery charger
-  Function: Power Management IC
-  PCB Area: as low as 23 mm2
-  PCB Area Usage: as low as 23 mm2
   PCB area usage: as low as 23 mm2
+  Function: Power Management IC
+  PCB Area Usage: as low as 23 mm2
+  PCB Area: as low as 23 mm2
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.nordicsemi.com/-/media/Images/Products/PMICs/nPM1100/nPM1100-wlCSP.png?h=250&iar=0&mh=250&w=250&hash=DD38EB7EF78E66E56A493573497FB9EF
-  models: []
   products:
   - https://www.nordicsemi.com/Products/nPM1100
-  repositories: []
-name: nPM1100
-ref: nordicsemi/npm1100
-release_date: null
-sku: npm1100
-spec: null
-status: ''
-vendor: nordicsemi
+  images:
+  - https://www.nordicsemi.com/-/media/Images/Products/PMICs/nPM1100/nPM1100-wlCSP.png?h=250&iar=0&mh=250&w=250&hash=DD38EB7EF78E66E56A493573497FB9EF

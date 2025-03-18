@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: oshw-ghost
+ref: olimex/oshw-ghost
+vendor: olimex
+sku: oshw-ghost
+name: OSHW-GHOST
 description: ''
+status: ''
 extra:
   price1: 2.95 EUR
   price2: 2.80 EUR
   price3: 2.66 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Soldering-Kits/Beginner/OSHW-GHOST/images/thumbs/200x150/OSHW-GHOST.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Soldering-Kits/Beginner/OSHW-GHOST/open-source-hardware
-  repositories: []
-name: OSHW-GHOST
-ref: olimex/oshw-ghost
-release_date: null
-sku: oshw-ghost
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Soldering-Kits/Beginner/OSHW-GHOST/images/thumbs/200x150/OSHW-GHOST.jpg

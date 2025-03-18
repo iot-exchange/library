@@ -1,8 +1,11 @@
-alternatives: []
-certifications: []
+id: type-1bx
+ref: murata/type-1bx
+vendor: murata
+sku: type-1bx
+name: Type 1BX
 description: Bluetooth 4.2 BR/EDR/LE module for consumer and industrial equipment.
+status: ''
 extra:
-  Bluetooth: 4.2 BR/EDR/LE
   Chipset: CSR8811
   Dimension: 5.0 x 4.5 x 1.0 mm
   ETSI Report: 'No'
@@ -25,18 +28,8 @@ extra:
   Supply Voltage: 1.2V to 3.6V
   Technology: Bluetooth
   Transmit Mode Current (Bluetooth): 60mA @ 5 - 13dBm60mA @ 4 - 9dBm60mA @ -4 - 3dBm
+  Bluetooth: 4.2 BR/EDR/LE
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/products/connectivitymodule/bluetooth#series-lineup
-  repositories: []
-name: Type 1BX
-ref: murata/type-1bx
-release_date: null
-sku: type-1bx
-spec: null
-status: ''
-vendor: murata
+  images: []

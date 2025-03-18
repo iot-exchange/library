@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 0-91inch-oled-module
+ref: waveshare/0-91inch-oled-module
+vendor: waveshare
+sku: 0-91inch-oled-module
+name: 0.91inch OLED Module
 description: 128x32, General 0.91inch OLED display Module
+status: ''
 extra:
   Price: $6.31 - $6.99
   SKU: '14657'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/0/_/0.91inch-oled-module-4.jpg
-  models: []
   products:
   - https://www.waveshare.com/0.91inch-oled-module.htm
-  repositories: []
-name: 0.91inch OLED Module
-ref: waveshare/0-91inch-oled-module
-release_date: null
-sku: 0-91inch-oled-module
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/0/_/0.91inch-oled-module-4.jpg

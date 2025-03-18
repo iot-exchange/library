@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: nitrogen8m-mini-sbc
+ref: ezurio/nitrogen8m-mini-sbc
+vendor: ezurio
+sku: nitrogen8m-mini-sbc
+name: Nitrogen8M Mini SBC
 description: Active
+status: Active
 extra:
   Chipset (MCU): "x1 Cortex-M4F @ 400 MHz (via NXP\u2019s i.MX 8M Mini processor)"
   Chipset (MPU): "x4 Cortex-A53 @ 1.5 - 2.0 GHz (via NXP\u2019s i.MX 8M Mini processor)"
   Dimensions (L x W): 114.3 x 88.9
   Wireless Specification: Wi-Fi 5 (802.11ac) Bluetooth 5
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/Nitrogen8M_Mini_SBC-e1550333331743.png
-  models: []
   products:
   - https://www.ezurio.com/single-board-computer/nxp-imx8/nitrogen8m-mini-sbc
-  repositories: []
-name: Nitrogen8M Mini SBC
-ref: ezurio/nitrogen8m-mini-sbc
-release_date: null
-sku: nitrogen8m-mini-sbc
-spec: null
-status: Active
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/Nitrogen8M_Mini_SBC-e1550333331743.png

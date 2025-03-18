@@ -1,8 +1,12 @@
-alternatives: []
-certifications: []
+id: esp32-s2-solo-2u
+ref: espressif/esp32-s2-solo-2u
+vendor: espressif
+sku: esp32-s2-solo-2u
+name: ESP32-S2-SOLO-2U
 description: For flashing / testing ESP32-WROOM-32UE / ESP32-WROOM-32U / ESP32-S2-SOLO-U
   / ESP32-S2-SOLO-2U / ESP32-C6-WROOM-1U / ESP32-S3-WROOM-1U (must be used with ESP-BAT32
   for testing)
+status: ''
 extra:
   Antenna: IPEX antenna connector
   Chip Embedded: ESP32-S2ESP32-S2R2
@@ -14,18 +18,7 @@ extra:
   PSRAM (MB): N/A2
   Pins: '41'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP32-S2-SOLO-2U%20S.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp32-s2-solo-2_esp32-s2-solo-2u_datasheet_en.pdf
-  repositories: []
-name: ESP32-S2-SOLO-2U
-ref: espressif/esp32-s2-solo-2u
-release_date: null
-sku: esp32-s2-solo-2u
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-S2-SOLO-2U%20S.png

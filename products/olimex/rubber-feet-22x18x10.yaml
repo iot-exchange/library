@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rubber-feet-22x18x10
+ref: olimex/rubber-feet-22x18x10
+vendor: olimex
+sku: rubber-feet-22x18x10
+name: RUBBER-FEET-22X18X10
 description: ''
+status: ''
 extra:
   price1: 0.45 EUR
   price2: 0.41 EUR
   price3: 0.36 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Misc/RUBBER-FEET-22X18X10/images/thumbs/200x150/rubber-feet.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Misc/RUBBER-FEET-22X18X10/
-  repositories: []
-name: RUBBER-FEET-22X18X10
-ref: olimex/rubber-feet-22x18x10
-release_date: null
-sku: rubber-feet-22x18x10
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Misc/RUBBER-FEET-22X18X10/images/thumbs/200x150/rubber-feet.jpg

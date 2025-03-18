@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-6467
+ref: mikroe/mikroe-6467
+vendor: mikroe
+sku: mikroe-6467
+name: MIKROE-6467
 description: "Thermal Printer Head \u2013 7.2V (LTP02-245-13C) is a high-resolution\
   \ thermal line printer head from Seiko Printers that delivers precision and reliability\
   \ with 384 printable dots per line. Featuring a high-density print head of 8 dots/mm\
   \ and a maximum print speed of 100mm/s, it ensures clear, fast, and low-noise operation.\
   \ Its compact dimensions of..."
+status: ''
 extra:
   PID: MIKROE-6467
   Price: $29.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/thermal-printer-head-72v/thermal-printer-head-72v-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/thermal-printer-head-72v
-  repositories: []
-name: MIKROE-6467
-ref: mikroe/mikroe-6467
-release_date: null
-sku: mikroe-6467
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thermal-printer-head-72v/thermal-printer-head-72v-home_default-1.jpg?v=100

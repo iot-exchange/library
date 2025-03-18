@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: pg1302
+ref: dragino/pg1302
+vendor: dragino
+sku: pg1302
+name: PG1302
 description: Base on Semtech SX1302 solutionSupport Raspberry Pi 3B/3B+/4Up to -140dBm
   sensitivitySupport 3.3v and 5vMini-PCIe InterfaceConverter board to support Raspberry
   Pi
+status: ''
 extra:
   Sensitivity: Up to -140dBm
   Support: Raspberry Pi 3B/3B+/4
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/4147ca3af8bf81f64b5d738c371bfecb_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lora/item/223-pg1302.html
-  repositories: []
-name: PG1302
-ref: dragino/pg1302
-release_date: null
-sku: pg1302
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/4147ca3af8bf81f64b5d738c371bfecb_L.jpg

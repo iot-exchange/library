@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: miro-alarm
+ref: miromico/miro-alarm
+vendor: miromico
+sku: miro-alarm
+name: miro Alarm
 description: "Highly versatile, LoRaWAN\xAE-enabled device for remote audio-visual\
   \ feedback of events."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://miromico.ch/files/miromico/media-data/product_images/Notification/miro_Alarm/jpg/miro-Alarm-Airica_side_2500px.jpg
-  models: []
   products:
   - https://miromico.ch/en/products/details/miro-Alarm
-  repositories: []
-name: miro Alarm
-ref: miromico/miro-alarm
-release_date: null
-sku: miro-alarm
-spec: null
-status: ''
-vendor: miromico
+  images:
+  - https://miromico.ch/files/miromico/media-data/product_images/Notification/miro_Alarm/jpg/miro-Alarm-Airica_side_2500px.jpg

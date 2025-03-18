@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: rm520n-gl
+ref: waveshare/rm520n-gl
+vendor: waveshare
+sku: rm520n-gl
+name: RM520N-GL
 description: Quectel RM520N-GL IoT 5G Global Band Module, 5G Sub-6G Module, M.2 Form
   Factor With 3GPP 5G Release 16 Specification
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/m/rm520n-gl-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rm520n-gl.htm
-  repositories: []
-name: RM520N-GL
-ref: waveshare/rm520n-gl
-release_date: null
-sku: rm520n-gl
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/m/rm520n-gl-1.jpg

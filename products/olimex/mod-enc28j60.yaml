@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-enc28j60
+ref: olimex/mod-enc28j60
+vendor: olimex
+sku: mod-enc28j60
+name: MOD-ENC28J60
 description: ''
+status: ''
 extra:
   bulkPrice: 11.66 EUR
   discountedPrice: 12.30 EUR
   price: 12.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Ethernet/MOD-ENC28J60/images/thumbs/200x150/MOD-ENC28J60-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Ethernet/MOD-ENC28J60/
-  repositories: []
-name: MOD-ENC28J60
-ref: olimex/mod-enc28j60
-release_date: null
-sku: mod-enc28j60
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Ethernet/MOD-ENC28J60/images/thumbs/200x150/MOD-ENC28J60-01.jpg

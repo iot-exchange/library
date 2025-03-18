@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5721
+ref: mikroe/mikroe-5721
+vendor: mikroe
+sku: mikroe-5721
+name: MIKROE-5721
 description: "Headphone AMP 3 Click is a compact add-on board that contains a stereo\
   \ headphone amplifier. This board features the INA1620, a high-fidelity audio operational\
   \ amplifier with integrated thin-film resistors and EMI filters from Texas Instruments.\
   \ Over its dual amplifiers, it achieves a very low noise density and drives a 32\u03A9\
   \ load at 150mW of output power...."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/headphone-amp-3-click/headphone-amp-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/headphone-amp-3-click
-  repositories: []
-name: MIKROE-5721
-ref: mikroe/mikroe-5721
-release_date: null
-sku: mikroe-5721
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/headphone-amp-3-click/headphone-amp-3-click-home_default-1.jpg?v=100

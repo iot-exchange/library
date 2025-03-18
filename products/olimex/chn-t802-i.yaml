@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: chn-t802-i
+ref: olimex/chn-t802-i
+vendor: olimex
+sku: chn-t802-i
+name: CHN-T802-I
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Soldering/CHN-T802-I/images/thumbs/200x150/CHN-T802-I.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Soldering/CHN-T802-I/
-  repositories: []
-name: CHN-T802-I
-ref: olimex/chn-t802-i
-release_date: null
-sku: chn-t802-i
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/CHN-T802-I/images/thumbs/200x150/CHN-T802-I.jpg

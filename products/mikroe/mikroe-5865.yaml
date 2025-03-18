@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5865
+ref: mikroe/mikroe-5865
+vendor: mikroe
+sku: mikroe-5865
+name: MIKROE-5865
 description: Brushless 11 Click is a compact add-on board that controls brushless
   DC motors with any MCU. This board features the A4931, a 3-phase brushless DC motor
   pre-driver from Allegro Microsystems. It drives six onboard N-channel power MOSFETs
   and supplies the motor with 8V up to 30V voltages. This pre-driver offers enable,
   direction, and brake inputs that can...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/brushless-11-click/brushless-11-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/brushless-11-click
-  repositories: []
-name: MIKROE-5865
-ref: mikroe/mikroe-5865
-release_date: null
-sku: mikroe-5865
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/brushless-11-click/brushless-11-click-home_default-1.jpg?v=100

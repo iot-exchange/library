@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pico-lcd-2
+ref: waveshare/pico-lcd-2
+vendor: waveshare
+sku: pico-lcd-2
+name: Pico-LCD-2
 description: "2inch LCD Display Module for Raspberry Pi Pico, 65K Colors, 320\xD7\
   240, SPI"
+status: ''
 extra:
   Price: $13.31 - $13.99
   SKU: '19888'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-lcd-2-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pico-lcd-2.htm
-  repositories: []
-name: Pico-LCD-2
-ref: waveshare/pico-lcd-2
-release_date: null
-sku: pico-lcd-2
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-lcd-2-1.jpg

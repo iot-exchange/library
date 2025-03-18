@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-4313
+ref: mikroe/mikroe-4313
+vendor: mikroe
+sku: mikroe-4313
+name: MIKROE-4313
 description: Mikromedia 3 for STM32F2 CAPACITIVE FPI with frame is not limited to
   multimedia-based applications only. USB, digital motion sensor, battery charging
   functionality, SD card reader and much...
+status: ''
 extra:
   Price: $219.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mikromedia-3-for-stm32f2-capacitive-fpi-with-frame/mikromedia-3-for-stm32f2-capacitive-fpi-with-frame-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mikromedia-3-for-stm32f2-capacitive-fpi-with-frame
-  repositories: []
-name: MIKROE-4313
-ref: mikroe/mikroe-4313
-release_date: null
-sku: mikroe-4313
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-3-for-stm32f2-capacitive-fpi-with-frame/mikromedia-3-for-stm32f2-capacitive-fpi-with-frame-home_default-1.jpg?v=100

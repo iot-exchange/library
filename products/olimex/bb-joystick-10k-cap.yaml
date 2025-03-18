@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bb-joystick-10k-cap
+ref: olimex/bb-joystick-10k-cap
+vendor: olimex
+sku: bb-joystick-10k-cap
+name: BB-JOYSTICK-10K-CAP
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Breadboarding/BB-JOYSTICK-10K-CAP/images/thumbs/200x150/BB-JOYSTICK-10K-CAP.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Breadboarding/BB-JOYSTICK-10K-CAP/
-  repositories: []
-name: BB-JOYSTICK-10K-CAP
-ref: olimex/bb-joystick-10k-cap
-release_date: null
-sku: bb-joystick-10k-cap
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Breadboarding/BB-JOYSTICK-10K-CAP/images/thumbs/200x150/BB-JOYSTICK-10K-CAP.jpg

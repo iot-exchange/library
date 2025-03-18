@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4237
+ref: mikroe/mikroe-4237
+vendor: mikroe
+sku: mikroe-4237
+name: MIKROE-4237
 description: 6DOF IMU 14 Click is a compact add-on board that contains a 6-axis MEMS
   motion tracking device combining a 3-axis gyroscope and a 3-axis accelerometer.
   This board features the ICM-42688-P, high precision 6-axis MEMS motion tracking
   device, from TDK InvenSense. It has a configurable host interface that supports
   both I2C and SPI serial communication,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/6dof-imu-14-click/6dof-imu-14-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/6dof-imu-14-click
-  repositories: []
-name: MIKROE-4237
-ref: mikroe/mikroe-4237
-release_date: null
-sku: mikroe-4237
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/6dof-imu-14-click/6dof-imu-14-click-home_default-1.jpg?v=100

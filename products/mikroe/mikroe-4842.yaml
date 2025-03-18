@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4842
+ref: mikroe/mikroe-4842
+vendor: mikroe
+sku: mikroe-4842
+name: MIKROE-4842
 description: NFC 4 Click is a compact add-on board that contains an NFC transceiver
   for contactless communication. This board features the ST25R3916, a multi-purpose
   NFC transceiver supporting passive peer-to-peer functionality and NFC card-emulation
   mode, as well as NFC reader operation from STMicroelectronics. It features high
   RF output power to directly drive an...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/nfc-4-click/nfc-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/nfc-4-click
-  repositories: []
-name: MIKROE-4842
-ref: mikroe/mikroe-4842
-release_date: null
-sku: mikroe-4842
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/nfc-4-click/nfc-4-click-home_default-1.jpg?v=100

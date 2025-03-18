@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 0-96inch-oled-a
+ref: waveshare/0-96inch-oled-a
+vendor: waveshare
+sku: 0-96inch-oled-a
+name: 0.96inch OLED (A)
 description: Part No.:0.96inch OLED (A)
+status: ''
 extra:
-  Price: $6.59 - $7.99
   SKU: '9085'
+  Price: $6.59 - $7.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/0/_/0.96inch-oled-a_l_1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/0.96inch-oled-a.htm
-  repositories: []
-name: 0.96inch OLED (A)
-ref: waveshare/0-96inch-oled-a
-release_date: null
-sku: 0-96inch-oled-a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/0/_/0.96inch-oled-a_l_1_2.jpg

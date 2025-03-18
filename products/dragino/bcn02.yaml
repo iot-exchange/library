@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: bcn02
+ref: dragino/bcn02
+vendor: dragino
+sku: bcn02
+name: BCN02
 description: Bluetooth BLE iBeacon4~5 year battery life(Default 500ms Interval)Distance,100meters
   in open area
+status: ''
 extra:
   Battery Life: 4~5 years
   Distance: 100 meters in open area
   Technology: Bluetooth BLE
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/258ee2700b8562b5d51ebf2117179b3d_L.jpg
-  models: []
   products:
   - https://dragino.com/products/tracker/item/243-bcn02.html
-  repositories: []
-name: BCN02
-ref: dragino/bcn02
-release_date: null
-sku: bcn02
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/258ee2700b8562b5d51ebf2117179b3d_L.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pic32-mx460
+ref: olimex/pic32-mx460
+vendor: olimex
+sku: pic32-mx460
+name: PIC32-MX460
 description: ''
+status: ''
 extra:
   discountedPrice1: 32.25 EUR
   discountedPrice2: 30.56 EUR
   price: 33.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/PIC/Development/PIC32-MX460/images/thumbs/200x150/PIC32-MX460-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/PIC/Development/PIC32-MX460/
-  repositories: []
-name: PIC32-MX460
-ref: olimex/pic32-mx460
-release_date: null
-sku: pic32-mx460
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/PIC/Development/PIC32-MX460/images/thumbs/200x150/PIC32-MX460-1.jpg

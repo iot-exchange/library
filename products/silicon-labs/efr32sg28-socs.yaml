@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: efr32sg28-socs
+ref: silicon-labs/efr32sg28-socs
+vendor: silicon-labs
+sku: efr32sg28-socs
+name: EFR32SG28 SoCs
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/wireless/amazon-sidewalk/efr32sg28-dual-band-wireless-socs
-  repositories: []
-name: EFR32SG28 SoCs
-ref: silicon-labs/efr32sg28-socs
-release_date: null
-sku: efr32sg28-socs
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

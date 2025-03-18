@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5783
+ref: mikroe/mikroe-5783
+vendor: mikroe
+sku: mikroe-5783
+name: MIKROE-5783
 description: Nano Power 3 Click is a compact add-on board that steps down voltages
   from its input (supply) to output (load). This board features the RPL-3.0-R, a buck
   converter with an integrated inductor from Recom Power. This thermally-enhanced
   converter uses, as input, voltage from 4 up to 18VDC, thus allowing 5V and 12V supply
   rails to be used.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/nano-power-3-click/nano-power-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/nano-power-3-click
-  repositories: []
-name: MIKROE-5783
-ref: mikroe/mikroe-5783
-release_date: null
-sku: mikroe-5783
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/nano-power-3-click/nano-power-3-click-home_default-1.jpg?v=100

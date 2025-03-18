@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: exp-adapter-board
+ref: silicon-labs/exp-adapter-board
+vendor: silicon-labs
+sku: exp-adapter-board
+name: EXP Adapter Board
 description: The EXP Adapter Board for Co-Processor Radio Boards is an excellent way
   to explore and evaluate SiWx917 and EFR32 Co-Processor Radio Boards with various
   host devices using either SPI or SDIO interfaces.
+status: ''
 extra:
   MSRP: $55.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/wifi/siwx917-wireless-socs/si-eb8045a-expansion-board.png
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/wi-fi/expansion-adapter-board-for-co-processor-radio-boards
-  repositories: []
-name: EXP Adapter Board
-ref: silicon-labs/exp-adapter-board
-release_date: null
-sku: exp-adapter-board
-spec: null
-status: ''
-vendor: silicon-labs
+  images:
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/wifi/siwx917-wireless-socs/si-eb8045a-expansion-board.png

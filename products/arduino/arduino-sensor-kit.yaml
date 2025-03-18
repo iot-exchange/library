@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: arduino-sensor-kit
+ref: arduino/arduino-sensor-kit
+vendor: arduino
+sku: arduino-sensor-kit
+name: Arduino Sensor Kit
 description: Includes a variety of sensors and actuators.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.arduino.cc/wiki/static/a6cde94e6d1c0c14a7a7d25d767e6d54/4b190/sensor-kit.jpg
-  models: []
   products:
   - https://store.arduino.cc/products/arduino-sensor-kit-base
-  repositories: []
-name: Arduino Sensor Kit
-ref: arduino/arduino-sensor-kit
-release_date: null
-sku: arduino-sensor-kit
-spec: null
-status: ''
-vendor: arduino
+  images:
+  - https://www.arduino.cc/wiki/static/a6cde94e6d1c0c14a7a7d25d767e6d54/4b190/sensor-kit.jpg

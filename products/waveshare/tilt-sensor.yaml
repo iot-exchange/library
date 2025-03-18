@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: tilt-sensor
+ref: waveshare/tilt-sensor
+vendor: waveshare
+sku: tilt-sensor
+name: Tilt Sensor
 description: Tilt Sensor
+status: ''
 extra:
   Price: $2.79 - $3.29
   SKU: '9536'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/i/tilt-sensor_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/tilt-sensor.htm
-  repositories: []
-name: Tilt Sensor
-ref: waveshare/tilt-sensor
-release_date: null
-sku: tilt-sensor
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/i/tilt-sensor_l_1_5.jpg

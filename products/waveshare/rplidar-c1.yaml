@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rplidar-c1
+ref: waveshare/rplidar-c1
+vendor: waveshare
+sku: rplidar-c1
+name: RPLIDAR C1
 description: "Slamtec RPLIDAR C1 Laser Ranging Sensor, 360\xB0 Omnidirectional Lidar,\
   \ Millimeter-Level High Definition, Anti-Interference And Anti-Adhesion"
+status: ''
 extra:
   Price: $77.95 - $79.99
   SKU: '26535'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rplidar-c1-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rplidar-c1.htm
-  repositories: []
-name: RPLIDAR C1
-ref: waveshare/rplidar-c1
-release_date: null
-sku: rplidar-c1
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rplidar-c1-1.jpg

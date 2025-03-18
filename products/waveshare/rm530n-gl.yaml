@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: rm530n-gl
+ref: waveshare/rm530n-gl
+vendor: waveshare
+sku: rm530n-gl
+name: RM530N-GL
 description: Quectel RM530N-GL IoT 5G Global Band Module, 5G Sub-6G & mmWave Module,
   M.2 Form Factor With 3GPP 5G Release 16 Specification
+status: ''
 extra:
   Price: $276.59  -  $279.99
   SKU: '25926'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/rm530n-gl.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/m/rm530n-gl-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/m/rm530n-gl-2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/rm530n-gl.htm
-  repositories: []
-name: RM530N-GL
-ref: waveshare/rm530n-gl
-release_date: null
-sku: rm530n-gl
-spec: null
-status: ''
-vendor: waveshare

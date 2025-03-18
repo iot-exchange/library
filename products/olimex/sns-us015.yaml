@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sns-us015
+ref: olimex/sns-us015
+vendor: olimex
+sku: sns-us015
+name: SNS-US015
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Sensors/Distance/SNS-US015/images/thumbs/200x150/SNS-US020-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Sensors/Distance/SNS-US015/
-  repositories: []
-name: SNS-US015
-ref: olimex/sns-us015
-release_date: null
-sku: sns-us015
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/Distance/SNS-US015/images/thumbs/200x150/SNS-US020-1.jpg

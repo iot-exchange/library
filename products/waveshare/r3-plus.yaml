@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: r3-plus
+ref: waveshare/r3-plus
+vendor: waveshare
+sku: r3-plus
+name: r3_plus
 description: ATMEGA328P Microcontroller Development Board, Arduino-Compatible
+status: ''
 extra:
-  Multi Options: ''
   Price: $14.99 - $64.99
+  Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/3/r3-plus-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/r3-plus.htm
   - https://www.waveshare.com/product/r3-plus.htm "ATMEGA328P Microcontroller Development
     Board, Arduino-Compatible"
-  repositories: []
-name: r3_plus
-ref: waveshare/r3-plus
-release_date: null
-sku: r3-plus
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/3/r3-plus-1.jpg

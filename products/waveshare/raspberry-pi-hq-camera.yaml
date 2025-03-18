@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-hq-camera
+ref: waveshare/raspberry-pi-hq-camera
+vendor: waveshare
+sku: raspberry-pi-hq-camera
+name: Raspberry Pi HQ Camera
 description: Raspberry Pi High Quality Camera, 12.3MP IMX477 Sensor, Supports C /
   CS Lenses
+status: ''
 extra:
   Price: $59.31 - $59.99
   SKU: '18038'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-hq-camera-1_4.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-hq-camera-2_4.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/raspberry-pi-hq-camera.htm
   - https://www.waveshare.com/product/raspberry-pi-hq-camera.htm "Raspberry Pi High
     Quality Camera, 12.3MP IMX477 Sensor, Supports C / CS Lenses"
-  repositories: []
-name: Raspberry Pi HQ Camera
-ref: waveshare/raspberry-pi-hq-camera
-release_date: null
-sku: raspberry-pi-hq-camera
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-hq-camera-1_4.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-hq-camera-2_4.jpg

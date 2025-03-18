@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5518
+ref: mikroe/mikroe-5518
+vendor: mikroe
+sku: mikroe-5518
+name: MIKROE-5518
 description: Battery Holder for CR2032 represents a unique battery holder (SN2032)
   that allows you to maintain good contact with the battery and facilitates simple
   replacement. This battery holder is suitable for a non-rechargeable (primary) coin-cell
   battery, CR2032 lithium coin cell battery (20mm diameter x 3.2mm thickness). The
   SN2032 comes with three mounting pads...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/battery-holder-cr2032/battery-holder-cr2032-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/battery-holder-cr2032
-  repositories: []
-name: MIKROE-5518
-ref: mikroe/mikroe-5518
-release_date: null
-sku: mikroe-5518
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/battery-holder-cr2032/battery-holder-cr2032-home_default-1.jpg?v=100

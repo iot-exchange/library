@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: adrastea-i
+ref: we/adrastea-i
+vendor: we
+sku: adrastea-i
+name: Adrastea-I
 description: EXTENDED LTE-M / NB-IoT Cellular Module
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o684493v214%20Single_Adrastea-I_2615011136000.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/ADRASTEA-I
-  repositories: []
-name: Adrastea-I
-ref: we/adrastea-i
-release_date: null
-sku: adrastea-i
-spec: null
-status: ''
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o684493v214%20Single_Adrastea-I_2615011136000.jpg

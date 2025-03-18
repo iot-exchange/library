@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6032
+ref: mikroe/mikroe-6032
+vendor: mikroe
+sku: mikroe-6032
+name: MIKROE-6032
 description: USB Type C Female to Mini USB Adapter represents a high-speed type C
   connector that converts the USB-C head data into the mini 2.0 USB data. It has a
   data transfer rate of up to 480Mbps and supports high-power charging and quick data
   transfer alongside a reversible plug orientation and cable direction. Based on its
   compact design and dimensions, 28 x 11 x...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/adapter-usb-c-female-to-usb-mini-male/adapter-usb-c-female-to-usb-mini-male-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/adapter-usb-c-female-to-usb-mini-male
-  repositories: []
-name: MIKROE-6032
-ref: mikroe/mikroe-6032
-release_date: null
-sku: mikroe-6032
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/adapter-usb-c-female-to-usb-mini-male/adapter-usb-c-female-to-usb-mini-male-home_default-1.jpg?v=100

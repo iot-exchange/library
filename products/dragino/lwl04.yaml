@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lwl04
+ref: dragino/lwl04
+vendor: dragino
+sku: lwl04
+name: LWL04
 description: 'LoRaWAN Class A v1.0.3Frequency Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865/RU864Water
   Leak detectIP65 waterproofUplink on periodically and water leak eventSupport wireless
   OTA update firmwareCR123A 1500mAh Battery'
+status: ''
 extra:
   Catalog: Door/Open-Close/Dry-Contact/Water-Leak
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/fe4bbe81600a40063594e597e00eb05b_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lorawan-nb-iot-door-sensor-water-leak/item/344-lwl04.html
-  repositories: []
-name: LWL04
-ref: dragino/lwl04
-release_date: null
-sku: lwl04
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/fe4bbe81600a40063594e597e00eb05b_L.jpg

@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-4817
+ref: mikroe/mikroe-4817
+vendor: mikroe
+sku: mikroe-4817
+name: MIKROE-4817
 description: "PROFET Click is a compact add-on board that contains a smart high-side\
   \ power switch. This board features the BTS7008-1EPA, a single-channel, high-side\
   \ power switch with embedded protection and diagnosis feature from Infineon Technologies.\
   \ This switch has a driving capability suitable for 10A loads featuring a ReverSave\u2122\
   , which causes the power transistor..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/profet-click-10a/profet-click-10a-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=3189
   - https://www.mikroe.com/shop?p=72#PROFETClick-10A
-  repositories: []
-name: MIKROE-4817
-ref: mikroe/mikroe-4817
-release_date: null
-sku: mikroe-4817
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/profet-click-10a/profet-click-10a-home_default-1.jpg?v=100

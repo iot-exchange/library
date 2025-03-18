@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: cm4-poe-ups
+ref: waveshare/cm4-poe-ups
+vendor: waveshare
+sku: cm4-poe-ups
+name: cm4_poe_ups
 description: PoE UPS Base Board/Mini-Computer Designed for Raspberry Pi Compute Module
   4, Gigabit Ethernet, Dual HDMI, Quad USB2.0
+status: ''
 extra:
   Multi Options: ''
   multiOptions: Multi Options
   price: $60.99 -  $73.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/cm4-poe-ups-base-en.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-poe-ups-base-2.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-poe-ups-base-3.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/cm4-poe-ups-base-en.htm
-  repositories: []
-name: cm4_poe_ups
-ref: waveshare/cm4-poe-ups
-release_date: null
-sku: cm4-poe-ups
-spec: null
-status: ''
-vendor: waveshare

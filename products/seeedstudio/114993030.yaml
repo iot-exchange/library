@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '114993030'
+ref: seeedstudio/114993030
+vendor: seeedstudio
+sku: '114993030'
+name: '114993030'
 description: 'This camera sensor is all-model-Raspberry Pi-compatible, designed to
   M12 mount lenses. It offers 12.3-Megapixel black-illuminated with stacked Sony IMX477R
   sensor. It is well suited to industrial and consumer applications. Limited time
   special offer 11th Jun ~ 15th Jun!Daily Limit: one pc per order'
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993030-raspberry-pi-camera-3-wide-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-Camera-3-Wide-p-5576.html
   - https://www.seeedstudio.com/Raspberry-Pi-HQ-Camera-M12-mount-p-5578.html
-  repositories: []
-name: '114993030'
-ref: seeedstudio/114993030
-release_date: null
-sku: '114993030'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993030-raspberry-pi-camera-3-wide-45font.jpg

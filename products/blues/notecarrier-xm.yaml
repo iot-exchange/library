@@ -1,0 +1,16 @@
+id: notecarrier-xm
+ref: blues/notecarrier-xm
+vendor: blues
+sku: notecarrier-xm
+name: Notecarrier XM
+description: The Notecarrier XM is our most minimal Notecard, containing essential
+  circuitry for the Notecard and a USB port for USB Serial access to the Notecard.
+  The Notecarrier XM was designed as a low-cost companion to the Notecard LoRa and
+  Notecard WiFi, though it can be used with any Notecard.
+status: ''
+extra: {}
+links:
+  products:
+  - https://blues.com/notecarrier-series-x/
+  images:
+  - https://blues.com/wp-content/uploads/2024/09/XM_1.2_Front_720x-1-e1740670658233.webp

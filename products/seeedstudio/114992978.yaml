@@ -1,27 +1,20 @@
-alternatives: []
-certifications: []
+id: '114992978'
+ref: seeedstudio/114992978
+vendor: seeedstudio
+sku: '114992978'
+name: '114992978'
 description: This Grove - CAN BUS Module based on GD32E103 adopts a brand-new design,
   uses the cost-effective and high-performance GD32E103 microcontroller as the main
   control and cooperates with a firmware we wrote to complete the function of the
   serial port to CAN FD.
+status: ''
 extra:
   Price: $4.90
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/Grove-CAN-BUS-Module-based-on-GD32E103-p-114992978.html
+  - https://www.seeedstudio.com/Ochin-Tiny-Carrier-Board-for-Raspberry-Pi-Compute-Module-4-p-5463.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-103110163-ochin-tiny-carrier-board-for-raspberry-pi-compute-module-4-45font_3_1_1.jpg
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992978_front-05.jpg
   - https://www.seeedstudio.com/img/z
-  models: []
-  products:
-  - https://www.seeedstudio.com/Grove-CAN-BUS-Module-based-on-GD32E103-p-114992978.html
-  - https://www.seeedstudio.com/Ochin-Tiny-Carrier-Board-for-Raspberry-Pi-Compute-Module-4-p-5463.html
-  repositories: []
-name: '114992978'
-ref: seeedstudio/114992978
-release_date: null
-sku: '114992978'
-spec: null
-status: ''
-vendor: seeedstudio

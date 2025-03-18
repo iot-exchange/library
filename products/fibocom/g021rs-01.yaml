@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: g021rs-01
+ref: fibocom/g021rs-01
+vendor: fibocom
+sku: g021rs-01
+name: G021RS-01
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/GNSS-G021RS-01.html
-  repositories: []
-name: G021RS-01
-ref: fibocom/g021rs-01
-release_date: null
-sku: g021rs-01
-spec: null
-status: ''
-vendor: fibocom
+  images: []

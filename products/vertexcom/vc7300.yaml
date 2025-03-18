@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: vc7300
+ref: vertexcom/vc7300
+vendor: vertexcom
+sku: vc7300
+name: VC7300
 description: VC7300 (compliant to Wi-SUN FAN1.0) supports large-scale industrial IoT
   applications such as smart metering.
+status: ''
 extra:
   Body Size(mm): 9x9
   Flash: 512 KB
   Package: QFN-64
   RAM: 128 KB
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: VC7300
-ref: vertexcom/vc7300
-release_date: null
-sku: vc7300
-spec: null
-status: ''
-vendor: vertexcom
+  images: []

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '114992774'
+ref: seeedstudio/114992774
+vendor: seeedstudio
+sku: '114992774'
+name: '114992774'
 description: Applications Kit ML101 - tinyML Starter Kit with Prof. Vijay
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992774_all-04_all-04.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Wio-Terminal-Getting-Started-with-TinyML-Kit-p-5324.html
-  repositories: []
-name: '114992774'
-ref: seeedstudio/114992774
-release_date: null
-sku: '114992774'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992774_all-04_all-04.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: veda-sl917
+ref: ezurio/veda-sl917
+vendor: ezurio
+sku: veda-sl917
+name: Veda SL917
 description: Wi-Fi 6 + Bluetooth Module
+status: ''
 extra:
   Category: Professional Wi-Fi
   Chipset: SiLabs SiWx917
   Wi-Fi: Simplicity
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/Hero%20Shot%20-%2050%20Series%20SDIO.png
-  models: []
   products:
   - https://www.ezurio.com/product/veda-sl917-wi-fi-6-bluetooth-le-5-4-module
-  repositories: []
-name: Veda SL917
-ref: ezurio/veda-sl917
-release_date: null
-sku: veda-sl917
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/Hero%20Shot%20-%2050%20Series%20SDIO.png

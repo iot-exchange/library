@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pcb-holder-6
+ref: olimex/pcb-holder-6
+vendor: olimex
+sku: pcb-holder-6
+name: PCB-HOLDER-6
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/PCB-Holders/PCB-Holder-6/images/thumbs/200x150/PCB-HOLDER6.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/PCB-Holders/PCB-HOLDER-6/
-  repositories: []
-name: PCB-HOLDER-6
-ref: olimex/pcb-holder-6
-release_date: null
-sku: pcb-holder-6
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/PCB-Holders/PCB-Holder-6/images/thumbs/200x150/PCB-HOLDER6.jpg

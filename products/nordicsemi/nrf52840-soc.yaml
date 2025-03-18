@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: nrf52840-soc
+ref: nordicsemi/nrf52840-soc
+vendor: nordicsemi
+sku: nrf52840-soc
+name: nRF52840 SoC
 description: Bluetooth 5.4 SoC supporting Bluetooth Low Energy, Bluetooth mesh, NFC,
   Thread and Zigbee
+status: ''
 extra:
   ADC: 12-bit ADC
   CPU: 64 MHz Arm Cortex-M4 with FPU
@@ -12,18 +16,7 @@ extra:
   TX Power: +8 dBm
   USB: USB 2.0
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52840-aQFN73-front-and-back-7x7-stacked_web.png?h=250&iar=0&mh=250&w=247&hash=AA4A40DB557E522CB30137F226AFB5C2
-  models: []
   products:
   - https://www.nordicsemi.com/Products/nRF52840
-  repositories: []
-name: nRF52840 SoC
-ref: nordicsemi/nrf52840-soc
-release_date: null
-sku: nrf52840-soc
-spec: null
-status: ''
-vendor: nordicsemi
+  images:
+  - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52840-aQFN73-front-and-back-7x7-stacked_web.png?h=250&iar=0&mh=250&w=247&hash=AA4A40DB557E522CB30137F226AFB5C2

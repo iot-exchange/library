@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-3709
+ref: mikroe/mikroe-3709
+vendor: mikroe
+sku: mikroe-3709
+name: MIKROE-3709
 description: Step Up Click is a fixed frequency DC-DC step-up (boost) regulator, which
   can be obtained from any low voltage input - such as NiCd, NiMH or one cell Li-Po/Li-Ion
   batteries.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/step-up-click/step-up-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=125#MIKROE-3709
-  repositories: []
-name: MIKROE-3709
-ref: mikroe/mikroe-3709
-release_date: null
-sku: mikroe-3709
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/step-up-click/step-up-click-home_default-1.jpg?v=100

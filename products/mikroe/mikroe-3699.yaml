@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-3699
+ref: mikroe/mikroe-3699
+vendor: mikroe
+sku: mikroe-3699
+name: MIKROE-3699
 description: "Secure 6 Click includes the ATSHA204A, a secure CryptoAuthentication\u2122\
   \ device from Microchip, which is equipped with an EEPROM array which can be used\
   \ for storing of up to 16 keys."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/secure-6-click/secure-6-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=125#MIKROE-3699
-  repositories: []
-name: MIKROE-3699
-ref: mikroe/mikroe-3699
-release_date: null
-sku: mikroe-3699
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/secure-6-click/secure-6-click-home_default-1.jpg?v=100

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: d500-lidar-kit
+ref: waveshare/d500-lidar-kit
+vendor: waveshare
+sku: d500-lidar-kit
+name: D500 LiDAR Kit
 description: "D500 Developer Kit, DTOF Laser Ranging Sensor, 360\xB0 Omni-Directional\
   \ Lidar, UART Bus"
+status: ''
 extra:
   Price: $93.25  -  $95.99
   SKU: '25978'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/5/d500-lidar-kit-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/d500-lidar-kit.htm
-  repositories: []
-name: D500 LiDAR Kit
-ref: waveshare/d500-lidar-kit
-release_date: null
-sku: d500-lidar-kit
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/5/d500-lidar-kit-1.jpg

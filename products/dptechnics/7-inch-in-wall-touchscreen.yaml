@@ -1,0 +1,20 @@
+id: 7-inch-in-wall-touchscreen
+ref: dptechnics/7-inch-in-wall-touchscreen
+vendor: dptechnics
+sku: 7-inch-in-wall-touchscreen
+name: 7-inch-in-wall-touchscreen
+description: The 7" in-wall android touchscreen is perfect for displaying the HTML5
+  application which runs on an IoT-modem. No more bulky and unhandy tablet mounts
+  but a beautifully finished OEM in-wall solution.
+status: ''
+extra:
+  Brightness: "350cd/m\xB2"
+  Display: IPS LCD
+  Mount Options: in-wall, on-wall, tabletop
+  PoE Support: IEEE802.3af
+  Processor: Allwinner A20
+  Resolution: 1024x600
+links:
+  products: []
+  images:
+  - https://www.dptechnics.com/images/product/touchscreen7.jpg

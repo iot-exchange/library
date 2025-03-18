@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: t2-som204-1g-i
+ref: olimex/t2-som204-1g-i
+vendor: olimex
+sku: t2-som204-1g-i
+name: T2-SOM204-1G-I
 description: ''
+status: ''
 extra:
   discountedPrices:
   - 37.24 EUR
@@ -9,18 +13,7 @@ extra:
   - 34.96 EUR
   price: 38.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/SOM204/A20/A20-SOM204/images/thumbs/200x150/A20-SOM204-T.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/SOM204/A20/T2-SOM204-1G-I/
-  repositories: []
-name: T2-SOM204-1G-I
-ref: olimex/t2-som204-1g-i
-release_date: null
-sku: t2-som204-1g-i
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/SOM204/A20/A20-SOM204/images/thumbs/200x150/A20-SOM204-T.jpg

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: hl7845
+ref: sierrawireless/hl7845
+vendor: sierrawireless
+sku: hl7845
+name: HL7845
 description: "Release 14 Cat-M1 / Cat-NB2\u200B"
+status: ''
 extra:
   Bands: 'LTE: B1, B3, B5, B8, B20, B31, B72, B87, B88'
   Fallback: '-'
   Region (Carrier): Europe
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.sierrawireless.com/iot-modules/lpwa-modules/hl7845
-  repositories: []
-name: HL7845
-ref: sierrawireless/hl7845
-release_date: null
-sku: hl7845
-spec: null
-status: ''
-vendor: sierrawireless
+  images: []

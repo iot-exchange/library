@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: samsung-hanwa-j7155187d-guide
+ref: olimex/samsung-hanwa-j7155187d-guide
+vendor: olimex
+sku: samsung-hanwa-j7155187d-guide
+name: SAMSUNG-HANWA-J7155187D-GUIDE
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/SMT/SAMSUNG-HANWA-J7155187D-GUIDE/images/thumbs/200x150/guide.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/SMT/SAMSUNG-HANWA-J7155187D-GUIDE/
-  repositories: []
-name: SAMSUNG-HANWA-J7155187D-GUIDE
-ref: olimex/samsung-hanwa-j7155187d-guide
-release_date: null
-sku: samsung-hanwa-j7155187d-guide
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/SMT/SAMSUNG-HANWA-J7155187D-GUIDE/images/thumbs/200x150/guide.jpg

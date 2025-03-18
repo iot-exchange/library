@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '2609039281061'
+ref: we/2609039281061
+vendor: we
+sku: '2609039281061'
+name: '2609039281061'
 description: EV-Kit Thebe-II-IN
+status: New
 extra:
   Expected lifetime: '>10 years'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/THEBE-II_IN#2609039281061
-  repositories: []
-name: '2609039281061'
-ref: we/2609039281061
-release_date: null
-sku: '2609039281061'
-spec: null
-status: New
-vendor: we
+  images: []

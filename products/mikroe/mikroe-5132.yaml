@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5132
+ref: mikroe/mikroe-5132
+vendor: mikroe
+sku: mikroe-5132
+name: MIKROE-5132
 description: ADC 18 Click is a compact add-on board that contains a high-performance
   data converter. This board features the MAX22005, an SPI-configurable twelve-channel
   24-bit analog-to-digital converter (ADC) from Analog Devices. Input channels can
   be used as twelve single-ended, six differential, and up to eight multichannel configurable
   differential inputs. In...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/adc-18-click/adc-18-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/adc-18-click
-  repositories: []
-name: MIKROE-5132
-ref: mikroe/mikroe-5132
-release_date: null
-sku: mikroe-5132
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/adc-18-click/adc-18-click-home_default-1.jpg?v=100

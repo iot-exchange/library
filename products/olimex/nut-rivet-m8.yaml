@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: nut-rivet-m8
+ref: olimex/nut-rivet-m8
+vendor: olimex
+sku: nut-rivet-m8
+name: NUT-RIVET-M8
 description: Pack of 10 pcs
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Fasteners/NUT-RIVET-M8/images/thumbs/200x150/NUT-RIVET-M8-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Fasteners/NUT-RIVET-M8/
-  repositories: []
-name: NUT-RIVET-M8
-ref: olimex/nut-rivet-m8
-release_date: null
-sku: nut-rivet-m8
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Fasteners/NUT-RIVET-M8/images/thumbs/200x150/NUT-RIVET-M8-1.jpg

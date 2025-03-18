@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '110061127'
+ref: seeedstudio/110061127
+vendor: seeedstudio
+sku: '110061127'
+name: '110061127'
 description: Seeed Studio - Grove Beginner Kit - Raspberry Pi 4B - 4GB The Raspberry
   Pi's Grove Base Kit is one of the best kits for beginners to get started with the
   Raspberry Pi. Can you use it for basic function learning, illuminate LEDs, make
   traffic lights, design IOT projects and so on modules.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/2/0/20190919141615.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-4B-Beginner-Kit-4GB-p-4266.html
-  repositories: []
-name: '110061127'
-ref: seeedstudio/110061127
-release_date: null
-sku: '110061127'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/2/0/20190919141615.jpg

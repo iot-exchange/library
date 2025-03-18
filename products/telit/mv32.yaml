@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: mv32
+ref: telit/mv32
+vendor: telit
+sku: mv32
+name: MV32
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2022/12/MV32_dynamic_thumb3-268x200.png
-  models: []
   products:
   - https://www.telit.com/devices/mv32/
-  repositories: []
-name: MV32
-ref: telit/mv32
-release_date: null
-sku: mv32
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2022/12/MV32_dynamic_thumb3-268x200.png

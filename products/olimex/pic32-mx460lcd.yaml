@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pic32-mx460lcd
+ref: olimex/pic32-mx460lcd
+vendor: olimex
+sku: pic32-mx460lcd
+name: PIC32-MX460LCD
 description: ''
+status: ''
 extra:
   discountedPrice1: 41.36 EUR
   discountedPrice2: 36.76 EUR
   price: 45.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/PIC/Development/PIC32-MX460LCD/images/thumbs/200x150/PIC32-MX460LCD-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/PIC/Development/PIC32-MX460LCD/
-  repositories: []
-name: PIC32-MX460LCD
-ref: olimex/pic32-mx460lcd
-release_date: null
-sku: pic32-mx460lcd
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/PIC/Development/PIC32-MX460LCD/images/thumbs/200x150/PIC32-MX460LCD-1.jpg

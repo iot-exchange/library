@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pic-mini-web
+ref: olimex/pic-mini-web
+vendor: olimex
+sku: pic-mini-web
+name: PIC-MINI-WEB
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/PIC/Development/PIC-MINI-WEB/images/thumbs/200x150/PIC-MINI-WEB-2.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/PIC/Development/PIC-MINI-WEB/
-  repositories: []
-name: PIC-MINI-WEB
-ref: olimex/pic-mini-web
-release_date: null
-sku: pic-mini-web
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/PIC/Development/PIC-MINI-WEB/images/thumbs/200x150/PIC-MINI-WEB-2.jpg

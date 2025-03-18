@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: esp32-p4-devkit
+ref: olimex/esp32-p4-devkit
+vendor: olimex
+sku: esp32-p4-devkit
+name: ESP32-P4-DevKit
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/ESP32-P4/ESP32-P4-DevKit/images/thumbs/200x150/ESP32-P4-DevKit-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/ESP32-P4/ESP32-P4-DevKit/open-source-hardware
-  repositories: []
-name: ESP32-P4-DevKit
-ref: olimex/esp32-p4-devkit
-release_date: null
-sku: esp32-p4-devkit
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32-P4/ESP32-P4-DevKit/images/thumbs/200x150/ESP32-P4-DevKit-1.jpg

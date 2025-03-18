@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4948
+ref: mikroe/mikroe-4948
+vendor: mikroe
+sku: mikroe-4948
+name: MIKROE-4948
 description: 3D Hall 9 Click is a compact add-on board used to detect the strength
   of a magnetic field in all three dimensions. This board features the ALS31300, a
   3D linear Hall-effect sensor with digital output and advanced low power management
   from Allegro Microsystems. The ALS31300 features an I2C interface, enabling it to
   be easily configured by MCU with the...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/3d-hall-9-click/3d-hall-9-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/3d-hall-9-click
-  repositories: []
-name: MIKROE-4948
-ref: mikroe/mikroe-4948
-release_date: null
-sku: mikroe-4948
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/3d-hall-9-click/3d-hall-9-click-home_default-1.jpg?v=100

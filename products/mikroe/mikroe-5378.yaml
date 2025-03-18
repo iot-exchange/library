@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5378
+ref: mikroe/mikroe-5378
+vendor: mikroe
+sku: mikroe-5378
+name: MIKROE-5378
 description: "Joystick 3 Click is a compact add-on board that can fulfill your directional\
   \ analog input needs. This board features 2765, a high-quality mini 2-axis analog\
   \ output thumbstick from Adafruit Industries. This small joystick is a 'self-centering'\
   \ analog-type with a black rocker cap similar to the PSP joysticks. It comprises\
   \ two 10k\u03A9 potentiometers, one for..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/joystick-3-click/joystick-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=52#Joystick-3-Click
-  repositories: []
-name: MIKROE-5378
-ref: mikroe/mikroe-5378
-release_date: null
-sku: mikroe-5378
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/joystick-3-click/joystick-3-click-home_default-1.jpg?v=100

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: 2-42-oled-module
+ref: waveshare/2-42-oled-module
+vendor: waveshare
+sku: 2-42-oled-module
+name: 2.42_oled_module
 description: "2.42inch OLED Display Module, 128\xD764 Resolution, SPI / I2C Communication"
+status: ''
 extra:
   Price: $12.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.42inch-oled-module-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/2.42inch-oled-module.htm
-  repositories: []
-name: 2.42_oled_module
-ref: waveshare/2-42-oled-module
-release_date: null
-sku: 2-42-oled-module
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.42inch-oled-module-1.jpg

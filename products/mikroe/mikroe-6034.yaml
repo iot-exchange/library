@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6034
+ref: mikroe/mikroe-6034
+vendor: mikroe
+sku: mikroe-6034
+name: MIKROE-6034
 description: Stepper 19 Click is a compact add-on board for precise control over stepper
   motors. This board features the DRV8424, a stepper motor driver from Texas Instruments
   designed to drive both industrial and consumer stepper motors. The DRV8424 has dual
   N-channel power MOSFET H-bridge drivers, a microstepping indexer, and integrated
   current sensing, eliminating...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/stepper-19-click/stepper-19-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/stepper-19-click
-  repositories: []
-name: MIKROE-6034
-ref: mikroe/mikroe-6034
-release_date: null
-sku: mikroe-6034
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/stepper-19-click/stepper-19-click-home_default-1.jpg?v=100

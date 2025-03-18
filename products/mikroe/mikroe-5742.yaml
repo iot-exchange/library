@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5742
+ref: mikroe/mikroe-5742
+vendor: mikroe
+sku: mikroe-5742
+name: MIKROE-5742
 description: IR Gesture 3 Click is a compact add-on board that provides contactless
   gesture recognition. This board features the ADPD1080, a photometric front-end from
   Analog Devices. The IR Gesture 3 Click allows gesture recognition in two dimensions,
   with a built-in optical filter and a sharp visible light cutoff. It eliminates the
   need for external lenses and...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ir-gesture-3-click/ir-gesture-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ir-gesture-3-click
-  repositories: []
-name: MIKROE-5742
-ref: mikroe/mikroe-5742
-release_date: null
-sku: mikroe-5742
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ir-gesture-3-click/ir-gesture-3-click-home_default-1.jpg?v=100

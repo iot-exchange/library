@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4635
+ref: mikroe/mikroe-4635
+vendor: mikroe
+sku: mikroe-4635
+name: MIKROE-4635
 description: NTAG 5 Link Click is a compact add-on board that acts as a bridge between
   an NFC-enabled device and any I2C slave, such as a sensor or external memory. This
   board features the NTP5332, a highly integrated NFC IC which creates a secure standard-based
   link from the device to the cloud from NXP Semiconductors. Based on the NTAG 5 link
   and operating at...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ntag-5-link-click/ntag-5-link-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ntag-5-link-click
-  repositories: []
-name: MIKROE-4635
-ref: mikroe/mikroe-4635
-release_date: null
-sku: mikroe-4635
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ntag-5-link-click/ntag-5-link-click-home_default-1.jpg?v=100

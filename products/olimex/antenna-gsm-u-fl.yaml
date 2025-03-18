@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: antenna-gsm-u-fl
+ref: olimex/antenna-gsm-u-fl
+vendor: olimex
+sku: antenna-gsm-u-fl
+name: ANTENNA-GSM-U-FL
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/RF/ANTENNA-GSM-U-FL/images/thumbs/200x150/Antenna.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/RF/ANTENNA-GSM-U-FL/
-  repositories: []
-name: ANTENNA-GSM-U-FL
-ref: olimex/antenna-gsm-u-fl
-release_date: null
-sku: antenna-gsm-u-fl
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/RF/ANTENNA-GSM-U-FL/images/thumbs/200x150/Antenna.jpg

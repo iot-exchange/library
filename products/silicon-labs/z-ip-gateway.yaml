@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: z-ip-gateway
+ref: silicon-labs/z-ip-gateway
+vendor: silicon-labs
+sku: z-ip-gateway
+name: Z/IP Gateway
 description: Z/IP Gateway is an out of the box alliance certified Z-Wave controller
   Distributed as source.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/developers/simplicity-studio
-  repositories: []
-name: Z/IP Gateway
-ref: silicon-labs/z-ip-gateway
-release_date: null
-sku: z-ip-gateway
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

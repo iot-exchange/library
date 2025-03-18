@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: sc208
+ref: fibocom/sc208
+vendor: fibocom
+sku: sc208
+name: SC208
 description: 4G medium module for global use.
+status: ''
 extra:
   Bands: 'LTE: B1/2/3/4/5/7/8/12/13/17/18/19/20/25/26/28/66/71'
   Form Factor: LGA / LCC
   Region: Global
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTE-SC208.html
-  repositories: []
-name: SC208
-ref: fibocom/sc208
-release_date: null
-sku: sc208
-spec: null
-status: ''
-vendor: fibocom
+  images: []

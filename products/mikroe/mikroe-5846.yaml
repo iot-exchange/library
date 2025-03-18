@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5846
+ref: mikroe/mikroe-5846
+vendor: mikroe
+sku: mikroe-5846
+name: MIKROE-5846
 description: SiBRAIN is a standardized microcontroller add-on board, which allows
   very simple installation and replacement of the microcontroller unit (MCU) on a
   development board equipped with the SiBRAIN Card socket. By introducing the new
   SiBRAIN standard, we have ensured the absolute compatibility between the development
   board and any of the supported MCUs,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/sibrain-for-atmega2560/sibrain-for-atmega2560-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/sibrain-for-atmega2560
-  repositories: []
-name: MIKROE-5846
-ref: mikroe/mikroe-5846
-release_date: null
-sku: mikroe-5846
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/sibrain-for-atmega2560/sibrain-for-atmega2560-home_default-1.jpg?v=100

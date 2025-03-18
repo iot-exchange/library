@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '114070161'
+ref: seeedstudio/114070161
+vendor: seeedstudio
+sku: '114070161'
+name: '114070161'
 description: Aluminum Alloy CNC Heat Sink with Fan for Raspberry Pi CM4 Module
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114070161-1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Aluminum-Alloy-CNC-Heat-Sink-with-Fan-for-Raspberry-Pi-CM4-Module-p-4923.html
-  repositories: []
-name: '114070161'
-ref: seeedstudio/114070161
-release_date: null
-sku: '114070161'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114070161-1.jpg

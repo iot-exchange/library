@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: cm4-eth-rs485-box-b
+ref: waveshare/cm4-eth-rs485-box-b
+vendor: waveshare
+sku: cm4-eth-rs485-box-b
+name: cm4_eth_rs485_box_b
 description: Dual ETH Mini-Computer For Raspberry Pi Compute Module 4(NOT Included),
   Gigabit Ethernet, 4CH Isolated RS485
+status: ''
 extra:
   Multi Options: ''
   price: $69.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-eth-rs485-box-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/cm4-eth-rs485-box-b.htm
-  repositories: []
-name: cm4_eth_rs485_box_b
-ref: waveshare/cm4-eth-rs485-box-b
-release_date: null
-sku: cm4-eth-rs485-box-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-eth-rs485-box-b-1.jpg

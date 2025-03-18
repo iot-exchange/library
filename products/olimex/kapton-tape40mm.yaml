@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: kapton-tape40mm
+ref: olimex/kapton-tape40mm
+vendor: olimex
+sku: kapton-tape40mm
+name: KAPTON-TAPE40MM
 description: ''
+status: ''
 extra:
   price1: 9.00 EUR
   price2: 8.55 EUR
   price3: 8.10 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Soldering/KAPTON-40MM/images/thumbs/200x150/KAPTON-TAPE40MM.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Soldering/KAPTON-TAPE40MM/
-  repositories: []
-name: KAPTON-TAPE40MM
-ref: olimex/kapton-tape40mm
-release_date: null
-sku: kapton-tape40mm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/KAPTON-40MM/images/thumbs/200x150/KAPTON-TAPE40MM.jpg

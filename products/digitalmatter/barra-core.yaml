@@ -1,36 +1,29 @@
-alternatives: []
-certifications: []
+id: barra-core
+ref: digitalmatter/barra-core
+vendor: digitalmatter
+sku: barra-core
+name: Barra Core
 description: Indoor/Outdoor Asset Management on One Device Track and manage your assets
   as they move across environments with Edge Devices.
+status: ''
 extra:
-  Accelerometer: Movement and Impact Detection
   Applications: Equipment Tracking, Non-Powered Asset Tracking
+  Connectivity: NB-IoT Only
+  Features: 3-Axis Accelerometer, IP68 Rated
+  Power: Battery-Powered
+  Accelerometer: Movement and Impact Detection
   Batteries: 2 x AA Lithium
   Battery Life Estimates (Movement-Based Location Updates): 4.5 years
   Battery Life Estimates (Once Daily Location Updates): 10 years
   "Bluetooth\xAE Gateway": 'Yes'
   Cloud-Based Location Solving: 'Yes'
-  Connectivity: NB-IoT Only
   Environment: Indoor/Outdoor
-  Features: 3-Axis Accelerometer, IP68 Rated
   Housing Size: 149 x 51 x 21 mm (5.9 x 2.0 x 0.8 in)
   IP Rating: IP68 Rugged Waterproof
   Location Technologies: Wi-Fi Scanning, Cell Tower Location, GNSS Scanning
   Magnet: Magnetic Activation and Tamper Detection
-  Power: Battery-Powered
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.digitalmatter.com/wp-content/uploads/2023/09/Barra-Top-Digital-Matter-1.png
-  models: []
   products:
   - https://www.digitalmatter.com/devices/barra-core/
-  repositories: []
-name: Barra Core
-ref: digitalmatter/barra-core
-release_date: null
-sku: barra-core
-spec: null
-status: ''
-vendor: digitalmatter
+  images:
+  - https://www.digitalmatter.com/wp-content/uploads/2023/09/Barra-Top-Digital-Matter-1.png

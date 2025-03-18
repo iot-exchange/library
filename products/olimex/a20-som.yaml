@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: a20-som
+ref: olimex/a20-som
+vendor: olimex
+sku: a20-som
+name: A20-SOM
 description: ''
+status: ''
 extra:
   100+ pcs: 33.60 EUR
   1000+ pcs: 32.20 EUR
   50+ pcs: 34.30 EUR
   500+ pcs: 32.90 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/SOM/A20/A20-SOM/images/thumbs/200x150/A20-SOM-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/SOM/A20/A20-SOM/
-  repositories: []
-name: A20-SOM
-ref: olimex/a20-som
-release_date: null
-sku: a20-som
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/SOM/A20/A20-SOM/images/thumbs/200x150/A20-SOM-1.jpg

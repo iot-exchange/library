@@ -1,0 +1,13 @@
+id: emb-lr1280s
+ref: embit/emb-lr1280s
+vendor: embit
+sku: emb-lr1280s
+name: EMB-LR1280S
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.embit.eu/products/lora-2-4-ghz-module/
+  images:
+  - https://www.embit.eu/wp-content/uploads/2021/01/EMB-LR1280-modificato-2-300x225.jpg

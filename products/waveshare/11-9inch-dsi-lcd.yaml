@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 11-9inch-dsi-lcd
+ref: waveshare/11-9inch-dsi-lcd
+vendor: waveshare
+sku: 11-9inch-dsi-lcd
+name: 11.9inch DSI LCD
 description: "11.9inch Capacitive Touch Display for Raspberry Pi, 320\xD71480, IPS,\
   \ DSI Interface"
+status: ''
 extra:
   SKU: '22295'
   price: $96.59 - $99.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/1/11.9inch-dsi-lcd-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/11.9inch-dsi-lcd.htm
-  repositories: []
-name: 11.9inch DSI LCD
-ref: waveshare/11-9inch-dsi-lcd
-release_date: null
-sku: 11-9inch-dsi-lcd
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/1/11.9inch-dsi-lcd-1.jpg

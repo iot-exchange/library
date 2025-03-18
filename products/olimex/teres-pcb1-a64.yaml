@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-pcb1-a64
+ref: olimex/teres-pcb1-a64
+vendor: olimex
+sku: teres-pcb1-a64
+name: TERES-PCB1-A64
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-PCB1-A64/images/thumbs/200x150/TERES-PCB1-A64.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-PCB1-A64/open-source-hardware
-  repositories: []
-name: TERES-PCB1-A64
-ref: olimex/teres-pcb1-a64
-release_date: null
-sku: teres-pcb1-a64
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-PCB1-A64/images/thumbs/200x150/TERES-PCB1-A64.jpg

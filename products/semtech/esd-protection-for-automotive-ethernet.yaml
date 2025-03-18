@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: esd-protection-for-automotive-ethernet
+ref: semtech/esd-protection-for-automotive-ethernet
+vendor: semtech
+sku: esd-protection-for-automotive-ethernet
+name: ESD Protection for Automotive Ethernet
 description: Semtech Launches New Electrostatic Discharge (ESD) Protection for Automotive
   Ethernet
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products: []
   images:
   - https://www.semtech.com/uploads/news/semtech-ir-pr-graphic-generic-web-new.jpg
-  models: []
-  products: []
-  repositories: []
-name: ESD Protection for Automotive Ethernet
-ref: semtech/esd-protection-for-automotive-ethernet
-release_date: null
-sku: esd-protection-for-automotive-ethernet
-spec: null
-status: ''
-vendor: semtech

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: stm32wle4j8
+ref: st/stm32wle4j8
+vendor: st
+sku: stm32wle4j8
+name: STM32WLE4J8
 description: Sub-GHz Wireless Microcontrollers. Arm Cortex-M4 @48 MHz with 64 Kbytes
   of Flash memory, 20 Kbytes of SRAM. (G)FSK, (G)MSK, BPSK modulations. AES 256-bit.
   Multiprotocol System-on-Chip.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.st.com/en/microcontrollers-microprocessors/stm32wle4j8.html
-  repositories: []
-name: STM32WLE4J8
-ref: st/stm32wle4j8
-release_date: null
-sku: stm32wle4j8
-spec: null
-status: ''
-vendor: st
+  images: []

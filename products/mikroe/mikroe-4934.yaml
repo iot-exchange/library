@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-4934
+ref: mikroe/mikroe-4934
+vendor: mikroe
+sku: mikroe-4934
+name: MIKROE-4934
 description: This 3-wire Male to Male Cable can be used for connecting Turbidity Click
   adapter board with external components such as Turbidity Sensor. The length of the
   cable is 150mm (6 Inch) long and has two male 2.5mm spaced connectors at its ends.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/3-wire-male-to-male-cable-15-cm/3-wire-male-to-male-cable-15-cm-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/tsd-10-turbidity-sensor/tsd-10-turbidity-sensor-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/3-wire-male-to-male-cable-15-cm
   - https://www.mikroe.com/cart?add=1&id_product=3202
   - https://www.mikroe.com/tsd-10-turbidity-sensor
-  repositories: []
-name: MIKROE-4934
-ref: mikroe/mikroe-4934
-release_date: null
-sku: mikroe-4934
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/3-wire-male-to-male-cable-15-cm/3-wire-male-to-male-cable-15-cm-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/tsd-10-turbidity-sensor/tsd-10-turbidity-sensor-home_default-1.jpg?v=100

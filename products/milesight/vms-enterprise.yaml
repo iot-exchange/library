@@ -1,0 +1,12 @@
+id: vms-enterprise
+ref: milesight/vms-enterprise
+vendor: milesight
+sku: vms-enterprise
+name: VMS Enterprise
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/security/product/vms-enterprise/
+  images: []

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: cm3s-io-board
+ref: radxa/cm3s-io-board
+vendor: radxa
+sku: cm3s-io-board
+name: CM3S IO Board
 description: an Application Board for Radxa CM3S(mEdge-RK3566)
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/io-board/medge-rk3566-io-board/thumb_cm3s_io_board.webp
-  models: []
   products:
   - https://radxa.com/products/io-board/cm3s-io-board
-  repositories: []
-name: CM3S IO Board
-ref: radxa/cm3s-io-board
-release_date: null
-sku: cm3s-io-board
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/io-board/medge-rk3566-io-board/thumb_cm3s_io_board.webp

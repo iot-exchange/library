@@ -1,0 +1,13 @@
+id: vs125
+ref: milesight/vs125
+vendor: milesight
+sku: vs125
+name: VS125
+description: AI Stereo Vision People Counter
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/vs125
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/occupancy-people-counting-series/ai-stereo-vision-people-counter-iot-page.png?t=1742198585390

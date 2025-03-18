@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: st25r3911b-nfc-board
+ref: waveshare/st25r3911b-nfc-board
+vendor: waveshare
+sku: st25r3911b-nfc-board
+name: ST25R3911B NFC Board
 description: ST25R3911B NFC Development Kit, NFC Reader, AT32F413RCT7 Controller,
   Multi NFC Protocols
+status: ''
 extra:
   Price: $27.63 - $28.99
   SKU: '17623'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/st25r3911b-nfc-board-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/st25r3911b-nfc-board.htm
-  repositories: []
-name: ST25R3911B NFC Board
-ref: waveshare/st25r3911b-nfc-board
-release_date: null
-sku: st25r3911b-nfc-board
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/st25r3911b-nfc-board-1.jpg

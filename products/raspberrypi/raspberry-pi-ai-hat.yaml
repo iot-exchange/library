@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-ai-hat
+ref: raspberrypi/raspberry-pi-ai-hat
+vendor: raspberrypi
+sku: raspberry-pi-ai-hat
+name: Raspberry Pi AI HAT+
 description: An add-on board with a built-in Hailo AI accelerator for Raspberry Pi
   5
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/0af0e0925c565c0ab892f339b8e310e9/3f4ea/ZxZWP4F3NbkBXxSl_AIHAT.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/ai-hat/
-  repositories: []
-name: Raspberry Pi AI HAT+
-ref: raspberrypi/raspberry-pi-ai-hat
-release_date: null
-sku: raspberry-pi-ai-hat
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/0af0e0925c565c0ab892f339b8e310e9/3f4ea/ZxZWP4F3NbkBXxSl_AIHAT.jpg

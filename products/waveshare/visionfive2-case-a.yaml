@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: visionfive2-case-a
+ref: waveshare/visionfive2-case-a
+vendor: waveshare
+sku: visionfive2-case-a
+name: VisionFive2-CASE-A
 description: Metal case for VisionFive2 Board (NOT Included), With Cooling Fan, Mini-Computer
   Case
+status: ''
 extra:
   Price: $9.31  -  $9.99
   SKU: '25311'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/v/i/visionfive2-case-a-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/visionfive2-case-a.htm
   - https://www.waveshare.com/product/visionfive2-case-a.htm "Metal case for VisionFive2
     Board (NOT Included), With Cooling Fan, Mini-Computer Case"
-  repositories: []
-name: VisionFive2-CASE-A
-ref: waveshare/visionfive2-case-a
-release_date: null
-sku: visionfive2-case-a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/v/i/visionfive2-case-a-1.jpg

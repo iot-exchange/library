@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: connector-gx16-4
+ref: olimex/connector-gx16-4
+vendor: olimex
+sku: connector-gx16-4
+name: CONNECTOR-GX16-4
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Connectors/CONNECTOR-GX16-4/images/thumbs/200x150/GX-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Connectors/CONNECTOR-GX16-4/
-  repositories: []
-name: CONNECTOR-GX16-4
-ref: olimex/connector-gx16-4
-release_date: null
-sku: connector-gx16-4
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Connectors/CONNECTOR-GX16-4/images/thumbs/200x150/GX-1.jpg

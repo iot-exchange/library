@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: arduino-giga-r1-wifi
+ref: arduino/arduino-giga-r1-wifi
+vendor: arduino
+sku: arduino-giga-r1-wifi
+name: Arduino GIGA R1 WiFi
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.arduino.cc/wiki/static/621575bc3ac94f2e57d53f652ebaa2c2/4b190/giga.jpg
-  models: []
   products:
   - https://store.arduino.cc/products/giga-r1-wifi
-  repositories: []
-name: Arduino GIGA R1 WiFi
-ref: arduino/arduino-giga-r1-wifi
-release_date: null
-sku: arduino-giga-r1-wifi
-spec: null
-status: ''
-vendor: arduino
+  images:
+  - https://www.arduino.cc/wiki/static/621575bc3ac94f2e57d53f652ebaa2c2/4b190/giga.jpg

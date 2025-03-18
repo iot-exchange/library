@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: monitor-arm
+ref: waveshare/monitor-arm
+vendor: waveshare
+sku: monitor-arm
+name: Monitor Arm
 description: Gas Spring Monitor Arm for 17~30 inch display monitor, Free height adjustment,
   supports multi-angle rotation and expansion
+status: ''
 extra:
   Price: $19.31 - $19.99
   SKU: '23832'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/o/monitor-arm-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/monitor-arm.htm
-  repositories: []
-name: Monitor Arm
-ref: waveshare/monitor-arm
-release_date: null
-sku: monitor-arm
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/o/monitor-arm-1.jpg

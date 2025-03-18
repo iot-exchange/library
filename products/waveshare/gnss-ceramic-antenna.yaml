@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: gnss-ceramic-antenna
+ref: waveshare/gnss-ceramic-antenna
+vendor: waveshare
+sku: gnss-ceramic-antenna
+name: GNSS Ceramic Antenna
 description: GNSS Active Ceramic Positioning Antenna, IPEX 1 connector, Supports multiple
   satellite positioning systems
+status: ''
 extra:
   price: $3.65 - $3.99
   sku: '24095'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/n/gnss-ceramic-antenna-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/gnss-ceramic-antenna.htm
   - https://www.waveshare.com/product/gnss-ceramic-antenna.htm "GNSS Active Ceramic
     Positioning Antenna, IPEX 1 connector, Supports multiple satellite positioning
     systems"
-  repositories: []
-name: GNSS Ceramic Antenna
-ref: waveshare/gnss-ceramic-antenna
-release_date: null
-sku: gnss-ceramic-antenna
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/n/gnss-ceramic-antenna-1.jpg

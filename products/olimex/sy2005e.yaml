@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: sy2005e
+ref: olimex/sy2005e
+vendor: olimex
+sku: sy2005e
+name: SY2005E
 description: ''
+status: ''
 extra:
   discountedPrice1: 10.45 EUR
   discountedPrice2: 9.90 EUR
   price: 11.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Power/SY2005E/images/thumbs/200x150/SY2005E.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Power/SY2005E/
-  repositories: []
-name: SY2005E
-ref: olimex/sy2005e
-release_date: null
-sku: sy2005e
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Power/SY2005E/images/thumbs/200x150/SY2005E.jpg

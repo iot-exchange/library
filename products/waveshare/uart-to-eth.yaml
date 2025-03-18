@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: uart-to-eth
+ref: waveshare/uart-to-eth
+vendor: waveshare
+sku: uart-to-eth
+name: UART TO ETH
 description: UART TTL to Ethernet Converter
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/a/uart-to-eth-4_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/uart-to-eth.htm
-  repositories: []
-name: UART TO ETH
-ref: waveshare/uart-to-eth
-release_date: null
-sku: uart-to-eth
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/a/uart-to-eth-4_2.jpg

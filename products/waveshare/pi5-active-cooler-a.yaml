@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pi5-active-cooler-a
+ref: waveshare/pi5-active-cooler-a
+vendor: waveshare
+sku: pi5-active-cooler-a
+name: Pi5-Active-Cooler-A
 description: Active Cooler for Raspberry Pi 5, Active Cooling Fan, Aluminium Heatsink,
   With Thermal Pads
+status: ''
 extra:
   Price: $4.15 - $4.49
   SKU: '26044'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-active-cooler-a-1_14.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pi5-active-cooler-a.htm
-  repositories: []
-name: Pi5-Active-Cooler-A
-ref: waveshare/pi5-active-cooler-a
-release_date: null
-sku: pi5-active-cooler-a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-active-cooler-a-1_14.jpg

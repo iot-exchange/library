@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: cc2642r
+ref: ti/cc2642r
+vendor: ti
+sku: cc2642r
+name: CC2642R
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ti.com/product/CC2642R
-  repositories: []
-name: CC2642R
-ref: ti/cc2642r
-release_date: null
-sku: cc2642r
-spec: null
-status: ''
-vendor: ti
+  images: []

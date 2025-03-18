@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 48-vqfn
+ref: microchip/48-vqfn
+vendor: microchip
+sku: 48-vqfn
+name: 48/VQFN
 description: Bluetooth LE, Zigbee, Thread, Proprietary SoC
+status: ''
 extra:
   ADC: '8'
   Antenna Type: NA
@@ -27,16 +31,5 @@ extra:
   UART: '2'
   USB: '4'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: 48/VQFN
-ref: microchip/48-vqfn
-release_date: null
-sku: 48-vqfn
-spec: null
-status: ''
-vendor: microchip
+  images: []

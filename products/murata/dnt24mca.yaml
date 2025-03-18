@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: dnt24mca
+ref: murata/dnt24mca
+vendor: murata
+sku: dnt24mca
+name: DNT24MCA
 description: 2.4GHz, 250kbps, 10mW, 63mW, Chip Antenna
+status: ''
 extra:
   Data Rate: 250kbps
   Dev Kit: DNT24ADK
@@ -10,17 +14,6 @@ extra:
   RF Conn/Antenna: Chip Antenna
   Transmit Power: 10mW, 63mW
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/products/connectivitymodule/proprietary-fhss/overview/lineup/dnt24mca
-  repositories: []
-name: DNT24MCA
-ref: murata/dnt24mca
-release_date: null
-sku: dnt24mca
-spec: null
-status: ''
-vendor: murata
+  images: []

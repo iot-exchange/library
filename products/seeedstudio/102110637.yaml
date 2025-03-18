@@ -1,29 +1,22 @@
-alternatives: []
-certifications: []
+id: '102110637'
+ref: seeedstudio/102110637
+vendor: seeedstudio
+sku: '102110637'
+name: '102110637'
 description: Jetson SUB Mini PC-Blue is based on Jetson Xavier NX module, which delivers
   up to 21 TOPS, making it ideal for high-performance compute and AI in embedded and
   edge systems. Jetson Sub mini PC blue is pre-installed Wifi module and antenna.
   The carrier board comes with rich peripherals including Gigabit Ethernet port, 4
   USB 3.1 Type-A ports, HDMI and DP. Check out more NVIDIA Jetson-powered edge devices
   comparison!
+status: ''
 extra:
   SSD: 128GB
   connectivity: WiFi, Antennas
   performance: 21 TOPS
   storage: 128GB SSD
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102110637_first_part.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Jetson-SUB-Mini-PC-Blue-p-5212.html
-  repositories: []
-name: '102110637'
-ref: seeedstudio/102110637
-release_date: null
-sku: '102110637'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102110637_first_part.jpg

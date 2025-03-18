@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: enc28j60-h
+ref: olimex/enc28j60-h
+vendor: olimex
+sku: enc28j60-h
+name: ENC28J60-H
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Ethernet/ENC28J60-H/images/thumbs/200x150/ENC28J60-H-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Ethernet/ENC28J60-H/
-  repositories: []
-name: ENC28J60-H
-ref: olimex/enc28j60-h
-release_date: null
-sku: enc28j60-h
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Ethernet/ENC28J60-H/images/thumbs/200x150/ENC28J60-H-01.jpg

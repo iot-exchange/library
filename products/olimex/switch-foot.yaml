@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: switch-foot
+ref: olimex/switch-foot
+vendor: olimex
+sku: switch-foot
+name: SWITCH-FOOT
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/SWITCH-FOOT/images/thumbs/200x150/footswitch.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/SWITCH-FOOT/
-  repositories: []
-name: SWITCH-FOOT
-ref: olimex/switch-foot
-release_date: null
-sku: switch-foot
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/SWITCH-FOOT/images/thumbs/200x150/footswitch.jpg

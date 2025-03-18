@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: bl651-series
+ref: ezurio/bl651-series
+vendor: ezurio
+sku: bl651-series
+name: BL651 Series
 description: Bluetooth Module
+status: ''
 extra:
   2MPHY: ''
   802.15.4 / Matter / Thread: ''
@@ -8,18 +12,7 @@ extra:
   Classic BT: x
   LE Long Range: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-11/Product-Photo---BL651-Series1.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/bl651-series-bluetooth-module
-  repositories: []
-name: BL651 Series
-ref: ezurio/bl651-series
-release_date: null
-sku: bl651-series
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-11/Product-Photo---BL651-Series1.png

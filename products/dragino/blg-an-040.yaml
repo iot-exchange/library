@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: blg-an-040
+ref: dragino/blg-an-040
+vendor: dragino
+sku: blg-an-040
+name: BLG-AN-040
 description: Glass Fiber Outdoor Antenna
+status: ''
 extra:
   Average Gain: 3dB
   Frequency Range: 860 ~ 930Mhz (Different Models)
   Type: Omni Directional
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/5cf9cad94714c5577919c266171d935c_L.jpg
-  models: []
   products:
   - https://dragino.com/products/accessories/item/162-blg-an-040.html
-  repositories: []
-name: BLG-AN-040
-ref: dragino/blg-an-040
-release_date: null
-sku: blg-an-040
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/5cf9cad94714c5577919c266171d935c_L.jpg

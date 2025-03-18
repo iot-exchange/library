@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5993
+ref: mikroe/mikroe-5993
+vendor: mikroe
+sku: mikroe-5993
+name: MIKROE-5993
 description: "Adapter - USB-C Female to USB-B Male represents a high-speed type C\
   \ connector that converts the USB-C head data into the USB 2.0 Type B data. This\
   \ adapter offers data transfer speeds of up to 480Mbps between connected devices\
   \ and comes with a built-in 56k\u03A9 pull-up resistor for safer and more reliable\
   \ quality. Its compact design and dimensions provide an..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/adapter-usb-c-female-to-usb-b-male/adapter-usb-c-female-to-usb-b-male-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/adapter-usb-c-female-to-usb-b-male
-  repositories: []
-name: MIKROE-5993
-ref: mikroe/mikroe-5993
-release_date: null
-sku: mikroe-5993
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/adapter-usb-c-female-to-usb-b-male/adapter-usb-c-female-to-usb-b-male-home_default-1.jpg?v=100

@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: '114992983'
+ref: seeedstudio/114992983
+vendor: seeedstudio
+sku: '114992983'
+name: '114992983'
 description: "The SenseCAP M2 Multi-Platform LoRaWAN\xAE Gateway is a fully customizable\
   \ and open-sourced LoRaWAN\xAE gateway that supports connection to various network\
   \ servers. It supports global LoRaWAN\xAE frequency plans from 865 MHz to 923 MHz\
@@ -7,21 +10,11 @@ description: "The SenseCAP M2 Multi-Platform LoRaWAN\xAE Gateway is a fully cust
   \ monitoring systems, precision farming, etc. It has wide-range coverage and strong\
   \ signal output capability and other features, making it the perfect gateway for\
   \ building a LoRaWAN\xAE network."
+status: ''
 extra:
   Frequency Plans: 865 MHz to 923 MHz
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992981_as923_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/SenseCAP-Multi-Platform-LoRaWAN-Indoor-Gateway-SX1302-AS923-p-5473.html
-  repositories: []
-name: '114992983'
-ref: seeedstudio/114992983
-release_date: null
-sku: '114992983'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992981_as923_1.jpg

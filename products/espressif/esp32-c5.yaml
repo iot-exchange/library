@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: esp32-c5
+ref: espressif/esp32-c5
+vendor: espressif
+sku: esp32-c5
+name: ESP32-C5
 description: 32-bit RISC-V MCU & 2.4 and 5 GHz Wi-Fi 6 & Bluetooth 5 (LE) & IEEE 802.15.4
+status: ''
 extra:
   Core: Single Core
   Development Board: ESP32-C5-DevKitC-1
@@ -13,18 +17,7 @@ extra:
   Pins: '48'
   RAM/ROM (KB): 320 KB ROM, 384 KB HP SRAM, 16 KB LP SRAM
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/chips/ESP32-C5_S_0.png
-  models: []
   products:
   - https://products.espressif.com/#/product-selector?language=en
-  repositories: []
-name: ESP32-C5
-ref: espressif/esp32-c5
-release_date: null
-sku: esp32-c5
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP32-C5_S_0.png

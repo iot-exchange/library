@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5776
+ref: mikroe/mikroe-5776
+vendor: mikroe
+sku: mikroe-5776
+name: MIKROE-5776
 description: board that converts higher voltages into lower ones. This board features
   the MPM54304, a quad-output power module from Monolithic Power Systems (MPS). It
   is a quad-output, DC/DC step-down power module with up to 3A per output on channels
   1 and 2 and up to 2A per channels 3 and 4, providing continuous current on all...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/step-down-6-click/step-down-6-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=3691
   - https://www.mikroe.com/step-down-6-click
-  repositories: []
-name: MIKROE-5776
-ref: mikroe/mikroe-5776
-release_date: null
-sku: mikroe-5776
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/step-down-6-click/step-down-6-click-home_default-1.jpg?v=100

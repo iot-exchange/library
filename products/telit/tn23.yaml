@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: tn23
+ref: telit/tn23
+vendor: telit
+sku: tn23
+name: TN23
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2024/11/TC_TN23_dynamic-273x200.png
-  models: []
   products:
   - https://www.telit.com/devices/tn23/
-  repositories: []
-name: TN23
-ref: telit/tn23
-release_date: null
-sku: tn23
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/11/TC_TN23_dynamic-273x200.png

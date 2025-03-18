@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: wireless-connectivity-platforms
+ref: murata/wireless-connectivity-platforms
+vendor: murata
+sku: wireless-connectivity-platforms
+name: Wireless Connectivity Platforms
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/products/wireless-connectivity-platforms
-  repositories: []
-name: Wireless Connectivity Platforms
-ref: murata/wireless-connectivity-platforms
-release_date: null
-sku: wireless-connectivity-platforms
-spec: null
-status: ''
-vendor: murata
+  images: []

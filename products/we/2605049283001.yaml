@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '2605049283001'
+ref: we/2605049283001
+vendor: we
+sku: '2605049283001'
+name: '2605049283001'
 description: EV-Kit Metis-I
+status: Active i
 extra:
   Expected lifetime: '>10 years.'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/METIS-I#2605049283001
-  repositories: []
-name: '2605049283001'
-ref: we/2605049283001
-release_date: null
-sku: '2605049283001'
-spec: null
-status: Active i
-vendor: we
+  images: []

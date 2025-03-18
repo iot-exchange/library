@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: ups-power-module-c
+ref: waveshare/ups-power-module-c
+vendor: waveshare
+sku: ups-power-module-c
+name: UPS Power Module (C)
 description: Uninterruptible Power Supply UPS Module (C) For Jetson Orin, Supports
   21700 Li battery (NOT included), Pogo Pins Connector
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.waveshare.com/product/ups-power-module-c.htm
-  repositories: []
-name: UPS Power Module (C)
-ref: waveshare/ups-power-module-c
-release_date: null
-sku: ups-power-module-c
-spec: null
-status: ''
-vendor: waveshare
+  images: []

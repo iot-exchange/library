@@ -1,8 +1,12 @@
-alternatives: []
-certifications: []
+id: stm32wl55cc
+ref: st/stm32wl55cc
+vendor: st
+sku: stm32wl55cc
+name: STM32WL55CC
 description: Sub-GHz Wireless Microcontrollers. Dual-core Arm Cortex-M4/M0+ @48 MHz
   with 256 Kbytes of Flash memory, 64 Kbytes of SRAM. LoRa, (G)FSK, (G)MSK, BPSK modulations.
   AES 256-bit. Multiprotocol System-on-Chip.
+status: ''
 extra:
   Data Rate (kbps) max: '-'
   Data Rate (kbps) min: '-'
@@ -19,17 +23,6 @@ extra:
   "Standby Current (\xB5A) typ": '0.071'
   TX current (mA) @ Max Output Power: '-'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.st.com/en/microcontrollers-microprocessors/stm32wl55cc.html
-  repositories: []
-name: STM32WL55CC
-ref: st/stm32wl55cc
-release_date: null
-sku: stm32wl55cc
-spec: null
-status: ''
-vendor: st
+  images: []

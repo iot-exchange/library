@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: fm150-ae
+ref: fibocom/fm150-ae
+vendor: fibocom
+sku: fm150-ae
+name: FM150-AE
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/5G-FM150-AE.html
-  repositories: []
-name: FM150-AE
-ref: fibocom/fm150-ae
-release_date: null
-sku: fm150-ae
-spec: null
-status: ''
-vendor: fibocom
+  images: []

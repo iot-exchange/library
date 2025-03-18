@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 215-fhd-lcd
+ref: waveshare/215-fhd-lcd
+vendor: waveshare
+sku: 215-fhd-lcd
+name: 215_fhd_lcd
 description: "21.5inch Capacitive Touch Display, 1080\xD71920 Full HD, Optical Bonding\
   \ Toughened Glass Panel, Supports Raspberry Pi / Jetson Nano"
+status: ''
 extra:
   Price: $239.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/21.5inch-fhd-lcd.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/1/21.5inch-fhd-lcd-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/i/7inch-side-monitor-w-1.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/21.5inch-fhd-lcd.htm
-  repositories: []
-name: 215_fhd_lcd
-ref: waveshare/215-fhd-lcd
-release_date: null
-sku: 215-fhd-lcd
-spec: null
-status: ''
-vendor: waveshare

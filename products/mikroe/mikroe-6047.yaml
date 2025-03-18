@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6047
+ref: mikroe/mikroe-6047
+vendor: mikroe
+sku: mikroe-6047
+name: MIKROE-6047
 description: IR Eclipse 2 Click is a compact add-on board that adds photo interrupter
   ability to any application. This board features the EE-SX1330, a transmissive photomicrosensor
   with a phototransistor output from OMRON. This compact interrupter sensor senses
   objects or object positions with an optical beam. It can sense any object less than
   3mm as it is the space...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ir-eclipse-2-click/ir-eclipse-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ir-eclipse-2-click
-  repositories: []
-name: MIKROE-6047
-ref: mikroe/mikroe-6047
-release_date: null
-sku: mikroe-6047
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ir-eclipse-2-click/ir-eclipse-2-click-home_default-1.jpg?v=100

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4914
+ref: mikroe/mikroe-4914
+vendor: mikroe
+sku: mikroe-4914
+name: MIKROE-4914
 description: Current 6 Click is a compact add-on board providing a precise and accurate
   current sensing solution. This board features the MAX40080, a fast-response bi-directional
   current-sense amplifier from Analog Devices. The device features ultra-low 5uV input
   offset voltage, very-low 0.2% gain error, and includes an analog-to-digital converter
   with programmable...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/current-6-click/current-6-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/current-6-click
-  repositories: []
-name: MIKROE-4914
-ref: mikroe/mikroe-4914
-release_date: null
-sku: mikroe-4914
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/current-6-click/current-6-click-home_default-1.jpg?v=100

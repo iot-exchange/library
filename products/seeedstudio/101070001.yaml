@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '101070001'
+ref: seeedstudio/101070001
+vendor: seeedstudio
+sku: '101070001'
+name: '101070001'
 description: "SenseCAP S2106 - LoRaWAN\xAE pH Sensor. A battery-powered IP66 wireless\
   \ pH sensor, ranging from 0~14 pH, equipped with built-in Bluetooth and APP service\
   \ for OTA configuration and remote device management. Used in smart farming, hydroponics,\
   \ and environment monitoring solutions."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101070001-sensecap-s2106-first.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/SenseCAP-S2106-p-5647.html
-  repositories: []
-name: '101070001'
-ref: seeedstudio/101070001
-release_date: null
-sku: '101070001'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101070001-sensecap-s2106-first.jpg

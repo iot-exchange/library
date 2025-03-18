@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: '113991315'
+ref: seeedstudio/113991315
+vendor: seeedstudio
+sku: '113991315'
+name: '113991315'
 description: "SenseCAP Watcher is built on ESP32S3, incorporating a Himax WiseEye2\
   \ HX6538 AI chip with Arm Cortex-M55 & Ethos-U55, excelling in image and vector\
   \ data processing. Equipped with a camera, microphone, speaker, SenseCAP Watcher\
@@ -7,25 +10,15 @@ description: "SenseCAP Watcher is built on ESP32S3, incorporating a Himax WiseEy
   \ understands your commands, perceives its surroundings, and triggers actions accordingly.\
   \ \u3010Valentine's Day offer: 5% off for 2 or more items, ends on February 18\uFF0C\
   2025\u3011"
+status: ''
 extra:
+  price: $99.00
   offer: 'Valentine''s Day offer: 5% off for 2 or more items, ends on February 18,
     2025'
-  price: $99.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-113991315-sensecap-watcher-w1-a_1.jpg
-  - https://www.seeedstudio.com/img/r
-  models: []
   products:
   - https://www.seeedstudio.com/SenseCAP-Watcher-W1-A-Clear-Enclosure
   - https://www.seeedstudio.com/SenseCAP-Watcher-W1-A-p-5979.html
-  repositories: []
-name: '113991315'
-ref: seeedstudio/113991315
-release_date: null
-sku: '113991315'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-113991315-sensecap-watcher-w1-a_1.jpg
+  - https://www.seeedstudio.com/img/r

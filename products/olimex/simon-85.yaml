@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: simon-85
+ref: olimex/simon-85
+vendor: olimex
+sku: simon-85
+name: SIMON-85
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Duino/AVR/SIMON-85/images/thumbs/200x150/SIMON-85-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Duino/AVR/SIMON-85/open-source-hardware
-  repositories: []
-name: SIMON-85
-ref: olimex/simon-85
-release_date: null
-sku: simon-85
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Duino/AVR/SIMON-85/images/thumbs/200x150/SIMON-85-1.jpg

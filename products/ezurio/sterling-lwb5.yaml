@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: sterling-lwb5
+ref: ezurio/sterling-lwb5
+vendor: ezurio
+sku: sterling-lwb5
+name: Sterling-LWB5+
 description: A Laird Wifi module with USB interface.
+status: ''
 extra:
   interface: USB
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Sterling-LWB5+
-ref: ezurio/sterling-lwb5
-release_date: null
-sku: sterling-lwb5
-spec: null
-status: ''
-vendor: ezurio
+  images: []

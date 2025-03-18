@@ -1,0 +1,23 @@
+id: notecarrier-pi
+ref: blues/notecarrier-pi
+vendor: blues
+sku: notecarrier-pi
+name: Notecarrier Pi
+description: Stackable 40-pin Pi-compatible HAT, Grove I2C port for external peripherals,
+  Includes U.FL cellular/Wi-Fi antenna (GPS requires U.FL active antenna). This product
+  requires a Notecard.
+status: ''
+extra:
+  Antenna: External Cellular/Wi-Fi Antenna
+  Compatibility: Raspberry Pi
+  Connection: Micro USB
+  Dimensions: 56mm x 65mm
+  Ports: One Grove I2C Port
+  SIM Socket: External Nano-SIM Socket for Additional Carriers
+  Type: Pi HAT
+links:
+  products:
+  - https://blues.com/products/notecarrier/notecarrier-pi/
+  - https://dev.blues.io/hardware/notecarrier-datasheet/notecarrier-pi/?__hstc=171785791.41e0a2aa6e680b06cebdc71f5c4ca7ed.1742303092656.1742303092656.1742303092656.1&__hssc=171785791.4.1742303092656&__hsfp=2702779587
+  images:
+  - https://blues.com/wp-content/uploads/2025/02/NotePi2-Front-e1740693536130.png

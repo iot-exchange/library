@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: '101020952'
+ref: seeedstudio/101020952
+vendor: seeedstudio
+sku: '101020952'
+name: '101020952'
 description: The Grove - SCD41 is a compact yet powerful 3-in-1 environmental sensor
   for CO2, Humidity and Temperature measurement. Based on Sensirion SCD41, the photoacoustic
   NDIR sensor technology enables high accuracy and wide measurement range. Its miniture
   size, large supply voltage, high robustness and adjustable power consumption allow
   it to perfectly integrate into a variety of environmental monitoring applications
   such as Smart Ventilation System.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/Grove-CO2-Temperature-Humidity-Sensor-SCD41-p-5025.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/101020952_preview-07.png
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductgrove20hcho.jpg
-  models: []
-  products:
-  - https://www.seeedstudio.com/Grove-CO2-Temperature-Humidity-Sensor-SCD41-p-5025.html
-  repositories: []
-name: '101020952'
-ref: seeedstudio/101020952
-release_date: null
-sku: '101020952'
-spec: null
-status: ''
-vendor: seeedstudio

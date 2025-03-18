@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: screw-t8x8-300mm
+ref: olimex/screw-t8x8-300mm
+vendor: olimex
+sku: screw-t8x8-300mm
+name: SCREW-T8X8-300MM
 description: ''
+status: ''
 extra:
   price1: 5.00 EUR
   price2: 4.50 EUR
   price3: 4.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/SCREW-T8X8-300MM/images/thumbs/200x150/SCREW-T8X8.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/SCREW-T8X8-300MM/
-  repositories: []
-name: SCREW-T8X8-300MM
-ref: olimex/screw-t8x8-300mm
-release_date: null
-sku: screw-t8x8-300mm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/SCREW-T8X8-300MM/images/thumbs/200x150/SCREW-T8X8.jpg

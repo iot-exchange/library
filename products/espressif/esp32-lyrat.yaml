@@ -1,9 +1,13 @@
-alternatives: []
-certifications: []
+id: esp32-lyrat
+ref: espressif/esp32-lyrat
+vendor: espressif
+sku: esp32-lyrat
+name: ESP32-LyraT
 description: The ESP32-LyraT development board is designed for the speech and voice
   recognition market. It integrates the ESP32-WROVER-E module, which includes a dual-core
   processor and 4.5 MB of operating memory. With this development board, only few
   peripheral devices are required for implementing a highly-integrated audio solution.
+status: ''
 extra:
   Audio Output: ''
   Flash: 4 MB
@@ -12,17 +16,6 @@ extra:
   Speaker: ''
   USB: ''
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://docs.espressif.com/projects/esp-adf/en/latest/design-guide/dev-boards/get-started-esp32-lyrat.html
-  repositories: []
-name: ESP32-LyraT
-ref: espressif/esp32-lyrat
-release_date: null
-sku: esp32-lyrat
-spec: null
-status: ''
-vendor: espressif
+  images: []

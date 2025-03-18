@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '102110777'
+ref: seeedstudio/102110777
+vendor: seeedstudio
+sku: '102110777'
+name: '102110777'
 description: LinkStar-H68K router equips quad-core Cortex-A55 RK3568 chip, featuring
   4 Ethernet interfaces for dual-2.5G and dual-1G, along with Wi-Fi 6 technology,
   while providing high storage capacity and media player functionality, functioning
   well both indoors and outdoors, whether for traveling and stationary.
+status: ''
 extra:
   RAM: 4GB
   eMMC: 32GB
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102110777-linkstar-h68k-1432-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/LinkStar-H68K-1432-p-5501.html
-  repositories: []
-name: '102110777'
-ref: seeedstudio/102110777
-release_date: null
-sku: '102110777'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102110777-linkstar-h68k-1432-45font.jpg

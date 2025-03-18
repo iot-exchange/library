@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: wf200-series-2-socs
+ref: silicon-labs/wf200-series-2-socs
+vendor: silicon-labs
+sku: wf200-series-2-socs
+name: WF200 Series 2 SoCs
 description: Wi-Fi Transceiver SoCs (Series 2)
+status: ''
 extra:
   Application MCU: SDIO, SPI
   Frequency Bands: Single Band (2.4)
   Key Peripherals: ''
   Onboard IP Support: ''
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/wireless/wi-fi/wf200-series-2-transceiver-ics
-  repositories: []
-name: WF200 Series 2 SoCs
-ref: silicon-labs/wf200-series-2-socs
-release_date: null
-sku: wf200-series-2-socs
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

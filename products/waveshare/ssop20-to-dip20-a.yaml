@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: ssop20-to-dip20-a
+ref: waveshare/ssop20-to-dip20-a
+vendor: waveshare
+sku: ssop20-to-dip20-a
+name: SSOP20 TO DIP20 (A)
 description: SSOP20 TO DIP20 (A), Programmer Adapter
+status: ''
 extra:
   Price: $42.59 - $45.99
   SKU: '3866'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/s/ssop20-to-dip20-a_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ssop20-to-dip20-a.htm
-  repositories: []
-name: SSOP20 TO DIP20 (A)
-ref: waveshare/ssop20-to-dip20-a
-release_date: null
-sku: ssop20-to-dip20-a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/s/ssop20-to-dip20-a_l_1_5.jpg

@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: siwx915
+ref: silicon-labs/siwx915
+vendor: silicon-labs
+sku: siwx915
+name: SiWx915
 description: Wi-Fi 6 solution with multiprotocol support including Bluetooth LE.
+status: ''
 extra:
+  protocol: Wi-Fi 6, Bluetooth LE
+  security: Advanced security engine
   Application MCU: SDIO
   Frequency Bands: Single Band (2.4)
   Key Peripherals: ''
   Onboard IP Support: UART, SPI, SDIO
-  protocol: Wi-Fi 6, Bluetooth LE
-  security: Advanced security engine
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/security/secure-vault
   - https://www.silabs.com/wireless/wi-fi/siwx915-wireless-socs
-  repositories: []
-name: SiWx915
-ref: silicon-labs/siwx915
-release_date: null
-sku: siwx915
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

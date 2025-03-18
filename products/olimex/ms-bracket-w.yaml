@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: ms-bracket-w
+ref: olimex/ms-bracket-w
+vendor: olimex
+sku: ms-bracket-w
+name: MS-BRACKET-W
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/ServoMotors/MS-BRACKET-W/images/thumbs/200x150/MS-BRACKET-W.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/ServoMotors/MS-BRACKET-W/
-  repositories: []
-name: MS-BRACKET-W
-ref: olimex/ms-bracket-w
-release_date: null
-sku: ms-bracket-w
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/ServoMotors/MS-BRACKET-W/images/thumbs/200x150/MS-BRACKET-W.jpg

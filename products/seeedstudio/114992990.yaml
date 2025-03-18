@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '114992990'
+ref: seeedstudio/114992990
+vendor: seeedstudio
+sku: '114992990'
+name: '114992990'
 description: This WioHeliumMonitor is a plug-and-play LongFi hotspot monitor for the
   Helium network. It makes sure the Hotspot is connected to the LAN and has access
   to the Internet, you will also be alarmed when it is not working correctly through
   Grove-Wio-E5.
+status: ''
 extra:
   Price: $59.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-e22011020-wiohelium-monitor-45font_1_.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Wio-Helium-Monitor-Kit-p-5513.html
-  repositories: []
-name: '114992990'
-ref: seeedstudio/114992990
-release_date: null
-sku: '114992990'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-e22011020-wiohelium-monitor-45font_1_.jpg

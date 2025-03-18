@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 7inch-hdmi-lcd-b-with-bicolor-case
+ref: waveshare/7inch-hdmi-lcd-b-with-bicolor-case
+vendor: waveshare
+sku: 7inch-hdmi-lcd-b-with-bicolor-case
+name: 7inch HDMI LCD (B) (with bicolor case)
 description: "7inch Capacitive Touch Screen LCD (B) with Bicolor Case, 800\xD7480,\
   \ HDMI, Low Power"
+status: ''
 extra:
   Price: $50.29 - $51.99
   SKU: '11302'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/b/7bk-m.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/7inch-hdmi-lcd-b-with-bicolor-case.htm
-  repositories: []
-name: 7inch HDMI LCD (B) (with bicolor case)
-ref: waveshare/7inch-hdmi-lcd-b-with-bicolor-case
-release_date: null
-sku: 7inch-hdmi-lcd-b-with-bicolor-case
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/b/7bk-m.jpg

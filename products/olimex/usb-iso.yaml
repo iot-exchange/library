@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: usb-iso
+ref: olimex/usb-iso
+vendor: olimex
+sku: usb-iso
+name: USB-ISO
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/USB-Modules/USB-ISO/images/thumbs/200x150/USB-ISO-b.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/USB-Modules/USB-ISO/
-  repositories: []
-name: USB-ISO
-ref: olimex/usb-iso
-release_date: null
-sku: usb-iso
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/USB-Modules/USB-ISO/images/thumbs/200x150/USB-ISO-b.jpg

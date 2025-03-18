@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: usb-to-ttl
+ref: waveshare/usb-to-ttl
+vendor: waveshare
+sku: usb-to-ttl
+name: USB TO TTL
 description: Industrial USB TO TTL Converter, Original FT232RNL, Multi Protection
   & Systems Support
+status: ''
 extra:
   Price: $7.31 - $7.99
   SKU: '17939'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-ttl-1.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-ttl-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-to-ttl.htm
   - https://www.waveshare.com/product/usb-to-ttl.htm "Industrial USB TO TTL Converter,
     Original FT232RNL, Multi Protection & Systems Support"
-  repositories: []
-name: USB TO TTL
-ref: waveshare/usb-to-ttl
-release_date: null
-sku: usb-to-ttl
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-ttl-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-ttl-2.jpg

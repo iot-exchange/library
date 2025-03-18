@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: dimmer-keypad-6-button
+ref: insteon/dimmer-keypad-6-button
+vendor: insteon
+sku: dimmer-keypad-6-button
+name: Dimmer Keypad, 6-Button
 description: ''
+status: ''
 extra:
   Regular price: $79.95
   Sale price: $79.95
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/products/keypad-6-button-front-800x800.jpg?v=1660780138&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/dimmer-keypad-6-button
-  repositories: []
-name: Dimmer Keypad, 6-Button
-ref: insteon/dimmer-keypad-6-button
-release_date: null
-sku: dimmer-keypad-6-button
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/products/keypad-6-button-front-800x800.jpg?v=1660780138&width=533

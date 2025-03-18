@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: em7431
+ref: sierrawireless/em7431
+vendor: sierrawireless
+sku: em7431
+name: EM7431
 description: ''
+status: ''
 extra:
   Bands: 'LTE: B1, B3, B5, B8, B18, B19, B39, B41, B42, B43'
   Fallback: 3G
   Region (Carrier): Japan (Softbank, NTT Docomo, KDDI)
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.sierrawireless.com/iot-modules/4g-modules/em7431/
-  repositories: []
-name: EM7431
-ref: sierrawireless/em7431
-release_date: null
-sku: em7431
-spec: null
-status: ''
-vendor: sierrawireless
+  images: []

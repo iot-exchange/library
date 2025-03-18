@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: qfp48-to-dip48
+ref: waveshare/qfp48-to-dip48
+vendor: waveshare
+sku: qfp48-to-dip48
+name: QFP48 TO DIP48
 description: QFP48 TO DIP48, Programmer Adapter
+status: ''
 extra:
   Price: $57.99 - $60.99
   SKU: '3046'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/q/f/qfp48-to-dip48_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/qfp48-to-dip48.htm
-  repositories: []
-name: QFP48 TO DIP48
-ref: waveshare/qfp48-to-dip48
-release_date: null
-sku: qfp48-to-dip48
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/q/f/qfp48-to-dip48_l_1_5.jpg

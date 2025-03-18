@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-keyboard-and-hub
+ref: raspberrypi/raspberry-pi-keyboard-and-hub
+vendor: raspberrypi
+sku: raspberry-pi-keyboard-and-hub
+name: Raspberry Pi Keyboard and Hub
 description: The official Raspberry Pi keyboard and hub
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.raspberrypi.com/products/raspberry-pi-keyboard-and-hub/
-  repositories: []
-name: Raspberry Pi Keyboard and Hub
-ref: raspberrypi/raspberry-pi-keyboard-and-hub
-release_date: null
-sku: raspberry-pi-keyboard-and-hub
-spec: null
-status: ''
-vendor: raspberrypi
+  images: []

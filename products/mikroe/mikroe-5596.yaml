@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5596
+ref: mikroe/mikroe-5596
+vendor: mikroe
+sku: mikroe-5596
+name: MIKROE-5596
 description: pH 2 Click is a compact add-on board used to determine the alkalinity
   or acidity of a sample. This board features the MCP607, a low-bias current Op Amp
   from Microchip, performing level shifting and high-input impedance buffering in
   a single-supply pH-electrode circuit. This board measures hydrogen ion activity
   and produces an electrical potential/voltage,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ph-2-click/ph-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ph-2-click
-  repositories: []
-name: MIKROE-5596
-ref: mikroe/mikroe-5596
-release_date: null
-sku: mikroe-5596
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ph-2-click/ph-2-click-home_default-1.jpg?v=100

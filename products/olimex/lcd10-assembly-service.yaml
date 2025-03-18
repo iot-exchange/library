@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: lcd10-assembly-service
+ref: olimex/lcd10-assembly-service
+vendor: olimex
+sku: lcd10-assembly-service
+name: LCD10-ASSEMBLY-SERVICE
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/LCD/LCD10-ASSEMBLY-SERVICE/images/thumbs/200x150/LCD10-METAL-FRAME-2.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/LCD/LCD10-ASSEMBLY-SERVICE/
-  repositories: []
-name: LCD10-ASSEMBLY-SERVICE
-ref: olimex/lcd10-assembly-service
-release_date: null
-sku: lcd10-assembly-service
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/LCD/LCD10-ASSEMBLY-SERVICE/images/thumbs/200x150/LCD10-METAL-FRAME-2.jpg

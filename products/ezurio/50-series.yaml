@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 50-series
+ref: ezurio/50-series
+vendor: ezurio
+sku: 50-series
+name: 50 Series
 description: Wi-Fi Module with Bluetooth
+status: ''
 extra:
   Category: Enterprise Wi-Fi
   Chipset: QCA AR6004
   Wi-Fi: Utility
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/s3fs-public/2018-10/60_2230C_straight.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/wifi-modules-bluetooth/50-series-wifi-module-bluetooth
-  repositories: []
-name: 50 Series
-ref: ezurio/50-series
-release_date: null
-sku: 50-series
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/s3fs-public/2018-10/60_2230C_straight.png

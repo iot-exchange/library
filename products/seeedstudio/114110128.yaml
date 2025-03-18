@@ -1,28 +1,21 @@
-alternatives: []
-certifications: []
+id: '114110128'
+ref: seeedstudio/114110128
+vendor: seeedstudio
+sku: '114110128'
+name: '114110128'
 description: RPLIDAR A2M12 is a 360-degree triangulation laser sensing scanner that
   samples at up to 16 kHz, capable of generating 2D point cloud map information for
   a 12m radius, within low precision, and running for up to 5 years. This next-generation
   low-cost, high-performance laser scanner will be your great instrument for in-home
   robots, 3D modeling, etc.
+status: ''
 extra:
-  Price: $229.00
   Range: 12M
+  Price: $229.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114110128-rplidar-a2m12-360-degree-laser-scanner-kit---12m-range-45-font.jpg
-  - https://www.seeedstudio.com/img/e
-  models: []
   products:
   - https://www.seeedstudio.com/RPLiDAR-A2M12-360-Degree-Laser-Scanner-Kit-12M-Range-p-5482.html
   - https://www.seeedstudio.com/rplidar-a2m12-360-degree-laser-scanner-kit-12m-range.html
-  repositories: []
-name: '114110128'
-ref: seeedstudio/114110128
-release_date: null
-sku: '114110128'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114110128-rplidar-a2m12-360-degree-laser-scanner-kit---12m-range-45-font.jpg
+  - https://www.seeedstudio.com/img/e

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: slim-x2l
+ref: radxa/slim-x2l
+vendor: radxa
+sku: slim-x2l
+name: SLiM X2L
 description: A Feature-Packed, Stylishly Pocket PC
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/palmshell/slim-x2l/thumb_slim_x2l.webp
-  models: []
   products:
   - https://palmshell.io/slim-x2l
-  repositories: []
-name: SLiM X2L
-ref: radxa/slim-x2l
-release_date: null
-sku: slim-x2l
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/palmshell/slim-x2l/thumb_slim_x2l.webp

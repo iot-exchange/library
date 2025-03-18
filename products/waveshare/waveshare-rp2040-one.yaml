@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: waveshare-rp2040-one
+ref: waveshare/waveshare-rp2040-one
+vendor: waveshare
+sku: waveshare-rp2040-one
+name: Waveshare RP2040-One
 description: Waveshare RP2040-One, 4MB Flash MCU Board Based On Raspberry Pi RP2040
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-one-3.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rp2040-one.htm
-  repositories: []
-name: Waveshare RP2040-One
-ref: waveshare/waveshare-rp2040-one
-release_date: null
-sku: waveshare-rp2040-one
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-one-3.jpg

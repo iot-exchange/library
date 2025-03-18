@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: water-valve-6-5mm-12vdc
+ref: olimex/water-valve-6-5mm-12vdc
+vendor: olimex
+sku: water-valve-6-5mm-12vdc
+name: WATER-VALVE-6-5MM-12VDC
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Misc/WATER-VALVE-6-5MM-12VDC/images/thumbs/200x150/WATER-VALVE-6.5MM-12VDC-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Misc/WATER-VALVE-6-5MM-12VDC/
-  repositories: []
-name: WATER-VALVE-6-5MM-12VDC
-ref: olimex/water-valve-6-5mm-12vdc
-release_date: null
-sku: water-valve-6-5mm-12vdc
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Misc/WATER-VALVE-6-5MM-12VDC/images/thumbs/200x150/WATER-VALVE-6.5MM-12VDC-1.jpg

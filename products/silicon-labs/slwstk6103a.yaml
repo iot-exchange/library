@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: slwstk6103a
+ref: silicon-labs/slwstk6103a
+vendor: silicon-labs
+sku: slwstk6103a
+name: SLWSTK6103A
 description: BGM220 Bluetooth Module Wireless Starter Kit
+status: ''
 extra:
   MSRP: $186.00
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/bluetooth/bgm220-wireless-starter-kit
-  repositories: []
-name: SLWSTK6103A
-ref: silicon-labs/slwstk6103a
-release_date: null
-sku: slwstk6103a
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

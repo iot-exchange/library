@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: e-paper-esp8266-driver-board
+ref: waveshare/e-paper-esp8266-driver-board
+vendor: waveshare
+sku: e-paper-esp8266-driver-board
+name: e-Paper ESP8266 Driver Board
 description: Universal e-Paper Raw Panel Driver Board, ESP8266 WiFi Wireless
+status: ''
 extra:
   Price: $13.19 - $13.99
   SKU: '14138'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/-/e-paper-esp8266-driver-board-1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/e-paper-esp8266-driver-board.htm
-  repositories: []
-name: e-Paper ESP8266 Driver Board
-ref: waveshare/e-paper-esp8266-driver-board
-release_date: null
-sku: e-paper-esp8266-driver-board
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/-/e-paper-esp8266-driver-board-1_2.jpg

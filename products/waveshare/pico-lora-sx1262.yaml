@@ -1,27 +1,20 @@
-alternatives: []
-certifications: []
+id: pico-lora-sx1262
+ref: waveshare/pico-lora-sx1262
+vendor: waveshare
+sku: pico-lora-sx1262
+name: pico_lora_sx1262
 description: SX1262 LoRa Node Module for Raspberry Pi Pico, LoRaWAN, Choice Of Frequency
   Band
+status: ''
 extra:
-  Multi Options: ''
   Price: $14.99
+  Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-lora-sx1262-868m-1_3.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb-matrix-p3-64x32-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pico-lora-sx1262-868m.htm
   - https://www.waveshare.com/product/pico-lora-sx1262-868m.htm "SX1262 LoRa Node
     Module for Raspberry Pi Pico, LoRaWAN, Choice Of Frequency Band"
   - https://www.waveshare.com/product/rgb-matrix-p3-64x32.htm
-  repositories: []
-name: pico_lora_sx1262
-ref: waveshare/pico-lora-sx1262
-release_date: null
-sku: pico-lora-sx1262
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-lora-sx1262-868m-1_3.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb-matrix-p3-64x32-1.jpg

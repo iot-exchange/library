@@ -1,0 +1,14 @@
+id: ur41
+ref: milesight/ur41
+vendor: milesight
+sku: ur41
+name: UR41
+description: Mini Series UR41 4G Industrial Router Perfect Match for Small Embedded
+  Scenes
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/cellular/ur41
+  images:
+  - https://www.milesight.com/static/pc/en/product/center/5g-cellular-products/index/ur41-rputer.png?t=1742198692607

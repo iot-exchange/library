@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: oak-d-lite
+ref: waveshare/oak-d-lite
+vendor: waveshare
+sku: oak-d-lite
+name: OAK-D-Lite
 description: OAK-D-Lite HD Camera Development Kit, OpenCV AI Machine Vision Kit
+status: ''
 extra:
   Price: $176.59 - $179.99
   SKU: '21545'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/a/oak-d-lite-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/oak-d-lite.htm
-  repositories: []
-name: OAK-D-Lite
-ref: waveshare/oak-d-lite
-release_date: null
-sku: oak-d-lite
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/a/oak-d-lite-1.jpg

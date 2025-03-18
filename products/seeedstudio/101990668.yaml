@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '101990668'
+ref: seeedstudio/101990668
+vendor: seeedstudio
+sku: '101990668'
+name: '101990668'
 description: "An IP68 RS485 Soil Moisture and Temperature Sensor ranges - from 0%\
   \ to 100% of saturation and -40\u2103 ~ +80\u2103. Used in soil applications like\
   \ water-saving irrigation and greenhouse management. Use the sensor with SenseCAP\
   \ Data Logger for seamless data collection and management."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101990668-rs485-soil-moisture-_-temperature-sensor-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/RS485-Soil-Moisture-Temperature-Sensor-S-Soil-MT-02-p-4634.html
-  repositories: []
-name: '101990668'
-ref: seeedstudio/101990668
-release_date: null
-sku: '101990668'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101990668-rs485-soil-moisture-_-temperature-sensor-45font.jpg

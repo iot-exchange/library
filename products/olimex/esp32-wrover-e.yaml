@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: esp32-wrover-e
+ref: olimex/esp32-wrover-e
+vendor: olimex
+sku: esp32-wrover-e
+name: ESP32-WROVER-E
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/ESP32/ESP32-WROOM-32/images/thumbs/200x150/ESP32-WROOM32-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/ESP32/ESP32-WROVER-E/
-  repositories: []
-name: ESP32-WROVER-E
-ref: olimex/esp32-wrover-e
-release_date: null
-sku: esp32-wrover-e
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32/ESP32-WROOM-32/images/thumbs/200x150/ESP32-WROOM32-1.jpg

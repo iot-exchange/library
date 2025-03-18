@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: hl7900
+ref: sierrawireless/hl7900
+vendor: sierrawireless
+sku: hl7900
+name: HL7900
 description: "Release 14/15/16/17* Cat-M1 / Cat-NB2\u200B"
+status: ''
 extra:
   Bands: B1, B2, B3, B4, B5, B8, B12, B13, B18, B19, B20, B23*, B25, B26, B27, B28,
     B66, B85, B255*, B256* _*Future firmware release_
   Fallback: NTN(future firmware release)
   Region (Carrier): Global
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.sierrawireless.com/wp-content/uploads/2022/01/HL79-150x150-1.png?w=150
-  models: []
   products:
   - https://www.sierrawireless.com/iot-modules/lpwa-modules/hl7900-global-5g/
-  repositories: []
-name: HL7900
-ref: sierrawireless/hl7900
-release_date: null
-sku: hl7900
-spec: null
-status: ''
-vendor: sierrawireless
+  images:
+  - https://www.sierrawireless.com/wp-content/uploads/2022/01/HL79-150x150-1.png?w=150

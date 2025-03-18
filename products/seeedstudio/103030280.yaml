@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '103030280'
+ref: seeedstudio/103030280
+vendor: seeedstudio
+sku: '103030280'
+name: '103030280'
 description: STM32F030 8-Channel 12-Bit ADC for Raspberry Pi
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/p/e/perspective_1_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/8-Channel-12-Bit-ADC-for-Raspberry-Pi-STM32F030.html
-  repositories: []
-name: '103030280'
-ref: seeedstudio/103030280
-release_date: null
-sku: '103030280'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/p/e/perspective_1_1.jpg

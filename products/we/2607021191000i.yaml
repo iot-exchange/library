@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 2607021191000i
+ref: we/2607021191000i
+vendor: we
+sku: 2607021191000i
+name: 2607021191000i
 description: Telesto-I USB radio stick
+status: NRND
 extra:
   Connector: SMA
   Dimensions: 74 x 23.65 x 12
@@ -8,18 +12,7 @@ extra:
   Frequency Range: 902.5 - 927.5
   Output Power: '550'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/components/products/manual/2607021191000_Telesto-I 260702119100x
     Manual_rev2.5.pdf
-  repositories: []
-name: 2607021191000i
-ref: we/2607021191000i
-release_date: null
-sku: 2607021191000i
-spec: null
-status: NRND
-vendor: we
+  images: []

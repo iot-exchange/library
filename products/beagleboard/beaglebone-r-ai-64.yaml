@@ -1,0 +1,15 @@
+id: beaglebone-r-ai-64
+ref: beagleboard/beaglebone-r-ai-64
+vendor: beagleboard
+sku: beaglebone-r-ai-64
+name: "BeagleBone\xAE AI-64"
+description: "A complete 64-bit AI and Machine Learning System with the convenience\
+  \ and expandability of the BeagleBone\xAE platform with the peripherals on board\
+  \ to get started right away learning and building applications."
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.beagleboard.org/boards/beaglebone-ai-64
+  images:
+  - https://www.beagleboard.org/app/uploads/2022/04/BeagleBone_AI_64-400x333.webp

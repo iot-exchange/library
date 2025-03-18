@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: wave-rover
+ref: waveshare/wave-rover
+vendor: waveshare
+sku: wave-rover
+name: wave_rover
 description: WAVE ROVER Flexible And Expandable 4WD Mobile Robot Chassis, Full Metal
   Body, Multiple Hosts Support, With Onboard ESP32 Module
+status: ''
 extra:
   Price: $89.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/a/wave-rover-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/wave-rover.htm
   - https://www.waveshare.com/product/wave-rover.htm "WAVE ROVER Flexible And Expandable
     4WD Mobile Robot Chassis, Full Metal Body, Multiple Hosts Support, With Onboard
     ESP32 Module"
-  repositories: []
-name: wave_rover
-ref: waveshare/wave-rover
-release_date: null
-sku: wave-rover
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/a/wave-rover-1.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sd-240-raquel-15cm
+ref: olimex/sd-240-raquel-15cm
+vendor: olimex
+sku: sd-240-raquel-15cm
+name: SD-240-Raquel-15cm
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/StencilPrinters/SD-240-Raquel-15cm/images/thumbs/200x150/SD-240-raq.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/StencilPrinters/SD-240-Raquel-15cm/
-  repositories: []
-name: SD-240-Raquel-15cm
-ref: olimex/sd-240-raquel-15cm
-release_date: null
-sku: sd-240-raquel-15cm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/StencilPrinters/SD-240-Raquel-15cm/images/thumbs/200x150/SD-240-raq.jpg

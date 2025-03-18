@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: female-1x16-std
+ref: olimex/female-1x16-std
+vendor: olimex
+sku: female-1x16-std
+name: FEMALE-1X16-STD
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Connectors/FEMALE-1X16-STD/images/thumbs/200x150/1x16.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Connectors/FEMALE-1X16-STD/
-  repositories: []
-name: FEMALE-1X16-STD
-ref: olimex/female-1x16-std
-release_date: null
-sku: female-1x16-std
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Connectors/FEMALE-1X16-STD/images/thumbs/200x150/1x16.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sld-kit-airplane
+ref: olimex/sld-kit-airplane
+vendor: olimex
+sku: sld-kit-airplane
+name: SLD-KIT-AIRPLANE
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Soldering-Kits/Beginner/SLD-KIT-AIRPLANE/images/thumbs/200x150/SLD-KIT-AIRPLANE-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Soldering-Kits/Beginner/SLD-KIT-AIRPLANE/
-  repositories: []
-name: SLD-KIT-AIRPLANE
-ref: olimex/sld-kit-airplane
-release_date: null
-sku: sld-kit-airplane
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Soldering-Kits/Beginner/SLD-KIT-AIRPLANE/images/thumbs/200x150/SLD-KIT-AIRPLANE-1.jpg

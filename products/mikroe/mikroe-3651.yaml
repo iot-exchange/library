@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-3651
+ref: mikroe/mikroe-3651
+vendor: mikroe
+sku: mikroe-3651
+name: MIKROE-3651
 description: Buck 13 Click is a high-efficiency step-down converter which provides
   a highly regulated output voltage derived from the connected power source, rated
   from 4.5V to 5.5V. The regulated output voltage is 3.3V, the most common choice
   for various embedded applications.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/buck-13-click/buck-13-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/buck-13-click
-  repositories: []
-name: MIKROE-3651
-ref: mikroe/mikroe-3651
-release_date: null
-sku: mikroe-3651
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/buck-13-click/buck-13-click-home_default-1.jpg?v=100

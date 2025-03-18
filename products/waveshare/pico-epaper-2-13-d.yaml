@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: pico-epaper-2-13-d
+ref: waveshare/pico-epaper-2-13-d
+vendor: waveshare
+sku: pico-epaper-2-13-d
+name: Pico-ePaper-2.13-D
 description: "2.13inch Flexible E-Paper E-Ink Display Module for Raspberry Pi Pico,\
   \ 212\xD7104, Black / White, SPI"
+status: ''
 extra:
   Price: $18.29 - $19.99
   SKU: '20124'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/pico-epaper-2.13-d.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/i/5inch-hdmi-lcd-h-v4-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-epaper-2.13-d-1.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/pico-epaper-2.13-d.htm
-  repositories: []
-name: Pico-ePaper-2.13-D
-ref: waveshare/pico-epaper-2-13-d
-release_date: null
-sku: pico-epaper-2-13-d
-spec: null
-status: ''
-vendor: waveshare

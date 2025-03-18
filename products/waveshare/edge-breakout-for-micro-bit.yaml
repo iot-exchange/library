@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: edge-breakout-for-micro-bit
+ref: waveshare/edge-breakout-for-micro-bit
+vendor: waveshare
+sku: edge-breakout-for-micro-bit
+name: Edge Breakout for micro:bit
 description: Edge Breakout for micro:bit, I/O Expansion
+status: ''
 extra:
   Price: $8.39 - $8.99
   SKU: '14513'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/d/edge-breakout-for-micro-bit-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/edge-breakout-for-micro-bit.htm
-  repositories: []
-name: Edge Breakout for micro:bit
-ref: waveshare/edge-breakout-for-micro-bit
-release_date: null
-sku: edge-breakout-for-micro-bit
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/d/edge-breakout-for-micro-bit-1.jpg

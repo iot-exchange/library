@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rsbl120-24
+ref: waveshare/rsbl120-24
+vendor: waveshare
+sku: rsbl120-24
+name: RSBL120-24
 description: "120kg.cm RSBL120-24 Servo Motor, High Precision And Large Torque, Aluminum\
   \ Alloy Case, With Programmable 360\xB0 Magnetic Encoder"
+status: ''
 extra:
   Price: $215.91 - $219.99
   SKU: '27165'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rsbl120-24-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rsbl120-24.htm
-  repositories: []
-name: RSBL120-24
-ref: waveshare/rsbl120-24
-release_date: null
-sku: rsbl120-24
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rsbl120-24-1.jpg

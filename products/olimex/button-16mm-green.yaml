@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: button-16mm-green
+ref: olimex/button-16mm-green
+vendor: olimex
+sku: button-16mm-green
+name: BUTTON-16MM-GREEN
 description: ''
+status: ''
 extra:
   discountedPrice1: 2.70 EUR
   discountedPrice2: 2.40 EUR
   price: 3.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Switches/WATER-PROOF-BUTTONS/images/thumbs/200x150/but-12mm.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Switches/BUTTON-16MM-GREEN/
-  repositories: []
-name: BUTTON-16MM-GREEN
-ref: olimex/button-16mm-green
-release_date: null
-sku: button-16mm-green
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Switches/WATER-PROOF-BUTTONS/images/thumbs/200x150/but-12mm.jpg

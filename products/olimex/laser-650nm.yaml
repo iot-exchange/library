@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: laser-650nm
+ref: olimex/laser-650nm
+vendor: olimex
+sku: laser-650nm
+name: LASER-650nm
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/LEDs/LASER-650nm/images/thumbs/200x150/Laser650nm.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/LEDs/LASER-650nm/
-  repositories: []
-name: LASER-650nm
-ref: olimex/laser-650nm
-release_date: null
-sku: laser-650nm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/LEDs/LASER-650nm/images/thumbs/200x150/Laser650nm.jpg

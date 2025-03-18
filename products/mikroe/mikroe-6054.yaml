@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6054
+ref: mikroe/mikroe-6054
+vendor: mikroe
+sku: mikroe-6054
+name: MIKROE-6054
 description: Expand 17 Click is a compact add-on board designed to expand the number
   of input/output pins in your system. This board features the TCAL6408, an 8-bit
   I/O expander from Texas Instruments, which communicates via the I2C protocol. The
   TCAL6408 features programmable output drive strength, latchable inputs, pull-up/pull-down
   resistors, and configurable...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/expand-17-click/expand-17-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/expand-17-click
-  repositories: []
-name: MIKROE-6054
-ref: mikroe/mikroe-6054
-release_date: null
-sku: mikroe-6054
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/expand-17-click/expand-17-click-home_default-1.jpg?v=100

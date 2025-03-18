@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: ceramic-discriminators
+ref: murata/ceramic-discriminators
+vendor: murata
+sku: ceramic-discriminators
+name: Ceramic Discriminators
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/search/productsearch?cate=luCeramFilteCeramDiscr
-  repositories: []
-name: Ceramic Discriminators
-ref: murata/ceramic-discriminators
-release_date: null
-sku: ceramic-discriminators
-spec: null
-status: ''
-vendor: murata
+  images: []

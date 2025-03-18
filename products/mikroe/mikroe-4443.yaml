@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-4443
+ref: mikroe/mikroe-4443
+vendor: mikroe
+sku: mikroe-4443
+name: MIKROE-4443
 description: "Arduino Nano Click Shield The ideal solution for combining an Arduino\
   \ Nano board with your favorite Click boards\u2122 Start your project development\
   \ with our Arduino Nano Click Shield fast and easy. The Arduino Nano board, in combination\
   \ with the mikroBUS\u2122 socket, provides you immediate access to hundreds of Click\
   \ boards\u2122 in our offer, allowing you to..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/arduino-nano-click-shield/arduino-nano-click-shield-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/lte-iot-4-click/lte-iot-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/arduino-nano-click-shield
   - https://www.mikroe.com/lte-iot-4-click
-  repositories: []
-name: MIKROE-4443
-ref: mikroe/mikroe-4443
-release_date: null
-sku: mikroe-4443
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/arduino-nano-click-shield/arduino-nano-click-shield-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/lte-iot-4-click/lte-iot-4-click-home_default-1.jpg?v=100

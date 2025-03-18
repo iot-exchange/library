@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: modbus-rtu-analog-output-8ch
+ref: waveshare/modbus-rtu-analog-output-8ch
+vendor: waveshare
+sku: modbus-rtu-analog-output-8ch
+name: modbus_rtu_analog_output_8ch
 description: Industrial 8-Ch Analog Output Module, 12-bit DA Conversion, Supports
   8-ch Simultaneous Voltage Or Current Output, DC 7~36V Wide Voltage Power Supply
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/o/modbus-rtu-analog-output-8ch-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/modbus-rtu-analog-output-8ch.htm
-  repositories: []
-name: modbus_rtu_analog_output_8ch
-ref: waveshare/modbus-rtu-analog-output-8ch
-release_date: null
-sku: modbus-rtu-analog-output-8ch
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/o/modbus-rtu-analog-output-8ch-b-1.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: shield-ekg-emg-pa
+ref: olimex/shield-ekg-emg-pa
+vendor: olimex
+sku: shield-ekg-emg-pa
+name: SHIELD-EKG-EMG-PA
 description: ''
+status: ''
 extra:
   price1: 9.95 EUR
   price2: 8.96 EUR
   price3: 7.96 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Duino/Shields/SHIELD-EKG-EMG-PA/images/thumbs/200x150/SHIELD-EKG-EMG-PA.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Duino/Shields/SHIELD-EKG-EMG-PA/open-source-hardware
-  repositories: []
-name: SHIELD-EKG-EMG-PA
-ref: olimex/shield-ekg-emg-pa
-release_date: null
-sku: shield-ekg-emg-pa
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Duino/Shields/SHIELD-EKG-EMG-PA/images/thumbs/200x150/SHIELD-EKG-EMG-PA.jpg

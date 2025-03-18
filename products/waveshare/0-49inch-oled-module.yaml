@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: 0-49inch-oled-module
+ref: waveshare/0-49inch-oled-module
+vendor: waveshare
+sku: 0-49inch-oled-module
+name: 0.49inch OLED Module
 description: "0.49inch OLED Display Module, 64\xD732 Resolution, I2C Communication,\
   \ Black / White Display Color"
+status: ''
 extra:
   Price: $5.31 - $5.99
   SKU: '26783'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/0.49inch-oled-module.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/0/_/0.49inch-oled-module-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/0/_/0.49inch-oled-module-2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/0.49inch-oled-module.htm
-  repositories: []
-name: 0.49inch OLED Module
-ref: waveshare/0-49inch-oled-module
-release_date: null
-sku: 0-49inch-oled-module
-spec: null
-status: ''
-vendor: waveshare

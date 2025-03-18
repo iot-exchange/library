@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: lumeo-ai-gateway-powered-by-recomputer-industrial-jetson-orin
+ref: seeedstudio/lumeo-ai-gateway-powered-by-recomputer-industrial-jetson-orin
+vendor: seeedstudio
+sku: lumeo-ai-gateway-powered-by-recomputer-industrial-jetson-orin
+name: Lumeo AI Gateway powered by reComputer Industrial Jetson Orin
 description: "Easily build, and manage custom video analytics applications with Lumeo\u2019\
   s intuitive no-code platform equipped with drag-and-drop tools and pre-built analytics,\
   \ reducing development time from days to minutes. Deploy instantly to the edge using\
   \ this Lumeo AI Gateway powered by reComputer Industrial Jetson Orin device."
+status: ''
 extra:
   features: No-code, drag-and-drop tools
   platform: Lumeo
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/0/1/01_.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Lumeo-AI-Gateway-bundle-5819.html
-  repositories: []
-name: Lumeo AI Gateway powered by reComputer Industrial Jetson Orin
-ref: seeedstudio/lumeo-ai-gateway-powered-by-recomputer-industrial-jetson-orin
-release_date: null
-sku: lumeo-ai-gateway-powered-by-recomputer-industrial-jetson-orin
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/0/1/01_.jpg

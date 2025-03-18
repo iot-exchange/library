@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: nl668-eu
+ref: fibocom/nl668-eu
+vendor: fibocom
+sku: nl668-eu
+name: NL668-EU
 description: ''
+status: ''
 extra:
   Bands: 'LTE: B1/3/5/7/8/20'
   Form Factor: ''
   Region: Europe
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTECat-NL668-EU.html
-  repositories: []
-name: NL668-EU
-ref: fibocom/nl668-eu
-release_date: null
-sku: nl668-eu
-spec: null
-status: ''
-vendor: fibocom
+  images: []

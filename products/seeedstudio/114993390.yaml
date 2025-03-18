@@ -1,29 +1,22 @@
-alternatives: []
-certifications: []
+id: '114993390'
+ref: seeedstudio/114993390
+vendor: seeedstudio
+sku: '114993390'
+name: '114993390'
 description: The Wio-SX1262 is a LoRa wireless module based on the Semtech SX1262
   chip, supporting LoRa & LoRaWAN frequency from 868 to 915 MHz. Equipped with an
   onboard IPEX antenna connector and high-quality components like the TCXO, it ensures
   stable operation even under harsh conditions. Suitable for industrial, agricultural,
   smart home, and other long-range, low-power applications.
+status: ''
 extra:
   application: industrial, agricultural, smart home, long-range, low-power
   frequency: 868 to 915 MHz
   price: $6.49
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993390-wio-sx1262-wireless-module.jpg
-  - https://www.seeedstudio.com/img/aj
-  models: []
   products:
   - https://www.seeedstudio.com/Wio-SX1262-Wireless-Module
   - https://www.seeedstudio.com/Wio-SX1262-Wireless-Module-p-5981.html
-  repositories: []
-name: '114993390'
-ref: seeedstudio/114993390
-release_date: null
-sku: '114993390'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993390-wio-sx1262-wireless-module.jpg
+  - https://www.seeedstudio.com/img/aj

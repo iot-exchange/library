@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: k4b4g1646d-hyk0
+ref: olimex/k4b4g1646d-hyk0
+vendor: olimex
+sku: k4b4g1646d-hyk0
+name: K4B4G1646D-HYK0
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/IC/K4B4G1646D-HYK0/images/thumbs/200x150/hyk0.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/IC/K4B4G1646D-HYK0/
-  repositories: []
-name: K4B4G1646D-HYK0
-ref: olimex/k4b4g1646d-hyk0
-release_date: null
-sku: k4b4g1646d-hyk0
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/IC/K4B4G1646D-HYK0/images/thumbs/200x150/hyk0.jpg

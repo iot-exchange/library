@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-5702
+ref: mikroe/mikroe-5702
+vendor: mikroe
+sku: mikroe-5702
+name: MIKROE-5702
 description: Color 17 Click is a compact add-on board representing an accurate color-sensing
   solution. This board features the OPT4048, a high-speed precision tristimulus XYZ
   color sensor from Texas Instruments. The sensor has four sensing channels and uses
   precision optical filters to mimic the normal vision of the human eye. The OPT4048
   also has 12 configurable...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/color-17-click/color-17-click-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/magneto-13-click/magneto-13-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/color-17-click
   - https://www.mikroe.com/magneto-13-click
-  repositories: []
-name: MIKROE-5702
-ref: mikroe/mikroe-5702
-release_date: null
-sku: mikroe-5702
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/color-17-click/color-17-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/magneto-13-click/magneto-13-click-home_default-1.jpg?v=100

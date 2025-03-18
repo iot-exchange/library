@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: robot-2wd-kit2
+ref: olimex/robot-2wd-kit2
+vendor: olimex
+sku: robot-2wd-kit2
+name: ROBOT-2WD-KIT2
 description: ''
+status: ''
 extra:
   discountedPrice1: 10.80 EUR
   discountedPrice2: 9.60 EUR
@@ -9,18 +13,7 @@ extra:
   price2: 10.80 EUR
   price3: 9.60 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/KITS/ROBOT-2WD-KIT2/images/thumbs/200x150/ROBOT-2WD2-6.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/KITS/ROBOT-2WD-KIT2/
-  repositories: []
-name: ROBOT-2WD-KIT2
-ref: olimex/robot-2wd-kit2
-release_date: null
-sku: robot-2wd-kit2
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/KITS/ROBOT-2WD-KIT2/images/thumbs/200x150/ROBOT-2WD2-6.jpg

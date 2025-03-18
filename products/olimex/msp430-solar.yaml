@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: msp430-solar
+ref: olimex/msp430-solar
+vendor: olimex
+sku: msp430-solar
+name: MSP430-SOLAR
 description: ''
+status: ''
 extra:
   price1: 6.95 EUR
   price2: 6.26 EUR
   price3: 5.56 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/MSP430/Power/MSP430-SOLAR/images/thumbs/200x150/MSP430-SOLAR-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/MSP430/Power/MSP430-SOLAR/
-  repositories: []
-name: MSP430-SOLAR
-ref: olimex/msp430-solar
-release_date: null
-sku: msp430-solar
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/MSP430/Power/MSP430-SOLAR/images/thumbs/200x150/MSP430-SOLAR-01.jpg

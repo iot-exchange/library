@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: xg24-rb4186c
+ref: silicon-labs/xg24-rb4186c
+vendor: silicon-labs
+sku: xg24-rb4186c
+name: XG24-RB4186C
 description: EFR32xG24 Wireless 2.4 GHz +10 dBm Radio Board
+status: ''
 extra:
   MSRP: $39.00
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/xg24-rb4186c-efr32xg24-wireless-gecko-radio-board
-  repositories: []
-name: XG24-RB4186C
-ref: silicon-labs/xg24-rb4186c
-release_date: null
-sku: xg24-rb4186c
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

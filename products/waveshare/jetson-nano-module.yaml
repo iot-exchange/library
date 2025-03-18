@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: jetson-nano-module
+ref: waveshare/jetson-nano-module
+vendor: waveshare
+sku: jetson-nano-module
+name: Jetson Nano Module
 description: NVIDIA Jetson Nano Module, Small AI SOM, with 16GB EMMC
+status: ''
 extra:
   Price: $127.95 - $129.99
   SKU: '17865'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-nano-module-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/jetson-nano-module.htm
-  repositories: []
-name: Jetson Nano Module
-ref: waveshare/jetson-nano-module
-release_date: null
-sku: jetson-nano-module
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-nano-module-2.jpg

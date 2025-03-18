@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: xg27-pk6019a
+ref: silicon-labs/xg27-pk6019a
+vendor: silicon-labs
+sku: xg27-pk6019a
+name: xG27-PK6019A
 description: EFR32xG27 Pro Kit +4 dBm (Boost)
+status: ''
 extra:
   MSRP: $176.00
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/efr32xg27-pro-kit-4-dbm-boost
-  repositories: []
-name: xG27-PK6019A
-ref: silicon-labs/xg27-pk6019a
-release_date: null
-sku: xg27-pk6019a
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

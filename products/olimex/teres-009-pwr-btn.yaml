@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-009-pwr-btn
+ref: olimex/teres-009-pwr-btn
+vendor: olimex
+sku: teres-009-pwr-btn
+name: TERES-009-Pwr-Btn
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-009-Pwr-Btn/images/thumbs/200x150/TERES-009-Pwr-Btn.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-009-Pwr-Btn/
-  repositories: []
-name: TERES-009-Pwr-Btn
-ref: olimex/teres-009-pwr-btn
-release_date: null
-sku: teres-009-pwr-btn
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-009-Pwr-Btn/images/thumbs/200x150/TERES-009-Pwr-Btn.jpg

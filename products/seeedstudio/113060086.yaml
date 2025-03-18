@@ -1,28 +1,21 @@
-alternatives: []
-certifications: []
+id: '113060086'
+ref: seeedstudio/113060086
+vendor: seeedstudio
+sku: '113060086'
+name: '113060086'
 description: "The Raspberry Pi AI Kit bundles the Raspberry Pi M.2 HAT+ with a Hailo\
   \ AI acceleration module. It's designed for Raspberry Pi 5, but you can also elevate\
   \ your Raspberry Pi CM4 edge IoT devices with M.2 slots, like reComputer R1000,\
   \ to the AI level through additional AI capabilities and SSD storage. \u3010Valentine's\
   \ Day offer: 5% off for 2 or more items, ends on February 18\uFF0C2025\u3011"
+status: ''
 extra:
+  price: $70.00
   offer: 'Valentine''s Day offer: 5% off for 2 or more items, ends on February 18,
     2025'
-  price: $70.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/1/1/113060086-gif_1.gif
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-2246.html?bazaar4_retailer-products%5Bpage%5D=2#113060086
   - https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html
-  repositories: []
-name: '113060086'
-ref: seeedstudio/113060086
-release_date: null
-sku: '113060086'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/1/1/113060086-gif_1.gif

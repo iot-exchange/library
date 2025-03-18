@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-6148
+ref: mikroe/mikroe-6148
+vendor: mikroe
+sku: mikroe-6148
+name: MIKROE-6148
 description: RESISTIVE FPI with frame Front Panel Integration Rapid development of
   multimedia and gui-centric applications
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mikromedia-7-resistive-fpi-with-frame/mikromedia-7-resistive-fpi-with-frame-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mikromedia-7-resistive-fpi-with-frame
-  repositories: []
-name: MIKROE-6148
-ref: mikroe/mikroe-6148
-release_date: null
-sku: mikroe-6148
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-7-resistive-fpi-with-frame/mikromedia-7-resistive-fpi-with-frame-home_default-1.jpg?v=100

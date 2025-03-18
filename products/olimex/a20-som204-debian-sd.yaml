@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: a20-som204-debian-sd
+ref: olimex/a20-som204-debian-sd
+vendor: olimex
+sku: a20-som204-debian-sd
+name: A20-SOM204-DEBIAN-SD
 description: ''
+status: ''
 extra:
   10+ pcs: 8.96 EUR
   50+ pcs: 7.96 EUR
   Price: 9.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/A20/A20-SD-CARDS/images/thumbs/200x150/SD-Card.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/A20/A20-SOM204-DEBIAN-SD/
-  repositories: []
-name: A20-SOM204-DEBIAN-SD
-ref: olimex/a20-som204-debian-sd
-release_date: null
-sku: a20-som204-debian-sd
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A20/A20-SD-CARDS/images/thumbs/200x150/SD-Card.jpg

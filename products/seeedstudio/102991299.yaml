@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '102991299'
+ref: seeedstudio/102991299
+vendor: seeedstudio
+sku: '102991299'
+name: '102991299'
 description: Wio Terminal is an Microchip ATSAMD51-based microcontroller with both
   Bluetooth and Wi-Fi Wireless connectivity powered by Realtek RTL8720DN, compatible
   with Arduino and MicroPython.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102110419_1_.png
-  models: []
   products:
   - https://www.seeedstudio.com/Wio-Terminal-p-4509.html
-  repositories: []
-name: '102991299'
-ref: seeedstudio/102991299
-release_date: null
-sku: '102991299'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102110419_1_.png

@@ -1,35 +1,11 @@
-alternatives: []
-certifications: []
+id: type-1ld-ayla
+ref: murata/type-1ld-ayla
+vendor: murata
+sku: type-1ld-ayla
+name: Type 1LD-Ayla
 description: Wi-Fi 4 module for consumer and industrial equipment.
+status: ''
 extra:
-  Additional Info: ''
-  Bluetooth: 'No'
-  Certification: 'Yes'
-  Chip: CYW43438
-  Current Consumption: 330mA @ 11Mbps (2.4GHz)
-  Dimensions: 8.9 x 7.8 x 1.2 mm
-  Enclosure: Shielded Resin
-  Frequency: 2.4GHz
-  GPIO: 'No'
-  I/O Voltage: 'Yes'
-  Interfaces: GPIO
-  Manufacturer: Infineon
-  Market: Consumer
-  Material: Shielded Resin
-  Mounting Type: SMT
-  Operating Temperature: "-40\u2103 to 85\u2103"
-  Packaging: Tape and Reel
-  Power Consumption: 330mA @ 11Mbps (2.4GHz), 250mA @ 54Mbps (2.4GHz), 240mA @ 65Mbps
-    (2.4GHz)
-  Processor: STM32 ARM Cortex-M4F
-  SDK: Ayla
-  Sleep Current: 55mA
-  Status: 'Yes'
-  Target Market: Consumer
-  Temperature Range: "-40\u2103 to 85\u2103"
-  Voltage: 3.3V
-  Voltage Range: 3.3V
-  Wi-Fi: 'Yes'
   dimensions: 8.9 x 7.8 x 1.2 mm
   idleCurrent: 55mA
   interface: GPIO
@@ -38,17 +14,34 @@ extra:
   processor: STM32 ARM Cortex-M4F
   temperatureRange: "-40\u2103 to 85\u2103"
   voltage: 3.3V
+  Chip: CYW43438
+  Dimensions: 8.9 x 7.8 x 1.2 mm
+  Enclosure: Shielded Resin
+  Frequency: 2.4GHz
+  GPIO: 'No'
+  Interfaces: GPIO
+  Manufacturer: Infineon
+  Market: Consumer
+  Mounting Type: SMT
+  Packaging: Tape and Reel
+  Power Consumption: 330mA @ 11Mbps (2.4GHz), 250mA @ 54Mbps (2.4GHz), 240mA @ 65Mbps
+    (2.4GHz)
+  Processor: STM32 ARM Cortex-M4F
+  SDK: Ayla
+  Sleep Current: 55mA
+  Temperature Range: "-40\u2103 to 85\u2103"
+  Voltage: 3.3V
+  Wi-Fi: 'Yes'
+  Additional Info: ''
+  Bluetooth: 'No'
+  Certification: 'Yes'
+  Current Consumption: 330mA @ 11Mbps (2.4GHz)
+  I/O Voltage: 'Yes'
+  Material: Shielded Resin
+  Operating Temperature: "-40\u2103 to 85\u2103"
+  Status: 'Yes'
+  Target Market: Consumer
+  Voltage Range: 3.3V
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Type 1LD-Ayla
-ref: murata/type-1ld-ayla
-release_date: null
-sku: type-1ld-ayla
-spec: null
-status: ''
-vendor: murata
+  images: []

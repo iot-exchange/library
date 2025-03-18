@@ -1,0 +1,13 @@
+id: ts201
+ref: milesight/ts201
+vendor: milesight
+sku: ts201
+name: TS201
+description: Cost Effective Temperature Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/ts201
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/insertion-temperature-sensor-ts-series/ts201.png?t=1742198585390

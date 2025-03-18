@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rtc-watchdog-hat-b
+ref: waveshare/rtc-watchdog-hat-b
+vendor: waveshare
+sku: rtc-watchdog-hat-b
+name: RTC Watchdog HAT (B)
 description: RTC WatchDog HAT (B) For Raspberry Pi, Onboard DS3231SN High Precision
   RTC Chip
+status: ''
 extra:
   Price: $12.31 - $12.99
   SKU: '25766'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/t/rtc-watchdog-hat-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rtc-watchdog-hat-b.htm
-  repositories: []
-name: RTC Watchdog HAT (B)
-ref: waveshare/rtc-watchdog-hat-b
-release_date: null
-sku: rtc-watchdog-hat-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/t/rtc-watchdog-hat-b-1.jpg

@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: 50h-800480-ips
+ref: waveshare/50h-800480-ips
+vendor: waveshare
+sku: 50h-800480-ips
+name: 50h-800480-ips
 description: "5inch DSI Display, 800 \xD7 480, IPS, Thin and Light Design, Touch Function\
   \ Optional"
+status: ''
 extra:
   multiOptions: Multi Options
   price: $27.99 - $32.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/0/50h-800480-ips-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/50h-800480-ips.htm
   - "https://www.waveshare.com/product/50h-800480-ips.htm \"5inch DSI Display, 800\
     \ \xD7 480, IPS, Thin and Light Design, Touch Function Optional\""
-  repositories: []
-name: 50h-800480-ips
-ref: waveshare/50h-800480-ips
-release_date: null
-sku: 50h-800480-ips
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/0/50h-800480-ips-1.jpg

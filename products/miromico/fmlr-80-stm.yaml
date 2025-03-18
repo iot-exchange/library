@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: fmlr-80-stm
+ref: miromico/fmlr-80-stm
+vendor: miromico
+sku: fmlr-80-stm
+name: FMLR-80-STM
 description: "LoRa\xAE and LoRaWAN\xAE IoT modules enable wireless connectivity for\
   \ devices, systems, and sensors, supporting high data rates and long-distance communication."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://miromico.ch/files/miromico/media-data/product_images/FMLR_Module/FMLR-80-STM/jpg/FMLR-80-STM_2500px.jpg
-  models: []
   products:
   - https://miromico.ch/en/products/details/FMLR-80-STM
-  repositories: []
-name: FMLR-80-STM
-ref: miromico/fmlr-80-stm
-release_date: null
-sku: fmlr-80-stm
-spec: null
-status: ''
-vendor: miromico
+  images:
+  - https://miromico.ch/files/miromico/media-data/product_images/FMLR_Module/FMLR-80-STM/jpg/FMLR-80-STM_2500px.jpg

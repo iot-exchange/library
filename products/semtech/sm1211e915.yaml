@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: sm1211e915
+ref: semtech/sm1211e915
+vendor: semtech
+sku: sm1211e915
+name: SM1211E915
 description: Evaluation Module, SX1211, 915 MHz
+status: ''
 extra:
   Chipset: SX1211
   Type: Module Kit
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.semtech.com/products/wireless-rf/frequency-shift-keying-fsk/sm1211e915
-  repositories: []
-name: SM1211E915
-ref: semtech/sm1211e915
-release_date: null
-sku: sm1211e915
-spec: null
-status: ''
-vendor: semtech
+  images: []

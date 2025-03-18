@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: mg-fix
+ref: olimex/mg-fix
+vendor: olimex
+sku: mg-fix
+name: MG-FIX
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/MG-FIX/images/thumbs/200x150/MG-FIX2.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/MG-FIX/
-  repositories: []
-name: MG-FIX
-ref: olimex/mg-fix
-release_date: null
-sku: mg-fix
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/MG-FIX/images/thumbs/200x150/MG-FIX2.jpg

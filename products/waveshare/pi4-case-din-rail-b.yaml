@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: pi4-case-din-rail-b
+ref: waveshare/pi4-case-din-rail-b
+vendor: waveshare
+sku: pi4-case-din-rail-b
+name: PI4-CASE-DIN-RAIL-B
 description: DIN Rail ABS Case for Raspberry Pi 4, Large Inner Space, Injection Moduling
+status: ''
 extra:
   Price: $9.31 - $9.99
   SKU: '21173'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-case-din-rail-a-1.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-case-din-rail-b-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pi4-case-din-rail-a.htm
   - https://www.waveshare.com/product/pi4-case-din-rail-b.htm
-  repositories: []
-name: PI4-CASE-DIN-RAIL-B
-ref: waveshare/pi4-case-din-rail-b
-release_date: null
-sku: pi4-case-din-rail-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-case-din-rail-a-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-case-din-rail-b-2.jpg

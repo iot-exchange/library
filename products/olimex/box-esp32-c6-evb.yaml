@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: box-esp32-c6-evb
+ref: olimex/box-esp32-c6-evb
+vendor: olimex
+sku: box-esp32-c6-evb
+name: BOX-ESP32-C6-EVB
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/ESP32-C6/BOX-ESP32-C6-EVB/images/thumbs/200x150/ESP32-C6-EVB-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/ESP32-C6/BOX-ESP32-C6-EVB/
-  repositories: []
-name: BOX-ESP32-C6-EVB
-ref: olimex/box-esp32-c6-evb
-release_date: null
-sku: box-esp32-c6-evb
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32-C6/BOX-ESP32-C6-EVB/images/thumbs/200x150/ESP32-C6-EVB-1.jpg

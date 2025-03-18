@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: ic51-1004-1919-2
+ref: waveshare/ic51-1004-1919-2
+vendor: waveshare
+sku: ic51-1004-1919-2
+name: IC51-1004-1919-2
 description: Test & Burn-in Socket
+status: ''
 extra:
-  Price: $147.99 - $156.99
   Price Range: $147.99 - $156.99
   SKU: '10403'
+  Price: $147.99 - $156.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ic51-1004-1919-2_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ic51-1004-1919-2.htm
-  repositories: []
-name: IC51-1004-1919-2
-ref: waveshare/ic51-1004-1919-2
-release_date: null
-sku: ic51-1004-1919-2
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ic51-1004-1919-2_l_1_5.jpg

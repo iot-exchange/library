@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: button-19mm-yellow
+ref: olimex/button-19mm-yellow
+vendor: olimex
+sku: button-19mm-yellow
+name: BUTTON-19MM-YELLOW
 description: ''
+status: ''
 extra:
   discountedPrice1: 3.33 EUR
   discountedPrice2: 2.96 EUR
   price: 3.70 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Switches/WATER-PROOF-BUTTONS/images/thumbs/200x150/but-12mm.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Switches/BUTTON-19MM-YELLOW/
-  repositories: []
-name: BUTTON-19MM-YELLOW
-ref: olimex/button-19mm-yellow
-release_date: null
-sku: button-19mm-yellow
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Switches/WATER-PROOF-BUTTONS/images/thumbs/200x150/but-12mm.jpg

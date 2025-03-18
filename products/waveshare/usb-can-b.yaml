@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: usb-can-b
+ref: waveshare/usb-can-b
+vendor: waveshare
+sku: usb-can-b
+name: USB-CAN-B
 description: USB to CAN Adapter, Dual-Channel CAN Analyzer, Industrial Isolation
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-can-b-1_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-can-b.htm
-  repositories: []
-name: USB-CAN-B
-ref: waveshare/usb-can-b
-release_date: null
-sku: usb-can-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-can-b-1_1.jpg

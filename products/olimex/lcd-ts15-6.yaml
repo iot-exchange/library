@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: lcd-ts15-6
+ref: olimex/lcd-ts15-6
+vendor: olimex
+sku: lcd-ts15-6
+name: LCD-TS15.6
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/LCD/LCD-TS15.6/images/thumbs/200x150/LCD-TS15.6.png
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/LCD/LCD-TS15.6/
-  repositories: []
-name: LCD-TS15.6
-ref: olimex/lcd-ts15-6
-release_date: null
-sku: lcd-ts15-6
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/LCD/LCD-TS15.6/images/thumbs/200x150/LCD-TS15.6.png

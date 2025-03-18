@@ -1,0 +1,12 @@
+id: ai-12x-ptz-bullet-camera
+ref: milesight/ai-12x-ptz-bullet-camera
+vendor: milesight
+sku: ai-12x-ptz-bullet-camera
+name: AI 12X PTZ Bullet Camera
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/security/product/ai-mini-ptz-bullet
+  images: []

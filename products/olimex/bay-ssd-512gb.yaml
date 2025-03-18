@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bay-ssd-512gb
+ref: olimex/bay-ssd-512gb
+vendor: olimex
+sku: bay-ssd-512gb
+name: BAY-SSD-512GB
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/Home-Server/BAY-NO-DISK/images/thumbs/200x150/BAY-XXX.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/Home-Server/BAY-SSD-512GB/
-  repositories: []
-name: BAY-SSD-512GB
-ref: olimex/bay-ssd-512gb
-release_date: null
-sku: bay-ssd-512gb
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/Home-Server/BAY-NO-DISK/images/thumbs/200x150/BAY-XXX.jpg

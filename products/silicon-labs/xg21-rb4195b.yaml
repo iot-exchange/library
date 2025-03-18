@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: xg21-rb4195b
+ref: silicon-labs/xg21-rb4195b
+vendor: silicon-labs
+sku: xg21-rb4195b
+name: xG21-RB4195B
 description: EFR32xG21B Rev D +10 dBm SoC Radio Board designed to work with the Wireless
   Pro Kit Mainboard.
+status: ''
 extra:
   MSRP: $28.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/multiprotocol/xg21-rb4195b-radio-board.png
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/xg21-rb4195b-efr32xg21-wireless-10-dbm-radio-board
-  repositories: []
-name: xG21-RB4195B
-ref: silicon-labs/xg21-rb4195b
-release_date: null
-sku: xg21-rb4195b
-spec: null
-status: ''
-vendor: silicon-labs
+  images:
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/multiprotocol/xg21-rb4195b-radio-board.png

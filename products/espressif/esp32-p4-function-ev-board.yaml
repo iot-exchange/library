@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: esp32-p4-function-ev-board
+ref: espressif/esp32-p4-function-ev-board
+vendor: espressif
+sku: esp32-p4-function-ev-board
+name: ESP32-P4-Function-EV-Board
 description: ESP32-P4-Function-EV-Board is a multimedia development board based on
   the ESP32-P4 chip. ESP32-P4 chip features a dual-core 400 MHz RISC-V processor and
   supports up to 32 MB PSRAM. In addition, ESP32-P4 supports USB 2.0 specification,
@@ -11,6 +14,7 @@ description: ESP32-P4-Function-EV-Board is a multimedia development board based 
   The development board is suitable for prototyping a wide range of products, including
   visual doorbells, network cameras, smart home central control screens, LCD electronic
   price tags, two-wheel vehicle dashboards, etc.
+status: ''
 extra:
   Flash / PSRAM: 16 MB Flash on board; 32 MB in-package PSRAM; 4 MB in-package flash
     in ESP32-C6-MINI-1
@@ -20,18 +24,7 @@ extra:
   Related Products: ESP32-C6-MINI-1
   UI: Camera, LCD Screen, 1x Microphone, 1x Speaker, Buttons
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/dev-board/ESP32-P4-Function-EV-Board_S.png
-  models: []
   products:
   - https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32p4/esp32-p4-function-ev-board/index.html
-  repositories: []
-name: ESP32-P4-Function-EV-Board
-ref: espressif/esp32-p4-function-ev-board
-release_date: null
-sku: esp32-p4-function-ev-board
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/dev-board/ESP32-P4-Function-EV-Board_S.png

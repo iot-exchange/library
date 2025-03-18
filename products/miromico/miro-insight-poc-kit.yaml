@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: miro-insight-poc-kit
+ref: miromico/miro-insight-poc-kit
+vendor: miromico
+sku: miro-insight-poc-kit
+name: miro Insight PoC Kit
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://miromico.ch/en/products/details/PoC-Kit-miro-Insight
-  repositories: []
-name: miro Insight PoC Kit
-ref: miromico/miro-insight-poc-kit
-release_date: null
-sku: miro-insight-poc-kit
-spec: null
-status: ''
-vendor: miromico
+  images: []

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: transceiver
+ref: microchip/transceiver
+vendor: microchip
+sku: transceiver
+name: Transceiver
 description: ''
+status: ''
 extra:
   Max Frequency (GHz): '13.8'
   "Max Operating Temp (\xB0C)": '105'
@@ -13,16 +17,5 @@ extra:
   Package: 32/VQFN
   Qty: '20'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Transceiver
-ref: microchip/transceiver
-release_date: null
-sku: transceiver
-spec: null
-status: ''
-vendor: microchip
+  images: []

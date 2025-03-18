@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4497
+ref: mikroe/mikroe-4497
+vendor: mikroe
+sku: mikroe-4497
+name: MIKROE-4497
 description: nvSRAM 3 Click is a compact add-on board that contains the most reliable
   nonvolatile memory. This board features the CY14B101I, a 1-Mbit nvSRAM organized
   as 128K words of 8 bits each with a fully-featured real-time clock from Infineon.
   The embedded elements incorporate the QuantumTrap technology and provide highly
   reliable nonvolatile storage of data.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/nvsram-3-click/nvsram-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/nvsram-3-click
-  repositories: []
-name: MIKROE-4497
-ref: mikroe/mikroe-4497
-release_date: null
-sku: mikroe-4497
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/nvsram-3-click/nvsram-3-click-home_default-1.jpg?v=100

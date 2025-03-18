@@ -1,0 +1,13 @@
+id: vs133
+ref: milesight/vs133
+vendor: milesight
+sku: vs133
+name: VS133
+description: AI ToF People Counting Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/vs133
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/occupancy-people-counting-series/ai-tof-people-counting-snesor-vs133.png?t=1742198585390

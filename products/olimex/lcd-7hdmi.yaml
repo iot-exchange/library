@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lcd-7hdmi
+ref: olimex/lcd-7hdmi
+vendor: olimex
+sku: lcd-7hdmi
+name: LCD-7HDMI
 description: ''
+status: ''
 extra:
   price1: 45.00 EUR
   price2: 42.75 EUR
   price3: 40.50 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/LCD/LCD-7HDMI/images/thumbs/200x150/LCD-7HDMI.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/LCD/LCD-7HDMI/
-  repositories: []
-name: LCD-7HDMI
-ref: olimex/lcd-7hdmi
-release_date: null
-sku: lcd-7hdmi
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/LCD/LCD-7HDMI/images/thumbs/200x150/LCD-7HDMI.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rpi-5-official-27w-psu
+ref: waveshare/rpi-5-official-27w-psu
+vendor: waveshare
+sku: rpi-5-official-27w-psu
+name: rpi_5_official_27w_psu
 description: Official 27W USB Type-C Power Supply for Raspberry Pi 5, Options For
   Color And Plug
+status: ''
 extra:
   Multi Options: ''
   Price: $11.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-5-official-27w-psu-white-us-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/raspberry-pi-5-official-27w-psu.htm
-  repositories: []
-name: rpi_5_official_27w_psu
-ref: waveshare/rpi-5-official-27w-psu
-release_date: null
-sku: rpi-5-official-27w-psu
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-5-official-27w-psu-white-us-1.jpg

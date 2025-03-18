@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: trackerd
+ref: dragino/trackerd
+vendor: dragino
+sku: trackerd
+name: TrackerD
 description: 'LoRaWAN 1.0.3 Class AESP32 PICO D4SX1276/78 Wireless ChipOpen source
   hardware / softwareRegular/ Real-time GPS,BLE,WIFI trackingBuilt-in3 axis accelerometer
   (LIS3DH)Humidity / temperature sensor : GXCAS Technology GXHT3XMotion sensing capability'
+status: ''
 extra:
   LoRaWAN Version: 1.0.3
   Tracking: GPS, BLE, WIFI
   Wireless Chip: ESP32 PICO D4
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/e7b279be6a862d254f0e7cc4dde2874e_L.jpg
-  models: []
   products:
   - https://dragino.com/products/tracker/item/234-trackerd.html
-  repositories: []
-name: TrackerD
-ref: dragino/trackerd
-release_date: null
-sku: trackerd
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/e7b279be6a862d254f0e7cc4dde2874e_L.jpg

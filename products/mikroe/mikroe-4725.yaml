@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-4725
+ref: mikroe/mikroe-4725
+vendor: mikroe
+sku: mikroe-4725
+name: MIKROE-4725
 description: "CO2 Click is a compact add-on board that contains Sensirion\u2019s miniature\
   \ CO2 sensor. This board features the STC31, a gas concentration sensor designed\
   \ for high-volume applications. The STC31 utilizes a revolutionized thermal conductivity\
   \ measurement principle, which results in superior repeatability and long-term stability."
+status: Unavailable
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/co2-click/co2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/co2-click
-  repositories: []
-name: MIKROE-4725
-ref: mikroe/mikroe-4725
-release_date: null
-sku: mikroe-4725
-spec: null
-status: Unavailable
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/co2-click/co2-click-home_default-1.jpg?v=100

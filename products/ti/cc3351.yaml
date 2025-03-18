@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: cc3351
+ref: ti/cc3351
+vendor: ti
+sku: cc3351
+name: CC3351
 description: ''
+status: New
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ti.com/product/CC3351
-  repositories: []
-name: CC3351
-ref: ti/cc3351
-release_date: null
-sku: cc3351
-spec: null
-status: New
-vendor: ti
+  images: []

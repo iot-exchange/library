@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: siwx917y
+ref: silicon-labs/siwx917y
+vendor: silicon-labs
+sku: siwx917y
+name: SiWx917Y
 description: Ultra-low power Wi-Fi 6 and Bluetooth Low Energy LE 5.4 multiprotocol
   2.4 GHz connectivity for energy-sensitive and battery-powered IoT devices.
+status: ''
 extra:
   Bluetooth: LE 5.4
   Dimensions: 16 x 21 x 2.3 mm
@@ -9,18 +13,7 @@ extra:
   Integrated MCU: "ARM\xAE Cortex\xAE-M4"
   Wi-Fi: '6'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.silabs.com/content/siliconlabs/en/wireless/wi-fi/siwx917y-wireless-modules.thumb.256.144.png
-  models: []
   products:
   - https://www.silabs.com/wireless/wi-fi/siwx917y-wireless-modules
-  repositories: []
-name: SiWx917Y
-ref: silicon-labs/siwx917y
-release_date: null
-sku: siwx917y
-spec: null
-status: ''
-vendor: silicon-labs
+  images:
+  - https://www.silabs.com/content/siliconlabs/en/wireless/wi-fi/siwx917y-wireless-modules.thumb.256.144.png

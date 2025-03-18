@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: duinomite
+ref: olimex/duinomite
+vendor: olimex
+sku: duinomite
+name: DUINOMITE
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Duino/Duinomite/DUINOMITE/images/thumbs/200x150/DUINOMITE-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Duino/Duinomite/DUINOMITE/open-source-hardware
-  repositories: []
-name: DUINOMITE
-ref: olimex/duinomite
-release_date: null
-sku: duinomite
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Duino/Duinomite/DUINOMITE/images/thumbs/200x150/DUINOMITE-1.jpg

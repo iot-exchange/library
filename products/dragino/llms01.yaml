@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: llms01
+ref: dragino/llms01
+vendor: dragino
+sku: llms01
+name: LLMS01
 description: LoRaWAN Leaf Moisture Sensor
+status: ''
 extra:
   Bands: EU433, CN470, EU868, IN865, KR920, AS923, AU915, US915
   Features: Monitor Leaf moisture, Monitor Leaf temperature
   LoRaWAN Version: 1.0.3 Class A
   Power Consumption: Ultra Low
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/dd34e32172fe0202ef287e574244e1d2_L.jpg
-  models: []
   products:
   - https://dragino.com/products/agriculture-weather-station/item/183-llms01.html
-  repositories: []
-name: LLMS01
-ref: dragino/llms01
-release_date: null
-sku: llms01
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/dd34e32172fe0202ef287e574244e1d2_L.jpg

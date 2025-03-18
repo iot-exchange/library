@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5681
+ref: mikroe/mikroe-5681
+vendor: mikroe
+sku: mikroe-5681
+name: MIKROE-5681
 description: EEPROM 9 Click is a compact add-on board with a highly reliable nonvolatile
   memory solution. This board features the M95P32-I, the 32Mbit electrically erasable
   programmable memory with enhanced hardware write protection from STMicroelectronics.
   The M95P32-I is internally organized as 8192 programmable pages of 512 bytes each,
   accessed through the SPI...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/eeprom-9-click/eeprom-9-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/eeprom-9-click
-  repositories: []
-name: MIKROE-5681
-ref: mikroe/mikroe-5681
-release_date: null
-sku: mikroe-5681
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/eeprom-9-click/eeprom-9-click-home_default-1.jpg?v=100

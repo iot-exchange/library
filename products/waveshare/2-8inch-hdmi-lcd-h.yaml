@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: 2-8inch-hdmi-lcd-h
+ref: waveshare/2-8inch-hdmi-lcd-h
+vendor: waveshare
+sku: 2-8inch-hdmi-lcd-h
+name: 2.8inch HDMI LCD (H)
 description: "2.8inch HDMI IPS LCD Display (H), 480\xD7640, Adjustable Brightness,\
   \ Optical Bonding Screen"
+status: ''
 extra:
   Price: $47.63 - $48.99
   SKU: '21316'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.8inch-hdmi-lcd-h-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/2.8inch-hdmi-lcd-h.htm
   - "https://www.waveshare.com/product/2.8inch-hdmi-lcd-h.htm \"2.8inch HDMI IPS LCD\
     \ Display (H), 480\xD7640, Adjustable Brightness, Optical Bonding Screen\""
-  repositories: []
-name: 2.8inch HDMI LCD (H)
-ref: waveshare/2-8inch-hdmi-lcd-h
-release_date: null
-sku: 2-8inch-hdmi-lcd-h
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.8inch-hdmi-lcd-h-1.jpg

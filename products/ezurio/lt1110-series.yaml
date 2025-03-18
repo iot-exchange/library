@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: lt1110-series
+ref: ezurio/lt1110-series
+vendor: ezurio
+sku: lt1110-series
+name: LT1110 Series
 description: ''
+status: EOL
 extra:
   Dimensions (H x L x W): 4 x 39 x 25
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/LT1110-10.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/ramp-ism-modules/proprietary-900-mhz-modules/lt1110-series
-  repositories: []
-name: LT1110 Series
-ref: ezurio/lt1110-series
-release_date: null
-sku: lt1110-series
-spec: null
-status: EOL
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/LT1110-10.png

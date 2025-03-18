@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: esp-thread-border-router-zigbee-gateway
+ref: espressif/esp-thread-border-router-zigbee-gateway
+vendor: espressif
+sku: esp-thread-border-router-zigbee-gateway
+name: ESP Thread Border Router/Zigbee Gateway
 description: 'ESP Thread Border Router/Zigbee Gateway board integrates the ESP32-S3
   SoC and the ESP32-H2 RCP, enabling the development of Thread Border Router and Zigbee
   Gateway products. Espressif''s Thread Border Router solution complies with Thread
@@ -8,24 +11,14 @@ description: 'ESP Thread Border Router/Zigbee Gateway board integrates the ESP32
   Forwarding, NAT64, and a user-friendly Web GUI for easy configuration. Additionally,
   the board supports the addition of daughter boards to expand its functionality such
   as: Ethernet interface (available for separate purchase), HMI and Voice Control.'
+status: ''
 extra:
   Flash / PSRAM: 8 MB Flash and 2 MB PSRAM in ESP32-S3-WROOM-1 + 2 MB Flash in ESP32-H2-MINI-1
   Interfaces: I/O USB type-C
   Related Products: ESP32-S3-WROOM-1, ESP32-H2-MINI-1
   UI: Button, LED
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/dev-board/ESP%20Thread%20Border%20Router%20%3A%20%20Zigbee%20Gateway-MB_S_0.png
-  models: []
   products:
   - https://www.espressif.com/en/products/devkits/ESP-Thread-Border-Router-Zigbee-Gateway
-  repositories: []
-name: ESP Thread Border Router/Zigbee Gateway
-ref: espressif/esp-thread-border-router-zigbee-gateway
-release_date: null
-sku: esp-thread-border-router-zigbee-gateway
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/dev-board/ESP%20Thread%20Border%20Router%20%3A%20%20Zigbee%20Gateway-MB_S_0.png

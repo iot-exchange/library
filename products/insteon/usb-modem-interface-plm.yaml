@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: usb-modem-interface-plm
+ref: insteon/usb-modem-interface-plm
+vendor: insteon
+sku: usb-modem-interface-plm
+name: USB Modem Interface (PLM)
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/products/USB_Modem_Interface_PLM.jpg?v=1724712357&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/plm-usb-modem-interface
-  repositories: []
-name: USB Modem Interface (PLM)
-ref: insteon/usb-modem-interface-plm
-release_date: null
-sku: usb-modem-interface-plm
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/products/USB_Modem_Interface_PLM.jpg?v=1724712357&width=533

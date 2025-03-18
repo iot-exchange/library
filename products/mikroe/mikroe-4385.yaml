@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-4385
+ref: mikroe/mikroe-4385
+vendor: mikroe
+sku: mikroe-4385
+name: MIKROE-4385
 description: RAQ Click is a compact add-on board targeted for use in refrigeration
   air quality (RAQ) applications. This board features the ZMOD4450, a gas sensor module
   designed for detecting gases associated with food ripening or rotting.
+status: ''
 extra:
   price: $42.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/raq-click/raq-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/raq-click
-  repositories: []
-name: MIKROE-4385
-ref: mikroe/mikroe-4385
-release_date: null
-sku: mikroe-4385
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/raq-click/raq-click-home_default-1.jpg?v=100

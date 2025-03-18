@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: llds40
+ref: dragino/llds40
+vendor: dragino
+sku: llds40
+name: LLDS40
 description: "LoRaWAN LiDAR ToF Distance Detection SensorUltra Low Power ConsumptionLiDAR\
   \ ToFMeasure Distance: 0.1m ~ 40m @ 90% ReflectivityFOV : 3\xB0Bands:EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915"
+status: ''
 extra:
   Distance: 0.1m ~ 40m @ 90% Reflectivity
   FOV: "3\xB0"
   Protocol: LoRaWAN
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/269b36e876e375e05083f78293992209_L.jpg
-  models: []
   products:
   - https://dragino.com/products/distance-level-sensor/item/240-llds40.html
-  repositories: []
-name: LLDS40
-ref: dragino/llds40
-release_date: null
-sku: llds40
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/269b36e876e375e05083f78293992209_L.jpg

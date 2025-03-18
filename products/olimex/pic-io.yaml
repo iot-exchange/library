@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pic-io
+ref: olimex/pic-io
+vendor: olimex
+sku: pic-io
+name: PIC-IO
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/PIC/Development/PIC-IO/images/thumbs/200x150/PIC-IO-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/PIC/Development/PIC-IO/
-  repositories: []
-name: PIC-IO
-ref: olimex/pic-io
-release_date: null
-sku: pic-io
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/PIC/Development/PIC-IO/images/thumbs/200x150/PIC-IO-1.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sata-ssd-2-5-512gb
+ref: olimex/sata-ssd-2-5-512gb
+vendor: olimex
+sku: sata-ssd-2-5-512gb
+name: SATA-SSD-2-5-512GB
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Storage/SATA-HDD-SSD-DISKS/images/thumbs/200x150/SATA-HDD-500GB.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Storage/SATA-SSD-2-5-512GB/
-  repositories: []
-name: SATA-SSD-2-5-512GB
-ref: olimex/sata-ssd-2-5-512gb
-release_date: null
-sku: sata-ssd-2-5-512gb
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Storage/SATA-HDD-SSD-DISKS/images/thumbs/200x150/SATA-HDD-500GB.jpg

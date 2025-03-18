@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-5167
+ref: mikroe/mikroe-5167
+vendor: mikroe
+sku: mikroe-5167
+name: MIKROE-5167
 description: Spectrometer 2 Click is a compact add-on board that collects light waves.
   This board features the VD6283TX, a color sensor with advanced light flicker extraction
   from STMicroelectronics. The VD6283TX performs fast and accurate light measurements
   thanks to an individual ADC and a readout for each color channel - red, green, blue,
   IR, clear, and visible. It...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.mikroe.com/spectrometer-2-click
-  repositories: []
-name: MIKROE-5167
-ref: mikroe/mikroe-5167
-release_date: null
-sku: mikroe-5167
-spec: null
-status: ''
-vendor: mikroe
+  images: []

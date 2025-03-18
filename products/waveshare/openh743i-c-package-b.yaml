@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: openh743i-c-package-b
+ref: waveshare/openh743i-c-package-b
+vendor: waveshare
+sku: openh743i-c-package-b
+name: OpenH743I-C Package B
 description: OpenH743I-C Package B, STM32H7 Development Board
+status: ''
 extra:
   Price: $142.29 - $143.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/_/b/_b.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/openh743i-c-package-b.htm
-  repositories: []
-name: OpenH743I-C Package B
-ref: waveshare/openh743i-c-package-b
-release_date: null
-sku: openh743i-c-package-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/_/b/_b.jpg

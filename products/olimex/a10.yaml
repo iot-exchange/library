@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: a10
+ref: olimex/a10
+vendor: olimex
+sku: a10
+name: A10
 description: ''
+status: ''
 extra:
   100+ pcs: 3.84 EUR
   1000+ pcs: 3.68 EUR
   50+ pcs: 3.92 EUR
   500+ pcs: 3.76 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/IC/A10/images/thumbs/200x150/A10.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/IC/A10/
-  repositories: []
-name: A10
-ref: olimex/a10
-release_date: null
-sku: a10
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/IC/A10/images/thumbs/200x150/A10.jpg

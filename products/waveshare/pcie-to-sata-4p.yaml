@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pcie-to-sata-4p
+ref: waveshare/pcie-to-sata-4p
+vendor: waveshare
+sku: pcie-to-sata-4p
+name: PCIe-TO-SATA-4P
 description: PCIe TO 4-Ch SATA 3.0 Expander, 6Gpbs High-speed SATA Interface, Supports
   CM4
+status: ''
 extra:
   Price: $19.31 - $19.99
   SKU: '22247'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-sata-4p-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pcie-to-sata-4p.htm
-  repositories: []
-name: PCIe-TO-SATA-4P
-ref: waveshare/pcie-to-sata-4p
-release_date: null
-sku: pcie-to-sata-4p
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-sata-4p-1.jpg

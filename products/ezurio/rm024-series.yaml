@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rm024-series
+ref: ezurio/rm024-series
+vendor: ezurio
+sku: rm024-series
+name: RM024 Series
 description: Active
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/RM024-P50-C-01_web.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/ramp-ism-modules/proprietary-24-ghz-zigbee-802154-modules/rm024-series
-  repositories: []
-name: RM024 Series
-ref: ezurio/rm024-series
-release_date: null
-sku: rm024-series
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/RM024-P50-C-01_web.png

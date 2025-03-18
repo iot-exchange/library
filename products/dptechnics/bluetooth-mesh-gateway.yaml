@@ -1,0 +1,17 @@
+id: bluetooth-mesh-gateway
+ref: dptechnics/bluetooth-mesh-gateway
+vendor: dptechnics
+sku: bluetooth-mesh-gateway
+name: Bluetooth Mesh Gateway
+description: The Bluetooth Mesh Gateway runs on the proven IoT-modem and runs applications
+  such as smart lighting, sensor networks, wall switch networks, etc.
+status: Available soon
+extra:
+  Bluetooth Standard: Bluetooth 5
+  Mesh Capacity: More than 32768 nodes
+  Range: Over 100 meters
+  Security: 128-bits AES encryption
+links:
+  products: []
+  images:
+  - https://www.dptechnics.com/images/product/ble_mesh_gw.png

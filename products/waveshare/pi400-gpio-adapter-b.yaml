@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: pi400-gpio-adapter-b
+ref: waveshare/pi400-gpio-adapter-b
+vendor: waveshare
+sku: pi400-gpio-adapter-b
+name: PI400-GPIO-ADAPTER-B
 description: Raspberry Pi 400 GPIO Header Adapter, Header Expansion, 2x 40PIN Header
+status: ''
 extra:
   Price: $4.39 - $4.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/pi400-gpio-adapter-b.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi400-gpio-adapter-b-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi400-gpio-adapter-b-2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/pi400-gpio-adapter-b.htm
-  repositories: []
-name: PI400-GPIO-ADAPTER-B
-ref: waveshare/pi400-gpio-adapter-b
-release_date: null
-sku: pi400-gpio-adapter-b
-spec: null
-status: ''
-vendor: waveshare

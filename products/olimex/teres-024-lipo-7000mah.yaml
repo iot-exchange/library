@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-024-lipo-7000mah
+ref: olimex/teres-024-lipo-7000mah
+vendor: olimex
+sku: teres-024-lipo-7000mah
+name: TERES-024-LiPo-7000mAh
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-024-LiPo-battery/images/thumbs/200x150/TERES-024-LiPo-7000mAh.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-024-LiPo-7000mAh/
-  repositories: []
-name: TERES-024-LiPo-7000mAh
-ref: olimex/teres-024-lipo-7000mah
-release_date: null
-sku: teres-024-lipo-7000mah
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-024-LiPo-battery/images/thumbs/200x150/TERES-024-LiPo-7000mAh.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: dcdc6-16-to5
+ref: olimex/dcdc6-16-to5
+vendor: olimex
+sku: dcdc6-16-to5
+name: DCDC6-16-TO5
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Power/DCDC6-16-TO5/images/thumbs/200x150/DCDC6-16TO5-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Power/DCDC6-16-TO5/
-  repositories: []
-name: DCDC6-16-TO5
-ref: olimex/dcdc6-16-to5
-release_date: null
-sku: dcdc6-16-to5
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Power/DCDC6-16-TO5/images/thumbs/200x150/DCDC6-16TO5-1.jpg

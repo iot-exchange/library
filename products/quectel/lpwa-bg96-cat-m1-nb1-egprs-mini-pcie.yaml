@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: lpwa-bg96-cat-m1-nb1-egprs-mini-pcie
+ref: quectel/lpwa-bg96-cat-m1-nb1-egprs-mini-pcie
+vendor: quectel
+sku: lpwa-bg96-cat-m1-nb1-egprs-mini-pcie
+name: LPWA BG96 Cat M1/NB1/EGPRS Mini PCIe
 description: ARM Cortex A7  Cat M  Cat NB1  EDGE  GNSS (optional)  GPRS  USB 2.0
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.quectel.com/content/uploads/2024/03/BG96_Mini_PCIe_Layered-1.png
-  models: []
   products:
   - https://www.quectel.com/product/lpwa-bg96-cat-m1-nb1-egprs-mpcie/
-  repositories: []
-name: LPWA BG96 Cat M1/NB1/EGPRS Mini PCIe
-ref: quectel/lpwa-bg96-cat-m1-nb1-egprs-mini-pcie
-release_date: null
-sku: lpwa-bg96-cat-m1-nb1-egprs-mini-pcie
-spec: null
-status: ''
-vendor: quectel
+  images:
+  - https://www.quectel.com/content/uploads/2024/03/BG96_Mini_PCIe_Layered-1.png

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: jumper-wire-4-pin-2-54-pitch-200mm
+ref: waveshare/jumper-wire-4-pin-2-54-pitch-200mm
+vendor: waveshare
+sku: jumper-wire-4-pin-2-54-pitch-200mm
+name: Jumper Wire 4-pin 2.54-pitch 200mm
 description: ''
+status: ''
 extra:
   Price: $0.08 - $0.59
   SKU: '6366'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/u/jumper-wire-4-pin-2.54-pitch-200mm.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/jumper-wire-4-pin-2.54-pitch-200mm.htm
-  repositories: []
-name: Jumper Wire 4-pin 2.54-pitch 200mm
-ref: waveshare/jumper-wire-4-pin-2-54-pitch-200mm
-release_date: null
-sku: jumper-wire-4-pin-2-54-pitch-200mm
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/u/jumper-wire-4-pin-2.54-pitch-200mm.jpg

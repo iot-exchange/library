@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: neo6502pc
+ref: olimex/neo6502pc
+vendor: olimex
+sku: neo6502pc
+name: Neo6502pc
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Retro-Computers/Neo6502pc/images/thumbs/200x150/Neo6502pc-7.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Retro-Computers/Neo6502pc/open-source-hardware
-  repositories: []
-name: Neo6502pc
-ref: olimex/neo6502pc
-release_date: null
-sku: neo6502pc
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Retro-Computers/Neo6502pc/images/thumbs/200x150/Neo6502pc-7.jpg

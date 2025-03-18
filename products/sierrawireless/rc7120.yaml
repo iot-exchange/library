@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rc7120
+ref: sierrawireless/rc7120
+vendor: sierrawireless
+sku: rc7120
+name: RC7120
 description: EMEA ( Orange), APAC
+status: ''
 extra:
   Bands: 'LTE: B1,B3, B7, B8, B20, B28'
   Edge Processing: "\u2013"
   Fallback: "\u2013"
   Region (Carrier): EMEA ( Orange), APAC
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.sierrawireless.com/iot-modules/smart-modules/rc7120/
-  repositories: []
-name: RC7120
-ref: sierrawireless/rc7120
-release_date: null
-sku: rc7120
-spec: null
-status: ''
-vendor: sierrawireless
+  images: []

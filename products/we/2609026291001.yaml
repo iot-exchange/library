@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: '2609026291001'
+ref: we/2609026291001
+vendor: we
+sku: '2609026291001'
+name: '2609026291001'
 description: Telesto-III USB radio stick
+status: Active
 extra:
   Connector: SMA
   Dimensions: 74 x 23.65 x 12
@@ -8,18 +12,7 @@ extra:
   Frequency Range: 902.5 - 927.5
   Output Power: '800'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/components/products/manual/2609026291001_Telesto-III
     Stick 2609026291001 Manual_rev1.5.pdf
-  repositories: []
-name: '2609026291001'
-ref: we/2609026291001
-release_date: null
-sku: '2609026291001'
-spec: null
-status: Active
-vendor: we
+  images: []

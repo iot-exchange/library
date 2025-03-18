@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: pcie-x1-to-pcie-x16-cable
+ref: waveshare/pcie-x1-to-pcie-x16-cable
+vendor: waveshare
+sku: pcie-x1-to-pcie-x16-cable
+name: PCIe-X1-TO-PCIe-X16-Cable
 description: PCIe X1 to PCIe X16 Expander, Using With M.2 to PCIe 4-Ch Expander
+status: ''
 extra:
   Price: $5.65 - $5.99
   SKU: '24003'
   price: $5.65 - $5.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/pcie-x1-to-pcie-x16-cable.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-x1-to-pcie-x16-cable-1_1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-x1-to-pcie-x16-cable-2_1.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/pcie-x1-to-pcie-x16-cable.htm
-  repositories: []
-name: PCIe-X1-TO-PCIe-X16-Cable
-ref: waveshare/pcie-x1-to-pcie-x16-cable
-release_date: null
-sku: pcie-x1-to-pcie-x16-cable
-spec: null
-status: ''
-vendor: waveshare

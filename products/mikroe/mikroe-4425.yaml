@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-4425
+ref: mikroe/mikroe-4425
+vendor: mikroe
+sku: mikroe-4425
+name: MIKROE-4425
 description: Magic RFID Click is a compact add-on board that contains an embedded
   RFID module. This board features the M6E-NANO, UHF RFID module with ultra-low power
   consumption from JADAK. Supporting the EPC Gen2V2 and ISO 18000-63 standard, the
   M6E-NANO module is available for global use. It operates in the Ultra High Frequency
   (UHF) band in a range from 859 up to...
+status: Unavailable
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.mikroe.com/magic-rfid-click
-  repositories: []
-name: MIKROE-4425
-ref: mikroe/mikroe-4425
-release_date: null
-sku: mikroe-4425
-spec: null
-status: Unavailable
-vendor: mikroe
+  images: []

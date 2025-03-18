@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: imx233-sjtag
+ref: olimex/imx233-sjtag
+vendor: olimex
+sku: imx233-sjtag
+name: iMX233-SJTAG
 description: ''
+status: ''
 extra:
   price1: 39.95 EUR
   price2: 35.96 EUR
   price3: 31.96 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/JTAG/iMX233-SJTAG/images/thumbs/200x150/iMX233-SJTAG-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/JTAG/iMX233-SJTAG/
-  repositories: []
-name: iMX233-SJTAG
-ref: olimex/imx233-sjtag
-release_date: null
-sku: imx233-sjtag
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/JTAG/iMX233-SJTAG/images/thumbs/200x150/iMX233-SJTAG-1.jpg

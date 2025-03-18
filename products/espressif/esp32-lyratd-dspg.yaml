@@ -1,9 +1,13 @@
-alternatives: []
-certifications: []
+id: esp32-lyratd-dspg
+ref: espressif/esp32-lyratd-dspg
+vendor: espressif
+sku: esp32-lyratd-dspg
+name: ESP32-LyraTD-DSPG
 description: ESP32-LyraTD-DSPG is based on ESP32-WROVER-B, a BT/Wi-Fi combo module,
   and a digital signal processor (DSP) that features a three-microphone array for
   noise reduction, echo cancellation, beamforming and wake-word detection. ESP32-LyraTD-DSPG
   is integrated with peripheral devices and consists of two development boards.
+status: ''
 extra:
   FPC: ''
   Flash: 16 MB
@@ -12,17 +16,6 @@ extra:
   Speaker: ''
   USB: ''
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/ESP32-LyraTD-DSPG_User_Guide__en.pdf
-  repositories: []
-name: ESP32-LyraTD-DSPG
-ref: espressif/esp32-lyratd-dspg
-release_date: null
-sku: esp32-lyratd-dspg
-spec: null
-status: ''
-vendor: espressif
+  images: []

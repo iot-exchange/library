@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-6158
+ref: mikroe/mikroe-6158
+vendor: mikroe
+sku: mikroe-6158
+name: MIKROE-6158
 description: Mikromedia 4 for STM32F2 RESISTIVE FPI with frame is not limited to multimedia-based
   applications only. USB, digital motion sensor, battery charging functionality, SD
   card reader and much more...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mikromedia-4-for-stm32f2-resistive-fpi-with-frame/mikromedia-4-for-stm32f2-resistive-fpi-with-frame-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mikromedia-4-for-stm32f2-resistive-fpi-with-frame
-  repositories: []
-name: MIKROE-6158
-ref: mikroe/mikroe-6158
-release_date: null
-sku: mikroe-6158
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-4-for-stm32f2-resistive-fpi-with-frame/mikromedia-4-for-stm32f2-resistive-fpi-with-frame-home_default-1.jpg?v=100

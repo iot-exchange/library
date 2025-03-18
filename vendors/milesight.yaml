@@ -1,0 +1,16 @@
+name: Milesight
+description: |
+    Milesight offers multi-potential sensing products to capture meaningful data. It innovatively applies Al, 5G, loT to
+    bring real impacts to diverse applications.
+    Committed to making sensing matter, Milesight responsively addresses customer demands and works closely with a
+    growing partner ecosystem to realize the value of data.
+links:
+  logo: https://www.milesight.com/static/og/en/milesight.jpg
+  linkedin: https://www.linkedin.com/company/milesight-technology/
+  github: https://github.com/Milesight-IoT
+  website: https://www.milesight.com
+  products:
+      - https://www.milesight.com/iot/
+      - https://www.milesight.com/security/
+      - https://www.milesight.com/product/5g-cellular-products/
+      - https://www.milesight.com/iot/product/co-created-innovation-program

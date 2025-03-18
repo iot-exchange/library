@@ -1,0 +1,13 @@
+id: em500-swl
+ref: milesight/em500-swl
+vendor: milesight
+sku: em500-swl
+name: EM500-SWL
+description: Submersible Water Level Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/em500-swl
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/outdoor-environmental-monitoring-em500-series/submersible-water-level-sensor-em500-swl.png?t=1742198585390

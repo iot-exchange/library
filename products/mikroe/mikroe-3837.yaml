@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: mikroe-3837
+ref: mikroe/mikroe-3837
+vendor: mikroe
+sku: mikroe-3837
+name: MIKROE-3837
 description: Mikromedia 5 for STM32F4 CAPACITIVE FPI with frame Rapid development
   of multimedia and gui-centric applications.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products: []
   images:
   - https://cdn1-shop.mikroe.com/img/product/mikromedia-5-for-stm32f4-capacitive-fpi-with-frame/mikromedia-5-for-stm32f4-capacitive-fpi-with-frame-home_default-1.jpg?v=100
-  models: []
-  products: []
-  repositories: []
-name: MIKROE-3837
-ref: mikroe/mikroe-3837
-release_date: null
-sku: mikroe-3837
-spec: null
-status: ''
-vendor: mikroe

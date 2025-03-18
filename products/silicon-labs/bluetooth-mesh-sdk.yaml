@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bluetooth-mesh-sdk
+ref: silicon-labs/bluetooth-mesh-sdk
+vendor: silicon-labs
+sku: bluetooth-mesh-sdk
+name: Bluetooth Mesh SDK
 description: Supplied as part of the GSDK, the Bluetooth Mesh SDK provides developers
   with a single Mesh protocol stack, API, example projects, and peripheral drivers.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/developer-tools/bluetooth-mesh
-  repositories: []
-name: Bluetooth Mesh SDK
-ref: silicon-labs/bluetooth-mesh-sdk
-release_date: null
-sku: bluetooth-mesh-sdk
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

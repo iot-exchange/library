@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: mds200-lb-ls
+ref: dragino/mds200-lb-ls
+vendor: dragino
+sku: mds200-lb-ls
+name: MDS200-LB/LS
 description: LoRaWAN Microwave Radar Distance Sensor
+status: ''
 extra:
   Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865
   Battery: 8500mAh Li/SOCl2 Battery (MDS200-LB), Solar panel + 3000mAh Li-ion battery
@@ -12,18 +16,7 @@ extra:
   Power Consumption: Ultra-low power consumption
   Type: LoRaWAN 1.0.3 Class A
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/0d422469a7bfe49699e19d8d898530d7_L.jpg
-  models: []
   products:
   - https://dragino.com/products/distance-level-sensor/item/275-mds200-lb-ls.html
-  repositories: []
-name: MDS200-LB/LS
-ref: dragino/mds200-lb-ls
-release_date: null
-sku: mds200-lb-ls
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/0d422469a7bfe49699e19d8d898530d7_L.jpg

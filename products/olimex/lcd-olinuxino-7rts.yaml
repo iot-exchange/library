@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lcd-olinuxino-7rts
+ref: olimex/lcd-olinuxino-7rts
+vendor: olimex
+sku: lcd-olinuxino-7rts
+name: LCD-OLinuXino-7RTS
 description: ''
+status: ''
 extra:
   discountedPrice1: 39.90 EUR
   discountedPrice2: 37.80 EUR
   price: 42.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/LCD/LCD-OLinuXino-7/images/thumbs/200x150/LCD-OLinuXino-7-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/LCD/LCD-OLinuXino-7RTS/open-source-hardware
-  repositories: []
-name: LCD-OLinuXino-7RTS
-ref: olimex/lcd-olinuxino-7rts
-release_date: null
-sku: lcd-olinuxino-7rts
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/LCD/LCD-OLinuXino-7/images/thumbs/200x150/LCD-OLinuXino-7-1.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: air-e-valve-6v
+ref: olimex/air-e-valve-6v
+vendor: olimex
+sku: air-e-valve-6v
+name: AIR-E-VALVE-6V
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Misc/AIR-E-VALVE/images/thumbs/200x150/AIR-E-VALVEa.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Misc/AIR-E-VALVE-6V/
-  repositories: []
-name: AIR-E-VALVE-6V
-ref: olimex/air-e-valve-6v
-release_date: null
-sku: air-e-valve-6v
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Misc/AIR-E-VALVE/images/thumbs/200x150/AIR-E-VALVEa.jpg

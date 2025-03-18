@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: usb-to-sata
+ref: waveshare/usb-to-sata
+vendor: waveshare
+sku: usb-to-sata
+name: USB TO SATA
 description: USB-C Adapter For NGFF SSD, USB3.2 Gen2 Type-C
+status: ''
 extra:
   Price: $11.31 - $11.99
   SKU: '21358'
   price: $11.31  -  $11.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-sata-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-to-sata.htm
-  repositories: []
-name: USB TO SATA
-ref: waveshare/usb-to-sata
-release_date: null
-sku: usb-to-sata
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-sata-1.jpg

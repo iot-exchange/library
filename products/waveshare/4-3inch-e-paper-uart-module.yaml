@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 4-3inch-e-paper-uart-module
+ref: waveshare/4-3inch-e-paper-uart-module
+vendor: waveshare
+sku: 4-3inch-e-paper-uart-module
+name: 4.3inch e-Paper UART Module
 description: 800x600, 4.3inch e-Paper UART Module
+status: ''
 extra:
   Price: $48.89 - $53.99
   SKU: '10628'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/_/4.3inch-e-paper-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/4.3inch-e-paper.htm
-  repositories: []
-name: 4.3inch e-Paper UART Module
-ref: waveshare/4-3inch-e-paper-uart-module
-release_date: null
-sku: 4-3inch-e-paper-uart-module
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/_/4.3inch-e-paper-1.jpg

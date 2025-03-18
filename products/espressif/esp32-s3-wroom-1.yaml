@@ -1,11 +1,15 @@
-alternatives: []
-certifications: []
+id: esp32-s3-wroom-1
+ref: espressif/esp32-s3-wroom-1
+vendor: espressif
+sku: esp32-s3-wroom-1
+name: ESP32-S3-WROOM-1
 description: ESP32-S3-WROOM-1 is a powerful, generic Wi-Fi + Bluetooth LE MCU module
   that has a Dual core CPU, a rich set of peripherals, and provides acceleration for
   neural network computing and signal processing workloads. It is an ideal choice
   for a wide variety of application scenarios related to AI + Internet of Things (AIoT),
   such as wake word detection and speech commands recognition, face detection and
   recognition, smart home, smart appliance, smart control panel, smart speaker etc.
+status: ''
 extra:
   Antenna: PCB antenna
   Chip Embedded: ESP32-S3, ESP32-S3R2, ESP32-S3R8
@@ -21,18 +25,7 @@ extra:
   PSRAM (MB): N/A
   Pins: '41'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP32-S3-WROOM-1%20S_0.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
-  repositories: []
-name: ESP32-S3-WROOM-1
-ref: espressif/esp32-s3-wroom-1
-release_date: null
-sku: esp32-s3-wroom-1
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-S3-WROOM-1%20S_0.png

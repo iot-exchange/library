@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: '2609051183000'
+ref: we/2609051183000
+vendor: we
+sku: '2609051183000'
+name: '2609051183000'
 description: EV-Kit Metis-e
+status: New i
 extra:
   Expected lifetime: '>10 years'
   Frequency Range (MHz): 868.3 - 869.525
@@ -15,18 +19,7 @@ extra:
   VDD min.(V): '100'
   dLoS(m): '1500'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/METIS-E#2609051183000
   - https://www.we-online.com/en/components/products/METIS-E#2609059283001
-  repositories: []
-name: '2609051183000'
-ref: we/2609051183000
-release_date: null
-sku: '2609051183000'
-spec: null
-status: New i
-vendor: we
+  images: []

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: compute-module-4
+ref: waveshare/compute-module-4
+vendor: waveshare
+sku: compute-module-4
+name: Compute Module 4
 description: Raspberry Pi Compute Module 4, Options For RAM / EMMC/ Wireless
+status: ''
 extra:
   Price: $42.99 - $136.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/compute-module-4-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/compute-module-4.htm
-  repositories: []
-name: Compute Module 4
-ref: waveshare/compute-module-4
-release_date: null
-sku: compute-module-4
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/compute-module-4-1.jpg

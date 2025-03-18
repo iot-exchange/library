@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: t2
+ref: olimex/t2
+vendor: olimex
+sku: t2
+name: T2
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/IC/A20/images/thumbs/200x150/20.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/IC/T2/
-  repositories: []
-name: T2
-ref: olimex/t2
-release_date: null
-sku: t2
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/IC/A20/images/thumbs/200x150/20.jpg

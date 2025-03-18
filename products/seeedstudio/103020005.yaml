@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '103020005'
+ref: seeedstudio/103020005
+vendor: seeedstudio
+sku: '103020005'
+name: '103020005'
 description: Grove - Relay High current 5V/10A small 1-way mechanical relay switch
   Arduino
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/Grove-Relay-High-current-5V-10A-small-1-way-mechanical-relay-switch-Arduino-p-103020005.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2018-07bazaar881127_3.jpg
   - https://www.seeedstudio.com/img/ah
-  models: []
-  products:
-  - https://www.seeedstudio.com/Grove-Relay-High-current-5V-10A-small-1-way-mechanical-relay-switch-Arduino-p-103020005.html
-  repositories: []
-name: '103020005'
-ref: seeedstudio/103020005
-release_date: null
-sku: '103020005'
-spec: null
-status: ''
-vendor: seeedstudio

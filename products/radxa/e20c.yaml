@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: e20c
+ref: radxa/e20c
+vendor: radxa
+sku: e20c
+name: E20C
 description: Mini Network Titan
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/network-computer/e20c/thumb_radxa_e20c.webp
-  models: []
   products:
   - https://radxa.com/products/network-computer/e20c
-  repositories: []
-name: E20C
-ref: radxa/e20c
-release_date: null
-sku: e20c
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/network-computer/e20c/thumb_radxa_e20c.webp

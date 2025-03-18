@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: d200-lidar-kit
+ref: waveshare/d200-lidar-kit
+vendor: waveshare
+sku: d200-lidar-kit
+name: D200 LiDAR Kit
 description: "360\xB0 Omni-directional Triangulation Lidar, 8m Radius Ranging, Software\
   \ Start-stop Control, D200 Developer Kit with LD14P Lidar"
+status: ''
 extra:
   Price: $53.63 - $54.99
   SKU: '24659'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/2/d200-lidar-kit-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/d200-lidar-kit.htm
-  repositories: []
-name: D200 LiDAR Kit
-ref: waveshare/d200-lidar-kit
-release_date: null
-sku: d200-lidar-kit
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/2/d200-lidar-kit-1.jpg

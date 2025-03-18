@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: quectel-kg100s
+ref: silicon-labs/quectel-kg100s
+vendor: silicon-labs
+sku: quectel-kg100s
+name: Quectel KG100S
 description: ''
+status: ''
 extra:
   BLE: 'Yes'
   CSS: 'Yes'
@@ -13,17 +17,6 @@ extra:
   Recommended Kit: KG100S-PK6130A
   Secure Vault: 'Yes'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.quectel.com/product/kg100s-amazon-sidewalk-module
-  repositories: []
-name: Quectel KG100S
-ref: silicon-labs/quectel-kg100s
-release_date: null
-sku: quectel-kg100s
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

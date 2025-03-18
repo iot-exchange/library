@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 1-3inch-oled-hat
+ref: waveshare/1-3inch-oled-hat
+vendor: waveshare
+sku: 1-3inch-oled-hat
+name: 1.3inch OLED HAT
 description: 128x64, 1.3inch OLED display HAT for Raspberry Pi
+status: ''
 extra:
   Price: $10.97 - $11.99
   SKU: '13890'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/1.3inch-oled-hat.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.3inch-oled-hat-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.3inch-oled-hat-3_2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/1.3inch-oled-hat.htm
-  repositories: []
-name: 1.3inch OLED HAT
-ref: waveshare/1-3inch-oled-hat
-release_date: null
-sku: 1-3inch-oled-hat
-spec: null
-status: ''
-vendor: waveshare

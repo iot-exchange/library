@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-mpu6050
+ref: olimex/mod-mpu6050
+vendor: olimex
+sku: mod-mpu6050
+name: MOD-MPU6050
 description: ''
+status: ''
 extra:
   bulkPrice: 7.16 EUR
   discountedPrice: 7.55 EUR
   price: 7.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Sensors/MOD-MPU6050/images/thumbs/200x150/MOD-MPU6050.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Sensors/MOD-MPU6050/open-source-hardware
-  repositories: []
-name: MOD-MPU6050
-ref: olimex/mod-mpu6050
-release_date: null
-sku: mod-mpu6050
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Sensors/MOD-MPU6050/images/thumbs/200x150/MOD-MPU6050.jpg

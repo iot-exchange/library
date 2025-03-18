@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '102110358'
+ref: seeedstudio/102110358
+vendor: seeedstudio
+sku: '102110358'
+name: '102110358'
 description: Raspberry Pi Zero W The Raspberry Pi Zero W is a compact single-board
   computer (65mm x 30mm) with built-in 802.11n Wi-Fi and Bluetooth 4.0. It features
   40 GPIO pins, a 1GHz ARM Cortex-A7 processor, 512MB RAM, and uses a microSD card
   for storage, ideal for IoT and automation projects.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102110358-raspberry-pi-zero-w-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-Zero-W-p-4257.html
-  repositories: []
-name: '102110358'
-ref: seeedstudio/102110358
-release_date: null
-sku: '102110358'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102110358-raspberry-pi-zero-w-45font.jpg

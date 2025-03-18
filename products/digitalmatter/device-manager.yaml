@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: device-manager
+ref: digitalmatter/device-manager
+vendor: digitalmatter
+sku: device-manager
+name: Device Manager
 description: Cloud-based Device Management Platform providing visibility and control
   over Digital Matter devices.
+status: ''
 extra:
   Features: Customize settings, monitor and troubleshoot, keep devices up-to-date,
     maximize performance, secure solution.
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Device Manager
-ref: digitalmatter/device-manager
-release_date: null
-sku: device-manager
-spec: null
-status: ''
-vendor: digitalmatter
+  images: []

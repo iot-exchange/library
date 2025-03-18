@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: fpq-64-0-8-13
+ref: waveshare/fpq-64-0-8-13
+vendor: waveshare
+sku: fpq-64-0-8-13
+name: FPQ-64-0.8-13
 description: Test & Burn-in Socket
+status: ''
 extra:
   Price: $77.99 - $83.99
   SKU: '7546'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/p/fpq-64-0.8-13_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/fpq-64-0.8-13.htm
-  repositories: []
-name: FPQ-64-0.8-13
-ref: waveshare/fpq-64-0-8-13
-release_date: null
-sku: fpq-64-0-8-13
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/p/fpq-64-0.8-13_l_1_5.jpg

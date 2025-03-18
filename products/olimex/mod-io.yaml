@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-io
+ref: olimex/mod-io
+vendor: olimex
+sku: mod-io
+name: MOD-IO
 description: ''
+status: ''
 extra:
   bulkPrice: 14.36 EUR
   discountedPrice: 16.16 EUR
   price: 17.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/IO/MOD-IO/images/thumbs/200x150/MOD-IO-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/IO/MOD-IO/open-source-hardware
-  repositories: []
-name: MOD-IO
-ref: olimex/mod-io
-release_date: null
-sku: mod-io
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/IO/MOD-IO/images/thumbs/200x150/MOD-IO-1.jpg

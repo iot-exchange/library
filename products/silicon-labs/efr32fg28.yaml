@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: efr32fg28
+ref: silicon-labs/efr32fg28
+vendor: silicon-labs
+sku: efr32fg28
+name: EFR32FG28
 description: "The EFR32FG28 SoC is an ideal dual band Sub-GHz + 2.4 GHz Bluetooth\
   \ LE SoC solution for IoT applications in smart homes, security, lighting, building\
   \ automation, and metering. This dual band solution combines a high-performance\
@@ -7,21 +10,11 @@ description: "The EFR32FG28 SoC is an ideal dual band Sub-GHz + 2.4 GHz Bluetoot
   \ increased design flexibility. The large memory footprint and increased IO count\
   \ allows for design consolidation and Secure Vault\u2122 gives flexibility to choose\
   \ the security level that meets your product\u2019s needs."
+status: ''
 extra:
   Sub-GHz and Bluetooth LE Support: ''
   Up to: 1024 kB of Flash and 256 kB of RAM
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/wireless/proprietary/efr32fg28-sub-ghz-wireless-socs
-  repositories: []
-name: EFR32FG28
-ref: silicon-labs/efr32fg28
-release_date: null
-sku: efr32fg28
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

@@ -1,0 +1,13 @@
+id: ug63
+ref: milesight/ug63
+vendor: milesight
+sku: ug63
+name: UG63
+description: "Mini LoRaWAN\xAE Gateway"
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-gateway/ug63
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/gateway/lorawan-mini-gateway.png?t=1742198585390

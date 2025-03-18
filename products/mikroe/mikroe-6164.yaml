@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6164
+ref: mikroe/mikroe-6164
+vendor: mikroe
+sku: mikroe-6164
+name: MIKROE-6164
 description: Mikromedia 5 for STM32F4 Resistive is not limited to multimedia-based
   applications only. USB, Ethernet, WiFi and RF connectivity options, digital motion
   sensor, battery charging functionality, piezo-buzzer,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mikromedia-4-for-stm32-resistive/mikromedia-4-for-stm32-resistive-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/mikromedia-5-for-stm32-resistive/mikromedia-5-for-stm32-resistive-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mikromedia-4-for-stm32-resistive
   - https://www.mikroe.com/mikromedia-5-for-stm32-resistive
-  repositories: []
-name: MIKROE-6164
-ref: mikroe/mikroe-6164
-release_date: null
-sku: mikroe-6164
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-4-for-stm32-resistive/mikromedia-4-for-stm32-resistive-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-5-for-stm32-resistive/mikromedia-5-for-stm32-resistive-home_default-1.jpg?v=100

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '101991042'
+ref: seeedstudio/101991042
+vendor: seeedstudio
+sku: '101991042'
+name: '101991042'
 description: "High-precision ultrasonic distance sensor with a measuring range of\
   \ 25~500cm. Suitable for various applications like Horizontal ranging\u3001Intelligent\
   \ trash can management system\u3001Robot avoidance and automatic control."
+status: ''
 extra:
   price: $39.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101991042-rs485-500cm-ultrasonic-level-sensor-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/RS485-500cm-Ultrasonic-Level-Sensor-p-5588.html
-  repositories: []
-name: '101991042'
-ref: seeedstudio/101991042
-release_date: null
-sku: '101991042'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101991042-rs485-500cm-ultrasonic-level-sensor-45font.jpg

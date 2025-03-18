@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5193
+ref: mikroe/mikroe-5193
+vendor: mikroe
+sku: mikroe-5193
+name: MIKROE-5193
 description: "Click Shield for Nucleo-64 Combine STM32 Nucleo-64 with your favorite\
   \ Click boards\u2122 Start your project development with our Click Shield for Nucleo-64\
   \ fast and easy. The STM32 Nucleo-64 boards combined with the mikroBUS\u2122 sockets\
   \ provide you immediate access to hundreds of Click boards\u2122 in our offer, allowing\
   \ you to create a limitless number of..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/click-shield-for-nucleo-64/click-shield-for-nucleo-64-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/click-shield-for-nucleo-64
-  repositories: []
-name: MIKROE-5193
-ref: mikroe/mikroe-5193
-release_date: null
-sku: mikroe-5193
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/click-shield-for-nucleo-64/click-shield-for-nucleo-64-home_default-1.jpg?v=100

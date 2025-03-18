@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: ltc2
+ref: dragino/ltc2
+vendor: dragino
+sku: ltc2
+name: LTC2
 description: Industrial LoRaWAN Temperature Transmitter
+status: ''
 extra:
   Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
   Power Consumption: Ultra Low
   Probe Type: Various PT100 Probe
   Type: Waterproof /Outdoor Temperature Sensor
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/56dab2b3675237b0ba79395c67ee9ae4_L.jpg
-  models: []
   products:
   - https://dragino.com/products/temperature-humidity-sensor/item/170-ltc2.html
-  repositories: []
-name: LTC2
-ref: dragino/ltc2
-release_date: null
-sku: ltc2
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/56dab2b3675237b0ba79395c67ee9ae4_L.jpg

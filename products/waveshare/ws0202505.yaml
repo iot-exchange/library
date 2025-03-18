@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: ws0202505
+ref: waveshare/ws0202505
+vendor: waveshare
+sku: ws0202505
+name: WS0202505
 description: M12 Long Focal Length Lens, 5MP, 25mm Focal length, Large Aperture, Compatible
   with Raspberry Pi High Quality Camera M12
+status: ''
 extra:
   Price: $11.31 - $11.99
   SKU: '24054'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/s/ws0202505-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ws0202505.htm
-  repositories: []
-name: WS0202505
-ref: waveshare/ws0202505
-release_date: null
-sku: ws0202505
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/s/ws0202505-1.jpg

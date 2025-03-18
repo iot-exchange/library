@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4981
+ref: mikroe/mikroe-4981
+vendor: mikroe
+sku: mikroe-4981
+name: MIKROE-4981
 description: AMR Angle 2 Click is a compact add-on board containing an anisotropic
   magnetoresistive measurement solution ideal for either angle or linear position
   measurements. This board features the ADA4570, an integrated AMR angle sensor with
   an integrated signal conditioner and differential outputs from Analog Devices. The
   ADA4570 delivers amplified differential...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/amr-angle-2-click/amr-angle-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/amr-angle-2-click
-  repositories: []
-name: MIKROE-4981
-ref: mikroe/mikroe-4981
-release_date: null
-sku: mikroe-4981
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/amr-angle-2-click/amr-angle-2-click-home_default-1.jpg?v=100

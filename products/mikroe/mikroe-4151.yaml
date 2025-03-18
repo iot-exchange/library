@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4151
+ref: mikroe/mikroe-4151
+vendor: mikroe
+sku: mikroe-4151
+name: MIKROE-4151
 description: "Ammonia Click is an Ammonia detection (NH3) sensor, based on the MQ-137\
   \ gas sensor. This gas sensor has a sensitive layer made of SnO2, which changes\
   \ its resistance when exposed to ammonia. The sensor is able to sense NH3 concentration\
   \ in the range of 5 ppm to 200 ppm. This Click board\u2122 is also equipped with\
   \ a trimmer potentiometer, used to adjust the..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ammonia-click/ammonia-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ammonia-click
-  repositories: []
-name: MIKROE-4151
-ref: mikroe/mikroe-4151
-release_date: null
-sku: mikroe-4151
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ammonia-click/ammonia-click-home_default-1.jpg?v=100

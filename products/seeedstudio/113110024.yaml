@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '113110024'
+ref: seeedstudio/113110024
+vendor: seeedstudio
+sku: '113110024'
+name: '113110024'
 description: Home Assistant Green is the easiest and most privacy-focused way to automate
   your home. It offers an effortless setup and allows you to control all the smart
   devices with just one system, where all the data is stored locally by default. This
   board benefits from the thriving Home Assistant ecosystem and it will be improved
   every month by open source.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/w/e/wechatimg163.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Home-Assistant-Green-p-5792.html
-  repositories: []
-name: '113110024'
-ref: seeedstudio/113110024
-release_date: null
-sku: '113110024'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/w/e/wechatimg163.jpg

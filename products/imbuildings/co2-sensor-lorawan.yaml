@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: co2-sensor-lorawan
+ref: imbuildings/co2-sensor-lorawan
+vendor: imbuildings
+sku: co2-sensor-lorawan
+name: "CO2 Sensor \u2013 LoRaWAN"
 description: CO2 sensor providing real-time insight on air quality.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://imbuildings.com/products/co2-sensor-lorawan/
-  repositories: []
-name: "CO2 Sensor \u2013 LoRaWAN"
-ref: imbuildings/co2-sensor-lorawan
-release_date: null
-sku: co2-sensor-lorawan
-spec: null
-status: ''
-vendor: imbuildings
+  images: []

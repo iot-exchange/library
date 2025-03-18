@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: nrf54h20
+ref: nordicsemi/nrf54h20
+vendor: nordicsemi
+sku: nrf54h20
+name: nRF54H20
 description: Revolutionary multiprotocol and multiprocessor SoC with world-leading
   processing power and efficiency, ample memory, record-breaking radio, and state-of-the-art
   security.
+status: Sampling now
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.nordicsemi.com/Products/nRF54H20
   images:
   - https://nos-p-001.sitecorecontenthub.cloud/api/public/content/a4c34da3d41a4527bf74f478cfdedc88?v=4c158042
   - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF54H20_WLCSP_stacked_web.png?h=250&iar=0&mh=250&w=273&hash=F4749B54F2782F303F2CB8D7C13CF673
   - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF54H20_WLCSP_stacked_web.png?h=500&iar=0&mh=500&w=546&hash=7CBA20335F0F4DD90EB4C7D21735B190
-  models: []
-  products:
-  - https://www.nordicsemi.com/Products/nRF54H20
-  repositories: []
-name: nRF54H20
-ref: nordicsemi/nrf54h20
-release_date: null
-sku: nrf54h20
-spec: null
-status: Sampling now
-vendor: nordicsemi

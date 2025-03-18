@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-6012
+ref: mikroe/mikroe-6012
+vendor: mikroe
+sku: mikroe-6012
+name: MIKROE-6012
 description: "EZO Carrier Click - RTD is a compact add-on board engineered to provide\
   \ temperature readings across a broad range of temperatures. This board features\
   \ the EZO-RTD\u2122, an embedded temperature circuit board from Atlas Scientific.\
   \ The EZO-RTD\u2122 is a small black additional board that comes together with the\
   \ carrier board and allows you to read the temperature..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ezo-carrier-click-rtd/ezo-carrier-click-rtd-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/silent-step-4-click/silent-step-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ezo-carrier-click-rtd
   - https://www.mikroe.com/silent-step-4-click
-  repositories: []
-name: MIKROE-6012
-ref: mikroe/mikroe-6012
-release_date: null
-sku: mikroe-6012
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ezo-carrier-click-rtd/ezo-carrier-click-rtd-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/silent-step-4-click/silent-step-4-click-home_default-1.jpg?v=100

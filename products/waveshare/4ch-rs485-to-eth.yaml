@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 4ch-rs485-to-eth
+ref: waveshare/4ch-rs485-to-eth
+vendor: waveshare
+sku: 4ch-rs485-to-eth
+name: 4ch_rs485_to_eth
 description: 4-Ch RS485 to RJ45 Ethernet Serial Server, 4 Channels RS485 Independent
   Operation, Rail-mount Industrial Isolated Serial Module, Optional PoE Function
+status: ''
 extra:
   Price: $49.99 - $52.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/4-ch-rs485-to-eth-b.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/-/4-ch-rs485-to-eth-b-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/t/rtc-battery-a-1.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/4-ch-rs485-to-eth-b.htm
-  repositories: []
-name: 4ch_rs485_to_eth
-ref: waveshare/4ch-rs485-to-eth
-release_date: null
-sku: 4ch-rs485-to-eth
-spec: null
-status: ''
-vendor: waveshare

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: ugv-beast-ros-2-ai-kit
+ref: waveshare/ugv-beast-ros-2-ai-kit
+vendor: waveshare
+sku: ugv-beast-ros-2-ai-kit
+name: UGV Beast ROS 2 AI Kit
 description: UGV Beast ROS 2 Open-source Off-Road Tracked AI Robot, Dual controllers,
   Computer Vision, All-metal Body, Flexible and Expandable, Suitable for Raspberry
   Pi 4B / Raspberry Pi 5
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/g/ugv-beast-pt-pi4b-ros2-kit-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ugv-beast-ros2-kit.htm
-  repositories: []
-name: UGV Beast ROS 2 AI Kit
-ref: waveshare/ugv-beast-ros-2-ai-kit
-release_date: null
-sku: ugv-beast-ros-2-ai-kit
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/g/ugv-beast-pt-pi4b-ros2-kit-1.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: e25
+ref: radxa/e25
+vendor: radxa
+sku: e25
+name: E25
 description: Versatile Portable Network Computer
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/network-computer/e25/thumb_radxa_e25.webp
-  models: []
   products:
   - https://radxa.com/products/network-computer/e25
-  repositories: []
-name: E25
-ref: radxa/e25
-release_date: null
-sku: e25
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/network-computer/e25/thumb_radxa_e25.webp

@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: mikroe-3789
+ref: mikroe/mikroe-3789
+vendor: mikroe
+sku: mikroe-3789
+name: MIKROE-3789
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=2544
-  repositories: []
-name: MIKROE-3789
-ref: mikroe/mikroe-3789
-release_date: null
-sku: mikroe-3789
-spec: null
-status: ''
-vendor: mikroe
+  images: []

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: esp32-s3
+ref: espressif/esp32-s3
+vendor: espressif
+sku: esp32-s3
+name: ESP32-S3
 description: 32-bit MCU & 2.4 GHz Wi-Fi & Bluetooth 5 (LE) with dual-core processor.
+status: ''
 extra:
   Core: Dual Core
   Development Board: '[ESP32-S3-DevKitC-1](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitc-1.html),
@@ -21,19 +25,8 @@ extra:
   Pins: '56'
   RAM/ROM (KB): 384 KB ROM, 512 KB SRAM, 16 KB RTC SRAM
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/chips/ESP32-S3_S_0.png
-  models: []
   products:
   - https://www.espressif.com/en/support/documents/technical-documents?type=socs&series=ESP32-S3
     Series
-  repositories: []
-name: ESP32-S3
-ref: espressif/esp32-s3
-release_date: null
-sku: esp32-s3
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP32-S3_S_0.png

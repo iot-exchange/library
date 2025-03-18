@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5263
+ref: mikroe/mikroe-5263
+vendor: mikroe
+sku: mikroe-5263
+name: MIKROE-5263
 description: Stepper 9 Click is a compact add-on board that contains a bipolar stepper
   motor driver. This board features the TB67S581FNG, a two-phase bipolar stepping
   motor driver from Toshiba Semiconductor. Fabricated with the BiCD process, it supports
   a PWM constant-current control drive and steps resolution from full to 1/32 for
   less motor noise and smoother...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/stepper-9-click/stepper-9-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/stepper-9-click
-  repositories: []
-name: MIKROE-5263
-ref: mikroe/mikroe-5263
-release_date: null
-sku: mikroe-5263
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/stepper-9-click/stepper-9-click-home_default-1.jpg?v=100

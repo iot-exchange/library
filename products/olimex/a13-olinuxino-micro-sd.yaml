@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: a13-olinuxino-micro-sd
+ref: olimex/a13-olinuxino-micro-sd
+vendor: olimex
+sku: a13-olinuxino-micro-sd
+name: A13-OLinuXino-MICRO-SD
 description: ''
+status: ''
 extra:
   10+ pcs: 8.96 EUR
   50+ pcs: 7.96 EUR
   Price: 9.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/A13/A13-OLinuXino-MICRO-SD/images/thumbs/200x150/SD-Card.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/A13/A13-OLinuXino-MICRO-SD/
-  repositories: []
-name: A13-OLinuXino-MICRO-SD
-ref: olimex/a13-olinuxino-micro-sd
-release_date: null
-sku: a13-olinuxino-micro-sd
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A13/A13-OLinuXino-MICRO-SD/images/thumbs/200x150/SD-Card.jpg

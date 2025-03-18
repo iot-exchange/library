@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: lds25-lb-ls
+ref: dragino/lds25-lb-ls
+vendor: dragino
+sku: lds25-lb-ls
+name: LDS25-LB/LS
 description: "LoRaWAN 1.0.3 Class ABands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915Ultra\
   \ Low Power ConsumptionLaser technology for distance detectionMeasure Distance:\
   \ 0.1m~25m @ 90% Reflectivity, 0.1m~12m @ 10% ReflectivityFOV : 3\xB0Support Bluetooth\
   \ v5.1 and LoRaWAN remote configureSupport wireless OTA update firmware8500mAh Li/SOCl2\
   \ Battery (LDS25-LB)Solar panel + 3000mAh Li-ion battery (LDS25-LS)"
+status: ''
 extra:
   Catalog: Distance & Level Detect Sensor
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/de2df791682f079f8397226a3ff38bc7_L.jpg
-  models: []
   products:
   - https://dragino.com/products/distance-level-sensor/item/348-lds25-lb-ls.html
-  repositories: []
-name: LDS25-LB/LS
-ref: dragino/lds25-lb-ls
-release_date: null
-sku: lds25-lb-ls
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/de2df791682f079f8397226a3ff38bc7_L.jpg

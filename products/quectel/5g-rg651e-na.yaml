@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: 5g-rg651e-na
+ref: quectel/5g-rg651e-na
+vendor: quectel
+sku: 5g-rg651e-na
+name: 5G RG651E-NA
 description: 5G  GNSS  LTE Cat 18  LTE Cat 20  mmWave  NSA  Qualcomm Gen9C Lite  SA
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.quectel.com/content/uploads/2024/03/RG651E-NA.png
-  models: []
   products:
   - https://www.quectel.com/product/5g-rg651e-na/
-  repositories: []
-name: 5G RG651E-NA
-ref: quectel/5g-rg651e-na
-release_date: null
-sku: 5g-rg651e-na
-spec: null
-status: ''
-vendor: quectel
+  images:
+  - https://www.quectel.com/content/uploads/2024/03/RG651E-NA.png

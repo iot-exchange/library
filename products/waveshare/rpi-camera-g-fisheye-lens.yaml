@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: rpi-camera-g-fisheye-lens
+ref: waveshare/rpi-camera-g-fisheye-lens
+vendor: waveshare
+sku: rpi-camera-g-fisheye-lens
+name: RPi Camera (G), Fisheye Lens
 description: $21.29  -  $22.99
+status: ''
 extra:
   Part No.: RPi Camera (G)
   SKU: '10344'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rpi_camera_g__1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rpi-camera-g.htm
-  repositories: []
-name: RPi Camera (G), Fisheye Lens
-ref: waveshare/rpi-camera-g-fisheye-lens
-release_date: null
-sku: rpi-camera-g-fisheye-lens
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rpi_camera_g__1.jpg

@@ -1,0 +1,15 @@
+id: beaglebone-r-black-industrial
+ref: beagleboard/beaglebone-r-black-industrial
+vendor: beagleboard
+sku: beaglebone-r-black-industrial
+name: "BeagleBone\xAE Black Industrial"
+description: "Answer the need for an industrial rated single board computer with extended\
+  \ temperature range with the same functionality as the popular BeagleBone Black\xAE\
+  ."
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.beagleboard.org/boards/beaglebone-black-industrial
+  images:
+  - https://www.beagleboard.org/app/uploads/2021/04/bb-industrial-400x356.png

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: 10-1-hdmi-lcd-g-with-case
+ref: waveshare/10-1-hdmi-lcd-g-with-case
+vendor: waveshare
+sku: 10-1-hdmi-lcd-g-with-case
+name: "10.1\u2033 HDMI LCD (G) (with case)"
 description: "10.1inch HD Capacitive Touch Screen LCD (G), 1920\xD71200, HDMI, IPS,\
   \ Optical Bonding Screen, Supports Raspberry Pi / Jetson Nano / PC..."
+status: ''
 extra:
   Multi Options: ''
   Price: $142.99
   price: $142.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.1inch-hdmi-lcd-g-with-case-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/10.1inch-hdmi-lcd-g-with-case.htm
-  repositories: []
-name: "10.1\u2033 HDMI LCD (G) (with case)"
-ref: waveshare/10-1-hdmi-lcd-g-with-case
-release_date: null
-sku: 10-1-hdmi-lcd-g-with-case
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.1inch-hdmi-lcd-g-with-case-1.jpg

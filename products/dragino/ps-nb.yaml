@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: ps-nb
+ref: dragino/ps-nb
+vendor: dragino
+sku: ps-nb
+name: PS-NB
 description: NB-IoT Air/Water Pressure Sensor
+status: ''
 extra:
   Battery: 8500mAh for long term use
   Different pressure range available: ''
@@ -11,18 +15,7 @@ extra:
   Thread Installation Type or Immersion Type: ''
   Ultra-low power consumption: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/71ab1197965a26d2e4379f8b23c36ebb_L.jpg
-  models: []
   products:
   - https://dragino.com/products/distance-level-sensor/item/296-ps-nb.html
-  repositories: []
-name: PS-NB
-ref: dragino/ps-nb
-release_date: null
-sku: ps-nb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/71ab1197965a26d2e4379f8b23c36ebb_L.jpg

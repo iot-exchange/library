@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bearing-mf128zz
+ref: olimex/bearing-mf128zz
+vendor: olimex
+sku: bearing-mf128zz
+name: BEARING-MF128ZZ
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-MF128ZZ/images/thumbs/200x150/MF-128-ZZ.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-MF128ZZ/
-  repositories: []
-name: BEARING-MF128ZZ
-ref: olimex/bearing-mf128zz
-release_date: null
-sku: bearing-mf128zz
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-MF128ZZ/images/thumbs/200x150/MF-128-ZZ.jpg

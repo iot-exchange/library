@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: lg01v2
+ref: dragino/lg01v2
+vendor: dragino
+sku: lg01v2
+name: LG01v2
 description: 'Single Channel Peer to Peer LoRa GatewayOpen Source Debian systemCPU:
   Quad-Core Cortex-A7, 1.2GhzRAM 512MB, eMMC: 4GBBuilt-in Node-Red'
+status: ''
 extra:
   CPU: Quad-Core Cortex-A7, 1.2Ghz
   RAM: 512MB
   System: Open Source Debian
   eMMC: 4GB
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/d0d354668f69293e040aa69de3140c78_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lora-lorawan-gateway/item/244-lg01v2.html
-  repositories: []
-name: LG01v2
-ref: dragino/lg01v2
-release_date: null
-sku: lg01v2
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/d0d354668f69293e040aa69de3140c78_L.jpg

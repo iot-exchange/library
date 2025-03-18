@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: hl7810
+ref: sierrawireless/hl7810
+vendor: sierrawireless
+sku: hl7810
+name: HL7810
 description: "Release 14 Cat-M1 / Cat-NB2\u200B"
+status: ''
 extra:
   Bands: B1, B2, B3, B4, B5, B8, B9, B10, B12, B13, B17, B18, B19, B20, B23, B25,
     B26, B27, B28, B66, B85, B255, B256
   Fallback: NTN
   Region (Carrier): Global
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.sierrawireless.com/iot-modules/lpwa-modules/hl7810/
-  repositories: []
-name: HL7810
-ref: sierrawireless/hl7810
-release_date: null
-sku: hl7810
-spec: null
-status: ''
-vendor: sierrawireless
+  images: []

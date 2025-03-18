@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: imx219-d160
+ref: waveshare/imx219-d160
+vendor: waveshare
+sku: imx219-d160
+name: IMX219-D160
 description: IMX219 Camera Module, 160 degree FoV
+status: ''
 extra:
   Price: $9.63 - $10.99
   SKU: '15264'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/imx219-d160.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx219-d160-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx219-d160-3.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/imx219-d160.htm
-  repositories: []
-name: IMX219-D160
-ref: waveshare/imx219-d160
-release_date: null
-sku: imx219-d160
-spec: null
-status: ''
-vendor: waveshare

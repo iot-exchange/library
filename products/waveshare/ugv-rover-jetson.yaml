@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: ugv-rover-jetson
+ref: waveshare/ugv-rover-jetson
+vendor: waveshare
+sku: ugv-rover-jetson
+name: ugv_rover_jetson
 description: "UGV Rover Open-Source 6 Wheels 4WD AI Robot For Jetson Orin Series Board,\
   \ Dual Controllers, 360\xB0 Flexible Omnidirectional Pan-Tilt, Optional For Jetson\
   \ Orin Nano 4GB Kit"
+status: ''
 extra:
   Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/g/ugv-rover-pt-jetson-orin-ai-kit-1.jpg
-  models: []
   products:
   - "https://www.waveshare.com/product/ugv-rover-pt-jetson-orin-ai-kit.htm \"UGV Rover\
     \ Open-Source 6 Wheels 4WD AI Robot For Jetson Orin Series Board, Dual Controllers,\
     \ 360\xB0 Flexible Omnidirectional Pan-Tilt, Optional For Jetson Orin Nano 4GB\
     \ Kit\""
-  repositories: []
-name: ugv_rover_jetson
-ref: waveshare/ugv-rover-jetson
-release_date: null
-sku: ugv-rover-jetson
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/g/ugv-rover-pt-jetson-orin-ai-kit-1.jpg

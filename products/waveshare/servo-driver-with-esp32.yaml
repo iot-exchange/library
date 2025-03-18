@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: servo-driver-with-esp32
+ref: waveshare/servo-driver-with-esp32
+vendor: waveshare
+sku: servo-driver-with-esp32
+name: Servo Driver with ESP32
 description: ESP32 Servo Driver Expansion Board, Built-In WiFi and Bluetooth
+status: ''
 extra:
   Price: $14.97 - $15.99
   SKU: '21593'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/e/servo-driver-with-esp32-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/servo-driver-with-esp32.htm
-  repositories: []
-name: Servo Driver with ESP32
-ref: waveshare/servo-driver-with-esp32
-release_date: null
-sku: servo-driver-with-esp32
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/e/servo-driver-with-esp32-1.jpg

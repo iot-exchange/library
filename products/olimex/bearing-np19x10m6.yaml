@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bearing-np19x10m6
+ref: olimex/bearing-np19x10m6
+vendor: olimex
+sku: bearing-np19x10m6
+name: BEARING-NP19X10M6
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/NP19X10M6/images/thumbs/200x150/NP19.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-NP19X10M6/
-  repositories: []
-name: BEARING-NP19X10M6
-ref: olimex/bearing-np19x10m6
-release_date: null
-sku: bearing-np19x10m6
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/NP19X10M6/images/thumbs/200x150/NP19.jpg

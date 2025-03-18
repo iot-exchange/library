@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '114992565'
+ref: seeedstudio/114992565
+vendor: seeedstudio
+sku: '114992565'
+name: '114992565'
 description: This is a very beautiful screw terminal expansion version, which is expanded
   for the pins of the Raspberry Pi. It is convenient for everyone to connect when
   doing electronic experiments.
+status: ''
 extra:
   price: $13.90
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/e/p/ep_0129_2.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/GPIO-Screw-Terminal-Hat-for-Raspberry-Pi-p-4808.html
-  repositories: []
-name: '114992565'
-ref: seeedstudio/114992565
-release_date: null
-sku: '114992565'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/e/p/ep_0129_2.jpg

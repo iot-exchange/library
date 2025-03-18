@@ -1,0 +1,13 @@
+id: ws558
+ref: milesight/ws558
+vendor: milesight
+sku: ws558
+name: WS558
+description: Smart Light Controller
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/ws558
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/smart-workplace-cowork-series/smart-light-controller-ws558.png?t=1742198585390

@@ -1,28 +1,21 @@
-alternatives: []
-certifications: []
+id: esp32-h2-devkitm-1
+ref: espressif/esp32-h2-devkitm-1
+vendor: espressif
+sku: esp32-h2-devkitm-1
+name: ESP32-H2-DevKitM-1
 description: "ESP32-H2-DevKitM-1 is an entry-level development board based on Bluetooth\xAE\
   \ Low Energy and IEEE 802.15.4 combo modules ESP32-H2-MINI-1 or ESP32-H2-MINI-1U.\
   \ Most of the I/O pins on the ESP32-H2-MINI-1 module are broken out to the pin headers\
   \ on both sides of this board for easy interfacing. Developers can either connect\
   \ peripherals with jumper wires or mount ESP32-H2-DevKitM-1 on a breadboard."
+status: ''
 extra:
   Flash / PSRAM: 4 MB Flash
   Interfaces: I/O USB
   Related Products: ESP32-H2-MINI-1, ESP32-H2-MINI-1U
   UI: Buttons, LEDs
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/dev-board/ESP32-H2-DevKitM-1_S_1.png
-  models: []
   products:
   - https://www.espressif.com/en/products/devkits/ESP32-H2-DevKitM-1
-  repositories: []
-name: ESP32-H2-DevKitM-1
-ref: espressif/esp32-h2-devkitm-1
-release_date: null
-sku: esp32-h2-devkitm-1
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/dev-board/ESP32-H2-DevKitM-1_S_1.png

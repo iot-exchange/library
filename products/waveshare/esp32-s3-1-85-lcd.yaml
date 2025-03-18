@@ -1,27 +1,20 @@
-alternatives: []
-certifications: []
+id: esp32-s3-1-85-lcd
+ref: waveshare/esp32-s3-1-85-lcd
+vendor: waveshare
+sku: esp32-s3-1-85-lcd
+name: "ESP32-S3 1.85\u2033 LCD"
 description: "ESP32-S3 1.85inch Round Display Development Board, 360\xD7360, 32-bit\
   \ LX7 Dual-core Processor, Up to 240MHz Frequency, Supports WiFi & Bluetooth, ESP32\
   \ With Display, Optional for Touch Function"
+status: ''
 extra:
   Multi Options: ''
   Price: $25.99 -  $32.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-1.85-1.jpg
-  models: []
   products:
   - "https://www.waveshare.com/product/esp32-s3-touch-lcd-1.85.htm \"ESP32-S3 1.85inch\
     \ Round Display Development Board, 360\xD7360, 32-bit LX7 Dual-core Processor,\
     \ Up to 240MHz Frequency, Supports WiFi & Bluetooth, ESP32 With Display, Optional\
     \ for Touch Function\""
-  repositories: []
-name: "ESP32-S3 1.85\u2033 LCD"
-ref: waveshare/esp32-s3-1-85-lcd
-release_date: null
-sku: esp32-s3-1-85-lcd
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-1.85-1.jpg

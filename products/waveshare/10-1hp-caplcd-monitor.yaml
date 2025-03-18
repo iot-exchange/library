@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: 10-1hp-caplcd-monitor
+ref: waveshare/10-1hp-caplcd-monitor
+vendor: waveshare
+sku: 10-1hp-caplcd-monitor
+name: 10.1HP-CAPLCD Monitor
 description: "10.1inch Capacitive Touch Display, Wide Color Gamut, 1280\xD7800, Optical\
   \ Bonding Toughened Glass Panel, HDMI/Type-C Display Interface"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.1hp-caplcd-monitor-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/10.1hp-caplcd-monitor.htm
-  repositories: []
-name: 10.1HP-CAPLCD Monitor
-ref: waveshare/10-1hp-caplcd-monitor
-release_date: null
-sku: 10-1hp-caplcd-monitor
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.1hp-caplcd-monitor-1.jpg

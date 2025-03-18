@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: samsung-smt-nozzle-cn140
+ref: olimex/samsung-smt-nozzle-cn140
+vendor: olimex
+sku: samsung-smt-nozzle-cn140
+name: SAMSUNG-SMT-NOZZLE-CN140
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/SMT/SAMSUNG-SMT-NOZZLE-CN140/images/thumbs/200x150/CN140.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/SMT/SAMSUNG-SMT-NOZZLE-CN140/
-  repositories: []
-name: SAMSUNG-SMT-NOZZLE-CN140
-ref: olimex/samsung-smt-nozzle-cn140
-release_date: null
-sku: samsung-smt-nozzle-cn140
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/SMT/SAMSUNG-SMT-NOZZLE-CN140/images/thumbs/200x150/CN140.jpg

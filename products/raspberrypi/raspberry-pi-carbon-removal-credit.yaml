@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-carbon-removal-credit
+ref: raspberrypi/raspberry-pi-carbon-removal-credit
+vendor: raspberrypi
+sku: raspberry-pi-carbon-removal-credit
+name: Raspberry Pi Carbon Removal Credit
 description: Supporting the work of UNDO to remove atmospheric carbon dioxide
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.raspberrypi.com/products/carbon-removal-credit/
-  repositories: []
-name: Raspberry Pi Carbon Removal Credit
-ref: raspberrypi/raspberry-pi-carbon-removal-credit
-release_date: null
-sku: raspberry-pi-carbon-removal-credit
-spec: null
-status: ''
-vendor: raspberrypi
+  images: []

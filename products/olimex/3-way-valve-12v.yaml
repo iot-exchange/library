@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: 3-way-valve-12v
+ref: olimex/3-way-valve-12v
+vendor: olimex
+sku: 3-way-valve-12v
+name: 3-WAY-VALVE-12V
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Misc/3-WAY-VALVE-12V/images/thumbs/200x150/VALVE-12V.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Misc/3-WAY-VALVE-12V/
-  repositories: []
-name: 3-WAY-VALVE-12V
-ref: olimex/3-way-valve-12v
-release_date: null
-sku: 3-way-valve-12v
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Misc/3-WAY-VALVE-12V/images/thumbs/200x150/VALVE-12V.jpg

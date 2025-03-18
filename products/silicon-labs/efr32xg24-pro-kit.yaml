@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: efr32xg24-pro-kit
+ref: silicon-labs/efr32xg24-pro-kit
+vendor: silicon-labs
+sku: efr32xg24-pro-kit
+name: EFR32xG24 Pro Kit
 description: The EFR32xG24 +10 dBm Pro Kit is designed to support the development
   of wireless IoT devices based on the EFR32xG24 and support the development of 2.4
   GHz wireless protocols including BLE, Bluetooth mesh, Zigbee, Thread, and Matter.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/efr32xg24-pro-kit-10-dbm
-  repositories: []
-name: EFR32xG24 Pro Kit
-ref: silicon-labs/efr32xg24-pro-kit
-release_date: null
-sku: efr32xg24-pro-kit
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

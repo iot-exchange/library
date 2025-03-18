@@ -1,0 +1,13 @@
+id: emb-fem2gw-o
+ref: embit/emb-fem2gw-o
+vendor: embit
+sku: emb-fem2gw-o
+name: EMB-Fem2GW-O
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.embit.eu/products/femto-lorawan-gateway-868-915-mhz/
+  images:
+  - https://www.embit.eu/wp-content/uploads/2021/01/Fem2GW-O-modificato-7-300x225.jpg

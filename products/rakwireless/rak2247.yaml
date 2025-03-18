@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: rak2247
+ref: rakwireless/rak2247
+vendor: rakwireless
+sku: rak2247
+name: RAK2247
 description: Gateway Concentrator Module for LoRaWAN, SX1301/SX1308 LoRa Core (SPI
   or USB, GPS). A module based on the Semtech SX1301 and comes in the mini-PCIe form
   factor. It allows you to create a full-fledged gateway when paired with a computing
   core.
+status: ''
 extra:
   Core: Semtech SX1301/SX1308
   Form Factor: mini-PCIe
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://res.rakwireless.com/tracked/products/concentrator-modules/product-wislink-concentrator-lorawan-rak2247@2x.png?fm=webp&w=650
-  models: []
   products:
   - https://news.rakwireless.com/line-up-for-linux-how-to-install-your-rak2247-lpwan-gateway-concentrator-module-with-a-linux-machine
   - https://store.rakwireless.com/products/rak2247-lpwan-gateway-concentrator-module?utm_source=ConcentratorModulesforLoRaWAN&utm_medium=ConcentratorModulesforLoRaWAN&utm_campaign=RAKwireless&_gl=1*5oy97q*_ga*MTAxNDQxODg0OC4xNzEyNTU1MzQ4*_ga_9MEJ39NSTZ*MTcxNTA1MzA0NC4yNDMuMS4xNzE1MDUzMDU3LjQ3LjAuMA..&variant=39942873710790??utm_source=ConcentratorModulesforLoRaWAN&utm_medium=ConcentratorModulesforLoRaWAN&utm_campaign=RAKwireless
-  repositories: []
-name: RAK2247
-ref: rakwireless/rak2247
-release_date: null
-sku: rak2247
-spec: null
-status: ''
-vendor: rakwireless
+  images:
+  - https://res.rakwireless.com/tracked/products/concentrator-modules/product-wislink-concentrator-lorawan-rak2247@2x.png?fm=webp&w=650

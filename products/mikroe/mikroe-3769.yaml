@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3769
+ref: mikroe/mikroe-3769
+vendor: mikroe
+sku: mikroe-3769
+name: MIKROE-3769
 description: "TMR Angle Click is a Click board\u2122 perfectly suited for developing\
   \ applications that range from steering angle applications with the highest functional\
   \ safety requirements to motors for wipers, pumps and actuators and electric motors\
   \ in general. This is thanks to the TLE5501, which is dedicated to any automotive\
   \ but also industrial and consumer..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/tmr-angle-click/tmr-angle-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/tmr-angle-click
-  repositories: []
-name: MIKROE-3769
-ref: mikroe/mikroe-3769
-release_date: null
-sku: mikroe-3769
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/tmr-angle-click/tmr-angle-click-home_default-1.jpg?v=100

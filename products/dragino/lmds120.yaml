@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: lmds120
+ref: dragino/lmds120
+vendor: dragino
+sku: lmds120
+name: LMDS120
 description: "LoRaWAN 1.0.3 Class AUltra-low power consumption60Ghz Microwave Radar\
   \ for distance detectionMeasure Range : 15 ~ 1200cmAccuracy: \xB1(2cm+SX0.3%). S:\
   \ Measure ValueMeasurement Angle : 25 degrees horizontal and 23 degrees vertical"
+status: ''
 extra:
   Accuracy: "\xB1(2cm+SX0.3%)"
   Measurement Angle: 25 degrees horizontal and 23 degrees vertical
   Protocol: LoRaWAN 1.0.3 Class A
   Range: 15 ~ 1200cm
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/28b8f12309e9ac4afaade20e5d04ffc2_L.jpg
-  models: []
   products:
   - https://dragino.com/products/distance-level-sensor/item/253-lmds120.html
-  repositories: []
-name: LMDS120
-ref: dragino/lmds120
-release_date: null
-sku: lmds120
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/28b8f12309e9ac4afaade20e5d04ffc2_L.jpg

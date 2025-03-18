@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rpi5-m2-hat
+ref: olimex/rpi5-m2-hat
+vendor: olimex
+sku: rpi5-m2-hat
+name: RPi5-M2-HAT
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/RaspberryPi/RPi5-M2-HAT/images/thumbs/200x150/RPi5-M2-HAT-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/RaspberryPi/RPi5-M2-HAT/
-  repositories: []
-name: RPi5-M2-HAT
-ref: olimex/rpi5-m2-hat
-release_date: null
-sku: rpi5-m2-hat
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/RaspberryPi/RPi5-M2-HAT/images/thumbs/200x150/RPi5-M2-HAT-1.jpg

@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-5923
+ref: mikroe/mikroe-5923
+vendor: mikroe
+sku: mikroe-5923
+name: MIKROE-5923
 description: Opto 7 Click is a compact add-on board that provides uncomplicated safety
   isolation from high voltage. This board features two ISOM8710, high-speed single-channel
   opto-emulators from Texas Instruments. The ISOM8710 opto-emulator has a diode-emulator
   input and digital output. It has a robust isolation barrier capable of withstanding
   up to 3750VRMS and a...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/alphanum-g-2-click/alphanum-g-2-click-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/opto-7-click/opto-7-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/alphanum-g-2-click
   - https://www.mikroe.com/opto-7-click
-  repositories: []
-name: MIKROE-5923
-ref: mikroe/mikroe-5923
-release_date: null
-sku: mikroe-5923
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/alphanum-g-2-click/alphanum-g-2-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/opto-7-click/opto-7-click-home_default-1.jpg?v=100

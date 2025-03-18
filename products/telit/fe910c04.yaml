@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: fe910c04
+ref: telit/fe910c04
+vendor: telit
+sku: fe910c04
+name: FE910C04
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2024/01/TC_FE910C04-295x200.png
-  models: []
   products:
   - https://www.telit.com/devices/fe910c04/
-  repositories: []
-name: FE910C04
-ref: telit/fe910c04
-release_date: null
-sku: fe910c04
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/01/TC_FE910C04-295x200.png

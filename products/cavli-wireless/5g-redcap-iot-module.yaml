@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: 5g-redcap-iot-module
+ref: cavli-wireless/5g-redcap-iot-module
+vendor: cavli-wireless
+sku: 5g-redcap-iot-module
+name: 5G RedCap IoT Module
 description: 5G RedCap is ideal for applications that need higher data rates than
   those supported by LTE-M and NB-IoT but less than the high throughput offered by
   5G NR.
+status: ''
 extra:
   applications: Smart wearables, Industrial IoT, Connected vehicles
   connectivity: Reliable Connectivity with improved network efficiency
   future_outlook: Expected to play a crucial role in enabling a wide range of IoT
     applications
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: 5G RedCap IoT Module
-ref: cavli-wireless/5g-redcap-iot-module
-release_date: null
-sku: 5g-redcap-iot-module
-spec: null
-status: ''
-vendor: cavli-wireless
+  images: []

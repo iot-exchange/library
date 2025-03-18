@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: 9hp-capqled-b
+ref: waveshare/9hp-capqled-b
+vendor: waveshare
+sku: 9hp-capqled-b
+name: 9hp_capqled_b
 description: "9inch QLED Quantum Dot Display, 1280\xD7720, Toughened Glass Panel,\
   \ HDMI Interface, Wide Color Gamut"
+status: ''
 extra:
-  Multi Options: ''
   Price: $114.99
+  Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/9/h/9hp-capqled-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/9hp-capqled-b.htm
   - "https://www.waveshare.com/product/9hp-capqled-b.htm \"9inch QLED Quantum Dot\
     \ Display, 1280\xD7720, Toughened Glass Panel, HDMI Interface, Wide Color Gamut\""
-  repositories: []
-name: 9hp_capqled_b
-ref: waveshare/9hp-capqled-b
-release_date: null
-sku: 9hp-capqled-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/9/h/9hp-capqled-b-1.jpg

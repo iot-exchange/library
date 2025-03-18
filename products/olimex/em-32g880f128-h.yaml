@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: em-32g880f128-h
+ref: olimex/em-32g880f128-h
+vendor: olimex
+sku: em-32g880f128-h
+name: EM-32G880F128-H
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/EnergyMicro/EM-32G880F128-H/images/thumbs/200x150/EFM-H-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/EnergyMicro/EM-32G880F128-H/
-  repositories: []
-name: EM-32G880F128-H
-ref: olimex/em-32g880f128-h
-release_date: null
-sku: em-32g880f128-h
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/EnergyMicro/EM-32G880F128-H/images/thumbs/200x150/EFM-H-01.jpg

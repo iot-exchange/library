@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 2-13inch-e-paper-d
+ref: waveshare/2-13inch-e-paper-d
+vendor: waveshare
+sku: 2-13inch-e-paper-d
+name: 2.13inch e-Paper (D)
 description: 212x104, 2.13inch flexible E-Ink raw display panel
+status: ''
 extra:
   Price: $11.31 - $11.99
   SKU: '14986'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/2.13inch-e-paper-d.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.13inch-e-paper-d-2_2.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.13inch-e-paper-d-6_1.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/2.13inch-e-paper-d.htm
-  repositories: []
-name: 2.13inch e-Paper (D)
-ref: waveshare/2-13inch-e-paper-d
-release_date: null
-sku: 2-13inch-e-paper-d
-spec: null
-status: ''
-vendor: waveshare

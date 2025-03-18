@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: ov9281-110-camera
+ref: waveshare/ov9281-110-camera
+vendor: waveshare
+sku: ov9281-110-camera
+name: OV9281-110 Camera
 description: OV9281-110 Mono Camera for Raspberry Pi, Global Shutter, 1MP
+status: ''
 extra:
-  Price: $24.63 - $25.99
   SKU: '21653'
+  Price: $24.63 - $25.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/ov9281-110-camera.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/v/ov9281-110-camera-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/v/ov9281-110-camera-5.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/ov9281-110-camera.htm
-  repositories: []
-name: OV9281-110 Camera
-ref: waveshare/ov9281-110-camera
-release_date: null
-sku: ov9281-110-camera
-spec: null
-status: ''
-vendor: waveshare

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: iot-product-development
+ref: digitalmatter/iot-product-development
+vendor: digitalmatter
+sku: iot-product-development
+name: IoT Product Development
 description: Accelerate time to market by adapting current devices or developing custom
   solutions.
+status: ''
 extra:
   Features: Validated reference designs, design for manufacturing at scale, design
     for certification, housing design, firmware development.
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: IoT Product Development
-ref: digitalmatter/iot-product-development
-release_date: null
-sku: iot-product-development
-spec: null
-status: ''
-vendor: digitalmatter
+  images: []

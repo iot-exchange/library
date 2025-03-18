@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5542
+ref: mikroe/mikroe-5542
+vendor: mikroe
+sku: mikroe-5542
+name: MIKROE-5542
 description: BarGraph 10-Seg Red (JSB-R102510ZR) is a high-quality 10-segment red
   color bar graph LED display measuring 25.5x10.10x7.9mm. The segments of this bar
   graph LED display are bright and uniformly colored, providing a nice and clean visual
   feedback drawing about 20mA of current. It is suitable for displaying various properties,
   whether an audio level,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/bargraph-10-seg-red/bargraph-10-seg-red-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/bargraph-10-seg-red
-  repositories: []
-name: MIKROE-5542
-ref: mikroe/mikroe-5542
-release_date: null
-sku: mikroe-5542
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/bargraph-10-seg-red/bargraph-10-seg-red-home_default-1.jpg?v=100

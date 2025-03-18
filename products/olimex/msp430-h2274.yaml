@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: msp430-h2274
+ref: olimex/msp430-h2274
+vendor: olimex
+sku: msp430-h2274
+name: MSP430-H2274
 description: ''
+status: ''
 extra:
   price1: 7.95 EUR
   price2: 7.16 EUR
   price3: 6.36 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/MSP430/Header/MSP430-H2274/images/thumbs/200x150/MSP430-H2274-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/MSP430/Header/MSP430-H2274/
-  repositories: []
-name: MSP430-H2274
-ref: olimex/msp430-h2274
-release_date: null
-sku: msp430-h2274
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/MSP430/Header/MSP430-H2274/images/thumbs/200x150/MSP430-H2274-01.jpg

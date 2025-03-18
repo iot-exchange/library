@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: wifi-bluetooth-module-3
+ref: nxp/wifi-bluetooth-module-3
+vendor: nxp
+sku: wifi-bluetooth-module-3
+name: WIFI-BLUETOOTH-MODULE-3
 description: High-performance module for industrial applications.
+status: ''
 extra:
   frequency: 2.4 GHz
   protocols: 802.11 a/b/g/n, Bluetooth 5.0
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.nxp.com/images/WIFI-BLUETOOTH-MODULE-3.jpg
-  models: []
   products:
   - https://www.nxp.com/products/wireless-connectivity/wi-fi-plus-bluetooth-plus-802-15-4/wi-fi-plus-bluetooth-plus-802-15-4-partner-modules:WIFI-BLUETOOTH-MODULE-3
-  repositories: []
-name: WIFI-BLUETOOTH-MODULE-3
-ref: nxp/wifi-bluetooth-module-3
-release_date: null
-sku: wifi-bluetooth-module-3
-spec: null
-status: ''
-vendor: nxp
+  images:
+  - https://www.nxp.com/images/WIFI-BLUETOOTH-MODULE-3.jpg

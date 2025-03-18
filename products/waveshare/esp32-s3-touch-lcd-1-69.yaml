@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: esp32-s3-touch-lcd-1-69
+ref: waveshare/esp32-s3-touch-lcd-1-69
+vendor: waveshare
+sku: esp32-s3-touch-lcd-1-69
+name: ESP32-S3-Touch-LCD-1.69
 description: "ESP32-S3 1.69inch Touch Display Development Board, 240\xD7280 Pixels,\
   \ Micro LCD Display With ESP32-S3, Accelerometer And Gyroscope Sensor"
+status: ''
 extra:
   Price: $20.29 - $21.99
   SKU: '27350'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-1.69-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/esp32-s3-touch-lcd-1.69.htm
-  repositories: []
-name: ESP32-S3-Touch-LCD-1.69
-ref: waveshare/esp32-s3-touch-lcd-1-69
-release_date: null
-sku: esp32-s3-touch-lcd-1-69
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-1.69-1.jpg

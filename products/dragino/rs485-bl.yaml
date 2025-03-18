@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: rs485-bl
+ref: dragino/rs485-bl
+vendor: dragino
+sku: rs485-bl
+name: RS485-BL
 description: WaterProof RS485 / UART to LoRaWAN Converter
+status: ''
 extra:
   Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
   Power: Battery Powered
   Power Consumption: Ultra Low
   Type: WaterProof
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/ce7646a74c54cecf1c05442c71f02147_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lora-lorawan-end-node/item/167-rs485-bl.html
-  repositories: []
-name: RS485-BL
-ref: dragino/rs485-bl
-release_date: null
-sku: rs485-bl
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/ce7646a74c54cecf1c05442c71f02147_L.jpg

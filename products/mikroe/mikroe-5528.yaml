@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-5528
+ref: mikroe/mikroe-5528
+vendor: mikroe
+sku: mikroe-5528
+name: MIKROE-5528
 description: "Accel 27 Click is a compact add-on board that contains an acceleration\
   \ sensor. This board features the ADXL373, a three-axis MEMS \xB1400g accelerometer\
   \ from Analog Devices. In addition to its ultra-low power consumption, the ADXL373\
   \ enables impact detection while providing system-level power reduction. It offers\
   \ 12-bit output data at 200mg/LSB scale factor..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/accel-27-click/accel-27-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/accel-27-click
   - https://www.mikroe.com/cart?add=1&id_product=3582
-  repositories: []
-name: MIKROE-5528
-ref: mikroe/mikroe-5528
-release_date: null
-sku: mikroe-5528
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/accel-27-click/accel-27-click-home_default-1.jpg?v=100

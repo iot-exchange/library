@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-3903
+ref: mikroe/mikroe-3903
+vendor: mikroe
+sku: mikroe-3903
+name: MIKROE-3903
 description: TFT Color Display with Touch Screen (5") is a color active matrix thin
   film transistor(TFT) liquid crystal display (LCD).
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/5-tft-color-display-with-capacitive-touch-screen/5-tft-color-display-with-capacitive-touch-screen-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/5-tft-color-display-with-capacitive-touch-screen
-  repositories: []
-name: MIKROE-3903
-ref: mikroe/mikroe-3903
-release_date: null
-sku: mikroe-3903
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/5-tft-color-display-with-capacitive-touch-screen/5-tft-color-display-with-capacitive-touch-screen-home_default-1.jpg?v=100

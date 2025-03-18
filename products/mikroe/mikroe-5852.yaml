@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5852
+ref: mikroe/mikroe-5852
+vendor: mikroe
+sku: mikroe-5852
+name: MIKROE-5852
 description: This one is for all CODEGRIP users but also people who love to wear fun
   colors. The T-shirt is in this beautiful yellow color with a large funny illustration,
   and the CODEGRIP logo on the front, and the MIKROE logo on the left sleeve. These
   T-shirts are one of the favorites among our colleagues - you can catch a lot of
   us wearing them to work.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/codegrip-cat-t-shirt/codegrip-cat-t-shirt-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/codegrip-cat-t-shirt
-  repositories: []
-name: MIKROE-5852
-ref: mikroe/mikroe-5852
-release_date: null
-sku: mikroe-5852
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/codegrip-cat-t-shirt/codegrip-cat-t-shirt-home_default-1.jpg?v=100

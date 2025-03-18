@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: avr-isp500-iso
+ref: olimex/avr-isp500-iso
+vendor: olimex
+sku: avr-isp500-iso
+name: AVR-ISP500-ISO
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/AVR/Programmers/AVR-ISP500-ISO/images/thumbs/200x150/AVR-ISP500-ISO-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/AVR/Programmers/AVR-ISP500-ISO/
-  repositories: []
-name: AVR-ISP500-ISO
-ref: olimex/avr-isp500-iso
-release_date: null
-sku: avr-isp500-iso
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/AVR/Programmers/AVR-ISP500-ISO/images/thumbs/200x150/AVR-ISP500-ISO-01.jpg

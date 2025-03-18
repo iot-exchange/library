@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4521
+ref: mikroe/mikroe-4521
+vendor: mikroe
+sku: mikroe-4521
+name: MIKROE-4521
 description: SWI EEPROM Click is a compact add-on board that provides a highly reliable
   memory solution. This board features the AT21CS01, a single-wire serial EEPROM with
   a unique, factory-programmed 64-bit serial number from Microchip Technology. The
   AT21CS01 has an ultra-high write endurance capability allowing more than one million
   cycles for each memory location...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/swi-eeprom-click/swi-eeprom-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/swi-eeprom-click
-  repositories: []
-name: MIKROE-4521
-ref: mikroe/mikroe-4521
-release_date: null
-sku: mikroe-4521
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/swi-eeprom-click/swi-eeprom-click-home_default-1.jpg?v=100

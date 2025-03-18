@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: bt900-series
+ref: ezurio/bt900-series
+vendor: ezurio
+sku: bt900-series
+name: BT900 Series
 description: Bluetooth Module
+status: ''
 extra:
   2MPHY: ''
   802.15.4 / Matter / Thread: ''
@@ -8,18 +12,7 @@ extra:
   Classic BT: ''
   LE Long Range: x
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/BT900%2520PIC.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-42-and-40-modules/bt900-series-bluetooth-module
-  repositories: []
-name: BT900 Series
-ref: ezurio/bt900-series
-release_date: null
-sku: bt900-series
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/BT900%2520PIC.png

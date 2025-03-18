@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: a10-olinuxino-lime-uext
+ref: olimex/a10-olinuxino-lime-uext
+vendor: olimex
+sku: a10-olinuxino-lime-uext
+name: A10-OLinuXino-LIME-UEXT
 description: ''
+status: ''
 extra:
   10+ pcs: 2.70 EUR
   50+ pcs: 2.40 EUR
   Price: 3.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/A10/A10-OLinuXino-LIME-UEXT/images/thumbs/200x150/A10-LIME-UEXT-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/A10/A10-OLinuXino-LIME-UEXT/open-source-hardware
-  repositories: []
-name: A10-OLinuXino-LIME-UEXT
-ref: olimex/a10-olinuxino-lime-uext
-release_date: null
-sku: a10-olinuxino-lime-uext
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A10/A10-OLinuXino-LIME-UEXT/images/thumbs/200x150/A10-LIME-UEXT-1.jpg

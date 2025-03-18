@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-5265
+ref: mikroe/mikroe-5265
+vendor: mikroe
+sku: mikroe-5265
+name: MIKROE-5265
 description: SPI Isolator 6 Click is a compact add-on board representing a digital
   isolator optimized for a serial peripheral interface. This board features the MAX22345,
   a fast, low-power 4-channel digital galvanic isolator from Analog Devices. This
   device comes with a maximum data rate of 200Mbps and transfers digital signals between
   circuits with different power.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/necto-studio-yearly-subscription-license/necto-studio-yearly-subscription-license-home_default-1.jpg?v=100
-  - https://www.mikroe.com/img/ai
-  models: []
   products:
   - https://www.mikroe.com/necto-studio-yearly-subscription-license
   - https://www.mikroe.com/shop?p=56#MIKROE-5265
-  repositories: []
-name: MIKROE-5265
-ref: mikroe/mikroe-5265
-release_date: null
-sku: mikroe-5265
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/necto-studio-yearly-subscription-license/necto-studio-yearly-subscription-license-home_default-1.jpg?v=100
+  - https://www.mikroe.com/img/ai

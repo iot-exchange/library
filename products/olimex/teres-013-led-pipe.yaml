@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-013-led-pipe
+ref: olimex/teres-013-led-pipe
+vendor: olimex
+sku: teres-013-led-pipe
+name: TERES-013-LED-pipe
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-013-LED-pipe/images/thumbs/200x150/TERES-013-LED-pipe.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-013-LED-pipe/
-  repositories: []
-name: TERES-013-LED-pipe
-ref: olimex/teres-013-led-pipe
-release_date: null
-sku: teres-013-led-pipe
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-013-LED-pipe/images/thumbs/200x150/TERES-013-LED-pipe.jpg

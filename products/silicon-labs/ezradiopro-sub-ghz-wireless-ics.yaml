@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: ezradiopro-sub-ghz-wireless-ics
+ref: silicon-labs/ezradiopro-sub-ghz-wireless-ics
+vendor: silicon-labs
+sku: ezradiopro-sub-ghz-wireless-ics
+name: EZRadioPRO Sub-GHz Wireless ICs
 description: Proprietary EZRadioPRO Sub-GHz Wireless ICs
+status: ''
 extra:
   Flash (kB): ''
   Frequency Range (MHz): 119 1050
@@ -11,17 +15,6 @@ extra:
   RAM (kB): ''
   Security: ''
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/wireless/proprietary/ezradiopro-sub-ghz-ics
-  repositories: []
-name: EZRadioPRO Sub-GHz Wireless ICs
-ref: silicon-labs/ezradiopro-sub-ghz-wireless-ics
-release_date: null
-sku: ezradiopro-sub-ghz-wireless-ics
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

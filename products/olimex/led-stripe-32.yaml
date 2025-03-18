@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: led-stripe-32
+ref: olimex/led-stripe-32
+vendor: olimex
+sku: led-stripe-32
+name: LED-STRIPE-32
 description: ''
+status: ''
 extra:
   discountedPrice1: 20.16 EUR
   discountedPrice2: 17.92 EUR
   price: 22.40 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/LEDs/LED-STRIPE-32/images/thumbs/200x150/LED-STRIPE.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/LEDs/LED-STRIPE-32/
-  repositories: []
-name: LED-STRIPE-32
-ref: olimex/led-stripe-32
-release_date: null
-sku: led-stripe-32
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/LEDs/LED-STRIPE-32/images/thumbs/200x150/LED-STRIPE.jpg

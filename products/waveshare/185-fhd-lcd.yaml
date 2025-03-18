@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 185-fhd-lcd
+ref: waveshare/185-fhd-lcd
+vendor: waveshare
+sku: 185-fhd-lcd
+name: 185_fhd_lcd
 description: "18.5inch Capacitive Touch Display, 1920\xD71080 Full HD, Supports Raspberry\
   \ Pi / Jetson Nano / PC, etc."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/8/18.5inch-fhd-lcd-1.jpg
-  models: []
   products:
   - "https://www.waveshare.com/product/18.5inch-fhd-lcd.htm \"18.5inch Capacitive\
     \ Touch Display, 1920\xD71080 Full HD, Supports Raspberry Pi / Jetson Nano / PC,\
     \ etc.\""
-  repositories: []
-name: 185_fhd_lcd
-ref: waveshare/185-fhd-lcd
-release_date: null
-sku: 185-fhd-lcd
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/8/18.5inch-fhd-lcd-1.jpg

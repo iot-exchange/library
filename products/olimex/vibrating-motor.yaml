@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: vibrating-motor
+ref: olimex/vibrating-motor
+vendor: olimex
+sku: vibrating-motor
+name: VIBRATING-MOTOR
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/VIBRATING-MOTOR/images/thumbs/200x150/v-mot.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/VIBRATING-MOTOR/
-  repositories: []
-name: VIBRATING-MOTOR
-ref: olimex/vibrating-motor
-release_date: null
-sku: vibrating-motor
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/VIBRATING-MOTOR/images/thumbs/200x150/v-mot.jpg

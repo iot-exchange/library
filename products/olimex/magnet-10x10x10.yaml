@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: magnet-10x10x10
+ref: olimex/magnet-10x10x10
+vendor: olimex
+sku: magnet-10x10x10
+name: MAGNET-10x10x10
 description: ''
+status: ''
 extra:
   discountedPrice1: 0.99 EUR
   discountedPrice2: 0.88 EUR
   price: 1.10 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/MAGNET-10x10x10/images/thumbs/200x150/MAGNET-10x10x10.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/MAGNET-10x10x10/
-  repositories: []
-name: MAGNET-10x10x10
-ref: olimex/magnet-10x10x10
-release_date: null
-sku: magnet-10x10x10
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/MAGNET-10x10x10/images/thumbs/200x150/MAGNET-10x10x10.jpg

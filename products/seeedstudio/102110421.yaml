@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '102110421'
+ref: seeedstudio/102110421
+vendor: seeedstudio
+sku: '102110421'
+name: '102110421'
 description: Raspberry Pi 4 Computer 8GB Raspberry Pi 4 is the latest product in the
   popular Raspberry Pi range of computers, and this is the version with the highest
   RAM offered by a Raspberry Pi ever (8GB). It offers ground-breaking increases in
   processor speed, multimedia performance, memory, and connectivity compared to the
   prior-generation Raspberry Pi 3 Model B+.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/r/p/rpi8g1.png
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-4-Computer-Model-B-8GB-p-4595.html
-  repositories: []
-name: '102110421'
-ref: seeedstudio/102110421
-release_date: null
-sku: '102110421'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/r/p/rpi8g1.png

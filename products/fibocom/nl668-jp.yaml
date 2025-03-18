@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: nl668-jp
+ref: fibocom/nl668-jp
+vendor: fibocom
+sku: nl668-jp
+name: NL668-JP
 description: ''
+status: ''
 extra:
   Bands: 'LTE: B1/2/3/4/5/7/8/12/17/28/38/40/66'
   Form Factor: ''
   Region: Japan
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTECat-NL668-JP.html
-  repositories: []
-name: NL668-JP
-ref: fibocom/nl668-jp
-release_date: null
-sku: nl668-jp
-spec: null
-status: ''
-vendor: fibocom
+  images: []

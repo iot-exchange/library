@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-500
+ref: raspberrypi/raspberry-pi-500
+vendor: raspberrypi
+sku: raspberry-pi-500
+name: Raspberry Pi 500
 description: A fast, powerful computer built into a high-quality keyboard, for the
   ultimate compact PC experience.
+status: ''
 extra:
   price: $90
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/15891f4568cf6f0d2c7aed9d55e5cf85/3f4ea/Z03hTZbqstJ979YG_500featured.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/raspberry-pi-500/
-  repositories: []
-name: Raspberry Pi 500
-ref: raspberrypi/raspberry-pi-500
-release_date: null
-sku: raspberry-pi-500
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/15891f4568cf6f0d2c7aed9d55e5cf85/3f4ea/Z03hTZbqstJ979YG_500featured.jpg

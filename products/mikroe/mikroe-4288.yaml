@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-4288
+ref: mikroe/mikroe-4288
+vendor: mikroe
+sku: mikroe-4288
+name: MIKROE-4288
 description: RTC 11 Click is a compact add-on board that contains a real-time clock
   IC designed to maximize battery life and reduce overall battery requirements in
   wearable applications. This board features the AB0815, an ultra-low-power coupled
   with a highly sophisticated feature set the real-time clock from Abracon LLC. The
   AB0815 includes on-chip oscillator to...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/pressure-13-click/pressure-13-click-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/rtc-11-click/rtc-11-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/pressure-13-click
   - https://www.mikroe.com/rtc-11-click
-  repositories: []
-name: MIKROE-4288
-ref: mikroe/mikroe-4288
-release_date: null
-sku: mikroe-4288
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/pressure-13-click/pressure-13-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/rtc-11-click/rtc-11-click-home_default-1.jpg?v=100

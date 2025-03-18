@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-1-model-b
+ref: raspberrypi/raspberry-pi-1-model-b
+vendor: raspberrypi
+sku: raspberry-pi-1-model-b
+name: Raspberry Pi 1 Model B+
 description: The Model B+ is the final revision of the original Raspberry Pi
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/ebce8b277e4c0f6b440173994df96e1f/3f4ea/3dc09a41-c237-4d2c-a9b8-c92eb3dc98e8_B%2B%2BANGLE%2B1%2BREFRESH.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/raspberry-pi-1-model-b-plus/
-  repositories: []
-name: Raspberry Pi 1 Model B+
-ref: raspberrypi/raspberry-pi-1-model-b
-release_date: null
-sku: raspberry-pi-1-model-b
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/ebce8b277e4c0f6b440173994df96e1f/3f4ea/3dc09a41-c237-4d2c-a9b8-c92eb3dc98e8_B%2B%2BANGLE%2B1%2BREFRESH.jpg

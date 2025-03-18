@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: mod-rfid1356mifare
+ref: olimex/mod-rfid1356mifare
+vendor: olimex
+sku: mod-rfid1356mifare
+name: MOD-RFID1356MIFARE
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/RFID/MOD-RFID1356MIFARE/images/thumbs/200x150/MOD-RFID1356MIFARE.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/RFID/MOD-RFID1356MIFARE/
-  repositories: []
-name: MOD-RFID1356MIFARE
-ref: olimex/mod-rfid1356mifare
-release_date: null
-sku: mod-rfid1356mifare
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/RFID/MOD-RFID1356MIFARE/images/thumbs/200x150/MOD-RFID1356MIFARE.jpg

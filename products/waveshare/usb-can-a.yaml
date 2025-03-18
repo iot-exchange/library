@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: usb-can-a
+ref: waveshare/usb-can-a
+vendor: waveshare
+sku: usb-can-a
+name: USB-CAN-A
 description: USB to CAN Adapter Model A, STM32 Chip Solution, Multiple Working modes,
   Multi-system Compatible
+status: ''
 extra:
   Price: $18.31 - $18.99
   SKU: '23635'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-can-a-1_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-can-a.htm
-  repositories: []
-name: USB-CAN-A
-ref: waveshare/usb-can-a
-release_date: null
-sku: usb-can-a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-can-a-1_1.jpg

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: hidden-door-sensor
+ref: insteon/hidden-door-sensor
+vendor: insteon
+sku: hidden-door-sensor
+name: Hidden Door Sensor
 description: ''
+status: ''
 extra:
   reviews: '12'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/products/Hidden_Door_Sensor_01.jpg?v=1673548861&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/hidden-door-sensor
-  repositories: []
-name: Hidden Door Sensor
-ref: insteon/hidden-door-sensor
-release_date: null
-sku: hidden-door-sensor
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Hidden_Door_Sensor_01.jpg?v=1673548861&width=533

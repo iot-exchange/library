@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: cc2651r3
+ref: ti/cc2651r3
+vendor: ti
+sku: cc2651r3
+name: CC2651R3
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ti.com/product/CC2651R3
-  repositories: []
-name: CC2651R3
-ref: ti/cc2651r3
-release_date: null
-sku: cc2651r3
-spec: null
-status: ''
-vendor: ti
+  images: []

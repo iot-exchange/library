@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: car-battery-meter
+ref: olimex/car-battery-meter
+vendor: olimex
+sku: car-battery-meter
+name: CAR-BATTERY-METER
 description: ''
+status: ''
 extra:
   discountedPrice1: 4.50 EUR
   discountedPrice2: 4.00 EUR
   price: 5.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Meters/CAR-BATTERY-METER/images/thumbs/200x150/CAR-BATTERY-METER-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Meters/CAR-BATTERY-METER/
-  repositories: []
-name: CAR-BATTERY-METER
-ref: olimex/car-battery-meter
-release_date: null
-sku: car-battery-meter
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Meters/CAR-BATTERY-METER/images/thumbs/200x150/CAR-BATTERY-METER-1.jpg

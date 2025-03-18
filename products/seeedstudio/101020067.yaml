@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '101020067'
+ref: seeedstudio/101020067
+vendor: seeedstudio
+sku: '101020067'
+name: '101020067'
 description: The Grove - CO2 Sensor(MH-Z16) is an infrared CO2 detection sensor, Which
   features high sensitivity and high Precision Non-dispersive, measuring the range
   of 0-2000 parts per million (PPM).
+status: OUT OF STOCK
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/Grove-Carbon-Dioxide-Sensor-MH-Z16.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductgrove20barometer20high-accuracy.jpg
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductgrove20co220sensor.jpg
-  models: []
-  products:
-  - https://www.seeedstudio.com/Grove-Carbon-Dioxide-Sensor-MH-Z16.html
-  repositories: []
-name: '101020067'
-ref: seeedstudio/101020067
-release_date: null
-sku: '101020067'
-spec: null
-status: OUT OF STOCK
-vendor: seeedstudio

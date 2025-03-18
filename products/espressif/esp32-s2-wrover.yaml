@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: esp32-s2-wrover
+ref: espressif/esp32-s2-wrover
+vendor: espressif
+sku: esp32-s2-wrover
+name: ESP32-S2-WROVER
 description: ESP32-S2-WROVER integrates ESP32-S2. It is a powerful, generic Wi-Fi
   MCU module that has a rich set of peripherals.
+status: ''
 extra:
   Antenna: PCB antenna
   Chip Embedded: ESP32-S2
@@ -13,18 +17,7 @@ extra:
   PSRAM (MB): '2'
   Pins: '42'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP32-S2-WROVER%20S_0.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp32-s2-wrover_esp32-s2-wrover-i_datasheet_en.pdf
-  repositories: []
-name: ESP32-S2-WROVER
-ref: espressif/esp32-s2-wrover
-release_date: null
-sku: esp32-s2-wrover
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-S2-WROVER%20S_0.png

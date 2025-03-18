@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rp2040-pico-w-hdr
+ref: olimex/rp2040-pico-w-hdr
+vendor: olimex
+sku: rp2040-pico-w-hdr
+name: RP2040-PICO-W-HDR
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/RaspberryPi/PICO/RP2040-PICO-W/images/thumbs/200x150/RP2040-PICO-W-HDRw.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/RaspberryPi/PICO/RP2040-PICO-W-HDR/
-  repositories: []
-name: RP2040-PICO-W-HDR
-ref: olimex/rp2040-pico-w-hdr
-release_date: null
-sku: rp2040-pico-w-hdr
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/RaspberryPi/PICO/RP2040-PICO-W/images/thumbs/200x150/RP2040-PICO-W-HDRw.jpg

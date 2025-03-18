@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4580
+ref: mikroe/mikroe-4580
+vendor: mikroe
+sku: mikroe-4580
+name: MIKROE-4580
 description: Analog MUX 3 Click is a compact add-on board that switches one of the
   eight inputs to one output. This board features the ADG738, a CMOS analog matrix
   switch with a serially-controlled SPI interface from Analog Devices. In an active
   state, the ADG738 conducts equally well in both directions, making it suitable for
   multiplexing and demultiplexing...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/analog-mux-3-click/analog-mux-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/analog-mux-3-click
-  repositories: []
-name: MIKROE-4580
-ref: mikroe/mikroe-4580
-release_date: null
-sku: mikroe-4580
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/analog-mux-3-click/analog-mux-3-click-home_default-1.jpg?v=100

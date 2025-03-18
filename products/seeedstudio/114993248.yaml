@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '114993248'
+ref: seeedstudio/114993248
+vendor: seeedstudio
+sku: '114993248'
+name: '114993248'
 description: This adapter cable is designed for Raspberry Pi 5 which allows the board
   with two four-lane MIPI connectors for supporting or displays. It provides two four-lane
   MIPI connectors where are capable of supporting a display.
+status: ''
 extra:
   Length: 300mm
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/Raspberry-Pi-5-Official-Display-Cable-Standard-300mm-p-5818.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993247-raspberry-pi-camera-cable-standard---mini200mm-45font.jpg
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993248-raspberry-pi-camera-cable-standard---mini200mm-45font.jpg
-  models: []
-  products:
-  - https://www.seeedstudio.com/Raspberry-Pi-5-Official-Display-Cable-Standard-300mm-p-5818.html
-  repositories: []
-name: '114993248'
-ref: seeedstudio/114993248
-release_date: null
-sku: '114993248'
-spec: null
-status: ''
-vendor: seeedstudio

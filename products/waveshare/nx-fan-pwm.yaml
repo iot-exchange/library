@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: nx-fan-pwm
+ref: waveshare/nx-fan-pwm
+vendor: waveshare
+sku: nx-fan-pwm
+name: NX-FAN-PWM
 description: The Official Cooling Fan for Jetson Xavier NX
+status: ''
 extra:
-  Price: $11.31 - $11.99
   SKU: '21600'
+  Price: $11.31 - $11.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/nx-fan-pwm.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/n/x/nx-fan-pwm-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/n/x/nx-fan-pwm-2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/nx-fan-pwm.htm
-  repositories: []
-name: NX-FAN-PWM
-ref: waveshare/nx-fan-pwm
-release_date: null
-sku: nx-fan-pwm
-spec: null
-status: ''
-vendor: waveshare

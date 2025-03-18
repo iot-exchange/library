@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: hs2950p
+ref: semtech/hs2950p
+vendor: semtech
+sku: hs2950p
+name: HS2950P
 description: The Integrated Load Switch for Your Applications
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products: []
   images:
   - https://play.vidyard.com/bPVbASk5rH4voj32u8gveA.jpg?&play_button=1
-  models: []
-  products: []
-  repositories: []
-name: HS2950P
-ref: semtech/hs2950p
-release_date: null
-sku: hs2950p
-spec: null
-status: ''
-vendor: semtech

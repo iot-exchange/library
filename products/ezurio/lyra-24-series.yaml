@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: lyra-24-series
+ref: ezurio/lyra-24-series
+vendor: ezurio
+sku: lyra-24-series
+name: Lyra 24 Series
 description: Bluetooth 5.4 Solutions
+status: ''
 extra:
   2MPHY: x
   802.15.4 / Matter / Thread: ''
@@ -8,18 +12,7 @@ extra:
   Classic BT: ''
   LE Long Range: x
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-03/Lyra%2024%20-%20Collection1.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/lyra-24-series-bluetooth-5-modules
-  repositories: []
-name: Lyra 24 Series
-ref: ezurio/lyra-24-series
-release_date: null
-sku: lyra-24-series
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-03/Lyra%2024%20-%20Collection1.png

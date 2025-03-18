@@ -1,0 +1,15 @@
+id: beagleconnecttm-freedom
+ref: beagleboard/beagleconnecttm-freedom
+vendor: beagleboard
+sku: beagleconnecttm-freedom
+name: "BeagleConnect\u2122 Freedom"
+description: Virtually eliminate low-level software development for IoT and IIoT applications
+  using the power of Linux. Implement long-range, low-power wireless Sub-1GHz and
+  2.4GHz wireless device adding hundreds of features from the mikroBUS Click collection.
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.beagleboard.org/boards/beagleconnect-freedom
+  images:
+  - https://www.beagleboard.org/app/uploads/2021/04/feature-400x975.png

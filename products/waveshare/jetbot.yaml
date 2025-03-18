@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: jetbot
+ref: waveshare/jetbot
+vendor: waveshare
+sku: jetbot
+name: jetbot
 description: JetBot AI Kit B, AI Robot Based on Jetson Nano, comes with Waveshare
   Jetson Nano Dev Kit
+status: ''
 extra:
-  Multi Options: ''
   Price: $254.99 - $399.99
+  Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetbot-ai-kit-4_4.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/jetbot-ai-kit.htm
-  repositories: []
-name: jetbot
-ref: waveshare/jetbot
-release_date: null
-sku: jetbot
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetbot-ai-kit-4_4.jpg

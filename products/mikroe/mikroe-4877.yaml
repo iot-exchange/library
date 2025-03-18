@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4877
+ref: mikroe/mikroe-4877
+vendor: mikroe
+sku: mikroe-4877
+name: MIKROE-4877
 description: DC Motor 21 Click is a compact add-on board that contains a brushed DC
   motor driver. This board features the A3910, a DC motor driver designed for low
   voltage power applications from Allegro Microsystems. It is controlled via several
   GPIO pins and has a wide operating voltage range with an output current capacity
   of 500mA. In addition to the possibility...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/dc-motor-21-click/dc-motor-21-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=72#DCMotor21Click
-  repositories: []
-name: MIKROE-4877
-ref: mikroe/mikroe-4877
-release_date: null
-sku: mikroe-4877
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dc-motor-21-click/dc-motor-21-click-home_default-1.jpg?v=100

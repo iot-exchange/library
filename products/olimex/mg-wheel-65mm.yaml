@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: mg-wheel-65mm
+ref: olimex/mg-wheel-65mm
+vendor: olimex
+sku: mg-wheel-65mm
+name: MG-WHEEL-65MM
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Wheels/MG-WHEEL-65MM/images/thumbs/200x150/MG-WHEEL-65mm.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Wheels/MG-WHEEL-65MM/
-  repositories: []
-name: MG-WHEEL-65MM
-ref: olimex/mg-wheel-65mm
-release_date: null
-sku: mg-wheel-65mm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Wheels/MG-WHEEL-65MM/images/thumbs/200x150/MG-WHEEL-65mm.jpg

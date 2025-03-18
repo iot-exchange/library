@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 15-6inch-fhd-monitor-c-case
+ref: waveshare/15-6inch-fhd-monitor-c-case
+vendor: waveshare
+sku: 15-6inch-fhd-monitor-c-case
+name: 15.6inch FHD Monitor (C) Case
 description: Magnetic Protective Case for Waveshare 15.6inch FHD Monitor (C), Folio
   Cover Stand
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/5/15.6inch-fhd-monitor-c-case-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/15.6inch-fhd-monitor-case-c.htm
   - https://www.waveshare.com/product/15.6inch-fhd-monitor-case-c.htm "Magnetic Protective
     Case for Waveshare 15.6inch FHD Monitor (C), Folio Cover Stand"
-  repositories: []
-name: 15.6inch FHD Monitor (C) Case
-ref: waveshare/15-6inch-fhd-monitor-c-case
-release_date: null
-sku: 15-6inch-fhd-monitor-c-case
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/5/15.6inch-fhd-monitor-c-case-1.jpg

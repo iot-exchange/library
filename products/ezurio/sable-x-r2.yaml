@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: sable-x-r2
+ref: ezurio/sable-x-r2
+vendor: ezurio
+sku: sable-x-r2
+name: SaBLE-x-R2
 description: Bluetooth Module
+status: ''
 extra:
   2MPHY: ''
   802.15.4 / Matter / Thread: ''
@@ -8,18 +12,7 @@ extra:
   Classic BT: ''
   LE Long Range: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/SaBLE-x-R2-Straight-Label.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/sable-x-r2-bluetooth-module
-  repositories: []
-name: SaBLE-x-R2
-ref: ezurio/sable-x-r2
-release_date: null
-sku: sable-x-r2
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/SaBLE-x-R2-Straight-Label.png

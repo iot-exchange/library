@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5720
+ref: mikroe/mikroe-5720
+vendor: mikroe
+sku: mikroe-5720
+name: MIKROE-5720
 description: "UART MUX 4 Click is a compact add-on board that switches the UART pins\
   \ (RX and TX) from the mikroBUS\u2122 socket to one of the two available outputs.\
   \ This board features the 74HC4066D, a quad single-pole, single-throw analog switch\
   \ from Nexperia. The UART MUX 4 Click allows you to switch from one multiplexed\
   \ UART to another easily, but not both..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/uart-mux-4-click/uart-mux-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/uart-mux-4-click
-  repositories: []
-name: MIKROE-5720
-ref: mikroe/mikroe-5720
-release_date: null
-sku: mikroe-5720
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/uart-mux-4-click/uart-mux-4-click-home_default-1.jpg?v=100

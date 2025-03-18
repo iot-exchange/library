@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: trackerd-ls
+ref: dragino/trackerd-ls
+vendor: dragino
+sku: trackerd-ls
+name: TrackerD-LS
 description: LoRaWAN Asset Tracker
+status: ''
 extra:
   Battery: 3000mA Rechargeable Li-ion Battery + Solar Panel
   Chip: ESP32 PICO D4, SX1276/78
@@ -8,18 +12,7 @@ extra:
     sensing capability
   LoRaWAN Version: 1.0.3 Class A
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/4ddc75f1698994d05cf43f2316d7d33a_L.jpg
-  models: []
   products:
   - https://dragino.com/products/tracker/item/316-trackerd-ls.html
-  repositories: []
-name: TrackerD-LS
-ref: dragino/trackerd-ls
-release_date: null
-sku: trackerd-ls
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/4ddc75f1698994d05cf43f2316d7d33a_L.jpg

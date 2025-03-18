@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: stmp157-base-som-ext
+ref: olimex/stmp157-base-som-ext
+vendor: olimex
+sku: stmp157-base-som-ext
+name: STMP157-BASE-SOM-EXT
 description: ''
+status: ''
 extra:
   discountedPrices:
   - 29.40 EUR
@@ -9,18 +13,7 @@ extra:
   - 27.60 EUR
   price: 30.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/SOM/STMP1/STMP157-BASE-SOM-EXT/images/thumbs/200x150/STMP157-BASE-SOM-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/SOM/STMP1/STMP157-BASE-SOM-EXT/
-  repositories: []
-name: STMP157-BASE-SOM-EXT
-ref: olimex/stmp157-base-som-ext
-release_date: null
-sku: stmp157-base-som-ext
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/SOM/STMP1/STMP157-BASE-SOM-EXT/images/thumbs/200x150/STMP157-BASE-SOM-1.jpg

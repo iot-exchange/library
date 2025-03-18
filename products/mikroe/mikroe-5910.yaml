@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-5910
+ref: mikroe/mikroe-5910
+vendor: mikroe
+sku: mikroe-5910
+name: MIKROE-5910
 description: Brushless 27 Click is a compact add-on board that controls DC brushless
   motors with any MCU. This board features the TMC6300, a power driver for BLDC/PMSM
   motors from Analog Devices. It is a highly efficient low voltage, zero standby driver
   for 3-phase BLDC/PMSM motors with up to 2A peak current. The triple half-bridge
   of this driver separates the HS and...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.mikroe.com/brushless-27-click
-  repositories: []
-name: MIKROE-5910
-ref: mikroe/mikroe-5910
-release_date: null
-sku: mikroe-5910
-spec: null
-status: ''
-vendor: mikroe
+  images: []

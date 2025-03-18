@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: jetson-nano-developer-package-a
+ref: waveshare/jetson-nano-developer-package-a
+vendor: waveshare
+sku: jetson-nano-developer-package-a
+name: Jetson Nano Developer Package A
 description: Jetson Nano Development Pack (Type A), with TF Card
+status: ''
 extra:
   Multi Options: ''
   Price: $16.99 - $309.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-nano-developer-kit-package-a_1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/jetson-nano-developer-kit-package-a.htm
   - https://www.waveshare.com/jetson-nano-developer-kit-package-a.htm "Jetson Nano
     Development Pack (Type A), with TF Card"
-  repositories: []
-name: Jetson Nano Developer Package A
-ref: waveshare/jetson-nano-developer-package-a
-release_date: null
-sku: jetson-nano-developer-package-a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-nano-developer-kit-package-a_1_2.jpg

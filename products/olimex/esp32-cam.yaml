@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: esp32-cam
+ref: olimex/esp32-cam
+vendor: olimex
+sku: esp32-cam
+name: ESP32-CAM
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/ESP32/ESP32-CAM/images/thumbs/200x150/ESP32-CAM-2MB.JPG
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/ESP32/ESP32-CAM/
-  repositories: []
-name: ESP32-CAM
-ref: olimex/esp32-cam
-release_date: null
-sku: esp32-cam
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32/ESP32-CAM/images/thumbs/200x150/ESP32-CAM-2MB.JPG

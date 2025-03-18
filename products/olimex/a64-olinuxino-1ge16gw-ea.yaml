@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: a64-olinuxino-1ge16gw-ea
+ref: olimex/a64-olinuxino-1ge16gw-ea
+vendor: olimex
+sku: a64-olinuxino-1ge16gw-ea
+name: A64-OLinuXino-1Ge16GW-EA
 description: ''
+status: ''
 extra:
   10+ pcs: 54.15 EUR
   50+ pcs: 51.30 EUR
   Price: 57.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/A64/A64-OLinuXino/images/thumbs/200x150/A64-OLinuXino-EA.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/A64/A64-OLinuXino-1Ge16GW-EA/open-source-hardware
-  repositories: []
-name: A64-OLinuXino-1Ge16GW-EA
-ref: olimex/a64-olinuxino-1ge16gw-ea
-release_date: null
-sku: a64-olinuxino-1ge16gw-ea
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A64/A64-OLinuXino/images/thumbs/200x150/A64-OLinuXino-EA.jpg

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '19343'
+ref: waveshare/19343
+vendor: waveshare
+sku: '19343'
+name: '19343'
 description: Dual GPIO Expander for Raspberry Pi Pico, Two Sets of Male Headers
+status: ''
 extra:
   Price: $7.31 - $7.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-dual-expander-1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pico-dual-expander.htm
-  repositories: []
-name: '19343'
-ref: waveshare/19343
-release_date: null
-sku: '19343'
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-dual-expander-1_2.jpg

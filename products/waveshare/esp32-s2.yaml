@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: esp32-s2
+ref: waveshare/esp32-s2
+vendor: waveshare
+sku: esp32-s2
+name: esp32_s2
 description: ESP32-S2 MCU WiFi Development Board, 240MHz, 2.4 GHz WiFi, Optional LCD
   / Pinheader
+status: ''
 extra:
   Price: $9.99 - $14.99
   multiOptions: Multi Options
   price: $9.99 -  $14.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s2-pico-1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/esp32-s2.htm
-  repositories: []
-name: esp32_s2
-ref: waveshare/esp32-s2
-release_date: null
-sku: esp32-s2
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s2-pico-1_2.jpg

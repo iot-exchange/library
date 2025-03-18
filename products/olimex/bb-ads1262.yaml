@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bb-ads1262
+ref: olimex/bb-ads1262
+vendor: olimex
+sku: bb-ads1262
+name: BB-ADS1262
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Breadboarding/BB-ADS1262/images/thumbs/200x150/BB-ADS1262.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Breadboarding/BB-ADS1262/open-source-hardware
-  repositories: []
-name: BB-ADS1262
-ref: olimex/bb-ads1262
-release_date: null
-sku: bb-ads1262
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Breadboarding/BB-ADS1262/images/thumbs/200x150/BB-ADS1262.jpg

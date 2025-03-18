@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: cam-gt2005
+ref: olimex/cam-gt2005
+vendor: olimex
+sku: cam-gt2005
+name: CAM-GT2005
 description: ''
+status: ''
 extra:
   discountedPrice1: 5.40 EUR
   discountedPrice2: 4.80 EUR
   price: 6.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Camera/CAM-GT2005/images/thumbs/200x150/CAMERA-GT2005.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Camera/CAM-GT2005/
-  repositories: []
-name: CAM-GT2005
-ref: olimex/cam-gt2005
-release_date: null
-sku: cam-gt2005
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Camera/CAM-GT2005/images/thumbs/200x150/CAMERA-GT2005.jpg

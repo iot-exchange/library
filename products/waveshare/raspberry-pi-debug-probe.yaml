@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-debug-probe
+ref: waveshare/raspberry-pi-debug-probe
+vendor: waveshare
+sku: raspberry-pi-debug-probe
+name: Raspberry Pi Debug Probe
 description: Raspberry Pi Original USB Debug Probe, Hardware debug kit designed for
   Pico, Based on RP2040 Microcontroller
+status: ''
 extra:
   price: $15.31 - $15.99
   sku: '24270'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-debug-probe-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/raspberry-pi-debug-probe.htm
   - https://www.waveshare.com/product/raspberry-pi-debug-probe.htm "Raspberry Pi Original
     USB Debug Probe, Hardware debug kit designed for Pico, Based on RP2040 Microcontroller"
-  repositories: []
-name: Raspberry Pi Debug Probe
-ref: waveshare/raspberry-pi-debug-probe
-release_date: null
-sku: raspberry-pi-debug-probe
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-debug-probe-1.jpg

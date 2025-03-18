@@ -1,0 +1,13 @@
+id: uf31
+ref: milesight/uf31
+vendor: milesight
+sku: uf31
+name: UF31
+description: 5G Dongle UF31 Plug & Play Networking
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/5g/uf31
+  images:
+  - https://www.milesight.com/static/pc/en/product/center/5g-cellular-products/index/uf31-5g-series.png?t=1742198692607

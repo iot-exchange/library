@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: gps-external-antenna
+ref: waveshare/gps-external-antenna
+vendor: waveshare
+sku: gps-external-antenna
+name: GPS External Antenna
 description: GPS External Antenna, Ceramics with Amplifier
+status: ''
 extra:
   Price Range: $3.49 - $3.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/p/gps-external-antenna-a-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/gps-external-antenna.htm
-  repositories: []
-name: GPS External Antenna
-ref: waveshare/gps-external-antenna
-release_date: null
-sku: gps-external-antenna
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/p/gps-external-antenna-a-1.jpg

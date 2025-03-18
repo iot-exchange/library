@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: 2-ch-can-fd-hat
+ref: waveshare/2-ch-can-fd-hat
+vendor: waveshare
+sku: 2-ch-can-fd-hat
+name: 2-CH CAN FD HAT
 description: 2-Channel Isolated CAN FD Expansion HAT for Raspberry Pi, Multi Protections
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/-/2-ch-can-fd-hat-5_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/2-ch-can-fd-hat.htm
-  repositories: []
-name: 2-CH CAN FD HAT
-ref: waveshare/2-ch-can-fd-hat
-release_date: null
-sku: 2-ch-can-fd-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/-/2-ch-can-fd-hat-5_5.jpg

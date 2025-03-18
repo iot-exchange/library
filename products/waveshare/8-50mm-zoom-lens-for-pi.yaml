@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 8-50mm-zoom-lens-for-pi
+ref: waveshare/8-50mm-zoom-lens-for-pi
+vendor: waveshare
+sku: 8-50mm-zoom-lens-for-pi
+name: 8-50mm Zoom Lens for Pi
 description: 8-50mm Zoom Lens for Raspberry Pi High Quality Camera
+status: ''
 extra:
   Price: $33.63 - $34.99
   SKU: '18245'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/8/-/8-50mm-zoom-lens-for-pi-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/8-50mm-zoom-lens-for-pi.htm
-  repositories: []
-name: 8-50mm Zoom Lens for Pi
-ref: waveshare/8-50mm-zoom-lens-for-pi
-release_date: null
-sku: 8-50mm-zoom-lens-for-pi
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/8/-/8-50mm-zoom-lens-for-pi-1.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: imm-water-pump
+ref: olimex/imm-water-pump
+vendor: olimex
+sku: imm-water-pump
+name: IMM-WATER-PUMP
 description: ''
+status: ''
 extra:
   price1: 2.50 EUR
   price2: 2.25 EUR
   price3: 2.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Misc/IMM-WATER-PUMP/images/thumbs/200x150/IMM-WATER-PUMP.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Misc/IMM-WATER-PUMP/
-  repositories: []
-name: IMM-WATER-PUMP
-ref: olimex/imm-water-pump
-release_date: null
-sku: imm-water-pump
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Misc/IMM-WATER-PUMP/images/thumbs/200x150/IMM-WATER-PUMP.jpg

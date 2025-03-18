@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sensor-featherwing
+ref: we/sensor-featherwing
+vendor: we
+sku: sensor-featherwing
+name: Sensor FeatherWing
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o193550v214%20Single_Sensor-FeatherWing_2501000201291.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/SENSOR_FEATHERWING_2
-  repositories: []
-name: Sensor FeatherWing
-ref: we/sensor-featherwing
-release_date: null
-sku: sensor-featherwing
-spec: null
-status: ''
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o193550v214%20Single_Sensor-FeatherWing_2501000201291.jpg

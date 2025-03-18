@@ -1,30 +1,23 @@
-alternatives: []
-certifications: []
+id: '102010611'
+ref: seeedstudio/102010611
+vendor: seeedstudio
+sku: '102010611'
+name: '102010611'
 description: XIAO ESP32S3 & Wio-SX1262 Kit for Meshtastic & LoRa is a thumb-sized
   LoRa dev kit, featuring the XIAO ESP32S3 and Wio-SX1262 LoRa module, ideal for Meshtastic
   and LoRa/LoRaWAN projects. Supporting WiFi, BLE, and LoRa, it includes a built-in
   power management chip and can be extended via IIC, UART, and other GPIO interfaces,
   with compatibility for Arduino development.
+status: ''
 extra:
-  Offer: 'Valentine''s Day offer: 5% off for 2 or more items, ends on February 18,
-    2025'
   offer: 'Valentine''s Day offer: 5% off for 2 or more items, ends on February 18,
     2025'
+  Offer: 'Valentine''s Day offer: 5% off for 2 or more items, ends on February 18,
+    2025'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/2/-/2-102010611-wio-sx1262-with-xiao-esp32s3.jpg
-  - https://www.seeedstudio.com/img/n
-  models: []
   products:
   - https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html
   - https://www.seeedstudio.com/XIAO-ESP32S3-Wio-SX1262-Kit-for-Meshtastic-LoRa
-  repositories: []
-name: '102010611'
-ref: seeedstudio/102010611
-release_date: null
-sku: '102010611'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/2/-/2-102010611-wio-sx1262-with-xiao-esp32s3.jpg
+  - https://www.seeedstudio.com/img/n

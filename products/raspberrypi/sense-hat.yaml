@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: sense-hat
+ref: raspberrypi/sense-hat
+vendor: raspberrypi
+sku: sense-hat
+name: Sense HAT
 description: A multi-sensor add-on board for Raspberry Pi with a colour LED matrix
   and five-button joystick
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/80536d1af9fbc26cee85650c74a9e979/3f4ea/a222a1d657906db95efbca8b8467037fa1a89def_sense-hat-1733x1080-1-1733x1080.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/sense-hat/
-  repositories: []
-name: Sense HAT
-ref: raspberrypi/sense-hat
-release_date: null
-sku: sense-hat
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/80536d1af9fbc26cee85650c74a9e979/3f4ea/a222a1d657906db95efbca8b8467037fa1a89def_sense-hat-1733x1080-1-1733x1080.jpg

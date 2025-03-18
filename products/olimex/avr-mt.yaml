@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: avr-mt
+ref: olimex/avr-mt
+vendor: olimex
+sku: avr-mt
+name: AVR-MT
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/AVR/Development/AVR-MT/images/thumbs/200x150/AVR-MT-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/AVR/Development/AVR-MT/
-  repositories: []
-name: AVR-MT
-ref: olimex/avr-mt
-release_date: null
-sku: avr-mt
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/AVR/Development/AVR-MT/images/thumbs/200x150/AVR-MT-01.jpg

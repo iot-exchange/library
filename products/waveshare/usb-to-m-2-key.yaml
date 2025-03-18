@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: usb-to-m-2-key
+ref: waveshare/usb-to-m-2-key
+vendor: waveshare
+sku: usb-to-m-2-key
+name: usb_to_m.2_key
 description: 5G DONGLE Module, quad antennas, USB3.1 port, Aluminum Alloy Heatsink,
   M.2 Key B Interface, Options For 5G Module
+status: ''
 extra:
   Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-m.2-b-key-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-to-m.2-b-key.htm
-  repositories: []
-name: usb_to_m.2_key
-ref: waveshare/usb-to-m-2-key
-release_date: null
-sku: usb-to-m-2-key
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-m.2-b-key-1.jpg

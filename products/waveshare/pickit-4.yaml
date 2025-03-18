@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: pickit-4
+ref: waveshare/pickit-4
+vendor: waveshare
+sku: pickit-4
+name: PICkit 4
 description: MPLAB PICkit 4 In-Circuit Debugger
+status: Out of Stock
 extra:
   Price: $148.63 - $149.99
   SKU: '14553'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pickit-4-5_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/pickit-4.htm
-  repositories: []
-name: PICkit 4
-ref: waveshare/pickit-4
-release_date: null
-sku: pickit-4
-spec: null
-status: Out of Stock
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pickit-4-5_2.jpg

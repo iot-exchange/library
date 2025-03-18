@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: xg24-ek2703a
+ref: silicon-labs/xg24-ek2703a
+vendor: silicon-labs
+sku: xg24-ek2703a
+name: xG24-EK2703A
 description: EFR32xG24 Explorer Kit
+status: ''
 extra:
   MSRP: $39.00
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/efr32xg24-explorer-kit
-  repositories: []
-name: xG24-EK2703A
-ref: silicon-labs/xg24-ek2703a
-release_date: null
-sku: xg24-ek2703a
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

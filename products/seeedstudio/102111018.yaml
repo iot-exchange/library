@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '102111018'
+ref: seeedstudio/102111018
+vendor: seeedstudio
+sku: '102111018'
+name: '102111018'
 description: Raspberry Pi Pico 2 is a newly launched microcontroller board from Raspberry
   Pi, based on the new high-performance, secure RP2350 microcontroller. Raspberry
   Pi Pico 2 W adds on-board single-band 2.4GHz wireless interfaces (802.11n) using
   the Infineon CYW43439 to the Pico 2 hardware, providing Wi-Fi & Bluetooth wireless
   connectivity.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products: []
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102111018-pico_2_w_front.png
-  models: []
-  products: []
-  repositories: []
-name: '102111018'
-ref: seeedstudio/102111018
-release_date: null
-sku: '102111018'
-spec: null
-status: ''
-vendor: seeedstudio

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5553
+ref: mikroe/mikroe-5553
+vendor: mikroe
+sku: mikroe-5553
+name: MIKROE-5553
 description: One of the most used high-level build systems in the world - CMake is
   implemented in our all-in-one IDE NECTO Studio. When you hear CMake, you might think,
   how will I know what to do. We have simplified it and added everything you will
   ever need when working on any project. Just like this T-shirt says "It's like a
   piece of cake, making a project in...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/necto-2-cmake-t-shirt-male-m/necto-2-cmake-t-shirt-male-m-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/necto-2-cmake-t-shirt-male-m
-  repositories: []
-name: MIKROE-5553
-ref: mikroe/mikroe-5553
-release_date: null
-sku: mikroe-5553
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/necto-2-cmake-t-shirt-male-m/necto-2-cmake-t-shirt-male-m-home_default-1.jpg?v=100

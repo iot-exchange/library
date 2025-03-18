@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: box-esp32-poe-iso-f
+ref: olimex/box-esp32-poe-iso-f
+vendor: olimex
+sku: box-esp32-poe-iso-f
+name: BOX-ESP32-POE-ISO-F
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/ESP32/BOX-ESP32-POE-ISO/images/thumbs/200x150/BOX-ESP32-POE-ISO-EA-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/ESP32/BOX-ESP32-POE-ISO-F/
-  repositories: []
-name: BOX-ESP32-POE-ISO-F
-ref: olimex/box-esp32-poe-iso-f
-release_date: null
-sku: box-esp32-poe-iso-f
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32/BOX-ESP32-POE-ISO/images/thumbs/200x150/BOX-ESP32-POE-ISO-EA-1.jpg

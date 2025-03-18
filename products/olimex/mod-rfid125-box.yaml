@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-rfid125-box
+ref: olimex/mod-rfid125-box
+vendor: olimex
+sku: mod-rfid125-box
+name: MOD-RFID125-BOX
 description: ''
+status: ''
 extra:
   bulkPrice: 17.96 EUR
   discountedPrice: 18.95 EUR
   price: 19.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/RFID/MOD-RFID125-BOX/images/thumbs/200x150/MOD-RFID125-BOX-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/RFID/MOD-RFID125-BOX/
-  repositories: []
-name: MOD-RFID125-BOX
-ref: olimex/mod-rfid125-box
-release_date: null
-sku: mod-rfid125-box
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/RFID/MOD-RFID125-BOX/images/thumbs/200x150/MOD-RFID125-BOX-01.jpg

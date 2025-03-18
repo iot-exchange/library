@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: rs9116-wi-fi-ncp-socs
+ref: silicon-labs/rs9116-wi-fi-ncp-socs
+vendor: silicon-labs
+sku: rs9116-wi-fi-ncp-socs
+name: RS9116 Wi-Fi NCP SoCs
 description: RS9116 Wi-Fi NCP SoCs
+status: ''
 extra:
   Max Flash/RAM (kB): ''
   Output Power Range (dBm): ''
@@ -8,17 +12,6 @@ extra:
   "Secure Vault\u2122": 'Yes'
   TX Current (0 dBm): ''
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/wireless/wi-fi/rs9116-wi-fi-ncp-socs
-  repositories: []
-name: RS9116 Wi-Fi NCP SoCs
-ref: silicon-labs/rs9116-wi-fi-ncp-socs
-release_date: null
-sku: rs9116-wi-fi-ncp-socs
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

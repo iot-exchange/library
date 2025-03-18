@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-3635
+ref: mikroe/mikroe-3635
+vendor: mikroe
+sku: mikroe-3635
+name: MIKROE-3635
 description: "Temp&Hum 13 Click is a Click board\u2122 which is perfectly suited for\
   \ measuring the relative humidity (RH) and temperature. The Click board\u2122 is\
   \ equipped with the HTU21DF, an accurate and reliable sensor IC, packed in a miniature\
   \ 3x3mm DFN package from TE Connectivity. This sensor is fully calibrated and features\
   \ fast response time, low power consumption,..."
+status: ''
 extra:
   Price: $14.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/temphum-13-click/temphum-13-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/temphum-13-click
-  repositories: []
-name: MIKROE-3635
-ref: mikroe/mikroe-3635
-release_date: null
-sku: mikroe-3635
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/temphum-13-click/temphum-13-click-home_default-1.jpg?v=100

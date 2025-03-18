@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4057
+ref: mikroe/mikroe-4057
+vendor: mikroe
+sku: mikroe-4057
+name: MIKROE-4057
 description: The Monarch Adapter Click is used to connect a compatible Monarch Go
   LTE-M modems from Sequans to your development board or prototype device. This Click
   adapter provide connection to cloud server with AT commands. The Monarch Go LTE-M
   modem component with embedded antenna is perfectly suited for a broad range of IoT
   applications, including telemetry,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/monarch-adapter-click/monarch-adapter-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/monarch-adapter-click
-  repositories: []
-name: MIKROE-4057
-ref: mikroe/mikroe-4057
-release_date: null
-sku: mikroe-4057
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/monarch-adapter-click/monarch-adapter-click-home_default-1.jpg?v=100

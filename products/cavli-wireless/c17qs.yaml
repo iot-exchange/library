@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: c17qs
+ref: cavli-wireless/c17qs
+vendor: cavli-wireless
+sku: c17qs
+name: C17QS
 description: LTE Cat 1bis 3GPP Release 14
+status: ''
 extra:
   Cellular Bands Supported: 'GLOBAL: B1/B2/B3/B4/B5/B7/B8/B12/B13/B14/B18/B19/B20/B25/B26/B28/B34/B38
     TDD/B39/B40 TDD/B41 TDD/B66/B71'
@@ -13,17 +17,6 @@ extra:
     USB 2.0 Interface, Open SDK Support, Applicable regions - (GLOBAL)
   OS: FreeRTOS
 links:
-  datasheets: []
-  examples: []
+  products: []
   images:
   - https://www.cavliwireless.com/assets/images/modules/c-series/C17QS.png
-  models: []
-  products: []
-  repositories: []
-name: C17QS
-ref: cavli-wireless/c17qs
-release_date: null
-sku: c17qs
-spec: null
-status: ''
-vendor: cavli-wireless

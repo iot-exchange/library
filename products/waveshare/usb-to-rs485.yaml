@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: usb-to-rs485
+ref: waveshare/usb-to-rs485
+vendor: waveshare
+sku: usb-to-rs485
+name: USB TO RS485
 description: Industrial USB to RS485 Bidirectional Converter
+status: ''
 extra:
   Price: $10.31 - $10.99
-  Price Range: $10.31 - $10.99
   SKU: '17286'
+  Price Range: $10.31 - $10.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-rs485-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-to-rs485.htm
-  repositories: []
-name: USB TO RS485
-ref: waveshare/usb-to-rs485
-release_date: null
-sku: usb-to-rs485
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-rs485-1.jpg

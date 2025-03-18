@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: msp430-p1232m
+ref: olimex/msp430-p1232m
+vendor: olimex
+sku: msp430-p1232m
+name: MSP430-P1232M
 description: ''
+status: ''
 extra:
   price1: 5.95 EUR
   price2: 5.36 EUR
   price3: 4.76 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/MSP430/Proto/MSP430-P1232M/images/thumbs/200x150/MSP430-P1232M.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/MSP430/Proto/MSP430-P1232M/
-  repositories: []
-name: MSP430-P1232M
-ref: olimex/msp430-p1232m
-release_date: null
-sku: msp430-p1232m
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/MSP430/Proto/MSP430-P1232M/images/thumbs/200x150/MSP430-P1232M.jpg

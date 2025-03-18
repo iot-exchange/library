@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: v5-3
+ref: ezurio/v5-3
+vendor: ezurio
+sku: v5-3
+name: v5.3
 description: Channel Classification Enhancement - Channel classification in Bluetooth
   LE may now be performed by the Peripheral device.
+status: ''
 extra:
   Use Case: Improve throughput and reliability.
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: v5.3
-ref: ezurio/v5-3
-release_date: null
-sku: v5-3
-spec: null
-status: ''
-vendor: ezurio
+  images: []

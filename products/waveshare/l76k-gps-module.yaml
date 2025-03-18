@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: l76k-gps-module
+ref: waveshare/l76k-gps-module
+vendor: waveshare
+sku: l76k-gps-module
+name: L76K GPS Module
 description: L76K Multi-GNSS Module, Supports GPS, BDS, QZSS
+status: ''
 extra:
   Price: $12.97 - $13.99
   SKU: '23721'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/7/l76k-gps-module-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/l76k-gps-module.htm
-  repositories: []
-name: L76K GPS Module
-ref: waveshare/l76k-gps-module
-release_date: null
-sku: l76k-gps-module
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/7/l76k-gps-module-1.jpg

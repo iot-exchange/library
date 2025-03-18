@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: solar-power-manager-en
+ref: waveshare/solar-power-manager-en
+vendor: waveshare
+sku: solar-power-manager-en
+name: Solar Power Manager (EN)
 description: Solar Power Management Module, for 6V~24V Solar Panel
+status: ''
 extra:
   Price: $7.99 - $8.99
   SKU: '16120'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/o/solar-power-manager-5_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/solar-power-manager.htm "Solar Power Management Module,
     for 6V~24V Solar Panel"
-  repositories: []
-name: Solar Power Manager (EN)
-ref: waveshare/solar-power-manager-en
-release_date: null
-sku: solar-power-manager-en
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/o/solar-power-manager-5_5.jpg

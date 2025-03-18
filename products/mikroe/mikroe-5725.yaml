@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-5725
+ref: mikroe/mikroe-5725
+vendor: mikroe
+sku: mikroe-5725
+name: MIKROE-5725
 description: I2C Isolator 5 Click is a compact add-on board that offers completely
   isolated bidirectional communication. This board features ISO1644, a hot-swappable
   bidirectional I2C isolator with enhanced EMC and GPIOs from Texas Instruments.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/i2c-isolator-5-click/i2c-isolator-5-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/i2c-isolator-5-click
-  repositories: []
-name: MIKROE-5725
-ref: mikroe/mikroe-5725
-release_date: null
-sku: mikroe-5725
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/i2c-isolator-5-click/i2c-isolator-5-click-home_default-1.jpg?v=100

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: summit-som-8m-plus-system-on-module-wifi-5-bluetooth-5-3
+ref: ezurio/summit-som-8m-plus-system-on-module-wifi-5-bluetooth-5-3
+vendor: ezurio
+sku: summit-som-8m-plus-system-on-module-wifi-5-bluetooth-5-3
+name: Summit SOM 8M Plus System-on-Module - WiFi 5 + Bluetooth 5.3
 description: "4x Cortex\xAE-A53 cores @ 1.6 GHz (NXP I.MX 8M Plus), 1x Cortex\xAE\
   -M7 core @ 800 MHz (NXP I.MX 8M Plus), Wi-Fi 5 (802.11ac) Bluetooth 5.3"
+status: Active
 extra:
   Chipset (Wireless): NXP 88W8997
   Dimensions: 40 x 47 x 4.6 mm
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ezurio.com/system-on-module/nxp-imx8/summit-som-8m-plus-system-module-wifi-5-bluetooth-53
-  repositories: []
-name: Summit SOM 8M Plus System-on-Module - WiFi 5 + Bluetooth 5.3
-ref: ezurio/summit-som-8m-plus-system-on-module-wifi-5-bluetooth-5-3
-release_date: null
-sku: summit-som-8m-plus-system-on-module-wifi-5-bluetooth-5-3
-spec: null
-status: Active
-vendor: ezurio
+  images: []

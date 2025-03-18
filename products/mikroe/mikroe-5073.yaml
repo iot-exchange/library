@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5073
+ref: mikroe/mikroe-5073
+vendor: mikroe
+sku: mikroe-5073
+name: MIKROE-5073
 description: EEPROM 8 Click is a compact add-on board that contains a highly reliable
   nonvolatile memory solution. This board features the CAV24C512, a 512-Kb electrically
   erasable programmable memory with enhanced hardware write protection for entire
   memory from onsemi. Internally organized as 65,536 words of 8 bits each, the CAV24C512
   comes up with the compatible...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/eeprom-8-click/eeprom-8-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/eeprom-8-click
-  repositories: []
-name: MIKROE-5073
-ref: mikroe/mikroe-5073
-release_date: null
-sku: mikroe-5073
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/eeprom-8-click/eeprom-8-click-home_default-1.jpg?v=100

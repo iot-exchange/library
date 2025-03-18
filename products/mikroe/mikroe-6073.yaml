@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-6073
+ref: mikroe/mikroe-6073
+vendor: mikroe
+sku: mikroe-6073
+name: MIKROE-6073
 description: GNSS 9 Click is a compact add-on board designed for accurate and reliable
   positioning applications. This board features the TESEO-LIV4F, a dual-band GNSS
   module from STMicroelectronics, known for its low-power operation and multi-constellation
   tracking capabilities. This module ensures submeter positioning accuracy with its
   integrated TCXO and RTC...
+status: ''
 extra:
   PID: MIKROE-6073
   Price: $49.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gnss-9-click/gnss-9-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/gnss-9-click
-  repositories: []
-name: MIKROE-6073
-ref: mikroe/mikroe-6073
-release_date: null
-sku: mikroe-6073
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gnss-9-click/gnss-9-click-home_default-1.jpg?v=100

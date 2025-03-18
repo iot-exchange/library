@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: usb-to-4ch-ttl
+ref: waveshare/usb-to-4ch-ttl
+vendor: waveshare
+sku: usb-to-4ch-ttl
+name: USB TO 4CH TTL
 description: Industrial USB TO 4CH TTL Converter, USB To UART, Multi Protection &
   Systems Support
+status: ''
 extra:
   Price: $14.31 - $14.99
   SKU: '21619'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-4ch-ttl-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-to-4ch-ttl.htm
-  repositories: []
-name: USB TO 4CH TTL
-ref: waveshare/usb-to-4ch-ttl
-release_date: null
-sku: usb-to-4ch-ttl
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-4ch-ttl-1.jpg

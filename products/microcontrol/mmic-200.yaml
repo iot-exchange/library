@@ -1,0 +1,24 @@
+id: mmic-200
+ref: microcontrol/mmic-200
+vendor: microcontrol
+sku: mmic-200
+name: "\xB5MIC.200"
+description: "The \xB5MIC.200 is a pioneering controller that serves as an IoT gateway,\
+  \ CANopen automation controller, and top-hat rail PC, offering an end-to-end solution\
+  \ for various industrial environments."
+status: ''
+extra:
+  Flash Memory: 4 GByte (expandable via microSD)
+  Operating System: real-time Linux
+  Power Consumption: 4 Watts
+  Power Supply Voltage: 9 ... 36 V DC
+  Processor: ARM Controller, max 1 GHz
+  Programming Languages: Node-RED, C/C++
+  RAM: 512 MByte
+  Temperature Range: "-40 \xB0C ... +85 \xB0C"
+  Type: IoT gateway, CANopen automation controller, top-hat rail PC
+links:
+  products:
+  - https://www.microcontrol.net/en/portfolio/control-units/mmic-200/
+  images:
+  - "https://www.microcontrol.net/wp-content/uploads/2021/09/\xB5Mic.200.png"

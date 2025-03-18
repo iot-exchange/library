@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: si10xx-sub-ghz-wireless-mcps
+ref: silicon-labs/si10xx-sub-ghz-wireless-mcps
+vendor: silicon-labs
+sku: si10xx-sub-ghz-wireless-mcps
+name: Si10xx Sub-GHz Wireless MCPs
 description: Proprietary Si10xx Sub-GHz Wireless MCPs
+status: ''
 extra:
   Flash (kB): 32, 64
   Frequency Range (MHz): 142 1050
@@ -11,17 +15,6 @@ extra:
   RAM (kB): '4352'
   Security: '15'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/wireless/proprietary/si10xx-sub-ghz-mcps
-  repositories: []
-name: Si10xx Sub-GHz Wireless MCPs
-ref: silicon-labs/si10xx-sub-ghz-wireless-mcps
-release_date: null
-sku: si10xx-sub-ghz-wireless-mcps
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

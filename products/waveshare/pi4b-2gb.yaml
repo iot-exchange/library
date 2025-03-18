@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: pi4b-2gb
+ref: waveshare/pi4b-2gb
+vendor: waveshare
+sku: pi4b-2gb
+name: PI4B-2GB
 description: Raspberry Pi 4 Model B 2GB RAM, Completely Upgraded
+status: ''
 extra:
   Price: $52.65 - $52.99
   SKU: '16784'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4b-ram-2gb.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/raspberry-pi-4-model-b-2gb-ram.htm
   - https://www.waveshare.com/product/raspberry-pi-4-model-b-2gb-ram.htm "Raspberry
     Pi 4 Model B 2GB RAM, Completely Upgraded"
-  repositories: []
-name: PI4B-2GB
-ref: waveshare/pi4b-2gb
-release_date: null
-sku: pi4b-2gb
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4b-ram-2gb.jpg

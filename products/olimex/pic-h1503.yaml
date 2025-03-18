@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pic-h1503
+ref: olimex/pic-h1503
+vendor: olimex
+sku: pic-h1503
+name: PIC-H1503
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/PIC/Development/PIC-H1503/images/thumbs/200x150/PIC-H1503-1.png
-  models: []
   products:
   - https://www.olimex.com/Products/PIC/Development/PIC-H1503/open-source-hardware
-  repositories: []
-name: PIC-H1503
-ref: olimex/pic-h1503
-release_date: null
-sku: pic-h1503
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/PIC/Development/PIC-H1503/images/thumbs/200x150/PIC-H1503-1.png

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pwr-90-240v-5v0-7a
+ref: olimex/pwr-90-240v-5v0-7a
+vendor: olimex
+sku: pwr-90-240v-5v0-7a
+name: PWR-90-240V-5V0.7A
 description: ''
+status: ''
 extra:
   discountedPrice1: 2.70 EUR
   discountedPrice2: 2.40 EUR
   price: 3.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Power/PWR-90-240V-5V0.7A/images/thumbs/200x150/PWR-90-240V-5V0.7A-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Power/PWR-90-240V-5V0.7A/
-  repositories: []
-name: PWR-90-240V-5V0.7A
-ref: olimex/pwr-90-240v-5v0-7a
-release_date: null
-sku: pwr-90-240v-5v0-7a
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Power/PWR-90-240V-5V0.7A/images/thumbs/200x150/PWR-90-240V-5V0.7A-1.jpg

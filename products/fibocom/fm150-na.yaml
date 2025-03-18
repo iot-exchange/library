@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: fm150-na
+ref: fibocom/fm150-na
+vendor: fibocom
+sku: fm150-na
+name: FM150-NA
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/5G-FM150-NA.html
-  repositories: []
-name: FM150-NA
-ref: fibocom/fm150-na
-release_date: null
-sku: fm150-na
-spec: null
-status: ''
-vendor: fibocom
+  images: []

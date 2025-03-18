@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rfid1356-iso
+ref: olimex/rfid1356-iso
+vendor: olimex
+sku: rfid1356-iso
+name: RFID1356-ISO
 description: ''
+status: ''
 extra:
   discountedPrice1: 0.99 EUR
   discountedPrice2: 0.88 EUR
   price: 1.10 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/RFID-Tags/1356/RFID1356-ISO/images/thumbs/200x150/RFID1356-ISO.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/RFID-Tags/1356/RFID1356-ISO/
-  repositories: []
-name: RFID1356-ISO
-ref: olimex/rfid1356-iso
-release_date: null
-sku: rfid1356-iso
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/RFID-Tags/1356/RFID1356-ISO/images/thumbs/200x150/RFID1356-ISO.jpg

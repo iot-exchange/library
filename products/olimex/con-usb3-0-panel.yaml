@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: con-usb3-0-panel
+ref: olimex/con-usb3-0-panel
+vendor: olimex
+sku: con-usb3-0-panel
+name: CON-USB3-0-PANEL
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Connectors/CON-USB3.0-PANEL/images/thumbs/200x150/CON-USB2.0-PANEL.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Connectors/CON-USB3-0-PANEL/
-  repositories: []
-name: CON-USB3-0-PANEL
-ref: olimex/con-usb3-0-panel
-release_date: null
-sku: con-usb3-0-panel
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Connectors/CON-USB3.0-PANEL/images/thumbs/200x150/CON-USB2.0-PANEL.jpg

@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-4496
+ref: mikroe/mikroe-4496
+vendor: mikroe
+sku: mikroe-4496
+name: MIKROE-4496
 description: "Temp&Hum 15 Click is a compact add-on board that contains the 4th generation\
   \ of best-in-class SHT humidity sensing solution from Sensirion. This board features\
   \ the SHT40, a high-accuracy ultra-low-power 16-bit relative humidity, and temperature\
   \ sensor. It provides constant temperature accuracy, up to 0.1\xB0C, and shows the\
   \ best performance when operated..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/temphum-15-click/temphum-15-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=2986
   - https://www.mikroe.com/temphum-15-click
-  repositories: []
-name: MIKROE-4496
-ref: mikroe/mikroe-4496
-release_date: null
-sku: mikroe-4496
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/temphum-15-click/temphum-15-click-home_default-1.jpg?v=100

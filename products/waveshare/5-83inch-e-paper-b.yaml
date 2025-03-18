@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 5-83inch-e-paper-b
+ref: waveshare/5-83inch-e-paper-b
+vendor: waveshare
+sku: 5-83inch-e-paper-b
+name: 5.83inch e-Paper (B)
 description: "648\xD7480, 5.83inch E-Ink raw display, red/black/white three-color"
+status: ''
 extra:
   Price: $40.63 - $41.99
   SKU: '14411'
   price: $40.63 - $41.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/images/catalog/product/placeholder/small_image.jpg
-  models: []
   products:
   - https://www.waveshare.com/5.83inch-e-paper-b.htm
-  repositories: []
-name: 5.83inch e-Paper (B)
-ref: waveshare/5-83inch-e-paper-b
-release_date: null
-sku: 5-83inch-e-paper-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/images/catalog/product/placeholder/small_image.jpg

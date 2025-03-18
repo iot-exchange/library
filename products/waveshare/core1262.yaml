@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: core1262
+ref: waveshare/core1262
+vendor: waveshare
+sku: core1262
+name: core1262
 description: Core1262 LF/HF LoRa Module, SX1262 chip, Long-Range Communication, Anti-Interference,
   Suitable for Sub-GHz band
+status: ''
 extra:
   Price: $7.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/core1262-hf-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/core1262-868m.htm
   - https://www.waveshare.com/product/core1262-868m.htm "Core1262 LF/HF LoRa Module,
     SX1262 chip, Long-Range Communication, Anti-Interference, Suitable for Sub-GHz
     band"
-  repositories: []
-name: core1262
-ref: waveshare/core1262
-release_date: null
-sku: core1262
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/core1262-hf-1.jpg

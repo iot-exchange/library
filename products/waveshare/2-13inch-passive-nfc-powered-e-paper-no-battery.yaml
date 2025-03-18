@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: 2-13inch-passive-nfc-powered-e-paper-no-battery
+ref: waveshare/2-13inch-passive-nfc-powered-e-paper-no-battery
+vendor: waveshare
+sku: 2-13inch-passive-nfc-powered-e-paper-no-battery
+name: 2.13inch Passive NFC-Powered e-Paper, No Battery
 description: 2.13inch Passive NFC-Powered e-Paper, No Battery
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.13inch-nfc-powered-e-paper-1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/2.13inch-nfc-powered-e-paper.htm
-  repositories: []
-name: 2.13inch Passive NFC-Powered e-Paper, No Battery
-ref: waveshare/2-13inch-passive-nfc-powered-e-paper-no-battery
-release_date: null
-sku: 2-13inch-passive-nfc-powered-e-paper-no-battery
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.13inch-nfc-powered-e-paper-1_2.jpg

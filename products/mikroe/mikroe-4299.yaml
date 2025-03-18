@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4299
+ref: mikroe/mikroe-4299
+vendor: mikroe
+sku: mikroe-4299
+name: MIKROE-4299
 description: Smoke 2 Click is a compact add-on board that contains the most efficient
   version of the smoke detector. This board features the ADPD188BI, a complete photometric
   system for smoke detection using optical dual-wavelength technology from Analog
   Devices. The module combines the dual photodetector with two separate LEDs and a
   mixed-signal photometric front-end...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/smoke-2-click/smoke-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/smoke-2-click
-  repositories: []
-name: MIKROE-4299
-ref: mikroe/mikroe-4299
-release_date: null
-sku: mikroe-4299
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/smoke-2-click/smoke-2-click-home_default-1.jpg?v=100

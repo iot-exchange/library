@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: gnss-l1-l5-dual-frequency-active-antenna
+ref: waveshare/gnss-l1-l5-dual-frequency-active-antenna
+vendor: waveshare
+sku: gnss-l1-l5-dual-frequency-active-antenna
+name: GNSS L1+L5 Dual-frequency Active Antenna
 description: GNSS L1+L5 Dual-frequency Active Antenna, SMA-J Connector, Supports Multi-GNSS
   Positioning Systems
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/p/gps-external-antenna-d-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/gps-external-antenna-d.htm
-  repositories: []
-name: GNSS L1+L5 Dual-frequency Active Antenna
-ref: waveshare/gnss-l1-l5-dual-frequency-active-antenna
-release_date: null
-sku: gnss-l1-l5-dual-frequency-active-antenna
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/p/gps-external-antenna-d-2.jpg

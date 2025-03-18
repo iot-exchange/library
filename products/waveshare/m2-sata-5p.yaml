@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: m2-sata-5p
+ref: waveshare/m2-sata-5p
+vendor: waveshare
+sku: m2-sata-5p
+name: M2-SATA-5P
 description: M.2 NGFF SATA to 5-Ch SATA3 Expander, JMB575 control chip
+status: ''
 extra:
   Price: $14.31 - $14.99
   SKU: '23318'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/2/m2-sata-5p-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/m2-sata-5p.htm
-  repositories: []
-name: M2-SATA-5P
-ref: waveshare/m2-sata-5p
-release_date: null
-sku: m2-sata-5p
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/2/m2-sata-5p-1.jpg

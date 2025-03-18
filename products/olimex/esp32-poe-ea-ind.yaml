@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: esp32-poe-ea-ind
+ref: olimex/esp32-poe-ea-ind
+vendor: olimex
+sku: esp32-poe-ea-ind
+name: ESP32-POE-EA-IND
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/ESP32/ESP32-POE/images/thumbs/200x150/ESP32-POE-EA-16.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/ESP32/ESP32-POE-EA-IND/open-source-hardware
-  repositories: []
-name: ESP32-POE-EA-IND
-ref: olimex/esp32-poe-ea-ind
-release_date: null
-sku: esp32-poe-ea-ind
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32/ESP32-POE/images/thumbs/200x150/ESP32-POE-EA-16.jpg

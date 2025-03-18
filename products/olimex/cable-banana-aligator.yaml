@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: cable-banana-aligator
+ref: olimex/cable-banana-aligator
+vendor: olimex
+sku: cable-banana-aligator
+name: CABLE-BANANA-ALIGATOR
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Cables/CABLE-BANANA-ALIGATOR/images/thumbs/200x150/CABLE-BANANA-ALIGATOR.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Cables/CABLE-BANANA-ALIGATOR/
-  repositories: []
-name: CABLE-BANANA-ALIGATOR
-ref: olimex/cable-banana-aligator
-release_date: null
-sku: cable-banana-aligator
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Cables/CABLE-BANANA-ALIGATOR/images/thumbs/200x150/CABLE-BANANA-ALIGATOR.jpg

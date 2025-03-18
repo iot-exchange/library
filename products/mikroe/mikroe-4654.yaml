@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-4654
+ref: mikroe/mikroe-4654
+vendor: mikroe
+sku: mikroe-4654
+name: MIKROE-4654
 description: Ozone 3 Click is a compact add-on board suitable for ozone concentration
   detection and monitoring. This board features the 3SP-O3-20, a high-performance
   ultra-thin electrochemical gas sensor from SPEC Sensors supported by the LMP91000.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ozone-3-click/ozone-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ozone-3-click
-  repositories: []
-name: MIKROE-4654
-ref: mikroe/mikroe-4654
-release_date: null
-sku: mikroe-4654
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ozone-3-click/ozone-3-click-home_default-1.jpg?v=100

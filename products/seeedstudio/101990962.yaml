@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '101990962'
+ref: seeedstudio/101990962
+vendor: seeedstudio
+sku: '101990962'
+name: '101990962'
 description: SenseCAP A1101 - LoRaWAN Vision AI Sensor is a TinyML Edge AI enabled
   smart image sensor. It supports a variety of AI models such as image recognition,
   people counting, target detection, meter recognition etc. It also supports training
   models with TensorFlow Lite.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/f/i/first_page_all-22.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/SenseCAP-A1101-LoRaWAN-Vision-AI-Sensor-p-5367.html
-  repositories: []
-name: '101990962'
-ref: seeedstudio/101990962
-release_date: null
-sku: '101990962'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/f/i/first_page_all-22.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: solder-wire-sac0307-0-6
+ref: olimex/solder-wire-sac0307-0-6
+vendor: olimex
+sku: solder-wire-sac0307-0-6
+name: SOLDER-WIRE-SAC0307-0-6
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Soldering/Solder-Wire-SAC0307-0-6/images/thumbs/200x150/SLD-SAC0307FL06mm.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Soldering/SOLDER-WIRE-SAC0307-0-6/
-  repositories: []
-name: SOLDER-WIRE-SAC0307-0-6
-ref: olimex/solder-wire-sac0307-0-6
-release_date: null
-sku: solder-wire-sac0307-0-6
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Soldering/Solder-Wire-SAC0307-0-6/images/thumbs/200x150/SLD-SAC0307FL06mm.jpg

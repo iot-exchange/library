@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: gt2-belt-clamp
+ref: olimex/gt2-belt-clamp
+vendor: olimex
+sku: gt2-belt-clamp
+name: GT2-BELT-CLAMP
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/GT2/GT2-BELT-CLAMP/images/thumbs/200x150/GT2-BELT-CLAMP.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/GT2/GT2-BELT-CLAMP/
-  repositories: []
-name: GT2-BELT-CLAMP
-ref: olimex/gt2-belt-clamp
-release_date: null
-sku: gt2-belt-clamp
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/GT2/GT2-BELT-CLAMP/images/thumbs/200x150/GT2-BELT-CLAMP.jpg

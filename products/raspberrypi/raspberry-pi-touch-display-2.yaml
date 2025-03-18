@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-touch-display-2
+ref: raspberrypi/raspberry-pi-touch-display-2
+vendor: raspberrypi
+sku: raspberry-pi-touch-display-2
+name: Raspberry Pi Touch Display 2
 description: "A 7\u2032\u2032 touchscreen display for Raspberry Pi computers."
+status: ''
 extra:
   price: $60
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/d93d3a26f4525829f55b34372cf65a5e/3f4ea/ZySo0K8jQArT0HDZ_TouchDisplay2desktop.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/touch-display-2/
-  repositories: []
-name: Raspberry Pi Touch Display 2
-ref: raspberrypi/raspberry-pi-touch-display-2
-release_date: null
-sku: raspberry-pi-touch-display-2
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/d93d3a26f4525829f55b34372cf65a5e/3f4ea/ZySo0K8jQArT0HDZ_TouchDisplay2desktop.jpg

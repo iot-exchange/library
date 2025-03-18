@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-4128
+ref: mikroe/mikroe-4128
+vendor: mikroe
+sku: mikroe-4128
+name: MIKROE-4128
 description: "9DOF 2 Click is a compact add-on board for applications which require\
   \ lowest power motion tracking and magnetometer functionality. This board features\
   \ the ICM-20948 a 9-axis MotionTracking\u2122 sensor from TDK Invensense, which\
   \ consist of two sensors combined into one package for universal 9DOF solution."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/9dof-2-click/9dof-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/9dof-2-click
-  repositories: []
-name: MIKROE-4128
-ref: mikroe/mikroe-4128
-release_date: null
-sku: mikroe-4128
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/9dof-2-click/9dof-2-click-home_default-1.jpg?v=100

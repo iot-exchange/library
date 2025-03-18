@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: ceramic-filters-cerafil
+ref: murata/ceramic-filters-cerafil
+vendor: murata
+sku: ceramic-filters-cerafil
+name: Ceramic Filters (CERAFIL)
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/search/productsearch?cate=cgsubCeramFilteCERAF
-  repositories: []
-name: Ceramic Filters (CERAFIL)
-ref: murata/ceramic-filters-cerafil
-release_date: null
-sku: ceramic-filters-cerafil
-spec: null
-status: ''
-vendor: murata
+  images: []

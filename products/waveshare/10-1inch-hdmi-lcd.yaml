@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: 10-1inch-hdmi-lcd
+ref: waveshare/10-1inch-hdmi-lcd
+vendor: waveshare
+sku: 10-1inch-hdmi-lcd
+name: 10.1inch HDMI LCD
 description: "10.1inch Resistive Touch Screen LCD, 1024\xD7600, HDMI, IPS, Supports\
   \ Raspberry Pi / PC"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.1ap.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/10.1inch-hdmi-lcd.htm
-  repositories: []
-name: 10.1inch HDMI LCD
-ref: waveshare/10-1inch-hdmi-lcd
-release_date: null
-sku: 10-1inch-hdmi-lcd
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.1ap.jpg

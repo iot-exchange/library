@@ -1,27 +1,20 @@
-alternatives: []
-certifications: []
+id: jetson-nano-developer-package-c
+ref: waveshare/jetson-nano-developer-package-c
+vendor: waveshare
+sku: jetson-nano-developer-package-c
+name: Jetson Nano Developer Package C
 description: Jetson Nano Development Pack (Type C), with Display, Camera, TF Card
+status: ''
 extra:
   Multi Options: ''
   Price: $73.99 -  $371.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/_/c.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-nano-developer-kit-package-c_9.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs232485_to_eth_for_eu__2.jpg
-  models: []
   products:
   - https://www.waveshare.com/jetson-nano-developer-kit-package-c.htm
   - https://www.waveshare.com/jetson-nano-developer-kit-package-c.htm "Jetson Nano
     Development Pack (Type C), with Display, Camera, TF Card"
   - https://www.waveshare.com/product/rs232-485-to-eth-for-eu.htm
-  repositories: []
-name: Jetson Nano Developer Package C
-ref: waveshare/jetson-nano-developer-package-c
-release_date: null
-sku: jetson-nano-developer-package-c
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/_/c.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-nano-developer-kit-package-c_9.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs232485_to_eth_for_eu__2.jpg

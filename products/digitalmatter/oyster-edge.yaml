@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: oyster-edge
+ref: digitalmatter/oyster-edge
+vendor: digitalmatter
+sku: oyster-edge
+name: Oyster Edge
 description: ''
+status: ''
 extra:
   Accelerometer: Movement, Impact, Rotation, and Tip Detection
   Batteries: 3 x AA Lithium
@@ -15,16 +19,5 @@ extra:
   Location Technologies: Wi-Fi Scanning, Cell Tower Location, GNSS Scanning
   Magnet: Magnetic Activation and Tamper Detection
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Oyster Edge
-ref: digitalmatter/oyster-edge
-release_date: null
-sku: oyster-edge
-spec: null
-status: ''
-vendor: digitalmatter
+  images: []

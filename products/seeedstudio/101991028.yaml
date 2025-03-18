@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '101991028'
+ref: seeedstudio/101991028
+vendor: seeedstudio
+sku: '101991028'
+name: '101991028'
 description: EdgeBox RPi 200 - Raspberry Pi IoT Edge Device
+status: ''
 extra:
   Applications: Smart automation, IIoT solutions
   Features: UPS, WiFi
   RAM: 2GB
   Storage: 8GB eMMC
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101991028-sensecap-co2-temperature-and-humidity-sensor-with-rs485_sdi-12-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/EdgeBox-RPi-200-CM4102008-With-UPS-p-5729.html
-  repositories: []
-name: '101991028'
-ref: seeedstudio/101991028
-release_date: null
-sku: '101991028'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101991028-sensecap-co2-temperature-and-humidity-sensor-with-rs485_sdi-12-45font.jpg

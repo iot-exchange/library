@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-5832
+ref: mikroe/mikroe-5832
+vendor: mikroe
+sku: mikroe-5832
+name: MIKROE-5832
 description: Hall Current 18 Click is a compact add-on board that contains a precise
   solution for AC/DC current sensing. This board features the MCS1806, an isolated
   Hall-effect current sensor from MPS. The sensor is immune to external magnetic fields
   via differential sensing and has no magnetic hysteresis. The MCS1806 features galvanic
   isolation between the pins of...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/hall-current-18-click/hall-current-18-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=3767
   - https://www.mikroe.com/hall-current-18-click
-  repositories: []
-name: MIKROE-5832
-ref: mikroe/mikroe-5832
-release_date: null
-sku: mikroe-5832
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/hall-current-18-click/hall-current-18-click-home_default-1.jpg?v=100

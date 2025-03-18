@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: t2-olinuxino-micro-e8gs16m-ind
+ref: olimex/t2-olinuxino-micro-e8gs16m-ind
+vendor: olimex
+sku: t2-olinuxino-micro-e8gs16m-ind
+name: T2-OLinuXino-MICRO-e8Gs16M-IND
 description: ''
+status: ''
 extra:
   discountedPrice1: 58.90 EUR
   discountedPrice2: 55.80 EUR
   price: 62.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-MICRO/images/thumbs/200x150/A20-OLINUXINO-MICRO-i.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/A20/T2-OLinuXino-MICRO-e8Gs16M-IND/open-source-hardware
-  repositories: []
-name: T2-OLinuXino-MICRO-e8Gs16M-IND
-ref: olimex/t2-olinuxino-micro-e8gs16m-ind
-release_date: null
-sku: t2-olinuxino-micro-e8gs16m-ind
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-MICRO/images/thumbs/200x150/A20-OLINUXINO-MICRO-i.jpg

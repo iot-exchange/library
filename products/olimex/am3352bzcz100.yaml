@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: am3352bzcz100
+ref: olimex/am3352bzcz100
+vendor: olimex
+sku: am3352bzcz100
+name: AM3352BZCZ100
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/IC/AM3352BZCZ100/images/thumbs/200x150/AM3352.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/IC/AM3352BZCZ100/
-  repositories: []
-name: AM3352BZCZ100
-ref: olimex/am3352bzcz100
-release_date: null
-sku: am3352bzcz100
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/IC/AM3352BZCZ100/images/thumbs/200x150/AM3352.jpg

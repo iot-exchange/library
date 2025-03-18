@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-6074
+ref: mikroe/mikroe-6074
+vendor: mikroe
+sku: mikroe-6074
+name: MIKROE-6074
 description: IPD Click is a compact add-on board for controlling inductive and resistive
   loads in industrial automation and other demanding applications. This board features
   the TPD2015FN, an 8-channel high-side switch with MOSFET outputs from Toshiba Semiconductor.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ipd-click-tpd2015/ipd-click-tpd2015-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ipd-click-tpd2015
-  repositories: []
-name: MIKROE-6074
-ref: mikroe/mikroe-6074
-release_date: null
-sku: mikroe-6074
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ipd-click-tpd2015/ipd-click-tpd2015-home_default-1.jpg?v=100

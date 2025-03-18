@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: cm4-to-pi4-adapter
+ref: waveshare/cm4-to-pi4-adapter
+vendor: waveshare
+sku: cm4-to-pi4-adapter
+name: cm4_to_pi4_adapter
 description: CM4 To Pi 4B Adapter for Raspberry Pi, Alternative Solution for Raspberry
   Pi 4B, CM4 optional
+status: ''
 extra:
   Multi Options: ''
   Price: $25.99 - $149.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-to-pi4-adapter-1_3.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/cm4-to-pi4-adapter.htm
-  repositories: []
-name: cm4_to_pi4_adapter
-ref: waveshare/cm4-to-pi4-adapter
-release_date: null
-sku: cm4-to-pi4-adapter
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-to-pi4-adapter-1_3.jpg

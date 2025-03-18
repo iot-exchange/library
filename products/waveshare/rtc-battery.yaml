@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: rtc-battery
+ref: waveshare/rtc-battery
+vendor: waveshare
+sku: rtc-battery
+name: rtc_battery
 description: RTC Battery for Raspberry Pi 5, Options For 25mAh / 64mAh / 180mAh Battery
   Capacity, 2PIN JST connector
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/t/rtc-battery-a-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rtc-battery.htm
-  repositories: []
-name: rtc_battery
-ref: waveshare/rtc-battery
-release_date: null
-sku: rtc-battery
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/t/rtc-battery-a-1.jpg

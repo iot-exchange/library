@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5168
+ref: mikroe/mikroe-5168
+vendor: mikroe
+sku: mikroe-5168
+name: MIKROE-5168
 description: I2C MUX 6 Click is a compact add-on board representing a bidirectional
   selector dedicated to I2C slave address conflicts applications. This board features
   the PCA9518, an expandable four-channel bidirectional buffer controlled by the I2C-bus
   from Texas Instruments. The PCA9518 overcomes the restriction of maximum bus capacitance
   by separating and...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/i2c-mux-6-click/i2c-mux-6-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/i2c-mux-6-click
-  repositories: []
-name: MIKROE-5168
-ref: mikroe/mikroe-5168
-release_date: null
-sku: mikroe-5168
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/i2c-mux-6-click/i2c-mux-6-click-home_default-1.jpg?v=100

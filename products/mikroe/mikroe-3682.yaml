@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-3682
+ref: mikroe/mikroe-3682
+vendor: mikroe
+sku: mikroe-3682
+name: MIKROE-3682
 description: MCU Card is a standardized add-on board, which allows very simple installation
   and replacement of the microcontroller unit (MCU) on a development board equipped
   with the MCU Card socket.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mcu-card-23-for-stm32-stm32f767bi/mcu-card-23-for-stm32-stm32f767bi-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=125#MIKROE-3682
-  repositories: []
-name: MIKROE-3682
-ref: mikroe/mikroe-3682
-release_date: null
-sku: mikroe-3682
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mcu-card-23-for-stm32-stm32f767bi/mcu-card-23-for-stm32-stm32f767bi-home_default-1.jpg?v=100

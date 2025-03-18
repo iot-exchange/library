@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: '102991455'
+ref: seeedstudio/102991455
+vendor: seeedstudio
+sku: '102991455'
+name: '102991455'
 description: WT32-ETH01 is an embedded serial to Ethernet module based on the ESP32
   series WT32-S1 MCU. The module integrates an optimized TCP/IP protocol stack, which
   is convenient for users to easily complete the networking functions of embedded
@@ -7,20 +10,10 @@ description: WT32-ETH01 is an embedded serial to Ethernet module based on the ES
   with half-pad and through-hole connectors. The board width is a universal width
   and therefore, it can be directly soldered to boards, connectors, or even breadboards,
   which is convenient for users to use in different scenarios.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/0/0/0072.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Ethernet-module-based-on-ESP32-series-WT32-ETH01-p-4736.html
-  repositories: []
-name: '102991455'
-ref: seeedstudio/102991455
-release_date: null
-sku: '102991455'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/0/0/0072.jpg

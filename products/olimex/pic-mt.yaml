@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pic-mt
+ref: olimex/pic-mt
+vendor: olimex
+sku: pic-mt
+name: PIC-MT
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/PIC/Development/PIC-MT/images/thumbs/200x150/PIC-MT-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/PIC/Development/PIC-MT/
-  repositories: []
-name: PIC-MT
-ref: olimex/pic-mt
-release_date: null
-sku: pic-mt
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/PIC/Development/PIC-MT/images/thumbs/200x150/PIC-MT-1.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pic-p18-20mhz
+ref: olimex/pic-p18-20mhz
+vendor: olimex
+sku: pic-p18-20mhz
+name: PIC-P18-20MHz
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/PIC/Proto/PIC-P18-20MHz/images/thumbs/200x150/PIC-P18-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/PIC/Proto/PIC-P18-20MHz/
-  repositories: []
-name: PIC-P18-20MHz
-ref: olimex/pic-p18-20mhz
-release_date: null
-sku: pic-p18-20mhz
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/PIC/Proto/PIC-P18-20MHz/images/thumbs/200x150/PIC-P18-1.jpg

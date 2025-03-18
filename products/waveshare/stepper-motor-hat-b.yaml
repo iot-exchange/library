@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: stepper-motor-hat-b
+ref: waveshare/stepper-motor-hat-b
+vendor: waveshare
+sku: stepper-motor-hat-b
+name: Stepper Motor HAT (B)
 description: HRB8825 Stepper Motor HAT For Raspberry Pi, Drives Two Stepper Motors,
   Up To 1/32 Microstepping
+status: ''
 extra:
   Price: $13.63 - $14.99
   SKU: '22311'
   price: $13.63 - $14.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/stepper-motor-hat-b-1_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/stepper-motor-hat-b.htm
-  repositories: []
-name: Stepper Motor HAT (B)
-ref: waveshare/stepper-motor-hat-b
-release_date: null
-sku: stepper-motor-hat-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/stepper-motor-hat-b-1_1.jpg

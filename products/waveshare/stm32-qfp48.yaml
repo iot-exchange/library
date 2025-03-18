@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: stm32-qfp48
+ref: waveshare/stm32-qfp48
+vendor: waveshare
+sku: stm32-qfp48
+name: STM32-QFP48
 description: STM32-QFP48, Programmer Adapter
+status: ''
 extra:
   Price: $61.99 - $64.99
   SKU: '3466'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/stm32-qfp48_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/stm32-qfp48.htm
-  repositories: []
-name: STM32-QFP48
-ref: waveshare/stm32-qfp48
-release_date: null
-sku: stm32-qfp48
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/stm32-qfp48_l_1_5.jpg

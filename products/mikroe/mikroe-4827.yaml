@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-4827
+ref: mikroe/mikroe-4827
+vendor: mikroe
+sku: mikroe-4827
+name: MIKROE-4827
 description: "Gyro 6 Click is a compact add-on board that contains a high-performance\
   \ gyroscope. This board features the IAM-20380, a 3-axis, digital-output X-, Y-,\
   \ and Z-axis angular rate sensor (gyroscope) from TDK InvenSense. It has a full-scale\
   \ programmable range of \xB1250DPS, \xB1500DPS, \xB11000DPS, and \xB12000DPS with\
   \ a factory-calibrated initial sensitivity and..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gyro-6-click/gyro-6-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=3163
   - https://www.mikroe.com/gyro-6-click
-  repositories: []
-name: MIKROE-4827
-ref: mikroe/mikroe-4827
-release_date: null
-sku: mikroe-4827
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gyro-6-click/gyro-6-click-home_default-1.jpg?v=100

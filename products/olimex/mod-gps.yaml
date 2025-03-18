@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-gps
+ref: olimex/mod-gps
+vendor: olimex
+sku: mod-gps
+name: MOD-GPS
 description: ''
+status: ''
 extra:
   bulkPrice: 17.96 EUR
   discountedPrice: 18.95 EUR
   price: 19.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/GPS/MOD-GPS/images/thumbs/200x150/mod-gps1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/GPS/MOD-GPS/
-  repositories: []
-name: MOD-GPS
-ref: olimex/mod-gps
-release_date: null
-sku: mod-gps
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/GPS/MOD-GPS/images/thumbs/200x150/mod-gps1.jpg

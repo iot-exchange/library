@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: sx1211-11ska868
+ref: semtech/sx1211-11ska868
+vendor: semtech
+sku: sx1211-11ska868
+name: SX1211-11SKA868
 description: USB Starter Kit (2x), SX1211, 868MHz
+status: ''
 extra:
   Chipset: SX1211
   Region: Europe
   Type: USB Starter Kit
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.semtech.com/products/wireless-rf/frequency-shift-keying-fsk/sx1211-11ska868
-  repositories: []
-name: SX1211-11SKA868
-ref: semtech/sx1211-11ska868
-release_date: null
-sku: sx1211-11ska868
-spec: null
-status: ''
-vendor: semtech
+  images: []

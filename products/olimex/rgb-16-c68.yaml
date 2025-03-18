@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rgb-16-c68
+ref: olimex/rgb-16-c68
+vendor: olimex
+sku: rgb-16-c68
+name: RGB-16-C68
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Breadboarding/RGB-LEDs/RGB-16-C68/images/thumbs/200x150/RGB-16-C68-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Breadboarding/RGB-LEDs/RGB-16-C68/
-  repositories: []
-name: RGB-16-C68
-ref: olimex/rgb-16-c68
-release_date: null
-sku: rgb-16-c68
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Breadboarding/RGB-LEDs/RGB-16-C68/images/thumbs/200x150/RGB-16-C68-1.jpg

@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-6318
+ref: mikroe/mikroe-6318
+vendor: mikroe
+sku: mikroe-6318
+name: MIKROE-6318
 description: LR 11 Click - 868MHz is a compact add-on board for long-range, low-power
   wireless communication in IoT applications. This board features the 453-00140R,
   an ultra-low power LoraWAN module Ezurio (part of the RM126x series), integrating
   the Silicon Labs EFR32 SoC and the Semtech SX1261 radio. It supports LoRaWAN classes
   A, B, and C, offering secure,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/lr-11-click-868mhz/lr-11-click-868mhz-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=3975
   - https://www.mikroe.com/lr-11-click-868mhz
-  repositories: []
-name: MIKROE-6318
-ref: mikroe/mikroe-6318
-release_date: null
-sku: mikroe-6318
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lr-11-click-868mhz/lr-11-click-868mhz-home_default-1.jpg?v=100

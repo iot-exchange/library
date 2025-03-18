@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: 11-6inch-1768x828-lcd
+ref: waveshare/11-6inch-1768x828-lcd
+vendor: waveshare
+sku: 11-6inch-1768x828-lcd
+name: 11.6inch 1768x828 LCD
 description: "11.6inch Capacitive Touch Display, In-Cell Technology, 1768\xD7828,\
   \ 178\xB0 Wide Viewing Angle, HDMI/Type-C Display Interface, IPS Panel, 10-Point\
   \ Touch"
+status: ''
 extra:
   Price Range: $96.59 - $99.99
   SKU: '28482'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/1/11.6inch-1768x828-lcd-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/11.6inch-1768x828-lcd.htm
-  repositories: []
-name: 11.6inch 1768x828 LCD
-ref: waveshare/11-6inch-1768x828-lcd
-release_date: null
-sku: 11-6inch-1768x828-lcd
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/1/11.6inch-1768x828-lcd-1.jpg

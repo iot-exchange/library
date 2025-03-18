@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-wifi
+ref: olimex/mod-wifi
+vendor: olimex
+sku: mod-wifi
+name: MOD-WIFI
 description: ''
+status: ''
 extra:
   price1: 29.95 EUR
   price2: 28.45 EUR
   price3: 26.96 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Ethernet/MOD-WIFI/images/thumbs/200x150/MOD-WIFI-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Ethernet/MOD-WIFI/
-  repositories: []
-name: MOD-WIFI
-ref: olimex/mod-wifi
-release_date: null
-sku: mod-wifi
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Ethernet/MOD-WIFI/images/thumbs/200x150/MOD-WIFI-01.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 100x-microscope-lens-for-pi
+ref: waveshare/100x-microscope-lens-for-pi
+vendor: waveshare
+sku: 100x-microscope-lens-for-pi
+name: 100X Microscope Lens for Pi
 description: 100X Industrial Microscope Lens, C/CS-Mount, Compatible With Raspberry
   Pi HQ Camera
+status: ''
 extra:
   Price: $14.31  -  $14.99
   SKU: '24229'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/100x-microscope-lens-for-pi-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/100x-microscope-lens-for-pi.htm
-  repositories: []
-name: 100X Microscope Lens for Pi
-ref: waveshare/100x-microscope-lens-for-pi
-release_date: null
-sku: 100x-microscope-lens-for-pi
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/100x-microscope-lens-for-pi-1.jpg

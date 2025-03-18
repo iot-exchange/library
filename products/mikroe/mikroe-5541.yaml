@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5541
+ref: mikroe/mikroe-5541
+vendor: mikroe
+sku: mikroe-5541
+name: MIKROE-5541
 description: RTC 21 Click is a compact add-on board that accurately keeps the time
   of the day. This board features the PT7C4311, an I2C-configurable real-time clock
   module with programmable square-wave output from Diodes Incorporated. The PT7C4311
   includes time and calendar functions providing various information such as hour,
   minute, second, day, date, month, year,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/rtc-21-click/rtc-21-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/rtc-21-click
-  repositories: []
-name: MIKROE-5541
-ref: mikroe/mikroe-5541
-release_date: null
-sku: mikroe-5541
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rtc-21-click/rtc-21-click-home_default-1.jpg?v=100

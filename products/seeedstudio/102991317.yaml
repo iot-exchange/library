@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '102991317'
+ref: seeedstudio/102991317
+vendor: seeedstudio
+sku: '102991317'
+name: '102991317'
 description: Raspberry Pi 4 Computer Model B 2GB V1.2 Raspberry Pi 4 Model B is the
   latest product in the popular Raspberry Pi range of computers. It offers ground-breaking
   increases in processor speed, multimedia performance, memory, and connectivity compared
   to the prior-generation Raspberry Pi 3 Model B+. TELEC certificated.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991317_2_.png
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-4-Computer-Model-B-2GB-V1-2-p-4299.html
-  repositories: []
-name: '102991317'
-ref: seeedstudio/102991317
-release_date: null
-sku: '102991317'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991317_2_.png

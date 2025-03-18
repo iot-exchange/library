@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: cs8900a-h
+ref: olimex/cs8900a-h
+vendor: olimex
+sku: cs8900a-h
+name: CS8900A-H
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Ethernet/CS8900A-H/images/thumbs/200x150/CS8900A-H-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Ethernet/CS8900A-H/
-  repositories: []
-name: CS8900A-H
-ref: olimex/cs8900a-h
-release_date: null
-sku: cs8900a-h
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Ethernet/CS8900A-H/images/thumbs/200x150/CS8900A-H-01.jpg

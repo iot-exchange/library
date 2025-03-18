@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: st3025-servo
+ref: waveshare/st3025-servo
+vendor: waveshare
+sku: st3025-servo
+name: ST3025 Servo
 description: 40kg.cm Metal Serial Bus Servo, High Precision And Large Torque, With
   Programmable 360 Degrees Magnetic Encoder and Brushless Motor
+status: ''
 extra:
   Price: $77.95  -  $79.99
   SKU: '24702'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/st3025-servo-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/st3025-servo.htm
   - https://www.waveshare.com/product/st3025-servo.htm "40kg.cm Metal Serial Bus Servo,
     High Precision And Large Torque, With Programmable 360 Degrees Magnetic Encoder
     and Brushless Motor"
-  repositories: []
-name: ST3025 Servo
-ref: waveshare/st3025-servo
-release_date: null
-sku: st3025-servo
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/st3025-servo-1.jpg

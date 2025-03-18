@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: psu-27w-usb-c-b
+ref: waveshare/psu-27w-usb-c-b
+vendor: waveshare
+sku: psu-27w-usb-c-b
+name: psu_27w_usb_c_b
 description: 27W USB Type-C Power Supply Type B, PD Power Supply, Options For US /
   EU / UK Plugs, 1.2m cable length, Raspberry Pi 5 Power Supply
+status: ''
 extra:
   Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/s/psu-27w-usb-c-us-b-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/psu-27w-usb-c-b.htm "27W USB Type-C Power Supply
     Type B, PD Power Supply, Options For US / EU / UK Plugs, 1.2m cable length, Raspberry
     Pi 5 Power Supply"
-  repositories: []
-name: psu_27w_usb_c_b
-ref: waveshare/psu-27w-usb-c-b
-release_date: null
-sku: psu-27w-usb-c-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/s/psu-27w-usb-c-us-b-2.jpg

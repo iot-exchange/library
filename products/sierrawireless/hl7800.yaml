@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: hl7800
+ref: sierrawireless/hl7800
+vendor: sierrawireless
+sku: hl7800
+name: HL7800
 description: Release 13 Cat-M1 / Cat-NB1
+status: ''
 extra:
   Bands: 'LTE: B1, B2, B3, B4, B5, B8, B9, B10, B12, B13, B17, B18, B19, B20, B25,
     B26, B27, B28, B66'
@@ -8,17 +12,6 @@ extra:
   Region (Carrier): Global (AT&T, Verizon, Sprint, SouthernLINC, Rogers, Telus, NTT
     Docomo, KDDI, Vodafone, Deutsche Telekom, Telstra, Spark, Semtech)
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.sierrawireless.com/iot-modules/lpwa-modules/hl7800/
-  repositories: []
-name: HL7800
-ref: sierrawireless/hl7800
-release_date: null
-sku: hl7800
-spec: null
-status: ''
-vendor: sierrawireless
+  images: []

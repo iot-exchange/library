@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: vc6312tf
+ref: vertexcom/vc6312tf
+vendor: vertexcom
+sku: vc6312tf
+name: VC6312TF
 description: G3-PLC, IEEE P1901.2, ITU-T G.hnem
+status: ''
 extra:
   Body Size(mm): 7x7
   Flash: 2 MB
@@ -8,17 +12,6 @@ extra:
   SDRAM: 2 MB
   Standards: G3-PLC, IEEE P1901.2, ITU-T G.hnem
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - http://www.vertexcom.com/doc/VC631X_Product_Brief_V1.0.pdf
-  repositories: []
-name: VC6312TF
-ref: vertexcom/vc6312tf
-release_date: null
-sku: vc6312tf
-spec: null
-status: ''
-vendor: vertexcom
+  images: []

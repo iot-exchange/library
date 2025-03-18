@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 14-portable-monitor
+ref: waveshare/14-portable-monitor
+vendor: waveshare
+sku: 14-portable-monitor
+name: "14\u2033 Portable Monitor"
 description: "Luckfox 14inch Portable Monitor With Stand, IPS screen, Mini HDMI Interface,\
   \ 1920 \xD7 1200 Full HD, 178\xB0 Viewing Angle, ABS Case, Supports HDR, No Touch"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/14inch-portable-monitor.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/4/14inch-portable-monitor-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/4/14inch-portable-monitor-2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/14inch-portable-monitor.htm
-  repositories: []
-name: "14\u2033 Portable Monitor"
-ref: waveshare/14-portable-monitor
-release_date: null
-sku: 14-portable-monitor
-spec: null
-status: ''
-vendor: waveshare

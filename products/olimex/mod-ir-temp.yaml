@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-ir-temp
+ref: olimex/mod-ir-temp
+vendor: olimex
+sku: mod-ir-temp
+name: MOD-IR-TEMP
 description: ''
+status: ''
 extra:
   bulkPrice: 7.96 EUR
   discountedPrice: 8.96 EUR
   price: 9.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Sensors/MOD-IR-TEMP/images/thumbs/200x150/MOD-IR-TEMP.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Sensors/MOD-IR-TEMP/open-source-hardware
-  repositories: []
-name: MOD-IR-TEMP
-ref: olimex/mod-ir-temp
-release_date: null
-sku: mod-ir-temp
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Sensors/MOD-IR-TEMP/images/thumbs/200x150/MOD-IR-TEMP.jpg

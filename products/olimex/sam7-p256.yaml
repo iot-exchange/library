@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: sam7-p256
+ref: olimex/sam7-p256
+vendor: olimex
+sku: sam7-p256
+name: SAM7-P256
 description: ''
+status: ''
 extra:
   price1: 29.95 EUR
   price2: 26.96 EUR
   price3: 23.96 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/Atmel/SAM7-P256/images/thumbs/200x150/SAM7-P256-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/Atmel/SAM7-P256/
-  repositories: []
-name: SAM7-P256
-ref: olimex/sam7-p256
-release_date: null
-sku: sam7-p256
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/Atmel/SAM7-P256/images/thumbs/200x150/SAM7-P256-01.jpg

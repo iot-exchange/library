@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: analog-test-board
+ref: waveshare/analog-test-board
+vendor: waveshare
+sku: analog-test-board
+name: Analog Test Board
 description: Analog Test Board
+status: ''
 extra:
   Price: $4.29 - $4.99
   SKU: '3972'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/n/analog-test-board_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/analog-test-board.htm
-  repositories: []
-name: Analog Test Board
-ref: waveshare/analog-test-board
-release_date: null
-sku: analog-test-board
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/n/analog-test-board_l_1_5.jpg

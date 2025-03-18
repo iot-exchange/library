@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '102991441'
+ref: seeedstudio/102991441
+vendor: seeedstudio
+sku: '102991441'
+name: '102991441'
 description: Raspberry Pi Compute Module 4 - 8GB RAM, 32GB eMMC, 2.4/5.0GHz Wi-Fi
   & Bluetooth 5.0 (CM4108032)
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991421_preview-07_2_1.png
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-Compute-Module-CM4108032-p-5220.html
-  repositories: []
-name: '102991441'
-ref: seeedstudio/102991441
-release_date: null
-sku: '102991441'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991421_preview-07_2_1.png

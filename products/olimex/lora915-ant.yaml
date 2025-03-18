@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: lora915-ant
+ref: olimex/lora915-ant
+vendor: olimex
+sku: lora915-ant
+name: LoRa915-ANT
 description: ''
+status: ''
 extra:
   100+ pcs: 7.68 EUR
   1000+ pcs: 7.36 EUR
   50+ pcs: 7.84 EUR
   500+ pcs: 7.52 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/LoRa/LoRa915/images/thumbs/200x150/LoRa915-.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/LoRa/LoRa915-ANT/open-source-hardware
-  repositories: []
-name: LoRa915-ANT
-ref: olimex/lora915-ant
-release_date: null
-sku: lora915-ant
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/LoRa/LoRa915/images/thumbs/200x150/LoRa915-.jpg

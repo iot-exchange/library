@@ -1,0 +1,13 @@
+id: ds3604
+ref: milesight/ds3604
+vendor: milesight
+sku: ds3604
+name: DS3604
+description: IoT E-ink Display
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/iot-display/ds3604
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/display/lorawan-iot-e-ink-display.png?t=1742198585390

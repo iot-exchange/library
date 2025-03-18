@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: vc7351
+ref: vertexcom/vc7351
+vendor: vertexcom
+sku: vc7351
+name: VC7351
 description: VC7351 (compliant to Wi-SUN FAN1.1) supports large-scale industrial IoT
   applications such as smart metering.
+status: ''
 extra:
   Body Size(mm): 8x8
   Flash: 1 MB
   Package: QFN-68
   RAM: 128 KB
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - http://www.vertexcom.com/doc/VC7300-Series_Product_Brief_V1.2.pdf
-  repositories: []
-name: VC7351
-ref: vertexcom/vc7351
-release_date: null
-sku: vc7351
-spec: null
-status: ''
-vendor: vertexcom
+  images: []

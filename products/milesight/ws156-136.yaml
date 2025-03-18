@@ -1,0 +1,13 @@
+id: ws156-136
+ref: milesight/ws156-136
+vendor: milesight
+sku: ws156-136
+name: WS156/136
+description: Smart Scene Panel
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/ws156
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/smart-workplace-cowork-series/smart-scene-panel-ws136-ws156.png?t=1742198585390

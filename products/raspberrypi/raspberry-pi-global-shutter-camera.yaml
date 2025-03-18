@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-global-shutter-camera
+ref: raspberrypi/raspberry-pi-global-shutter-camera
+vendor: raspberrypi
+sku: raspberry-pi-global-shutter-camera
+name: Raspberry Pi Global Shutter Camera
 description: A specialised camera for fast motion photography and machine vision applications
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/a93e3fee80a71eed354f940fa0b6e828/3f4ea/11a04b6b-e216-4e01-8c52-ea6c7746ce1f_GS_CAM_HERO%2B(1).jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/raspberry-pi-global-shutter-camera/
-  repositories: []
-name: Raspberry Pi Global Shutter Camera
-ref: raspberrypi/raspberry-pi-global-shutter-camera
-release_date: null
-sku: raspberry-pi-global-shutter-camera
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/a93e3fee80a71eed354f940fa0b6e828/3f4ea/11a04b6b-e216-4e01-8c52-ea6c7746ce1f_GS_CAM_HERO%2B(1).jpg

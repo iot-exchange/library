@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: header-1x40-green
+ref: olimex/header-1x40-green
+vendor: olimex
+sku: header-1x40-green
+name: HEADER-1X40-GREEN
 description: ''
+status: ''
 extra:
   price1: 1.00 EUR
   price2: 0.95 EUR
   price3: 0.90 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Breadboarding/HEADER-1X40-BLACK/images/thumbs/200x150/header-1x40.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Breadboarding/HEADER-1X40-GREEN/
-  repositories: []
-name: HEADER-1X40-GREEN
-ref: olimex/header-1x40-green
-release_date: null
-sku: header-1x40-green
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Breadboarding/HEADER-1X40-BLACK/images/thumbs/200x150/header-1x40.jpg

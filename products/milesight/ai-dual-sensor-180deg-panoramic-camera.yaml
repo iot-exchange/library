@@ -1,0 +1,12 @@
+id: ai-dual-sensor-180deg-panoramic-camera
+ref: milesight/ai-dual-sensor-180deg-panoramic-camera
+vendor: milesight
+sku: ai-dual-sensor-180deg-panoramic-camera
+name: "AI Dual-sensor 180\xB0 Panoramic Camera"
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/security/product/ai-dual-sensor-panoramic
+  images: []

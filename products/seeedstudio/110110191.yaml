@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '110110191'
+ref: seeedstudio/110110191
+vendor: seeedstudio
+sku: '110110191'
+name: '110110191'
 description: "reComputer Industrial J4012- Fanless Edge AI Device with Jetson Orin\u2122\
   \ NX 16GB features NVIDIA Jetson Orin\u2122 NX 16GB module for 100 TOPS AI performance\
   \ and supports hybrid connectivities including 2 RJ-45 Ethernet ports, 1 RS232/422/485\
   \ & CAN port, etc. Fanless with versatile mounting options allows deployment for\
   \ more harsh environments and heavier loads."
+status: ''
 extra:
   Price: $1,199.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110110191.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/reComputer-Industrial-J4012-p-5684.html
-  repositories: []
-name: '110110191'
-ref: seeedstudio/110110191
-release_date: null
-sku: '110110191'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110110191.jpg

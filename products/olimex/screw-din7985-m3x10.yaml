@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: screw-din7985-m3x10
+ref: olimex/screw-din7985-m3x10
+vendor: olimex
+sku: screw-din7985-m3x10
+name: SCREW-DIN7985-M3x10
 description: Pack of 10 pcs
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Fasteners/SCREW-DIN7985-M3x10/images/thumbs/200x150/DIN7985-P.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Fasteners/SCREW-DIN7985-M3x10/
-  repositories: []
-name: SCREW-DIN7985-M3x10
-ref: olimex/screw-din7985-m3x10
-release_date: null
-sku: screw-din7985-m3x10
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Fasteners/SCREW-DIN7985-M3x10/images/thumbs/200x150/DIN7985-P.jpg

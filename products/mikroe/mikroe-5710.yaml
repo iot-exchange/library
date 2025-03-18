@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5710
+ref: mikroe/mikroe-5710
+vendor: mikroe
+sku: mikroe-5710
+name: MIKROE-5710
 description: LTE Active FPC Antenna (W3907B0100) is a reliable and durable flat patch
   antenna for wireless communication systems, particularly LTE (Long-Term Evolution)
   networks. It is designed to transmit and receive LTE signals effectively, ensuring
   reliable and high-quality wireless connectivity. With a compact size of 110.7X20.4mm,
   frequency range of 698-3600MHz,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/lte-active-fpc-antenna/lte-active-fpc-antenna-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/lte-active-fpc-antenna
-  repositories: []
-name: MIKROE-5710
-ref: mikroe/mikroe-5710
-release_date: null
-sku: mikroe-5710
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lte-active-fpc-antenna/lte-active-fpc-antenna-home_default-1.jpg?v=100

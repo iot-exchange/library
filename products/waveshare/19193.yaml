@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '19193'
+ref: waveshare/19193
+vendor: waveshare
+sku: '19193'
+name: '19193'
 description: Dedicated Cooling Fan for Compute Module 4 IO Board, PWM Speed Adjustment
+status: ''
 extra:
   Price: $2.35 - $2.69
   SKU: '19193'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/a/fan-4010-pwm-12v-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/fan-4010-pwm-12v.htm
-  repositories: []
-name: '19193'
-ref: waveshare/19193
-release_date: null
-sku: '19193'
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/a/fan-4010-pwm-12v-1.jpg

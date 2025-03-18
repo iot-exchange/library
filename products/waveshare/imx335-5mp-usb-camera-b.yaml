@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: imx335-5mp-usb-camera-b
+ref: waveshare/imx335-5mp-usb-camera-b
+vendor: waveshare
+sku: imx335-5mp-usb-camera-b
+name: IMX335 5MP USB Camera (B)
 description: IMX335 5MP USB Camera (B), 2K Video Recording, Better Sensitivity In
   Low-Light Condition, Wide Dynamic Range
+status: ''
 extra:
   Price: $38.97 - $39.99
   SKU: '26719'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx335-5mp-usb-camera-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/imx335-5mp-usb-camera-b.htm
-  repositories: []
-name: IMX335 5MP USB Camera (B)
-ref: waveshare/imx335-5mp-usb-camera-b
-release_date: null
-sku: imx335-5mp-usb-camera-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx335-5mp-usb-camera-b-1.jpg

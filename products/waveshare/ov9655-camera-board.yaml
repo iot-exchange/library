@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: ov9655-camera-board
+ref: waveshare/ov9655-camera-board
+vendor: waveshare
+sku: ov9655-camera-board
+name: OV9655 Camera Board
 description: $10.29  -  $11.99
+status: ''
 extra:
   Part No.: OV9655 Camera Board
   SKU: '6150'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/v/ov9655-camera-board_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ov9655-camera-board.htm
-  repositories: []
-name: OV9655 Camera Board
-ref: waveshare/ov9655-camera-board
-release_date: null
-sku: ov9655-camera-board
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/v/ov9655-camera-board_l_1_5.jpg

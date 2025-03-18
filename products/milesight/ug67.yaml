@@ -1,0 +1,13 @@
+id: ug67
+ref: milesight/ug67
+vendor: milesight
+sku: ug67
+name: UG67
+description: "Outdoor LoRaWAN\xAE Gateway"
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-gateway/ug67
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/gateway/lorawan-outdoor-gateway.png?t=1742198585390

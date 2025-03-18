@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: usb-to-ttl-4-pin-wire
+ref: waveshare/usb-to-ttl-4-pin-wire
+vendor: waveshare
+sku: usb-to-ttl-4-pin-wire
+name: USB to TTL 4-pin Wire
 description: ''
+status: ''
 extra:
   Price: $2.31 - $2.99
   SKU: '7965'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-4-pin-wire_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-to-4-pin-wire.htm
-  repositories: []
-name: USB to TTL 4-pin Wire
-ref: waveshare/usb-to-ttl-4-pin-wire
-release_date: null
-sku: usb-to-ttl-4-pin-wire
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-4-pin-wire_2.jpg

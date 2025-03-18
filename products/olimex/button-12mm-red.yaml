@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: button-12mm-red
+ref: olimex/button-12mm-red
+vendor: olimex
+sku: button-12mm-red
+name: BUTTON-12MM-RED
 description: ''
+status: ''
 extra:
   discountedPrice1: 1.35 EUR
   discountedPrice2: 1.20 EUR
   price: 1.50 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Switches/WATER-PROOF-BUTTONS/images/thumbs/200x150/but-12mm.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Switches/BUTTON-12MM-RED/
-  repositories: []
-name: BUTTON-12MM-RED
-ref: olimex/button-12mm-red
-release_date: null
-sku: button-12mm-red
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Switches/WATER-PROOF-BUTTONS/images/thumbs/200x150/but-12mm.jpg

@@ -1,28 +1,21 @@
-alternatives: []
-certifications: []
+id: esp32-s3-touch-lcd-7
+ref: waveshare/esp32-s3-touch-lcd-7
+vendor: waveshare
+sku: esp32-s3-touch-lcd-7
+name: ESP32-S3-Touch-LCD-7
 description: "ESP32-S3 7inch Capacitive Touch Display Development Board, ESP32 With\
   \ Display, 800\xD7480, 5-point Touch, 32-bit LX7 Dual-core Processor, Supports WiFi\
   \ & Bluetooth"
+status: ''
 extra:
   SKU: '27078'
   price: $34.95 -  $36.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-7-1.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-7-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/esp32-s3-touch-lcd-7.htm
   - "https://www.waveshare.com/product/esp32-s3-touch-lcd-7.htm \"ESP32-S3 7inch Capacitive\
     \ Touch Display Development Board, ESP32 With Display, 800\xD7480, 5-point Touch,\
     \ 32-bit LX7 Dual-core Processor, Supports WiFi & Bluetooth\""
-  repositories: []
-name: ESP32-S3-Touch-LCD-7
-ref: waveshare/esp32-s3-touch-lcd-7
-release_date: null
-sku: esp32-s3-touch-lcd-7
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-7-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-7-2.jpg

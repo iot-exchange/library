@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: rgb-matrix-p4-64x32
+ref: waveshare/rgb-matrix-p4-64x32
+vendor: waveshare
+sku: rgb-matrix-p4-64x32
+name: RGB-Matrix-P4-64x32
 description: "RGB Full-Color LED Matrix Panel, 4mm Pitch, 64\xD732 Pixels, Adjustable\
   \ Brightness"
+status: ''
 extra:
   Price: $17.95 - $19.99
   SKU: '22101'
   price: $17.95 - $19.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb-matrix-p4-64x32-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rgb-matrix-p4-64x32.htm
-  repositories: []
-name: RGB-Matrix-P4-64x32
-ref: waveshare/rgb-matrix-p4-64x32
-release_date: null
-sku: rgb-matrix-p4-64x32
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb-matrix-p4-64x32-1.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-5634
+ref: mikroe/mikroe-5634
+vendor: mikroe
+sku: mikroe-5634
+name: MIKROE-5634
 description: LED Ring 2 Click is a compact add-on board that provides a circular-shaped
   electronic lighting solution. This board features three I2C-configurable high-performance
   LED matrix drivers.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/led-ring-2-click/led-ring-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=3598
   - https://www.mikroe.com/led-ring-2-click
-  repositories: []
-name: MIKROE-5634
-ref: mikroe/mikroe-5634
-release_date: null
-sku: mikroe-5634
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/led-ring-2-click/led-ring-2-click-home_default-1.jpg?v=100

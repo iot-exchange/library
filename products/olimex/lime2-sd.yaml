@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lime2-sd
+ref: olimex/lime2-sd
+vendor: olimex
+sku: lime2-sd
+name: LIME2-SD
 description: ''
+status: ''
 extra:
   discountedPrice1: 2.66 EUR
   discountedPrice2: 2.36 EUR
   price: 2.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/A20/Lime2-SD/images/thumbs/200x150/Lime2-SD.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/A20/LIME2-SD/open-source-hardware
-  repositories: []
-name: LIME2-SD
-ref: olimex/lime2-sd
-release_date: null
-sku: lime2-sd
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A20/Lime2-SD/images/thumbs/200x150/Lime2-SD.jpg

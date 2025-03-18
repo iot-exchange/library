@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: usb-cable-af-am-3m
+ref: olimex/usb-cable-af-am-3m
+vendor: olimex
+sku: usb-cable-af-am-3m
+name: USB-CABLE-AF-AM-3M
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Cables/USB-CABLE-AF-AM-3M/images/thumbs/200x150/CABLE-USB-A-A-MF-3M.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Cables/USB-CABLE-AF-AM-3M/
-  repositories: []
-name: USB-CABLE-AF-AM-3M
-ref: olimex/usb-cable-af-am-3m
-release_date: null
-sku: usb-cable-af-am-3m
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Cables/USB-CABLE-AF-AM-3M/images/thumbs/200x150/CABLE-USB-A-A-MF-3M.jpg

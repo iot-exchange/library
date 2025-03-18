@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 8inch-768x1024-lcd
+ref: waveshare/8inch-768x1024-lcd
+vendor: waveshare
+sku: 8inch-768x1024-lcd
+name: 8inch 768x1024 LCD
 description: "8inch Capacitive Touch Display, 8inch Monitor, 768\xD71024, Toughened\
   \ Glass Panel, HDMI Interface, IPS Panel, 10-Point Touch"
+status: ''
 extra:
   Price: $74.27 - $76.99
   SKU: '27026'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/8/i/8inch-768x1024-lcd-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/8inch-768x1024-lcd.htm
-  repositories: []
-name: 8inch 768x1024 LCD
-ref: waveshare/8inch-768x1024-lcd
-release_date: null
-sku: 8inch-768x1024-lcd
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/8/i/8inch-768x1024-lcd-1.jpg

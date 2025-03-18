@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rvpc
+ref: olimex/rvpc
+vendor: olimex
+sku: rvpc
+name: RVPC
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Retro-Computers/RVPC/images/thumbs/200x150/RVCP-kit.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Retro-Computers/RVPC/open-source-hardware
-  repositories: []
-name: RVPC
-ref: olimex/rvpc
-release_date: null
-sku: rvpc
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Retro-Computers/RVPC/images/thumbs/200x150/RVCP-kit.jpg

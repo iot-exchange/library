@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: arduino-micro
+ref: arduino/arduino-micro
+vendor: arduino
+sku: arduino-micro
+name: Arduino Micro
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.arduino.cc/wiki/static/c632d28837856925bee37218ec6b9915/4b190/micro.jpg
-  models: []
   products:
   - https://store.arduino.cc/products/arduino-micro
-  repositories: []
-name: Arduino Micro
-ref: arduino/arduino-micro
-release_date: null
-sku: arduino-micro
-spec: null
-status: ''
-vendor: arduino
+  images:
+  - https://www.arduino.cc/wiki/static/c632d28837856925bee37218ec6b9915/4b190/micro.jpg

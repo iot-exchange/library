@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: esp32-c3-zero
+ref: waveshare/esp32-c3-zero
+vendor: waveshare
+sku: esp32-c3-zero
+name: esp32_c3_zero
 description: ESP32-C3 Mini Development Board, Based on ESP32-C3FN4 Single-core Processor,
   160MHz Running Frequency, 2.4GHz Wi-Fi & Bluetooth 5
+status: ''
 extra:
   Price: $3.49 - $4.49
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/esp32-c3-zero.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-c3-zero-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-c3-zero-2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/esp32-c3-zero.htm
-  repositories: []
-name: esp32_c3_zero
-ref: waveshare/esp32-c3-zero
-release_date: null
-sku: esp32-c3-zero
-spec: null
-status: ''
-vendor: waveshare

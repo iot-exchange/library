@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: cc2652p
+ref: ti/cc2652p
+vendor: ti
+sku: cc2652p
+name: CC2652P
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ti.com/product/CC2652P
-  repositories: []
-name: CC2652P
-ref: ti/cc2652p
-release_date: null
-sku: cc2652p
-spec: null
-status: ''
-vendor: ti
+  images: []

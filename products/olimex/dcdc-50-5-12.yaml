@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: dcdc-50-5-12
+ref: olimex/dcdc-50-5-12
+vendor: olimex
+sku: dcdc-50-5-12
+name: DCDC-50-5-12
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Power/DCDC-50-5-12/images/thumbs/200x150/DCDC-50-5-12-w.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Power/DCDC-50-5-12/open-source-hardware
-  repositories: []
-name: DCDC-50-5-12
-ref: olimex/dcdc-50-5-12
-release_date: null
-sku: dcdc-50-5-12
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Power/DCDC-50-5-12/images/thumbs/200x150/DCDC-50-5-12-w.jpg

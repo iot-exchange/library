@@ -1,0 +1,16 @@
+id: beaglebone-r-black
+ref: beagleboard/beaglebone-r-black
+vendor: beagleboard
+sku: beaglebone-r-black
+name: "BeagleBone\xAE Black"
+description: "1GHz Single-Board Linux Computer based on ARM Cortex-A8 with PRU microcontrollers\
+  \ and tons of features like Ethernet and HDMI \u2013 credit card sized with over\
+  \ a decade of support, software and materials behind it making it ready for any\
+  \ application."
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.beagleboard.org/boards/beaglebone-black
+  images:
+  - https://www.beagleboard.org/app/uploads/2023/07/DSC00505-400x345.webp

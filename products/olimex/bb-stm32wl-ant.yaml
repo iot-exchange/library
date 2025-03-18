@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: bb-stm32wl-ant
+ref: olimex/bb-stm32wl-ant
+vendor: olimex
+sku: bb-stm32wl-ant
+name: BB-STM32WL-ANT
 description: ''
+status: ''
 extra:
   100+ pcs: 8.45 EUR
   1000+ pcs: 8.10 EUR
   50+ pcs: 8.62 EUR
   500+ pcs: 8.27 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/LoRa/BB-STM32WL/images/thumbs/200x150/BB-STM32WL.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/LoRa/BB-STM32WL-ANT/
-  repositories: []
-name: BB-STM32WL-ANT
-ref: olimex/bb-stm32wl-ant
-release_date: null
-sku: bb-stm32wl-ant
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/LoRa/BB-STM32WL/images/thumbs/200x150/BB-STM32WL.jpg

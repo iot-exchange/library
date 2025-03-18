@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: wanesy-wave
+ref: kerlink/wanesy-wave
+vendor: kerlink
+sku: wanesy-wave
+name: Wanesy Wave
 description: The Wanesy Wave is a multi-purpose powered anchor, combining Wi-Fi, BLE
   and LoRaWAN, for use cases like asset tracking and inventory, sensors data collection,
   people counting or contact tracing.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.kerlink.com/wp-content/uploads/2020/05/Wanesy-Wave-3-340x340.png
-  models: []
   products:
   - https://www.kerlink.com/product/wanesy-wave/
-  repositories: []
-name: Wanesy Wave
-ref: kerlink/wanesy-wave
-release_date: null
-sku: wanesy-wave
-spec: null
-status: ''
-vendor: kerlink
+  images:
+  - https://www.kerlink.com/wp-content/uploads/2020/05/Wanesy-Wave-3-340x340.png

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-5321
+ref: mikroe/mikroe-5321
+vendor: mikroe
+sku: mikroe-5321
+name: MIKROE-5321
 description: 'CODEGRIP for AVR is a fast USB-C and WiFi programmer and hardware debugger.
   It supports AVR based MCUs. The package contains: Damage resistant protective box
   CODEGRIP for AVR WiFi Antenna right angle SMA User Manual USB-C cable USB-C Female
   to USB-A Male Adapter Flat Cable with 10-pin 0.10" pitch female connectors.'
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/codegrip-for-avr/codegrip-for-avr-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/codegrip-for-avr
-  repositories: []
-name: MIKROE-5321
-ref: mikroe/mikroe-5321
-release_date: null
-sku: mikroe-5321
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/codegrip-for-avr/codegrip-for-avr-home_default-1.jpg?v=100

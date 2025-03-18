@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '114991485'
+ref: seeedstudio/114991485
+vendor: seeedstudio
+sku: '114991485'
+name: '114991485'
 description: 'The Multi-ranger deck gives the Crazyflie 2.X the ability to detect
   objects around it. This is done by measuring the distance to objects in the following
   5 directions: front/back/left/right/up with mm precision up to 4 meters.'
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/m/u/multi-ranger_deck_1200px-1_1024x1024.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Crazyflie-2-0-Multi-ranger-deck-p-2940.html
-  repositories: []
-name: '114991485'
-ref: seeedstudio/114991485
-release_date: null
-sku: '114991485'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/m/u/multi-ranger_deck_1200px-1_1024x1024.jpg

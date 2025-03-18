@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: flash-e32gs16m
+ref: olimex/flash-e32gs16m
+vendor: olimex
+sku: flash-e32gs16m
+name: Flash-e32Gs16M
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/Accessories/Flash-e32Gs16M/images/thumbs/200x150/Flash-e16Gs16M-1w.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/Accessories/Flash-e32Gs16M/
-  repositories: []
-name: Flash-e32Gs16M
-ref: olimex/flash-e32gs16m
-release_date: null
-sku: flash-e32gs16m
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/Accessories/Flash-e32Gs16M/images/thumbs/200x150/Flash-e16Gs16M-1w.jpg

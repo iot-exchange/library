@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: fg360-jp
+ref: fibocom/fg360-jp
+vendor: fibocom
+sku: fg360-jp
+name: FG360-JP
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/5G-FG360-JP.html
-  repositories: []
-name: FG360-JP
-ref: fibocom/fg360-jp
-release_date: null
-sku: fg360-jp
-spec: null
-status: ''
-vendor: fibocom
+  images: []

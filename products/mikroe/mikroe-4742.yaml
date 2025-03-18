@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4742
+ref: mikroe/mikroe-4742
+vendor: mikroe
+sku: mikroe-4742
+name: MIKROE-4742
 description: Brushless 16 Click is a compact add-on board suitable for controlling
   BLDC motors with any MCU. This board features the LB11685AV, a three-phase full-wave
   current-linear-drive motor driver from onsemi. It adopts a sensorless control system
   without the use of a Hall Effect device. The LB11685AV features a current soft switching
   circuit for quieter...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/brushless-16-click/brushless-16-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=78#Brushless-16-Click
-  repositories: []
-name: MIKROE-4742
-ref: mikroe/mikroe-4742
-release_date: null
-sku: mikroe-4742
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/brushless-16-click/brushless-16-click-home_default-1.jpg?v=100

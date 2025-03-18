@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-5975
+ref: mikroe/mikroe-5975
+vendor: mikroe
+sku: mikroe-5975
+name: MIKROE-5975
 description: Rotary R 2 Click is a compact add-on board that allows you to add a precision
   input knob to your design. This board features the TLC5925, a low-power 16-channel
   constant-current LED sink driver from Texas Instruments.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/rotary-r-2-click/rotary-r-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/rotary-r-2-click
-  repositories: []
-name: MIKROE-5975
-ref: mikroe/mikroe-5975
-release_date: null
-sku: mikroe-5975
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rotary-r-2-click/rotary-r-2-click-home_default-1.jpg?v=100

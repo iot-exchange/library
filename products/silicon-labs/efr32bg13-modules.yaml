@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: efr32bg13-modules
+ref: silicon-labs/efr32bg13-modules
+vendor: silicon-labs
+sku: efr32bg13-modules
+name: EFR32BG13 Modules
 description: Bluetooth Low Energy EFR32BG13 Based Modules (Series 1)
+status: ''
 extra:
   Core: ARM Cortex-M4
   Flash (KB): '512'
@@ -9,17 +13,6 @@ extra:
   Security: ''
   TX Current @ 0 dBm: '19'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/wireless/bluetooth/efr32bg13-series-1-modules
-  repositories: []
-name: EFR32BG13 Modules
-ref: silicon-labs/efr32bg13-modules
-release_date: null
-sku: efr32bg13-modules
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

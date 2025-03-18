@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: usb-gamepad
+ref: olimex/usb-gamepad
+vendor: olimex
+sku: usb-gamepad
+name: USB-GAMEPAD
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Retro-Computers/USB-GAMEPAD/images/thumbs/200x150/USB-GAMEPAD-w.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Retro-Computers/USB-GAMEPAD/
-  repositories: []
-name: USB-GAMEPAD
-ref: olimex/usb-gamepad
-release_date: null
-sku: usb-gamepad
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Retro-Computers/USB-GAMEPAD/images/thumbs/200x150/USB-GAMEPAD-w.jpg

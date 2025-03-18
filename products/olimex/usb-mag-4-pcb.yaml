@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: usb-mag-4-pcb
+ref: olimex/usb-mag-4-pcb
+vendor: olimex
+sku: usb-mag-4-pcb
+name: USB-MAG-4-PCB
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Cables/USB-MAG-4-PCB/images/thumbs/200x150/USb-MAG-4-PCB.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Cables/USB-MAG-4-PCB/
-  repositories: []
-name: USB-MAG-4-PCB
-ref: olimex/usb-mag-4-pcb
-release_date: null
-sku: usb-mag-4-pcb
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Cables/USB-MAG-4-PCB/images/thumbs/200x150/USb-MAG-4-PCB.jpg

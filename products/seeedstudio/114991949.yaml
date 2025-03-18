@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '114991949'
+ref: seeedstudio/114991949
+vendor: seeedstudio
+sku: '114991949'
+name: '114991949'
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114991949-1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/USB-Isolator-p-4098.html
-  repositories: []
-name: '114991949'
-ref: seeedstudio/114991949
-release_date: null
-sku: '114991949'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114991949-1.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5999
+ref: mikroe/mikroe-5999
+vendor: mikroe
+sku: mikroe-5999
+name: MIKROE-5999
 description: "6DOF IMU 23 Click is a compact add-on board for precise motion tracking\
   \ and measurement. This board features the IIM-20670, a high-performance 6-axis\
   \ MotionTracking device from TDK InvenSense that integrates a 3-axis gyroscope and\
   \ a 3-axis accelerometer. The gyroscope offers a full-scale range of up to \xB1\
   1966 dps with high accuracy, while the accelerometer..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/6dof-imu-23-click/6dof-imu-23-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/6dof-imu-23-click
-  repositories: []
-name: MIKROE-5999
-ref: mikroe/mikroe-5999
-release_date: null
-sku: mikroe-5999
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/6dof-imu-23-click/6dof-imu-23-click-home_default-1.jpg?v=100

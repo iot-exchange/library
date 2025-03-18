@@ -1,0 +1,13 @@
+id: ur32s
+ref: milesight/ur32s
+vendor: milesight
+sku: ur32s
+name: UR32S
+description: Special Version for Camera UR32S 4G Industrial Router Remote Batch Management
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/product/ur32s-cctv-router
+  images:
+  - https://www.milesight.com/static/pc/en/product/center/5g-cellular-products/index/ur32s-router.png?t=1742198692607

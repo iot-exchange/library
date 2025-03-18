@@ -1,0 +1,12 @@
+id: milesight-openvision-dome-camera
+ref: milesight/milesight-openvision-dome-camera
+vendor: milesight
+sku: milesight-openvision-dome-camera
+name: Milesight OpenVision Dome Camera
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/security/product/openvision-camera
+  images: []

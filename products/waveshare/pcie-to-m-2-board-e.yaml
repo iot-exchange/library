@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: pcie-to-m-2-board-e
+ref: waveshare/pcie-to-m-2-board-e
+vendor: waveshare
+sku: pcie-to-m-2-board-e
+name: PCIe TO M.2 Board (E)
 description: PCIe To M.2 Adapter Board (E) For Raspberry Pi 5, With Cooling Fan, Compatible
   With 2242 / 2230 Size NVMe Protocol M.2 SSD, High-speed Reading/Writing, Raspberry
   Pi 5 NVMe
+status: ''
 extra:
   Price: $12.31 -  $12.99
   SKU: '28013'
   price: $12.31  -  $12.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-m.2-board-e-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pcie-to-m.2-board-e.htm
-  repositories: []
-name: PCIe TO M.2 Board (E)
-ref: waveshare/pcie-to-m-2-board-e
-release_date: null
-sku: pcie-to-m-2-board-e
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-m.2-board-e-1.jpg

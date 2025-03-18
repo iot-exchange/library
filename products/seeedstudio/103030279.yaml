@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '103030279'
+ref: seeedstudio/103030279
+vendor: seeedstudio
+sku: '103030279'
+name: '103030279'
 description: 4-Channel 16-Bit ADC for Raspberry Pi (ADS1115)
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/p/e/perspective_3.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/4-Channel-16-Bit-ADC-for-Raspberry-Pi-ADS1115.html
-  repositories: []
-name: '103030279'
-ref: seeedstudio/103030279
-release_date: null
-sku: '103030279'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/p/e/perspective_3.jpg

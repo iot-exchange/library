@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: brblu03-010a0
+ref: ezurio/brblu03-010a0
+vendor: ezurio
+sku: brblu03-010a0
+name: BRBLU03-010A0
 description: USB Bluetooth Adapter
+status: ''
 extra:
   2MPHY: ''
   802.15.4 / Matter / Thread: ''
@@ -8,18 +12,7 @@ extra:
   Classic BT: ''
   LE Long Range: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/LairdDongle.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-20-21-and-30-modules/brblu03-010a0-usb-bluetooth-adapter
-  repositories: []
-name: BRBLU03-010A0
-ref: ezurio/brblu03-010a0
-release_date: null
-sku: brblu03-010a0
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/LairdDongle.png

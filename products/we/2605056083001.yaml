@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '2605056083001'
+ref: we/2605056083001
+vendor: we
+sku: '2605056083001'
+name: '2605056083001'
 description: Metis-I Stick
+status: Active i
 extra:
   Expected lifetime: '>10 years.'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/METIS-I#2605056083001
-  repositories: []
-name: '2605056083001'
-ref: we/2605056083001
-release_date: null
-sku: '2605056083001'
-spec: null
-status: Active i
-vendor: we
+  images: []

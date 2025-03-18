@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: esp32-c6-zero
+ref: waveshare/esp32-c6-zero
+vendor: waveshare
+sku: esp32-c6-zero
+name: esp32_c6_zero
 description: ESP32-C6 Mini Development Board, Based on ESP32-C6FH4, Dual Processors,
   160MHz Running Frequency, 2.4GHz WiFi 6 & Bluetooth 5, ESP32 Development Board
+status: ''
 extra:
   Price: $4.99 - $5.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-c6-zero-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/esp32-c6-zero.htm
-  repositories: []
-name: esp32_c6_zero
-ref: waveshare/esp32-c6-zero
-release_date: null
-sku: esp32-c6-zero
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-c6-zero-1.jpg

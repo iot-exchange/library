@@ -1,0 +1,14 @@
+id: uc300
+ref: milesight/uc300
+vendor: milesight
+sku: uc300
+name: UC300
+description: 4G IoT Controller UC300 Rich Industrial Interfaces
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/iot-controller/uc300
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/control/iot-controller-uc300.png?t=1742198585390
+  - https://www.milesight.com/static/pc/en/product/center/5g-cellular-products/index/uc300-controller.png?t=1742198692607

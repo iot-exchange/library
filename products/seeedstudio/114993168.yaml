@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '114993168'
+ref: seeedstudio/114993168
+vendor: seeedstudio
+sku: '114993168'
+name: '114993168'
 description: A Leather Keychain for SenseCAP T1000 Tracker, providing both functionality
   and style, enhancing the usability and convenience of the tracker.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993168-leather-keychain-45font_4.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Leather-Keychain-p-5769.html
-  repositories: []
-name: '114993168'
-ref: seeedstudio/114993168
-release_date: null
-sku: '114993168'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993168-leather-keychain-45font_4.jpg

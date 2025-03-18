@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: jetson-orin-nano-developer-kit
+ref: waveshare/jetson-orin-nano-developer-kit
+vendor: waveshare
+sku: jetson-orin-nano-developer-kit
+name: Jetson Orin Nano Developer Kit
 description: N-VIDIA Jetson Orin Nano AI Development Kit for Embedded and Edge Systems,
   with 8GB Memory Jetson Orin Nano Module
+status: ''
 extra:
   Price: $499.99
   SKU: '24435'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-orin-nano-developer-kit-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/jetson-orin-nano-developer-kit.htm
-  repositories: []
-name: Jetson Orin Nano Developer Kit
-ref: waveshare/jetson-orin-nano-developer-kit
-release_date: null
-sku: jetson-orin-nano-developer-kit
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-orin-nano-developer-kit-1.jpg

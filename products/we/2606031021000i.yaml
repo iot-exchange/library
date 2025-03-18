@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 2606031021000i
+ref: we/2606031021000i
+vendor: we
+sku: 2606031021000i
+name: 2606031021000i
 description: Thalassa with integrated antenna
+status: NRND
 extra:
   Current Consumption: '500'
   Data Rate: '2.7'
@@ -12,17 +16,6 @@ extra:
   Sensitivity: '-6'
   Supply Voltage: '3.6'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/components/products/datasheet/2606031021000.pdf
-  repositories: []
-name: 2606031021000i
-ref: we/2606031021000i
-release_date: null
-sku: 2606031021000i
-spec: null
-status: NRND
-vendor: we
+  images: []

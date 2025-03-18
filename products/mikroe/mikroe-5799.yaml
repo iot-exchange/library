@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5799
+ref: mikroe/mikroe-5799
+vendor: mikroe
+sku: mikroe-5799
+name: MIKROE-5799
 description: "Dual Smart USB Charger \u2013 your gateway to efficient and versatile\
   \ charging. With a wide voltage range from 3.5V to a robust 36V, this charger, based\
   \ on the MAX20047A from Analog Devices, ensures compatibility with various power\
   \ sources. Achieving an impressive 93% efficiency, delivering up to 3A of charging\
   \ current per port."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/dual-smart-usb-charger/dual-smart-usb-charger-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/dual-smart-usb-charger
-  repositories: []
-name: MIKROE-5799
-ref: mikroe/mikroe-5799
-release_date: null
-sku: mikroe-5799
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dual-smart-usb-charger/dual-smart-usb-charger-home_default-1.jpg?v=100

@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: '101990961'
+ref: seeedstudio/101990961
+vendor: seeedstudio
+sku: '101990961'
+name: '101990961'
 description: SenseCAP S2120 8-in-1 LoRaWAN Weather Sensor provides you with hyperlocal
   weather at your fingertips. It supports multi-scenario applications like backyard,
   garden, agriculture, meteorology, urban environmental monitoring, and so on. It
   enables low maintenance cost for its ultra-low power consumption, reliable performance,
   and built-in Bluetooth for OTA configuration and remote device management.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/f/o/font_5.png
-  - https://www.seeedstudio.com/img/y
-  models: []
   products:
   - https://www.seeedstudio.com/SenseCAP-S2120
   - https://www.seeedstudio.com/sensecap-s2120-lorawan-8-in-1-weather-sensor-p-5436.html
-  repositories: []
-name: '101990961'
-ref: seeedstudio/101990961
-release_date: null
-sku: '101990961'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/f/o/font_5.png
+  - https://www.seeedstudio.com/img/y

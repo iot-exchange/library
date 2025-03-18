@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: usb-to-rs232-485-b
+ref: waveshare/usb-to-rs232-485-b
+vendor: waveshare
+sku: usb-to-rs232-485-b
+name: USB TO RS232/485 (B)
 description: USB to RS232/485 Industrial Grade Isolated Converter, Onboard Original
   FT232RNL Chip, Multiple Protection, Wall-mount and Rail-Mount Support
+status: ''
 extra:
   Price: $14.97 - $15.99
   SKU: '26547'
   price: $14.97 - $15.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-rs232-485-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-to-rs232-485-b.htm
-  repositories: []
-name: USB TO RS232/485 (B)
-ref: waveshare/usb-to-rs232-485-b
-release_date: null
-sku: usb-to-rs232-485-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-rs232-485-b-1.jpg

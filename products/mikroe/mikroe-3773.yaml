@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3773
+ref: mikroe/mikroe-3773
+vendor: mikroe
+sku: mikroe-3773
+name: MIKROE-3773
 description: "BLE 4 Click is fully embedded stand-alone Bluetooth 5.0 low energy connectivity\
   \ module, equipped with the NINA-B312, an ultra-small, high-performing, standalone\
   \ Bluetooth low energy module for easy integration of Bluetooth low energy connectivity\
   \ (BLE) into various electronic devices. This module combines a high-performance\
   \ Arm\xAE Cortex\xAE-M4 CPU..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ble-4-click/ble-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=122#BLE-4-Click
-  repositories: []
-name: MIKROE-3773
-ref: mikroe/mikroe-3773
-release_date: null
-sku: mikroe-3773
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ble-4-click/ble-4-click-home_default-1.jpg?v=100

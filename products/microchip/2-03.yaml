@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 2-03
+ref: microchip/2-03
+vendor: microchip
+sku: 2-03
+name: '2.03'
 description: "dsPIC\xAE DSC"
+status: ''
 extra:
   ADC: PTG+ADC
   CAN: CAN-FD
@@ -15,16 +19,5 @@ extra:
   UART: 3 -UART
   VDD (V): '3.6'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: '2.03'
-ref: microchip/2-03
-release_date: null
-sku: 2-03
-spec: null
-status: ''
-vendor: microchip
+  images: []

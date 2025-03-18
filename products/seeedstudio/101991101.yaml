@@ -1,29 +1,22 @@
-alternatives: []
-certifications: []
+id: '101991101'
+ref: seeedstudio/101991101
+vendor: seeedstudio
+sku: '101991101'
+name: '101991101'
 description: "An IP56 RS485 Air Temp, Humi and Barometric pressure sensor has a wide\
   \ operating range of 0-100% RH, -40 to 125\xB0C, and 300-1100 hPa. It is ideal for\
   \ applications such as smart agriculture, weather monitoring, calculating evapotranspiration,\
   \ mold prevention and more. By integrating this sensor with the SenseCAP S2100 Data\
   \ Logger, users can achieve seamless data collection and management."
+status: ''
 extra:
   application: smart agriculture, weather monitoring
   operatingRange: "0-100% RH, -40 to 125\xB0C, 300-1100 hPa"
   price: $55.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/101990881_all-04_2_1.jpg
-  - https://www.seeedstudio.com/img/al
-  models: []
   products:
   - https://www.seeedstudio.com/RS485-Air-Temperature-Humidity-and-Barometric-Pressure-Sensor
   - https://www.seeedstudio.com/RS485-Air-Temperature-Humidity-and-Pressure-Sensor-p-5801.html
-  repositories: []
-name: '101991101'
-ref: seeedstudio/101991101
-release_date: null
-sku: '101991101'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/101990881_all-04_2_1.jpg
+  - https://www.seeedstudio.com/img/al

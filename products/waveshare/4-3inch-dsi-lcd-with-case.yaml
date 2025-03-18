@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: 4-3inch-dsi-lcd-with-case
+ref: waveshare/4-3inch-dsi-lcd-with-case
+vendor: waveshare
+sku: 4-3inch-dsi-lcd-with-case
+name: 4.3inch DSI LCD (with case)
 description: "4.3inch Capacitive Touch Display for Raspberry Pi, with Protection Case,\
   \ DSI Interface, 800\xD7480"
+status: ''
 extra:
   Price: $41.97 - $42.99
   SKU: '18645'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/_/4.3inch-dsi-lcd-with-holder-6_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/4.3inch-dsi-lcd-with-case.htm
   - "https://www.waveshare.com/product/4.3inch-dsi-lcd-with-case.htm \"4.3inch Capacitive\
     \ Touch Display for Raspberry Pi, with Protection Case, DSI Interface, 800\xD7\
     480\""
-  repositories: []
-name: 4.3inch DSI LCD (with case)
-ref: waveshare/4-3inch-dsi-lcd-with-case
-release_date: null
-sku: 4-3inch-dsi-lcd-with-case
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/_/4.3inch-dsi-lcd-with-holder-6_1.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: msp430-h1611
+ref: olimex/msp430-h1611
+vendor: olimex
+sku: msp430-h1611
+name: MSP430-H1611
 description: ''
+status: ''
 extra:
   price1: 25.95 EUR
   price2: 23.36 EUR
   price3: 20.76 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/MSP430/Header/MSP430-H1611/images/thumbs/200x150/MSP430-H1611.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/MSP430/Header/MSP430-H1611/
-  repositories: []
-name: MSP430-H1611
-ref: olimex/msp430-h1611
-release_date: null
-sku: msp430-h1611
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/MSP430/Header/MSP430-H1611/images/thumbs/200x150/MSP430-H1611.jpg

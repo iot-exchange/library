@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5042
+ref: mikroe/mikroe-5042
+vendor: mikroe
+sku: mikroe-5042
+name: MIKROE-5042
 description: Multi Stepper Click is a compact add-on board that contains a bipolar
   stepper motor driver. This board features the TB67S209FTG, CLOCK-in controlled bipolar
   stepping motor driver from Toshiba Semiconductor. It supports a PWM constant-current
   control drive, selectable mixed decay mode, and allows from full-step up to 1/32
   steps resolution for less motor...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/multi-stepper-click-tb67s209/multi-stepper-click-tb67s209-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=63#Multi-Stepper-Click-TB67S209
-  repositories: []
-name: MIKROE-5042
-ref: mikroe/mikroe-5042
-release_date: null
-sku: mikroe-5042
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/multi-stepper-click-tb67s209/multi-stepper-click-tb67s209-home_default-1.jpg?v=100

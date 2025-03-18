@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-6410
+ref: mikroe/mikroe-6410
+vendor: mikroe
+sku: mikroe-6410
+name: MIKROE-6410
 description: "Accel 31 Click is a compact add-on board designed for precise motion\
   \ and orientation detection in space-constrained devices. This board features the\
   \ BMA580, a triaxial low-g accelerometer from Bosch Sensortec, which offers a 16-bit\
   \ digital resolution with measurement ranges of \xB12, \xB14, \xB18, and \xB116\
   \ g, along with flexible output data rates from 1.56Hz to..."
+status: ''
 extra:
   price: $15.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/accel-31-click/accel-31-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/accel-31-click
-  repositories: []
-name: MIKROE-6410
-ref: mikroe/mikroe-6410
-release_date: null
-sku: mikroe-6410
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/accel-31-click/accel-31-click-home_default-1.jpg?v=100

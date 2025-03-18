@@ -1,0 +1,17 @@
+id: pocketbeagle-2
+ref: beagleboard/pocketbeagle-2
+vendor: beagleboard
+sku: pocketbeagle-2
+name: PocketBeagle 2
+description: Next-gen pocket-size single-board computer! PocketBeagle 2 is an upgraded
+  version of the popular PocketBeagle, designed as an ultra-compact, low-cost, and
+  powerful single-board computer (SBC). Targeted at developers, students, and hobbyists,
+  PocketBeagle 2 retains the simplicity and flexibility of its predecessor while delivering
+  enhanced performance and expanded features to support modern development needs.
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.beagleboard.org/boards/pocketbeagle-2
+  images:
+  - https://www.beagleboard.org/app/uploads/2024/11/PocketBeagle2-400x225.png

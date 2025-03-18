@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: ic51-0562-1387
+ref: waveshare/ic51-0562-1387
+vendor: waveshare
+sku: ic51-0562-1387
+name: IC51-0562-1387
 description: Test & Burn-in Socket
+status: ''
 extra:
   Price: $70.99 - $73.99
   SKU: '6674'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ic51-0562-1387_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ic51-0562-1387.htm
-  repositories: []
-name: IC51-0562-1387
-ref: waveshare/ic51-0562-1387
-release_date: null
-sku: ic51-0562-1387
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ic51-0562-1387_l_1_5.jpg

@@ -1,0 +1,13 @@
+id: vs360
+ref: milesight/vs360
+vendor: milesight
+sku: vs360
+name: VS360
+description: IR Breakbeam People Counter
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/vs360
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/occupancy-people-counting-series/vs360.png?t=1742198585390

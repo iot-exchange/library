@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: bl5340pa-series
+ref: ezurio/bl5340pa-series
+vendor: ezurio
+sku: bl5340pa-series
+name: BL5340PA Series
 description: Long Range Bluetooth Module
+status: ''
 extra:
   2MPHY: x
   802.15.4 / Matter / Thread: ''
@@ -8,18 +12,7 @@ extra:
   Classic BT: x
   LE Long Range: x
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2023-04/BL5340-00068-00076-Group.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/bluetooth-modules/bl5340pa-series-long-range-bluetooth-module
-  repositories: []
-name: BL5340PA Series
-ref: ezurio/bl5340pa-series
-release_date: null
-sku: bl5340pa-series
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2023-04/BL5340-00068-00076-Group.png

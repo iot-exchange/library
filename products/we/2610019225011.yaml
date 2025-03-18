@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '2610019225011'
+ref: we/2610019225011
+vendor: we
+sku: '2610019225011'
+name: '2610019225011'
 description: EV-Kit Cordelia-I
+status: New
 extra:
   Expected lifetime: '>10 years'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/CORDELIA-I#2610019225011
-  repositories: []
-name: '2610019225011'
-ref: we/2610019225011
-release_date: null
-sku: '2610019225011'
-spec: null
-status: New
-vendor: we
+  images: []

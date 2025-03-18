@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: ups-hat-d-en
+ref: waveshare/ups-hat-d-en
+vendor: waveshare
+sku: ups-hat-d-en
+name: UPS HAT (D) (EN)
 description: UPS HAT (D) for Raspberry Pi, Supports 21700 Li battery (NOT included),
   5V Uninterruptible Power Supply, Pogo Pins Connector
+status: ''
 extra:
   Price: $23.29 - $24.99
   SKU: '25567'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/ups-hat-d.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/p/ups-hat-d-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/p/ups-hat-d-2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/ups-hat-d.htm
-  repositories: []
-name: UPS HAT (D) (EN)
-ref: waveshare/ups-hat-d-en
-release_date: null
-sku: ups-hat-d-en
-spec: null
-status: ''
-vendor: waveshare

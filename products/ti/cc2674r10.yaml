@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: cc2674r10
+ref: ti/cc2674r10
+vendor: ti
+sku: cc2674r10
+name: CC2674R10
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ti.com/product/CC2674R10
-  repositories: []
-name: CC2674R10
-ref: ti/cc2674r10
-release_date: null
-sku: cc2674r10
-spec: null
-status: ''
-vendor: ti
+  images: []

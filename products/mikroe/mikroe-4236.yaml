@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-4236
+ref: mikroe/mikroe-4236
+vendor: mikroe
+sku: mikroe-4236
+name: MIKROE-4236
 description: Trust M Click is trust anchor add-on board for advanced security combined
   with high performance for connected devices that address individual needs in the
   field of embedded authentication, brand protection and further security applications.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/trust-m-click/trust-m-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/trust-m-click
-  repositories: []
-name: MIKROE-4236
-ref: mikroe/mikroe-4236
-release_date: null
-sku: mikroe-4236
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/trust-m-click/trust-m-click-home_default-1.jpg?v=100

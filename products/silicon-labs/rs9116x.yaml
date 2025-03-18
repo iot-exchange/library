@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rs9116x
+ref: silicon-labs/rs9116x
+vendor: silicon-labs
+sku: rs9116x
+name: RS9116X
 description: "The RS9116 Dual Band Evaluation Board supports the RS9116 family of\
   \ SoCs and modules by providing a comprehensive multi-protocol wireless connectivity\
   \ solution including 802.11 b/g/n (2.4 GHz), dual-mode Bluetooth\xAE 5."
+status: ''
 extra:
   MSRP: $129.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/wifi/redpine/rs9116x-db-evk.png
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/wi-fi/rs9116x-db-evk-development-kit
-  repositories: []
-name: RS9116X
-ref: silicon-labs/rs9116x
-release_date: null
-sku: rs9116x
-spec: null
-status: ''
-vendor: silicon-labs
+  images:
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/wifi/redpine/rs9116x-db-evk.png

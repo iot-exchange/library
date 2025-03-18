@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 3inch-e-paper-module-g
+ref: waveshare/3inch-e-paper-module-g
+vendor: waveshare
+sku: 3inch-e-paper-module-g
+name: 3inch e-Paper Module (G)
 description: "3inch E-Paper Module (G), 400 \xD7 168, Red/Yellow/Black/White"
+status: ''
 extra:
   Price: $17.95 - $19.99
   SKU: '22758'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/i/3inch-e-paper-module-g-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/3inch-e-paper-module-g.htm
-  repositories: []
-name: 3inch e-Paper Module (G)
-ref: waveshare/3inch-e-paper-module-g
-release_date: null
-sku: 3inch-e-paper-module-g
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/i/3inch-e-paper-module-g-1.jpg

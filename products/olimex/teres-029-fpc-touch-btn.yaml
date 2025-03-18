@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-029-fpc-touch-btn
+ref: olimex/teres-029-fpc-touch-btn
+vendor: olimex
+sku: teres-029-fpc-touch-btn
+name: TERES-029-FPC-Touch-Btn
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-029-FPC-Touch-Btn/images/thumbs/200x150/TERES-031-FPC-Kbd-Btn.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-029-FPC-Touch-Btn/
-  repositories: []
-name: TERES-029-FPC-Touch-Btn
-ref: olimex/teres-029-fpc-touch-btn
-release_date: null
-sku: teres-029-fpc-touch-btn
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-029-FPC-Touch-Btn/images/thumbs/200x150/TERES-031-FPC-Kbd-Btn.jpg

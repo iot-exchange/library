@@ -1,32 +1,25 @@
-alternatives: []
-certifications: []
+id: siwx915m
+ref: silicon-labs/siwx915m
+vendor: silicon-labs
+sku: siwx915m
+name: SiWx915M
 description: "SiWx915 SoC is ideal for energy efficient or line powered IoT wireless\
   \ devices using Wi-Fi\xAE, Bluetooth Low Energy (LE), Matter, and IP networking\
   \ for cloud connectivity."
+status: ''
 extra:
   Bluetooth: LE 5.4
-  Bluetooth Version: LE 5.4
   Flash: Up to 8MB
-  Frequency Bands: Single Band (2.4)
   Integrated MCU: 'Yes'
+  Wi-Fi: '6'
+  Bluetooth Version: LE 5.4
+  Frequency Bands: Single Band (2.4)
   Matter Support: 'Yes'
   Processor: "ARM\xAE Cortex\xAE-M4"
-  Wi-Fi: '6'
   Wi-Fi Version: 6 plus
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.silabs.com/content/siliconlabs/en/wireless/wi-fi/siwx915-wireless-socs.thumb.256.144.png
-  models: []
   products:
   - https://www.silabs.com/wireless/wi-fi/siwx915-wireless-socs
   - javascript:void(0);
-  repositories: []
-name: SiWx915M
-ref: silicon-labs/siwx915m
-release_date: null
-sku: siwx915m
-spec: null
-status: ''
-vendor: silicon-labs
+  images:
+  - https://www.silabs.com/content/siliconlabs/en/wireless/wi-fi/siwx915-wireless-socs.thumb.256.144.png

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sns-mq135
+ref: olimex/sns-mq135
+vendor: olimex
+sku: sns-mq135
+name: SNS-MQ135
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Sensors/Gas/SNS-MQ135/images/thumbs/200x150/MQ-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Sensors/Gas/SNS-MQ135/
-  repositories: []
-name: SNS-MQ135
-ref: olimex/sns-mq135
-release_date: null
-sku: sns-mq135
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/Gas/SNS-MQ135/images/thumbs/200x150/MQ-1.jpg

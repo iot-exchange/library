@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-high-quality-camera
+ref: raspberrypi/raspberry-pi-high-quality-camera
+vendor: raspberrypi
+sku: raspberry-pi-high-quality-camera
+name: Raspberry Pi High Quality Camera
 description: Our high quality 12.3-megapixel camera for use with interchangeable lenses
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/140fcb2ff506b9fb314906ecd13eae17/3f4ea/12dad121-ba00-4121-873c-3d10abc13207_HQ%2BCS-M12-f86075e0.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/raspberry-pi-high-quality-camera/
-  repositories: []
-name: Raspberry Pi High Quality Camera
-ref: raspberrypi/raspberry-pi-high-quality-camera
-release_date: null
-sku: raspberry-pi-high-quality-camera
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/140fcb2ff506b9fb314906ecd13eae17/3f4ea/12dad121-ba00-4121-873c-3d10abc13207_HQ%2BCS-M12-f86075e0.jpg

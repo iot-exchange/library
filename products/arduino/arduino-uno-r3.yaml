@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: arduino-uno-r3
+ref: arduino/arduino-uno-r3
+vendor: arduino
+sku: arduino-uno-r3
+name: Arduino UNO R3
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.arduino.cc/wiki/static/47b1410b6a28539f9175c4258f053bfc/4b190/uno.jpg
-  models: []
   products:
   - https://store.arduino.cc/products/arduino-uno-rev3
-  repositories: []
-name: Arduino UNO R3
-ref: arduino/arduino-uno-r3
-release_date: null
-sku: arduino-uno-r3
-spec: null
-status: ''
-vendor: arduino
+  images:
+  - https://www.arduino.cc/wiki/static/47b1410b6a28539f9175c4258f053bfc/4b190/uno.jpg

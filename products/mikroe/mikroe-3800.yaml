@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3800
+ref: mikroe/mikroe-3800
+vendor: mikroe
+sku: mikroe-3800
+name: MIKROE-3800
 description: "AM/FM Click is a RADIO RECEIVER click board\u2122 that can be used to\
   \ listen to music from the AM and FM radio bands. One of the advantages of this\
   \ versatile FM broadcast stereo transmitter IC is that it is very easy to work with\
   \ it, which makes it an ideal solution for using it in cellular phones, MP3 players,\
   \ portable media players, wireless speakers,..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/amfm-click/amfm-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/amfm-click
-  repositories: []
-name: MIKROE-3800
-ref: mikroe/mikroe-3800
-release_date: null
-sku: mikroe-3800
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/amfm-click/amfm-click-home_default-1.jpg?v=100

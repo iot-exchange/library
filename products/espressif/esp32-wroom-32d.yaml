@@ -1,8 +1,12 @@
-alternatives: []
-certifications: []
+id: esp32-wroom-32d
+ref: espressif/esp32-wroom-32d
+vendor: espressif
+sku: esp32-wroom-32d
+name: ESP32-WROOM-32D
 description: For flashing / testing ESP32-WROOM-32E / ESP32-WROOM-32D / ESP32-SOLO-1
   / ESP32-WROOM-32 / ESP32-WROOM-32DC / ESP32-SOLO-1C / ESP32-S2-SOLO / ESP32-S2-SOLO-2
   / ESP32-C6-WROOM-1 / ESP32-S3-WROOM-1 modules (must be used with ESP-BAT32 for testing)
+status: ''
 extra:
   Antenna: PCB antenna
   Development Board: ESP32-DevKitC
@@ -11,18 +15,7 @@ extra:
   PSRAM: N/A
   Pins: '38'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP32-WROOM-32U%20S.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf
-  repositories: []
-name: ESP32-WROOM-32D
-ref: espressif/esp32-wroom-32d
-release_date: null
-sku: esp32-wroom-32d
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-WROOM-32U%20S.png

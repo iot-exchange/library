@@ -1,8 +1,12 @@
-alternatives: []
-certifications: []
+id: esp32-c5-devkitc-1
+ref: espressif/esp32-c5-devkitc-1
+vendor: espressif
+sku: esp32-c5-devkitc-1
+name: ESP32-C5-DevKitC-1
 description: The ESP32-C5-DevKitC-1 is an entry-level development board based on the
   general-purpose module ESP32-C5-WROOM-1, embedded with 8 MB SPI flash and 4 MB PSRAM.
   This board integrates complete Wi-Fi, Bluetooth (LE), Zigbee, and Thread functions.
+status: ''
 extra:
   Flash: 8 MB
   Interfaces: I/O USB
@@ -10,17 +14,6 @@ extra:
   Related Products: ESP32-C5-WROOM-1
   UI: Buttons, LEDs
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32c5/esp32-c5-devkitc-1/index.html
-  repositories: []
-name: ESP32-C5-DevKitC-1
-ref: espressif/esp32-c5-devkitc-1
-release_date: null
-sku: esp32-c5-devkitc-1
-spec: null
-status: ''
-vendor: espressif
+  images: []

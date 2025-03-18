@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: se250b4-series
+ref: telit/se250b4-series
+vendor: telit
+sku: se250b4-series
+name: SE250B4 Series
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2023/02/SE250B4-2023_dynamic-271x200.png
-  models: []
   products:
   - https://www.telit.com/devices/se250b4-series/
-  repositories: []
-name: SE250B4 Series
-ref: telit/se250b4-series
-release_date: null
-sku: se250b4-series
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2023/02/SE250B4-2023_dynamic-271x200.png

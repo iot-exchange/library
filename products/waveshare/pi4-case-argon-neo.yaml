@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: pi4-case-argon-neo
+ref: waveshare/pi4-case-argon-neo
+vendor: waveshare
+sku: pi4-case-argon-neo
+name: PI4-CASE-ARGON-NEO
 description: 'Argon NEO: A Slim Aluminum Case for Raspberry Pi 4, Passive Cooling'
+status: ''
 extra:
   Price: $12.97 - $13.99
   SKU: '17907'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-case-argon-neo-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pi4-case-argon-neo.htm
-  repositories: []
-name: PI4-CASE-ARGON-NEO
-ref: waveshare/pi4-case-argon-neo
-release_date: null
-sku: pi4-case-argon-neo
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-case-argon-neo-1.jpg

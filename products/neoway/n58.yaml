@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: n58
+ref: neoway/n58
+vendor: neoway
+sku: n58
+name: N58
 description: N58 is the industry's first Cat.1 bis module that supports GNSS, BT and
   BT/Wi-Fi scan.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.neoway.com/Uploads/Picture/2020/11/09/s5fa958bfe2c18.png
-  models: []
   products:
   - https://www.neoway.com/products/wireless-communication/823.html
-  repositories: []
-name: N58
-ref: neoway/n58
-release_date: null
-sku: n58
-spec: null
-status: ''
-vendor: neoway
+  images:
+  - https://www.neoway.com/Uploads/Picture/2020/11/09/s5fa958bfe2c18.png

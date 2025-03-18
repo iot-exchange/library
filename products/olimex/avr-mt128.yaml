@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: avr-mt128
+ref: olimex/avr-mt128
+vendor: olimex
+sku: avr-mt128
+name: AVR-MT128
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/AVR/Development/AVR-MT128/images/thumbs/200x150/AVR-MT-128-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/AVR/Development/AVR-MT128/
-  repositories: []
-name: AVR-MT128
-ref: olimex/avr-mt128
-release_date: null
-sku: avr-mt128
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/AVR/Development/AVR-MT128/images/thumbs/200x150/AVR-MT-128-01.jpg

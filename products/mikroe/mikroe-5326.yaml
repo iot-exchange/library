@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5326
+ref: mikroe/mikroe-5326
+vendor: mikroe
+sku: mikroe-5326
+name: MIKROE-5326
 description: 'Spacer with Magnet represents a female/female standoff with total lengths
   with magnet of: 15mm, 18mm, 23mm, 28mm, 33mm and thread M3x10mm. It is commonly
   used within electronic assemblies to increase the distance between parts being fastened
   to suit hobby and construction applications. This solution comes in one package
   with four pieces of spacers, four...'
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/spacers-with-magnets/spacers-with-magnets-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/spacers-with-magnets
-  repositories: []
-name: MIKROE-5326
-ref: mikroe/mikroe-5326
-release_date: null
-sku: mikroe-5326
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/spacers-with-magnets/spacers-with-magnets-home_default-1.jpg?v=100

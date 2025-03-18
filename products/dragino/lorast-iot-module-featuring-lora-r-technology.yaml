@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: lorast-iot-module-featuring-lora-r-technology
+ref: dragino/lorast-iot-module-featuring-lora-r-technology
+vendor: dragino
+sku: lorast-iot-module-featuring-lora-r-technology
+name: "LoRaST IoT Module featuring LoRa\xAE technology"
 description: Open Source Long Range Wireless LoRa Transceiver Wireless IoT 433/470/868/915/920
   module Ultra Low Power Consumption
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/9ded0288e863fbe79d863f606cb05c21_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lora/item/127-lora-st.html
-  repositories: []
-name: "LoRaST IoT Module featuring LoRa\xAE technology"
-ref: dragino/lorast-iot-module-featuring-lora-r-technology
-release_date: null
-sku: lorast-iot-module-featuring-lora-r-technology
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/9ded0288e863fbe79d863f606cb05c21_L.jpg

@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '104990853'
+ref: seeedstudio/104990853
+vendor: seeedstudio
+sku: '104990853'
+name: '104990853'
 description: 2.9" Monochrome eInk / ePaper Display with 296x128 Pixels, SPI interface,
   Support XIAO/Arduino/STM32. The 2.9 inch E-paper Display offers a high-quality,
   low-power solution for a wide range of applications.
+status: ''
 extra:
   price: $9.95
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-104990846-2.13-quadruple-color-epaper-display-with-122x250-pixels-45font.jpg
-  - https://www.seeedstudio.com/img/v
-  models: []
   products:
   - https://www.seeedstudio.com/2-9-Monochrome-ePaper-Display-with-296x128-Pixels-p-5782.html
   - https://www.seeedstudio.com/2.9-Monochrome-eInk-ePaper-Display-with-296x128-Pixels-SPI-interface-Support-XIAO-Arduino-STM32.html
-  repositories: []
-name: '104990853'
-ref: seeedstudio/104990853
-release_date: null
-sku: '104990853'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-104990846-2.13-quadruple-color-epaper-display-with-122x250-pixels-45font.jpg
+  - https://www.seeedstudio.com/img/v

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: nut-din985-m5
+ref: olimex/nut-din985-m5
+vendor: olimex
+sku: nut-din985-m5
+name: NUT-DIN985-M5
 description: Pack of 10 pcs
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Fasteners/NUT-DIN985-M3/images/thumbs/200x150/din985.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Fasteners/NUT-DIN985-M5/
-  repositories: []
-name: NUT-DIN985-M5
-ref: olimex/nut-din985-m5
-release_date: null
-sku: nut-din985-m5
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Fasteners/NUT-DIN985-M3/images/thumbs/200x150/din985.jpg

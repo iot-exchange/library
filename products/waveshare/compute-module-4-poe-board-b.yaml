@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: compute-module-4-poe-board-b
+ref: waveshare/compute-module-4-poe-board-b
+vendor: waveshare
+sku: compute-module-4-poe-board-b
+name: Compute Module 4 PoE Board (B)
 description: Raspberry Pi Compute Module 4 IO Board With PoE Feature (Type B), for
   all Variants of CM4
+status: ''
 extra:
   Price: $36.65 - $36.99
   SKU: '20157'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/compute-module-4-poe-board-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/compute-module-4-poe-board-b.htm
-  repositories: []
-name: Compute Module 4 PoE Board (B)
-ref: waveshare/compute-module-4-poe-board-b
-release_date: null
-sku: compute-module-4-poe-board-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/compute-module-4-poe-board-b-1.jpg

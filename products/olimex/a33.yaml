@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: a33
+ref: olimex/a33
+vendor: olimex
+sku: a33
+name: A33
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/IC/A33/images/thumbs/200x150/A33.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/IC/A33/
-  repositories: []
-name: A33
-ref: olimex/a33
-release_date: null
-sku: a33
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/IC/A33/images/thumbs/200x150/A33.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pwr-us-eu
+ref: olimex/pwr-us-eu
+vendor: olimex
+sku: pwr-us-eu
+name: PWR-US-EU
 description: ''
+status: ''
 extra:
   discountedPrice1: 0.90 EUR
   discountedPrice2: 0.80 EUR
   price: 1.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Power/PWR-US-EU/images/thumbs/200x150/US-EU-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Power/PWR-US-EU/
-  repositories: []
-name: PWR-US-EU
-ref: olimex/pwr-us-eu
-release_date: null
-sku: pwr-us-eu
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Power/PWR-US-EU/images/thumbs/200x150/US-EU-1.jpg

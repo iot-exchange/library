@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: alphabot
+ref: waveshare/alphabot
+vendor: waveshare
+sku: alphabot
+name: AlphaBot
 description: AlphaBot, Mobile robot development platform
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/l/alphabot-14.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/alphabot-robot.htm
-  repositories: []
-name: AlphaBot
-ref: waveshare/alphabot
-release_date: null
-sku: alphabot
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/l/alphabot-14.jpg

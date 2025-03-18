@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: wisgate-soho-pro
+ref: rakwireless/wisgate-soho-pro
+vendor: rakwireless
+sku: wisgate-soho-pro
+name: WisGate Soho Pro
 description: WisGate Soho Pro - Our newest gateway, perfect for a wide range of applications
+status: ''
 extra:
   Antennas: Features built-in antennas for LoRa, LTE, Wi-Fi, and GPS
   Connectivity: Offers reliable, cost-efficient Cat-1 LTE connectivity
@@ -8,18 +12,7 @@ extra:
   Power Options: Supports RAK Solar Battery Kits and operates efficiently on DC 9-36
     V power input
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://res.rakwireless.com/tracked/products/wisgate-edge/wisgate-soho.png?fm=webp
-  models: []
   products:
   - https://www.rakwireless.com/en-us/products/wisgate-os2
-  repositories: []
-name: WisGate Soho Pro
-ref: rakwireless/wisgate-soho-pro
-release_date: null
-sku: wisgate-soho-pro
-spec: null
-status: ''
-vendor: rakwireless
+  images:
+  - https://res.rakwireless.com/tracked/products/wisgate-edge/wisgate-soho.png?fm=webp

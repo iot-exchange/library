@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: battery-lipo250mah
+ref: olimex/battery-lipo250mah
+vendor: olimex
+sku: battery-lipo250mah
+name: BATTERY-LIPO250mAh
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Power/Lipo-battery/BATTERY-LIPO250mAh/images/thumbs/200x150/lipo250mah.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Power/Lipo-battery/BATTERY-LIPO250mAh/
-  repositories: []
-name: BATTERY-LIPO250mAh
-ref: olimex/battery-lipo250mah
-release_date: null
-sku: battery-lipo250mah
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Power/Lipo-battery/BATTERY-LIPO250mAh/images/thumbs/200x150/lipo250mah.jpg

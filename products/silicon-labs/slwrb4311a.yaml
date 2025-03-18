@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: slwrb4311a
+ref: silicon-labs/slwrb4311a
+vendor: silicon-labs
+sku: slwrb4311a
+name: SLWRB4311A
 description: BGM220PC22 Bluetooth PCB Module 2.4 GHz +8 Output Power Radio Board
+status: ''
 extra:
   MSRP: $29.00
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/bluetooth/slwrb4311a-bgm220pc22-bluetooth-module-radio-board
-  repositories: []
-name: SLWRB4311A
-ref: silicon-labs/slwrb4311a
-release_date: null
-sku: slwrb4311a
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

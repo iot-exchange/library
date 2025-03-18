@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mg-6v-1-5-2000rpm
+ref: olimex/mg-6v-1-5-2000rpm
+vendor: olimex
+sku: mg-6v-1-5-2000rpm
+name: MG-6V-1-5-2000RPM
 description: ''
+status: ''
 extra:
   discountedPrice1: 4.46 EUR
   discountedPrice2: 3.96 EUR
   price: 4.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/MG-6V-1-380/images/thumbs/200x150/MG-6V-1-380.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/MG-6V-1-5-2000RPM/
-  repositories: []
-name: MG-6V-1-5-2000RPM
-ref: olimex/mg-6v-1-5-2000rpm
-release_date: null
-sku: mg-6v-1-5-2000rpm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/MG-6V-1-380/images/thumbs/200x150/MG-6V-1-380.jpg

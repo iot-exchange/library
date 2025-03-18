@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: usb-hub-hat-b
+ref: waveshare/usb-hub-hat-b
+vendor: waveshare
+sku: usb-hub-hat-b
+name: USB HUB HAT (B)
 description: USB HUB HAT (B) for Raspberry Pi Series, 4x USB 2.0 Ports
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-hub-hat-b-1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-hub-hat-b.htm
-  repositories: []
-name: USB HUB HAT (B)
-ref: waveshare/usb-hub-hat-b
-release_date: null
-sku: usb-hub-hat-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-hub-hat-b-1_2.jpg

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: lps8n
+ref: dragino/lps8n
+vendor: dragino
+sku: lps8n
+name: LPS8N
 description: LoRaWAN Gateway SX1302 + 2 * SX1250 10 programmable parallel demodulation
   paths Data-Only Hotspot, Not suitable for Helium Mining
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/bfef6034dab7e57f223e48f4dcf3e90d_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lora-lorawan-gateway/item/200-lps8n.html
-  repositories: []
-name: LPS8N
-ref: dragino/lps8n
-release_date: null
-sku: lps8n
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/bfef6034dab7e57f223e48f4dcf3e90d_L.jpg

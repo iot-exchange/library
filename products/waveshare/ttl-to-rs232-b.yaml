@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: ttl-to-rs232-b
+ref: waveshare/ttl-to-rs232-b
+vendor: waveshare
+sku: ttl-to-rs232-b
+name: TTL TO RS232 (B)
 description: Rail-mount TTL To RS232 Galvanic isolated Converter, Full-Duplex Communication,
   Lightningproof & Anti-Surge, TTL Serial Converter
+status: ''
 extra:
   Price: $10.31 - $10.99
   SKU: '27386'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/t/ttl-to-rs232-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ttl-to-rs232-b.htm
-  repositories: []
-name: TTL TO RS232 (B)
-ref: waveshare/ttl-to-rs232-b
-release_date: null
-sku: ttl-to-rs232-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/t/ttl-to-rs232-b-1.jpg

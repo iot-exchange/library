@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: dnt90mp
+ref: murata/dnt90mp
+vendor: murata
+sku: dnt90mp
+name: DNT90MP
 description: 900MHz, 100kbps, 40mW, 158mW
+status: ''
 extra:
   Data Rate: 100kbps
   Dev Kit: DNT90DK
@@ -10,17 +14,6 @@ extra:
   RF Conn/Antenna: ''
   Transmit Power: 40mW, 158mW
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/products/connectivitymodule/proprietary-fhss/overview/lineup/dnt90mp
-  repositories: []
-name: DNT90MP
-ref: murata/dnt90mp
-release_date: null
-sku: dnt90mp
-spec: null
-status: ''
-vendor: murata
+  images: []

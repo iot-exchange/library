@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lpc-h2129
+ref: olimex/lpc-h2129
+vendor: olimex
+sku: lpc-h2129
+name: LPC-H2129
 description: ''
+status: ''
 extra:
   discountedPrice1: 41.36 EUR
   discountedPrice2: 36.76 EUR
   price: 45.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/NXP/LPC-H2129/images/thumbs/200x150/LPC-H212X-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/NXP/LPC-H2129/
-  repositories: []
-name: LPC-H2129
-ref: olimex/lpc-h2129
-release_date: null
-sku: lpc-h2129
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-H2129/images/thumbs/200x150/LPC-H212X-01.jpg

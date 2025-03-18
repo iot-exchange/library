@@ -1,28 +1,21 @@
-alternatives: []
-certifications: []
+id: '112990286'
+ref: seeedstudio/112990286
+vendor: seeedstudio
+sku: '112990286'
+name: '112990286'
 description: an add-on board with a built-in Hailo AI accelerator for Raspberry Pi
   5. It provides an accessible, cost-effective, and power-efficient way to integrate
   high-performance AI. Explore applications including process control, security, home
   automation, and robotics.
+status: ''
 extra:
-  Capacity: 256GB
+  capacity: 256GB
   Price: USD $40.00
   SKU: '112990286'
+  Capacity: 256GB
   Storage: 256GB
-  capacity: 256GB
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/s/s/ssd_kit_lifestyle_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-SSD-Kits-for-Raspberry-Pi-5-256GB-p-6237.html
-  repositories: []
-name: '112990286'
-ref: seeedstudio/112990286
-release_date: null
-sku: '112990286'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/s/s/ssd_kit_lifestyle_1.jpg

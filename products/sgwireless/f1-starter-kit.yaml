@@ -1,0 +1,12 @@
+id: f1-starter-kit
+ref: sgwireless/f1-starter-kit
+vendor: sgwireless
+sku: f1-starter-kit
+name: F1 Starter Kit
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://docs.sgwireless.com/product-info-datasheets/user-manual/
+  images: []

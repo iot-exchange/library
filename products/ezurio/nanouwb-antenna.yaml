@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: nanouwb-antenna
+ref: ezurio/nanouwb-antenna
+vendor: ezurio
+sku: nanouwb-antenna
+name: NanoUWB Antenna
 description: The first antenna designed to operate with the Sera NX040 UWB module,
   featuring a rigid PCB and adhesive backing for space-sensitive applications.
+status: ''
 extra:
   Compatibility: Sera NX040 UWB module
   Features: High durability, aesthetically pleasing integration
   Type: Antenna
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-08/EUB5850A-flat.png
-  models: []
   products:
   - https://www.ezurio.com/product/nanouwb-series-internal-antennas
-  repositories: []
-name: NanoUWB Antenna
-ref: ezurio/nanouwb-antenna
-release_date: null
-sku: nanouwb-antenna
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-08/EUB5850A-flat.png

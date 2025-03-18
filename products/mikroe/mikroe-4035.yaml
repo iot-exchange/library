@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-4035
+ref: mikroe/mikroe-4035
+vendor: mikroe
+sku: mikroe-4035
+name: MIKROE-4035
 description: DC Gear Motor - 430RPM (3-6V) represents a brushed DC motor with a spur
   gearbox rated for 3-6V operational voltage range, 430RPM speed, and 60mA maximum
   current with a torque of 50g.cm at maximum efficiency. A great solution for fulfilling
   many functions initially performed by brushed DC motors in robotics, medical equipment,
   electric door lock, and much...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.mikroe.com/dc-gear-motor
-  repositories: []
-name: MIKROE-4035
-ref: mikroe/mikroe-4035
-release_date: null
-sku: mikroe-4035
-spec: null
-status: ''
-vendor: mikroe
+  images: []

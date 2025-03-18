@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-4422
+ref: mikroe/mikroe-4422
+vendor: mikroe
+sku: mikroe-4422
+name: MIKROE-4422
 description: EEPROM 5 Click is a compact add-on board that contains the highest-density
   memory solution. This board features the M95M04, the 4Mbit electrically erasable
   programmable memory organized as 524288 x 8 bits accessed through the SPI interface
   from STMicroelectronics. The M95M04 combines unprecedented data storage with excellent
   energy efficiency. It lasts...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/eeprom-5-click/eeprom-5-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=2943
   - https://www.mikroe.com/eeprom-5-click
-  repositories: []
-name: MIKROE-4422
-ref: mikroe/mikroe-4422
-release_date: null
-sku: mikroe-4422
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/eeprom-5-click/eeprom-5-click-home_default-1.jpg?v=100

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bearing-8mm-needle
+ref: olimex/bearing-8mm-needle
+vendor: olimex
+sku: bearing-8mm-needle
+name: BEARING-8MM-NEEDLE
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-8MM-NEEDLE/images/thumbs/200x150/BEARING-8MM-NEEDLE.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-8MM-NEEDLE/
-  repositories: []
-name: BEARING-8MM-NEEDLE
-ref: olimex/bearing-8mm-needle
-release_date: null
-sku: bearing-8mm-needle
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-8MM-NEEDLE/images/thumbs/200x150/BEARING-8MM-NEEDLE.jpg

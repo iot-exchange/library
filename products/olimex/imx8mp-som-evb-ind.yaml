@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: imx8mp-som-evb-ind
+ref: olimex/imx8mp-som-evb-ind
+vendor: olimex
+sku: imx8mp-som-evb-ind
+name: iMX8MP-SOM-EVB-IND
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/SOM/NXP-iMX8/iMX8MP-SOM-EVB-IND/images/thumbs/200x150/imx8mp-som-evb-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/SOM/NXP-iMX8/iMX8MP-SOM-EVB-IND/open-source-hardware
-  repositories: []
-name: iMX8MP-SOM-EVB-IND
-ref: olimex/imx8mp-som-evb-ind
-release_date: null
-sku: imx8mp-som-evb-ind
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/SOM/NXP-iMX8/iMX8MP-SOM-EVB-IND/images/thumbs/200x150/imx8mp-som-evb-1.jpg

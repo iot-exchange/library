@@ -1,28 +1,21 @@
-alternatives: []
-certifications: []
+id: mikroe-3872
+ref: mikroe/mikroe-3872
+vendor: mikroe
+sku: mikroe-3872
+name: MIKROE-3872
 description: "Special Deal 35% OFF The BLE 7 click is a Click board\u2122 witch provide\
   \ BT/BLE connectivity for any embedded application. BLE 7 click based on the BGX13S22GA-V31,\
   \ a SiP module from Silicon Labs with a buit-in antenna. Click board\u2122 an ultra-small,\
   \ high-performing, Bluetooth low energy module for easy integration of Bluetooth\
   \ low energy connectivity (BLE) into various electronic..."
+status: ''
 extra:
   discountedPrice: $16.25
   originalPrice: $25.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ble-7-click/ble-7-click-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/uart-mux-click/uart-mux-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ble-7-click "BLE 7 Click"
   - https://www.mikroe.com/cart?add=1&id_product=2593
-  repositories: []
-name: MIKROE-3872
-ref: mikroe/mikroe-3872
-release_date: null
-sku: mikroe-3872
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ble-7-click/ble-7-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/uart-mux-click/uart-mux-click-home_default-1.jpg?v=100

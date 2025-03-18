@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: product2
+ref: enocean/product2
+vendor: enocean
+sku: product2
+name: Product2
 description: Description of Product 2
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.enocean.com/en/products/product2
-  repositories: []
-name: Product2
-ref: enocean/product2
-release_date: null
-sku: product2
-spec: null
-status: ''
-vendor: enocean
+  images: []

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: '2610011025000'
+ref: we/2610011025000
+vendor: we
+sku: '2610011025000'
+name: '2610011025000'
 description: Calypso
+status: Active
 extra:
   ANTConn: RF connector pad for external antenna and internal PCB antenna
   Frequency Range (MHz): 2412 - 2472
@@ -13,18 +17,7 @@ extra:
   VDD min.(V): '2.1'
   dLoS(m): '400'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o139686v214%20Single_Calypso_2610011025000.jpg
-  models: []
   products:
   - https://www.we-online.com/components/products/datasheet/2610011025000.pdf
-  repositories: []
-name: '2610011025000'
-ref: we/2610011025000
-release_date: null
-sku: '2610011025000'
-spec: null
-status: Active
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o139686v214%20Single_Calypso_2610011025000.jpg

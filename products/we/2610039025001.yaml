@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '2610039025001'
+ref: we/2610039025001
+vendor: we
+sku: '2610039025001'
+name: '2610039025001'
 description: Calypso WiFi FeatherWing
+status: Active
 extra:
   Expected lifetime: '>10 years'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o193552v214%20Single_Calypso-FeatherWing_2610039025001.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/CALYPSO#2610039025001
-  repositories: []
-name: '2610039025001'
-ref: we/2610039025001
-release_date: null
-sku: '2610039025001'
-spec: null
-status: Active
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o193552v214%20Single_Calypso-FeatherWing_2610039025001.jpg

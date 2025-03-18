@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3984
+ref: mikroe/mikroe-3984
+vendor: mikroe
+sku: mikroe-3984
+name: MIKROE-3984
 description: "SHT AN Click is a sensorics based add on board which can be used for\
   \ measuring humidity and temperature. It features fully calibrated, linearized and\
   \ temperature compensated SHT31-ARP-B sensor with analog output. This sensor is\
   \ built on a new technology CMOSens\xAE sensor chip from Sensirion. What differentiate\
   \ this Click board comparing to other is dual..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/sht-an-click/sht-an-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/sht-an-click "SHT AN Click"
-  repositories: []
-name: MIKROE-3984
-ref: mikroe/mikroe-3984
-release_date: null
-sku: mikroe-3984
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/sht-an-click/sht-an-click-home_default-1.jpg?v=100

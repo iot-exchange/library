@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: mag-support
+ref: olimex/mag-support
+vendor: olimex
+sku: mag-support
+name: MAG-SUPPORT
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/SMT/MAG-SUPPORT/images/thumbs/200x150/magnetic-support-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/SMT/MAG-SUPPORT/
-  repositories: []
-name: MAG-SUPPORT
-ref: olimex/mag-support
-release_date: null
-sku: mag-support
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/SMT/MAG-SUPPORT/images/thumbs/200x150/magnetic-support-1.jpg

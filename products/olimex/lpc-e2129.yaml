@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lpc-e2129
+ref: olimex/lpc-e2129
+vendor: olimex
+sku: lpc-e2129
+name: LPC-E2129
 description: ''
+status: ''
 extra:
   discountedPrice1: 80.96 EUR
   discountedPrice2: 71.96 EUR
   price: 89.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/NXP/LPC-E2129/images/thumbs/200x150/LPC-E2129-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/NXP/LPC-E2129/
-  repositories: []
-name: LPC-E2129
-ref: olimex/lpc-e2129
-release_date: null
-sku: lpc-e2129
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-E2129/images/thumbs/200x150/LPC-E2129-01.jpg

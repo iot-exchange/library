@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: hawk-lite
+ref: digitalmatter/hawk-lite
+vendor: digitalmatter
+sku: hawk-lite
+name: Hawk Lite
 description: Lower cost, lower power solution for connecting any sensor within cellular
   coverage.
+status: ''
 extra:
   Connectivity: LTE-M and NB-IoT
   Input Voltage Range: 2-5.5V
@@ -9,17 +13,6 @@ extra:
   Onboard Digital Input: 1 x Digital Input
   Onboard GPS: 'No'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.digitalmatter.com/overview#HawkLite
-  repositories: []
-name: Hawk Lite
-ref: digitalmatter/hawk-lite
-release_date: null
-sku: hawk-lite
-spec: null
-status: ''
-vendor: digitalmatter
+  images: []

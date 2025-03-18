@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '110991865'
+ref: seeedstudio/110991865
+vendor: seeedstudio
+sku: '110991865'
+name: '110991865'
 description: The SenseCAP M4 Square is a device designed to run multiple Web 3.0 applications.
   Flux CUMULUS Node, Helium Hotspot, and Mysterium MystNodes are supported and more
   dApps will be released soon!
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110991824-45font_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/SenseCAP-M4-p-5556.html
-  repositories: []
-name: '110991865'
-ref: seeedstudio/110991865
-release_date: null
-sku: '110991865'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110991824-45font_1.jpg

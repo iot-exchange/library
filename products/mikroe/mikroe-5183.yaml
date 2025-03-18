@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5183
+ref: mikroe/mikroe-5183
+vendor: mikroe
+sku: mikroe-5183
+name: MIKROE-5183
 description: Radar Click is a compact add-on board that uses short-wavelength electromagnetic
   waves, which objects in their path reflect, providing information on these objects'
   range, velocity, and angle. This board features the MM5D91-00, a presence detection
   sensor module that integrates 60GHz mmWave technology that counts the number of
   people entering or exiting...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/radar-click/radar-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/radar-click
-  repositories: []
-name: MIKROE-5183
-ref: mikroe/mikroe-5183
-release_date: null
-sku: mikroe-5183
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/radar-click/radar-click-home_default-1.jpg?v=100

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: efr32fg1-series-1-sub-ghz-and-2-4-ghz-socs
+ref: silicon-labs/efr32fg1-series-1-sub-ghz-and-2-4-ghz-socs
+vendor: silicon-labs
+sku: efr32fg1-series-1-sub-ghz-and-2-4-ghz-socs
+name: EFR32FG1 Series 1 Sub-GHz and 2.4 GHz SoCs
 description: Sub-GHz and 2.4 GHz
+status: ''
 extra:
   Flash (kB): 32, 64, 128, 256
   Frequency Range (MHz): 110 2483.5
@@ -11,17 +15,6 @@ extra:
   RAM (kB): 8, 16, 32
   Security: AES-128, AES-256, ECC, SHA-1, SHA-2
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/wireless/proprietary/efr32fg1-series-1-sub-ghz-2-4-ghz-socs
-  repositories: []
-name: EFR32FG1 Series 1 Sub-GHz and 2.4 GHz SoCs
-ref: silicon-labs/efr32fg1-series-1-sub-ghz-and-2-4-ghz-socs
-release_date: null
-sku: efr32fg1-series-1-sub-ghz-and-2-4-ghz-socs
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

@@ -1,27 +1,20 @@
-alternatives: []
-certifications: []
+id: '101990667'
+ref: seeedstudio/101990667
+vendor: seeedstudio
+sku: '101990667'
+name: '101990667'
 description: "An IP68 RS485 Soil Mois & Temp & EC Sensor ranges - from 0% to 100%\
   \ of saturation, -40\u2103 ~ +80\u2103, and 0 ~ 10000 \u03BCs/cm. Use in soil applications\
   \ like Horticulture and Gardening. Use the sensor with SenseCAP Data Logger for\
   \ seamless data collection and management."
+status: ''
 extra:
   application: Horticulture and Gardening
   operatingRange: "0% to 100% saturation, -40\u2103 ~ +80\u2103, 0 ~ 10000 \u03BC\
     s/cm"
   price: $99.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/101990667_2.png
-  models: []
   products:
   - https://www.seeedstudio.com/RS485-Soil-Moisture-Temperature-EC-Sensor-S-Soil-MTEC-02-p-4633.html
-  repositories: []
-name: '101990667'
-ref: seeedstudio/101990667
-release_date: null
-sku: '101990667'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/101990667_2.png

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: lht65n-pir
+ref: dragino/lht65n-pir
+vendor: dragino
+sku: lht65n-pir
+name: LHT65N-PIR
 description: Temperature/Humidity/PIR Motion Sensor
+status: ''
 extra:
   Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
   Built-in: 2400mAh battery
   External PIR Sensor: ''
   built-in Temperature & Humidity sensor: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/28232e87509dedeadc0cd2b6a94ea3f5_L.jpg
-  models: []
   products:
   - https://dragino.com/products/temperature-humidity-sensor/item/263-lht65n-pir.html
-  repositories: []
-name: LHT65N-PIR
-ref: dragino/lht65n-pir
-release_date: null
-sku: lht65n-pir
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/28232e87509dedeadc0cd2b6a94ea3f5_L.jpg

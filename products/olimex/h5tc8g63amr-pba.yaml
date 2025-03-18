@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: h5tc8g63amr-pba
+ref: olimex/h5tc8g63amr-pba
+vendor: olimex
+sku: h5tc8g63amr-pba
+name: H5TC8G63AMR-PBA
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.olimex.com/Products/Components/IC/H5TC8G63AMR-PBA/
-  repositories: []
-name: H5TC8G63AMR-PBA
-ref: olimex/h5tc8g63amr-pba
-release_date: null
-sku: h5tc8g63amr-pba
-spec: null
-status: ''
-vendor: olimex
+  images: []

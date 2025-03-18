@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-3669
+ref: mikroe/mikroe-3669
+vendor: mikroe
+sku: mikroe-3669
+name: MIKROE-3669
 description: "Gyro 5 Click is a three-axis gyroscope Click board\u2122 that can sense\
   \ motion over three perpendicular axes. It is equipped with the ITG-3701, a three-axis\
   \ digital gyroscope."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gyro-5-click/gyro-5-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/gyro-5-click
-  repositories: []
-name: MIKROE-3669
-ref: mikroe/mikroe-3669
-release_date: null
-sku: mikroe-3669
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gyro-5-click/gyro-5-click-home_default-1.jpg?v=100

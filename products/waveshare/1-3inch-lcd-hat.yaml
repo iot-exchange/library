@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 1-3inch-lcd-hat
+ref: waveshare/1-3inch-lcd-hat
+vendor: waveshare
+sku: 1-3inch-lcd-hat
+name: 1.3inch LCD HAT
 description: 240x240, 1.3inch IPS LCD display HAT for Raspberry Pi
+status: ''
 extra:
   Price: $12.99 - $13.99
   SKU: '14972'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/1.3inch-lcd-hat.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.3inch-lcd-hat-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.3inch-lcd-hat-3.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/1.3inch-lcd-hat.htm
-  repositories: []
-name: 1.3inch LCD HAT
-ref: waveshare/1-3inch-lcd-hat
-release_date: null
-sku: 1-3inch-lcd-hat
-spec: null
-status: ''
-vendor: waveshare

@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '102991379'
+ref: seeedstudio/102991379
+vendor: seeedstudio
+sku: '102991379'
+name: '102991379'
 description: This version of the Raspberry Pi Compute Module 4 includes a high-performance
   64-bit quad-core processor, 4GB LPDDR4 RAM, 32GB eMMC, dual-display support at resolutions
   up to 4K, hardware video decode at up to 4Kp60, Gigabit Ethernet, USB 2.0, dual
   camera interfaces, PCIe Gen 2 x1 interface, and dual-band 2.4/5.0GHz wireless LAN
   and Bluetooth 5.0.
+status: ''
 extra:
   price: $70.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991421_preview-07_2.png
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-Compute-Module-CM4104032-p-4722.html
-  repositories: []
-name: '102991379'
-ref: seeedstudio/102991379
-release_date: null
-sku: '102991379'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991421_preview-07_2.png

@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: remora3-gps
+ref: digitalmatter/remora3-gps
+vendor: digitalmatter
+sku: remora3-gps
+name: Remora3 GPS
 description: For use cases where extremely long battery life and/or aggressive (second-by-second)
   tracking performance is required.
+status: ''
 extra:
   Battery Life Estimates: 20 years (Once Daily Location Updates)
   Connectivity: LTE-M and NB-IoT
@@ -9,16 +13,5 @@ extra:
   Location Technologies: GNSS, Cell Tower Location
   Size: 224 x 91 x 41 mm (8.82 x 3.58 x 1.61 in)
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Remora3 GPS
-ref: digitalmatter/remora3-gps
-release_date: null
-sku: remora3-gps
-spec: null
-status: ''
-vendor: digitalmatter
+  images: []

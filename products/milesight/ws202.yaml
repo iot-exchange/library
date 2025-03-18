@@ -1,0 +1,13 @@
+id: ws202
+ref: milesight/ws202
+vendor: milesight
+sku: ws202
+name: WS202
+description: PIR & Light Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/ws202
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/smart-workplace-cowork-series/pir-and-light-sensor-ws202.png?t=1742198585390

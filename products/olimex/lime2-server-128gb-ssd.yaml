@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: lime2-server-128gb-ssd
+ref: olimex/lime2-server-128gb-ssd
+vendor: olimex
+sku: lime2-server-128gb-ssd
+name: LIME2-SERVER-128GB-SSD
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/Home-Server/LIME2-SERVER-NO-HDD/images/thumbs/200x150/LIME2-SERVER-.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/Home-Server/LIME2-SERVER-128GB-SSD/open-source-hardware
-  repositories: []
-name: LIME2-SERVER-128GB-SSD
-ref: olimex/lime2-server-128gb-ssd
-release_date: null
-sku: lime2-server-128gb-ssd
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/Home-Server/LIME2-SERVER-NO-HDD/images/thumbs/200x150/LIME2-SERVER-.jpg

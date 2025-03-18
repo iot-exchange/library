@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: rs232-to-rs485
+ref: waveshare/rs232-to-rs485
+vendor: waveshare
+sku: rs232-to-rs485
+name: rs232_to_rs485
 description: Industrial grade isolated RS232 TO RS485 converter
+status: ''
 extra:
   Multi Options: ''
   Price: $14.99 - $15.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs232-to-rs485-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rs232-to-rs485.htm
-  repositories: []
-name: rs232_to_rs485
-ref: waveshare/rs232-to-rs485
-release_date: null
-sku: rs232-to-rs485
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs232-to-rs485-1.jpg

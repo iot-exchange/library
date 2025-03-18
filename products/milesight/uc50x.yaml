@@ -1,0 +1,13 @@
+id: uc50x
+ref: milesight/uc50x
+vendor: milesight
+sku: uc50x
+name: UC50x
+description: "LoRaWAN\xAE Multi-interface Controller"
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/iot-controller/uc50x
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/control/iot-multi-interface-controller.png?t=1742198585390

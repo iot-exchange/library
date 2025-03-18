@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4887
+ref: mikroe/mikroe-4887
+vendor: mikroe
+sku: mikroe-4887
+name: MIKROE-4887
 description: "Expand 13 Click is a compact add-on board that contains a multi-port\
   \ I/O expander. This board features the PI4IOE5V96248, a 48-bit general-purpose\
   \ I/O expander providing remote I/O expansion for most MCU\u2019s families from\
   \ Diodes Incorporated. The PI4IOE5V96248 comes in a 6-channel configuration and\
   \ allows easy addition of I/O through a standard I2C serial."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/expand-13-click/expand-13-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/expand-13-click
-  repositories: []
-name: MIKROE-4887
-ref: mikroe/mikroe-4887
-release_date: null
-sku: mikroe-4887
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/expand-13-click/expand-13-click-home_default-1.jpg?v=100

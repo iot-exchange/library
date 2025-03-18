@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: esp-factorytb2
+ref: espressif/esp-factorytb2
+vendor: espressif
+sku: esp-factorytb2
+name: ESP-FactoryTB2
 description: Designed for mass production and testing, this stable and compact production
   testing board works as a serial port board that provides two high-speed serial ports
   and a USB port that allows external power supply.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/styles/medium/public/ESP-FactoryTB2_L.png?itok=bU-i75KX
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/production_testing_guide_en.pdf
-  repositories: []
-name: ESP-FactoryTB2
-ref: espressif/esp-factorytb2
-release_date: null
-sku: esp-factorytb2
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/styles/medium/public/ESP-FactoryTB2_L.png?itok=bU-i75KX

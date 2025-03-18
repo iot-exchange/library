@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: '2607056283001'
+ref: we/2607056283001
+vendor: we
+sku: '2607056283001'
+name: '2607056283001'
 description: Metis-II
+status: Active
 extra:
   Expected lifetime: '>10 years'
   Frequency Range (MHz): 868.3 - 869.525
@@ -15,18 +19,7 @@ extra:
   VDD min.(V): '100'
   dLoS(m): '1000'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o164911v214%20Single_eiSmart_USB-Stick.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/METIS-II#2607056283001
-  repositories: []
-name: '2607056283001'
-ref: we/2607056283001
-release_date: null
-sku: '2607056283001'
-spec: null
-status: Active
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o164911v214%20Single_eiSmart_USB-Stick.jpg

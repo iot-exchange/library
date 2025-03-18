@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6026
+ref: mikroe/mikroe-6026
+vendor: mikroe
+sku: mikroe-6026
+name: MIKROE-6026
 description: "Tilt 4 Click is a compact add-on board designed for reliable tilt detection\
   \ applications. This board features the RB-231X2, a rolling ball tilt switch from\
   \ C&K Switches (Littelfuse), ensuring accurate and safe tilt detection. The RB-231X2\
   \ features a compact, shielded design with a detection angle of up to 10\xB0 and\
   \ an operating life of 100,000 cycles...."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/tilt-4-click/tilt-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/tilt-4-click
-  repositories: []
-name: MIKROE-6026
-ref: mikroe/mikroe-6026
-release_date: null
-sku: mikroe-6026
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/tilt-4-click/tilt-4-click-home_default-1.jpg?v=100

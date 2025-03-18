@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sl871l
+ref: telit/sl871l
+vendor: telit
+sku: sl871l
+name: SL871L
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2024/11/TC_SL871L_dyn-270x200.png
-  models: []
   products:
   - https://www.telit.com/devices/sl871l/
-  repositories: []
-name: SL871L
-ref: telit/sl871l
-release_date: null
-sku: sl871l
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/11/TC_SL871L_dyn-270x200.png

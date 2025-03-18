@@ -1,30 +1,23 @@
-alternatives: []
-certifications: []
+id: efr32bg22l
+ref: silicon-labs/efr32bg22l
+vendor: silicon-labs
+sku: efr32bg22l
+name: EFR32BG22L
 description: Ultra-Low Power, Cost-effective for Battery-Powered Devices. Ideal for
   connectionless applications and offers the perfect blend of small form factor, long
   battery life, and performance.
+status: Coming Soon
 extra:
+  Ideal for: ultra-low-power battery-powered IoT devices
+  Supports: Bluetooth 5.4
   Core: ARM Cortex-M33
   Flash (KB): '352'
-  Ideal for: ultra-low-power battery-powered IoT devices
   RAM (KB): '24'
   RX Sensitivity: '5.4'
   Security: AES-128, AES-256, ECC, SHA-1, SHA-2
-  Supports: Bluetooth 5.4
   TX Current @ 0 dBm: '6'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.silabs.com/content/siliconlabs/en/wireless/bluetooth/efr32bg22l-series-2-socs.thumb.256.144.png
-  models: []
   products:
   - https://www.silabs.com/wireless/bluetooth/efr32bg22l-series-2-socs
-  repositories: []
-name: EFR32BG22L
-ref: silicon-labs/efr32bg22l
-release_date: null
-sku: efr32bg22l
-spec: null
-status: Coming Soon
-vendor: silicon-labs
+  images:
+  - https://www.silabs.com/content/siliconlabs/en/wireless/bluetooth/efr32bg22l-series-2-socs.thumb.256.144.png

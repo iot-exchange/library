@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '101990860'
+ref: seeedstudio/101990860
+vendor: seeedstudio
+sku: '101990860'
+name: '101990860'
 description: An IP68 Liquid Level Sensor ranges - from 0 to 5 meters. Suitable for
   monitoring water, oil, and other mild-corrosive liquid levels. Use the sensor with
   Sensor Hub 4G data logger for seamless data collection and management.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/101990860_preview-07-min_1.png
-  models: []
   products:
   - https://www.seeedstudio.com/Liquid-Level-Sensor-RS485-p-5005.html
-  repositories: []
-name: '101990860'
-ref: seeedstudio/101990860
-release_date: null
-sku: '101990860'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/101990860_preview-07-min_1.png

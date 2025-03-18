@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sns-water-level
+ref: olimex/sns-water-level
+vendor: olimex
+sku: sns-water-level
+name: SNS-WATER-LEVEL
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Sensors/SNS-WATER-LEVEL/images/thumbs/200x150/SNS-WATER-LEVEL.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Sensors/SNS-WATER-LEVEL/
-  repositories: []
-name: SNS-WATER-LEVEL
-ref: olimex/sns-water-level
-release_date: null
-sku: sns-water-level
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/SNS-WATER-LEVEL/images/thumbs/200x150/SNS-WATER-LEVEL.jpg

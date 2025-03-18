@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4043
+ref: mikroe/mikroe-4043
+vendor: mikroe
+sku: mikroe-4043
+name: MIKROE-4043
 description: Radiation Sensor Tester is a coin-shaped tool for quickly testing the
   functionality of nuclear radiation sensors. The PB40 tester contains a small amount
   of pitchblende (uraninite), embedded in a plastic disk which is suitable for physics
   classroom experiments without any risk of damage to health. The Radiation Sensor
   Tester is used with the Radiation...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/radiation-sensor-tester-pb40/radiation-sensor-tester-pb40-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/radiation-sensor-tester-pb40
-  repositories: []
-name: MIKROE-4043
-ref: mikroe/mikroe-4043
-release_date: null
-sku: mikroe-4043
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/radiation-sensor-tester-pb40/radiation-sensor-tester-pb40-home_default-1.jpg?v=100

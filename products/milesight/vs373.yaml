@@ -1,0 +1,14 @@
+id: vs373
+ref: milesight/vs373
+vendor: milesight
+sku: vs373
+name: VS373
+description: Radar Fall Detection Sensor - Single-person Fall Detection for Healthcare
+  and Elderly Care
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/vs373
+  images:
+  - https://www.milesight.com/static/pc/en/index-new/hero/vs373/vs373-radar-fall-detection-sensor.png?t=1742198585390

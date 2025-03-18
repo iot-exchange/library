@@ -1,0 +1,19 @@
+id: pt100-0
+ref: dptechnics/pt100-0
+vendor: dptechnics
+sku: pt100-0
+name: PT100(0)
+description: The PT100(0) CAN-bus module is an industrial module which has dual temperature
+  sensor inputs. The module supports PT100, PT1000 and NTC temperature sensors and
+  converts the temperature with 12-bits accuracy.
+status: ''
+extra:
+  Certification: CE certified for industrial and home use
+  Mounting: DIN-rail housing
+  Power Supply Voltage: 12V to 24V
+  Precision: 12-bits
+  Processor: ARM Cortex-M0 at 48MHz
+links:
+  products: []
+  images:
+  - https://www.dptechnics.com/images/product/pt100-module.jpg

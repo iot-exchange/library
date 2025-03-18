@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '102991675'
+ref: seeedstudio/102991675
+vendor: seeedstudio
+sku: '102991675'
+name: '102991675'
 description: Lichee RV-86 Panel is a development kit equipped with LicheeRV Core board
   (Allwinner D1 chip with 512MB ddr3). It features a 4inch IPS LCD, a Wifi+BT wireless
   module, RTL8201F 100M Ethernet, 1W mini speaker, two digital silicon microphones,
   double 2x8Pin 2.54mm Pin headers, and a GPIO expansion interface.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/Lichee-RV-86-Panel-Allwinner-D1-SOC-RISC-V-IPS-LCD-smart-home-central-control-Linux-WAFT-p-5379.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991675_all-04.jpg
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/s/e/seeed_studio_xiao_starter_kit_-_all_seeed_studio_xiao_series_deve_after_1_.jpg
-  models: []
-  products:
-  - https://www.seeedstudio.com/Lichee-RV-86-Panel-Allwinner-D1-SOC-RISC-V-IPS-LCD-smart-home-central-control-Linux-WAFT-p-5379.html
-  repositories: []
-name: '102991675'
-ref: seeedstudio/102991675
-release_date: null
-sku: '102991675'
-spec: null
-status: ''
-vendor: seeedstudio

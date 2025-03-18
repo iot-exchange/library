@@ -1,17 +1,16 @@
-alternatives: []
-certifications: []
+id: stm32wle5c8
+ref: st/stm32wle5c8
+vendor: st
+sku: stm32wle5c8
+name: STM32WLE5C8
 description: Sub-GHz Wireless Microcontrollers. Arm Cortex-M4 @48 MHz with 64 Kbytes
   of Flash memory, 20 Kbytes of SRAM. LoRa, (G)FSK, (G)MSK, BPSK modulations. AES
   256-bit. Multiprotocol System-on-Chip.
+status: Active
 extra:
-  Core: Arm Cortex-M4
   Data Rate (kbps) max: '-'
   Data Rate (kbps) min: '-'
-  Encryption: AES 256-bit
-  Flash Memory: 64 Kbytes
-  Frequency: 48 MHz
   Grade: Industrial
-  Modulations: LoRa, (G)FSK, (G)MSK, BPSK
   "Operating Temperature (\xB0C) max": '85'
   "Operating Temperature (\xB0C) min": '-40'
   Operating Voltage (V) max: '3.6'
@@ -21,22 +20,16 @@ extra:
   Package: UFQFPN 48 7x7x0.55 mm
   RX current (mA) typ: '4.82'
   RX sensitivity (dBm) typ: '-148'
-  SRAM: 20 Kbytes
   "Standby Current (\xB5A) typ": '0.071'
   TX current (mA) @ Max Output Power: '-'
+  Core: Arm Cortex-M4
+  Encryption: AES 256-bit
+  Flash Memory: 64 Kbytes
+  Frequency: 48 MHz
+  Modulations: LoRa, (G)FSK, (G)MSK, BPSK
+  SRAM: 20 Kbytes
   Type: Multiprotocol System-on-Chip
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.st.com/en/microcontrollers-microprocessors/stm32wle5c8.html
-  repositories: []
-name: STM32WLE5C8
-ref: st/stm32wle5c8
-release_date: null
-sku: stm32wle5c8
-spec: null
-status: Active
-vendor: st
+  images: []

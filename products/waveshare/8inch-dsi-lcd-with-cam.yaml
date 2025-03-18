@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: 8inch-dsi-lcd-with-cam
+ref: waveshare/8inch-dsi-lcd-with-cam
+vendor: waveshare
+sku: 8inch-dsi-lcd-with-cam
+name: 8inch DSI LCD (with cam)
 description: "8inch Capacitive Touch Display for Raspberry Pi, with 5MP Front Camera,\
   \ 800\xD7480, DSI"
+status: ''
 extra:
-  Price: $68.27 - $70.99
   SKU: '21230'
+  Price: $68.27 - $70.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/8inch-dsi-lcd-with-cam.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/8/i/8inch-dsi-lcd-with-cam-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/8/i/8inch-dsi-lcd-with-cam-2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/8inch-dsi-lcd-with-cam.htm
-  repositories: []
-name: 8inch DSI LCD (with cam)
-ref: waveshare/8inch-dsi-lcd-with-cam
-release_date: null
-sku: 8inch-dsi-lcd-with-cam
-spec: null
-status: ''
-vendor: waveshare

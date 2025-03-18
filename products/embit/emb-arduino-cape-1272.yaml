@@ -1,0 +1,13 @@
+id: emb-arduino-cape-1272
+ref: embit/emb-arduino-cape-1272
+vendor: embit
+sku: emb-arduino-cape-1272
+name: EMB-Arduino-Cape-1272
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.embit.eu/products/emb-arduino-cape-1272-868-915-mhz-lora-lorawan-shield-for-arduino/
+  images:
+  - https://www.embit.eu/wp-content/uploads/2020/04/868-915-MHZ-LORA-LORAWAN-ARDUINO-SHIELD-300x225.jpg

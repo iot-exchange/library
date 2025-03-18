@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pack-of-100-pcs-splice-8mm-pft
+ref: olimex/pack-of-100-pcs-splice-8mm-pft
+vendor: olimex
+sku: pack-of-100-pcs-splice-8mm-pft
+name: Pack of 100 pcs SPLICE-8MM-PFT
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/SMT/SPLICE-8MM-PFT/images/thumbs/200x150/SPLICE-8MM-PFT-2.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/SMT/SPLICE-8MM-PFT/
-  repositories: []
-name: Pack of 100 pcs SPLICE-8MM-PFT
-ref: olimex/pack-of-100-pcs-splice-8mm-pft
-release_date: null
-sku: pack-of-100-pcs-splice-8mm-pft
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/SMT/SPLICE-8MM-PFT/images/thumbs/200x150/SPLICE-8MM-PFT-2.jpg

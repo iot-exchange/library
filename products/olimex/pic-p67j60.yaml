@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pic-p67j60
+ref: olimex/pic-p67j60
+vendor: olimex
+sku: pic-p67j60
+name: PIC-P67J60
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/PIC/Proto/PIC-P67J60/images/thumbs/200x150/PIC-P67J60-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/PIC/Proto/PIC-P67J60/
-  repositories: []
-name: PIC-P67J60
-ref: olimex/pic-p67j60
-release_date: null
-sku: pic-p67j60
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/PIC/Proto/PIC-P67J60/images/thumbs/200x150/PIC-P67J60-1.jpg

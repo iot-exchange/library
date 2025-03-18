@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '110060465'
+ref: seeedstudio/110060465
+vendor: seeedstudio
+sku: '110060465'
+name: '110060465'
 description: 'Raspberry Pi 3 Media Center Kit. Notice: This kit DOES NOT include the
   Raspberry Pi 3.'
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedimg2016-061smplsescfahv7qchmvgrmuu.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-2246.html?bazaar4_retailer-products%5Bpage%5D=2#110060465
   - https://www.seeedstudio.com/Raspberry-Pi-3-Media-Center-Kit.html
-  repositories: []
-name: '110060465'
-ref: seeedstudio/110060465
-release_date: null
-sku: '110060465'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedimg2016-061smplsescfahv7qchmvgrmuu.jpg

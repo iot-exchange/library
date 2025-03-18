@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: msp430-5438-stk
+ref: olimex/msp430-5438-stk
+vendor: olimex
+sku: msp430-5438-stk
+name: MSP430-5438-STK
 description: ''
+status: ''
 extra:
   price1: 29.95 EUR
   price2: 26.96 EUR
   price3: 23.96 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/MSP430/Starter/MSP430-5438-STK/images/thumbs/200x150/MPS430-5438STK-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/MSP430/Starter/MSP430-5438-STK/
-  repositories: []
-name: MSP430-5438-STK
-ref: olimex/msp430-5438-stk
-release_date: null
-sku: msp430-5438-stk
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/MSP430/Starter/MSP430-5438-STK/images/thumbs/200x150/MPS430-5438STK-01.jpg

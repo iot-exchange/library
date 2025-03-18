@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-mpu9150
+ref: olimex/mod-mpu9150
+vendor: olimex
+sku: mod-mpu9150
+name: MOD-MPU9150
 description: ''
+status: ''
 extra:
   bulkPrice: 11.16 EUR
   discountedPrice: 12.56 EUR
   price: 13.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Sensors/MOD-MPU9150/images/thumbs/200x150/MOD-MPU9150.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Sensors/MOD-MPU9150/open-source-hardware
-  repositories: []
-name: MOD-MPU9150
-ref: olimex/mod-mpu9150
-release_date: null
-sku: mod-mpu9150
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Sensors/MOD-MPU9150/images/thumbs/200x150/MOD-MPU9150.jpg

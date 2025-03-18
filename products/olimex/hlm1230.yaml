@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: hlm1230
+ref: olimex/hlm1230
+vendor: olimex
+sku: hlm1230
+name: HLM1230
 description: ''
+status: ''
 extra:
   price1: 3.00 EUR
   price2: 2.70 EUR
   price3: 2.40 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/LEDs/HLM1230/images/thumbs/200x150/HLM1230.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/LEDs/HLM1230/
-  repositories: []
-name: HLM1230
-ref: olimex/hlm1230
-release_date: null
-sku: hlm1230
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/LEDs/HLM1230/images/thumbs/200x150/HLM1230.jpg

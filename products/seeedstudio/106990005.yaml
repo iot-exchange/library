@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '106990005'
+ref: seeedstudio/106990005
+vendor: seeedstudio
+sku: '106990005'
+name: '106990005'
 description: This DC/DC step-down voltage converter is based on MP1584, it converts
   input voltage between 4.5V and 28V into a smaller voltage between 0.8V and 18V,
   capable of driving a 3A load with excellent line and load regulation.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductdc20converter3a.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Adjustable-Step-Down-DC-DC-Converter-0-8V-18V-3-p-1716.html
-  repositories: []
-name: '106990005'
-ref: seeedstudio/106990005
-release_date: null
-sku: '106990005'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductdc20converter3a.jpg

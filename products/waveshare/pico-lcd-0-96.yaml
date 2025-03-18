@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: pico-lcd-0-96
+ref: waveshare/pico-lcd-0-96
+vendor: waveshare
+sku: pico-lcd-0-96
+name: Pico-LCD-0.96
 description: "0.96inch LCD Display Module for Raspberry Pi Pico, 65K Colors, 160\xD7\
   80, SPI"
+status: ''
 extra:
   Price: $6.81 - $7.49
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-lcd-0.96-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pico-lcd-0.96.htm
-  repositories: []
-name: Pico-LCD-0.96
-ref: waveshare/pico-lcd-0-96
-release_date: null
-sku: pico-lcd-0-96
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-lcd-0.96-1.jpg

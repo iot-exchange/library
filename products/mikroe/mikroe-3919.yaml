@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-3919
+ref: mikroe/mikroe-3919
+vendor: mikroe
+sku: mikroe-3919
+name: MIKROE-3919
 description: for Kinetis Capacitive FPI with frame Rapid development of multimedia
   and gui-centric applications BUILD GREAT GUI IN NO TIME Rich with peripherals Mikromedia
   5 for Kinetis Capacitive FPI with frame is not limited to multimedia-based applications
   only. USB, WiFi and RF connectivity options, digital motion sensor, battery charging...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mikromedia-5-for-kinetis-capacitive-fpi-with-frame/mikromedia-5-for-kinetis-capacitive-fpi-with-frame-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mikromedia-5-for-kinetis-capacitive-fpi-with-frame
-  repositories: []
-name: MIKROE-3919
-ref: mikroe/mikroe-3919
-release_date: null
-sku: mikroe-3919
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-5-for-kinetis-capacitive-fpi-with-frame/mikromedia-5-for-kinetis-capacitive-fpi-with-frame-home_default-1.jpg?v=100

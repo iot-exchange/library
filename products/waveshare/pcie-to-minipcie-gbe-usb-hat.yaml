@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pcie-to-minipcie-gbe-usb-hat
+ref: waveshare/pcie-to-minipcie-gbe-usb-hat
+vendor: waveshare
+sku: pcie-to-minipcie-gbe-usb-hat
+name: pcie_to_minipcie_gbe_usb_hat
 description: PCIe to MiniPCIe / Gigabit Ethernet / USB 3.2 Gen1 HAT for Raspberry
   Pi 5, Supports MiniPCIe interface 4G Module, High-speed Networking, Raspberry Pi
   5 HAT
+status: ''
 extra:
   price: $27.99 -  $76.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-minipcie-gbe-usb3.2-hat-plus-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pcie-to-minipcie-gbe-usb3.2-hat-plus.htm
-  repositories: []
-name: pcie_to_minipcie_gbe_usb_hat
-ref: waveshare/pcie-to-minipcie-gbe-usb-hat
-release_date: null
-sku: pcie-to-minipcie-gbe-usb-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-minipcie-gbe-usb3.2-hat-plus-1.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: lcd7-assembly-service
+ref: olimex/lcd7-assembly-service
+vendor: olimex
+sku: lcd7-assembly-service
+name: LCD7-ASSEMBLY-SERVICE
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/LCD/LCD7-ASSEMBLY-SERVICE/images/thumbs/200x150/LCD7-METAL-FRAME.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/LCD/LCD7-ASSEMBLY-SERVICE/
-  repositories: []
-name: LCD7-ASSEMBLY-SERVICE
-ref: olimex/lcd7-assembly-service
-release_date: null
-sku: lcd7-assembly-service
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/LCD/LCD7-ASSEMBLY-SERVICE/images/thumbs/200x150/LCD7-METAL-FRAME.jpg

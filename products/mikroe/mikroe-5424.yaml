@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5424
+ref: mikroe/mikroe-5424
+vendor: mikroe
+sku: mikroe-5424
+name: MIKROE-5424
 description: ADC 20 Click is a compact add-on board with a high-performance data converter.
   This board features the TLA2518, an SPI-configurable eight-channel 12-bit successive
   approximation register analog-to-digital converter (SAR ADC) from Texas Instruments.
   The TLA2518 has an internal oscillator for the ADC conversion and supports averaging
   multiple data samples...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/adc-20-click/adc-20-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/adc-20-click
-  repositories: []
-name: MIKROE-5424
-ref: mikroe/mikroe-5424
-release_date: null
-sku: mikroe-5424
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/adc-20-click/adc-20-click-home_default-1.jpg?v=100

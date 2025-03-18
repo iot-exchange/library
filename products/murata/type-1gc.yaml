@@ -1,58 +1,40 @@
-alternatives: []
-certifications: []
+id: type-1gc
+ref: murata/type-1gc
+vendor: murata
+sku: type-1gc
+name: Type 1GC
 description: Wi-Fi 4 module for consumer and industrial equipment.
+status: ''
 extra:
-  Additional Info: ''
   Bluetooth: 'Yes'
-  Certification: 'Yes'
-  Chip: CYW43907
   Chipset: CYW43907
-  Current Consumption: 370mA @ 11Mbps
   Dimension: 10.0 x 10.0 x 1.2 mm
-  Dimensions: 6.95 x 5.15 x 1.1 mm
   ETSI Report: ''
-  Enclosure: Shielded Resin
   FCC/ISED Certified: 'Yes'
   Frequency: 2.4GHz, 5GHz
-  GPIO: 'No'
   Grade: Consumer
   Host Interface (802.15.4): WICED
   Host Interface (Bluetooth): ARM Cortex-R4
   Host Interface (Wi-Fi): GPIO/SPI/UART/I2C/Ethernet (RMII)
-  I/O Voltage: 1.8V,3.3V
   IC Manufacturer: Infineon
   Integrated Antenna: 'No'
   Interface Voltage: 'Yes'
-  Interfaces: GPIO/SPI/UART/I2C/Ethernet (RMII)
   MIC (Japan) Certified: ''
-  Manufacturer: Infineon
-  Market: Consumer
-  Material: Shielded Resin
   Mounting Type: SMT
-  Operating Temperature: "-30\u2103 to 70\u2103"
   Operating Temperature (degC): ''
   Package: Shielded Resin
   Packaging: Tape and Reel
   Peripheral Interface: 'No'
   Platform: ''
-  Power Consumption: 380mA @ 11Mbps (2.4GHz), 320mA @ 54Mbps (2.4GHz), 310mA @ 65Mbps
-    (2.4GHz), 330mA @ 54Mbps (5GHz), 320mA @ 65Mbps (5GHz)
   Processor: ''
   Receive Mode Current: ''
   RoHS Support: 'Yes'
-  SDK: WICED
-  Sleep Current: 60mA
   Sleep Mode Current (Bluetooth): ''
   Sleep Mode Current (Wi-Fi): ''
-  Status: 'Yes'
   Supply Voltage: 3.3V
-  Target Market: Consumer
   Technology: Wi-Fi
-  Temperature Range: "-30\u2103 to 85\u2103"
   Transmit Mode Current (Bluetooth): ''
   Transmit Mode Current (Wi-Fi): ''
-  Voltage: 3.3V
-  Voltage Range: 3.35V to 4.2V
   Wi-Fi: 'Yes'
   dimensions: 10.0 x 10.0 x 1.2 mm
   idleCurrent: 100mA
@@ -62,19 +44,30 @@ extra:
   processor: ARM Cortex-R4
   temperatureRange: "-30\u2103 to 85\u2103"
   voltage: 3.3V
+  Chip: CYW43907
+  Dimensions: 6.95 x 5.15 x 1.1 mm
+  Enclosure: Shielded Resin
+  GPIO: 'No'
+  Interfaces: GPIO/SPI/UART/I2C/Ethernet (RMII)
+  Manufacturer: Infineon
+  Market: Consumer
+  Power Consumption: 380mA @ 11Mbps (2.4GHz), 320mA @ 54Mbps (2.4GHz), 310mA @ 65Mbps
+    (2.4GHz), 330mA @ 54Mbps (5GHz), 320mA @ 65Mbps (5GHz)
+  SDK: WICED
+  Sleep Current: 60mA
+  Temperature Range: "-30\u2103 to 85\u2103"
+  Voltage: 3.3V
+  Additional Info: ''
+  Certification: 'Yes'
+  Current Consumption: 370mA @ 11Mbps
+  I/O Voltage: 1.8V,3.3V
+  Material: Shielded Resin
+  Operating Temperature: "-30\u2103 to 70\u2103"
+  Status: 'Yes'
+  Target Market: Consumer
+  Voltage Range: 3.35V to 4.2V
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth#product-lineup
   - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth#series-lineup
-  repositories: []
-name: Type 1GC
-ref: murata/type-1gc
-release_date: null
-sku: type-1gc
-spec: null
-status: ''
-vendor: murata
+  images: []

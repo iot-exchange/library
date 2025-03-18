@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: tsop40-to-dip40
+ref: waveshare/tsop40-to-dip40
+vendor: waveshare
+sku: tsop40-to-dip40
+name: TSOP40 TO DIP40
 description: TSOP40 TO DIP40, Programmer Adapter
+status: ''
 extra:
   Price: $72.89 - $77.99
   SKU: '3808'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/s/tsop40-to-dip40_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/tsop40-to-dip40.htm
-  repositories: []
-name: TSOP40 TO DIP40
-ref: waveshare/tsop40-to-dip40
-release_date: null
-sku: tsop40-to-dip40
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/s/tsop40-to-dip40_l_1_5.jpg

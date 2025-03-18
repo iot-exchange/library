@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: efr32xg24-wireless-2-4-ghz-20-dbm-radio-board
+ref: silicon-labs/efr32xg24-wireless-2-4-ghz-20-dbm-radio-board
+vendor: silicon-labs
+sku: efr32xg24-wireless-2-4-ghz-20-dbm-radio-board
+name: EFR32xG24 Wireless 2.4 GHz +20 dBm Radio Board
 description: The EFR32xG24 +20 dBm Radio Board is designed work with the WSTK main
   board (not included) to support the development of wireless IoT devices based on
   2.4 GHz wireless protocols including BLE, Bluetooth mesh, Zigbee, Thread, and Matter.
+status: ''
 extra:
   MSRP: $39.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/multiprotocol/xg24-rb4187c-20-dbm.png
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/xg24-rb4187c-efr32xg24-wireless-gecko-radio-board
-  repositories: []
-name: EFR32xG24 Wireless 2.4 GHz +20 dBm Radio Board
-ref: silicon-labs/efr32xg24-wireless-2-4-ghz-20-dbm-radio-board
-release_date: null
-sku: efr32xg24-wireless-2-4-ghz-20-dbm-radio-board
-spec: null
-status: ''
-vendor: silicon-labs
+  images:
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/multiprotocol/xg24-rb4187c-20-dbm.png

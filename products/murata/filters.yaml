@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: filters
+ref: murata/filters
+vendor: murata
+sku: filters
+name: Filters
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/search/productsearch?cate=luCeramicFilters
-  repositories: []
-name: Filters
-ref: murata/filters
-release_date: null
-sku: filters
-spec: null
-status: ''
-vendor: murata
+  images: []

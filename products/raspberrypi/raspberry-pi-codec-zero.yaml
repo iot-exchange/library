@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-codec-zero
+ref: raspberrypi/raspberry-pi-codec-zero
+vendor: raspberrypi
+sku: raspberry-pi-codec-zero
+name: Raspberry Pi Codec Zero
 description: A Raspberry Pi Zero-sized audio I/O board that\'s ideal for a wide range
   of audio projects
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/473f453ce524760c3a9a1784d88e8909/3f4ea/1c373c42-1ddd-4d99-b6bb-2136dadb1fb0_Codec%2Bzero.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/codec-zero/
-  repositories: []
-name: Raspberry Pi Codec Zero
-ref: raspberrypi/raspberry-pi-codec-zero
-release_date: null
-sku: raspberry-pi-codec-zero
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/473f453ce524760c3a9a1784d88e8909/3f4ea/1c373c42-1ddd-4d99-b6bb-2136dadb1fb0_Codec%2Bzero.jpg

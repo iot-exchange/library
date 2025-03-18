@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '114992653'
+ref: seeedstudio/114992653
+vendor: seeedstudio
+sku: '114992653'
+name: '114992653'
 description: BitMaker_V2 - JST 2.0 battery connector & 6 Grove connectors
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992653_front-05.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/CH-BitMaker-V2-p-5330.html
-  repositories: []
-name: '114992653'
-ref: seeedstudio/114992653
-release_date: null
-sku: '114992653'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992653_front-05.jpg

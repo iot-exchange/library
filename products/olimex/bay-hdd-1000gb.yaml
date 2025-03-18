@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bay-hdd-1000gb
+ref: olimex/bay-hdd-1000gb
+vendor: olimex
+sku: bay-hdd-1000gb
+name: BAY-HDD-1000GB
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/Home-Server/BAY-NO-DISK/images/thumbs/200x150/BAY-XXX.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/Home-Server/BAY-HDD-1000GB/
-  repositories: []
-name: BAY-HDD-1000GB
-ref: olimex/bay-hdd-1000gb
-release_date: null
-sku: bay-hdd-1000gb
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/Home-Server/BAY-NO-DISK/images/thumbs/200x150/BAY-XXX.jpg

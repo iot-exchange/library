@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: alphabot-ar-basic
+ref: waveshare/alphabot-ar-basic
+vendor: waveshare
+sku: alphabot-ar-basic
+name: AlphaBot-Ar-Basic
 description: AlphaBot, Basic robot building kit for Arduino
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/l/alphabot-17.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/alphabot-ar-basic.htm
-  repositories: []
-name: AlphaBot-Ar-Basic
-ref: waveshare/alphabot-ar-basic
-release_date: null
-sku: alphabot-ar-basic
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/l/alphabot-17.jpg

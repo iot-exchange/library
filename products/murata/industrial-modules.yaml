@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: industrial-modules
+ref: murata/industrial-modules
+vendor: murata
+sku: industrial-modules
+name: Industrial modules
 description: Industrial mmWave Radar sensor modules for detecting distance, angle
   of arrival, and velocity in harsh environments.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/products/connectivitymodule/mmwave-radar/industrial
-  repositories: []
-name: Industrial modules
-ref: murata/industrial-modules
-release_date: null
-sku: industrial-modules
-spec: null
-status: ''
-vendor: murata
+  images: []

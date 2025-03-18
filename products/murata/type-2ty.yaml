@@ -1,8 +1,11 @@
-alternatives: []
-certifications: []
+id: type-2ty
+ref: murata/type-2ty
+vendor: murata
+sku: type-2ty
+name: Type 2TY
 description: Bluetooth 5.1 LE module for consumer equipment.
+status: ''
 extra:
-  Bluetooth: 5.1 LE
   Chipset: DA14531
   Dimension: 7.4 x 7.0 x 1.3 mm
   ETSI Report: 'Yes'
@@ -24,18 +27,8 @@ extra:
   Supply Voltage: 1.8V to 3.3V
   Technology: Bluetooth
   Transmit Mode Current (Bluetooth): ''
+  Bluetooth: 5.1 LE
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/products/connectivitymodule/bluetooth#series-lineup
-  repositories: []
-name: Type 2TY
-ref: murata/type-2ty
-release_date: null
-sku: type-2ty
-spec: null
-status: ''
-vendor: murata
+  images: []

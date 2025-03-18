@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: em359x
+ref: silicon-labs/em359x
+vendor: silicon-labs
+sku: em359x
+name: EM359x
 description: Wireless Zigbee SoCs
+status: ''
 extra:
   Flash (kB): '512'
   GPIO: '0'
@@ -12,17 +16,6 @@ extra:
   Security: AES-128
   TX Current (mA) 0 dBm: '29'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/wireless/zigbee/em359x-zigbee-socs
-  repositories: []
-name: EM359x
-ref: silicon-labs/em359x
-release_date: null
-sku: em359x
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

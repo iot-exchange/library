@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: ots-32-1-27-05
+ref: waveshare/ots-32-1-27-05
+vendor: waveshare
+sku: ots-32-1-27-05
+name: OTS-32-1.27-05
 description: OTS-32-1.27-05, Test & Burn-in Socket
+status: ''
 extra:
   Price: $92.59 - $95.99
   SKU: '3592'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/t/ots-32-1.27-05_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ots-32-1.27-05.htm
-  repositories: []
-name: OTS-32-1.27-05
-ref: waveshare/ots-32-1-27-05
-release_date: null
-sku: ots-32-1-27-05
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/t/ots-32-1.27-05_l_1_5.jpg

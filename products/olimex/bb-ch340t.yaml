@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bb-ch340t
+ref: olimex/bb-ch340t
+vendor: olimex
+sku: bb-ch340t
+name: BB-CH340T
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Breadboarding/BB-CH340T/images/thumbs/200x150/BB-CH340T-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Breadboarding/BB-CH340T/open-source-hardware
-  repositories: []
-name: BB-CH340T
-ref: olimex/bb-ch340t
-release_date: null
-sku: bb-ch340t
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Breadboarding/BB-CH340T/images/thumbs/200x150/BB-CH340T-1.jpg

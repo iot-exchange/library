@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4345
+ref: mikroe/mikroe-4345
+vendor: mikroe
+sku: mikroe-4345
+name: MIKROE-4345
 description: Qi RX Click is a compact add-on board made for the purpose of wireless
   power transfer. This board features the PIC16F15313, a general-purpose 8-bit MCU
   that makes a flexible, low-cost alternative to the wireless charging solutions based
   on ASICs from Microchip. It represents a simple, low-cost implementation of the
   Qi 1.1 5W wireless charging standard...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/qi-rx-click/qi-rx-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/qi-rx-click
-  repositories: []
-name: MIKROE-4345
-ref: mikroe/mikroe-4345
-release_date: null
-sku: mikroe-4345
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/qi-rx-click/qi-rx-click-home_default-1.jpg?v=100

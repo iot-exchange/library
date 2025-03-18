@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: eeg-analog-pcb
+ref: olimex/eeg-analog-pcb
+vendor: olimex
+sku: eeg-analog-pcb
+name: EEG-ANALOG-PCB
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/EEG/OpenEEG/EEG-ANALOG-PCB/images/thumbs/200x150/EEG-ANALOG-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/EEG/OpenEEG/EEG-ANALOG-PCB/open-source-hardware
-  repositories: []
-name: EEG-ANALOG-PCB
-ref: olimex/eeg-analog-pcb
-release_date: null
-sku: eeg-analog-pcb
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/EEG/OpenEEG/EEG-ANALOG-PCB/images/thumbs/200x150/EEG-ANALOG-01.jpg

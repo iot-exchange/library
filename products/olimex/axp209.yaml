@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: axp209
+ref: olimex/axp209
+vendor: olimex
+sku: axp209
+name: AXP209
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/IC/AXP209/images/thumbs/200x150/AXP209-A-540.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/IC/AXP209/
-  repositories: []
-name: AXP209
-ref: olimex/axp209
-release_date: null
-sku: axp209
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/IC/AXP209/images/thumbs/200x150/AXP209-A-540.jpg

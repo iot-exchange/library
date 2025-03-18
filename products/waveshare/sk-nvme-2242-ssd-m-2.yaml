@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: sk-nvme-2242-ssd-m-2
+ref: waveshare/sk-nvme-2242-ssd-m-2
+vendor: waveshare
+sku: sk-nvme-2242-ssd-m-2
+name: SK-NVME 2242 SSD-M.2
 description: SK M2 NVME 2242 128GB / 256GB / 512GB High-speed Solid State Drive, High-quality
   3D TLC Flash Memory, High-speed Reading/Writing
+status: ''
 extra:
   Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/k/sk-nvme-2242-128g-ssd-m.2-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/sk-nvme-2242-128g-ssd-m.2.htm
-  repositories: []
-name: SK-NVME 2242 SSD-M.2
-ref: waveshare/sk-nvme-2242-ssd-m-2
-release_date: null
-sku: sk-nvme-2242-ssd-m-2
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/k/sk-nvme-2242-128g-ssd-m.2-1.jpg

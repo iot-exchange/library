@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: cs-e9302
+ref: olimex/cs-e9302
+vendor: olimex
+sku: cs-e9302
+name: CS-E9302
 description: ''
+status: ''
 extra:
   discountedPrice1: 62.96 EUR
   discountedPrice2: 55.96 EUR
   price: 69.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/CirrusLogic/CS-E9302/images/thumbs/200x150/CS-E9302-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/CirrusLogic/CS-E9302/
-  repositories: []
-name: CS-E9302
-ref: olimex/cs-e9302
-release_date: null
-sku: cs-e9302
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/CirrusLogic/CS-E9302/images/thumbs/200x150/CS-E9302-01.jpg

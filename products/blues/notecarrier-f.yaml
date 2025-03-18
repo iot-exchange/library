@@ -1,0 +1,23 @@
+id: notecarrier-f
+ref: blues/notecarrier-f
+vendor: blues
+sku: notecarrier-f
+name: Notecarrier F
+description: 24-pin Adafruit Feather breakout header, Nano-Sim slot for (optional)
+  additional carrier connectivity, JST connectors for V+, LiPo, and Solar, Supports
+  Notecard Outboard Firmware Update. This product requires a Notecard.
+status: ''
+extra:
+  Antenna: Bring Your Own Antenna
+  Compatibility: Adafruit Feather-compatible
+  Connection: Micro USB
+  Dimensions: 103mm x 51mm
+  Ports: Two Qwiic I2C Ports
+  Power: LiPo/Solar/V+
+  SIM Socket: External Nano-SIM Socket for Additional Carriers
+links:
+  products:
+  - https://blues.com/products/notecarrier/notecarrier-f/
+  - https://dev.blues.io/hardware/notecarrier-datasheet/notecarrier-f/?__hstc=171785791.41e0a2aa6e680b06cebdc71f5c4ca7ed.1742303092656.1742303092656.1742303092656.1&__hssc=171785791.4.1742303092656&__hsfp=2702779587
+  images:
+  - https://blues.com/wp-content/uploads/2023/09/f1.png

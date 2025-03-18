@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6373
+ref: mikroe/mikroe-6373
+vendor: mikroe
+sku: mikroe-6373
+name: MIKROE-6373
 description: SiBRAIN Card is a standardized add-on board, which allows very simple
   installation and replacement of the microcontroller unit (MCU) on a development
   board equipped with the SiBRAIN socket. By introducing the new SiBRAIN standard,
   we have ensured the absolute compatibility between the development board and any
   of the supported MCUs, regardless of their...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mcu-card-5-for-kinetis-mkv46f128vlh16/mcu-card-5-for-kinetis-mkv46f128vlh16-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mcu-card-5-for-kinetis-mkv46f128vlh16
-  repositories: []
-name: MIKROE-6373
-ref: mikroe/mikroe-6373
-release_date: null
-sku: mikroe-6373
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mcu-card-5-for-kinetis-mkv46f128vlh16/mcu-card-5-for-kinetis-mkv46f128vlh16-home_default-1.jpg?v=100

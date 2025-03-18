@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: receiver
+ref: microchip/receiver
+vendor: microchip
+sku: receiver
+name: Receiver
 description: ''
+status: ''
 extra:
   Max Frequency (GHz): ''
   "Max Operating Temp (\xB0C)": '105'
@@ -13,16 +17,5 @@ extra:
   Package: 32/VQFN
   Qty: NA
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Receiver
-ref: microchip/receiver
-release_date: null
-sku: receiver
-spec: null
-status: ''
-vendor: microchip
+  images: []

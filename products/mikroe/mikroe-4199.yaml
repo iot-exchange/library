@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4199
+ref: mikroe/mikroe-4199
+vendor: mikroe
+sku: mikroe-4199
+name: MIKROE-4199
 description: "UWB Click is an Ultra-Wideband transceiver Click board\u2122 that can\
   \ be used in 2-way ranging or TDOA location systems to locate assets to a precision\
   \ of 10 cm and supports data rates of up to 6.8 Mbps. This Click board\u2122 features\
   \ the DWM1000 module based on Qorvo's DW1000 Ultra-Wideband (UWB) transceiver from\
   \ Qorvo."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/uwb-click/uwb-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/uwb-click
-  repositories: []
-name: MIKROE-4199
-ref: mikroe/mikroe-4199
-release_date: null
-sku: mikroe-4199
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/uwb-click/uwb-click-home_default-1.jpg?v=100

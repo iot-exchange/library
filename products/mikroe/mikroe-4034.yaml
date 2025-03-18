@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4034
+ref: mikroe/mikroe-4034
+vendor: mikroe
+sku: mikroe-4034
+name: MIKROE-4034
 description: "5G NB IoT Click is a Click board\u2122 based on Thales ENS22 NB-IoT\
   \ Wireless Module platform that boosts highly efficient future 5G connectivity for\
   \ the IoT. The 5G NB IoT click combines single mode NB-IoT connectivity with extreme\
   \ power efficiency, extended coverage range and advanced security features providing\
   \ steadfast reliability for data only solutions...."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/5g-nb-iot-click/5g-nb-iot-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/5g-nb-iot-click
-  repositories: []
-name: MIKROE-4034
-ref: mikroe/mikroe-4034
-release_date: null
-sku: mikroe-4034
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/5g-nb-iot-click/5g-nb-iot-click-home_default-1.jpg?v=100

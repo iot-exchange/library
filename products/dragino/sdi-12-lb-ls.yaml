@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: sdi-12-lb-ls
+ref: dragino/sdi-12-lb-ls
+vendor: dragino
+sku: sdi-12-lb-ls
+name: SDI-12-LB/LS
 description: LoRaWAN 1.0.3 Class AUltra-low power consumptionControllable 5v and 12v
   output to power external sensorSDI-12 Protocol to connect to SDI-12 SensorBands:CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865Support
   BLE and LoRaWAN remote configureSupport wireless OTA update firmware8500mAh Li/SOCl2
   Battery (SDI-12-LB)Solar panel + 3000mAh Li-ion battery (SDI-12-LS)
+status: ''
 extra:
   Battery: 8500mAh Li/SOCl2 (SDI-12-LB), Solar panel + 3000mAh Li-ion battery (SDI-12-LS)
   Output: 5v and 12v
   Protocol: LoRaWAN 1.0.3 Class A
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/5fd45095a868b007b05013834dba7a95_L.jpg
-  models: []
   products:
   - https://dragino.com/products/agriculture-weather-station/item/252-sdi-12-lb-ls.html
-  repositories: []
-name: SDI-12-LB/LS
-ref: dragino/sdi-12-lb-ls
-release_date: null
-sku: sdi-12-lb-ls
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/5fd45095a868b007b05013834dba7a95_L.jpg

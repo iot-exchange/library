@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: efr32zg28
+ref: silicon-labs/efr32zg28
+vendor: silicon-labs
+sku: efr32zg28
+name: EFR32ZG28
 description: The ZG28 is an ideal dual band sub-GHz + 2.4 GHz SoC. The low-power,
   high-performance SoC features 1024 kB of Flash, 256 kB, and up to 49 GPIO to enable
   advanced Z-Wave applications.
+status: ''
 extra:
   Ideal for: Smart home, hospitality, MDU & smart cities
   Security: "Highest level of IoT security, Secure Vault\u2122"
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.silabs.com/content/siliconlabs/en/wireless/z-wave/efr32zg28-z-wave-800-socs.thumb.256.144.png
-  models: []
   products:
   - https://www.silabs.com/wireless/z-wave/efr32zg28-z-wave-800-socs
-  repositories: []
-name: EFR32ZG28
-ref: silicon-labs/efr32zg28
-release_date: null
-sku: efr32zg28
-spec: null
-status: ''
-vendor: silicon-labs
+  images:
+  - https://www.silabs.com/content/siliconlabs/en/wireless/z-wave/efr32zg28-z-wave-800-socs.thumb.256.144.png

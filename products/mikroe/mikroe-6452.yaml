@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-6452
+ref: mikroe/mikroe-6452
+vendor: mikroe
+sku: mikroe-6452
+name: MIKROE-6452
 description: NFC 7 Click - SPI is an add-on board that integrates NFC functionality
   in various applications. This board features the PN7160 (PN7160B1HN/C100E), a Near
   Field Communication (NFC) controller from NXP that is compliant with NFC Forum and
   NCI 2.0 standards. The board features an SPI communication interface, low-power
   consumption modes, and a new-generation...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/lr-15-click/lr-15-click-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/nfc-7-click-spi/nfc-7-click-spi-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=4096
   - https://www.mikroe.com/nfc-7-click-spi
-  repositories: []
-name: MIKROE-6452
-ref: mikroe/mikroe-6452
-release_date: null
-sku: mikroe-6452
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lr-15-click/lr-15-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/nfc-7-click-spi/nfc-7-click-spi-home_default-1.jpg?v=100

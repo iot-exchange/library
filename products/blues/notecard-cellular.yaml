@@ -1,0 +1,14 @@
+id: notecard-cellular
+ref: blues/notecard-cellular
+vendor: blues
+sku: notecard-cellular
+name: Notecard Cellular
+description: Global cellular coverage over LTE CAT-1, CAT-M, or NB-IoT. Precise location
+  tracking through a GNSS/GPS module. Embedded SIM with pre-provisioned network access.
+status: ''
+extra: {}
+links:
+  products:
+  - https://blues.com/notecard-cellular/
+  images:
+  - https://blues.com/wp-content/uploads/2024/04/WBEXN_WBNAN-Back.png

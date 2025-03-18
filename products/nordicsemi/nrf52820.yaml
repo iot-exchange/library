@@ -1,33 +1,26 @@
-alternatives: []
-certifications: []
+id: nrf52820
+ref: nordicsemi/nrf52820
+vendor: nordicsemi
+sku: nrf52820
+name: nRF52820
 description: Bluetooth 5.4 SoC with built-in USB and Bluetooth Low Energy, Bluetooth
   mesh, Thread and Zigbee support
+status: ''
 extra:
   CPU: 64 MHz Arm Cortex-M4
   Flash: 256 KB
   Operating Temperature: "-40 to 105 \xB0C extended"
+  RAM: 32 KB
+  TX Power: +8 dBm
+  Supply Voltage: 1.7 to 5.5 V
   Operating temperature: "-40 to 105 \xB0C"
   Packages: 5x5 mm QFN40 (18 GPIOs)
-  RAM: 32 KB
-  Supply Voltage: 1.7 to 5.5 V
   Supply voltage range: 1.7 to 5.5 V
-  TX Power: +8 dBm
   UART, SPI, TWI, QDEC: 'Yes'
   USB: Full Speed USB 2.0
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.nordicsemi.com/Products/nRF52820
   images:
   - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52820-WLCSP-2.531-x-2.531-stacked_web.png?h=250&iar=0&mh=250&w=250&hash=1D64AD1DAF901D2B789FCB466887504E
   - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52820-WLCSP-2.531-x-2.531-stacked_web.png?h=500&iar=0&mh=500&w=500&hash=B99AA0D3B36DF05AAC446187EFDD6166
-  models: []
-  products:
-  - https://www.nordicsemi.com/Products/nRF52820
-  repositories: []
-name: nRF52820
-ref: nordicsemi/nrf52820
-release_date: null
-sku: nrf52820
-spec: null
-status: ''
-vendor: nordicsemi

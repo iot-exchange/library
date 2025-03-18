@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: pippy
+ref: waveshare/pippy
+vendor: waveshare
+sku: pippy
+name: pippy
 description: PIPPY, an Open Source Bionic Dog-Like Robot Powered by Raspberry Pi (Optional)
+status: ''
 extra:
   Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pippy-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pippy.htm
-  repositories: []
-name: pippy
-ref: waveshare/pippy
-release_date: null
-sku: pippy
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pippy-1.jpg

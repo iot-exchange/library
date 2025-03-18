@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: str-h711
+ref: olimex/str-h711
+vendor: olimex
+sku: str-h711
+name: STR-H711
 description: ''
+status: ''
 extra:
   discountedPrice1: 29.66 EUR
   discountedPrice2: 26.36 EUR
   price: 32.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/ST/STR-H711/images/thumbs/200x150/STR-H711-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/ST/STR-H711/
-  repositories: []
-name: STR-H711
-ref: olimex/str-h711
-release_date: null
-sku: str-h711
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/ST/STR-H711/images/thumbs/200x150/STR-H711-01.jpg

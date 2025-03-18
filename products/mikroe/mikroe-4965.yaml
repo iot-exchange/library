@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-4965
+ref: mikroe/mikroe-4965
+vendor: mikroe
+sku: mikroe-4965
+name: MIKROE-4965
 description: LED Driver 13 Click is a compact add-on board that simplifies the control
   of multiple LEDs. This board features the A80604-1, a 4-channel LED driver designed
   at a switching frequency of 400kHz.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/led-driver-13-click/led-driver-13-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/led-driver-13-click
-  repositories: []
-name: MIKROE-4965
-ref: mikroe/mikroe-4965
-release_date: null
-sku: mikroe-4965
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/led-driver-13-click/led-driver-13-click-home_default-1.jpg?v=100

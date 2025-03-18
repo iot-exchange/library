@@ -1,0 +1,13 @@
+id: onethinx-lorawan-r-module-eu-version
+ref: onethinx/onethinx-lorawan-r-module-eu-version
+vendor: onethinx
+sku: onethinx-lorawan-r-module-eu-version
+name: "Onethinx LoRaWAN\xAE Module \u2013 EU Version"
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://shop.onethinx.com/products/onethinx-module-eu-version
+  images:
+  - https://shop.onethinx.com/cdn/shop/files/2.png?v=1727011678&width=533

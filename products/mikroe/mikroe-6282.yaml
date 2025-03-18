@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6282
+ref: mikroe/mikroe-6282
+vendor: mikroe
+sku: mikroe-6282
+name: MIKROE-6282
 description: LED Flash 4 Click is a compact add-on board for high-performance LED
   flash and torch applications. This board features the AS1170, a high-current LED
   driver from ams OSRAM. The AS1170 operates as an inductive, highly efficient DC-DC
   step-up converter with an external power supply range of 2.7V to 4.4V, featuring
   two internal current sinks for independent.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/led-flash-4-click/led-flash-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/led-flash-4-click
-  repositories: []
-name: MIKROE-6282
-ref: mikroe/mikroe-6282
-release_date: null
-sku: mikroe-6282
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/led-flash-4-click/led-flash-4-click-home_default-1.jpg?v=100

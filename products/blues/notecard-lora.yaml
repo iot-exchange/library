@@ -1,0 +1,17 @@
+id: notecard-lora
+ref: blues/notecard-lora
+vendor: blues
+sku: notecard-lora
+name: Notecard LoRa
+description: Compatible across all layers of the LoRa network, including LoRaWAN and
+  The Things Network. Ultra-low power design allows you to operate for years on a
+  battery and even extend battery life with sleep mode, which can wake up on sensor
+  events. Capable of communicating over a mile in urban areas and up to 5 miles in
+  rural areas.
+status: ''
+extra: {}
+links:
+  products:
+  - http://blues.com/notecard-lora
+  images:
+  - https://blues.com/wp-content/uploads/2023/09/lora1-prototype-1.png

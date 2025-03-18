@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-4969
+ref: mikroe/mikroe-4969
+vendor: mikroe
+sku: mikroe-4969
+name: MIKROE-4969
 description: Bundle of 168 positions high-speed SMT connectors, compatible with SiBRAIN
   add-on boards.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/sibrain-connector-bundle/sibrain-connector-bundle-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/sibrain-connector-bundle
-  repositories: []
-name: MIKROE-4969
-ref: mikroe/mikroe-4969
-release_date: null
-sku: mikroe-4969
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/sibrain-connector-bundle/sibrain-connector-bundle-home_default-1.jpg?v=100

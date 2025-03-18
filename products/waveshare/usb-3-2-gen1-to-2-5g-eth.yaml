@@ -1,27 +1,20 @@
-alternatives: []
-certifications: []
+id: usb-3-2-gen1-to-2-5g-eth
+ref: waveshare/usb-3-2-gen1-to-2-5g-eth
+vendor: waveshare
+sku: usb-3-2-gen1-to-2-5g-eth
+name: USB 3.2 Gen1 TO 2.5G ETH
 description: USB TO 2.5G Ethernet Port Converter, High-Speed Networking, Driver-Free,
   Windows / macOS / Linux / Android Multi-system Support, 2.5G USB Ethernet Adapter
+status: ''
 extra:
   Price: $16.31  -  $16.99
   SKU: '27688'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/s/psu-27w-usb-c-us-b-1.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-3.2-gen1-to-2.5g-eth-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/psu-27w-usb-c-b.htm "27W USB Type-C Power Supply
     Type B, PD Power Supply, Options For US / EU / UK Plugs, 1.2m cable length, Raspberry
     Pi 5 Power Supply"
   - https://www.waveshare.com/product/usb-3.2-gen1-to-2.5g-eth.htm
-  repositories: []
-name: USB 3.2 Gen1 TO 2.5G ETH
-ref: waveshare/usb-3-2-gen1-to-2-5g-eth
-release_date: null
-sku: usb-3-2-gen1-to-2-5g-eth
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/s/psu-27w-usb-c-us-b-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-3.2-gen1-to-2.5g-eth-1.jpg

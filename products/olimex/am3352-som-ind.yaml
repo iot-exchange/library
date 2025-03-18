@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: am3352-som-ind
+ref: olimex/am3352-som-ind
+vendor: olimex
+sku: am3352-som-ind
+name: AM3352-SOM-IND
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products: []
   images:
   - https://www.olimex.com/Products/SOM/AM335X/AM3352-SOM/images/thumbs/200x150/AM3352-SOM-1.jpg
-  models: []
-  products: []
-  repositories: []
-name: AM3352-SOM-IND
-ref: olimex/am3352-som-ind
-release_date: null
-sku: am3352-som-ind
-spec: null
-status: ''
-vendor: olimex

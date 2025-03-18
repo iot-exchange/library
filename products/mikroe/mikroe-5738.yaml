@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5738
+ref: mikroe/mikroe-5738
+vendor: mikroe
+sku: mikroe-5738
+name: MIKROE-5738
 description: eFuse 7 Click is a compact add-on board with a power path protection
   solution that limits circuit currents and voltages to safe levels during fault conditions.
   This board features the LS12052BD33, an eFuse with over-voltage protection and blocking
   FET control from Littelfuse. This industrial eFuse has a wide input voltage from
   2.7V up to 18V, external...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/efuse-7-click/efuse-7-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/efuse-7-click
-  repositories: []
-name: MIKROE-5738
-ref: mikroe/mikroe-5738
-release_date: null
-sku: mikroe-5738
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/efuse-7-click/efuse-7-click-home_default-1.jpg?v=100

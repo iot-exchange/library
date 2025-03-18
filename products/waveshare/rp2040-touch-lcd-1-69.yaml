@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: rp2040-touch-lcd-1-69
+ref: waveshare/rp2040-touch-lcd-1-69
+vendor: waveshare
+sku: rp2040-touch-lcd-1-69
+name: RP2040-Touch-LCD-1.69
 description: RP2040 Microcontroller Development Board, With 1.69inch Touch LCD, Rounded
   Corners, Dual-core Arm processor, Accelerometer And Gyroscope Sensor
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/rp2040-touch-lcd-1.69.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-touch-lcd-1.69-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-touch-lcd-1.69-2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/rp2040-touch-lcd-1.69.htm
-  repositories: []
-name: RP2040-Touch-LCD-1.69
-ref: waveshare/rp2040-touch-lcd-1-69
-release_date: null
-sku: rp2040-touch-lcd-1-69
-spec: null
-status: ''
-vendor: waveshare

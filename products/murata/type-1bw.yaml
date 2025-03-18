@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: type-1bw
+ref: murata/type-1bw
+vendor: murata
+sku: type-1bw
+name: Type 1BW
 description: Consumer equipment, Industrial Equipment
+status: ''
 extra:
   Bluetooth: 5.0 BR/EDR/LE
   Chipset: CYW433340
@@ -32,18 +36,7 @@ extra:
   Transmit Mode Current (Wi-Fi): ''
   Wi-Fi: Wi-Fi 4
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth#product-lineup
   - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth#series-lineup
-  repositories: []
-name: Type 1BW
-ref: murata/type-1bw
-release_date: null
-sku: type-1bw
-spec: null
-status: ''
-vendor: murata
+  images: []

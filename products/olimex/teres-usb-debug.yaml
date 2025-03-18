@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-usb-debug
+ref: olimex/teres-usb-debug
+vendor: olimex
+sku: teres-usb-debug
+name: TERES-USB-DEBUG
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/KITS/TERES-USB-DEBUG/images/thumbs/200x150/TERES-USB-DEBUG.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/KITS/TERES-USB-DEBUG/
-  repositories: []
-name: TERES-USB-DEBUG
-ref: olimex/teres-usb-debug
-release_date: null
-sku: teres-usb-debug
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/KITS/TERES-USB-DEBUG/images/thumbs/200x150/TERES-USB-DEBUG.jpg

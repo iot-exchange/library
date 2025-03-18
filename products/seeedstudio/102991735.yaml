@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: '102991735'
+ref: seeedstudio/102991735
+vendor: seeedstudio
+sku: '102991735'
+name: '102991735'
 description: "EdgeBox-ESP-100 represents the lightweight, multi-functional controller.\
   \ It carries various wireless capabilities and multiple Fieldbus, which makes it\
   \ an independent PLC for field automation applications, or enables it as an industrial\
@@ -7,20 +10,10 @@ description: "EdgeBox-ESP-100 represents the lightweight, multi-functional contr
   \ cloud. Raspberry Pi CM4-powered edge IoT gateway with 3*RS485, dual ethernet,\
   \ and optional wireless connectivity (4G, LoRa\xAE, Wi-Fi/BLE, Zigbee), priced starts\
   \ from $209."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/e/d/edgebox-esp100_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/EdgeBox-ESP-100-p-5490.html
-  repositories: []
-name: '102991735'
-ref: seeedstudio/102991735
-release_date: null
-sku: '102991735'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/e/d/edgebox-esp100_1.jpg

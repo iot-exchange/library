@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 4-57
+ref: microchip/4-57
+vendor: microchip
+sku: 4-57
+name: '4.57'
 description: Microcontroller with Zigbee, Proprietary
+status: ''
 extra:
   Current Consumption: '103'
   Frequency: Cortex-M0+
@@ -14,16 +18,5 @@ extra:
   Voltage Range: 1.8 to 3.6
   Wireless Protocols: Zigbee, Proprietary
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: '4.57'
-ref: microchip/4-57
-release_date: null
-sku: 4-57
-spec: null
-status: ''
-vendor: microchip
+  images: []

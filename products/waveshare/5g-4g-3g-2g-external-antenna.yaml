@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: 5g-4g-3g-2g-external-antenna
+ref: waveshare/5g-4g-3g-2g-external-antenna
+vendor: waveshare
+sku: 5g-4g-3g-2g-external-antenna
+name: 5G/4G/3G/2G External Antenna
 description: 5G High Gain Omni Antenna, 5G/4G/3G/2G Compatible, SMA To IPEX-4 Connector
+status: ''
 extra:
   Price: $4.15 - $4.49
   SKU: '18574'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/g/5g-4g-3g-2g-external-antenna-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/5g-4g-3g-2g-external-antenna.htm
   - https://www.waveshare.com/product/5g-4g-3g-2g-external-antenna.htm "5G High Gain
     Omni Antenna, 5G/4G/3G/2G Compatible, SMA To IPEX-4 Connector"
-  repositories: []
-name: 5G/4G/3G/2G External Antenna
-ref: waveshare/5g-4g-3g-2g-external-antenna
-release_date: null
-sku: 5g-4g-3g-2g-external-antenna
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/g/5g-4g-3g-2g-external-antenna-1.jpg

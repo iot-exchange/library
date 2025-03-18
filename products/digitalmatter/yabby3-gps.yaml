@@ -1,30 +1,23 @@
-alternatives: []
-certifications: []
+id: yabby3-gps
+ref: digitalmatter/yabby3-gps
+vendor: digitalmatter
+sku: yabby3-gps
+name: Yabby3 GPS
 description: Smallest form factor. Collar housing available for securing devices to
   animals.
+status: ''
 extra:
+  Battery Life Estimates: 8 years (Once Daily Location Updates)
+  Connectivity: LoRaWAN
+  Environment: Indoor/Outdoor
+  Location Technologies: GNSS Scanning, Wi-Fi Scanning
+  Size: 85 x 63 x 24 mm (3.35 x 2.48 x 0.94 in)
   Accelerometer: Movement Detection
   Batteries: 2 x AAA Lithium
-  Battery Life Estimates: 8 years (Once Daily Location Updates)
   Battery Life Estimates (Movement-Based Location Updates): 1 year
   Battery Life Estimates (Once Daily Location Updates): 12 years
   Cloud-Based Location Solving: 'Yes'
-  Connectivity: LoRaWAN
-  Environment: Indoor/Outdoor
   IP Rating: IP68 Rugged Waterproof
-  Location Technologies: GNSS Scanning, Wi-Fi Scanning
-  Size: 85 x 63 x 24 mm (3.35 x 2.48 x 0.94 in)
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Yabby3 GPS
-ref: digitalmatter/yabby3-gps
-release_date: null
-sku: yabby3-gps
-spec: null
-status: ''
-vendor: digitalmatter
+  images: []

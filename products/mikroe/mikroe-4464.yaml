@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4464
+ref: mikroe/mikroe-4464
+vendor: mikroe
+sku: mikroe-4464
+name: MIKROE-4464
 description: "Silabs Click Shield An ideal platform for developing energy-friendly\
   \ connected IoT solutions Start your IoT solution development with our Silabs Click\
   \ Shield fast and easy. The Thunderboard\u2122 and Starter Kit platforms, in combination\
   \ with the mikroBUS\u2122 socket, provides you immediate access to hundreds of Click\
   \ boards\u2122 in our offer, allowing you to..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/silabs-click-shield/silabs-click-shield-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/silabs-click-shield
-  repositories: []
-name: MIKROE-4464
-ref: mikroe/mikroe-4464
-release_date: null
-sku: mikroe-4464
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/silabs-click-shield/silabs-click-shield-home_default-1.jpg?v=100

@@ -1,0 +1,18 @@
+id: airnote
+ref: blues/airnote
+vendor: blues
+sku: airnote
+name: Airnote
+description: A Notecard-powered, zero-configuration air quality monitoring device.
+  Monitor the air quality and make informed decisions for a healthier environment.
+status: ''
+extra:
+  Connectivity: Built-in cellular capability
+  Coverage: Available in over 130 countries
+  Power: Self-Charging via solar panel, Micro USB charging
+  Sensors: Air Particulate Matter (PM1, PM2.5 and PM10), Temperature, Humidity, Barometric
+    Pressure, Radiation CPM, Millirem and Microsieverts (Radiation model only)
+links:
+  products: []
+  images:
+  - https://blues.com/wp-content/uploads/2022/03/product_airnote1-1.png

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sns-hcsr04
+ref: olimex/sns-hcsr04
+vendor: olimex
+sku: sns-hcsr04
+name: SNS-HCSR04
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Sensors/Distance/SNS-HCSR04/images/thumbs/200x150/SNS-HCSR04.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Sensors/Distance/SNS-HCSR04/
-  repositories: []
-name: SNS-HCSR04
-ref: olimex/sns-hcsr04
-release_date: null
-sku: sns-hcsr04
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/Distance/SNS-HCSR04/images/thumbs/200x150/SNS-HCSR04.jpg

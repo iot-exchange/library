@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: '110061503'
+ref: seeedstudio/110061503
+vendor: seeedstudio
+sku: '110061503'
+name: '110061503'
 description: reRouter CM4 102032 - Raspberry Pi Based Mini Router
+status: ''
 extra:
   Ethernet Ports: Dual Gigabit
   OS: OpenWRT
@@ -8,19 +12,8 @@ extra:
   Storage: 32GB eMMC
   USB Ports: Dual USB 3.0
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-110061503-panel-mount-kit-for-reterminal-dm-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Panel-mount-Kit-for-reTerminal-DM-p-5733.html
   - https://www.seeedstudio.com/reRouter-CM4102032-p-5734.html
-  repositories: []
-name: '110061503'
-ref: seeedstudio/110061503
-release_date: null
-sku: '110061503'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-110061503-panel-mount-kit-for-reterminal-dm-45font.jpg

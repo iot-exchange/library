@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mini-hdmi-r-to-hdmi-r-cable
+ref: raspberrypi/mini-hdmi-r-to-hdmi-r-cable
+vendor: raspberrypi
+sku: mini-hdmi-r-to-hdmi-r-cable
+name: "Mini HDMI\xAE to HDMI\xAE Cable"
 description: The official Raspberry Pi Mini HDMI C/Male to HDMI A/Male cable designed
   for use with Raspberry Pi Zero computers
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/8591f72649510dc6fa5563e3fe25079b/3f4ea/04327878-b634-4ef4-95d2-fe4269293ef5_Mini%2BHDMI%2B-%2BStd%2BHDMI.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/standard-hdmi-a-male-to-mini-hdmi-c-male-cable/
-  repositories: []
-name: "Mini HDMI\xAE to HDMI\xAE Cable"
-ref: raspberrypi/mini-hdmi-r-to-hdmi-r-cable
-release_date: null
-sku: mini-hdmi-r-to-hdmi-r-cable
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/8591f72649510dc6fa5563e3fe25079b/3f4ea/04327878-b634-4ef4-95d2-fe4269293ef5_Mini%2BHDMI%2B-%2BStd%2BHDMI.jpg

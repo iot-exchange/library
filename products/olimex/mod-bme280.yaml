@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mod-bme280
+ref: olimex/mod-bme280
+vendor: olimex
+sku: mod-bme280
+name: MOD-BME280
 description: ''
+status: ''
 extra:
-  bulkPrice: 5.56 EUR
-  discountedPrice: 6.26 EUR
   discountedPrice1: 6.26 EUR
   discountedPrice2: 5.56 EUR
   price: 6.95 EUR
+  bulkPrice: 5.56 EUR
+  discountedPrice: 6.26 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Sensors/MOD-BME280/images/thumbs/200x150/MOD-BME280.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Sensors/MOD-BME280/open-source-hardware
-  repositories: []
-name: MOD-BME280
-ref: olimex/mod-bme280
-release_date: null
-sku: mod-bme280
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Sensors/MOD-BME280/images/thumbs/200x150/MOD-BME280.jpg

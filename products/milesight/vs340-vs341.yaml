@@ -1,0 +1,13 @@
+id: vs340-vs341
+ref: milesight/vs340-vs341
+vendor: milesight
+sku: vs340-vs341
+name: VS340/VS341
+description: Desk & Seat Occupancy Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/vs34x
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/occupancy-people-counting-series/vs341.png?t=1742198585390

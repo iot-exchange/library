@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lf40-480480-ark
+ref: waveshare/lf40-480480-ark
+vendor: waveshare
+sku: lf40-480480-ark
+name: LF40-480480-ARK
 description: 4inch IPS Capacitive Touch Display, 480x480 Pixels, RGB Communication
   Interface, Compatible With Luckfox Pico Ultra Development Board
+status: ''
 extra:
   Price: $22.29  -  $23.99
   SKU: '27738'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/f/lf40-480480-ark-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/lf40-480480-ark.htm
-  repositories: []
-name: LF40-480480-ARK
-ref: waveshare/lf40-480480-ark
-release_date: null
-sku: lf40-480480-ark
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/f/lf40-480480-ark-1.jpg

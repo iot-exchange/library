@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '2611149024011'
+ref: we/2611149024011
+vendor: we
+sku: '2611149024011'
+name: '2611149024011'
 description: "Family EV-Board Proteus-III-SPI Bluetooth\xAE 5.1"
+status: Active
 extra:
   Expected lifetime: '>10 years'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/components/products/manual/2611149024011_Manual Family
     Boards_rev1.5.pdf
   - https://www.we-online.com/en/components/products/PROTEUS-III#2611149024011
-  repositories: []
-name: '2611149024011'
-ref: we/2611149024011
-release_date: null
-sku: '2611149024011'
-spec: null
-status: Active
-vendor: we
+  images: []

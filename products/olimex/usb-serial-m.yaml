@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: usb-serial-m
+ref: olimex/usb-serial-m
+vendor: olimex
+sku: usb-serial-m
+name: USB-SERIAL-M
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Cables/USB-Serial-Cable/USB-SERIAL-M/images/thumbs/200x150/USB-SERIAL-CABLE.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Cables/USB-Serial-Cable/USB-SERIAL-M/
-  repositories: []
-name: USB-SERIAL-M
-ref: olimex/usb-serial-m
-release_date: null
-sku: usb-serial-m
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Cables/USB-Serial-Cable/USB-SERIAL-M/images/thumbs/200x150/USB-SERIAL-CABLE.jpg

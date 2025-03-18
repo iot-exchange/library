@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: ldds04
+ref: dragino/ldds04
+vendor: dragino
+sku: ldds04
+name: LDDS04
 description: "LoRaWAN Distance Detection Sensor Bands:EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915\
   \ Ultra Low Power Consumption Ultrasonic sensing\uFF0Csupport max 4 channels"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/086218b2ac4369b7cefd2acbee0be8b1_L.jpg
-  models: []
   products:
   - https://dragino.com/products/distance-level-sensor/item/194-ldds04.html
-  repositories: []
-name: LDDS04
-ref: dragino/ldds04
-release_date: null
-sku: ldds04
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/086218b2ac4369b7cefd2acbee0be8b1_L.jpg

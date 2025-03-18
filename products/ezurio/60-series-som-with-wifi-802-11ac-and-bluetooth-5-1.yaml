@@ -1,8 +1,12 @@
-alternatives: []
-certifications: []
+id: 60-series-som-with-wifi-802-11ac-and-bluetooth-5-1
+ref: ezurio/60-series-som-with-wifi-802-11ac-and-bluetooth-5-1
+vendor: ezurio
+sku: 60-series-som-with-wifi-802-11ac-and-bluetooth-5-1
+name: 60 Series SOM with WiFi 802.11ac and Bluetooth 5.1
 description: "Chipset (MPU): 1x Cortex\xAE-A5 Applications Processor @ 536 MHz. Wireless\
   \ Specification: Wi-Fi 5 (802.11ac) Bluetooth 5.1. Chipset (Wireless): NXP 88W8997.\
   \ Dimensions: 30 x 30 x 2.8 mm. Antenna Options: 2x U.FL Connector."
+status: Active
 extra:
   Antenna Options: 2x U.FL Connector
   Chipset (MPU): "1x Cortex\xAE-A5 Applications Processor @ 536 MHz"
@@ -10,18 +14,7 @@ extra:
   Dimensions: 30 x 30 x 2.8 mm
   Wireless Specification: Wi-Fi 5 (802.11ac) Bluetooth 5.1
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/60-Som-Render-331.png
-  models: []
   products:
   - https://www.ezurio.com/system-on-module/microchip/60-series-som-wifi-80211ac-and-bluetooth-51
-  repositories: []
-name: 60 Series SOM with WiFi 802.11ac and Bluetooth 5.1
-ref: ezurio/60-series-som-with-wifi-802-11ac-and-bluetooth-5-1
-release_date: null
-sku: 60-series-som-with-wifi-802-11ac-and-bluetooth-5-1
-spec: null
-status: Active
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/60-Som-Render-331.png

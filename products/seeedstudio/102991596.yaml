@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '102991596'
+ref: seeedstudio/102991596
+vendor: seeedstudio
+sku: '102991596'
+name: '102991596'
 description: CANBed CAN Bus development board equipped powerful RP2040 has high-performance
   CAN controller and receiver operating at CAN 2.0 up to 133Mhz. It has flexible CAN
   interface which can be used as 4-PIN Terminal or D89 connector as OBD-II mode through
   a programmable Micro USB.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991596_front-05_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/CANBed-RP2040-CAN-Bus-development-board-p-5262.html
-  repositories: []
-name: '102991596'
-ref: seeedstudio/102991596
-release_date: null
-sku: '102991596'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991596_front-05_1.jpg

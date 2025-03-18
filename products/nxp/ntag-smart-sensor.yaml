@@ -1,18 +1,11 @@
-alternatives: []
-certifications: []
+id: ntag-smart-sensor
+ref: nxp/ntag-smart-sensor
+vendor: nxp
+sku: ntag-smart-sensor
+name: NTAG-SMART-SENSOR
 description: NTAG SmartSensor | NXP Semiconductors
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: NTAG-SMART-SENSOR
-ref: nxp/ntag-smart-sensor
-release_date: null
-sku: ntag-smart-sensor
-spec: null
-status: ''
-vendor: nxp
+  images: []

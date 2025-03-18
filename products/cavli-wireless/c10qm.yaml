@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: c10qm
+ref: cavli-wireless/c10qm
+vendor: cavli-wireless
+sku: c10qm
+name: C10QM
 description: LTE Cat 1 module with peak data rates up to 10 Mbps downlink and 5 Mbps
   uplink, equipped with GNSS connectivity and eSIM integration.
+status: ''
 extra:
   Cellular Bands Supported: 'EMEA / APAC: LTE - B1 / B3 / B5 / B8 / B20 / B40 | GSM
     - 900/1800 MHz; NA: LTE - B2 / B4 / B5 / B12 / B13 / B25 / B26 / B66 | GSM - 900
@@ -16,18 +20,7 @@ extra:
     LCD Interface
   OS: Yocto Linux (Kernel 4.14)
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.cavliwireless.com/assets/images/modules/c-series/webp-img/C10QM.webp
-  models: []
   products:
   - https://www.cavliwireless.com/c-series/c10qm.html
-  repositories: []
-name: C10QM
-ref: cavli-wireless/c10qm
-release_date: null
-sku: c10qm
-spec: null
-status: ''
-vendor: cavli-wireless
+  images:
+  - https://www.cavliwireless.com/assets/images/modules/c-series/webp-img/C10QM.webp

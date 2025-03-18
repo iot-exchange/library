@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-3590
+ref: mikroe/mikroe-3590
+vendor: mikroe
+sku: mikroe-3590
+name: MIKROE-3590
 description: 10-pin 0.05" ARM Cortex Debug Adapter comes with flat cable with IDC
   2x5 0.05" pitch connectors.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/codegrip-adapt-v2/codegrip-adapt-v2-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=125#MIKROE-3590
-  repositories: []
-name: MIKROE-3590
-ref: mikroe/mikroe-3590
-release_date: null
-sku: mikroe-3590
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/codegrip-adapt-v2/codegrip-adapt-v2-home_default-1.jpg?v=100

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '2611097021021'
+ref: we/2611097021021
+vendor: we
+sku: '2611097021021'
+name: '2611097021021'
 description: 'Active i Production is active. Expected lifetime: >10 years.'
+status: Active
 extra:
   Expected lifetime: '>10 years'
-  Product series: Sensor Node Thetis-I
   Production: active
+  Product series: Sensor Node Thetis-I
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o423290v214%20Single_Thetis-I_Sensor_Node.jpg
-  models: []
   products:
   - https://www.we-online.com/components/products/manual/2611097021021_Thetis-I EV-Kit
     2611019021011 Manual_rev1.4.pdf
-  repositories: []
-name: '2611097021021'
-ref: we/2611097021021
-release_date: null
-sku: '2611097021021'
-spec: null
-status: Active
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o423290v214%20Single_Thetis-I_Sensor_Node.jpg

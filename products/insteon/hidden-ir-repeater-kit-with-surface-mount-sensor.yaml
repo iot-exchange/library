@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: hidden-ir-repeater-kit-with-surface-mount-sensor
+ref: insteon/hidden-ir-repeater-kit-with-surface-mount-sensor
+vendor: insteon
+sku: hidden-ir-repeater-kit-with-surface-mount-sensor
+name: Hidden IR Repeater Kit with Surface Mount Sensor
 description: ''
+status: ''
 extra:
   regular_price: $24.95
   reviews: No reviews
   sale_price: $9.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/files/Hidden_IR_Repeater_Kit_with_Surface_Mount_Sensor.jpg?v=1724709397&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/hidden-ir-repeater-kit-with-surface-mount-sensor
-  repositories: []
-name: Hidden IR Repeater Kit with Surface Mount Sensor
-ref: insteon/hidden-ir-repeater-kit-with-surface-mount-sensor
-release_date: null
-sku: hidden-ir-repeater-kit-with-surface-mount-sensor
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/files/Hidden_IR_Repeater_Kit_with_Surface_Mount_Sensor.jpg?v=1724709397&width=533

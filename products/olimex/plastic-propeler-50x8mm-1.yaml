@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: plastic-propeler-50x8mm-1
+ref: olimex/plastic-propeler-50x8mm-1
+vendor: olimex
+sku: plastic-propeler-50x8mm-1
+name: PLASTIC-PROPELER-50x8MM-1
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/PLASTIC-PROPELLER-75x10MM-1/images/thumbs/200x150/PROPELER-75mm.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/PLASTIC-PROPELER-50x8MM-1/
-  repositories: []
-name: PLASTIC-PROPELER-50x8MM-1
-ref: olimex/plastic-propeler-50x8mm-1
-release_date: null
-sku: plastic-propeler-50x8mm-1
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/PLASTIC-PROPELLER-75x10MM-1/images/thumbs/200x150/PROPELER-75mm.jpg

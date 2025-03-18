@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: powerline-noise-filter
+ref: insteon/powerline-noise-filter
+vendor: insteon
+sku: powerline-noise-filter
+name: Powerline Noise Filter
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/products/noise-filter.png?v=1668197669&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/powerline-noise-filter
-  repositories: []
-name: Powerline Noise Filter
-ref: insteon/powerline-noise-filter
-release_date: null
-sku: powerline-noise-filter
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/products/noise-filter.png?v=1668197669&width=533

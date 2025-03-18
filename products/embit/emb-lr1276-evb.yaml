@@ -1,0 +1,13 @@
+id: emb-lr1276-evb
+ref: embit/emb-lr1276-evb
+vendor: embit
+sku: emb-lr1276-evb
+name: EMB-LR1276-EVB
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.embit.eu/products/emb-lr1276-evb/
+  images:
+  - https://www.embit.eu/wp-content/uploads/2024/02/EMB-LR1276-EVBmodificato-5-300x225.jpg

@@ -1,61 +1,54 @@
-alternatives: []
-certifications: []
+id: 8-bit-pic-mcu
+ref: microchip/8-bit-pic-mcu
+vendor: microchip
+sku: 8-bit-pic-mcu
+name: 8-bit PIC MCU
 description: ''
+status: ''
 extra:
-  ADC: 'Yes'
-  ADC Channels: '256'
-  BOR: 'Yes'
-  EEPROM: '36'
-  EEPROM (Bytes): '10'
   Flash Memory: '28'
-  Flash Memory (KB): '768'
-  GPIO: '12'
-  I/O Pins: '8'
-  I2C: '0'
-  LVD: Programmable LVD
-  Max ADC Channels: '128'
-  Max Clock Frequency: '1.39'
-  Max Frequency: 32 MHz, 32 kHz
-  Max Frequency (MHz): '0.82'
-  Max Speed (MHz): '0'
-  "Operating Temp (\xB0C)": -40 to 85
-  "Operating Temperature (\xB0C)": -40 to 125
-  Operating Temperature Max: '125'
-  Operating Temperature Min: '-40'
-  Operating Voltage (V): 1.8V - 5.5V
   Other Attributes: 'Yes'
-  PWM: '0'
-  PWM Channels: 'Yes'
+  Qty: '28'
+  BOR: 'Yes'
+  LVD: Programmable LVD
+  Max Frequency: 32 MHz, 32 kHz
   Package: '1'
-  Package Types: 40/PDIP 40/QFN 44/TQFP
-  Pins: '8'
+  Temperature Range: -40 to 125
+  Voltage Range: 1.8V to 5.5V
+  ADC Channels: '256'
+  EEPROM (Bytes): '10'
+  Flash Memory (KB): '768'
+  I/O Pins: '8'
+  Max Frequency (MHz): '0.82'
+  Operating Voltage (V): 1.8V - 5.5V
   Programmable BOR: 'Yes'
   Programmable LVD: 'Yes'
-  Qty: '28'
-  RAM (Bytes): '50'
-  SPI: '0'
-  SRAM: '2048'
   SRAM (Bytes): '512'
-  Temperature Range: -40 to 125
   "Temperature Range (\xB0C)": -40 to 125
+  I2C: '0'
+  Max ADC Channels: '128'
+  Max Speed (MHz): '0'
+  "Operating Temperature (\xB0C)": -40 to 125
+  PWM Channels: 'Yes'
+  Package Types: 40/PDIP 40/QFN 44/TQFP
+  SPI: '0'
   Timers: '0'
   UART: '0'
-  USB: '0'
   VDD (V): 2 to 5.5
+  EEPROM: '36'
+  Max Clock Frequency: '1.39'
+  Operating Temperature Max: '125'
+  Operating Temperature Min: '-40'
+  SRAM: '2048'
+  USB: '0'
   VDD Max: '5.5'
   VDD Min: '1.8'
-  Voltage Range: 1.8V to 5.5V
+  ADC: 'Yes'
+  GPIO: '12'
+  "Operating Temp (\xB0C)": -40 to 85
+  PWM: '0'
+  Pins: '8'
+  RAM (Bytes): '50'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: 8-bit PIC MCU
-ref: microchip/8-bit-pic-mcu
-release_date: null
-sku: 8-bit-pic-mcu
-spec: null
-status: ''
-vendor: microchip
+  images: []

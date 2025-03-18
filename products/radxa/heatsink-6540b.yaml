@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: heatsink-6540b
+ref: radxa/heatsink-6540b
+vendor: radxa
+sku: heatsink-6540b
+name: Heatsink 6540B
 description: Specialized for Radxa ROCK 5C
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/heatsink/ae014b/thumb_heatsink_6540b.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/heatsink-6540b
-  repositories: []
-name: Heatsink 6540B
-ref: radxa/heatsink-6540b
-release_date: null
-sku: heatsink-6540b
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/heatsink/ae014b/thumb_heatsink_6540b.webp

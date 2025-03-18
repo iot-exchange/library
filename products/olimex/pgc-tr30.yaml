@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pgc-tr30
+ref: olimex/pgc-tr30
+vendor: olimex
+sku: pgc-tr30
+name: PGC-TR30
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/HandTools/PGC-TR30/images/thumbs/200x150/PGC-TR30-00.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/HandTools/PGC-TR30/
-  repositories: []
-name: PGC-TR30
-ref: olimex/pgc-tr30
-release_date: null
-sku: pgc-tr30
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/HandTools/PGC-TR30/images/thumbs/200x150/PGC-TR30-00.jpg

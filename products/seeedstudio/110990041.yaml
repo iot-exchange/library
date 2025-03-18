@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '110990041'
+ref: seeedstudio/110990041
+vendor: seeedstudio
+sku: '110990041'
+name: '110990041'
 description: Bus Pirate v3 probe Kit
+status: ''
 extra:
   specification: commonly used 2.54mm spaced pin 10 pin 2*5
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesprobekit_lrg.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Bus-Pirate-v3-probe-Kit-p-526.html
-  repositories: []
-name: '110990041'
-ref: seeedstudio/110990041
-release_date: null
-sku: '110990041'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesprobekit_lrg.jpg

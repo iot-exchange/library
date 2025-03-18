@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 7inch-side-monitor
+ref: waveshare/7inch-side-monitor
+vendor: waveshare
+sku: 7inch-side-monitor
+name: 7inch_side_monitor
 description: "7inch IPS Side Monitor, PC Case Secondary Screen, High Resolution &\
   \ High Brightness, CNC Metal Case, 1024\xD7600 Pixels"
+status: ''
 extra:
   Price: $46.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/i/7inch-side-monitor-w-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/7inch-side-monitor-w.htm
-  repositories: []
-name: 7inch_side_monitor
-ref: waveshare/7inch-side-monitor
-release_date: null
-sku: 7inch-side-monitor
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/i/7inch-side-monitor-w-1.jpg

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-6240
+ref: mikroe/mikroe-6240
+vendor: mikroe
+sku: mikroe-6240
+name: MIKROE-6240
 description: 1x4 RGB Click is a compact add-on board that creates vivid and dynamic
   lighting effects. This board features the LP5812, an advanced RGB LED driver from
   Texas Instruments.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/1x4-rgb-click/1x4-rgb-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/1x4-rgb-click
-  repositories: []
-name: MIKROE-6240
-ref: mikroe/mikroe-6240
-release_date: null
-sku: mikroe-6240
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/1x4-rgb-click/1x4-rgb-click-home_default-1.jpg?v=100

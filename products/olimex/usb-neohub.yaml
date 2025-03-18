@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: usb-neohub
+ref: olimex/usb-neohub
+vendor: olimex
+sku: usb-neohub
+name: USB-NeoHub
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/RaspberryPi/PICO/USB-NeoHub/images/thumbs/200x150/USB-NeoHUBa-w.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/RaspberryPi/PICO/USB-NeoHub/open-source-hardware
-  repositories: []
-name: USB-NeoHub
-ref: olimex/usb-neohub
-release_date: null
-sku: usb-neohub
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/RaspberryPi/PICO/USB-NeoHub/images/thumbs/200x150/USB-NeoHUBa-w.jpg

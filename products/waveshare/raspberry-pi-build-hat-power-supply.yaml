@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-build-hat-power-supply
+ref: waveshare/raspberry-pi-build-hat-power-supply
+vendor: waveshare
+sku: raspberry-pi-build-hat-power-supply
+name: Raspberry Pi Build HAT Power Supply
 description: Raspberry Pi Build HAT Power Supply, 48W, 8V 6A, DC2.1
+status: ''
 extra:
   Price: $9.31 - $9.99
   SKU: '21313'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-build-hat-power-supply-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/raspberry-pi-build-hat-power-supply.htm
-  repositories: []
-name: Raspberry Pi Build HAT Power Supply
-ref: waveshare/raspberry-pi-build-hat-power-supply
-release_date: null
-sku: raspberry-pi-build-hat-power-supply
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-build-hat-power-supply-2.jpg

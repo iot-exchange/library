@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: sim8200ea-hat
+ref: waveshare/sim8200ea-hat
+vendor: waveshare
+sku: sim8200ea-hat
+name: sim8200ea_hat
 description: SIM8200EA-M2 5G HAT for Raspberry Pi, 5G/4G/3G Support, Snapdragon X55,
   Multi Mode Multi Band
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim8200ea-m2-5g-hat-3.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/sim8200ea-m2-5g-hat.htm
-  repositories: []
-name: sim8200ea_hat
-ref: waveshare/sim8200ea-hat
-release_date: null
-sku: sim8200ea-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim8200ea-m2-5g-hat-3.jpg

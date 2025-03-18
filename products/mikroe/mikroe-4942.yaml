@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4942
+ref: mikroe/mikroe-4942
+vendor: mikroe
+sku: mikroe-4942
+name: MIKROE-4942
 description: Mikromedia 3 for PIC Capacitive FPI with bezel Rapid development of multimedia
   and gui-centric applications BUILD GREAT GUI IN NO TIME Rich with peripherals Mikromedia
   3 for PIC CAPACITIVE is not limited to multimedia-based applications only. USB,
   digital motion sensor, battery charging functionality, SD card reader and much more
   expands its use.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mikromedia-3-for-pic-capacitive-fpi-with-bezel/mikromedia-3-for-pic-capacitive-fpi-with-bezel-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mikromedia-3-for-pic-capacitive-fpi-with-bezel
-  repositories: []
-name: MIKROE-4942
-ref: mikroe/mikroe-4942
-release_date: null
-sku: mikroe-4942
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-3-for-pic-capacitive-fpi-with-bezel/mikromedia-3-for-pic-capacitive-fpi-with-bezel-home_default-1.jpg?v=100

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: open3s500e-package-a
+ref: waveshare/open3s500e-package-a
+vendor: waveshare
+sku: open3s500e-package-a
+name: Open3S500E Package A
 description: Part No.:Open3S500E Package A, XILINX Development Board
+status: Out of Stock
 extra:
   Price: $140.27 - $142.99
   SKU: '6705'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/open3s500e-package-a_l_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/open3s500e-package-a.htm
-  repositories: []
-name: Open3S500E Package A
-ref: waveshare/open3s500e-package-a
-release_date: null
-sku: open3s500e-package-a
-spec: null
-status: Out of Stock
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/open3s500e-package-a_l_2.jpg

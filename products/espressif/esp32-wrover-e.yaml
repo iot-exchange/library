@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: esp32-wrover-e
+ref: espressif/esp32-wrover-e
+vendor: espressif
+sku: esp32-wrover-e
+name: ESP32-WROVER-E
 description: For flashing / testing ESP32-WROVER-E / ESP32-WROVER / ESP32-WROVER-B
   modules (must be used with ESP-BAT32 for testing)
+status: ''
 extra:
   Antenna: PCB antenna
   Development Board: ESP32-DevKitC, ESP-WROVER-KIT, ESP32-LyraT, ESP32-LyraT-Mini,
@@ -11,18 +15,7 @@ extra:
   PSRAM: '8'
   Pins: '38'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP32-WROVER-E%20S.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp32-wrover-e_esp32-wrover-ie_datasheet_en.pdf
-  repositories: []
-name: ESP32-WROVER-E
-ref: espressif/esp32-wrover-e
-release_date: null
-sku: esp32-wrover-e
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-WROVER-E%20S.png

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: '111'
+ref: microchip/111
+vendor: microchip
+sku: '111'
+name: '111'
 description: Microcontroller with AES Engine, TRNG, SHA1, SHA224, SHA256
+status: ''
 extra:
   Core: ARM Cortex M4F
   Current Consumption: '1.5'
@@ -15,16 +19,5 @@ extra:
   Voltage Range: 1.9 to 3.6
   Wireless Protocols: Bluetooth LE, Zigbee, Thread, Proprietary
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: '111'
-ref: microchip/111
-release_date: null
-sku: '111'
-spec: null
-status: ''
-vendor: microchip
+  images: []

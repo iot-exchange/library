@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: servo-driver-hat-b
+ref: waveshare/servo-driver-hat-b
+vendor: waveshare
+sku: servo-driver-hat-b
+name: Servo Driver HAT (B)
 description: Servo Driver HAT (B) for Raspberry Pi, 16-Channel, 12-bit, I2C
+status: ''
 extra:
   Price: $13.97 - $14.99
   SKU: '17035'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/servo-driver-hat-b.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/e/servo-driver-hat-b-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/e/servo-driver-hat-b-4.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/servo-driver-hat-b.htm
-  repositories: []
-name: Servo Driver HAT (B)
-ref: waveshare/servo-driver-hat-b
-release_date: null
-sku: servo-driver-hat-b
-spec: null
-status: ''
-vendor: waveshare

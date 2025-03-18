@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: nitrogen6-solox-sbc
+ref: ezurio/nitrogen6-solox-sbc
+vendor: ezurio
+sku: nitrogen6-solox-sbc
+name: Nitrogen6 SoloX SBC
 description: Chipset (MPU) x1 Cortex-A9 @ 1 GHz (via NXP i.MX6 SoloX processor) and
   Chipset (MCU) x1 Cortex-M4 (via NXP i.MX6 SoloX processor)
+status: Active
 extra:
   Dimensions (L x W): 130 x 80
   Wireless Specification: Optional wireless via daughterboard
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/Nitrogen6_SoloX-e1550281599325.png
-  models: []
   products:
   - https://www.ezurio.com/single-board-computer/nxp-imx6/nitrogen6-solox-sbc
-  repositories: []
-name: Nitrogen6 SoloX SBC
-ref: ezurio/nitrogen6-solox-sbc
-release_date: null
-sku: nitrogen6-solox-sbc
-spec: null
-status: Active
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/Nitrogen6_SoloX-e1550281599325.png

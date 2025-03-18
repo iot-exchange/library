@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: samsung-hanwa-koganei-bdas6x15
+ref: olimex/samsung-hanwa-koganei-bdas6x15
+vendor: olimex
+sku: samsung-hanwa-koganei-bdas6x15
+name: SAMSUNG-HANWA-KOGANEI-BDAS6X15
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/SMT/SAMSUNG-HANWA-KOGANEI-BDAS6X15/images/thumbs/200x150/BDAS6X15.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/SMT/SAMSUNG-HANWA-KOGANEI-BDAS6X15/
-  repositories: []
-name: SAMSUNG-HANWA-KOGANEI-BDAS6X15
-ref: olimex/samsung-hanwa-koganei-bdas6x15
-release_date: null
-sku: samsung-hanwa-koganei-bdas6x15
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/SMT/SAMSUNG-HANWA-KOGANEI-BDAS6X15/images/thumbs/200x150/BDAS6X15.jpg

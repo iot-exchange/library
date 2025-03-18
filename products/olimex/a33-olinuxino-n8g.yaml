@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: a33-olinuxino-n8g
+ref: olimex/a33-olinuxino-n8g
+vendor: olimex
+sku: a33-olinuxino-n8g
+name: A33-OLinuXino-n8G
 description: ''
+status: ''
 extra:
   10+ pcs: 38.70 EUR
   100+ pcs: 32.25 EUR
   1000+ pcs: 30.10 EUR
   50+ pcs: 34.40 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/A33/A33-OLinuXino/images/thumbs/200x150/A33-OLinuXino-4GB.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/A33/A33-OLinuXino-n8G/open-source-hardware
-  repositories: []
-name: A33-OLinuXino-n8G
-ref: olimex/a33-olinuxino-n8g
-release_date: null
-sku: a33-olinuxino-n8g
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A33/A33-OLinuXino/images/thumbs/200x150/A33-OLinuXino-4GB.jpg

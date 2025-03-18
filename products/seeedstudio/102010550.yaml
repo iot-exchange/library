@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: '102010550'
+ref: seeedstudio/102010550
+vendor: seeedstudio
+sku: '102010550'
+name: '102010550'
 description: "The XIAO RP2350 packs the power of the Raspberry Pi RP2350 (switchable\
   \ architecture of dual Arm Cortex-M33 cores running at 150MHz with FPU, and dual\
   \ open-hardware Hazard3 RISC-V cores, enhanced security and encryption) into the\
@@ -11,22 +14,12 @@ description: "The XIAO RP2350 packs the power of the Raspberry Pi RP2350 (switch
   \ mmWave sensors. With native support for MicroPython, C, and C++, the XIAO RP2350\
   \ is perfect for developers of all levels looking to create compact, battery-powered\
   \ applications for smart control, wearables, DIY keyboards, and more."
+status: ''
 extra:
   Price: $5.40
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/g/r/group_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-Pico-2-p-5940.html
   - https://www.seeedstudio.com/Seeed-XIAO-RP2350-p-5944.html
-  repositories: []
-name: '102010550'
-ref: seeedstudio/102010550
-release_date: null
-sku: '102010550'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/g/r/group_1.jpg

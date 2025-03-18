@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: core103v
+ref: waveshare/core103v
+vendor: waveshare
+sku: core103v
+name: Core103V
 description: Core103V, STM32F1 Core Board
+status: ''
 extra:
   Price: $35.97 - $36.99
   SKU: '5930'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.waveshare.com/product/core103v.htm
-  repositories: []
-name: Core103V
-ref: waveshare/core103v
-release_date: null
-sku: core103v
-spec: null
-status: ''
-vendor: waveshare
+  images: []

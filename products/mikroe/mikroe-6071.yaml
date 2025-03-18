@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6071
+ref: mikroe/mikroe-6071
+vendor: mikroe
+sku: mikroe-6071
+name: MIKROE-6071
 description: Buck 18 Click is a compact add-on board for step-down voltage conversion
   in power-sensitive applications. This board features the MAXM38643, an ultra-low-IQ
   nanoPower buck module from Analog Devices, providing highly efficient voltage regulation
   with minimal power consumption. The board supports input voltages from 1.8V to 5.5V,
   converting them to output.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/buck-18-click/buck-18-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/buck-18-click
-  repositories: []
-name: MIKROE-6071
-ref: mikroe/mikroe-6071
-release_date: null
-sku: mikroe-6071
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/buck-18-click/buck-18-click-home_default-1.jpg?v=100

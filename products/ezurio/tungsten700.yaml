@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: tungsten700
+ref: ezurio/tungsten700
+vendor: ezurio
+sku: tungsten700
+name: Tungsten700
 description: "Tungsten700 SMARC\xAE System-On-Module from Laird Connectivity Combines\
   \ Superior Edge Processing with Wi-Fi 6 and Bluetooth 5.3 Connectivity"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/537x300/filters:fill(white)/filters:background_color(white)/2024-09/Tungsten%20700%20-%20MT320%20M.2-1420%20-%20Front.png
-  models: []
   products:
   - https://www.ezurio.com/resources/newsroom/tungsten700-smarc-system-on-module-from-laird-connectivity-combines-superior-edge-processing-with-wi-fi-6-and-bluetooth-5-3-connectivity
-  repositories: []
-name: Tungsten700
-ref: ezurio/tungsten700
-release_date: null
-sku: tungsten700
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/537x300/filters:fill(white)/filters:background_color(white)/2024-09/Tungsten%20700%20-%20MT320%20M.2-1420%20-%20Front.png

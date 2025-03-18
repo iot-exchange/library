@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: remora3-bluetooth
+ref: digitalmatter/remora3-bluetooth
+vendor: digitalmatter
+sku: remora3-bluetooth
+name: Remora3 Bluetooth
 description: ''
+status: ''
 extra:
   Accelerometer: Movement, Impact, Rotation, and Tip Detection
   Batteries: 2 x D LTC
@@ -12,16 +16,5 @@ extra:
   IP Rating: IP68 Rugged Waterproof
   Location Technologies: GNSS, Cell Tower Location
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Remora3 Bluetooth
-ref: digitalmatter/remora3-bluetooth
-release_date: null
-sku: remora3-bluetooth
-spec: null
-status: ''
-vendor: digitalmatter
+  images: []

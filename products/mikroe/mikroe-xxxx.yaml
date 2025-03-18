@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: mikroe-xxxx
+ref: mikroe/mikroe-xxxx
+vendor: mikroe
+sku: mikroe-xxxx
+name: MIKROE-XXXX
 description: Mikromedia 3 for PIC32MZ CAPACITIVE is not limited to
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mikromedia-3-for-pic32mz-capacitive-fpi-with-frame/mikromedia-3-for-pic32mz-capacitive-fpi-with-frame-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mikromedia-3-for-pic32mz-capacitive-fpi-with-frame
-  repositories: []
-name: MIKROE-XXXX
-ref: mikroe/mikroe-xxxx
-release_date: null
-sku: mikroe-xxxx
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-3-for-pic32mz-capacitive-fpi-with-frame/mikromedia-3-for-pic32mz-capacitive-fpi-with-frame-home_default-1.jpg?v=100

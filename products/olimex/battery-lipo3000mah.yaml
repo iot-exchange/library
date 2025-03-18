@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: battery-lipo3000mah
+ref: olimex/battery-lipo3000mah
+vendor: olimex
+sku: battery-lipo3000mah
+name: BATTERY-LIPO3000mAh
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Power/Lipo-battery/BATTERY-LIPO3000mAh/images/thumbs/200x150/BATTERY-LIPO3000.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Power/Lipo-battery/BATTERY-LIPO3000mAh/
-  repositories: []
-name: BATTERY-LIPO3000mAh
-ref: olimex/battery-lipo3000mah
-release_date: null
-sku: battery-lipo3000mah
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Power/Lipo-battery/BATTERY-LIPO3000mAh/images/thumbs/200x150/BATTERY-LIPO3000.jpg

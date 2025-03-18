@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '114992989'
+ref: seeedstudio/114992989
+vendor: seeedstudio
+sku: '114992989'
+name: '114992989'
 description: BME688 is the first gas sensor with Artificial Intelligence(AI) and integrated
   high-linearity and high-accuracy pressure, humidity and temperature sensors which
   can be easily customized for specific use cases such as the detection of odors &
   bad smells & wildfire, etc.
+status: ''
 extra:
   Price: $33.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992989-45-font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Grove-Gas-Sensor-BME688-p-5478.html
-  repositories: []
-name: '114992989'
-ref: seeedstudio/114992989
-release_date: null
-sku: '114992989'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992989-45-font.jpg

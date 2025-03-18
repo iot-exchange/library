@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: aduc-p7026
+ref: olimex/aduc-p7026
+vendor: olimex
+sku: aduc-p7026
+name: ADuC-P7026
 description: ''
+status: ''
 extra:
   10+ pcs: 32.36 EUR
   50+ pcs: 28.76 EUR
   Price: 35.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/AnalogDevices/ADuC-P7026/images/thumbs/200x150/ADuC-P7026-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/AnalogDevices/ADuC-P7026/
-  repositories: []
-name: ADuC-P7026
-ref: olimex/aduc-p7026
-release_date: null
-sku: aduc-p7026
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/AnalogDevices/ADuC-P7026/images/thumbs/200x150/ADuC-P7026-01.jpg

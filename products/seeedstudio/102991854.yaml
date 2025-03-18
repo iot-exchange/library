@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '102991854'
+ref: seeedstudio/102991854
+vendor: seeedstudio
+sku: '102991854'
+name: '102991854'
 description: The J501 carrier board is a powerful extension board that supports NVIDIA
   Jetson AGX Orin modules. It features rich data ports and extension interfaces, completely
   unleashed the full performance of the AGX Orin module. Also it supports adding GMSL
   extension to deliver up to 8 GMSL cameras.
+status: ''
 extra:
   Price: $379.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/6/-/6-102991854-reserver-industrial-j501-carrier-board-for-jetson-agx-orin-all_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/reServer-Industrial-J501-Carrier-board-for-Jetson-AGX-Orin-p-5950.html
-  repositories: []
-name: '102991854'
-ref: seeedstudio/102991854
-release_date: null
-sku: '102991854'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/6/-/6-102991854-reserver-industrial-j501-carrier-board-for-jetson-agx-orin-all_1.jpg

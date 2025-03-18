@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: lds01-lorawan-door-sensor
+ref: dragino/lds01-lorawan-door-sensor
+vendor: dragino
+sku: lds01-lorawan-door-sensor
+name: LDS01 -- LoRaWAN Door Sensor
 description: Coin Battery Powered LoRaWAN Door Sensor, Ultra Low Power Consumption
   (Replaced with LDS02)
+status: ''
 extra:
   Bands: EU433, CN470, EU868, IN865, KR920, AS923, AU915, US915
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/171fc14b49a79ea979710de5b3402b30_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lorawan-nb-iot-door-sensor-water-leak/item/157-lds01.html
-  repositories: []
-name: LDS01 -- LoRaWAN Door Sensor
-ref: dragino/lds01-lorawan-door-sensor
-release_date: null
-sku: lds01-lorawan-door-sensor
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/171fc14b49a79ea979710de5b3402b30_L.jpg

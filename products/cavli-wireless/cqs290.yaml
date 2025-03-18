@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: cqs290
+ref: cavli-wireless/cqs290
+vendor: cavli-wireless
+sku: cqs290
+name: CQS290
 description: Android module with support for USB, UART, and LCD interfaces.
+status: ''
 extra:
   Cellular Bands Supported: "WW: B1 /B2 /B3 /B4 /B5 /B7 /B8 /B12 /B13 /B18 /B19 /B20\
     \ /B25 /B26 /B28 /B38 /B40 /B41 /B66 /B71 | GSM \u2013 900/1800 MHz"
@@ -13,21 +17,10 @@ extra:
   Key Highlights: "ARM Cortex-A53 64-bit Processor (Quad-core), Qualcomm Adreno\u2122\
     \ 702 GPU, 2G Fallback, Integrated eSIM, Integrated LCD Touchscreen interface,\
     \ Baseband Chipset: QCM2290, GNSS: Inbuilt (L1 Capable), Middleware: Nil"
-  Network Speeds: 150 Mbps download and 50 Mbps upload
   OS: Android
+  Network Speeds: 150 Mbps download and 50 Mbps upload
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.cavliwireless.com/assets/images/modules/c-series/webp-img/CQS290.webp
-  models: []
   products:
   - https://www.cavliwireless.com/c-series/cqs290.html
-  repositories: []
-name: CQS290
-ref: cavli-wireless/cqs290
-release_date: null
-sku: cqs290
-spec: null
-status: ''
-vendor: cavli-wireless
+  images:
+  - https://www.cavliwireless.com/assets/images/modules/c-series/webp-img/CQS290.webp

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6293
+ref: mikroe/mikroe-6293
+vendor: mikroe
+sku: mikroe-6293
+name: MIKROE-6293
 description: BarGraph 5 Click is a compact add-on board designed for visual data representation
   through LED bargraph displays. This board features three HLMP-2685 red LED bargraph
   displays from Broadcom Limited, controlled by the TLC5947, a 12-bit PWM LED driver
   from Texas Instruments. These rectangular red light bars are housed in single-in-line
   packages, delivering...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/bargraph-5-click/bargraph-5-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/bargraph-5-click
-  repositories: []
-name: MIKROE-6293
-ref: mikroe/mikroe-6293
-release_date: null
-sku: mikroe-6293
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/bargraph-5-click/bargraph-5-click-home_default-1.jpg?v=100

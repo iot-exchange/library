@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '114070201'
+ref: seeedstudio/114070201
+vendor: seeedstudio
+sku: '114070201'
+name: '114070201'
 description: "reTerminal DM is a Panel PC, HMI, IIoT Gateway all-in-one device powered\
   \ by Raspberry Pi CM4, with 10.1' IP65 front panel and supports Raspberry Pi-based\
   \ software ecosystem. It is equipped with rich interfaces, supporting CAN bus, RS485,\
   \ RS232, Gigabit Ethernet, as well as powerful wireless communication capabilities\
   \ such as 4G, LoRa\xAE, Wi-Fi, and BLE."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/i/m/image1.jpeg
-  models: []
   products:
   - https://www.seeedstudio.com/reTerminal-DM-p-5616.html
-  repositories: []
-name: '114070201'
-ref: seeedstudio/114070201
-release_date: null
-sku: '114070201'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/i/m/image1.jpeg

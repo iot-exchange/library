@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-3971
+ref: mikroe/mikroe-3971
+vendor: mikroe
+sku: mikroe-3971
+name: MIKROE-3971
 description: "NFC Extend Click is NFC tag interface device with possibility of using\
   \ any shape and size external antenna, offering 16 Kbit of electrically erasable\
   \ programmable memory (EEPROM). This Click Board\u2122 offer two communication interfaces."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products: []
   images:
   - https://www.mikroe.com/img/af
-  models: []
-  products: []
-  repositories: []
-name: MIKROE-3971
-ref: mikroe/mikroe-3971
-release_date: null
-sku: mikroe-3971
-spec: null
-status: ''
-vendor: mikroe

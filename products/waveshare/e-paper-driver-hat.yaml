@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: e-paper-driver-hat
+ref: waveshare/e-paper-driver-hat
+vendor: waveshare
+sku: e-paper-driver-hat
+name: e-Paper Driver HAT
 description: Universal e-Paper Raw Panel Driver HAT, Supports Most Waveshare SPI e-Paper
   Raw Panels
+status: ''
 extra:
   Price: $7.95 - $9.99
   SKU: '13512'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/-/e-paper-driver-hat-1_3.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/e-paper-driver-hat.htm
-  repositories: []
-name: e-Paper Driver HAT
-ref: waveshare/e-paper-driver-hat
-release_date: null
-sku: e-paper-driver-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/-/e-paper-driver-hat-1_3.jpg

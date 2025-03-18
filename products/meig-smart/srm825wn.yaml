@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: srm825wn
+ref: meig-smart/srm825wn
+vendor: meig-smart
+sku: srm825wn
+name: SRM825WN
 description: 5G NR M.2 Packaging
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://en.meigsmart.com/userfiles/images/2024/03/09/2024030911505934.png
-  models: []
   products:
   - https://en.meigsmart.com/productdetail/5gsmartmodules-825.html
-  repositories: []
-name: SRM825WN
-ref: meig-smart/srm825wn
-release_date: null
-sku: srm825wn
-spec: null
-status: ''
-vendor: meig-smart
+  images:
+  - https://en.meigsmart.com/userfiles/images/2024/03/09/2024030911505934.png

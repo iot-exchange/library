@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: sim8200ea-router
+ref: waveshare/sim8200ea-router
+vendor: waveshare
+sku: sim8200ea-router
+name: sim8200ea_router
 description: SIM8200EA-M2 Industrial 5G Router, Wireless CPE, 5G/4G/3G Support, Snapdragon
   X55, Multi Mode Multi Band
+status: ''
 extra:
   Price: $409.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim8200ea-m2-5g-router-1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/sim8200ea-m2-5g-router.htm
-  repositories: []
-name: sim8200ea_router
-ref: waveshare/sim8200ea-router
-release_date: null
-sku: sim8200ea-router
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim8200ea-m2-5g-router-1_2.jpg

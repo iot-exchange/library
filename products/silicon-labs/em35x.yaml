@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: em35x
+ref: silicon-labs/em35x
+vendor: silicon-labs
+sku: em35x
+name: EM35x
 description: Wireless Zigbee SoCs
+status: ''
 extra:
   Flash (kB): "\u2014"
   GPIO: '0'
@@ -12,17 +16,6 @@ extra:
   Security: AES-128
   TX Current (mA) 0 dBm: '31'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/wireless/zigbee/em35x-zigbee-socs
-  repositories: []
-name: EM35x
-ref: silicon-labs/em35x
-release_date: null
-sku: em35x
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

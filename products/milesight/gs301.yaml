@@ -1,0 +1,13 @@
+id: gs301
+ref: milesight/gs301
+vendor: milesight
+sku: gs301
+name: GS301
+description: Bathroom Odor Detector
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/gs301
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/gas-sensor-gs-series/lorawan-bathroom-odor-detector-gs301.png?t=1742198585390

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: jw-140x10
+ref: olimex/jw-140x10
+vendor: olimex
+sku: jw-140x10
+name: JW-140x10
 description: ''
+status: ''
 extra:
   price1: 0.95 EUR
   price2: 0.86 EUR
   price3: 0.76 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Breadboarding/JUMPER-WIRES/JW-140x10/images/thumbs/200x150/JW.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Breadboarding/JUMPER-WIRES/JW-140x10/
-  repositories: []
-name: JW-140x10
-ref: olimex/jw-140x10
-release_date: null
-sku: jw-140x10
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Breadboarding/JUMPER-WIRES/JW-140x10/images/thumbs/200x150/JW.jpg

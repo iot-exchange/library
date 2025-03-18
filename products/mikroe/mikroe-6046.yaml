@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6046
+ref: mikroe/mikroe-6046
+vendor: mikroe
+sku: mikroe-6046
+name: MIKROE-6046
 description: "6-pin Needle Cable is a compact programming cable made from high-quality\
   \ materials for longevity and easy portability with a tiny square footprint, similar\
   \ to a 0805 resistor. Designed for quick programming and debugging, it features\
   \ a 6-pin 0.1\u2033 pitch ribbon connector and is hand-held or temporarily fixable.\
   \ Use the 6-pin Needle Cable to extend the..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/6-pin-needle-cable/6-pin-needle-cable-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/6-pin-needle-cable
-  repositories: []
-name: MIKROE-6046
-ref: mikroe/mikroe-6046
-release_date: null
-sku: mikroe-6046
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/6-pin-needle-cable/6-pin-needle-cable-home_default-1.jpg?v=100

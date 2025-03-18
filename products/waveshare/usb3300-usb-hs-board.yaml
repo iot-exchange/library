@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: usb3300-usb-hs-board
+ref: waveshare/usb3300-usb-hs-board
+vendor: waveshare
+sku: usb3300-usb-hs-board
+name: USB3300 USB HS Board
 description: USB3300 USB High-Speed PHY Board, ULPI Interface
+status: ''
 extra:
   Price: $11.31 - $11.99
   SKU: '5770'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb3300-usb-hs-board-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb3300-usb-hs-board.htm
-  repositories: []
-name: USB3300 USB HS Board
-ref: waveshare/usb3300-usb-hs-board
-release_date: null
-sku: usb3300-usb-hs-board
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb3300-usb-hs-board-1.jpg

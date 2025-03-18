@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: bt800-series
+ref: ezurio/bt800-series
+vendor: ezurio
+sku: bt800-series
+name: BT800 Series
 description: Bluetooth Module
+status: ''
 extra:
   2MPHY: ''
   802.15.4 / Matter / Thread: ''
@@ -8,18 +12,7 @@ extra:
   Classic BT: ''
   LE Long Range: x
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/4358562d-9036-4706-bd6e-3fb6554fd1ec.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-42-and-40-modules/bt800-series-bluetooth-module
-  repositories: []
-name: BT800 Series
-ref: ezurio/bt800-series
-release_date: null
-sku: bt800-series
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/4358562d-9036-4706-bd6e-3fb6554fd1ec.png

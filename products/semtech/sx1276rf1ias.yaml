@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: sx1276rf1ias
+ref: semtech/sx1276rf1ias
+vendor: semtech
+sku: sx1276rf1ias
+name: SX1276RF1IAS
 description: "LoRa Connect\u2122 Single RF Module, SX1276, 169MHz (LF) or 868MHz (HF)"
+status: ''
 extra:
   Product Applicability: SX1276
   Region: Europe
   Type: Single RF Module
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.semtech.com/products/wireless-rf/lora-connect/sx1276rf1ias
-  repositories: []
-name: SX1276RF1IAS
-ref: semtech/sx1276rf1ias
-release_date: null
-sku: sx1276rf1ias
-spec: null
-status: ''
-vendor: semtech
+  images: []

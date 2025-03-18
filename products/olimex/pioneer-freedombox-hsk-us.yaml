@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pioneer-freedombox-hsk-us
+ref: olimex/pioneer-freedombox-hsk-us
+vendor: olimex
+sku: pioneer-freedombox-hsk-us
+name: Pioneer-Freedombox-HSK-US
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/Home-Server/Pioneer-FreedomBox-HSK/images/thumbs/200x150/FB-HSK-0-k.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/Home-Server/Pioneer-Freedombox-HSK-US/open-source-hardware
-  repositories: []
-name: Pioneer-Freedombox-HSK-US
-ref: olimex/pioneer-freedombox-hsk-us
-release_date: null
-sku: pioneer-freedombox-hsk-us
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/Home-Server/Pioneer-FreedomBox-HSK/images/thumbs/200x150/FB-HSK-0-k.jpg

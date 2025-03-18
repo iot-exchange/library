@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-3546
+ref: mikroe/mikroe-3546
+vendor: mikroe
+sku: mikroe-3546
+name: MIKROE-3546
 description: STSPIN233 click is a complete solution for a 3-phase integrated motor
   driver, based on the STSPIN233, Low voltage 3-phase integrated motor driver. It
   is optimized for battery-powered, low voltage motor driving applications, featuring
   the lowest standby current available on the market (max 80 nA).
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mcu-card-13-for-stm32-stm32l4s5zi/mcu-card-13-for-stm32-stm32l4s5zi-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/stspin233-click
-  repositories: []
-name: MIKROE-3546
-ref: mikroe/mikroe-3546
-release_date: null
-sku: mikroe-3546
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mcu-card-13-for-stm32-stm32l4s5zi/mcu-card-13-for-stm32-stm32l4s5zi-home_default-1.jpg?v=100

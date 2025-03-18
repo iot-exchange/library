@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: wire-clip-300f
+ref: olimex/wire-clip-300f
+vendor: olimex
+sku: wire-clip-300f
+name: WIRE-CLIP-300F
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Breadboarding/WIRE-CLIP-300F/images/thumbs/200x150/WIRE-CLIP-300F.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Breadboarding/WIRE-CLIP-300F/
-  repositories: []
-name: WIRE-CLIP-300F
-ref: olimex/wire-clip-300f
-release_date: null
-sku: wire-clip-300f
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Breadboarding/WIRE-CLIP-300F/images/thumbs/200x150/WIRE-CLIP-300F.jpg

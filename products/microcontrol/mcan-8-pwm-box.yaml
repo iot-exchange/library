@@ -1,0 +1,12 @@
+id: mcan-8-pwm-box
+ref: microcontrol/mcan-8-pwm-box
+vendor: microcontrol
+sku: mcan-8-pwm-box
+name: "\xB5CAN.8.pwm-BOX"
+description: 8-channel digital I/O pulse width modulation output
+status: ''
+extra: {}
+links:
+  products: []
+  images:
+  - data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20640'%3E%3C/svg%3E

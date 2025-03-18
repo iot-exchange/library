@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4949
+ref: mikroe/mikroe-4949
+vendor: mikroe
+sku: mikroe-4949
+name: MIKROE-4949
 description: "Accel 19 Click is a compact add-on board that contains an acceleration\
   \ sensor. This board features the LIS2DTW12, an ultra-low-power high-performance\
   \ three-axis accelerometer from STMicroelectronics. It allows selectable full-scale\
   \ acceleration measurements in ranges of \xB12g, \xB14g, \xB18g, or \xB116g in three\
   \ axes with a configurable host interface that supports..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/accel-19-click/accel-19-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/accel-19-click
-  repositories: []
-name: MIKROE-4949
-ref: mikroe/mikroe-4949
-release_date: null
-sku: mikroe-4949
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/accel-19-click/accel-19-click-home_default-1.jpg?v=100

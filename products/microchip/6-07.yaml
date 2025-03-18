@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 6-07
+ref: microchip/6-07
+vendor: microchip
+sku: 6-07
+name: '6.07'
 description: Microcontroller with Zigbee, Proprietary
+status: ''
 extra:
   Current Consumption: '103'
   Frequency: Cortex-M0+
@@ -14,16 +18,5 @@ extra:
   Voltage Range: 1.8 to 3.6
   Wireless Protocols: Zigbee, Proprietary
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: '6.07'
-ref: microchip/6-07
-release_date: null
-sku: 6-07
-spec: null
-status: ''
-vendor: microchip
+  images: []

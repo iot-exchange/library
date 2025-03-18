@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: 7inch-hdmi-lcd-h-with-case
+ref: waveshare/7inch-hdmi-lcd-h-with-case
+vendor: waveshare
+sku: 7inch-hdmi-lcd-h-with-case
+name: 7inch HDMI LCD (H) (with case)
 description: "7inch Capacitive Touch Screen LCD (H) with Case, 1024\xD7600, HDMI,\
   \ IPS, Various Systems Support"
+status: ''
 extra:
   Price: $52.29 - $53.99
   SKU: '13857'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/7inch-hdmi-lcd-h-with-case.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/h/7hk-fs.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/h/7hk-m.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/a/capacitive-fingerprint-reader-1_3.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/7inch-hdmi-lcd-h-with-case.htm
-  repositories: []
-name: 7inch HDMI LCD (H) (with case)
-ref: waveshare/7inch-hdmi-lcd-h-with-case
-release_date: null
-sku: 7inch-hdmi-lcd-h-with-case
-spec: null
-status: ''
-vendor: waveshare

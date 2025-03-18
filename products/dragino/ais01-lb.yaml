@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: ais01-lb
+ref: dragino/ais01-lb
+vendor: dragino
+sku: ais01-lb
+name: AIS01-LB
 description: LoRaWAN AI Image End Node. Recognize digits from Image and send data
   to IoT server.
+status: ''
 extra:
   Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915
   Protocol: LoRaWAN v1.0.3 Class A
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/bdc7d0f30e0c420b2ac279d6a1c096e4_L.jpg
-  models: []
   products:
   - https://dragino.com/products/ai-image/item/337-ais01-lb.html
-  repositories: []
-name: AIS01-LB
-ref: dragino/ais01-lb
-release_date: null
-sku: ais01-lb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/bdc7d0f30e0c420b2ac279d6a1c096e4_L.jpg

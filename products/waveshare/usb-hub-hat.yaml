@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: usb-hub-hat
+ref: waveshare/usb-hub-hat
+vendor: waveshare
+sku: usb-hub-hat
+name: USB HUB HAT
 description: 4 Port USB HUB HAT for Raspberry Pi
+status: ''
 extra:
   Price: $8.31 - $8.99
   SKU: '12694'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-hub-hat-1_4.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-hub-hat.htm
-  repositories: []
-name: USB HUB HAT
-ref: waveshare/usb-hub-hat
-release_date: null
-sku: usb-hub-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-hub-hat-1_4.jpg

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: sm1211e868
+ref: semtech/sm1211e868
+vendor: semtech
+sku: sm1211e868
+name: SM1211E868
 description: Evaluation Module, SX1211, 868MHz
+status: ''
 extra:
   Chipset: SX1211
   Type: Module Kit
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.semtech.com/products/wireless-rf/frequency-shift-keying-fsk/sm1211e868
-  repositories: []
-name: SM1211E868
-ref: semtech/sm1211e868
-release_date: null
-sku: sm1211e868
-spec: null
-status: ''
-vendor: semtech
+  images: []

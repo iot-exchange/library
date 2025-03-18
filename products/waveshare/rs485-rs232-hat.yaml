@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: rs485-rs232-hat
+ref: waveshare/rs485-rs232-hat
+vendor: waveshare
+sku: rs485-rs232-hat
+name: RS485 RS232 HAT
 description: Isolated RS485 RS232 Expansion HAT for Raspberry Pi, SPI Control
+status: ''
 extra:
   Price: $16.63 - $17.99
   SKU: '21648'
   price: $16.63  -  $17.99
   sku: '21648'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/h/ch343-usb-uart-board-1_4.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs485-rs232-hat-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ch343-usb-uart-board.htm
   - https://www.waveshare.com/product/rs485-rs232-hat.htm
-  repositories: []
-name: RS485 RS232 HAT
-ref: waveshare/rs485-rs232-hat
-release_date: null
-sku: rs485-rs232-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/h/ch343-usb-uart-board-1_4.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs485-rs232-hat-1.jpg

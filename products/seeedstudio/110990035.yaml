@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '110990035'
+ref: seeedstudio/110990035
+vendor: seeedstudio
+sku: '110990035'
+name: '110990035'
 description: RFID tag combo (125khz) - 5 pcs
+status: ''
 extra:
   standard: 125Khz, EM4100 standard
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductrfid20tag.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/RFID-tag-combo-125khz-5-pcs-p-700.html
-  repositories: []
-name: '110990035'
-ref: seeedstudio/110990035
-release_date: null
-sku: '110990035'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductrfid20tag.jpg

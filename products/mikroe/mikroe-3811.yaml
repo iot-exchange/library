@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3811
+ref: mikroe/mikroe-3811
+vendor: mikroe
+sku: mikroe-3811
+name: MIKROE-3811
 description: "This bundle comes with the eINK click adapter and e-Paper display 2.9\u201D\
   . Which provides you an easy start of any project where the e-paper display is needed.\
   \ The E-Ink technology is a reasonably new technology with a promising future, widely\
   \ commercialized by the E-INK company. The content displayed on the E-INK (also\
   \ known as E-Paper) display does not..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/e-paper-bundle-3/e-paper-bundle-3-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/e-paper-bundle-3 "E-Paper Bundle 3"
-  repositories: []
-name: MIKROE-3811
-ref: mikroe/mikroe-3811
-release_date: null
-sku: mikroe-3811
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/e-paper-bundle-3/e-paper-bundle-3-home_default-1.jpg?v=100

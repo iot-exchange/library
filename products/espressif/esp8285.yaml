@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: esp8285
+ref: espressif/esp8285
+vendor: espressif
+sku: esp8285
+name: ESP8285
 description: "Recommended upgrade \u2192ESP8684"
+status: Recommended upgrade
 extra:
   Core: Single core
   Development Board: N/A
@@ -16,18 +20,7 @@ extra:
   SPQ: '5000'
   Variants: ESP8285N08, ESP8285H16
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/chips/ESP8285_L_4.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/0a-esp8285_datasheet_en.pdf
-  repositories: []
-name: ESP8285
-ref: espressif/esp8285
-release_date: null
-sku: esp8285
-spec: null
-status: Recommended upgrade
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP8285_L_4.png

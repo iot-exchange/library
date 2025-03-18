@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '114070181'
+ref: seeedstudio/114070181
+vendor: seeedstudio
+sku: '114070181'
+name: '114070181'
 description: This sliding block is functioning as a centering aid for mounting the
   guide profile in a 35 mm profile slot, designed for fixed equipment while performing
   linear movement.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/Sliding-block-for-linear-guideway-rail-including-screws-p-5527.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114070181-sliding-block-for-linear-guideway-rail_including-screws_-45font.jpg
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/i/m/image_3.jpeg
-  models: []
-  products:
-  - https://www.seeedstudio.com/Sliding-block-for-linear-guideway-rail-including-screws-p-5527.html
-  repositories: []
-name: '114070181'
-ref: seeedstudio/114070181
-release_date: null
-sku: '114070181'
-spec: null
-status: ''
-vendor: seeedstudio

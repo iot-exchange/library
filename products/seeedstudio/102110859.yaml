@@ -1,8 +1,12 @@
-alternatives: []
-certifications: []
+id: '102110859'
+ref: seeedstudio/102110859
+vendor: seeedstudio
+sku: '102110859'
+name: '102110859'
 description: This is a compact STM32 single-board computer that supports multiple
   operating systems and offers multiple connections, with efficient data transfer
   and flexible power supply, scalable storage capacity.
+status: ''
 extra:
   Price: $39.99
   Processor: Cortex-A7 STM32
@@ -10,18 +14,7 @@ extra:
   Storage: eMMC
   Type: Single-board computer
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102110859--odyssey-mp135d-emmc-version-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Odyssey-MP135D-eMMC-p-5728.html
-  repositories: []
-name: '102110859'
-ref: seeedstudio/102110859
-release_date: null
-sku: '102110859'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102110859--odyssey-mp135d-emmc-version-45font.jpg

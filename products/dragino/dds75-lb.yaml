@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: dds75-lb
+ref: dragino/dds75-lb
+vendor: dragino
+sku: dds75-lb
+name: DDS75-LB
 description: "LoRaWAN 1.0.3 Class A, Ultrasonic sensing, Distance: 280~7500 mm, Accuracy:\
   \ \xB1(1cm+S*0.3%) (S: Distance), Measure Angle: 40\xB0"
+status: ''
 extra:
   Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
   Battery: 8500mAh Li/SOCl2 Battery (DDS75-LB), Solar panel + 3000mAh Li-ion battery
@@ -10,18 +14,7 @@ extra:
   Support wireless OTA update firmware: ''
   Ultra Low Power Consumption: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/16db9b88d9515580a78d5965b066ac2d_L.jpg
-  models: []
   products:
   - https://dragino.com/products/distance-level-sensor/item/271-dds75-lb-ls.html
-  repositories: []
-name: DDS75-LB
-ref: dragino/dds75-lb
-release_date: null
-sku: dds75-lb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/16db9b88d9515580a78d5965b066ac2d_L.jpg

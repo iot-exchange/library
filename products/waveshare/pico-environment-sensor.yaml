@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pico-environment-sensor
+ref: waveshare/pico-environment-sensor
+vendor: waveshare
+sku: pico-environment-sensor
+name: Pico-Environment-Sensor
 description: Environment Sensors Module for Raspberry Pi Pico, I2C Bus
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-environment-sensor-1_3.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pico-environment-sensor.htm
-  repositories: []
-name: Pico-Environment-Sensor
-ref: waveshare/pico-environment-sensor
-release_date: null
-sku: pico-environment-sensor
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-environment-sensor-1_3.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6052
+ref: mikroe/mikroe-6052
+vendor: mikroe
+sku: mikroe-6052
+name: MIKROE-6052
 description: PIR 2 Click is a compact add-on board designed for high-performance motion
   detection applications. This board features the ZSLM323511, a dual-element balanced
   differential pyroelectric (PIR) sensor from Zilog (Littlefuse). Key features include
   excellent EMI immunity, a low-profile surface mount package, and a typical field
   of view of 150 degrees on the...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/pir-2-click/pir-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/pir-2-click
-  repositories: []
-name: MIKROE-6052
-ref: mikroe/mikroe-6052
-release_date: null
-sku: mikroe-6052
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/pir-2-click/pir-2-click-home_default-1.jpg?v=100

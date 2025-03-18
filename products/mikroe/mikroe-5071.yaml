@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-5071
+ref: mikroe/mikroe-5071
+vendor: mikroe
+sku: mikroe-5071
+name: MIKROE-5071
 description: Hall Current 13 Click is a compact add-on board that provides economical
   and precise AC or DC current sensing solutions. This board features the TMCS1107-Q1,
   a galvanically isolated Hall-effect current sensor capable of DC or AC current measurement
   with high accuracy, excellent linearity, and temperature stability from Texas Instruments.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/hall-current-13-click/hall-current-13-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/hall-current-13-click
-  repositories: []
-name: MIKROE-5071
-ref: mikroe/mikroe-5071
-release_date: null
-sku: mikroe-5071
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/hall-current-13-click/hall-current-13-click-home_default-1.jpg?v=100

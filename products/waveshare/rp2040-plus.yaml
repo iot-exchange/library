@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: rp2040-plus
+ref: waveshare/rp2040-plus
+vendor: waveshare
+sku: rp2040-plus
+name: rp2040_plus
 description: RP2040-Plus, a Pico-like MCU Board Based on Raspberry Pi MCU RP2040,
   Plus ver.
+status: ''
 extra:
-  Multi Options: ''
   Price: $5.99 -  $7.99
+  Multi Options: ''
   price: $5.99 -  $7.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/rp2040-plus.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-plus-1_5.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-plus-2_5.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/rp2040-plus.htm
-  repositories: []
-name: rp2040_plus
-ref: waveshare/rp2040-plus
-release_date: null
-sku: rp2040-plus
-spec: null
-status: ''
-vendor: waveshare

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: '2607057283011'
+ref: we/2607057283011
+vendor: we
+sku: '2607057283011'
+name: '2607057283011'
 description: Metis - Analyzer Tool
+status: Active
 extra:
   Expected lifetime: '>10 years'
   Frequency Range (MHz): 868.3 - 869.525
@@ -15,18 +19,7 @@ extra:
   VDD min.(V): '100'
   dLoS(m): '800'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o139689v214%20Macbook_Screen.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/WIRL-EVAL#2607057283011
-  repositories: []
-name: '2607057283011'
-ref: we/2607057283011
-release_date: null
-sku: '2607057283011'
-spec: null
-status: Active
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o139689v214%20Macbook_Screen.jpg

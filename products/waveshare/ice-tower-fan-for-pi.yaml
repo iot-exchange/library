@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: ice-tower-fan-for-pi
+ref: waveshare/ice-tower-fan-for-pi
+vendor: waveshare
+sku: ice-tower-fan-for-pi
+name: ICE Tower Fan for Pi
 description: ICE Tower CPU Cooling Fan for Raspberry Pi, Super Heat Dissipation, Supports
   Raspberry Pi 4/3B+/3B
+status: ''
 extra:
   Price: $13.63 - $14.99
-  Price Range: $13.63 - $14.99
   SKU: '17431'
+  Price Range: $13.63 - $14.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ice-tower-fan-for-pi-7.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ice-tower-fan-for-pi.htm
-  repositories: []
-name: ICE Tower Fan for Pi
-ref: waveshare/ice-tower-fan-for-pi
-release_date: null
-sku: ice-tower-fan-for-pi
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ice-tower-fan-for-pi-7.jpg

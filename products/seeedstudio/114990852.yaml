@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '114990852'
+ref: seeedstudio/114990852
+vendor: seeedstudio
+sku: '114990852'
+name: '114990852'
 description: "Add the possibility to read and write files to a SD card\uFF0Cbitcraze,\
   \ bitcraze.io,crazyfly, crazieflie, crazieflie, crazy flie, crazie fly, crazy fly,\
   \ drone"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2017-08bazaar526555_sddeck2400px1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Crazyflie-Micro-SD-Card-Deck.html
-  repositories: []
-name: '114990852'
-ref: seeedstudio/114990852
-release_date: null
-sku: '114990852'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2017-08bazaar526555_sddeck2400px1.jpg

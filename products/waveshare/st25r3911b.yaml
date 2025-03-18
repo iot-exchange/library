@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: st25r3911b
+ref: waveshare/st25r3911b
+vendor: waveshare
+sku: st25r3911b
+name: ST25R3911B
 description: NFC Eval Kit
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.9inch-nfc-powered-e-paper-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/2.9inch-nfc-powered-e-paper.htm
-  repositories: []
-name: ST25R3911B
-ref: waveshare/st25r3911b
-release_date: null
-sku: st25r3911b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.9inch-nfc-powered-e-paper-2.jpg

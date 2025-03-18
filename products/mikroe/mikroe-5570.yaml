@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5570
+ref: mikroe/mikroe-5570
+vendor: mikroe
+sku: mikroe-5570
+name: MIKROE-5570
 description: "TDC 2 Click is a compact add-on board that recognizes events and provides\
   \ a digital representation of the time they occurred. This board features ScioSense\u2019\
   s AS6500, a four-channel time-to-digital converter (TDC) frontend with high measurement\
   \ performance and high data throughput. The AS6500 is characterized by simple data\
   \ post-processing thanks to..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/tdc-2-click/tdc-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/tdc-2-click
-  repositories: []
-name: MIKROE-5570
-ref: mikroe/mikroe-5570
-release_date: null
-sku: mikroe-5570
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/tdc-2-click/tdc-2-click-home_default-1.jpg?v=100

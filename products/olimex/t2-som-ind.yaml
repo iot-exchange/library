@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: t2-som-ind
+ref: olimex/t2-som-ind
+vendor: olimex
+sku: t2-som-ind
+name: T2-SOM-IND
 description: ''
+status: ''
 extra:
   discountedPrices:
   - 42.14 EUR
@@ -9,18 +13,7 @@ extra:
   - 39.56 EUR
   price: 43.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/SOM/A20/A20-SOM/images/thumbs/200x150/A20-SOM-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/SOM/A20/T2-SOM-IND/
-  repositories: []
-name: T2-SOM-IND
-ref: olimex/t2-som-ind
-release_date: null
-sku: t2-som-ind
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/SOM/A20/A20-SOM/images/thumbs/200x150/A20-SOM-1.jpg

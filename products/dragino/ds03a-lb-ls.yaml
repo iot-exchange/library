@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: ds03a-lb-ls
+ref: dragino/ds03a-lb-ls
+vendor: dragino
+sku: ds03a-lb-ls
+name: DS03A-LB/LS
 description: LoRaWAN Open/Close Door Sensor
+status: ''
 extra:
   Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865
   Battery: 8500mAh Li/SOCl2 Battery (DS03A-LB), Solar panel + 3000mAh Li-ion battery
@@ -10,18 +14,7 @@ extra:
   Power Consumption: Ultra-low power consumption
   Type: LoRaWAN 1.0.3 Class A
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/f9bbdeb62248e2fc4418a6935e64cf4c_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lorawan-nb-iot-door-sensor-water-leak/item/285-ds03a-lb-ls.html
-  repositories: []
-name: DS03A-LB/LS
-ref: dragino/ds03a-lb-ls
-release_date: null
-sku: ds03a-lb-ls
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/f9bbdeb62248e2fc4418a6935e64cf4c_L.jpg

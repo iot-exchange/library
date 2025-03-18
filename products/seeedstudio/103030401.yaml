@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '103030401'
+ref: seeedstudio/103030401
+vendor: seeedstudio
+sku: '103030401'
+name: '103030401'
 description: "1.3inch OLED Display Module For Raspberry Pi Pico, 64\xD7128 Pixels,\
   \ SPI/I2C Interface.1.3\" OLED Display Module is Embedded SH1107 Driver, Using SPI/I2C\
   \ Bus."
+status: ''
 extra:
   price: $9.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/p/i/pico-oled-1_5_.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/1-3inch-OLED-Display-Module-for-Raspberry-Pi-Pico-p-4909.html
-  repositories: []
-name: '103030401'
-ref: seeedstudio/103030401
-release_date: null
-sku: '103030401'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/p/i/pico-oled-1_5_.jpg

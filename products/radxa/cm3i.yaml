@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: cm3i
+ref: radxa/cm3i
+vendor: radxa
+sku: cm3i
+name: CM3I
 description: A Feature Rich Industrial Embedded SoM
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/cm/cm3i/thumb_cm3i.webp
-  models: []
   products:
   - https://radxa.com/products/cm/cm3i
-  repositories: []
-name: CM3I
-ref: radxa/cm3i
-release_date: null
-sku: cm3i
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/cm/cm3i/thumb_cm3i.webp

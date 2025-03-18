@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: msp430-4619lcd
+ref: olimex/msp430-4619lcd
+vendor: olimex
+sku: msp430-4619lcd
+name: MSP430-4619LCD
 description: ''
+status: ''
 extra:
   price1: 44.95 EUR
   price2: 40.46 EUR
   price3: 35.96 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/MSP430/Starter/MSP430-4619LCD/images/thumbs/200x150/MSP430-4619LCD-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/MSP430/Starter/MSP430-4619LCD/
-  repositories: []
-name: MSP430-4619LCD
-ref: olimex/msp430-4619lcd
-release_date: null
-sku: msp430-4619lcd
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/MSP430/Starter/MSP430-4619LCD/images/thumbs/200x150/MSP430-4619LCD-01.jpg

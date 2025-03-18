@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: '102110641'
+ref: seeedstudio/102110641
+vendor: seeedstudio
+sku: '102110641'
+name: '102110641'
 description: "NVIDIA\xAE Jetson AGX Orin\u2122 64GB Developer Kit, provides a giant\
   \ leap forward for Robotics and Edge AI. With up to 275 TOPS of AI performance and\
   \ power configurable between 15W and 60W, you now have more than 8X the performance\
@@ -7,23 +10,13 @@ description: "NVIDIA\xAE Jetson AGX Orin\u2122 64GB Developer Kit, provides a gi
   \ advanced robots and other autonomous machine products. With Jetson AGX Orin, developers\
   \ can now deploy large and complex models to solve problems like natural language\
   \ understanding, 3D perception, and multi-sensor fusion."
-extra: {}
-links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/_/_/__feature-0220211111.jpg
-  models: []
-  products:
-  - https://www.seeedstudio.com/Jetson-SUB-Mini-PC-Black-p-5226.html
-  - https://www.seeedstudio.com/NVIDIArJetson-AGX-Orintm-64GB-Developer-Kit-p-5641.html
-  repositories: []
-name: '102110641'
-ref: seeedstudio/102110641
-release_date: null
-sku: '102110641'
-spec: null
 status: '$786.75 $1,049.00
 
   $262.25 (25%)'
-vendor: seeedstudio
+extra: {}
+links:
+  products:
+  - https://www.seeedstudio.com/Jetson-SUB-Mini-PC-Black-p-5226.html
+  - https://www.seeedstudio.com/NVIDIArJetson-AGX-Orintm-64GB-Developer-Kit-p-5641.html
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/_/_/__feature-0220211111.jpg

@@ -1,60 +1,53 @@
-alternatives: []
-certifications: []
+id: nrf52840
+ref: nordicsemi/nrf52840
+vendor: nordicsemi
+sku: nrf52840
+name: nRF52840
 description: Bluetooth 5.4 SoC supporting Bluetooth Low Energy, Bluetooth mesh, NFC,
   Thread and Zigbee 64 MHz Arm Cortex-M4 with FPU 1 MB Flash, 256 KB RAM 2 Mbps, 1
   Mbps, Long Range Bluetooth Low Energy Bluetooth mesh Thread, Zigbee +8 dBm TX Power
   128-bit AES CCM, Arm CryptoCell-310 UART, SPI, TWI, PDM, I2S, QSPI, PWM 12-bit ADC
   NFC USB 2.0
+status: ''
 extra:
-  ADC: 12-bit
-  ADC, Comparator: 'Yes'
-  Arm CryptoCell: '310'
-  Arm TrustZone: 'Yes'
-  Bluetooth Version: '5.4'
   CPU: 64 MHz Arm Cortex-M4 with FPU
   Flash: 1 MB
-  GPIOs: Up to 48
-  High-Speed SPI: 'Yes'
-  High-speed SPI: 'Yes'
+  RAM: 256 KB
+  Security: 128-bit AES CCM, Arm CryptoCell-310
+  TX Power: +8 dBm
+  ADC: 12-bit
   Interfaces: UART, SPI, TWI, PDM, I2S, QSPI, PWM
   NFC: 'Yes'
-  Operating temp: "-40 to +85\xB0C"
   Operating temperature: "-40 to 85 \xB0C"
-  PDM, I2S: 'Yes'
-  PWM: 'Yes'
-  PWM, PDM, I2S: 'Yes'
-  Package options: QFN and WLCSP
   Packages: 7x7 mm aQFN73 (48 GPIOs) 6x6 mm QFN48 (30 GPIOs) 3.5x3.6 mm WLCSP94 (48
     GPIOs)
-  Processor: 64 MHz Arm Cortex-M4
+  Supply voltage range: 1.7 to 5.5 V
+  USB: 'Yes'
+  ADC, Comparator: 'Yes'
+  Arm CryptoCell: '310'
+  GPIOs: Up to 48
+  High-speed SPI: 'Yes'
+  Operating temp: "-40 to +85\xB0C"
+  PDM, I2S: 'Yes'
+  PWM: 'Yes'
+  Package options: QFN and WLCSP
   QDEC: 'Yes'
   QSPI: 'Yes'
-  RAM: 256 KB
+  Supply range: 1.7-5.5 V
+  UART/SPI/TWI: 'Yes'
+  Arm TrustZone: 'Yes'
+  High-Speed SPI: 'Yes'
+  PWM, PDM, I2S: 'Yes'
   Root-of-Trust: 'Yes'
   Secure key storage: ''
-  Security: 128-bit AES CCM, Arm CryptoCell-310
-  Supply range: 1.7-5.5 V
-  Supply voltage range: 1.7 to 5.5 V
   TWI/SPI/UART: 2xTWI/SPI, SPI, 2xUART
-  TX Power: +8 dBm
   UART, SPI, TWI, PDM, I2S, QSPI, PWM: 'Yes'
-  UART/SPI/TWI: 'Yes'
-  USB: 'Yes'
+  Bluetooth Version: '5.4'
+  Processor: 64 MHz Arm Cortex-M4
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.nordicsemi.com/Products/nRF52840
   images:
   - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52840-aQFN73-front-and-back-7x7-stacked_web.png?h=250&iar=0&mh=250&w=247&hash=AA4A40DB557E522CB30137F226AFB5C2
   - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52840-aQFN73-front-and-back-7x7-stacked_web.png?h=500&iar=0&mh=500&w=494&hash=EE8029DF87BF58F7BFDB18A594B8C1FA
   - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52840-aQFN73-front-and-back-7x7-stacked_web.png?h=51&iar=0&mw=50&w=50&hash=A64D5277876913AE55D58EE81C835254
-  models: []
-  products:
-  - https://www.nordicsemi.com/Products/nRF52840
-  repositories: []
-name: nRF52840
-ref: nordicsemi/nrf52840
-release_date: null
-sku: nrf52840
-spec: null
-status: ''
-vendor: nordicsemi

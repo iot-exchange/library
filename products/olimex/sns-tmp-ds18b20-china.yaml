@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sns-tmp-ds18b20-china
+ref: olimex/sns-tmp-ds18b20-china
+vendor: olimex
+sku: sns-tmp-ds18b20-china
+name: SNS-TMP-DS18B20-CHINA
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Sensors/Temperature/SNS-TMP-DS18B20/images/thumbs/200x150/SNS-DS18B20-2.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Sensors/Temperature/SNS-TMP-DS18B20-CHINA/
-  repositories: []
-name: SNS-TMP-DS18B20-CHINA
-ref: olimex/sns-tmp-ds18b20-china
-release_date: null
-sku: sns-tmp-ds18b20-china
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/Temperature/SNS-TMP-DS18B20/images/thumbs/200x150/SNS-DS18B20-2.jpg

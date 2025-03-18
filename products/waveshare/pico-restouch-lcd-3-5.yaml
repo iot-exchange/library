@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pico-restouch-lcd-3-5
+ref: waveshare/pico-restouch-lcd-3-5
+vendor: waveshare
+sku: pico-restouch-lcd-3-5
+name: Pico-ResTouch-LCD-3.5
 description: "3.5inch Touch Display Module for Raspberry Pi Pico, 65K Colors, 480\xD7\
   320, SPI"
+status: ''
 extra:
   Price: $19.31 - $19.99
   SKU: '19907'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-restouch-lcd-3.5-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pico-restouch-lcd-3.5.htm
-  repositories: []
-name: Pico-ResTouch-LCD-3.5
-ref: waveshare/pico-restouch-lcd-3-5
-release_date: null
-sku: pico-restouch-lcd-3-5
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-restouch-lcd-3.5-1.jpg

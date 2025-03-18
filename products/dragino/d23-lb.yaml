@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: d23-lb
+ref: dragino/d23-lb
+vendor: dragino
+sku: d23-lb
+name: D23-LB
 description: LoRaWAN Waterproof /Outdoor Temperature Sensor
+status: ''
 extra:
   3 x DS18B20 Temperature sensors: ''
   Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865
@@ -10,18 +14,7 @@ extra:
   Support wireless OTA update firmware: ''
   Temperature alarm: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/5a61d31ed794cb758475f6c89477dfed_L.jpg
-  models: []
   products:
   - https://dragino.com/products/temperature-humidity-sensor/item/262-d23-lb-ls.html
-  repositories: []
-name: D23-LB
-ref: dragino/d23-lb
-release_date: null
-sku: d23-lb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/5a61d31ed794cb758475f6c89477dfed_L.jpg

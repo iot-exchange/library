@@ -1,29 +1,22 @@
-alternatives: []
-certifications: []
+id: corecell-gateway
+ref: semtech/corecell-gateway
+vendor: semtech
+sku: corecell-gateway
+name: Corecell Gateway
 description: A key component in the deployment of small cells, providing integration
   and management between the Radio Access Network (RAN) and the core network.
+status: ''
 extra:
+  Product Applicability: SX1302
+  Region: EU, NA, CN
+  Type: Shield
   Aggregation and Processing: 'Yes'
   Backhaul Support: 'Yes'
   Edge Computing Integration: 'Yes'
   Network Optimization: 'Yes'
-  Product Applicability: SX1302
-  Region: EU, NA, CN
   Seamless Connectivity: 'Yes'
-  Type: Shield
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.semtech.com/design-support/faq/faq-gateway
   - https://www.semtech.com/products/wireless-rf/lora-core/sx1302cssxxxgw1
-  repositories: []
-name: Corecell Gateway
-ref: semtech/corecell-gateway
-release_date: null
-sku: corecell-gateway
-spec: null
-status: ''
-vendor: semtech
+  images: []

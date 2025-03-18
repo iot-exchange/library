@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-4315
+ref: mikroe/mikroe-4315
+vendor: mikroe
+sku: mikroe-4315
+name: MIKROE-4315
 description: Mikromedia 4 for STM32F2 CAPACITIVE FPI with frame Rapid development
   of multimedia and gui-centric applications BUILD GREAT GUI IN NO TIME Rich with
   peripherals Mikromedia 4 for STM32F2 CAPACITIVE FPI with frame is not limited to
   multimedia-based applications only. USB, digital motion sensor, battery charging
   functionality, SD card reader and much more...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mikromedia-4-for-stm32f2-capacitive-fpi-with-bezel/mikromedia-4-for-stm32f2-capacitive-fpi-with-bezel-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/mikromedia-4-for-stm32f2-capacitive-fpi-with-frame/mikromedia-4-for-stm32f2-capacitive-fpi-with-frame-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mikromedia-4-for-stm32f2-capacitive-fpi-with-bezel
   - https://www.mikroe.com/mikromedia-4-for-stm32f2-capacitive-fpi-with-frame
-  repositories: []
-name: MIKROE-4315
-ref: mikroe/mikroe-4315
-release_date: null
-sku: mikroe-4315
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-4-for-stm32f2-capacitive-fpi-with-bezel/mikromedia-4-for-stm32f2-capacitive-fpi-with-bezel-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-4-for-stm32f2-capacitive-fpi-with-frame/mikromedia-4-for-stm32f2-capacitive-fpi-with-frame-home_default-1.jpg?v=100

@@ -1,0 +1,13 @@
+id: wts506
+ref: milesight/wts506
+vendor: milesight
+sku: wts506
+name: WTS506
+description: IoT Weather Station
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/wts506
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/weather-station-wts-series/iot-weather-station-wts506.png?t=1742198585390

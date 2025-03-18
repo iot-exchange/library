@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4232
+ref: mikroe/mikroe-4232
+vendor: mikroe
+sku: mikroe-4232
+name: MIKROE-4232
 description: MRAM 2 Click is a compact add-on board for applications that must store
   and retrieve data and programs quickly using a small number of pins. This board
   features the MR10Q010, 1Mb Quad Output High-Speed Serial SPI MRAM memory solution
   from Everspin Technologies. It operates in both standard, single SPI and High-speed
   QUAD SPI mode with a clock rate up to...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mram-2-click/mram-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mram-2-click
-  repositories: []
-name: MIKROE-4232
-ref: mikroe/mikroe-4232
-release_date: null
-sku: mikroe-4232
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mram-2-click/mram-2-click-home_default-1.jpg?v=100

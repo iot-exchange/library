@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sld-fast-t2
+ref: olimex/sld-fast-t2
+vendor: olimex
+sku: sld-fast-t2
+name: SLD-FAST-T2
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Soldering/SLD-FAST-75W/images/thumbs/200x150/SLD-FAST-T2-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Soldering/SLD-FAST-T2/
-  repositories: []
-name: SLD-FAST-T2
-ref: olimex/sld-fast-t2
-release_date: null
-sku: sld-fast-t2
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/SLD-FAST-75W/images/thumbs/200x150/SLD-FAST-T2-1.jpg

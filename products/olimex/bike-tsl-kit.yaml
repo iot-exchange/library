@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bike-tsl-kit
+ref: olimex/bike-tsl-kit
+vendor: olimex
+sku: bike-tsl-kit
+name: Bike-TSL-Kit
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Soldering-Kits/Intermediate/Bike-TSL-Kit/images/thumbs/200x150/Bike-TSL-Kit.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Soldering-Kits/Intermediate/Bike-TSL-Kit/open-source-hardware
-  repositories: []
-name: Bike-TSL-Kit
-ref: olimex/bike-tsl-kit
-release_date: null
-sku: bike-tsl-kit
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Soldering-Kits/Intermediate/Bike-TSL-Kit/images/thumbs/200x150/Bike-TSL-Kit.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: mpls83
+ref: telit/mpls83
+vendor: telit
+sku: mpls83
+name: mPLS83
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2024/11/Telit-Cinterion_mPLS83_236_200.png
-  models: []
   products:
   - https://www.telit.com/devices/mpls83/
-  repositories: []
-name: mPLS83
-ref: telit/mpls83
-release_date: null
-sku: mpls83
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/11/Telit-Cinterion_mPLS83_236_200.png

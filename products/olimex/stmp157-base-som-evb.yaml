@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: stmp157-base-som-evb
+ref: olimex/stmp157-base-som-evb
+vendor: olimex
+sku: stmp157-base-som-evb
+name: STMP157-BASE-SOM-EVB
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/SOM/STMP1/STMP157-BASE-SOM-EVB/images/thumbs/200x150/STMP157-BASE-SOM-EVB.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/SOM/STMP1/STMP157-BASE-SOM-EVB/open-source-hardware
-  repositories: []
-name: STMP157-BASE-SOM-EVB
-ref: olimex/stmp157-base-som-evb
-release_date: null
-sku: stmp157-base-som-evb
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/SOM/STMP1/STMP157-BASE-SOM-EVB/images/thumbs/200x150/STMP157-BASE-SOM-EVB.jpg

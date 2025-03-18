@@ -1,35 +1,11 @@
-alternatives: []
-certifications: []
+id: type-1ps
+ref: murata/type-1ps
+vendor: murata
+sku: type-1ps
+name: Type 1PS
 description: Wi-Fi module for consumer and industrial equipment.
+status: ''
 extra:
-  Additional Info: ''
-  Bluetooth: 'No'
-  Certification: 'Yes'
-  Chip: CYW54907
-  Current Consumption: 380mA @ 11Mbps (2.4GHz)
-  Dimensions: 10.0 x 10.0 x 1.2 mm
-  Enclosure: Shielded Resin
-  Frequency: 2.4GHz, 5GHz
-  GPIO: 'No'
-  I/O Voltage: 3.3V
-  Interfaces: GPIO/SPI/UART/I2C/Ethernet (RMII)
-  Manufacturer: Infineon
-  Market: Consumer
-  Material: Shielded Resin
-  Mounting Type: SMT
-  Operating Temperature: "-30\u2103 to 50\u2103"
-  Packaging: Tape and Reel
-  Power Consumption: 380mA @ 11Mbps (2.4GHz), 320mA @ 54Mbps (2.4GHz), 310mA @ 65Mbps
-    (2.4GHz), 330mA @ 54Mbps (5GHz), 320mA @ 65Mbps (5GHz)
-  Processor: ARM Cortex-R4
-  SDK: WICED
-  Sleep Current: 100mA
-  Status: 'Yes'
-  Target Market: Consumer
-  Temperature Range: "-30\u2103 to 50\u2103"
-  Voltage: 3.25V to 3.63V
-  Voltage Range: 3.25V to 3.63V
-  Wi-Fi: 'Yes'
   dimensions: 10.0 x 10.0 x 1.2 mm
   idleCurrent: 100mA
   interface: GPIO/SPI/UART/I2C/Ethernet (RMII)
@@ -38,17 +14,34 @@ extra:
   processor: ARM Cortex-R4
   temperatureRange: "-30\u2103 to 50\u2103"
   voltage: 3.25V to 3.63V
+  Chip: CYW54907
+  Dimensions: 10.0 x 10.0 x 1.2 mm
+  Enclosure: Shielded Resin
+  Frequency: 2.4GHz, 5GHz
+  GPIO: 'No'
+  Interfaces: GPIO/SPI/UART/I2C/Ethernet (RMII)
+  Manufacturer: Infineon
+  Market: Consumer
+  Mounting Type: SMT
+  Packaging: Tape and Reel
+  Power Consumption: 380mA @ 11Mbps (2.4GHz), 320mA @ 54Mbps (2.4GHz), 310mA @ 65Mbps
+    (2.4GHz), 330mA @ 54Mbps (5GHz), 320mA @ 65Mbps (5GHz)
+  Processor: ARM Cortex-R4
+  SDK: WICED
+  Sleep Current: 100mA
+  Temperature Range: "-30\u2103 to 50\u2103"
+  Voltage: 3.25V to 3.63V
+  Wi-Fi: 'Yes'
+  Additional Info: ''
+  Bluetooth: 'No'
+  Certification: 'Yes'
+  Current Consumption: 380mA @ 11Mbps (2.4GHz)
+  I/O Voltage: 3.3V
+  Material: Shielded Resin
+  Operating Temperature: "-30\u2103 to 50\u2103"
+  Status: 'Yes'
+  Target Market: Consumer
+  Voltage Range: 3.25V to 3.63V
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Type 1PS
-ref: murata/type-1ps
-release_date: null
-sku: type-1ps
-spec: null
-status: ''
-vendor: murata
+  images: []

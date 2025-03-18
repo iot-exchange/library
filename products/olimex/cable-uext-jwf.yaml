@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: cable-uext-jwf
+ref: olimex/cable-uext-jwf
+vendor: olimex
+sku: cable-uext-jwf
+name: CABLE-UEXT-JWF
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Cables/CABLE-UEXT-JWF/images/thumbs/200x150/CABLE-UEXT-JWF.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Cables/CABLE-UEXT-JWF/
-  repositories: []
-name: CABLE-UEXT-JWF
-ref: olimex/cable-uext-jwf
-release_date: null
-sku: cable-uext-jwf
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Cables/CABLE-UEXT-JWF/images/thumbs/200x150/CABLE-UEXT-JWF.jpg

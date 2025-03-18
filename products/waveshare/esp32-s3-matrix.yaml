@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: esp32-s3-matrix
+ref: waveshare/esp32-s3-matrix
+vendor: waveshare
+sku: esp32-s3-matrix
+name: ESP32-S3-Matrix
 description: "ESP32-S3-Matrix Development Board, Onboard 8\xD78 RGB LED Matrix and\
   \ QMI8658 Attitude Sensor, supports Wi-Fi and Bluetooth LE, ESP32 Development Board"
+status: ''
 extra:
   Price: $8.31 - $8.99
   SKU: '27119'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-matrix-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/esp32-s3-matrix.htm
-  repositories: []
-name: ESP32-S3-Matrix
-ref: waveshare/esp32-s3-matrix
-release_date: null
-sku: esp32-s3-matrix
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-matrix-1.jpg

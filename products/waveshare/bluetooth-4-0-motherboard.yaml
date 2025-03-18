@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: bluetooth-4-0-motherboard
+ref: waveshare/bluetooth-4-0-motherboard
+vendor: waveshare
+sku: bluetooth-4-0-motherboard
+name: Bluetooth 4.0 Motherboard
 description: ''
+status: ''
 extra:
   Price: $7.99 - $8.99
   SKU: '9546'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/l/ble400-1_3.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ble400.htm
-  repositories: []
-name: Bluetooth 4.0 Motherboard
-ref: waveshare/bluetooth-4-0-motherboard
-release_date: null
-sku: bluetooth-4-0-motherboard
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/l/ble400-1_3.jpg

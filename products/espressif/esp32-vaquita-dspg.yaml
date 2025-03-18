@@ -1,9 +1,13 @@
-alternatives: []
-certifications: []
+id: esp32-vaquita-dspg
+ref: espressif/esp32-vaquita-dspg
+vendor: espressif
+sku: esp32-vaquita-dspg
+name: ESP32-Vaquita-DSPG
 description: "ESP32-Vaquita-DSPG is Espressif\u2019s new Alexa built-in solution powered\
   \ by ESP32 and DSP Group\u2019s DBMD5P audio SoC. With a 2-Mic array which allows\
   \ for a 360-degree pick-up, the solution provides a superior far-field voice recognition\
   \ performance."
+status: ''
 extra:
   DMIC input: 2x
   Flash: 16 MB
@@ -12,17 +16,6 @@ extra:
   USB: ''
   earPhone Jack: 1x
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://github.com/espressif/esp-va-sdk/blob/master/docs/en/hw-reference/esp32/user-guide-esp32-vaquita-dspg.md
-  repositories: []
-name: ESP32-Vaquita-DSPG
-ref: espressif/esp32-vaquita-dspg
-release_date: null
-sku: esp32-vaquita-dspg
-spec: null
-status: ''
-vendor: espressif
+  images: []

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4355
+ref: mikroe/mikroe-4355
+vendor: mikroe
+sku: mikroe-4355
+name: MIKROE-4355
 description: "Vibra Sense 2 Click is a compact add-on board that contains a piezo\
   \ sensor suitable for vibration measurements. This board features the LDT0-028K,\
   \ a flexible 28 \u03BCm thick piezoelectric PVDF polymer film with screen-printed\
   \ silver ink electrodes, laminated to a 0.125 mm polyester substrate, and fitted\
   \ with two crimped contacts from TE Connectivity."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/vibra-sense-2-click/vibra-sense-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/vibra-sense-2-click
-  repositories: []
-name: MIKROE-4355
-ref: mikroe/mikroe-4355
-release_date: null
-sku: mikroe-4355
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/vibra-sense-2-click/vibra-sense-2-click-home_default-1.jpg?v=100

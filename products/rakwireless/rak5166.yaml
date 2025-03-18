@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: rak5166
+ref: rakwireless/rak5166
+vendor: rakwireless
+sku: rak5166
+name: RAK5166
 description: "The WisLink M.2 Concentrator LoRaWAN\xAE Module"
+status: ''
 extra:
   formFactor: M.2 Type 3042
   processor: Semtech SX1303
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://news.rakwireless.com/bridging-connectivity-gaps-the-wislink-m-2-concentrator-module-for-lorawan-rak5166-rak5167
-  repositories: []
-name: RAK5166
-ref: rakwireless/rak5166
-release_date: null
-sku: rak5166
-spec: null
-status: ''
-vendor: rakwireless
+  images: []

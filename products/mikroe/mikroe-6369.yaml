@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-6369
+ref: mikroe/mikroe-6369
+vendor: mikroe
+sku: mikroe-6369
+name: MIKROE-6369
 description: Smart DOF 4 Click is a compact add-on board for high-precision motion
   tracking and contextual sensing. This board features the BNO085, a 9-axis IMU System
   in Package (SiP) from CEVA, combining an accelerometer, gyroscope, and geomagnetic
   sensor with a 32-bit microcontroller running CEVA's SH-2 firmware.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/smart-dof-4-click/smart-dof-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/smart-dof-4-click
-  repositories: []
-name: MIKROE-6369
-ref: mikroe/mikroe-6369
-release_date: null
-sku: mikroe-6369
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/smart-dof-4-click/smart-dof-4-click-home_default-1.jpg?v=100

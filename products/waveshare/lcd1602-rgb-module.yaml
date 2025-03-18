@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lcd1602-rgb-module
+ref: waveshare/lcd1602-rgb-module
+vendor: waveshare
+sku: lcd1602-rgb-module
+name: LCD1602 RGB Module
 description: LCD1602 RGB Module, 16x2 Characters LCD, RGB Backlight, 3.3V/5V, I2C
   Bus
+status: ''
 extra:
   Price: $12.31 - $12.99
   SKU: '19537'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/c/lcd1602-rgb-module-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/lcd1602-rgb-module.htm
-  repositories: []
-name: LCD1602 RGB Module
-ref: waveshare/lcd1602-rgb-module
-release_date: null
-sku: lcd1602-rgb-module
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/c/lcd1602-rgb-module-1.jpg

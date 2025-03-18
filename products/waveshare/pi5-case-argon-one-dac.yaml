@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: pi5-case-argon-one-dac
+ref: waveshare/pi5-case-argon-one-dac
+vendor: waveshare
+sku: pi5-case-argon-one-dac
+name: PI5-CASE-ARGON-ONE-DAC
 description: Argon BLSTR DAC Board Kit, Add-On For Argon ONE V3 Case Only, Easy Installation,
   Plug And Play, Enjoy High Quality And Premium Audio Performance
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/pi5-case-argon-one-dac.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-case-argon-one-dac-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-case-argon-one-dac-7.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/pi5-case-argon-one-dac.htm
-  repositories: []
-name: PI5-CASE-ARGON-ONE-DAC
-ref: waveshare/pi5-case-argon-one-dac
-release_date: null
-sku: pi5-case-argon-one-dac
-spec: null
-status: ''
-vendor: waveshare

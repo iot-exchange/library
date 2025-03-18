@@ -1,0 +1,21 @@
+id: walter
+ref: dptechnics/walter
+vendor: dptechnics
+sku: walter
+name: Walter
+description: Walter is a small-form-factor IoT system-on-module (SoM) that combines
+  a powerful ESP32-S3 system-on-chip (SoC) with a second-generation Sequans GM02SP
+  LTE-M/NB-IoT 5G modem and GNSS receiver.
+status: ''
+extra:
+  Certifications: FCC, CE, UKCA, IC, RCM
+  Compatibility: Fully pin compatible with PyCom GPy
+  Flash: 16MiB
+  Main CPU: ESP32-S3
+  Power Consumption in Deep Sleep: "9.8\xB5A"
+  RAM: 2MiB
+links:
+  products:
+  - https://www.quickspot.io/distributors.html
+  images:
+  - https://www.dptechnics.com/images/product/walter-size-aa_png_md-xl.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: esp32-s3-touch-lcd-4
+ref: waveshare/esp32-s3-touch-lcd-4
+vendor: waveshare
+sku: esp32-s3-touch-lcd-4
+name: ESP32-S3-Touch-LCD-4
 description: "ESP32-S3 4inch Capacitive Touch Display Development Board, 480\xD7480,\
   \ 5-Point Touch, 32-Bit LX7 Dual-Core Processor, Supports WiFi & Bluetooth, ESP32\
   \ With Display"
+status: ''
 extra:
   price: $30.95  -  $32.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-4-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/esp32-s3-touch-lcd-4.htm
-  repositories: []
-name: ESP32-S3-Touch-LCD-4
-ref: waveshare/esp32-s3-touch-lcd-4
-release_date: null
-sku: esp32-s3-touch-lcd-4
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-4-1.jpg

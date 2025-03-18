@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-025-wifi-antenna
+ref: olimex/teres-025-wifi-antenna
+vendor: olimex
+sku: teres-025-wifi-antenna
+name: TERES-025-WiFi-Antenna
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-025-WiFi-Antenna/images/thumbs/200x150/TERES-025-WIFI-Antenna.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-025-WiFi-Antenna/
-  repositories: []
-name: TERES-025-WiFi-Antenna
-ref: olimex/teres-025-wifi-antenna
-release_date: null
-sku: teres-025-wifi-antenna
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-025-WiFi-Antenna/images/thumbs/200x150/TERES-025-WIFI-Antenna.jpg

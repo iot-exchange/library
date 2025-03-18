@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: wp7611-1
+ref: sierrawireless/wp7611-1
+vendor: sierrawireless
+sku: wp7611-1
+name: WP7611-1
 description: 'Americas (Verizon, AT&T, T-Mobile, Sprint (data only), Planned: Semtech)'
+status: ''
 extra:
   Bands: 'LTE: B2, B4, B5, B12, B13, B14, B25, B26, B66, B71'
   Edge Processing: "\u2713"
@@ -8,17 +12,6 @@ extra:
   Region (Carrier): 'Americas (Verizon, AT&T, T-Mobile, Sprint (data only), Planned:
     Semtech)'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.sierrawireless.com/iot-modules/smart-modules/wp7611-1/
-  repositories: []
-name: WP7611-1
-ref: sierrawireless/wp7611-1
-release_date: null
-sku: wp7611-1
-spec: null
-status: ''
-vendor: sierrawireless
+  images: []

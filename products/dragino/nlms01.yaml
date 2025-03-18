@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: nlms01
+ref: dragino/nlms01
+vendor: dragino
+sku: nlms01
+name: NLMS01
 description: 'NB-IoT Leaf Moisture SensorNB-IoT Bands: B1/B3/B8/B5/B20/B28 @H-FDDMonitor
   Leaf moistureMonitor Leaf temperatureUltra Low Power ConsumptionMicro SIM card slot
   for NB-IoT SIM'
+status: ''
 extra:
   NB-IoT Bands: B1/B3/B8/B5/B20/B28
   Power Consumption: Ultra Low
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/1379b5de7cb668c186ab48a9361eabd7_L.jpg
-  models: []
   products:
   - https://dragino.com/products/agriculture-weather-station/item/236-nlms01.html
-  repositories: []
-name: NLMS01
-ref: dragino/nlms01
-release_date: null
-sku: nlms01
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/1379b5de7cb668c186ab48a9361eabd7_L.jpg

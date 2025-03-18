@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: 7-5inch-e-paper-case
+ref: waveshare/7-5inch-e-paper-case
+vendor: waveshare
+sku: 7-5inch-e-paper-case
+name: 7.5inch e-Paper Case
 description: $4.25  -  $4.59
+status: ''
 extra:
   SKU: '16089'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/_/7.5inch-e-paper-case-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/7.5inch-e-paper-case.htm
-  repositories: []
-name: 7.5inch e-Paper Case
-ref: waveshare/7-5inch-e-paper-case
-release_date: null
-sku: 7-5inch-e-paper-case
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/_/7.5inch-e-paper-case-1.jpg

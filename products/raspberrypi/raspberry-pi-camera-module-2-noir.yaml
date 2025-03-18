@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-camera-module-2-noir
+ref: raspberrypi/raspberry-pi-camera-module-2-noir
+vendor: raspberrypi
+sku: raspberry-pi-camera-module-2-noir
+name: Raspberry Pi Camera Module 2 NoIR
 description: The infrared Raspberry Pi Camera Module 2 NoIR
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/c2e1bd965ccecc8eb9a231440ef308ef/3f4ea/72f278a6-5fdd-4ace-87ac-42d4c670b713_Camera%2BNoIR%2BHero.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/pi-noir-camera-v2/
-  repositories: []
-name: Raspberry Pi Camera Module 2 NoIR
-ref: raspberrypi/raspberry-pi-camera-module-2-noir
-release_date: null
-sku: raspberry-pi-camera-module-2-noir
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/c2e1bd965ccecc8eb9a231440ef308ef/3f4ea/72f278a6-5fdd-4ace-87ac-42d4c670b713_Camera%2BNoIR%2BHero.jpg

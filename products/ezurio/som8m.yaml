@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: som8m
+ref: ezurio/som8m
+vendor: ezurio
+sku: som8m
+name: SOM8M+
 description: Supports 4-addr mode and layer-2 bridging with Laird's specialized SUMMIT
   Wifi stack.
+status: ''
 extra:
   softwareVersion: 10.4.0.10 or newer
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/wifi-modules-bluetooth/summit-software-stack-60-series
-  repositories: []
-name: SOM8M+
-ref: ezurio/som8m
-release_date: null
-sku: som8m
-spec: null
-status: ''
-vendor: ezurio
+  images: []

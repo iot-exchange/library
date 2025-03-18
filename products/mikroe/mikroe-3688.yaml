@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-3688
+ref: mikroe/mikroe-3688
+vendor: mikroe
+sku: mikroe-3688
+name: MIKROE-3688
 description: "Thermo 13 Click is a Click board\u2122 equipped with the sensor IC,\
   \ which can digitize temperature measurements between -30\xB0C and +95\xB0C so that\
   \ the temperature measurement data can be processed by the host MCU. Thermo 13 click\
   \ provides good measurement accuracy in the range from -20\xB0C to +85\xB0C. The\
   \ sensor used on this Click board\u2122 has a great combination of..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/easypic/easypic-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/thermo-13-click/thermo-13-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/easypic
   - https://www.mikroe.com/thermo-13-click
-  repositories: []
-name: MIKROE-3688
-ref: mikroe/mikroe-3688
-release_date: null
-sku: mikroe-3688
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/easypic/easypic-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/thermo-13-click/thermo-13-click-home_default-1.jpg?v=100

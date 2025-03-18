@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: wl03a-nb
+ref: dragino/wl03a-nb
+vendor: dragino
+sku: wl03a-nb
+name: WL03A-NB
 description: NB-IoT None-Position Rope Type Water Leak Controller
+status: ''
 extra:
   Battery: 8500mAh Battery for long term use
   Function: Water Leak detect
   NB-IoT Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85 @H-FDD
   Power Consumption: Ultra-low
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/4251dec72b18ac89643edfb7a8300016_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lorawan-nb-iot-door-sensor-water-leak/item/313-wl03a-nb.html
-  repositories: []
-name: WL03A-NB
-ref: dragino/wl03a-nb
-release_date: null
-sku: wl03a-nb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/4251dec72b18ac89643edfb7a8300016_L.jpg

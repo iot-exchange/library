@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '114992711'
+ref: seeedstudio/114992711
+vendor: seeedstudio
+sku: '114992711'
+name: '114992711'
 description: A high-efficiency robust 12W solar panel to supply power to various application
   scenarios such as smart agriculture and smart city.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992711_all-13.png
-  models: []
   products:
   - https://www.seeedstudio.com/Solar-Panel-PV-12W-with-mounting-bracket-p-5003.html
-  repositories: []
-name: '114992711'
-ref: seeedstudio/114992711
-release_date: null
-sku: '114992711'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992711_all-13.png

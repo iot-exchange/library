@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: 8o-2w-speaker-b
+ref: waveshare/8o-2w-speaker-b
+vendor: waveshare
+sku: 8o-2w-speaker-b
+name: "8\u03A9 2W Speaker (B)"
 description: "2030 Cavity Speaker Type B, 8\u03A9 2W, High-quality Sound, Compact\
   \ Size, 2PIN PH1.25 Connector"
+status: ''
 extra:
   price: $1.82  -  $1.99
   sku: '27859'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/8/o/8ohm-2w-speaker-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/8ohm-2w-speaker-b.htm
   - "https://www.waveshare.com/product/8ohm-2w-speaker-b.htm \"2030 Cavity Speaker\
     \ Type B, 8\u03A9 2W, High-quality Sound, Compact Size, 2PIN PH1.25 Connector\""
-  repositories: []
-name: "8\u03A9 2W Speaker (B)"
-ref: waveshare/8o-2w-speaker-b
-release_date: null
-sku: 8o-2w-speaker-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/8/o/8ohm-2w-speaker-b-1.jpg

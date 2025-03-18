@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-4799
+ref: mikroe/mikroe-4799
+vendor: mikroe
+sku: mikroe-4799
+name: MIKROE-4799
 description: RTC 14 Click is a compact add-on board that measures the passage of time.
   This board features the ISL1221, a low-power RTC with battery-backed SRAM and event
   detection from Renesas.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/rtc-14-click/rtc-14-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/rtc-14-click
-  repositories: []
-name: MIKROE-4799
-ref: mikroe/mikroe-4799
-release_date: null
-sku: mikroe-4799
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rtc-14-click/rtc-14-click-home_default-1.jpg?v=100

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '109990525'
+ref: seeedstudio/109990525
+vendor: seeedstudio
+sku: '109990525'
+name: '109990525'
 description: SenseCAP Multi-Platform LoRaWAN Indoor Gateway(SX1302) - AU915
+status: ''
 extra:
   Applications: Smart building, environmental monitoring, precision farming
   Features: Wide-range coverage, strong signal output
   Frequency Plans: 865 MHz to 923 MHz
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-handheld-vector-network-analyzer-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/SenseCAP-Multi-Platform-LoRaWAN-Indoor-Gateway-SX1302-AU915-Australia-p-5740.html
-  repositories: []
-name: '109990525'
-ref: seeedstudio/109990525
-release_date: null
-sku: '109990525'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-handheld-vector-network-analyzer-45font.jpg

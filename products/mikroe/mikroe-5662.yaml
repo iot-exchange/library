@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-5662
+ref: mikroe/mikroe-5662
+vendor: mikroe
+sku: mikroe-5662
+name: MIKROE-5662
 description: "AWS IoT Click is a compact add-on board that allows users to easily\
   \ connected to AWS IoT services and securely interact with cloud applications and\
   \ other devices. This board features the ESP32-C3-MINI-1-N4-A, a small 2.4GHz WiFi\
   \ (802.11 b/g/n) and Bluetooth\xAE 5 module from Espressif Systems."
+status: Unavailable
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.mikroe.com/aws-iot-click
-  repositories: []
-name: MIKROE-5662
-ref: mikroe/mikroe-5662
-release_date: null
-sku: mikroe-5662
-spec: null
-status: Unavailable
-vendor: mikroe
+  images: []

@@ -1,8 +1,12 @@
-alternatives: []
-certifications: []
+id: stm32wl54cc
+ref: st/stm32wl54cc
+vendor: st
+sku: stm32wl54cc
+name: STM32WL54CC
 description: Sub-GHz Wireless Microcontrollers. Dual-core Arm Cortex-M4/M0+ @48 MHz
   with 256 Kbytes of Flash memory, 64 Kbytes of SRAM. (G)FSK, (G)MSK, BPSK modulations.
   AES 256-bit. Multiprotocol System-on-Chip.
+status: Active
 extra:
   Core: Dual-core Arm Cortex-M4/M0+
   Encryption: AES 256-bit
@@ -12,17 +16,6 @@ extra:
   SRAM: 64 Kbytes
   Type: Multiprotocol System-on-Chip
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.st.com/en/microcontrollers-microprocessors/stm32wl54cc.html
-  repositories: []
-name: STM32WL54CC
-ref: st/stm32wl54cc
-release_date: null
-sku: stm32wl54cc
-spec: null
-status: Active
-vendor: st
+  images: []

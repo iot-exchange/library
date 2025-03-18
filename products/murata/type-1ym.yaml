@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: type-1ym
+ref: murata/type-1ym
+vendor: murata
+sku: type-1ym
+name: Type 1YM
 description: Wi-Fi 5 2x2MIMO module with Bluetooth support
+status: ''
 extra:
   Bluetooth: 5.2 BR/EDR/LE
   Chipset: 88W8997
@@ -25,24 +29,13 @@ extra:
   Receive Mode Current: 110 mA @ 11b (2.4GHz)110 mA @ 11g (2.4GHz)110 mA @ 11n (2.4GHz)125
     mA @ 11a (5GHz)140 mA @ 11n (5GHz)160 mA @ 11ac (5GHz)
   RoHS Support: 'Yes'
-  Sleep Mode Current (Bluetooth): ''
   Sleep Mode Current (Wi-Fi): ''
   Supply Voltage: 1.8V,3.3V
   Technology: Wi-Fi,Bluetooth
-  Transmit Mode Current (Bluetooth): ''
   Transmit Mode Current (Wi-Fi): 420 mA @ 11b (2.4GHz)310 mA @ 11g (2.4GHz)300 mA
     @ 11n (2.4GHz)330 mA @ 11a (5GHz)310 mA @ 11n (5GHz)310 mA @ 11ac (5GHz)
+  Sleep Mode Current (Bluetooth): ''
+  Transmit Mode Current (Bluetooth): ''
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Type 1YM
-ref: murata/type-1ym
-release_date: null
-sku: type-1ym
-spec: null
-status: ''
-vendor: murata
+  images: []

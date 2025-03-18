@@ -1,8 +1,12 @@
-alternatives: []
-certifications: []
+id: esp32-korvo
+ref: espressif/esp32-korvo
+vendor: espressif
+sku: esp32-korvo
+name: ESP32-Korvo
 description: ESP32-Korvo is an ESP32-based audio development board with microphone
   array, together with Espressif\'s speech recognition SDK ESP-Skainet, ESP32-Korvo
   is suitable for far-field speech recognition applications with low power consumption.
+status: ''
 extra:
   Earphone jack: ''
   Flash: 16 MB
@@ -11,17 +15,6 @@ extra:
   Speaker: ''
   USB: ''
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://github.com/espressif/esp-skainet/blob/master/docs/en/hw-reference/esp32/user-guide-esp32-korvo-v1.1.md
-  repositories: []
-name: ESP32-Korvo
-ref: espressif/esp32-korvo
-release_date: null
-sku: esp32-korvo
-spec: null
-status: ''
-vendor: espressif
+  images: []

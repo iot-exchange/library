@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: ms14n-s
+ref: dragino/ms14n-s
+vendor: dragino
+sku: ms14n-s
+name: MS14N-S
 description: Dragino Linux IoT Appliance With Sensor Terminal. Base on AR9331
+status: EOL
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/45e8f4939bc3bd36e4b87ab1e324d227_L.jpg
-  models: []
   products:
   - https://dragino.com/products/mother-board/item/115-ms14n-s.html
-  repositories: []
-name: MS14N-S
-ref: dragino/ms14n-s
-release_date: null
-sku: ms14n-s
-spec: null
-status: EOL
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/45e8f4939bc3bd36e4b87ab1e324d227_L.jpg

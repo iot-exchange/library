@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: pi4-case-d
+ref: waveshare/pi4-case-d
+vendor: waveshare
+sku: pi4-case-d
+name: PI4-CASE-D
 description: Black ABS Case for Raspberry Pi 4, with Cooling Fan
+status: ''
 extra:
   Price: $2.71  -  $3.39
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/pi4-case-d.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-case-d-7.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-case-d-8.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/pi4-case-d.htm
-  repositories: []
-name: PI4-CASE-D
-ref: waveshare/pi4-case-d
-release_date: null
-sku: pi4-case-d
-spec: null
-status: ''
-vendor: waveshare

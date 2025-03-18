@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: olimexino-nano-ble
+ref: olimex/olimexino-nano-ble
+vendor: olimex
+sku: olimexino-nano-ble
+name: OLIMEXINO-NANO-BLE
 description: ''
+status: ''
 extra:
   price1: 9.95 EUR
   price2: 8.96 EUR
   price3: 7.96 EUR
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.olimex.com/Products/Duino/AVR/OLIMEXINO-NANO-BLE/
-  repositories: []
-name: OLIMEXINO-NANO-BLE
-ref: olimex/olimexino-nano-ble
-release_date: null
-sku: olimexino-nano-ble
-spec: null
-status: ''
-vendor: olimex
+  images: []

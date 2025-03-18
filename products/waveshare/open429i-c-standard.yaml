@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: open429i-c-standard
+ref: waveshare/open429i-c-standard
+vendor: waveshare
+sku: open429i-c-standard
+name: Open429I-C Standard
 description: Open429I-C Standard, STM32F4 Development Board
+status: ''
 extra:
   Price: $56.59 - $59.99
   SKU: '9186'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/open429i-c-standard_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/open429i-c-standard.htm
-  repositories: []
-name: Open429I-C Standard
-ref: waveshare/open429i-c-standard
-release_date: null
-sku: open429i-c-standard
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/open429i-c-standard_l_1_5.jpg

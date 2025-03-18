@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4544
+ref: mikroe/mikroe-4544
+vendor: mikroe
+sku: mikroe-4544
+name: MIKROE-4544
 description: 'CODEGRIP for PIC is a fast USB-C and WiFi programmer and hardware debugger.
   It supports PIC Cortex M0, M3,M4 and M7 based MCUs. The package contains: Damage
   resistant protective box CODEGRIP for PIC CODEGRIP ADAPT V1 - 10 pin 0.10" pitch
   PIC Cortex Debug adapter WiFi Antenna right angle SMA User Manual USB-C cable USB-C
   Female to USB-A Male...'
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/codegrip-for-pic/codegrip-for-pic-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/codegrip-for-pic
-  repositories: []
-name: MIKROE-4544
-ref: mikroe/mikroe-4544
-release_date: null
-sku: mikroe-4544
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/codegrip-for-pic/codegrip-for-pic-home_default-1.jpg?v=100

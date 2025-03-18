@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 7inch-hdmi-lcd-h
+ref: waveshare/7inch-hdmi-lcd-h
+vendor: waveshare
+sku: 7inch-hdmi-lcd-h
+name: 7inch HDMI LCD (H)
 description: "7inch Capacitive Touch Screen LCD (H), 1024\xD7600, HDMI, IPS, Various\
   \ Systems Support"
+status: ''
 extra:
   Price: $46.29 - $47.99
   SKU: '14628'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/h/7hp-m.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/7inch-hdmi-lcd-h.htm
-  repositories: []
-name: 7inch HDMI LCD (H)
-ref: waveshare/7inch-hdmi-lcd-h
-release_date: null
-sku: 7inch-hdmi-lcd-h
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/h/7hp-m.jpg

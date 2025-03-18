@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: ethernet-cable-1m
+ref: olimex/ethernet-cable-1m
+vendor: olimex
+sku: ethernet-cable-1m
+name: Ethernet-CABLE-1M
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Cables/Ethernet-CABLE-1M/images/thumbs/200x150/Ethernet-1M.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Cables/Ethernet-CABLE-1M/
-  repositories: []
-name: Ethernet-CABLE-1M
-ref: olimex/ethernet-cable-1m
-release_date: null
-sku: ethernet-cable-1m
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Cables/Ethernet-CABLE-1M/images/thumbs/200x150/Ethernet-1M.jpg

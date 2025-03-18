@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: kapton-tape10mm
+ref: olimex/kapton-tape10mm
+vendor: olimex
+sku: kapton-tape10mm
+name: KAPTON-TAPE10MM
 description: ''
+status: ''
 extra:
   price1: 2.50 EUR
   price2: 2.38 EUR
   price3: 2.25 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Soldering/KAPTON-TAPE10MM/images/thumbs/200x150/KAPTON-TAPE10MM.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Soldering/KAPTON-TAPE10MM/
-  repositories: []
-name: KAPTON-TAPE10MM
-ref: olimex/kapton-tape10mm
-release_date: null
-sku: kapton-tape10mm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/KAPTON-TAPE10MM/images/thumbs/200x150/KAPTON-TAPE10MM.jpg

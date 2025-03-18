@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: lpwa-bc950k-gl-cat-nb2
+ref: quectel/lpwa-bc950k-gl-cat-nb2
+vendor: quectel
+sku: lpwa-bc950k-gl-cat-nb2
+name: LPWA BC950K-GL Cat NB2
 description: Cat NB2  eSIM  LCC+LGA  QuecOpen
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.quectel.com/content/uploads/2024/03/BC950K-GL.png
-  models: []
   products:
   - https://www.quectel.com/product/lpwa-bc950k-gl-cat-nb2/
-  repositories: []
-name: LPWA BC950K-GL Cat NB2
-ref: quectel/lpwa-bc950k-gl-cat-nb2
-release_date: null
-sku: lpwa-bc950k-gl-cat-nb2
-spec: null
-status: ''
-vendor: quectel
+  images:
+  - https://www.quectel.com/content/uploads/2024/03/BC950K-GL.png

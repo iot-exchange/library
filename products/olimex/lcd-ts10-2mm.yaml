@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lcd-ts10-2mm
+ref: olimex/lcd-ts10-2mm
+vendor: olimex
+sku: lcd-ts10-2mm
+name: LCD-TS10-2MM
 description: ''
+status: ''
 extra:
   discountedPrice1: 18.00 EUR
   discountedPrice2: 16.00 EUR
   price: 20.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/LCD/LCD-TS10/images/thumbs/200x150/A13-TS7.png
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/LCD/LCD-TS10-2MM/
-  repositories: []
-name: LCD-TS10-2MM
-ref: olimex/lcd-ts10-2mm
-release_date: null
-sku: lcd-ts10-2mm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/LCD/LCD-TS10/images/thumbs/200x150/A13-TS7.png

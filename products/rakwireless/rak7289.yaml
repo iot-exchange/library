@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: rak7289
+ref: rakwireless/rak7289
+vendor: rakwireless
+sku: rak7289
+name: RAK7289
 description: WisGate Edge Pro - Best in class outdoor gateway
+status: ''
 extra:
   Core: Based on the SX1303 LoRa Core
   Design: IP67 rated industrial design
@@ -8,18 +12,7 @@ extra:
   Power Alert: Dying Gasp alert for power issues
   Remote Management: Remote management with WisDM
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://res.rakwireless.com/tracked/products/wisgate-edge/rak7289-updated-updated.png?fm=webp
-  models: []
   products:
   - https://store.rakwireless.com/products/wisgate-edge-pro-rak7289v2-rak7289cv2?utm_source=WisGate&utm_medium=WisGate&utm_campaign=RAKwireless
-  repositories: []
-name: RAK7289
-ref: rakwireless/rak7289
-release_date: null
-sku: rak7289
-spec: null
-status: ''
-vendor: rakwireless
+  images:
+  - https://res.rakwireless.com/tracked/products/wisgate-edge/rak7289-updated-updated.png?fm=webp

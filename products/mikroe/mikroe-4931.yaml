@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4931
+ref: mikroe/mikroe-4931
+vendor: mikroe
+sku: mikroe-4931
+name: MIKROE-4931
 description: "H-Bridge Driver 2 Click is a compact add-on board that contains an H-bridge\
   \ gate driver, also known as a full-bridge pre-driver. This board features the NCV7535,\
   \ a monolithic H\u2212bridge pre-driver for a DC motor with an enhanced feature\
   \ set, useful in automotive systems from onsemi. The gate driver channels are independently\
   \ controlled by a 24-bit SPI..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/h-bridge-driver-2-click/h-bridge-driver-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=67#H-Bridge-Driver-2-Click
-  repositories: []
-name: MIKROE-4931
-ref: mikroe/mikroe-4931
-release_date: null
-sku: mikroe-4931
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/h-bridge-driver-2-click/h-bridge-driver-2-click-home_default-1.jpg?v=100

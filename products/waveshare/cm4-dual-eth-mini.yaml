@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: cm4-dual-eth-mini
+ref: waveshare/cm4-dual-eth-mini
+vendor: waveshare
+sku: cm4-dual-eth-mini
+name: cm4_dual_eth_mini
 description: Mini Dual Gigabit Ethernet Base Board Designed for Raspberry Pi Compute
   Module 4
+status: ''
 extra:
-  Multi Options: ''
   Price: $29.99 -  $57.99
+  Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-dual-eth-mini-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/cm4-dual-eth-mini.htm
-  repositories: []
-name: cm4_dual_eth_mini
-ref: waveshare/cm4-dual-eth-mini
-release_date: null
-sku: cm4-dual-eth-mini
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-dual-eth-mini-1.jpg

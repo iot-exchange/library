@@ -1,49 +1,42 @@
-alternatives: []
-certifications: []
+id: 1-79
+ref: microchip/1-79
+vendor: microchip
+sku: 1-79
+name: '1.79'
 description: Bluetooth LE, Zigbee, Thread, Proprietary | SoC | 64 MHz, ARM Cortex
   M4F
+status: ''
 extra:
-  ADC: '12'
   Bluetooth: '5.2'
-  Bluetooth Version: 1.3.0
-  Current Consumption: '0.11'
-  DAC: NA
   Flash: '128'
-  GPIO: '8'
-  I2C: '5.2'
   Max Range (dBm): '-103'
   Max Supply Voltage (V): '3.6'
   Microcontroller: 64 MHz, ARM Cortex M4F
+  Package: '32'
+  RAM: '1024'
+  Security Features: AES Engine, TRNG, SHA1, SHA224, SHA256
+  Supply Voltage (V): '1.9'
+  Tx Power (dBm): '5'
+  Type: SoC
+  Version: '3.0'
+  ADC: '12'
+  Bluetooth Version: 1.3.0
+  Current Consumption: '0.11'
+  DAC: NA
+  GPIO: '8'
+  I2C: '5.2'
   Operating Temperature Max: '125'
   Operating Temperature Min: '-40'
-  Package: '32'
   Package Type: 32/VQFN
-  RAM: '1024'
   SPI: '2'
   Secure Boot: 'No'
-  Security Features: AES Engine, TRNG, SHA1, SHA224, SHA256
   Sensitivity: '-103'
-  Supply Voltage (V): '1.9'
   Supply Voltage Max: '3.6'
   Supply Voltage Min: '1.9'
   TX Power: '5'
   Timers: '3'
-  Tx Power (dBm): '5'
-  Type: SoC
   UART: '2'
-  Version: '3.0'
   Zigbee Version: '3.0'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: '1.79'
-ref: microchip/1-79
-release_date: null
-sku: 1-79
-spec: null
-status: ''
-vendor: microchip
+  images: []

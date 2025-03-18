@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-env
+ref: olimex/mod-env
+vendor: olimex
+sku: mod-env
+name: MOD-ENV
 description: ''
+status: ''
 extra:
   bulkPrice: 14.36 EUR
   discountedPrice: 15.15 EUR
   price: 15.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Sensors/MOD-ENV/images/thumbs/200x150/MOD-ENV4.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Sensors/MOD-ENV/open-source-hardware
-  repositories: []
-name: MOD-ENV
-ref: olimex/mod-env
-release_date: null
-sku: mod-env
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Sensors/MOD-ENV/images/thumbs/200x150/MOD-ENV4.jpg

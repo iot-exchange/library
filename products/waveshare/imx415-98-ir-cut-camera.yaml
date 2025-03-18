@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: imx415-98-ir-cut-camera
+ref: waveshare/imx415-98-ir-cut-camera
+vendor: waveshare
+sku: imx415-98-ir-cut-camera
+name: IMX415-98 IR-CUT Camera
 description: IMX415 8MP Camera Module, With High SNR, Good Low Light Performance,
   And Low Distortion
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx415-98-ir-cut-camera-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/imx415-98-ir-cut-camera.htm "IMX415 8MP Camera
     Module, With High SNR, Good Low Light Performance, And Low Distortion"
-  repositories: []
-name: IMX415-98 IR-CUT Camera
-ref: waveshare/imx415-98-ir-cut-camera
-release_date: null
-sku: imx415-98-ir-cut-camera
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx415-98-ir-cut-camera-1.jpg

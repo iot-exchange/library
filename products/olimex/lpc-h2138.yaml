@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lpc-h2138
+ref: olimex/lpc-h2138
+vendor: olimex
+sku: lpc-h2138
+name: LPC-H2138
 description: ''
+status: ''
 extra:
   discountedPrice1: 17.96 EUR
   discountedPrice2: 15.96 EUR
   price: 19.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/NXP/LPC-H2138/images/thumbs/200x150/LPC-H2138-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/NXP/LPC-H2138/
-  repositories: []
-name: LPC-H2138
-ref: olimex/lpc-h2138
-release_date: null
-sku: lpc-h2138
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-H2138/images/thumbs/200x150/LPC-H2138-01.jpg

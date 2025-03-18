@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pcie-to-usb-3-2-gen1-b
+ref: waveshare/pcie-to-usb-3-2-gen1-b
+vendor: waveshare
+sku: pcie-to-usb-3-2-gen1-b
+name: PCIe TO USB 3.2 Gen1 (B)
 description: PCIe TO USB 3.2 Gen1 Adapter, for Raspberry Pi Compute Module 4 IO Board,
   4x HS USB
+status: ''
 extra:
   Price: $17.31 - $17.99
   SKU: '18899'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-usb-3.2-gen1-b-1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pcie-to-usb-3.2-gen1-b.htm
-  repositories: []
-name: PCIe TO USB 3.2 Gen1 (B)
-ref: waveshare/pcie-to-usb-3-2-gen1-b
-release_date: null
-sku: pcie-to-usb-3-2-gen1-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-usb-3.2-gen1-b-1_2.jpg

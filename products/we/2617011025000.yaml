@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '2617011025000'
+ref: we/2617011025000
+vendor: we
+sku: '2617011025000'
+name: '2617011025000'
 description: Stephano-I
+status: New
 extra:
   Antenna: Internal antenna
   Expected lifetime: '>10 years'
   Product type: Stephano-I
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o786825v214%20Single_Stephano-I_2617011025000.jpg
-  models: []
   products:
   - https://www.we-online.com/components/products/manual/2617011025000.pdf
   - https://www.we-online.com/en/components/products/STEPHANO-I-BLUETOOTH#2617011025000
   - https://www.we-online.com/en/components/products/STEPHANO-I_WIFI#2617011025000
-  repositories: []
-name: '2617011025000'
-ref: we/2617011025000
-release_date: null
-sku: '2617011025000'
-spec: null
-status: New
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o786825v214%20Single_Stephano-I_2617011025000.jpg

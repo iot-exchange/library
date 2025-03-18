@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rfid125-wat
+ref: olimex/rfid125-wat
+vendor: olimex
+sku: rfid125-wat
+name: RFID125-WAT
 description: ''
+status: ''
 extra:
   discountedPrice1: 1.22 EUR
   discountedPrice2: 1.08 EUR
   price: 1.35 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/RFID-Tags/125/RFID125-WAT/images/thumbs/200x150/RFID-WATCH.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/RFID-Tags/125/RFID125-WAT/
-  repositories: []
-name: RFID125-WAT
-ref: olimex/rfid125-wat
-release_date: null
-sku: rfid125-wat
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/RFID-Tags/125/RFID125-WAT/images/thumbs/200x150/RFID-WATCH.jpg

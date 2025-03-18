@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: 7-dsi-touch-a
+ref: waveshare/7-dsi-touch-a
+vendor: waveshare
+sku: 7-dsi-touch-a
+name: 7-DSI-TOUCH-A
 description: "7inch DSI Capacitive Touch Display, 720\xD71280, IPS Panel, Optical\
   \ Bonding Toughened Glass Panel, 10-Point Touch, Anti-Fingerprint Process"
+status: ''
 extra:
-  Price: $47.95 - $49.99
   Price Range: $47.95 - $49.99
   SKU: '30323'
+  Price: $47.95 - $49.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/-/7-dsi-touch-a-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/7-dsi-touch-a.htm
-  repositories: []
-name: 7-DSI-TOUCH-A
-ref: waveshare/7-dsi-touch-a
-release_date: null
-sku: 7-dsi-touch-a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/-/7-dsi-touch-a-1.jpg

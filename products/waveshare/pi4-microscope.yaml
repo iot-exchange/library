@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: pi4-microscope
+ref: waveshare/pi4-microscope
+vendor: waveshare
+sku: pi4-microscope
+name: pi4_microscope
 description: Raspberry Pi Microscope Kit, 12MP Visual Magnification, Microscope Screen
   Bracket
+status: ''
 extra:
   Multi Options: ''
   Price: $139.99 - $247.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/pi4-microscope-kit.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-microscope-kit-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-microscope-kit-2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/pi4-microscope-kit.htm
-  repositories: []
-name: pi4_microscope
-ref: waveshare/pi4-microscope
-release_date: null
-sku: pi4-microscope
-spec: null
-status: ''
-vendor: waveshare

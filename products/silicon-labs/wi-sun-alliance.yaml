@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: wi-sun-alliance
+ref: silicon-labs/wi-sun-alliance
+vendor: silicon-labs
+sku: wi-sun-alliance
+name: Wi-SUN Alliance
 description: Wi-SUN Alliance
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://wi-sun.org/
-  repositories: []
-name: Wi-SUN Alliance
-ref: silicon-labs/wi-sun-alliance
-release_date: null
-sku: wi-sun-alliance
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

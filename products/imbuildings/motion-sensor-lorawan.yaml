@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: motion-sensor-lorawan
+ref: imbuildings/motion-sensor-lorawan
+vendor: imbuildings
+sku: motion-sensor-lorawan
+name: "Motion Sensor \u2013 LoRaWAN"
 description: Motion sensor for monitoring room usage.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://imbuildings.com/products/motion-sensor-lorawan/
-  repositories: []
-name: "Motion Sensor \u2013 LoRaWAN"
-ref: imbuildings/motion-sensor-lorawan
-release_date: null
-sku: motion-sensor-lorawan
-spec: null
-status: ''
-vendor: imbuildings
+  images: []

@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-3737
+ref: mikroe/mikroe-3737
+vendor: mikroe
+sku: mikroe-3737
+name: MIKROE-3737
 description: Balancer 3 Click is overvoltage protection device for 2-series cell lithium-ion
   battery packs that incorporates a high-accuracy precision overvoltage detection
   circuit and automatic cell imbalance correction. It can be used for various applications,
   ranging from smartphones, notebook / laptops, power tools, portable equipment and
   instrumentation, to...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/balancer-3-click/balancer-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/balancer-3-click
   - https://www.mikroe.com/cart?add=1&id_product=2500
-  repositories: []
-name: MIKROE-3737
-ref: mikroe/mikroe-3737
-release_date: null
-sku: mikroe-3737
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/balancer-3-click/balancer-3-click-home_default-1.jpg?v=100

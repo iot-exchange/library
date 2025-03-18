@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: '2605056081001'
+ref: we/2605056081001
+vendor: we
+sku: '2605056081001'
+name: '2605056081001'
 description: Tarvos-I USB radio stick
+status: Active
 extra:
   Current Consumption (mA): '3.6'
   Expected Lifetime (years): '>10'
@@ -9,16 +13,5 @@ extra:
   Sensitivity (dBm): '-112'
   Supply Voltage (V): '2'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: '2605056081001'
-ref: we/2605056081001
-release_date: null
-sku: '2605056081001'
-spec: null
-status: Active
-vendor: we
+  images: []

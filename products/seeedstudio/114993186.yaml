@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '114993186'
+ref: seeedstudio/114993186
+vendor: seeedstudio
+sku: '114993186'
+name: '114993186'
 description: "Wio Tracker 1110 Dev Board- the Tracker Prototype for Indoor and Outdoor\
   \ Positioning. Enhance your tracking and environmental monitoring applications with\
   \ the Wio Tracker 1110 Dev Board - Unleashing indoor and outdoor positioning power\
   \ through LR1110 and Nordic nRF52840 chips, LoRa\xAE, Bluetooth, GPS, and Grove\
   \ Capabilities."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.seeedstudio.com/img/e
-  models: []
   products:
   - https://www.seeedstudio.com/Wio-Tracker-1110-Dev-Board-the-Tracker-Prototype-for-Indoor-and-Outdoor-Positioning.html
-  repositories: []
-name: '114993186'
-ref: seeedstudio/114993186
-release_date: null
-sku: '114993186'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://www.seeedstudio.com/img/e

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: dc-buck-adapter-7-2v
+ref: waveshare/dc-buck-adapter-7-2v
+vendor: waveshare
+sku: dc-buck-adapter-7-2v
+name: DC BUCK Adapter (7.2V)
 description: Serial Bus Servo DC Buck Adapter, Mini Module, Design for Serial Bus
   Servos, Easy to Use, 7.2V Buck Regulator
+status: ''
 extra:
   SKU: '27380'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/c/dc-buck-adapter-7.2v-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/dc-buck-adapter-7.2v.htm
-  repositories: []
-name: DC BUCK Adapter (7.2V)
-ref: waveshare/dc-buck-adapter-7-2v
-release_date: null
-sku: dc-buck-adapter-7-2v
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/c/dc-buck-adapter-7.2v-1.jpg

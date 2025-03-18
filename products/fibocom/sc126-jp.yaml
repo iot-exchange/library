@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: sc126-jp
+ref: fibocom/sc126-jp
+vendor: fibocom
+sku: sc126-jp
+name: SC126-JP
 description: 4G entry module for the Japan market.
+status: ''
 extra:
   Bands: 'LTE: B1/3/6/8/9/18/19/21/26/28/41'
   Form Factor: LGA / LCC
   Region: Japan
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTE-SC126-JP.html
-  repositories: []
-name: SC126-JP
-ref: fibocom/sc126-jp
-release_date: null
-sku: sc126-jp
-spec: null
-status: ''
-vendor: fibocom
+  images: []

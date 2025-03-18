@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: ots-44-1-27-03
+ref: waveshare/ots-44-1-27-03
+vendor: waveshare
+sku: ots-44-1-27-03
+name: OTS-44-1.27-03
 description: OTS-44-1.27-03, Test & Burn-in Socket
+status: ''
 extra:
   Price: $46.59 - $49.99
   SKU: '3594'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/t/ots-44-1.27-03_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ots-44-1.27-03.htm
-  repositories: []
-name: OTS-44-1.27-03
-ref: waveshare/ots-44-1-27-03
-release_date: null
-sku: ots-44-1-27-03
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/t/ots-44-1.27-03_l_1_5.jpg

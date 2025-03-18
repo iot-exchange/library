@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '101990064'
+ref: seeedstudio/101990064
+vendor: seeedstudio
+sku: '101990064'
+name: '101990064'
 description: "Input Current: 0~60A AC Output Mode: 0~1V Non-linearity: \xB13%"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2017-08bazaar543683_114990121.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Non-invasive-AC-Current-Sensor-60A-ma-p-2057.html
-  repositories: []
-name: '101990064'
-ref: seeedstudio/101990064
-release_date: null
-sku: '101990064'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2017-08bazaar543683_114990121.jpg

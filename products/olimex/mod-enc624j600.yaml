@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: mod-enc624j600
+ref: olimex/mod-enc624j600
+vendor: olimex
+sku: mod-enc624j600
+name: MOD-ENC624J600
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Ethernet/MOD-ENC624J600/images/thumbs/200x150/MOD-ENC624J600-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Ethernet/MOD-ENC624J600/
-  repositories: []
-name: MOD-ENC624J600
-ref: olimex/mod-enc624j600
-release_date: null
-sku: mod-enc624j600
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Ethernet/MOD-ENC624J600/images/thumbs/200x150/MOD-ENC624J600-01.jpg

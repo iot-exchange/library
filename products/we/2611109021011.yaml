@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '2611109021011'
+ref: we/2611109021011
+vendor: we
+sku: '2611109021011'
+name: '2611109021011'
 description: 'Active i Production is active. Expected lifetime: >10 years.'
+status: Active
 extra:
   Expected lifetime: '>10 years'
-  Product series: Mini EV-Board Thetis-I
   Production: active
+  Product series: Mini EV-Board Thetis-I
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o423287v214%20Single_Thetis-I_Mini-EV-Board.jpg
-  models: []
   products:
   - https://www.we-online.com/components/products/manual/2611109021011_Thetis-I Mini-EV-Kit
     2611109021011 Manual_rev1.2.pdf
-  repositories: []
-name: '2611109021011'
-ref: we/2611109021011
-release_date: null
-sku: '2611109021011'
-spec: null
-status: Active
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o423287v214%20Single_Thetis-I_Mini-EV-Board.jpg

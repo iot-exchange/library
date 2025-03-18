@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5574
+ref: mikroe/mikroe-5574
+vendor: mikroe
+sku: mikroe-5574
+name: MIKROE-5574
 description: USB UART 5 Click is a compact add-on board with a general-purpose USB
   to UART serial interface. This board features the CP2110, a highly-integrated USB-to-UART
   bridge controller from Silicon Labs. The CP2110 uses the standard USB HID device
   class, requiring no custom driver and a UART interface that implements all RS-232
   signals, including control and...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/usb-uart-5-click/usb-uart-5-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/usb-uart-5-click
-  repositories: []
-name: MIKROE-5574
-ref: mikroe/mikroe-5574
-release_date: null
-sku: mikroe-5574
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/usb-uart-5-click/usb-uart-5-click-home_default-1.jpg?v=100

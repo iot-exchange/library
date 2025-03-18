@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: jw-200x40-ff
+ref: olimex/jw-200x40-ff
+vendor: olimex
+sku: jw-200x40-ff
+name: JW-200x40-FF
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Breadboarding/JUMPER-WIRES/JW-200x40-FF/images/thumbs/200x150/JW-300x40-FF.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Breadboarding/JUMPER-WIRES/JW-200x40-FF/
-  repositories: []
-name: JW-200x40-FF
-ref: olimex/jw-200x40-ff
-release_date: null
-sku: jw-200x40-ff
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Breadboarding/JUMPER-WIRES/JW-200x40-FF/images/thumbs/200x150/JW-300x40-FF.jpg

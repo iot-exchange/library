@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6022
+ref: mikroe/mikroe-6022
+vendor: mikroe
+sku: mikroe-6022
+name: MIKROE-6022
 description: Light 2 Click is a compact add-on board designed for accurate and flexible
   light measurement in various environments. This board features the ISL76682, a high-sensitivity,
   light-to-digital sensor with an I2C interface from Renesas, made specifically for
   automotive applications. Key features include a photodiode array that closely mimics
   the human eye's...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/light-2-click/light-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/light-2-click
-  repositories: []
-name: MIKROE-6022
-ref: mikroe/mikroe-6022
-release_date: null
-sku: mikroe-6022
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/light-2-click/light-2-click-home_default-1.jpg?v=100

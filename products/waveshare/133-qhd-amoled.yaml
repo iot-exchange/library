@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 133-qhd-amoled
+ref: waveshare/133-qhd-amoled
+vendor: waveshare
+sku: 133-qhd-amoled
+name: 133_qhd_amoled
 description: "13.3inch 2K AMOLED Touch Display, 2560\xD71440, HDMI/Type-C Display\
   \ Interface, Optical Bonding Toughened Glass Panel, Metal Case"
+status: ''
 extra:
   Multi Options: ''
   Price: $239.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/3/13.3inch-qhd-amoled-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/13.3inch-qhd-amoled.htm
-  repositories: []
-name: 133_qhd_amoled
-ref: waveshare/133-qhd-amoled
-release_date: null
-sku: 133-qhd-amoled
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/3/13.3inch-qhd-amoled-1.jpg

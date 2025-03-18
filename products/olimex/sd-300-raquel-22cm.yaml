@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sd-300-raquel-22cm
+ref: olimex/sd-300-raquel-22cm
+vendor: olimex
+sku: sd-300-raquel-22cm
+name: SD-300-Raquel-22cm
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/StencilPrinters/SD-300-Raquel-22cm/images/thumbs/200x150/SD-300-raq.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/StencilPrinters/SD-300-Raquel-22cm/
-  repositories: []
-name: SD-300-Raquel-22cm
-ref: olimex/sd-300-raquel-22cm
-release_date: null
-sku: sd-300-raquel-22cm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/StencilPrinters/SD-300-Raquel-22cm/images/thumbs/200x150/SD-300-raq.jpg

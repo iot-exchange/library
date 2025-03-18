@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5507
+ref: mikroe/mikroe-5507
+vendor: mikroe
+sku: mikroe-5507
+name: MIKROE-5507
 description: "Fan 5 Click is a compact add-on board specially designed for fan speed\
   \ management. This board features Microchip\u2019s TC654, a PWM mode fan speed controller\
   \ with FanSense\u2122 technology suitable for brushless DC fans. This I2C-configurable\
   \ controller implements temperature-proportional fan speed control, which reduces\
   \ acoustic fan noise and increases fan life...."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/fan-5-click/fan-5-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/fan-5-click
-  repositories: []
-name: MIKROE-5507
-ref: mikroe/mikroe-5507
-release_date: null
-sku: mikroe-5507
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/fan-5-click/fan-5-click-home_default-1.jpg?v=100

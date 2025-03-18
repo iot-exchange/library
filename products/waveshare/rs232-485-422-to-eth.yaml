@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: rs232-485-422-to-eth
+ref: waveshare/rs232-485-422-to-eth
+vendor: waveshare
+sku: rs232-485-422-to-eth
+name: rs232/485/422_to_eth
 description: Rail-Mount Serial Server, RS232/485/422 to RJ45 Ethernet Module, TCP/IP
   to serial, POE Function Optional
+status: ''
 extra:
   Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs232-485-422-to-poe-eth-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rs232-485-422-to-poe-eth-b.htm
-  repositories: []
-name: rs232/485/422_to_eth
-ref: waveshare/rs232-485-422-to-eth
-release_date: null
-sku: rs232-485-422-to-eth
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs232-485-422-to-poe-eth-b-1.jpg

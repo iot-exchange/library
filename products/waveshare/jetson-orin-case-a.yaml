@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: jetson-orin-case-a
+ref: waveshare/jetson-orin-case-a
+vendor: waveshare
+sku: jetson-orin-case-a
+name: JETSON-ORIN-CASE-A
 description: Aluminum Alloy Case For Jetson Orin, With Camera Holder, Suitable for
   Jetson Orin Nano And Jetson Orin NX Kits
+status: ''
 extra:
   Price: $11.31  -  $11.99
   SKU: '25334'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-orin-case-a-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/jetson-orin-case-a.htm
-  repositories: []
-name: JETSON-ORIN-CASE-A
-ref: waveshare/jetson-orin-case-a
-release_date: null
-sku: jetson-orin-case-a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-orin-case-a-1.jpg

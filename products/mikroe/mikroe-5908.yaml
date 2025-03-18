@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5908
+ref: mikroe/mikroe-5908
+vendor: mikroe
+sku: mikroe-5908
+name: MIKROE-5908
 description: "APC1 Terminal Click Bundle - Experience advanced air quality monitoring\
   \ with our bundle solution, merging the ScioSense APC1001J air sensor Quality sensor\
   \ and the MIKROE Terminal Click board\u2122. This dynamic combination creates a\
   \ compact and precise system that measures PM levels, VOCs, equivalent CO2, temperature,\
   \ humidity, and more. Explore this bundle to..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/apc1-air-quality-sensor-bundle/apc1-air-quality-sensor-bundle-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/apc1-air-quality-sensor-bundle
-  repositories: []
-name: MIKROE-5908
-ref: mikroe/mikroe-5908
-release_date: null
-sku: mikroe-5908
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/apc1-air-quality-sensor-bundle/apc1-air-quality-sensor-bundle-home_default-1.jpg?v=100

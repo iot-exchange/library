@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: battery-lipo800mah
+ref: olimex/battery-lipo800mah
+vendor: olimex
+sku: battery-lipo800mah
+name: BATTERY-LIPO800mAh
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Power/Lipo-battery/BATTERY-LIPO800mAh/images/thumbs/200x150/800mah.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Power/Lipo-battery/BATTERY-LIPO800mAh/
-  repositories: []
-name: BATTERY-LIPO800mAh
-ref: olimex/battery-lipo800mah
-release_date: null
-sku: battery-lipo800mah
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Power/Lipo-battery/BATTERY-LIPO800mAh/images/thumbs/200x150/800mah.jpg

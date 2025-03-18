@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: esp32-gateway
+ref: olimex/esp32-gateway
+vendor: olimex
+sku: esp32-gateway
+name: ESP32-GATEWAY
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/ESP32/ESP32-GATEWAY/images/thumbs/200x150/ESP32-GATEWAY-1-ind.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/ESP32/ESP32-GATEWAY/open-source-hardware
-  repositories: []
-name: ESP32-GATEWAY
-ref: olimex/esp32-gateway
-release_date: null
-sku: esp32-gateway
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32/ESP32-GATEWAY/images/thumbs/200x150/ESP32-GATEWAY-1-ind.jpg

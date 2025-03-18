@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: ecg-scup
+ref: olimex/ecg-scup
+vendor: olimex
+sku: ecg-scup
+name: ECG-SCUP
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Biofeedback/ECG-SCUP/images/thumbs/200x150/ECG-SCUP-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Biofeedback/ECG-SCUP/
-  repositories: []
-name: ECG-SCUP
-ref: olimex/ecg-scup
-release_date: null
-sku: ecg-scup
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Biofeedback/ECG-SCUP/images/thumbs/200x150/ECG-SCUP-1.jpg

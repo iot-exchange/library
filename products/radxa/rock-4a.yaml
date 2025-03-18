@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: rock-4a
+ref: radxa/rock-4a
+vendor: radxa
+sku: rock-4a
+name: ROCK 4A+
 description: A High-Performance SBC with Dual Displays and 4K
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/rock4/rock4a+/thumb_rock4a+.webp
-  - https://radxa.com/rock4/rock4a/thumb_rock4a.webp
-  models: []
   products:
   - https://radxa.com/products/rock4/4a
   - https://radxa.com/products/rock4/4ap
-  repositories: []
-name: ROCK 4A+
-ref: radxa/rock-4a
-release_date: null
-sku: rock-4a
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/rock4/rock4a+/thumb_rock4a+.webp
+  - https://radxa.com/rock4/rock4a/thumb_rock4a.webp

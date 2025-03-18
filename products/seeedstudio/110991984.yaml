@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: '110991984'
+ref: seeedstudio/110991984
+vendor: seeedstudio
+sku: '110991984'
+name: '110991984'
 description: It is a black acrylic DIY enclosure kit specifically designed for ReSpeaker
   Lite. This kit not only provides high-quality protection for the enclosure but also
   allows users to combine ReSpeaker Lite with the Mono Enclosed Speaker - 4R 5W, creating
   a fully functional audio processing device. Whether for home projects or professional
   applications, this kit offers reliable support for your audio solutions.
+status: ''
 extra:
   features: DIY enclosure kit for ReSpeaker Lite
   price: $5.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/_/1_17_2.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Acrylic-Speaker-DIY-Kit-for-Respeaker-Lite-p-5937.html
-  repositories: []
-name: '110991984'
-ref: seeedstudio/110991984
-release_date: null
-sku: '110991984'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/_/1_17_2.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: fn990b34-b40
+ref: telit/fn990b34-b40
+vendor: telit
+sku: fn990b34-b40
+name: FN990B34/B40
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2024/12/TC_FN990Bxx_dyn_230_200-209x200.png
-  models: []
   products:
   - https://www.telit.com/devices/fn990b34-b40/
-  repositories: []
-name: FN990B34/B40
-ref: telit/fn990b34-b40
-release_date: null
-sku: fn990b34-b40
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/12/TC_FN990Bxx_dyn_230_200-209x200.png

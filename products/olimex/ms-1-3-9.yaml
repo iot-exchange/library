@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: ms-1-3-9
+ref: olimex/ms-1-3-9
+vendor: olimex
+sku: ms-1-3-9
+name: MS-1.3-9
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/ServoMotors/MS-1.3-9/images/thumbs/200x150/MS-1.3-9-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/ServoMotors/MS-1.3-9/
-  repositories: []
-name: MS-1.3-9
-ref: olimex/ms-1-3-9
-release_date: null
-sku: ms-1-3-9
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/ServoMotors/MS-1.3-9/images/thumbs/200x150/MS-1.3-9-01.jpg

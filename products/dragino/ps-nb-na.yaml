@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: ps-nb-na
+ref: dragino/ps-nb-na
+vendor: dragino
+sku: ps-nb-na
+name: PS-NB-NA
 description: NB-IoT Analog Sensor
+status: ''
 extra:
   1 x 0~20mA input: ''
   1 x 0~30v input: ''
@@ -12,18 +16,7 @@ extra:
   Support BLE remote configure and update firmware: ''
   Ultra Low Power Consumption: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/6c16f95e5837b7a15cc22a32eb72fad8_L.jpg
-  models: []
   products:
   - https://dragino.com/products/nb-iot/item/290-ps-nb-na.html
-  repositories: []
-name: PS-NB-NA
-ref: dragino/ps-nb-na
-release_date: null
-sku: ps-nb-na
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/6c16f95e5837b7a15cc22a32eb72fad8_L.jpg

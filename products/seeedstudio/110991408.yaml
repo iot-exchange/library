@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '110991408'
+ref: seeedstudio/110991408
+vendor: seeedstudio
+sku: '110991408'
+name: '110991408'
 description: This is the compatible Acrylic side panels of re_computer case. You can
   easily set up a complete re_computer case appearance for Raspberry Pi 3 using the
   side panels.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110991408_all-04.png
-  models: []
   products:
   - https://www.seeedstudio.com/re-computer-case-side-panels-for-Raspberry-Pi-3-with-standoffs-p-4664.html
-  repositories: []
-name: '110991408'
-ref: seeedstudio/110991408
-release_date: null
-sku: '110991408'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110991408_all-04.png

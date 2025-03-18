@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: i3-keypad
+ref: insteon/i3-keypad
+vendor: insteon
+sku: i3-keypad
+name: i3 Keypad
 description: ''
+status: ''
 extra:
   reviews: '15'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/products/i3_Insteon_Keypad_Front.jpg?v=1723522867&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/i3-keypad
-  repositories: []
-name: i3 Keypad
-ref: insteon/i3-keypad
-release_date: null
-sku: i3-keypad
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/products/i3_Insteon_Keypad_Front.jpg?v=1723522867&width=533

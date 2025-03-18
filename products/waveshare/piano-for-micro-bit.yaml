@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: piano-for-micro-bit
+ref: waveshare/piano-for-micro-bit
+vendor: waveshare
+sku: piano-for-micro-bit
+name: Piano for micro:bit
 description: Mini Piano Module for micro:bit, Touch Keys to Play Music
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/piano-for-micro-bit-4.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/piano-for-micro-bit-5.jpg
-  models: []
   products:
   - https://www.waveshare.com/piano-for-micro-bit.htm
   - https://www.waveshare.com/piano-for-micro-bit.htm "Mini Piano Module for micro:bit,
     Touch Keys to Play Music"
-  repositories: []
-name: Piano for micro:bit
-ref: waveshare/piano-for-micro-bit
-release_date: null
-sku: piano-for-micro-bit
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/piano-for-micro-bit-4.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/piano-for-micro-bit-5.jpg

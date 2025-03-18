@@ -1,27 +1,20 @@
-alternatives: []
-certifications: []
+id: g010
+ref: fibocom/g010
+vendor: fibocom
+sku: g010
+name: G010
 description: "Fibocom\u2019s G010 module is a cost-effective GNSS positioning module\
   \ supporting multi-constellation global navigation systems, including BeiDou, GPS,\
   \ GLONASS, Galileo and QZSS. With the size of 10.1x9.7x2.5mm, the compact module\
   \ allows much flexibility and ease of integration for customer's application. It\
   \ also optimizes power consumption without compromising GNSS performance, improving\
   \ cost performance and competitive advantages."
+status: ''
 extra:
   Multi-Constellation Support: BeiDou, GPS, GLONASS, Galileo, QZSS
   Power Consumption: Optimized
   Size: 10.1x9.7x2.5mm
 links:
-  datasheets: []
-  examples: []
+  products: []
   images:
   - https://www.fibocom.com/uploadfiles/2022/10/20221011151657850.png?5o6o6I2QLnBuZw==
-  models: []
-  products: []
-  repositories: []
-name: G010
-ref: fibocom/g010
-release_date: null
-sku: g010
-spec: null
-status: ''
-vendor: fibocom

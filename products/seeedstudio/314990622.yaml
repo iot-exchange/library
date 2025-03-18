@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '314990622'
+ref: seeedstudio/314990622
+vendor: seeedstudio
+sku: '314990622'
+name: '314990622'
 description: An IP68 RS485 pH Sensor ranges - from 0 to 14 pH. Used in soil and water
   applications like gardening, and swimming pools. Use the sensor with SenseCAP Data
   Logger for seamless data collection and management.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/3/1/314990622_front-05.png
-  models: []
   products:
   - https://www.seeedstudio.com/RS485-pH-Sensor-S-pH-01B-p-4632.html
-  repositories: []
-name: '314990622'
-ref: seeedstudio/314990622
-release_date: null
-sku: '314990622'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/3/1/314990622_front-05.png

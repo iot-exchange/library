@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mlx90641-d55-thermal-camera
+ref: waveshare/mlx90641-d55-thermal-camera
+vendor: waveshare
+sku: mlx90641-d55-thermal-camera
+name: MLX90641-D55 Thermal Camera
 description: "MLX90641 IR Array Thermal Imaging Camera, 16\xD712 Pixels, 55\xB0 FOV,\
   \ I2C"
+status: ''
 extra:
   Price: $43.29 - $44.99
   SKU: '20465'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/l/mlx90641-d55-thermal-camera-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/mlx90641-d55-thermal-camera.htm
-  repositories: []
-name: MLX90641-D55 Thermal Camera
-ref: waveshare/mlx90641-d55-thermal-camera
-release_date: null
-sku: mlx90641-d55-thermal-camera
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/l/mlx90641-d55-thermal-camera-1.jpg

@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: '114993387'
+ref: seeedstudio/114993387
+vendor: seeedstudio
+sku: '114993387'
+name: '114993387'
 description: This MR60BHA2 Sensor Kit leverages 60GHz mmWave technology, offering
   reliable breathing and heartbeat detection, as well as human presence detection.
   Featuring light level sensing, an RGB LED for customizable interaction, and support
@@ -10,21 +13,11 @@ description: This MR60BHA2 Sensor Kit leverages 60GHz mmWave technology, offerin
   plug-and-play integration with Home Assistant to customize detection zones, making
   it an ideal solution for healthcare monitoring, safety monitoring, elderly care,
   home automation, and more.
+status: ''
 extra:
   price: $24.90
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/2/0/20-114993387-mr60bha2-60ghz-mmwave.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/MR60BHA2-60GHz-mmWave-Sensor-Breathing-and-Heartbeat-Module-p-5945.html
-  repositories: []
-name: '114993387'
-ref: seeedstudio/114993387
-release_date: null
-sku: '114993387'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/2/0/20-114993387-mr60bha2-60ghz-mmwave.jpg

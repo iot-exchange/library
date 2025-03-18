@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4245
+ref: mikroe/mikroe-4245
+vendor: mikroe
+sku: mikroe-4245
+name: MIKROE-4245
 description: WiFi 11 Click is a compact add-on board with a module for WiFi communication.
   This board features the BW16, a low-power dual-band Wireless LAN (WLAN) module from
   Ai-Thinker. This module supports the WiFi 5G, consists of a high-performance MCU
   on a module named KM4, a low-power MCU named KM0, WLAN (802.11 a/b/g/n) MAC, a 1T1R
   capable WLAN baseband, RF, and...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/wifi-11-click/wifi-11-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/wifi-11-click
-  repositories: []
-name: MIKROE-4245
-ref: mikroe/mikroe-4245
-release_date: null
-sku: mikroe-4245
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/wifi-11-click/wifi-11-click-home_default-1.jpg?v=100

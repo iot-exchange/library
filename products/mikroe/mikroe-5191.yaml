@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5191
+ref: mikroe/mikroe-5191
+vendor: mikroe
+sku: mikroe-5191
+name: MIKROE-5191
 description: MRAM 3 Click is a compact add-on board representing a magneto-resistive
   random-access memory solution. This board features the AS3001204, 1Mb high-performance
   serial SPI MRAM memory organized as 128K words of 8 bits each from Avalanche Technology.
   The MRAM technology is analog to Flash technology with SRAM compatible read/write
   timings (Persistent SRAM,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mram-3-click/mram-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mram-3-click
-  repositories: []
-name: MIKROE-5191
-ref: mikroe/mikroe-5191
-release_date: null
-sku: mikroe-5191
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mram-3-click/mram-3-click-home_default-1.jpg?v=100

@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: miro-edgecard-mioty
+ref: miromico/miro-edgecard-mioty
+vendor: miromico
+sku: miro-edgecard-mioty
+name: miro EdgeCard mioty
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://miromico.ch/en/products/details/miro-EdgeCard-mioty
-  repositories: []
-name: miro EdgeCard mioty
-ref: miromico/miro-edgecard-mioty
-release_date: null
-sku: miro-edgecard-mioty
-spec: null
-status: ''
-vendor: miromico
+  images: []

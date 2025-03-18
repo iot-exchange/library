@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: fg160-na
+ref: fibocom/fg160-na
+vendor: fibocom
+sku: fg160-na
+name: FG160-NA
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/5G-FG160-NA.html
-  repositories: []
-name: FG160-NA
-ref: fibocom/fg160-na
-release_date: null
-sku: fg160-na
-spec: null
-status: ''
-vendor: fibocom
+  images: []

@@ -1,28 +1,21 @@
-alternatives: []
-certifications: []
+id: npm2100
+ref: nordicsemi/npm2100
+vendor: nordicsemi
+sku: npm2100
+name: nPM2100
 description: "Nordic Semiconductor\u2019s nPM2100 Power Management IC extends battery\
   \ life of primary cell-powered Bluetooth Low Energy products"
+status: ''
 extra:
-  Applications: Primary-cell applications, nRF52, nRF53, nRF54 Series
   Compatibility: Suitable for use with non-Nordic host devices
   Features: Highly efficient power regulation, power saving capabilities
-  Function: Power Management IC
   Software Support: nRF Connect SDK
+  Applications: Primary-cell applications, nRF52, nRF53, nRF54 Series
+  Function: Power Management IC
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://nos-p-001.sitecorecontenthub.cloud/api/public/content/b37a3ba08c804df2b1b00d53c331ba6d?v=6b37908a
-  - https://nos-p-001.sitecorecontenthub.cloud/api/public/content/e033930fb7654abeb241537b668a6d54?v=6203cddb
-  models: []
   products:
   - https://www.nordicsemi.com/Nordic-news/2025/01/nPM2100-PMIC-extends-battery-life-of-primary-cell-powered-Bluetooth-LE-products
   - https://www.nordicsemi.com/Products/nPM2100
-  repositories: []
-name: nPM2100
-ref: nordicsemi/npm2100
-release_date: null
-sku: npm2100
-spec: null
-status: ''
-vendor: nordicsemi
+  images:
+  - https://nos-p-001.sitecorecontenthub.cloud/api/public/content/b37a3ba08c804df2b1b00d53c331ba6d?v=6b37908a
+  - https://nos-p-001.sitecorecontenthub.cloud/api/public/content/e033930fb7654abeb241537b668a6d54?v=6203cddb

@@ -1,32 +1,25 @@
-alternatives: []
-certifications: []
+id: efr32bg22
+ref: silicon-labs/efr32bg22
+vendor: silicon-labs
+sku: efr32bg22
+name: EFR32BG22
 description: Ideal market leading SoCs for Ambient IoT or Energy Harvesting devices.
   Target applications include Bluetooth mesh low-power nodes, smart door locks, personal
   healthcare and fitness devices.
+status: ''
 extra:
+  Ideal for: ultra-low-power battery-powered or battery-less IoT devices
+  Supports: Bluetooth 5.4 & Bluetooth mesh
   Bluetooth Support: 5.4 & Bluetooth mesh
+  Ideal For: Ultra-low-power battery-powered or battery-less IoT devices
   Core: ARM Cortex-M33
   Flash (KB): 352, 512
-  Ideal For: Ultra-low-power battery-powered or battery-less IoT devices
-  Ideal for: ultra-low-power battery-powered or battery-less IoT devices
   RAM (KB): '32'
   RX Sensitivity: '5.4'
   Security: AES-128, AES-256, ECC, SHA-1, SHA-2
-  Supports: Bluetooth 5.4 & Bluetooth mesh
   TX Current @ 0 dBm: '6'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.silabs.com/content/siliconlabs/en/wireless/bluetooth/efr32bg22-series-2-socs.thumb.256.144.png
-  models: []
   products:
   - https://www.silabs.com/wireless/bluetooth/efr32bg22-series-2-socs
-  repositories: []
-name: EFR32BG22
-ref: silicon-labs/efr32bg22
-release_date: null
-sku: efr32bg22
-spec: null
-status: ''
-vendor: silicon-labs
+  images:
+  - https://www.silabs.com/content/siliconlabs/en/wireless/bluetooth/efr32bg22-series-2-socs.thumb.256.144.png

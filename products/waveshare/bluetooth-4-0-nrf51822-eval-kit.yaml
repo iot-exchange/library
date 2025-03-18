@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: bluetooth-4-0-nrf51822-eval-kit
+ref: waveshare/bluetooth-4-0-nrf51822-eval-kit
+vendor: waveshare
+sku: bluetooth-4-0-nrf51822-eval-kit
+name: Bluetooth 4.0 NRF51822 Eval Kit
 description: Bluetooth 4.0 NRF51822 Eval Kit
+status: ''
 extra:
-  Price: $16.29 - $17.99
   SKU: '9549'
+  Price: $16.29 - $17.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/l/ble400-4_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/nrf51822-eval-kit.htm
-  repositories: []
-name: Bluetooth 4.0 NRF51822 Eval Kit
-ref: waveshare/bluetooth-4-0-nrf51822-eval-kit
-release_date: null
-sku: bluetooth-4-0-nrf51822-eval-kit
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/l/ble400-4_2.jpg

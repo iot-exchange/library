@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: sentriustm-mg100-gateway
+ref: ezurio/sentriustm-mg100-gateway
+vendor: ezurio
+sku: sentriustm-mg100-gateway
+name: "Sentrius\u2122 MG100 Gateway"
 description: Captures data from our, or enable for any Bluetooth LE sensors, and send
   to the cloud via LTE-M/NB-IoT
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-10/canvas-mg100.png
-  models: []
   products:
   - https://www.ezurio.com/iot-devices/bluetooth-iot-devices/sentrius-mg100-gateway-lte-mnb-iot-and-bluetooth-5
-  repositories: []
-name: "Sentrius\u2122 MG100 Gateway"
-ref: ezurio/sentriustm-mg100-gateway
-release_date: null
-sku: sentriustm-mg100-gateway
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-10/canvas-mg100.png

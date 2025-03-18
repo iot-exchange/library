@@ -1,0 +1,13 @@
+id: em500-pt100
+ref: milesight/em500-pt100
+vendor: milesight
+sku: em500-pt100
+name: EM500-PT100
+description: Platinum Temperature Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/em500-pt100
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/outdoor-environmental-monitoring-em500-series/industrial-temperature-sensor-em500-pt100.png?t=1742198585390

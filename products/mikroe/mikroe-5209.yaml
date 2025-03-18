@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5209
+ref: mikroe/mikroe-5209
+vendor: mikroe
+sku: mikroe-5209
+name: MIKROE-5209
 description: "The TH Black mikroBUS\u2122 sockets, which come in a pack of 10, ensure\
   \ a stronger design for easier interfacing with Click boards\u2122. They feature\
   \ horizontal supports between 8-pin connectors and a 45\xB0 chamfered lower edge,\
   \ ensuring a perfect fit and alignment. All pins are clearly labeled for secure\
   \ placement. These sockets are packaged in plastic anti-static..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/socket-mikrobus-16-th-black-10pcs/socket-mikrobus-16-th-black-10pcs-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/socket-mikrobus-16-th-black-10pcs
-  repositories: []
-name: MIKROE-5209
-ref: mikroe/mikroe-5209
-release_date: null
-sku: mikroe-5209
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/socket-mikrobus-16-th-black-10pcs/socket-mikrobus-16-th-black-10pcs-home_default-1.jpg?v=100

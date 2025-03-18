@@ -1,0 +1,18 @@
+id: swan
+ref: blues/swan
+vendor: blues
+sku: swan
+name: Swan
+description: Feather-compatible dev board, powered by an STM32L4R5 @ 120 MHz
+status: ''
+extra:
+  Debug Connector: CORTEX Debug connector
+  Expandable Pins: '55'
+  Flash: 2MB
+  RAM: 640KB
+  Supported Languages: C/C++, Arduino, CircuitPython
+links:
+  products:
+  - https://shop.blues.com/products/swan?__hstc=171785791.ccf569ab000769da246e6026cf27db31.1725378148382.1731606954497.1731688226641.29&__hssc=171785791.2.1731688226641&__hsfp=301312424&_gl=1*yfr2wo*_gcl_au*NTE2NTI3Njc1LjE3MjUzNzgxNTA.*_ga*MTY4MjUwMjE1LjE3MjUzNzgxNTA.*_ga_PJ7RGMWWBX*MTczMTY4ODIyNi4xMzIuMS4xNzMxNjg4MjMwLjU2LjAuMA..&_ga=2.214870807.1608101408.1731606954-168250215.1725378150
+  images:
+  - https://blues.com/wp-content/uploads/2024/12/swan-and-cygnet-with-measurements-768x768.png

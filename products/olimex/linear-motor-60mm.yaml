@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: linear-motor-60mm
+ref: olimex/linear-motor-60mm
+vendor: olimex
+sku: linear-motor-60mm
+name: LINEAR-MOTOR-60MM
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/LINEAR-MOTOR-60MM/images/thumbs/200x150/LINEAR-MOTOR-60MM-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/LINEAR-MOTOR-60MM/
-  repositories: []
-name: LINEAR-MOTOR-60MM
-ref: olimex/linear-motor-60mm
-release_date: null
-sku: linear-motor-60mm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/LINEAR-MOTOR-60MM/images/thumbs/200x150/LINEAR-MOTOR-60MM-1.jpg

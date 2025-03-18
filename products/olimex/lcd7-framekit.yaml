@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lcd7-framekit
+ref: olimex/lcd7-framekit
+vendor: olimex
+sku: lcd7-framekit
+name: LCD7-FRAMEKIT
 description: ''
+status: ''
 extra:
   discountedPrice1: 4.50 EUR
   discountedPrice2: 4.00 EUR
   price: 5.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/LCD/LCD7-FRAMEKIT/images/thumbs/200x150/LCD7-FRAMEKIT-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/LCD/LCD7-FRAMEKIT/
-  repositories: []
-name: LCD7-FRAMEKIT
-ref: olimex/lcd7-framekit
-release_date: null
-sku: lcd7-framekit
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/LCD/LCD7-FRAMEKIT/images/thumbs/200x150/LCD7-FRAMEKIT-1.jpg

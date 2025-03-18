@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bluetooth-software-development-kit-sdk
+ref: silicon-labs/bluetooth-software-development-kit-sdk
+vendor: silicon-labs
+sku: bluetooth-software-development-kit-sdk
+name: Bluetooth Software Development Kit (SDK)
 description: Part of the GSDK, it includes project examples and peripheral drivers,
   and the protocol stacks for Bluetooth Low Energy and Bluetooth Mesh.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/developer-tools/bluetooth-low-energy
-  repositories: []
-name: Bluetooth Software Development Kit (SDK)
-ref: silicon-labs/bluetooth-software-development-kit-sdk
-release_date: null
-sku: bluetooth-software-development-kit-sdk
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

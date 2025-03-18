@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: he
+ref: dragino/he
+vendor: dragino
+sku: he
+name: HE
 description: WiFi IoT Module, Arduino Yun Module AR9331 Base.
+status: EOL
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/0d0c19531d6e29f793ed165732978408_L.jpg
-  models: []
   products:
   - https://dragino.com/products/linux-module/item/87-he.html
-  repositories: []
-name: HE
-ref: dragino/he
-release_date: null
-sku: he
-spec: null
-status: EOL
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/0d0c19531d6e29f793ed165732978408_L.jpg

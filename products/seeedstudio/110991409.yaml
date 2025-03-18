@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '110991409'
+ref: seeedstudio/110991409
+vendor: seeedstudio
+sku: '110991409'
+name: '110991409'
 description: "This is the compatible Acrylic side panels of re_computer case. You\
   \ can easily set up a complete re_computer case appearance for BeagleBone\xAE Black\
   \ using the side panels."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/re-computer-case-side-panels-for-BeagleBoner-Black-with-standoffs-p-4663.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110991409_all-04_6.png
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproduct317080006201.jpg
-  models: []
-  products:
-  - https://www.seeedstudio.com/re-computer-case-side-panels-for-BeagleBoner-Black-with-standoffs-p-4663.html
-  repositories: []
-name: '110991409'
-ref: seeedstudio/110991409
-release_date: null
-sku: '110991409'
-spec: null
-status: ''
-vendor: seeedstudio

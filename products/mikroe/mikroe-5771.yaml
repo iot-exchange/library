@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5771
+ref: mikroe/mikroe-5771
+vendor: mikroe
+sku: mikroe-5771
+name: MIKROE-5771
 description: "Diff Press 3 Click is a compact add-on board that can measure differential\
   \ pressure. It features the WSEN-PDUS (2513130810401), a differential pressure sensor\
   \ from W\xFCrth Elektronik. The sensor is MEMS based and uses a piezo-resistive\
   \ sensing principle. It is a fully calibrated pressure sensor with 15-bit digital\
   \ and 11-bit analog outputs. In addition to..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/diff-press-3-click/diff-press-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/diff-press-3-click
-  repositories: []
-name: MIKROE-5771
-ref: mikroe/mikroe-5771
-release_date: null
-sku: mikroe-5771
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/diff-press-3-click/diff-press-3-click-home_default-1.jpg?v=100

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '106990017'
+ref: seeedstudio/106990017
+vendor: seeedstudio
+sku: '106990017'
+name: '106990017'
 description: The Wireless Charging Module can be applied in electronic equipments
   in common use for close wireless charging or power supply
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2017-09bazaar562096_5.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Wireless-Charging-Module-5V-1A-p-1912.html
-  repositories: []
-name: '106990017'
-ref: seeedstudio/106990017
-release_date: null
-sku: '106990017'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2017-09bazaar562096_5.jpg

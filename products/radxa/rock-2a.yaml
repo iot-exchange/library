@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rock-2a
+ref: radxa/rock-2a
+vendor: radxa
+sku: rock-2a
+name: ROCK 2A
 description: Your 4K Single Board Computer
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/rock2/2a/thumb_rock2a.webp
-  models: []
   products:
   - https://radxa.com/products/rock2/2a
-  repositories: []
-name: ROCK 2A
-ref: radxa/rock-2a
-release_date: null
-sku: rock-2a
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/rock2/2a/thumb_rock2a.webp

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5443
+ref: mikroe/mikroe-5443
+vendor: mikroe
+sku: mikroe-5443
+name: MIKROE-5443
 description: "RTK Rover Click is a compact add-on board that enhances the precision\
   \ of position data derived from compatible RTK Base Stations. This board features\
   \ Quectel\u2019s LG69TAMMD, a dual-band multi-constellation GNSS module featuring\
   \ a high-performance and high-reliability positioning engine. This module facilitates\
   \ a"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/rtk-rover-click/rtk-rover-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/rtk-rover-click
-  repositories: []
-name: MIKROE-5443
-ref: mikroe/mikroe-5443
-release_date: null
-sku: mikroe-5443
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rtk-rover-click/rtk-rover-click-home_default-1.jpg?v=100

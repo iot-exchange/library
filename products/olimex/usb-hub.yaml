@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: usb-hub
+ref: olimex/usb-hub
+vendor: olimex
+sku: usb-hub
+name: USB-HUB
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/USB-Modules/USB-HUB/images/thumbs/200x150/USB-HUB.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/USB-Modules/USB-HUB/
-  repositories: []
-name: USB-HUB
-ref: olimex/usb-hub
-release_date: null
-sku: usb-hub
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/USB-Modules/USB-HUB/images/thumbs/200x150/USB-HUB.jpg

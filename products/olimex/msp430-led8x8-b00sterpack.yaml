@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: msp430-led8x8-b00sterpack
+ref: olimex/msp430-led8x8-b00sterpack
+vendor: olimex
+sku: msp430-led8x8-b00sterpack
+name: MSP430-LED8x8-B00STERPACK
 description: ''
+status: ''
 extra:
   price1: 6.95 EUR
   price2: 6.26 EUR
   price3: 5.56 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/MSP430/Booster/MSP430-LED8x8-B00STERPACK/images/thumbs/200x150/MSP430-LED8x8-BOOSTERPACK-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/MSP430/Booster/MSP430-LED8x8-B00STERPACK/open-source-hardware
-  repositories: []
-name: MSP430-LED8x8-B00STERPACK
-ref: olimex/msp430-led8x8-b00sterpack
-release_date: null
-sku: msp430-led8x8-b00sterpack
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/MSP430/Booster/MSP430-LED8x8-B00STERPACK/images/thumbs/200x150/MSP430-LED8x8-BOOSTERPACK-01.jpg

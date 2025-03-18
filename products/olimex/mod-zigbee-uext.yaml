@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-zigbee-uext
+ref: olimex/mod-zigbee-uext
+vendor: olimex
+sku: mod-zigbee-uext
+name: MOD-ZIGBEE-UEXT
 description: ''
+status: ''
 extra:
   price1: 17.95 EUR
   price2: 16.16 EUR
   price3: 14.36 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/RF/MOD-ZIGBEE-UEXT/images/thumbs/200x150/MOD-ZIGBEE-UEXT-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/RF/MOD-ZIGBEE-UEXT/
-  repositories: []
-name: MOD-ZIGBEE-UEXT
-ref: olimex/mod-zigbee-uext
-release_date: null
-sku: mod-zigbee-uext
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/RF/MOD-ZIGBEE-UEXT/images/thumbs/200x150/MOD-ZIGBEE-UEXT-01.jpg

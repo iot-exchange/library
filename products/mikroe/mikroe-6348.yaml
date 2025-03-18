@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6348
+ref: mikroe/mikroe-6348
+vendor: mikroe
+sku: mikroe-6348
+name: MIKROE-6348
 description: Brushless 31 Click is a compact add-on board for precise and efficient
   brushless motor control. This board features the TB6605FTG, a three-phase full sine-wave
   brushless motor controller from Toshiba Semiconductor. The board features six onboard
   external N-channel MOSFETs for smooth motor operation, sine-wave PWM driving with
   2-phase modulation for high...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/brushless-31-click/brushless-31-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/brushless-31-click
-  repositories: []
-name: MIKROE-6348
-ref: mikroe/mikroe-6348
-release_date: null
-sku: mikroe-6348
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/brushless-31-click/brushless-31-click-home_default-1.jpg?v=100

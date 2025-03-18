@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: bluegiga-legacy-modules
+ref: silicon-labs/bluegiga-legacy-modules
+vendor: silicon-labs
+sku: bluegiga-legacy-modules
+name: Bluegiga Legacy Modules
 description: Bluetooth Low Energy Bluegiga Legacy Modules
+status: ''
 extra:
   Core: '8051'
   Flash (KB): '128'
@@ -9,17 +13,6 @@ extra:
   Security: ''
   TX Current @ 0 dBm: '8'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/wireless/bluetooth/bluegiga-low-energy-legacy-modules
-  repositories: []
-name: Bluegiga Legacy Modules
-ref: silicon-labs/bluegiga-legacy-modules
-release_date: null
-sku: bluegiga-legacy-modules
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

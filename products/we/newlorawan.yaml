@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: newlorawan
+ref: we/newlorawan
+vendor: we
+sku: newlorawan
+name: NEWLoRaWAN
 description: "NEWLoRaWAN\xAE"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o782674v214%20multi-WIRL-LORA-DAPHNIS-I-2618011181000.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/long-range-wan
-  repositories: []
-name: NEWLoRaWAN
-ref: we/newlorawan
-release_date: null
-sku: newlorawan
-spec: null
-status: ''
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o782674v214%20multi-WIRL-LORA-DAPHNIS-I-2618011181000.jpg

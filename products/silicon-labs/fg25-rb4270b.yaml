@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: fg25-rb4270b
+ref: silicon-labs/fg25-rb4270b
+vendor: silicon-labs
+sku: fg25-rb4270b
+name: FG25-RB4270B
 description: ''
+status: ''
 extra:
   Bluetooth 5: "\u2714"
   Flash (kB): '1920'
@@ -9,17 +13,6 @@ extra:
   RAM (kB): '512'
   Wi-SUN: "\u2714"
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/proprietary/fg25-rb4270b-efr32fg25-radio-board
-  repositories: []
-name: FG25-RB4270B
-ref: silicon-labs/fg25-rb4270b
-release_date: null
-sku: fg25-rb4270b
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

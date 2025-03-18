@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4316
+ref: mikroe/mikroe-4316
+vendor: mikroe
+sku: mikroe-4316
+name: MIKROE-4316
 description: Thermo 20 Click is a compact add-on board that provides an accurate temperature
   measurement. This board features the TSYS03, a miniature digital temperature sensor
   that comes up with factory calibrated, highly accurate temperature data from TE
   Connectivity. This temperature sensor characterized by its accuracy and high resolution
   offers digital output...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/thermo-20-click/thermo-20-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/thermo-20-click
-  repositories: []
-name: MIKROE-4316
-ref: mikroe/mikroe-4316
-release_date: null
-sku: mikroe-4316
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thermo-20-click/thermo-20-click-home_default-1.jpg?v=100

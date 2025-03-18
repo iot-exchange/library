@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: cable-40-40-10cm
+ref: olimex/cable-40-40-10cm
+vendor: olimex
+sku: cable-40-40-10cm
+name: CABLE-40-40-10CM
 description: ''
+status: ''
 extra:
   discountedPrice1: 2.70 EUR
   discountedPrice2: 2.40 EUR
   price: 3.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Cables/CABLE-40-40-10CM/images/thumbs/200x150/CABLE-40-40-10CM.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Cables/CABLE-40-40-10CM/
-  repositories: []
-name: CABLE-40-40-10CM
-ref: olimex/cable-40-40-10cm
-release_date: null
-sku: cable-40-40-10cm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Cables/CABLE-40-40-10CM/images/thumbs/200x150/CABLE-40-40-10CM.jpg

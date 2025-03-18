@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: hss-6-350mm
+ref: olimex/hss-6-350mm
+vendor: olimex
+sku: hss-6-350mm
+name: HSS-6-350MM
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/HSS-6-100/images/thumbs/200x150/HSS-8-500mm.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/HSS-6-350MM/
-  repositories: []
-name: HSS-6-350MM
-ref: olimex/hss-6-350mm
-release_date: null
-sku: hss-6-350mm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/HSS-6-100/images/thumbs/200x150/HSS-8-500mm.jpg

@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: usb-micro-b-to-usb-c-adapter
+ref: raspberrypi/usb-micro-b-to-usb-c-adapter
+vendor: raspberrypi
+sku: usb-micro-b-to-usb-c-adapter
+name: USB Micro-B to USB-C Adapter
 description: Converts a micro USB type B output power supply to USB-C
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.raspberrypi.com/products/usb-b-to-usb-c-adapter/
-  repositories: []
-name: USB Micro-B to USB-C Adapter
-ref: raspberrypi/usb-micro-b-to-usb-c-adapter
-release_date: null
-sku: usb-micro-b-to-usb-c-adapter
-spec: null
-status: ''
-vendor: raspberrypi
+  images: []

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-debug-probe
+ref: raspberrypi/raspberry-pi-debug-probe
+vendor: raspberrypi
+sku: raspberry-pi-debug-probe
+name: Raspberry Pi Debug Probe
 description: A complete kit for easy, plug-and-play debugging
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/6516c9e86d97b043185a585c5a896a05/3f4ea/40c275e3-f38a-4e17-b545-b3fb3bbc1acc_DEBUG_HERO_NO_CASE.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/debug-probe/
-  repositories: []
-name: Raspberry Pi Debug Probe
-ref: raspberrypi/raspberry-pi-debug-probe
-release_date: null
-sku: raspberry-pi-debug-probe
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/6516c9e86d97b043185a585c5a896a05/3f4ea/40c275e3-f38a-4e17-b545-b3fb3bbc1acc_DEBUG_HERO_NO_CASE.jpg

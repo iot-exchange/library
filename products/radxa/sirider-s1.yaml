@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sirider-s1
+ref: radxa/sirider-s1
+vendor: radxa
+sku: sirider-s1
+name: SiRider S1
 description: High-Reliability Single Board Computer
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/sirider/s1/thumb_sirider_s1.webp
-  models: []
   products:
   - https://radxa.com/products/sirider/s1
-  repositories: []
-name: SiRider S1
-ref: radxa/sirider-s1
-release_date: null
-sku: sirider-s1
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/sirider/s1/thumb_sirider_s1.webp

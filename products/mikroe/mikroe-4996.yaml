@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-4996
+ref: mikroe/mikroe-4996
+vendor: mikroe
+sku: mikroe-4996
+name: MIKROE-4996
 description: LED Driver 14 Click is a compact add-on board that simplifies the control
   of multiple LEDs. This board features the BD18337EFV-M, a reliable four-channel
   constant current LED driver from Rohm Semiconductor. It is powered by an external
   power supply in the range of 5.5V to 20V, providing a maximum output current of
   150mA per channel. The BD18337EFV-M also...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/led-driver-12-click/led-driver-12-click-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/led-driver-14-click/led-driver-14-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/led-driver-12-click
   - https://www.mikroe.com/led-driver-14-click
-  repositories: []
-name: MIKROE-4996
-ref: mikroe/mikroe-4996
-release_date: null
-sku: mikroe-4996
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/led-driver-12-click/led-driver-12-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/led-driver-14-click/led-driver-14-click-home_default-1.jpg?v=100

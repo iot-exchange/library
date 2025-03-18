@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: buildmecar
+ref: waveshare/buildmecar
+vendor: waveshare
+sku: buildmecar
+name: buildmecar
 description: BuildMecar Kit, Smart Building Block Robot with Mecanum Wheels, 5MP Camera,
   Based on Raspberry Pi Build HAT
+status: ''
 extra:
   Multi Options: ''
   Price: $69.99 - $164.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/u/buildmecar-kit-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/buildmecar-kit.htm
-  repositories: []
-name: buildmecar
-ref: waveshare/buildmecar
-release_date: null
-sku: buildmecar
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/b/u/buildmecar-kit-1.jpg

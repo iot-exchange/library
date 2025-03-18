@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: open429z-d-package-a
+ref: waveshare/open429z-d-package-a
+vendor: waveshare
+sku: open429z-d-package-a
+name: Open429Z-D Package A
 description: Open429Z-D Package A, STM32F4 Development Board
+status: ''
 extra:
   Price: $107.89 - $112.99
   SKU: '8894'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/open429z-d-package-a_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/open429z-d-package-a.htm
-  repositories: []
-name: Open429Z-D Package A
-ref: waveshare/open429z-d-package-a
-release_date: null
-sku: open429z-d-package-a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/open429z-d-package-a_2.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: breadboard-mini
+ref: olimex/breadboard-mini
+vendor: olimex
+sku: breadboard-mini
+name: BREADBOARD-MINI
 description: ''
+status: ''
 extra:
   discountedPrice1: 1.35 EUR
   discountedPrice2: 1.20 EUR
   price: 1.50 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Breadboarding/BREADBOARD-MINI/images/thumbs/200x150/BB-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Breadboarding/BREADBOARD-MINI/
-  repositories: []
-name: BREADBOARD-MINI
-ref: olimex/breadboard-mini
-release_date: null
-sku: breadboard-mini
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Breadboarding/BREADBOARD-MINI/images/thumbs/200x150/BB-01.jpg

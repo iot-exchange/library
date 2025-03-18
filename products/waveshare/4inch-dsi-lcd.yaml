@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 4inch-dsi-lcd
+ref: waveshare/4inch-dsi-lcd
+vendor: waveshare
+sku: 4inch-dsi-lcd
+name: 4inch DSI LCD
 description: "4inch Capacitive Touch Display for Raspberry Pi, 480\xD7800, DSI Interface,\
   \ IPS, Optical Bonding Screen"
+status: ''
 extra:
   Price: $48.97 - $49.99
   SKU: '21687'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/i/4inch-dsi-lcd-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/4inch-dsi-lcd.htm
-  repositories: []
-name: 4inch DSI LCD
-ref: waveshare/4inch-dsi-lcd
-release_date: null
-sku: 4inch-dsi-lcd
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/i/4inch-dsi-lcd-1.jpg

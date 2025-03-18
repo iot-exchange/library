@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-4126
+ref: mikroe/mikroe-4126
+vendor: mikroe
+sku: mikroe-4126
+name: MIKROE-4126
 description: VCP Monitor 2 Click is a three-channel, high-side current and bus voltage
   monitor with alert indication function ensuring the intended application works within
   desired operating conditions. Featured chip INA3221-Q1, by Texas Instruments, monitors
   both shunt voltage drops and bus supply voltages, in addition to having programmable
   conversion times and...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/vcp-monitor-2-click/vcp-monitor-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=2757
   - https://www.mikroe.com/vcp-monitor-2-click
-  repositories: []
-name: MIKROE-4126
-ref: mikroe/mikroe-4126
-release_date: null
-sku: mikroe-4126
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/vcp-monitor-2-click/vcp-monitor-2-click-home_default-1.jpg?v=100

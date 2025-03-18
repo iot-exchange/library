@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '111990004'
+ref: seeedstudio/111990004
+vendor: seeedstudio
+sku: '111990004'
+name: '111990004'
 description: G1&2 Electric Solenoid Valve (Normally Closed)
+status: ''
 extra:
   specification: This is a normally closed G1/2 12VDC electric solenoid valves with
     barbed inlet and outlet ports, great for projects involving low viscosity fluid
     control
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-111990004-g1_2-electric-solenold-valve_normally-closed_-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/G1-2-Electric-Solenoid-Valve-Normally-Close-p-636.html
-  repositories: []
-name: '111990004'
-ref: seeedstudio/111990004
-release_date: null
-sku: '111990004'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-111990004-g1_2-electric-solenold-valve_normally-closed_-45font.jpg

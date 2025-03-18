@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '318020611'
+ref: seeedstudio/318020611
+vendor: seeedstudio
+sku: '318020611'
+name: '318020611'
 description: Fibreglass Long Range antenna with gain of 8dBi, frequency range 858-878MHz
   and 130cm length.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/3/1/318020611_first-min.png
-  models: []
   products:
   - https://www.seeedstudio.com/Lora-Fiberglass-Antenna-858-878MHz-8dBi-1300mm-p-4928.html
-  repositories: []
-name: '318020611'
-ref: seeedstudio/318020611
-release_date: null
-sku: '318020611'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/3/1/318020611_first-min.png

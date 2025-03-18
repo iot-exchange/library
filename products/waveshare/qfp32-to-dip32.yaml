@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: qfp32-to-dip32
+ref: waveshare/qfp32-to-dip32
+vendor: waveshare
+sku: qfp32-to-dip32
+name: QFP32 TO DIP32
 description: QFP32 TO DIP32, Programmer Adapter
+status: ''
 extra:
   Price: $44.99 - $50.99
   SKU: '10188'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/q/f/qfp32-to-dip32_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/qfp32-to-dip32.htm
-  repositories: []
-name: QFP32 TO DIP32
-ref: waveshare/qfp32-to-dip32
-release_date: null
-sku: qfp32-to-dip32
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/q/f/qfp32-to-dip32_l_1_5.jpg

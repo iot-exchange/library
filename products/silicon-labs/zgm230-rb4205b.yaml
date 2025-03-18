@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: zgm230-rb4205b
+ref: silicon-labs/zgm230-rb4205b
+vendor: silicon-labs
+sku: zgm230-rb4205b
+name: ZGM230-RB4205B
 description: The ZGM230-RB4205B SiP module radio board (+14 dBm) plugs into the Main
   Board of the Z-Wave 800 Pro Kit. This radio board also supports development of Z-Wave
   Mesh and Z-Wave Long Range (Z-Wave LR) applications.
+status: $49.00
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/z-wave/zgm230-rb4205b-radio-board.png
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/z-wave/zgm230-rb4205b-z-wave-sip-module-radio-board
-  repositories: []
-name: ZGM230-RB4205B
-ref: silicon-labs/zgm230-rb4205b
-release_date: null
-sku: zgm230-rb4205b
-spec: null
-status: $49.00
-vendor: silicon-labs
+  images:
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/z-wave/zgm230-rb4205b-radio-board.png

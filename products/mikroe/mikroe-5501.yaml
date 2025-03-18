@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5501
+ref: mikroe/mikroe-5501
+vendor: mikroe
+sku: mikroe-5501
+name: MIKROE-5501
 description: eFuse 4 Click is a compact add-on board with a power path protection
   solution that limits circuit currents and voltages to safe levels during fault conditions.
   This board features the TPS25940, an eFuse power switch with reverse current blocking
   from Texas Instruments. The TPS25940 features a full suite of protection and monitoring
   functions, including a...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/efuse-4-click/efuse-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/efuse-4-click
-  repositories: []
-name: MIKROE-5501
-ref: mikroe/mikroe-5501
-release_date: null
-sku: mikroe-5501
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/efuse-4-click/efuse-4-click-home_default-1.jpg?v=100

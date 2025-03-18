@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rsbl35-rsbl45-servo-motor
+ref: waveshare/rsbl35-rsbl45-servo-motor
+vendor: waveshare
+sku: rsbl35-rsbl45-servo-motor
+name: RSBL35/RSBL45 Servo Motor
 description: "35KG.cm/45kg.cm RS485 Servo Motor, High Precision And Large Torque,\
   \ Aluminum Alloy Case, With Programmable 360\xB0 Magnetic Encoder, Multiple Operation\
   \ Modes Switchable"
+status: ''
 extra:
   Price: $99.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rsbl45-24-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rsbl45-24.htm
-  repositories: []
-name: RSBL35/RSBL45 Servo Motor
-ref: waveshare/rsbl35-rsbl45-servo-motor
-release_date: null
-sku: rsbl35-rsbl45-servo-motor
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rsbl45-24-2.jpg

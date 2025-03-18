@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sm-5vdc
+ref: olimex/sm-5vdc
+vendor: olimex
+sku: sm-5vdc
+name: SM-5VDC
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/StepperMotors/SM-5VDC/images/thumbs/200x150/SM-5VDC.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/StepperMotors/SM-5VDC/
-  repositories: []
-name: SM-5VDC
-ref: olimex/sm-5vdc
-release_date: null
-sku: sm-5vdc
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/StepperMotors/SM-5VDC/images/thumbs/200x150/SM-5VDC.jpg

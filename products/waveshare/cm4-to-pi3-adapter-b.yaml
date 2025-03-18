@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: cm4-to-pi3-adapter-b
+ref: waveshare/cm4-to-pi3-adapter-b
+vendor: waveshare
+sku: cm4-to-pi3-adapter-b
+name: CM4-to-Pi3-Adapter-B
 description: Raspberry Pi CM4 To 3B Adapter B version, Alternative Solution for Raspberry
   Pi 3 Model B/B+
+status: ''
 extra:
   Price: $18.97 - $19.99
   SKU: '25871'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-to-pi3-adapter-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/cm4-to-pi3-adapter-b.htm
-  repositories: []
-name: CM4-to-Pi3-Adapter-B
-ref: waveshare/cm4-to-pi3-adapter-b
-release_date: null
-sku: cm4-to-pi3-adapter-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-to-pi3-adapter-b-1.jpg

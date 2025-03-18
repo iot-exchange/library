@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '114993073'
+ref: seeedstudio/114993073
+vendor: seeedstudio
+sku: '114993073'
+name: '114993073'
 description: The SenseCAP T1000 Tracker, as compact as a credit card, effortlessly
   fits into your pocket or attaches to your assets. It's equipped with GPS, Bluetooth,
   and Wi-Fi for seamless indoor and outdoor positioning. Beyond just location tracking,
   it observes parameters like temperature, brightness, and movement. With an emergency
   button and buzzer, and a battery life that stretches for months on a single charge,
   it assures reliable tracking across various applications.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993073-sensecap-card-tracker-t1000-a.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-A-p-5697.html
-  repositories: []
-name: '114993073'
-ref: seeedstudio/114993073
-release_date: null
-sku: '114993073'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993073-sensecap-card-tracker-t1000-a.jpg

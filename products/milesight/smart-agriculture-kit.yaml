@@ -1,0 +1,14 @@
+id: smart-agriculture-kit
+ref: milesight/smart-agriculture-kit
+vendor: milesight
+sku: smart-agriculture-kit
+name: Smart Agriculture Kit
+description: Smart Agriculture Solution
+status: ''
+extra:
+  application: Farmland, Greenhouse, Forestry
+  benefit: More Productive and Cost-effective
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-ibox-kit/agriculture-kit
+  images: []

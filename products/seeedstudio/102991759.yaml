@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '102991759'
+ref: seeedstudio/102991759
+vendor: seeedstudio
+sku: '102991759'
+name: '102991759'
 description: Arduino Nano 33 BLE Sense Rev2 is an AI-enabled, finger-size development
   board, assembled with various sensing modules and BLE functions, programmable by
   both Arduino and Python. It provides great convenience for the realization of Embedded
   AI and IoT.
+status: ''
 extra:
   Price: $48.50
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/_/1_15_2.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Arduino-Nano-33-BLE-Sense-Rev2-p-5582.html
-  repositories: []
-name: '102991759'
-ref: seeedstudio/102991759
-release_date: null
-sku: '102991759'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/_/1_15_2.jpg

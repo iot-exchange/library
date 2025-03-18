@@ -1,0 +1,13 @@
+id: am307-am308-am319
+ref: milesight/am307-am308-am319
+vendor: milesight
+sku: am307-am308-am319
+name: AM307/AM308/AM319
+description: 9-in-1 IAQ Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/am319
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/indoor-air-quality-am-series/9-in-1-iaq-sensor-am307-am308-am319.png?t=1742198585390

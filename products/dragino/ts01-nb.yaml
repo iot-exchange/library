@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: ts01-nb
+ref: dragino/ts01-nb
+vendor: dragino
+sku: ts01-nb
+name: TS01-NB
 description: NB-IoT Tilting Sensor
+status: ''
 extra:
   Battery: 8500mAh Battery for long term use
   Features: Detect pitch and roll angle, Support Angle Alarm, Support Datalog feature
   NB-IoT Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85 @H-FDD
   Power Consumption: Ultra-low
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/569585164bf57f8a1e8703b19497bdbc_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lora-lorawan-end-node/item/314-ts01-nb.html
-  repositories: []
-name: TS01-NB
-ref: dragino/ts01-nb
-release_date: null
-sku: ts01-nb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/569585164bf57f8a1e8703b19497bdbc_L.jpg

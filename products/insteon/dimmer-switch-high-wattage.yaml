@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: dimmer-switch-high-wattage
+ref: insteon/dimmer-switch-high-wattage
+vendor: insteon
+sku: dimmer-switch-high-wattage
+name: Dimmer Switch (High Wattage)
 description: ''
+status: ''
 extra:
   Regular price: $59.95
   Sale price: $59.95
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/products/Insteon_Dimmer_Switch_High_Wattage.jpg?v=1724709240&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/dimmer-switch-high-wattage
-  repositories: []
-name: Dimmer Switch (High Wattage)
-ref: insteon/dimmer-switch-high-wattage
-release_date: null
-sku: dimmer-switch-high-wattage
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Insteon_Dimmer_Switch_High_Wattage.jpg?v=1724709240&width=533

@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-3878
+ref: mikroe/mikroe-3878
+vendor: mikroe
+sku: mikroe-3878
+name: MIKROE-3878
 description: "The UART Mux click is a Click board\u2122 that switches the UART pins\
   \ (RX and TX) from the mikroBUS\u2122 to one of the four available outputs. It employs\
   \ the SN74LV4052A, a Dual 4-Channel Multiplexer and Demultiplexer from Texas Instruments.\
   \ It is designed for 2-V to 5.5-V VCC operation."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/stspin233-click/stspin233-click-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/uart-mux-click/uart-mux-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/uart-mux-click
   - https://www.mikroe.com/uart-mux-click "UART MUX Click"
-  repositories: []
-name: MIKROE-3878
-ref: mikroe/mikroe-3878
-release_date: null
-sku: mikroe-3878
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/stspin233-click/stspin233-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/uart-mux-click/uart-mux-click-home_default-1.jpg?v=100

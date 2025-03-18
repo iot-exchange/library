@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '101990058'
+ref: seeedstudio/101990058
+vendor: seeedstudio
+sku: '101990058'
+name: '101990058'
 description: "Input Current: 0~5A AC Output Mode: 0~1V Non-linearity: \xB13%"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproduct101990058201.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Non-invasive-AC-Current-Sensor-5A-ma-p-2051.html
-  repositories: []
-name: '101990058'
-ref: seeedstudio/101990058
-release_date: null
-sku: '101990058'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproduct101990058201.jpg

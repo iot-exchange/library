@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: cqs291
+ref: cavli-wireless/cqs291
+vendor: cavli-wireless
+sku: cqs291
+name: CQS291
 description: LTE Cat 4 2G Fallback Android 3GPP Release 10
+status: ''
 extra:
   Cellular Bands Supported: "WW: B1 /B2 /B3 /B4 /B5 /B7 /B8 /B12 /B13 /B18 /B19 /B20\
     \ /B25 /B26 /B28 /B38 /B40 /B41 /B66 /B71 | GSM \u2013 900/1800 MHz"
@@ -16,18 +20,7 @@ extra:
     \ for 2 wheelers"
   OS: Android 12 + Service packs up to Android 14
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.cavliwireless.com/assets/images/modules/c-series/webp-img/CQS291.webp
-  models: []
   products:
   - https://www.cavliwireless.com/c-series/cqs291.html
-  repositories: []
-name: CQS291
-ref: cavli-wireless/cqs291
-release_date: null
-sku: cqs291
-spec: null
-status: ''
-vendor: cavli-wireless
+  images:
+  - https://www.cavliwireless.com/assets/images/modules/c-series/webp-img/CQS291.webp

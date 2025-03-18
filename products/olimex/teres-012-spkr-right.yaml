@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-012-spkr-right
+ref: olimex/teres-012-spkr-right
+vendor: olimex
+sku: teres-012-spkr-right
+name: TERES-012-Spkr-Right
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-012-Spkr-Right/images/thumbs/200x150/TERES-012-Spkr-Right.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-012-Spkr-Right/
-  repositories: []
-name: TERES-012-Spkr-Right
-ref: olimex/teres-012-spkr-right
-release_date: null
-sku: teres-012-spkr-right
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-012-Spkr-Right/images/thumbs/200x150/TERES-012-Spkr-Right.jpg

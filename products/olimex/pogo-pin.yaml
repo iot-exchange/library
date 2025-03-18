@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pogo-pin
+ref: olimex/pogo-pin
+vendor: olimex
+sku: pogo-pin
+name: POGO-PIN
 description: ''
+status: ''
 extra:
   discountedPrice1: 0.90 EUR
   discountedPrice2: 0.80 EUR
   price: 1.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Misc/POGO-PIN/images/thumbs/200x150/POGO-PIN.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Misc/POGO-PIN/
-  repositories: []
-name: POGO-PIN
-ref: olimex/pogo-pin
-release_date: null
-sku: pogo-pin
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Misc/POGO-PIN/images/thumbs/200x150/POGO-PIN.jpg

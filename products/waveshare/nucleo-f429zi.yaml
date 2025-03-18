@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: nucleo-f429zi
+ref: waveshare/nucleo-f429zi
+vendor: waveshare
+sku: nucleo-f429zi
+name: NUCLEO-F429ZI
 description: STM32 Nucleo-144 development board
+status: ''
 extra:
   Price: $67.97 - $68.99
   SKU: '11497'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/n/u/nucleo-f429zi-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/nucleo-f429zi.htm
-  repositories: []
-name: NUCLEO-F429ZI
-ref: waveshare/nucleo-f429zi
-release_date: null
-sku: nucleo-f429zi
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/n/u/nucleo-f429zi-1.jpg

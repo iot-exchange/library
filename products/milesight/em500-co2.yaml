@@ -1,0 +1,13 @@
+id: em500-co2
+ref: milesight/em500-co2
+vendor: milesight
+sku: em500-co2
+name: EM500-CO2
+description: Outdoor CO2 Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/em500-co2
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/outdoor-environmental-monitoring-em500-series/4-in-1-co2-sensor-em500-co2.png?t=1742198585390

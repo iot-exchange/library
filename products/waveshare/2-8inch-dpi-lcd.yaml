@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: 2-8inch-dpi-lcd
+ref: waveshare/2-8inch-dpi-lcd
+vendor: waveshare
+sku: 2-8inch-dpi-lcd
+name: 2.8inch DPI LCD
 description: "2.8inch Capacitive Touch Screen LCD for Raspberry Pi, 480\xD7640, DPI,\
   \ IPS, Optical Bonding Toughened Glass Cover, Low Power"
+status: ''
 extra:
   Price: $33.29 - $34.99
   SKU: '18628'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.8inch-dpi-lcd-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/2.8inch-dpi-lcd.htm
   - "https://www.waveshare.com/product/2.8inch-dpi-lcd.htm \"2.8inch Capacitive Touch\
     \ Screen LCD for Raspberry Pi, 480\xD7640, DPI, IPS, Optical Bonding Toughened\
     \ Glass Cover, Low Power\""
-  repositories: []
-name: 2.8inch DPI LCD
-ref: waveshare/2-8inch-dpi-lcd
-release_date: null
-sku: 2-8inch-dpi-lcd
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.8inch-dpi-lcd-1.jpg

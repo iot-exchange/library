@@ -1,0 +1,12 @@
+id: enterprise-nvr-series
+ref: milesight/enterprise-nvr-series
+vendor: milesight
+sku: enterprise-nvr-series
+name: Enterprise NVR Series
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/security/product/enterprise-nvr
+  images: []

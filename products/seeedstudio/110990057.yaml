@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '110990057'
+ref: seeedstudio/110990057
+vendor: seeedstudio
+sku: '110990057'
+name: '110990057'
 description: Grove - Branch Cable for Servo:4-Pin Male Jumper to 3-Pin Female Jumper
   (5PCs pack)
+status: ''
 extra:
   usage: used for connecting a Base Shield to Grove Servo
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproduct4pinto2x3pin500.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Grove-Branch-Cable-for-Servo-5PCs-pack.html
-  repositories: []
-name: '110990057'
-ref: seeedstudio/110990057
-release_date: null
-sku: '110990057'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproduct4pinto2x3pin500.jpg

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: setebos-i-wireless-featherwing
+ref: we/setebos-i-wireless-featherwing
+vendor: we
+sku: setebos-i-wireless-featherwing
+name: Setebos-I Wireless FeatherWing
 description: NEW
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o193553v209%20Family_Setebos-I%20FeatherWing.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/SETEBOS-I_WIRELESS_FEATHERWING
   - https://www.we-online.com/en/components/products/SETEBOS-I_WIRELESS_FEATHERWING_2
-  repositories: []
-name: Setebos-I Wireless FeatherWing
-ref: we/setebos-i-wireless-featherwing
-release_date: null
-sku: setebos-i-wireless-featherwing
-spec: null
-status: ''
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o193553v209%20Family_Setebos-I%20FeatherWing.jpg

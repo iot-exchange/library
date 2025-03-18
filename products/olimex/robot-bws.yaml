@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: robot-bws
+ref: olimex/robot-bws
+vendor: olimex
+sku: robot-bws
+name: ROBOT-BWS
 description: ''
+status: ''
 extra:
   discountedPrice1: 1.08 EUR
   discountedPrice2: 0.96 EUR
@@ -9,18 +13,7 @@ extra:
   price2: 1.08 EUR
   price3: 0.96 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Wheels/ROBOT-BWS/images/thumbs/200x150/ROBOT-BWS.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Wheels/ROBOT-BWS/
-  repositories: []
-name: ROBOT-BWS
-ref: olimex/robot-bws
-release_date: null
-sku: robot-bws
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Wheels/ROBOT-BWS/images/thumbs/200x150/ROBOT-BWS.jpg

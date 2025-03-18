@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 3-85
+ref: microchip/3-85
+vendor: microchip
+sku: 3-85
+name: '3.85'
 description: Microcontroller with Zigbee, Proprietary
+status: ''
 extra:
   Current Consumption: '103'
   Frequency: Cortex-M0+
@@ -14,16 +18,5 @@ extra:
   Voltage Range: 1.8 to 3.6
   Wireless Protocols: Zigbee, Proprietary
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: '3.85'
-ref: microchip/3-85
-release_date: null
-sku: 3-85
-spec: null
-status: ''
-vendor: microchip
+  images: []

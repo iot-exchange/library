@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: button-16mm-blue
+ref: olimex/button-16mm-blue
+vendor: olimex
+sku: button-16mm-blue
+name: BUTTON-16MM-BLUE
 description: ''
+status: ''
 extra:
   discountedPrice1: 2.70 EUR
   discountedPrice2: 2.40 EUR
   price: 3.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Switches/WATER-PROOF-BUTTONS/images/thumbs/200x150/but-12mm.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Switches/BUTTON-16MM-BLUE/
-  repositories: []
-name: BUTTON-16MM-BLUE
-ref: olimex/button-16mm-blue
-release_date: null
-sku: button-16mm-blue
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Switches/WATER-PROOF-BUTTONS/images/thumbs/200x150/but-12mm.jpg

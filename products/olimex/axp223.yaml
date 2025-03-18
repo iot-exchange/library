@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: axp223
+ref: olimex/axp223
+vendor: olimex
+sku: axp223
+name: AXP223
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/IC/AXP223/images/thumbs/200x150/AXP223.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/IC/AXP223/
-  repositories: []
-name: AXP223
-ref: olimex/axp223
-release_date: null
-sku: axp223
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/IC/AXP223/images/thumbs/200x150/AXP223.jpg

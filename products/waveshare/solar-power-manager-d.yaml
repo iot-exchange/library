@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: solar-power-manager-d
+ref: waveshare/solar-power-manager-d
+vendor: waveshare
+sku: solar-power-manager-d
+name: solar_power_manager_d
 description: Solar Power Manager Module (D), Supports 6V~24V Solar Panel and Type-C
   Power Adapter, 5V/3A Regulated Output
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/o/solar-power-manager-d-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/solar-power-manager-d.htm
-  repositories: []
-name: solar_power_manager_d
-ref: waveshare/solar-power-manager-d
-release_date: null
-sku: solar-power-manager-d
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/o/solar-power-manager-d-1.jpg

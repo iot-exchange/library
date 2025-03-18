@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-6093
+ref: mikroe/mikroe-6093
+vendor: mikroe
+sku: mikroe-6093
+name: MIKROE-6093
 description: "IR Sense 5 Click is a compact add-on board designed for accurate, non-contact\
   \ surface temperature measurement. This board features the ZTP-148SRC1, a thermopile\
   \ IR sensor from Amphenol, with a measurement range from -20 to +100\xB0C, an active\
   \ area of 0.7x0.7mm\xB2, and a typical field of view of 85 degrees. The board also\
   \ integrates an OPA2365AIDR OpAmp for..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/current-12-click/current-12-click-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/ir-sense-5-click/ir-sense-5-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/current-12-click
   - https://www.mikroe.com/ir-sense-5-click
-  repositories: []
-name: MIKROE-6093
-ref: mikroe/mikroe-6093
-release_date: null
-sku: mikroe-6093
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/current-12-click/current-12-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/ir-sense-5-click/ir-sense-5-click-home_default-1.jpg?v=100

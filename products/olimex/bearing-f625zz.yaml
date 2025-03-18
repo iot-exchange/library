@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bearing-f625zz
+ref: olimex/bearing-f625zz
+vendor: olimex
+sku: bearing-f625zz
+name: BEARING-F625ZZ
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-F625ZZ/images/thumbs/200x150/F6X5ZZ.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-F625ZZ/
-  repositories: []
-name: BEARING-F625ZZ
-ref: olimex/bearing-f625zz
-release_date: null
-sku: bearing-f625zz
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-F625ZZ/images/thumbs/200x150/F6X5ZZ.jpg

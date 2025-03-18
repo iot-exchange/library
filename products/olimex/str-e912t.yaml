@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: str-e912t
+ref: olimex/str-e912t
+vendor: olimex
+sku: str-e912t
+name: STR-E912T
 description: ''
+status: ''
 extra:
   discountedPrice1: 116.96 EUR
   discountedPrice2: 103.96 EUR
   price: 129.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/ST/STR-E912T/images/thumbs/200x150/STR-E912-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/ST/STR-E912T/
-  repositories: []
-name: STR-E912T
-ref: olimex/str-e912t
-release_date: null
-sku: str-e912t
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/ST/STR-E912T/images/thumbs/200x150/STR-E912-01.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pcb-holder-z
+ref: olimex/pcb-holder-z
+vendor: olimex
+sku: pcb-holder-z
+name: PCB-HOLDER-Z
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/PCB-Holders/PCB-HOLDER-Z/images/thumbs/200x150/PCB-HOLDER-Z.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/PCB-Holders/PCB-HOLDER-Z/
-  repositories: []
-name: PCB-HOLDER-Z
-ref: olimex/pcb-holder-z
-release_date: null
-sku: pcb-holder-z
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/PCB-Holders/PCB-HOLDER-Z/images/thumbs/200x150/PCB-HOLDER-Z.jpg

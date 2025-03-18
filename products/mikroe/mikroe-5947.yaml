@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5947
+ref: mikroe/mikroe-5947
+vendor: mikroe
+sku: mikroe-5947
+name: MIKROE-5947
 description: BATT Boost Click is a compact add-on board that expands a coin battery
   cell's lifetime and current capability, like the CR2032 and lithium thionyl batteries.
   This board features the NBM5100A, a coin-cell battery life booster with adaptive
   power optimization from Nexperia. It is a battery energy management device designed
   to maximize usable capacity from...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/batt-boost-click/batt-boost-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/batt-boost-click
-  repositories: []
-name: MIKROE-5947
-ref: mikroe/mikroe-5947
-release_date: null
-sku: mikroe-5947
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/batt-boost-click/batt-boost-click-home_default-1.jpg?v=100

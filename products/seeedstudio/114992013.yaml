@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '114992013'
+ref: seeedstudio/114992013
+vendor: seeedstudio
+sku: '114992013'
+name: '114992013'
 description: Raspberry Pi Keyboard IT Red/White. The official Raspberry Pi keyboard
   and hub is a standard 79-key (78-key US) keyboard that includes an additional three
   USB 2.0 type A ports.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/y/1/y1857715-01.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-2246.html?bazaar4_retailer-products%5Bpage%5D=2#114992013
   - https://www.seeedstudio.com/Raspberry-Pi-Keyboard-IT-Red-White-p-4173.html
-  repositories: []
-name: '114992013'
-ref: seeedstudio/114992013
-release_date: null
-sku: '114992013'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/y/1/y1857715-01.jpg

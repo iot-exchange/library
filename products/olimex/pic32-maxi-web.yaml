@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pic32-maxi-web
+ref: olimex/pic32-maxi-web
+vendor: olimex
+sku: pic32-maxi-web
+name: PIC32-MAXI-WEB
 description: ''
+status: ''
 extra:
   discountedPrice1: 53.06 EUR
   discountedPrice2: 47.16 EUR
   price: 58.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/PIC/Development/PIC32-MAXI-WEB/images/thumbs/200x150/PIC32-MAXI-WEB-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/PIC/Development/PIC32-MAXI-WEB/
-  repositories: []
-name: PIC32-MAXI-WEB
-ref: olimex/pic32-maxi-web
-release_date: null
-sku: pic32-maxi-web
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/PIC/Development/PIC32-MAXI-WEB/images/thumbs/200x150/PIC32-MAXI-WEB-1.jpg

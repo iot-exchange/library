@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '110991807'
+ref: seeedstudio/110991807
+vendor: seeedstudio
+sku: '110991807'
+name: '110991807'
 description: SenseCAP ONE Mounting Bracket Flange,Fixed Support. The mounting bracket
   is specially designed for the SenseCAP ONE weather station. Simply install makes
   the weather station firmly and stable on the pole or wherever you want to put it.
   It is compatible with the S500/S700/S800/S900/S1000 and whole all-in-one weather
   station.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110991807_preview-16.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/SenseCAP-ONE-Mounting-Bracket-Flange-p-5657.html
-  repositories: []
-name: '110991807'
-ref: seeedstudio/110991807
-release_date: null
-sku: '110991807'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110991807_preview-16.jpg

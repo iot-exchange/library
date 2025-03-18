@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: cm4-io-base-a
+ref: waveshare/cm4-io-base-a
+vendor: waveshare
+sku: cm4-io-base-a
+name: CM4-IO-BASE-A
 description: Mini Base Board (A) Designed for Raspberry Pi Compute Module 4
+status: ''
 extra:
   Price: $19.31 - $19.99
   SKU: '19887'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-io-base-a-1_1_3.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/cm4-io-base-a.htm
-  repositories: []
-name: CM4-IO-BASE-A
-ref: waveshare/cm4-io-base-a
-release_date: null
-sku: cm4-io-base-a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-io-base-a-1_1_3.jpg

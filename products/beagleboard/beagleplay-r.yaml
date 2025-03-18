@@ -1,0 +1,15 @@
+id: beagleplay-r
+ref: beagleboard/beagleplay-r
+vendor: beagleboard
+sku: beagleplay-r
+name: "BeaglePlay\xAE"
+description: Linux computing made simple and affordable. Integrated advance networking
+  features like long-range, low-power wireless and single-pair Ethernet. Designed
+  to work seamlessly with BeagleConnect Freedom. Start innovating today.
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.beagleboard.org/boards/beagleplay
+  images:
+  - https://www.beagleboard.org/app/uploads/2023/03/45front-400x297.webp

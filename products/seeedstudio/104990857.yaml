@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '104990857'
+ref: seeedstudio/104990857
+vendor: seeedstudio
+sku: '104990857'
+name: '104990857'
 description: 4.2" Monochrome eInk / ePaper Display with 400x300 Pixels, SPI interface,
   Support XIAO/Arduino/STM32. The 4.2-inch E-paper Display offers a high-quality,
   low-power solution for a wide range of applications.
+status: ''
 extra:
   price: $19.95
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.seeedstudio.com/img/r
-  models: []
   products:
   - https://www.seeedstudio.com/4-2-Monochrome-ePaper-Display-with-400x300-Pixels-p-5784.html
   - https://www.seeedstudio.com/4.2-Monochrome-eInk-ePaper-Display-with-400x300-Pixels-SPI-interface-Support-XIAO-Arduino-STM32.html
-  repositories: []
-name: '104990857'
-ref: seeedstudio/104990857
-release_date: null
-sku: '104990857'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://www.seeedstudio.com/img/r

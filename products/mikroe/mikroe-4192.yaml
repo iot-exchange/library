@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4192
+ref: mikroe/mikroe-4192
+vendor: mikroe
+sku: mikroe-4192
+name: MIKROE-4192
 description: XSENS MTi-3 Click is a compact add-on board that contains a fully functional
   module that can be configured as an Inertial Measurement Unit, Vertical reference
   Unit, or even an Attitude & Heading Reference System. This board features the MTi-3-5A,
   a module outputting 3D orientation, 3D rate of turn, 3D accelerations, and 3D magnetic
   field, depending on...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/xsens-mti-3-click/xsens-mti-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/xsens-mti-3-click
-  repositories: []
-name: MIKROE-4192
-ref: mikroe/mikroe-4192
-release_date: null
-sku: mikroe-4192
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/xsens-mti-3-click/xsens-mti-3-click-home_default-1.jpg?v=100

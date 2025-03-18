@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 1-5inch-lcd-module
+ref: waveshare/1-5inch-lcd-module
+vendor: waveshare
+sku: 1-5inch-lcd-module
+name: 1.5inch LCD Module
 description: "1.5inch LCD Display Module, IPS Panel, Rounded Corners, 240\xD7280 Resolution,\
   \ SPI Interface, 262K colors"
+status: ''
 extra:
   price: $8.81 - $9.49
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.5inch-lcd-module-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/1.5inch-lcd-module.htm
-  repositories: []
-name: 1.5inch LCD Module
-ref: waveshare/1-5inch-lcd-module
-release_date: null
-sku: 1-5inch-lcd-module
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.5inch-lcd-module-1.jpg

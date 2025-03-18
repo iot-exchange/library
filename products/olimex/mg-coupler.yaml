@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: mg-coupler
+ref: olimex/mg-coupler
+vendor: olimex
+sku: mg-coupler
+name: MG-COUPLER
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/MG-COUPLER/images/thumbs/200x150/MG-COUPLE3.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/MG-COUPLER/
-  repositories: []
-name: MG-COUPLER
-ref: olimex/mg-coupler
-release_date: null
-sku: mg-coupler
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/MG-COUPLER/images/thumbs/200x150/MG-COUPLE3.jpg

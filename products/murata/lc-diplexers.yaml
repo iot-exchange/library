@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: lc-diplexers
+ref: murata/lc-diplexers
+vendor: murata
+sku: lc-diplexers
+name: LC Diplexers
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/search/productsearch?cate=cgsubLCDiplexer
-  repositories: []
-name: LC Diplexers
-ref: murata/lc-diplexers
-release_date: null
-sku: lc-diplexers
-spec: null
-status: ''
-vendor: murata
+  images: []

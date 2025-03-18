@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: uext-mpq
+ref: olimex/uext-mpq
+vendor: olimex
+sku: uext-mpq
+name: UEXT-MPQ
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Adapters/UEXT-MPQ/images/thumbs/200x150/UEXT-MPQaw.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Adapters/UEXT-MPQ/open-source-hardware
-  repositories: []
-name: UEXT-MPQ
-ref: olimex/uext-mpq
-release_date: null
-sku: uext-mpq
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Adapters/UEXT-MPQ/images/thumbs/200x150/UEXT-MPQaw.jpg

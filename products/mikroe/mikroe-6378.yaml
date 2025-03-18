@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-6378
+ref: mikroe/mikroe-6378
+vendor: mikroe
+sku: mikroe-6378
+name: MIKROE-6378
 description: "2x4 RGB Click is a compact add-on board for dynamic and colorful lighting\
   \ control. This board features an array of 2x4 RGB LEDs from W\xFCrth Elektronik,\
   \ featuring individual control of each red, green, and blue component via an integrated\
   \ IC and pulse width modulation (PWM) technology."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/2x4-rgb-click/2x4-rgb-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/2x4-rgb-click
-  repositories: []
-name: MIKROE-6378
-ref: mikroe/mikroe-6378
-release_date: null
-sku: mikroe-6378
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/2x4-rgb-click/2x4-rgb-click-home_default-1.jpg?v=100

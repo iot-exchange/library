@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-6097
+ref: mikroe/mikroe-6097
+vendor: mikroe
+sku: mikroe-6097
+name: MIKROE-6097
 description: Hall Current 19 Click is a compact add-on board designed for precise
   current sensing in various applications. This board features the CZ3AG2, a coreless
   current sensor from AKM Semiconductor. The CZ3AG2 offers high-accuracy and high-speed
   current sensing using Hall sensor technology, with features like stray magnetic
   field reduction and dual overcurrent...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.mikroe.com/hall-current-19-click
-  repositories: []
-name: MIKROE-6097
-ref: mikroe/mikroe-6097
-release_date: null
-sku: mikroe-6097
-spec: null
-status: ''
-vendor: mikroe
+  images: []

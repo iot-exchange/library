@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4157
+ref: mikroe/mikroe-4157
+vendor: mikroe
+sku: mikroe-4157
+name: MIKROE-4157
 description: Stepper 8 Click is a motor control add on board based on TC78H670FTG
   from Toshiba, a clock-in and serial controlled Bipolar Stepping Motor Driver which
   can drive a 128 micro-stepping motor with a power supply ranging from 2.5V to 16V
   for wide range of applications includes USB-powered, battery-powered, and standard
   9-12V system devices. A perfect solution...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/stepper-8-click/stepper-8-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/stepper-8-click
-  repositories: []
-name: MIKROE-4157
-ref: mikroe/mikroe-4157
-release_date: null
-sku: mikroe-4157
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/stepper-8-click/stepper-8-click-home_default-1.jpg?v=100

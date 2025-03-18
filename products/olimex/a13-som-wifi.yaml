@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: a13-som-wifi
+ref: olimex/a13-som-wifi
+vendor: olimex
+sku: a13-som-wifi
+name: A13-SOM-WIFI
 description: ''
+status: ''
 extra:
   10+ pcs: 9.00 EUR
   100+ pcs: 7.50 EUR
   1000+ pcs: 7.00 EUR
   50+ pcs: 8.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/SOM/A13/A13-SOM-WIFI/images/thumbs/200x150/A13-SOM-WIFI-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/SOM/A13/A13-SOM-WIFI/open-source-hardware
-  repositories: []
-name: A13-SOM-WIFI
-ref: olimex/a13-som-wifi
-release_date: null
-sku: a13-som-wifi
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/SOM/A13/A13-SOM-WIFI/images/thumbs/200x150/A13-SOM-WIFI-1.jpg

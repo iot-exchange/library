@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pico-lcd-1-14-kl
+ref: waveshare/pico-lcd-1-14-kl
+vendor: waveshare
+sku: pico-lcd-1-14-kl
+name: Pico-LCD-1.14 (KL)
 description: "KLAYERS 1.14inch LCD Display Module for Raspberry Pi Pico, 65K Colors,\
   \ 240\xD7135, SPI"
+status: ''
 extra:
   Price: $19.31 - $19.99
   SKU: '23833'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-lcd-1.14-kl-3.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pico-lcd-1.14-kl.htm
-  repositories: []
-name: Pico-LCD-1.14 (KL)
-ref: waveshare/pico-lcd-1-14-kl
-release_date: null
-sku: pico-lcd-1-14-kl
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-lcd-1.14-kl-3.jpg

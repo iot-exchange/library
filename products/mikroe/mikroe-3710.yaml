@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3710
+ref: mikroe/mikroe-3710
+vendor: mikroe
+sku: mikroe-3710
+name: MIKROE-3710
 description: Opto Encoder 3 Click is a linear incremental optical sensor/encoder click,
   which can be used for the movement or rotation encoding. The TCUT1800X01 sensor
   is equipped with one infrared LED with the wavelength of 950nm, and four phototransistors.
   Encoders of this type are widely used for many applications which involve precise
   detection of the position,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/opto-encoder-3-click/opto-encoder-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/opto-encoder-3-click
-  repositories: []
-name: MIKROE-3710
-ref: mikroe/mikroe-3710
-release_date: null
-sku: mikroe-3710
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/opto-encoder-3-click/opto-encoder-3-click-home_default-1.jpg?v=100

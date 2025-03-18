@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: btxxx
+ref: ezurio/btxxx
+vendor: ezurio
+sku: btxxx
+name: BTxxx
 description: Bluetooth module designed for consumer products.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ezurio.com/partners/technology/wirepas
-  repositories: []
-name: BTxxx
-ref: ezurio/btxxx
-release_date: null
-sku: btxxx
-spec: null
-status: ''
-vendor: ezurio
+  images: []

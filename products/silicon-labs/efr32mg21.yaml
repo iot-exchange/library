@@ -1,40 +1,33 @@
-alternatives: []
-certifications: []
+id: efr32mg21
+ref: silicon-labs/efr32mg21
+vendor: silicon-labs
+sku: efr32mg21
+name: EFR32MG21
 description: Zigbee and Thread EFR32MG21 SoCs (Series 2)
+status: ''
 extra:
-  Flash: 512, 768, 1024 kB
   Flash (kB): '1024'
-  Frequency Bands: 2.4 GHz
   Frequency Bands (MHz): 2.4 GHz
   GPIO: '20'
   MCU Core: ARM Cortex-M33
-  Max Flash/RAM (kB): '[1024/96](https://www.silabs.com/wireless/zigbee/efr32mg21-series-2-socs?sl-l2attributefilterkey=sl:familymaxflashram&sl-l2attributefiltervalue=1024/96&sl-l2columnname=Max%20Flash/RAM%20(kB)#device-table-with-filters),
-    [512/64](https://www.silabs.com/wireless/zigbee/efr32mg21-series-2-socs?sl-l2attributefilterkey=sl:familymaxflashram&sl-l2attributefiltervalue=512/64&sl-l2columnname=Max%20Flash/RAM%20(kB)#device-table-with-filters)'
-  Output Power Range: -20 10,10.5,20 dBm
   Output Power Range (dBm): -20 20
-  RAM: 64, 96 kB
   RAM (kB): '96'
   RX Current (mA): '9.4'
   RX Sensitivity (dBm): -104.3 (250 kbps O-QPSK DSSS)
+  Security: AES-128, AES-256, ECC, SHA-1, SHA-2
+  TX Current (mA) 0 dBm: '9.9'
+  Max Flash/RAM (kB): '[1024/96](https://www.silabs.com/wireless/zigbee/efr32mg21-series-2-socs?sl-l2attributefilterkey=sl:familymaxflashram&sl-l2attributefiltervalue=1024/96&sl-l2columnname=Max%20Flash/RAM%20(kB)#device-table-with-filters),
+    [512/64](https://www.silabs.com/wireless/zigbee/efr32mg21-series-2-socs?sl-l2attributefilterkey=sl:familymaxflashram&sl-l2attributefiltervalue=512/64&sl-l2columnname=Max%20Flash/RAM%20(kB)#device-table-with-filters)'
   "Secure Vault\u2122": '[Base](https://www.silabs.com/wireless/zigbee/efr32mg21-series-2-socs?sl-l2attributefilterkey=sl:securevault&sl-l2attributefiltervalue=Base&sl-l2columnname=#device-table-with-filters),
     [High](https://www.silabs.com/wireless/zigbee/efr32mg21-series-2-socs?sl-l2attributefilterkey=sl:securevault&sl-l2attributefiltervalue=High&sl-l2columnname=#device-table-with-filters),
     [Mid](https://www.silabs.com/wireless/zigbee/efr32mg21-series-2-socs?sl-l2attributefilterkey=sl:securevault&sl-l2attributefiltervalue=Mid&sl-l2columnname=#device-table-with-filters)'
-  Security: AES-128, AES-256, ECC, SHA-1, SHA-2
   TX Current (0 dBm): '9.9'
-  TX Current (mA) 0 dBm: '9.9'
+  Flash: 512, 768, 1024 kB
+  Frequency Bands: 2.4 GHz
+  Output Power Range: -20 10,10.5,20 dBm
+  RAM: 64, 96 kB
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/wireless/zigbee/efr32mg21-series-2-modules
   - https://www.silabs.com/wireless/zigbee/efr32mg21-series-2-socs
-  repositories: []
-name: EFR32MG21
-ref: silicon-labs/efr32mg21
-release_date: null
-sku: efr32mg21
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

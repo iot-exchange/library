@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-4111
+ref: mikroe/mikroe-4111
+vendor: mikroe
+sku: mikroe-4111
+name: MIKROE-4111
 description: "Analog MUX Click is a Click board\u2122 that switches one of the sixteen\
   \ inputs to one output. It employs the CD74HC4067, a High-Speed CMOS Logic 16-Channel\
   \ Analog Multiplexer/Demultiplexer."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/analog-mux-click/analog-mux-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/analog-mux-click
   - https://www.mikroe.com/cart?add=1&id_product=2731
-  repositories: []
-name: MIKROE-4111
-ref: mikroe/mikroe-4111
-release_date: null
-sku: mikroe-4111
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/analog-mux-click/analog-mux-click-home_default-1.jpg?v=100

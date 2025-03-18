@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: atmel-ice-c
+ref: waveshare/atmel-ice-c
+vendor: waveshare
+sku: atmel-ice-c
+name: Atmel-ICE-C
 description: Atmel-ICE-C, Original PCBA Inside, Full Functionality, Cost Effective
+status: ''
 extra:
   Price: $168.63 - $169.99
   SKU: '15841'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/t/atmel-ice-c-4.jpg
-  models: []
   products:
   - https://www.waveshare.com/atmel-ice-c.htm
   - https://www.waveshare.com/atmel-ice-c.htm "Atmel-ICE-C, Original PCBA Inside,
     Full Functionality, Cost Effective"
-  repositories: []
-name: Atmel-ICE-C
-ref: waveshare/atmel-ice-c
-release_date: null
-sku: atmel-ice-c
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/t/atmel-ice-c-4.jpg

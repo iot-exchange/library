@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: sma-2-4g-2db-antenna
+ref: waveshare/sma-2-4g-2db-antenna
+vendor: waveshare
+sku: sma-2-4g-2db-antenna
+name: SMA 2.4G 2DB Antenna
 description: Part No.:SMA 2.4G 2DB Antenna
+status: ''
 extra:
   Price: $1.32 - $1.49
   SKU: '6564'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/m/sma-2.4g-2db-antenna.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/sma-2.4g-2db-antenna.htm
-  repositories: []
-name: SMA 2.4G 2DB Antenna
-ref: waveshare/sma-2-4g-2db-antenna
-release_date: null
-sku: sma-2-4g-2db-antenna
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/m/sma-2.4g-2db-antenna.jpg

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: gp-qfn64-0-5-b
+ref: waveshare/gp-qfn64-0-5-b
+vendor: waveshare
+sku: gp-qfn64-0-5-b
+name: GP-QFN64-0.5-B
 description: GP-QFN64-0.5-B, Programmer Adapter
+status: ''
 extra:
   Price: $111.99 - $117.99
   SKU: '7803'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/p/gp-qfn64-0.5-b_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/gp-qfn64-0.5-b.htm
-  repositories: []
-name: GP-QFN64-0.5-B
-ref: waveshare/gp-qfn64-0-5-b
-release_date: null
-sku: gp-qfn64-0-5-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/p/gp-qfn64-0.5-b_l_1_5.jpg

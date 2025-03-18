@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: lwl01-lorawan-water-leak
+ref: dragino/lwl01-lorawan-water-leak
+vendor: dragino
+sku: lwl01-lorawan-water-leak
+name: LWL01 -- LoRaWAN Water Leak
 description: Coin Battery Powered LoRaWAN Water Leak Sensor, Ultra Low Power Consumption
   (Replaced with LWL02)
+status: ''
 extra:
   Bands: EU433, CN470, EU868, IN865, KR920, AS923, AU915, US915
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/0dc247c07eee71a72cf9409729fb3455_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lorawan-nb-iot-door-sensor-water-leak/item/158-lwl01.html
-  repositories: []
-name: LWL01 -- LoRaWAN Water Leak
-ref: dragino/lwl01-lorawan-water-leak
-release_date: null
-sku: lwl01-lorawan-water-leak
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/0dc247c07eee71a72cf9409729fb3455_L.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: 5-5inch-hdmi-amoled
+ref: waveshare/5-5inch-hdmi-amoled
+vendor: waveshare
+sku: 5-5inch-hdmi-amoled
+name: 5.5inch HDMI AMOLED
 description: "5.5inch Capacitive Touch AMOLED Display, 1080\xD71920, HDMI, Toughened\
   \ Glass Cover"
+status: ''
 extra:
-  Price: $117.91 - $121.99
   Price Range: $117.91 - $121.99
   SKU: '16103'
+  Price: $117.91 - $121.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/_/5.5ap-m.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/5.5inch-hdmi-amoled.htm
-  repositories: []
-name: 5.5inch HDMI AMOLED
-ref: waveshare/5-5inch-hdmi-amoled
-release_date: null
-sku: 5-5inch-hdmi-amoled
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/_/5.5ap-m.jpg

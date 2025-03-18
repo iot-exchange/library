@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6057
+ref: mikroe/mikroe-6057
+vendor: mikroe
+sku: mikroe-6057
+name: MIKROE-6057
 description: Solar Energy 3 Click - 1V8 is a compact add-on board for energy harvesting
   in low-power applications. This board features the NEH2000BY, an energy-harvesting
   PMIC from Nexperia. This board also features the AMG-1401C photovoltaic cell, known
   for its high efficiency of over 20%, even in low and artificial light environments.
   The NEH2000BY manages energy...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/solar-energy-3-click-1v8/solar-energy-3-click-1v8-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/solar-energy-3-click-1v8
-  repositories: []
-name: MIKROE-6057
-ref: mikroe/mikroe-6057
-release_date: null
-sku: mikroe-6057
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/solar-energy-3-click-1v8/solar-energy-3-click-1v8-home_default-1.jpg?v=100

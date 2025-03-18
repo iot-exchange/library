@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: msp430-jtag-tiny-v2
+ref: olimex/msp430-jtag-tiny-v2
+vendor: olimex
+sku: msp430-jtag-tiny-v2
+name: MSP430-JTAG-TINY-V2
 description: ''
+status: ''
 extra:
   price1: 54.95 EUR
   price2: 52.20 EUR
   price3: 49.46 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/MSP430/JTAG/MSP430-JTAG-TINY-V2/images/thumbs/200x150/MSP430-JTAG-TINY-V2.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/MSP430/JTAG/MSP430-JTAG-TINY-V2/
-  repositories: []
-name: MSP430-JTAG-TINY-V2
-ref: olimex/msp430-jtag-tiny-v2
-release_date: null
-sku: msp430-jtag-tiny-v2
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/MSP430/JTAG/MSP430-JTAG-TINY-V2/images/thumbs/200x150/MSP430-JTAG-TINY-V2.jpg

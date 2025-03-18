@@ -1,30 +1,23 @@
-alternatives: []
-certifications: []
+id: e-paper-133-b
+ref: waveshare/e-paper-133-b
+vendor: waveshare
+sku: e-paper-133-b
+name: e-paper_133_b
 description: "13.3inch e-Paper Display (B), E-Ink Display, 960\xD7680 pixels, Red\
   \ / Black / White, SPI Communication, Partial Refresh Support, Optional for e-Paper\
   \ Driver HAT"
+status: ''
 extra:
   Multi Options: ''
   Price: $149.99 - $154.99
   price: $149.99 -  $154.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/3/13.3inch-e-paper-hat-b-1_3.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-7-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/13.3inch-e-paper-hat-b.htm
   - https://www.waveshare.com/product/esp32-s3-touch-lcd-7.htm
   - "https://www.waveshare.com/product/esp32-s3-touch-lcd-7.htm \"ESP32-S3 7inch Capacitive\
     \ Touch Display Development Board, ESP32 With Display, 800\xD7480, 5-point Touch,\
     \ 32-bit LX7 Dual-core Processor, Supports WiFi & Bluetooth\""
-  repositories: []
-name: e-paper_133_b
-ref: waveshare/e-paper-133-b
-release_date: null
-sku: e-paper-133-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/3/13.3inch-e-paper-hat-b-1_3.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-lcd-7-1.jpg

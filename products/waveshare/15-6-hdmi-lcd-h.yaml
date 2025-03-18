@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: 15-6-hdmi-lcd-h
+ref: waveshare/15-6-hdmi-lcd-h
+vendor: waveshare
+sku: 15-6-hdmi-lcd-h
+name: "15.6\u2033 HDMI LCD (H)"
 description: "15.6inch Capacitive Touch Screen LCD, 1920\xD71080, HDMI, IPS, Various\
   \ Systems Support"
+status: ''
 extra:
   Multi Options: ''
   Price: $156.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/15.6inch-hdmi-lcd.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/5/15.6ap-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/o/touch-screen_12.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/15.6inch-hdmi-lcd.htm
-  repositories: []
-name: "15.6\u2033 HDMI LCD (H)"
-ref: waveshare/15-6-hdmi-lcd-h
-release_date: null
-sku: 15-6-hdmi-lcd-h
-spec: null
-status: ''
-vendor: waveshare

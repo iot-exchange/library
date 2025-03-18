@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5591
+ref: mikroe/mikroe-5591
+vendor: mikroe
+sku: mikroe-5591
+name: MIKROE-5591
 description: "6DOF IMU 18 Click is a compact add-on board with a 6-axis inertial measurement\
   \ unit. This board features the ICM-42605, a high-performance 6-axis MotionTracking\u2122\
   \ IMU from TDK InvenSense. It combines a 3-axis gyroscope and a 3-axis accelerometer\
   \ featuring a 2Kb-byte FIFO that can lower the traffic on the serial bus interface\
   \ (SPI or I2C). It reduces power consumption."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/6dof-imu-18-click/6dof-imu-18-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/6dof-imu-18-click
-  repositories: []
-name: MIKROE-5591
-ref: mikroe/mikroe-5591
-release_date: null
-sku: mikroe-5591
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/6dof-imu-18-click/6dof-imu-18-click-home_default-1.jpg?v=100

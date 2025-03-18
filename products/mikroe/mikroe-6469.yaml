@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-6469
+ref: mikroe/mikroe-6469
+vendor: mikroe
+sku: mikroe-6469
+name: MIKROE-6469
 description: GNSS L1/L5 Band Active Antenna - Standard Precision (ANN-MB5) is a high-performance
   multi-band GNSS antenna designed for standard precision positioning in challenging
   environments.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gnss-l1l5-band-active-antenna-standard-precision/gnss-l1l5-band-active-antenna-standard-precision-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=4070
   - https://www.mikroe.com/gnss-l1l5-band-active-antenna-standard-precision
-  repositories: []
-name: MIKROE-6469
-ref: mikroe/mikroe-6469
-release_date: null
-sku: mikroe-6469
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gnss-l1l5-band-active-antenna-standard-precision/gnss-l1l5-band-active-antenna-standard-precision-home_default-1.jpg?v=100

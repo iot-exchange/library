@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4240
+ref: mikroe/mikroe-4240
+vendor: mikroe
+sku: mikroe-4240
+name: MIKROE-4240
 description: I2C MUX 4 Click is a compact add-on board that contains a dual bidirectional
   translating switch dedicated for applications with I2C slave address conflicts.
   This board features the TCA9543APWR, a low voltage 2-channel I2C bus switch with
   interrupt logic from Texas Instruments. The master SCL/SDA signals are directed
   to two downstream pairs, or channels,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/i2c-mux-4-click/i2c-mux-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/i2c-mux-4-click
-  repositories: []
-name: MIKROE-4240
-ref: mikroe/mikroe-4240
-release_date: null
-sku: mikroe-4240
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/i2c-mux-4-click/i2c-mux-4-click-home_default-1.jpg?v=100

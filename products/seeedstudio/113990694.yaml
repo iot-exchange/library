@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '113990694'
+ref: seeedstudio/113990694
+vendor: seeedstudio
+sku: '113990694'
+name: '113990694'
 description: This is cat6 ethernet cable with 1-meter length. It suits for Raspberry
   Pi, Cubietruck, Radxa and so forth.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/2/0/20190708153914.png
-  models: []
   products:
   - https://www.seeedstudio.com/Cat6-Ethernet-Cable-1-Meter-p-4086.html
-  repositories: []
-name: '113990694'
-ref: seeedstudio/113990694
-release_date: null
-sku: '113990694'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/2/0/20190708153914.png

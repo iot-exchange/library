@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '110991328'
+ref: seeedstudio/110991328
+vendor: seeedstudio
+sku: '110991328'
+name: '110991328'
 description: Heat Sink Kit for Raspberry Pi 4B - Black Aluminum This is a four-piece
   aluminum heat sink kit to cool the chip on the Raspberry Pi 4B.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/i/m/img_20190828_140340.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Heat-Sink-Kit-for-Raspberry-Pi-4B-Black-Aluminum-p-4209.html
-  repositories: []
-name: '110991328'
-ref: seeedstudio/110991328
-release_date: null
-sku: '110991328'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/i/m/img_20190828_140340.jpg

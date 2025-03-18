@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: battery-lipo1400mah
+ref: olimex/battery-lipo1400mah
+vendor: olimex
+sku: battery-lipo1400mah
+name: BATTERY-LIPO1400mAh
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Power/Lipo-battery/BATTERY-LIPO1400mAh/images/thumbs/200x150/LIPO1400mAh.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Power/Lipo-battery/BATTERY-LIPO1400mAh/
-  repositories: []
-name: BATTERY-LIPO1400mAh
-ref: olimex/battery-lipo1400mah
-release_date: null
-sku: battery-lipo1400mah
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Power/Lipo-battery/BATTERY-LIPO1400mAh/images/thumbs/200x150/LIPO1400mAh.jpg

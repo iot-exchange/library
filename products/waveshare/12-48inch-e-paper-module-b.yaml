@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 12-48inch-e-paper-module-b
+ref: waveshare/12-48inch-e-paper-module-b
+vendor: waveshare
+sku: 12-48inch-e-paper-module-b
+name: 12.48inch e-paper Module (B)
 description: "1304\xD7984, 12.48inch E-Ink display module, red/black/white three-color"
+status: ''
 extra:
   Price: $183.29 - $184.99
-  Price Range: $183.29 - $184.99
   SKU: '17299'
+  Price Range: $183.29 - $184.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/2/12.48inch-e-paper-module-b-1_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/12.48inch-e-paper-module-b.htm
-  repositories: []
-name: 12.48inch e-paper Module (B)
-ref: waveshare/12-48inch-e-paper-module-b
-release_date: null
-sku: 12-48inch-e-paper-module-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/2/12.48inch-e-paper-module-b-1_1.jpg

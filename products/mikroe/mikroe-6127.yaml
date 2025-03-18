@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6127
+ref: mikroe/mikroe-6127
+vendor: mikroe
+sku: mikroe-6127
+name: MIKROE-6127
 description: GNSS 18 Click is a compact add-on board designed for high-precision GNSS
   applications. This board features the SAM-M10Q, M10 standard precision GNSS module
   from u-blox, known for exceptional sensitivity and rapid acquisition of L1 GNSS
   signals. It supports concurrent reception of GPS, Galileo, GLONASS, and BeiDou B1C,
   with additional support for QZSS and...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/gnss-18-click/gnss-18-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/gnss-18-click
-  repositories: []
-name: MIKROE-6127
-ref: mikroe/mikroe-6127
-release_date: null
-sku: mikroe-6127
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/gnss-18-click/gnss-18-click-home_default-1.jpg?v=100

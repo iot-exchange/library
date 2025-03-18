@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 2inch-lcd-module
+ref: waveshare/2inch-lcd-module
+vendor: waveshare
+sku: 2inch-lcd-module
+name: 2inch LCD Module
 description: "2inch LCD Display Module, IPS Screen, 240\xD7320 Resolution, SPI Interface"
+status: ''
 extra:
   Price: $11.31 - $11.99
-  Price Range: $11.31 - $11.99
   SKU: '17344'
+  Price Range: $11.31 - $11.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/i/2inch-lcd-module-6_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/2inch-lcd-module.htm
-  repositories: []
-name: 2inch LCD Module
-ref: waveshare/2inch-lcd-module
-release_date: null
-sku: 2inch-lcd-module
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/i/2inch-lcd-module-6_1.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '2607021183000'
+ref: we/2607021183000
+vendor: we
+sku: '2607021183000'
+name: '2607021183000'
 description: Metis-II Stick
+status: Active i
 extra:
   Expected lifetime: '>10 years.'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/METIS-II#2607021183000
-  repositories: []
-name: '2607021183000'
-ref: we/2607021183000
-release_date: null
-sku: '2607021183000'
-spec: null
-status: Active i
-vendor: we
+  images: []

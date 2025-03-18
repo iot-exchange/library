@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: micro-water-pump
+ref: olimex/micro-water-pump
+vendor: olimex
+sku: micro-water-pump
+name: MICRO-WATER-PUMP
 description: ''
+status: ''
 extra:
   discountedPrice1: 2.70 EUR
   discountedPrice2: 2.40 EUR
   price: 3.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Misc/MICRO-WATER-PUMP/images/thumbs/200x150/PUMP-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Misc/MICRO-WATER-PUMP/
-  repositories: []
-name: MICRO-WATER-PUMP
-ref: olimex/micro-water-pump
-release_date: null
-sku: micro-water-pump
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Misc/MICRO-WATER-PUMP/images/thumbs/200x150/PUMP-1.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: usb-wifi6-ant
+ref: olimex/usb-wifi6-ant
+vendor: olimex
+sku: usb-wifi6-ant
+name: USB-WIFI6-ANT
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/USB-Modules/USB-WIFI6/images/thumbs/200x150/USB-WiFi6-ANT.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/USB-Modules/USB-WIFI6-ANT/
-  repositories: []
-name: USB-WIFI6-ANT
-ref: olimex/usb-wifi6-ant
-release_date: null
-sku: usb-wifi6-ant
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/USB-Modules/USB-WIFI6/images/thumbs/200x150/USB-WiFi6-ANT.jpg

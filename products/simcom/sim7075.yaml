@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: sim7075
+ref: simcom/sim7075
+vendor: simcom
+sku: sim7075
+name: SIM7075
 description: ''
+status: ''
 extra:
   FOTA: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.simcom.com/Uploads/image/20241016/670f9717e149f.png
-  models: []
   products:
   - https://www.simcom.com/product/SIM7075.html
-  repositories: []
-name: SIM7075
-ref: simcom/sim7075
-release_date: null
-sku: sim7075
-spec: null
-status: ''
-vendor: simcom
+  images:
+  - https://www.simcom.com/Uploads/image/20241016/670f9717e149f.png

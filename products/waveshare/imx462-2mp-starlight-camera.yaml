@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: imx462-2mp-starlight-camera
+ref: waveshare/imx462-2mp-starlight-camera
+vendor: waveshare
+sku: imx462-2mp-starlight-camera
+name: IMX462 2MP Starlight Camera
 description: "IMX462 2MP IR-CUT Camera, Starlight Camera Sensor, Onboard ISP, Fixed-Focus,\
   \ Options for 127.9\xB0 / 100.0\xB0 FOV"
+status: ''
 extra:
   Price: $68.99 - $70.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx462-127-2mp-starlight-camera-1_3.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/imx462-127-2mp-starlight-camera.htm
-  repositories: []
-name: IMX462 2MP Starlight Camera
-ref: waveshare/imx462-2mp-starlight-camera
-release_date: null
-sku: imx462-2mp-starlight-camera
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx462-127-2mp-starlight-camera-1_3.jpg

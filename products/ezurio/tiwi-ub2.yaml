@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: tiwi-ub2
+ref: ezurio/tiwi-ub2
+vendor: ezurio
+sku: tiwi-ub2
+name: TiWi-uB2
 description: Bluetooth Module
+status: ''
 extra:
   2MPHY: x
   802.15.4 / Matter / Thread: ''
@@ -8,18 +12,7 @@ extra:
   Classic BT: ''
   LE Long Range: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/tiwi-ub2-bluetooth-smart-ready-module-front1.jpg
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-42-and-40-modules/tiwi-ub2-bluetooth-module
-  repositories: []
-name: TiWi-uB2
-ref: ezurio/tiwi-ub2
-release_date: null
-sku: tiwi-ub2
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/tiwi-ub2-bluetooth-smart-ready-module-front1.jpg

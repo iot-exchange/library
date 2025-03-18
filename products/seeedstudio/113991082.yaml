@@ -1,27 +1,20 @@
-alternatives: []
-certifications: []
+id: '113991082'
+ref: seeedstudio/113991082
+vendor: seeedstudio
+sku: '113991082'
+name: '113991082'
 description: "Zigbee 3.0 USB Dongle Plus\u2013ZBDongle-E is a universal Zigbee USB\
   \ stick. It is based on EFR32MG21 and pre-flashed with the Zigbee coordinator firmware\
   \ based on EZNet 6.10.3 out of box. It can be used as a Zigbee gateway in Home Assistant,\
   \ openHAB, Zigbee2MQTT, or other open-source platforms to locally control all your\
   \ Zigbee devices."
+status: ''
 extra:
   price: $19.90
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/sonoff-zigbee-usb-dongle-plus-p-5510.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110061402_2.jpg
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/6/-/6-113991082-sonoff-zigbee-3.0-usb-dongle-plus-feature.jpg
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/m/a/magnetic_connector_preview-07_1.jpg
-  models: []
-  products:
-  - https://www.seeedstudio.com/sonoff-zigbee-usb-dongle-plus-p-5510.html
-  repositories: []
-name: '113991082'
-ref: seeedstudio/113991082
-release_date: null
-sku: '113991082'
-spec: null
-status: ''
-vendor: seeedstudio

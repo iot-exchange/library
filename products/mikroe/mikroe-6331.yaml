@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-6331
+ref: mikroe/mikroe-6331
+vendor: mikroe
+sku: mikroe-6331
+name: MIKROE-6331
 description: Clicker 4 for STM32F745VGT6 Click, connect, and create! Designed as an
   all-in-one development platform, Clicker 4 for STM32F745VG allows you to create
   gadgets with unique features in no time.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/clicker-4-for-stm32f745vgt6/clicker-4-for-stm32f745vgt6-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/clicker-4-for-stm32f745vgt6
-  repositories: []
-name: MIKROE-6331
-ref: mikroe/mikroe-6331
-release_date: null
-sku: mikroe-6331
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/clicker-4-for-stm32f745vgt6/clicker-4-for-stm32f745vgt6-home_default-1.jpg?v=100

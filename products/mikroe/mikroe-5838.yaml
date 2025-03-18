@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-5838
+ref: mikroe/mikroe-5838
+vendor: mikroe
+sku: mikroe-5838
+name: MIKROE-5838
 description: MRAM 4 Click is a compact add-on board representing a magneto-resistive
   random-access memory solution. This board features the EM064LXQADG13IS1R, an industrial
   STT-MRAM persistent memory from Everspin Technologies. It is a 64Mb MRAM IC RAM
   and can achieve up to 200MHz as a single and double data rate (STR/DTR).
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mram-4-click/mram-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mram-4-click
-  repositories: []
-name: MIKROE-5838
-ref: mikroe/mikroe-5838
-release_date: null
-sku: mikroe-5838
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mram-4-click/mram-4-click-home_default-1.jpg?v=100

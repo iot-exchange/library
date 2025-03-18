@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: esp32-s3-touch-amoled-1-8
+ref: waveshare/esp32-s3-touch-amoled-1-8
+vendor: waveshare
+sku: esp32-s3-touch-amoled-1-8
+name: ESP32-S3-Touch-AMOLED-1.8
 description: "ESP32-S3 1.8inch AMOLED Touch Display Development Board, 32-bit LX7\
   \ Dual-core Processor, 368\xD7448 Pixels, Accelerometer And Gyroscope Sensor, ESP32\
   \ With Display"
+status: ''
 extra:
   Multi Options: ''
   Price: $27.99 -  $29.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/esp32-s3-touch-amoled-1.8.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/d/ddsm-driver-hat-b-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-amoled-1.8-1.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/esp32-s3-touch-amoled-1.8.htm
-  repositories: []
-name: ESP32-S3-Touch-AMOLED-1.8
-ref: waveshare/esp32-s3-touch-amoled-1-8
-release_date: null
-sku: esp32-s3-touch-amoled-1-8
-spec: null
-status: ''
-vendor: waveshare

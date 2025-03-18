@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: '110991944'
+ref: seeedstudio/110991944
+vendor: seeedstudio
+sku: '110991944'
+name: '110991944'
 description: Micro SD Card Tool Kit - 32GB SanDisk SD card, SD card reader, Type-C
   to Type-A function module, 20cm Type-C to Type-A data cable. The Micro SD Card Tool
   Kit is designed to facilitate fast access and efficient management of information
   on SD-supported boards.
+status: ''
 extra:
   price: $16.90
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-104990803-1.47inch-172x320-resolution-lcd-display-module-45font.jpg
-  - https://www.seeedstudio.com/img/af
-  models: []
   products:
   - https://www.seeedstudio.com/Micro-SD-Card-Tool-Kit-p-5772.html
   - https://www.seeedstudio.com/Micro-SD-Card-Tool-Kit.html
-  repositories: []
-name: '110991944'
-ref: seeedstudio/110991944
-release_date: null
-sku: '110991944'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-104990803-1.47inch-172x320-resolution-lcd-display-module-45font.jpg
+  - https://www.seeedstudio.com/img/af

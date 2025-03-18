@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: esp32-pico-kit
+ref: olimex/esp32-pico-kit
+vendor: olimex
+sku: esp32-pico-kit
+name: ESP32-PICO-KIT
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/ESP32/ESP32-PICO-KIT/images/thumbs/200x150/ESP32-PICO-KIT.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/ESP32/ESP32-PICO-KIT/
-  repositories: []
-name: ESP32-PICO-KIT
-ref: olimex/esp32-pico-kit
-release_date: null
-sku: esp32-pico-kit
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32/ESP32-PICO-KIT/images/thumbs/200x150/ESP32-PICO-KIT.jpg

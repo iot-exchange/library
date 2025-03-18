@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: pcf8574-io-expansion-board
+ref: waveshare/pcf8574-io-expansion-board
+vendor: waveshare
+sku: pcf8574-io-expansion-board
+name: PCF8574 IO Expansion Board
 description: PCF8574 IO Expansion Board
+status: ''
 extra:
   Price: $3.39 - $3.99
   SKU: '3708'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcf8574-io-expansion-board-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pcf8574-io-expansion-board.htm
-  repositories: []
-name: PCF8574 IO Expansion Board
-ref: waveshare/pcf8574-io-expansion-board
-release_date: null
-sku: pcf8574-io-expansion-board
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcf8574-io-expansion-board-1.jpg

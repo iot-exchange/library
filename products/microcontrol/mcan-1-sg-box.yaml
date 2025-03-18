@@ -1,0 +1,12 @@
+id: mcan-1-sg-box
+ref: microcontrol/mcan-1-sg-box
+vendor: microcontrol
+sku: mcan-1-sg-box
+name: "\xB5CAN.1.sg-BOX"
+description: 1-channel analogue input strain gauge
+status: ''
+extra: {}
+links:
+  products: []
+  images:
+  - https://www.microcontrol.net/wp-content/uploads/2021/08/Box_1.ai_sg_ti.png

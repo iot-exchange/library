@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: elm327
+ref: olimex/elm327
+vendor: olimex
+sku: elm327
+name: ELM327
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Car/ELM327/images/thumbs/200x150/ELM327a.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Car/ELM327/
-  repositories: []
-name: ELM327
-ref: olimex/elm327
-release_date: null
-sku: elm327
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Car/ELM327/images/thumbs/200x150/ELM327a.jpg

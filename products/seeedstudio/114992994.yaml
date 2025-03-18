@@ -1,27 +1,20 @@
-alternatives: []
-certifications: []
+id: '114992994'
+ref: seeedstudio/114992994
+vendor: seeedstudio
+sku: '114992994'
+name: '114992994'
 description: Formerly known as Home Assistant SkyConnect, Connect ZBT-1 USB stick
   adds Zigbee and future Thread (Matter) support to Home Assistant. It features a
   +20 dBm range, plug-and-play setup, and firmware updates. Built on the Silicon Labs
   EFR32MG21 chipset, it includes a USB extension cable to avoid interference. Best
   used with Zigbee firmware, with Thread support coming soon.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/Home-Assistant-SkyConnect-Connect-ZBT-1-USB-Stick-p-114992994.html
+  - https://www.seeedstudio.com/Home-Assistant-SkyConnect-p-5479.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/103060001_all-first.jpg
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/7/-/7-114992994-ha-skyconnect-feature.jpg
   - https://www.seeedstudio.com/img/an
-  models: []
-  products:
-  - https://www.seeedstudio.com/Home-Assistant-SkyConnect-Connect-ZBT-1-USB-Stick-p-114992994.html
-  - https://www.seeedstudio.com/Home-Assistant-SkyConnect-p-5479.html
-  repositories: []
-name: '114992994'
-ref: seeedstudio/114992994
-release_date: null
-sku: '114992994'
-spec: null
-status: ''
-vendor: seeedstudio

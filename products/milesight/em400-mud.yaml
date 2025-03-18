@@ -1,0 +1,13 @@
+id: em400-mud
+ref: milesight/em400-mud
+vendor: milesight
+sku: em400-mud
+name: EM400-MUD
+description: Multifunctional Distance Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/em400-mud
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/distancelevel-measurement-em400-series/multifunctional-ultrasonic-distance-sensor-em400-mud.png?t=1742198585390

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6430
+ref: mikroe/mikroe-6430
+vendor: mikroe
+sku: mikroe-6430
+name: MIKROE-6430
 description: "SPI Isolator 9 Click is a compact add-on board designed for secure and\
   \ reliable SPI communication across isolated domains. This board features the 4DIR1421H,\
   \ a quad-channel digital isolator from Infineon, known for precise data communication\
   \ and low power consumption. Featuring Infineon's ISOFACE\u2122 Coreless Transformer\
   \ (CT) technology, it provides..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/spi-isolator-9-click/spi-isolator-9-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/spi-isolator-9-click
-  repositories: []
-name: MIKROE-6430
-ref: mikroe/mikroe-6430
-release_date: null
-sku: mikroe-6430
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/spi-isolator-9-click/spi-isolator-9-click-home_default-1.jpg?v=100

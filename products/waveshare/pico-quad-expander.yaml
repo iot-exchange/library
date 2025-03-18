@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: pico-quad-expander
+ref: waveshare/pico-quad-expander
+vendor: waveshare
+sku: pico-quad-expander
+name: Pico-Quad-Expander
 description: Quad GPIO Expander for Raspberry Pi Pico, Four Sets of Male Headers,
   USB Power Connector
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-quad-expander-1_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pico-quad-expander.htm "Quad GPIO Expander for
     Raspberry Pi Pico, Four Sets of Male Headers, USB Power Connector"
-  repositories: []
-name: Pico-Quad-Expander
-ref: waveshare/pico-quad-expander
-release_date: null
-sku: pico-quad-expander
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-quad-expander-1_1.jpg

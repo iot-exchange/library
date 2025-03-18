@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: type-1fx
+ref: murata/type-1fx
+vendor: murata
+sku: type-1fx
+name: Type 1FX
 description: Consumer equipment, Industrial Equipment
+status: ''
 extra:
   Bluetooth: 'No'
   Chipset: CYW43364
@@ -33,18 +37,7 @@ extra:
   Transmit Mode Current (Wi-Fi): 370mA @ 11Mbps
   Wi-Fi: Wi-Fi 4
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth#product-lineup
   - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth#series-lineup
-  repositories: []
-name: Type 1FX
-ref: murata/type-1fx
-release_date: null
-sku: type-1fx
-spec: null
-status: ''
-vendor: murata
+  images: []

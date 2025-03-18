@@ -1,36 +1,29 @@
-alternatives: []
-certifications: []
+id: barra-edge
+ref: digitalmatter/barra-edge
+vendor: digitalmatter
+sku: barra-edge
+name: Barra Edge
 description: Low-cost Indoor/Outdoor battery-powered asset tracker for LTE-M and NB-IoT
   networks
+status: ''
 extra:
-  Accelerometer: Movement, Impact, Rotation, and Tip Detection
   Applications: Equipment Tracking, Non-Powered Asset Tracking
+  Connectivity: LTE-M and NB-IoT
+  Features: 3-Axis Accelerometer, Indoor / Outdoor, IP68 Rated
+  Power: Battery-Powered
+  Accelerometer: Movement, Impact, Rotation, and Tip Detection
   Batteries: 2 x AA Lithium
   Battery Life Estimates (Movement-Based Location Updates): 5 years
   Battery Life Estimates (Once Daily Location Updates): 10 years
   "Bluetooth\xAE Gateway": 'Yes'
   Cloud-Based Location Solving: 'Yes'
-  Connectivity: LTE-M and NB-IoT
   Environment: Indoor/Outdoor
-  Features: 3-Axis Accelerometer, Indoor / Outdoor, IP68 Rated
   Housing Size: 149 x 51 x 21 mm (5.9 x 2.0 x 0.8 in)
   IP Rating: IP68 Rugged Waterproof
   Location Technologies: Wi-Fi Scanning, Cell Tower Location, GNSS Scanning
   Magnet: Magnetic Activation and Tamper Detection
-  Power: Battery-Powered
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.digitalmatter.com/wp-content/uploads/2023/09/Barra-Top-Digital-Matter-1.png
-  models: []
   products:
   - https://www.digitalmatter.com/devices/barra-edge/
-  repositories: []
-name: Barra Edge
-ref: digitalmatter/barra-edge
-release_date: null
-sku: barra-edge
-spec: null
-status: ''
-vendor: digitalmatter
+  images:
+  - https://www.digitalmatter.com/wp-content/uploads/2023/09/Barra-Top-Digital-Matter-1.png

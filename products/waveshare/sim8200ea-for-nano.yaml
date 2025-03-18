@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: sim8200ea-for-nano
+ref: waveshare/sim8200ea-for-nano
+vendor: waveshare
+sku: sim8200ea-for-nano
+name: sim8200ea_for_nano
 description: SIM8200EA-M2 5G Module Designed for Jetson Nano, 5G/4G/3G, Snapdragon
   X55, Multi Mode Multi Band
+status: ''
 extra:
   Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim8200ea-m2-5g-for-jetson-nano-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/sim8200ea-m2-5g-for-jetson-nano.htm
-  repositories: []
-name: sim8200ea_for_nano
-ref: waveshare/sim8200ea-for-nano
-release_date: null
-sku: sim8200ea-for-nano
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim8200ea-m2-5g-for-jetson-nano-1.jpg

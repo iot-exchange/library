@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: n512
+ref: neoway/n512
+vendor: neoway
+sku: n512
+name: N512
 description: N512 is a 5G cellular module that is designed for IoT dedicatedly.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.neoway.com/Uploads/Picture/2022/06/16/s62aad67e3c60a.png
-  models: []
   products:
   - https://www.neoway.com/products/wireless-communication/1483.html
-  repositories: []
-name: N512
-ref: neoway/n512
-release_date: null
-sku: n512
-spec: null
-status: ''
-vendor: neoway
+  images:
+  - https://www.neoway.com/Uploads/Picture/2022/06/16/s62aad67e3c60a.png

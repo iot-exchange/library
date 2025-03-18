@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: hdmi-extender-kit
+ref: waveshare/hdmi-extender-kit
+vendor: waveshare
+sku: hdmi-extender-kit
+name: HDMI-EXTENDER-KIT
 description: HDMI Signal Extender, 1080P High-definition & lossless transmission,
   transmission distance up to 50m
+status: ''
 extra:
   Price: $17.31 - $17.99
   SKU: '24017'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-extender-kit-1.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/o/monitor-arm-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/hdmi-extender-kit.htm
   - https://www.waveshare.com/product/monitor-arm.htm
-  repositories: []
-name: HDMI-EXTENDER-KIT
-ref: waveshare/hdmi-extender-kit
-release_date: null
-sku: hdmi-extender-kit
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/h/d/hdmi-extender-kit-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/o/monitor-arm-1.jpg

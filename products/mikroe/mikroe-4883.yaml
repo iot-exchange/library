@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4883
+ref: mikroe/mikroe-4883
+vendor: mikroe
+sku: mikroe-4883
+name: MIKROE-4883
 description: DC Motor 19 Click is a compact add-on board that contains a brushed DC
   motor driver. This board features the TC78H653FTG, a dual H-bridge driver for one
   or two DC brushed motors or one stepping motor, which incorporates DMOS with low
   ON resistance in output transistors from Toshiba Semiconductor. The Forward/Reverse/Brake/Stop
   mode can be selected...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/dc-motor-19-click/dc-motor-19-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/dc-motor-19-click
-  repositories: []
-name: MIKROE-4883
-ref: mikroe/mikroe-4883
-release_date: null
-sku: mikroe-4883
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dc-motor-19-click/dc-motor-19-click-home_default-1.jpg?v=100

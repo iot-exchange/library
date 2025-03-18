@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-zero-2-w
+ref: raspberrypi/raspberry-pi-zero-2-w
+vendor: raspberrypi
+sku: raspberry-pi-zero-2-w
+name: Raspberry Pi Zero 2 W
 description: Your tiny, tiny $15 computer
+status: ''
 extra:
   price: $15
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/2b38cb46c40494a538a04cc2340874a1/3f4ea/3fe7f109-d614-4030-92cd-4bfff10d80aa_Raspberry%2BPi%2BZero%2B2%2BW%2BHero%2BWEB%2BRES.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/
-  repositories: []
-name: Raspberry Pi Zero 2 W
-ref: raspberrypi/raspberry-pi-zero-2-w
-release_date: null
-sku: raspberry-pi-zero-2-w
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/2b38cb46c40494a538a04cc2340874a1/3f4ea/3fe7f109-d614-4030-92cd-4bfff10d80aa_Raspberry%2BPi%2BZero%2B2%2BW%2BHero%2BWEB%2BRES.jpg

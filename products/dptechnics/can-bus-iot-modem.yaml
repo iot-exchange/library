@@ -1,0 +1,21 @@
+id: can-bus-iot-modem
+ref: dptechnics/can-bus-iot-modem
+vendor: dptechnics
+sku: can-bus-iot-modem
+name: CAN-bus IoT modem
+description: The CAN-bus IoT-Modem is an industrial version of the DPT-Board which
+  can control a CAN-bus and a I2C bus. The module has all the power the DPT-Board
+  offers but in an industrial grade version. Together with the range of CAN-bus modules
+  large and reliable systems can be built.
+status: ''
+extra:
+  Coprocessor: ARM Cortex-M0
+  Expansion Interfaces: CAN-bus, I2C, ethernet, WiFi, USB2.0
+  Mounting: DIN-rail housing
+  Operating System: DPT-Board operating system derived from OpenWRT linux
+  Power Supply Voltage: 12V to 24V
+  Processor: AR9331 System-on-Chip from Atheros Qualcomm and STM32F0xx series microcontroller
+links:
+  products: []
+  images:
+  - https://www.dptechnics.com/images/product/iot-modem.jpg

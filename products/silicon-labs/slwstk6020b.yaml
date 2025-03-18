@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: slwstk6020b
+ref: silicon-labs/slwstk6020b
+vendor: silicon-labs
+sku: slwstk6020b
+name: SLWSTK6020B
 description: EFR32BG Bluetooth SoC Starter Kit
+status: ''
 extra:
   MSRP: $191.00
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/bluetooth/efr32bg-bluetooth-soc-starter-kit
-  repositories: []
-name: SLWSTK6020B
-ref: silicon-labs/slwstk6020b
-release_date: null
-sku: slwstk6020b
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

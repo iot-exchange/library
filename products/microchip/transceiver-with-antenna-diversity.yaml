@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: transceiver-with-antenna-diversity
+ref: microchip/transceiver-with-antenna-diversity
+vendor: microchip
+sku: transceiver-with-antenna-diversity
+name: Transceiver with Antenna Diversity
 description: ''
+status: ''
 extra:
   Max Frequency (GHz): ''
   "Max Operating Temp (\xB0C)": '105'
@@ -13,16 +17,5 @@ extra:
   Package: 32/VQFN
   Qty: '20'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Transceiver with Antenna Diversity
-ref: microchip/transceiver-with-antenna-diversity
-release_date: null
-sku: transceiver-with-antenna-diversity
-spec: null
-status: ''
-vendor: microchip
+  images: []

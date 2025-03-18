@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-6088
+ref: mikroe/mikroe-6088
+vendor: mikroe
+sku: mikroe-6088
+name: MIKROE-6088
 description: "B102C Click is a compact add-on board designed for Bluetooth 5.0 (BLE)\
   \ communication in various wireless applications. This board features the B102C,\
   \ a Bluetooth module from Amphenol based on the Realtek RTL8762CMF chip. The board\
   \ offers BLE v5.0 support, a 20MHz Arm\xAE Cortex\xAE M4F processor, and an integrated\
   \ antenna for 2.4GHz communication, with..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/b102c-click/b102c-click-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/color-18-click/color-18-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/b102c-click
   - https://www.mikroe.com/color-18-click
-  repositories: []
-name: MIKROE-6088
-ref: mikroe/mikroe-6088
-release_date: null
-sku: mikroe-6088
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/b102c-click/b102c-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/color-18-click/color-18-click-home_default-1.jpg?v=100

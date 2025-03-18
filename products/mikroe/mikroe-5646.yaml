@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-5646
+ref: mikroe/mikroe-5646
+vendor: mikroe
+sku: mikroe-5646
+name: MIKROE-5646
 description: "CO2 3 Click is a compact add-on board that allows for precise and reliable\
   \ indoor air quality measurements. This board features XENSIV\u2122 PASCO2V01BUMA1,\
   \ a highly accurate CO2 sensor module from Infineon Technologies."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/co2-3-click/co2-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/co2-3-click
-  repositories: []
-name: MIKROE-5646
-ref: mikroe/mikroe-5646
-release_date: null
-sku: mikroe-5646
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/co2-3-click/co2-3-click-home_default-1.jpg?v=100

@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: '102110919'
+ref: seeedstudio/102110919
+vendor: seeedstudio
+sku: '102110919'
+name: '102110919'
 description: Raspberry Pi Fifth Flagship Development Computer is assembled with a
   powerful 2.4GHz 64-bit quad-core Arm processor and an 800MHz VideoCore VII GPU for
   impressive graphics. It offers advanced camera support, versatile connectivity,
   and enhanced peripherals, perfect for multimedia, gaming, and industrial tasks.
+status: ''
 extra:
   GPU: 800MHz VideoCore VII
   Processor: 2.4GHz 64-bit quad-core
   RAM: 8GB
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102110919-raspberry-pi-5-8gb-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-5-8GB-p-5810.html
-  repositories: []
-name: '102110919'
-ref: seeedstudio/102110919
-release_date: null
-sku: '102110919'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102110919-raspberry-pi-5-8gb-45font.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: fpc-cable-for-rock-5
+ref: radxa/fpc-cable-for-rock-5
+vendor: radxa
+sku: fpc-cable-for-rock-5
+name: FPC Cable for ROCK 5
 description: Camera 8M 219 on ROCK 5
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/accessories/ac008/thumb_rock5_camera_8m219.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/fpc-cable-008
-  repositories: []
-name: FPC Cable for ROCK 5
-ref: radxa/fpc-cable-for-rock-5
-release_date: null
-sku: fpc-cable-for-rock-5
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/accessories/ac008/thumb_rock5_camera_8m219.webp

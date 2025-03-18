@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: ms48-lr
+ref: dragino/ms48-lr
+vendor: dragino
+sku: ms48-lr
+name: MS48-LR
 description: LoRaWAN To Modbus Gateway. Managed by Web GUI, SSH via WAN or WiFi.
+status: ''
 extra:
   Features: Remote Management, Auto-provisioning
   System: Open Source Debian
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/eefd4fe8f589e64e0e66a4f2937ae4ae_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lora-lorawan-gateway/item/320-ms48-lr.html
-  repositories: []
-name: MS48-LR
-ref: dragino/ms48-lr
-release_date: null
-sku: ms48-lr
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/eefd4fe8f589e64e0e66a4f2937ae4ae_L.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: usb-to-uart-i2c-spi-jtag
+ref: waveshare/usb-to-uart-i2c-spi-jtag
+vendor: waveshare
+sku: usb-to-uart-i2c-spi-jtag
+name: USB TO UART/I2C/SPI/JTAG
 description: USB To UART/I2C/SPI/JTAG Converter, Supports Multiple Interfaces, Compatible
   with 3.3V and 5V
+status: ''
 extra:
   Price: $13.31  -  $13.99
   SKU: '25411'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-uart-i2c-spi-jtag-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-to-uart-i2c-spi-jtag.htm
-  repositories: []
-name: USB TO UART/I2C/SPI/JTAG
-ref: waveshare/usb-to-uart-i2c-spi-jtag
-release_date: null
-sku: usb-to-uart-i2c-spi-jtag
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-uart-i2c-spi-jtag-1.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6316
+ref: mikroe/mikroe-6316
+vendor: mikroe
+sku: mikroe-6316
+name: MIKROE-6316
 description: RS485 Isolator 4 Click is a compact add-on board designed for robust
   RS-485 and RS-422 half-duplex communication with galvanic isolation. This board
   features the ISO1450, a 5kVRMS isolated RS-485 transceiver from Texas Instruments.
   The ISO1450 supports data rates up to 50Mbps and features advanced protection against
   electrostatic discharge (ESD) and...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/rs485-isolator-4-click/rs485-isolator-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/rs485-isolator-4-click
-  repositories: []
-name: MIKROE-6316
-ref: mikroe/mikroe-6316
-release_date: null
-sku: mikroe-6316
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/rs485-isolator-4-click/rs485-isolator-4-click-home_default-1.jpg?v=100

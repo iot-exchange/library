@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: esp32-pico-mini-02
+ref: espressif/esp32-pico-mini-02
+vendor: espressif
+sku: esp32-pico-mini-02
+name: ESP32-PICO-MINI-02
 description: "ESP32-PICO-MINI-02 is a small-sized powerful Wi-Fi+Bluetooth\xAE+Bluetooth\xAE\
   \ LE MCU module. It is based on ESP32-PICO-V3-02, a System-in-Package (SiP) device,\
   \ which integrates an 8 MB SPI flash, 2 MB SPI Pseudo static RAM (PSRAM) and 40\
@@ -7,6 +10,7 @@ description: "ESP32-PICO-MINI-02 is a small-sized powerful Wi-Fi+Bluetooth\xAE+B
   \ from home automation, smart building, consumer electronics to industrial control,\
   \ and it is suitable for intelligent speakers, speech recognition toys, intelligent\
   \ gateway and Ethernet, etc."
+status: ''
 extra:
   Antenna: PCB antenna
   Development Board: ESP32-PICO-DevKitM-2
@@ -15,18 +19,7 @@ extra:
   PSRAM: 2 MB embedded in chip
   Pins: '53'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP32-PICO-V3-ZERO%20S.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp32-pico-mini-02_datasheet_en.pdf
-  repositories: []
-name: ESP32-PICO-MINI-02
-ref: espressif/esp32-pico-mini-02
-release_date: null
-sku: esp32-pico-mini-02
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-PICO-V3-ZERO%20S.png

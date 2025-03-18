@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: d20-d20s-lb
+ref: dragino/d20-d20s-lb
+vendor: dragino
+sku: d20-d20s-lb
+name: D20/D20S-LB
 description: LoRaWAN Waterproof /Outdoor Temperature Sensor
+status: ''
 extra:
   1 x DS18B20 Temperature sensor, 2 meters: ''
   Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865
@@ -10,18 +14,7 @@ extra:
   Support wireless OTA update firmware: ''
   Temperature alarm: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/a07bb170c4a36161aa1f8f4859c19794_L.jpg
-  models: []
   products:
   - https://dragino.com/products/temperature-humidity-sensor/item/259-d20-d20s-lb-d20-d20s-ls.html
-  repositories: []
-name: D20/D20S-LB
-ref: dragino/d20-d20s-lb
-release_date: null
-sku: d20-d20s-lb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/a07bb170c4a36161aa1f8f4859c19794_L.jpg

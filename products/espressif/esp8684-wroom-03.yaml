@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: esp8684-wroom-03
+ref: espressif/esp8684-wroom-03
+vendor: espressif
+sku: esp8684-wroom-03
+name: ESP8684-WROOM-03
 description: The ESP8684-WROOM-03 module is based on ESP8684, and can be vertically
   soldered to a PCB board. It has 8 GPIOs, and supports UART, I2C, PWM, etc.
+status: ''
 extra:
   Antenna: PCB antenna
   Chip Embedded: ESP8684H2ESP8684H4
@@ -9,18 +13,7 @@ extra:
   Flash (MB): 2, 4
   Pins: '11'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP8684-WROOM-03%20S_1.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp8684-wroom-03_datasheet_en.pdf
-  repositories: []
-name: ESP8684-WROOM-03
-ref: espressif/esp8684-wroom-03
-release_date: null
-sku: esp8684-wroom-03
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP8684-WROOM-03%20S_1.png

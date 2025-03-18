@@ -1,0 +1,14 @@
+id: beagley-ai
+ref: beagleboard/beagley-ai
+vendor: beagleboard
+sku: beagley-ai
+name: BeagleY-AI
+description: In an industry-popular business-card-sized form-factor, BeagleY-AI brings
+  open source hardware, real-time microcontrollers, and 4 TOPS in a fanless design.
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.beagleboard.org/boards/beagley-ai
+  images:
+  - https://www.beagleboard.org/app/uploads/2024/03/BeagleY-AI-angled-front-1-400x267.webp

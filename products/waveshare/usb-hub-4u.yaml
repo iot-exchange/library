@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: usb-hub-4u
+ref: waveshare/usb-hub-4u
+vendor: waveshare
+sku: usb-hub-4u
+name: usb_hub_4u
 description: Industrial Grade USB HUB, Extending 4x USB 2.0 Ports
+status: ''
 extra:
-  Multi Options: ''
   Price: $14.99 - $16.99
+  Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-hub-4u-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-hub-4u.htm
   - https://www.waveshare.com/product/usb-hub-4u.htm "Industrial Grade USB HUB, Extending
     4x USB 2.0 Ports"
-  repositories: []
-name: usb_hub_4u
-ref: waveshare/usb-hub-4u
-release_date: null
-sku: usb-hub-4u
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-hub-4u-1.jpg

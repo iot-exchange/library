@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lcd-olinuxino-15-6fhd
+ref: olimex/lcd-olinuxino-15-6fhd
+vendor: olimex
+sku: lcd-olinuxino-15-6fhd
+name: LCD-OLinuXino-15.6FHD
 description: ''
+status: ''
 extra:
   discountedPrice1: 71.25 EUR
   discountedPrice2: 67.50 EUR
   price: 75.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/LCD/LCD-OLinuXino-15.6FHD/images/thumbs/200x150/LCD-OLinuXino-15-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/LCD/LCD-OLinuXino-15.6FHD/open-source-hardware
-  repositories: []
-name: LCD-OLinuXino-15.6FHD
-ref: olimex/lcd-olinuxino-15-6fhd
-release_date: null
-sku: lcd-olinuxino-15-6fhd
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/LCD/LCD-OLinuXino-15.6FHD/images/thumbs/200x150/LCD-OLinuXino-15-1.jpg

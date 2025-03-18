@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: health-check-service-for-hub-2
+ref: insteon/health-check-service-for-hub-2
+vendor: insteon
+sku: health-check-service-for-hub-2
+name: Health Check Service for Hub 2
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/files/ND-Service.png?v=1711296702&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/health-check-service
-  repositories: []
-name: Health Check Service for Hub 2
-ref: insteon/health-check-service-for-hub-2
-release_date: null
-sku: health-check-service-for-hub-2
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/files/ND-Service.png?v=1711296702&width=533

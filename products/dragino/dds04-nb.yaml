@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: dds04-nb
+ref: dragino/dds04-nb
+vendor: dragino
+sku: dds04-nb
+name: DDS04-NB
 description: NB-IoT 4-Channels Distance Detection Sensor
+status: ''
 extra:
   Battery: 8500mAh Battery for long term use
   Channels: 'max: 4 x Distance Detect Channels'
   NB-IoT Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85 @H-FDD
   Power Consumption: Ultra-low
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/f5ddf7bd97d01d87f4a7985398aea709_L.jpg
-  models: []
   products:
   - https://dragino.com/products/distance-level-sensor/item/312-dds04-nb.html
-  repositories: []
-name: DDS04-NB
-ref: dragino/dds04-nb
-release_date: null
-sku: dds04-nb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/f5ddf7bd97d01d87f4a7985398aea709_L.jpg

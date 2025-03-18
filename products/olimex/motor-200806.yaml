@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: motor-200806
+ref: olimex/motor-200806
+vendor: olimex
+sku: motor-200806
+name: MOTOR-200806
 description: ''
+status: ''
 extra:
   price1: 0.95 EUR
   price2: 0.86 EUR
   price3: 0.76 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/MOTOR-200806/images/thumbs/200x150/MOTOR-200806.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/MOTOR-200806/
-  repositories: []
-name: MOTOR-200806
-ref: olimex/motor-200806
-release_date: null
-sku: motor-200806
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Micro-Motors/MOTOR-200806/images/thumbs/200x150/MOTOR-200806.jpg

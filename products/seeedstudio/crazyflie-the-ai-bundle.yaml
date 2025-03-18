@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: crazyflie-the-ai-bundle
+ref: seeedstudio/crazyflie-the-ai-bundle
+vendor: seeedstudio
+sku: crazyflie-the-ai-bundle
+name: Crazyflie The AI Bundle
 description: The AI bundle contains everything you need to get started with your flying
   AI application. Transform your Crazyflie drone into a stunning work of art by customizing
   it with colours RGB LEDs!
+status: ''
 extra:
   price: $50.00 - $277.00
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.seeedstudio.com/Crazyfile-The-AI-Bundle.html
-  repositories: []
-name: Crazyflie The AI Bundle
-ref: seeedstudio/crazyflie-the-ai-bundle
-release_date: null
-sku: crazyflie-the-ai-bundle
-spec: null
-status: ''
-vendor: seeedstudio
+  images: []

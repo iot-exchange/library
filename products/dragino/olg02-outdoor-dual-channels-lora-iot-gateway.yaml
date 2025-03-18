@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: olg02-outdoor-dual-channels-lora-iot-gateway
+ref: dragino/olg02-outdoor-dual-channels-lora-iot-gateway
+vendor: dragino
+sku: olg02-outdoor-dual-channels-lora-iot-gateway
+name: OLG02 Outdoor Dual Channels LoRa IoT Gateway
 description: Outdoor Dual Channels LoRa IoT Gateway. Wireless 433/868/915/920Mhz Open
   Source Openwrt For Private LoRa Protocol, Not compatible with LoRaWAN. EOL, Not
   recommended for new users.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/5d9bd784bfd234610bf8ba15e7ad6a4e_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lora-lorawan-gateway/item/136-olg02.html
-  repositories: []
-name: OLG02 Outdoor Dual Channels LoRa IoT Gateway
-ref: dragino/olg02-outdoor-dual-channels-lora-iot-gateway
-release_date: null
-sku: olg02-outdoor-dual-channels-lora-iot-gateway
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/5d9bd784bfd234610bf8ba15e7ad6a4e_L.jpg

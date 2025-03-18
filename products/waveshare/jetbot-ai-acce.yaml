@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: jetbot-ai-acce
+ref: waveshare/jetbot-ai-acce
+vendor: waveshare
+sku: jetbot-ai-acce
+name: jetbot_ai_acce
 description: JetBot AI Kit Accessories, Add-ons for Jetson Nano to Build JetBot
+status: ''
 extra:
   Price: $105.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetbot-ai-kit-4__2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/jetbot-ai-kit-acce.htm
-  repositories: []
-name: jetbot_ai_acce
-ref: waveshare/jetbot-ai-acce
-release_date: null
-sku: jetbot-ai-acce
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetbot-ai-kit-4__2.jpg

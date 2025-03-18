@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: le910r1-series
+ref: telit/le910r1-series
+vendor: telit
+sku: le910r1-series
+name: LE910R1 Series
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2023/12/LE910R1-295x200.png
-  models: []
   products:
   - https://www.telit.com/devices/le910r1-series/
-  repositories: []
-name: LE910R1 Series
-ref: telit/le910r1-series
-release_date: null
-sku: le910r1-series
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2023/12/LE910R1-295x200.png

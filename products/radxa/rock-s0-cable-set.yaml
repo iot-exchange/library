@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rock-s0-cable-set
+ref: radxa/rock-s0-cable-set
+vendor: radxa
+sku: rock-s0-cable-set
+name: ROCK S0 Cable Set
 description: Specialized for ROCK S0
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/accessories/dk050/thumb_rock_s0_cable_set.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/rock-s0-cable-set
-  repositories: []
-name: ROCK S0 Cable Set
-ref: radxa/rock-s0-cable-set
-release_date: null
-sku: rock-s0-cable-set
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/accessories/dk050/thumb_rock_s0_cable_set.webp

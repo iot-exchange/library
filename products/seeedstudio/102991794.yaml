@@ -1,28 +1,21 @@
-alternatives: []
-certifications: []
+id: '102991794'
+ref: seeedstudio/102991794
+vendor: seeedstudio
+sku: '102991794'
+name: '102991794'
 description: Arduino Nano ESP32 is a compact board with a powerful ESP32S3 microcontroller
   running up to 240 MHz. It offers 2.4 GHz Wi-Fi and Bluetooth, and comes with a wide
   range of peripherals. This board supports MicroPython and Arduino and includes a
   MicroPython 101 course for easy programming guidance.
+status: ''
 extra:
   Microcontroller: ESP32S3
   Price: $20.00
   Type: Development Board
   price: $20.00
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/Arduino-Nano-ESP32-without-headers-p-5718.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102991794_00.default_804x603_1.jpg
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/m/i/minima1.png
-  models: []
-  products:
-  - https://www.seeedstudio.com/Arduino-Nano-ESP32-without-headers-p-5718.html
-  repositories: []
-name: '102991794'
-ref: seeedstudio/102991794
-release_date: null
-sku: '102991794'
-spec: null
-status: ''
-vendor: seeedstudio

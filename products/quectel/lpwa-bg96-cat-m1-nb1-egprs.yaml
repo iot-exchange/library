@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: lpwa-bg96-cat-m1-nb1-egprs
+ref: quectel/lpwa-bg96-cat-m1-nb1-egprs
+vendor: quectel
+sku: lpwa-bg96-cat-m1-nb1-egprs
+name: LPWA BG96 Cat M1/NB1/EGPRS
 description: ARM Cortex A7  Cat M  Cat NB1  EDGE  GNSS (optional)  GPRS  USB 2.0
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.quectel.com/content/uploads/2024/03/BG96_Layered.png
-  models: []
   products:
   - https://www.quectel.com/product/lpwa-bg96-cat-m1-nb1-egprs/
-  repositories: []
-name: LPWA BG96 Cat M1/NB1/EGPRS
-ref: quectel/lpwa-bg96-cat-m1-nb1-egprs
-release_date: null
-sku: lpwa-bg96-cat-m1-nb1-egprs
-spec: null
-status: ''
-vendor: quectel
+  images:
+  - https://www.quectel.com/content/uploads/2024/03/BG96_Layered.png

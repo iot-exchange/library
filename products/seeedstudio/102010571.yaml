@@ -1,28 +1,21 @@
-alternatives: []
-certifications: []
+id: '102010571'
+ref: seeedstudio/102010571
+vendor: seeedstudio
+sku: '102010571'
+name: '102010571'
 description: Raspberry Pi Pico H is equipped with the powerful RP2040 chip, features
   high performance and rich on-board interfaces/resources, yet offered a relatively
   low price. It is perfectly designed for the beginners to electronics, pretty suitable
   for IoT controlling applications. Raspberry Pi Pico H is a version with pre-soldered
   male headers on all through-holes and a 3-pin debug connector. The pitch remains
   2.54mm and is breadboard compatible.
+status: ''
 extra:
   discount: $2.60 (10%)
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/0/1/01_all-04.png
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/w/e/wechatimg496_4.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-Pico-H-p-5936.html
   - https://www.seeedstudio.com/Seeed-Studio-XIAO-nRF52840-3PCS-p-5921.html
-  repositories: []
-name: '102010571'
-ref: seeedstudio/102010571
-release_date: null
-sku: '102010571'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/0/1/01_all-04.png
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/w/e/wechatimg496_4.jpg

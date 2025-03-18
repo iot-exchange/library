@@ -1,8 +1,12 @@
-alternatives: []
-certifications: []
+id: esp32-lyrat-mini
+ref: espressif/esp32-lyrat-mini
+vendor: espressif
+sku: esp32-lyrat-mini
+name: ESP32-LyraT-Mini
 description: ESP32-LyraT-Mini is a lightweight audio development board based on ESP32-WROVER-E,
   which implements AEC, AGC, NS WWE (wake word engine) and other audio signal processing
   technologies.
+status: ''
 extra:
   ADC: ''
   Flash: 8 MB
@@ -13,17 +17,6 @@ extra:
   SDIO: ''
   UART: ''
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://docs.espressif.com/projects/esp-adf/en/latest/design-guide/dev-boards/get-started-esp32-lyrat-mini.html
-  repositories: []
-name: ESP32-LyraT-Mini
-ref: espressif/esp32-lyrat-mini
-release_date: null
-sku: esp32-lyrat-mini
-spec: null
-status: ''
-vendor: espressif
+  images: []

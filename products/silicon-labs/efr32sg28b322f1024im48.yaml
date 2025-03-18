@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: efr32sg28b322f1024im48
+ref: silicon-labs/efr32sg28b322f1024im48
+vendor: silicon-labs
+sku: efr32sg28b322f1024im48
+name: EFR32SG28B322F1024IM48
 description: ''
+status: ''
 extra:
   BLE: 'Yes'
   CSS: 'No'
@@ -13,17 +17,6 @@ extra:
   Recommended Kit: EFR32xG28 Pro Kit +20 dBm
   Secure Vault: 'Yes'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/wireless/amazon-sidewalk/efr32sg28-dual-band-wireless-socs/device.efr32sg28b322f1024im48
-  repositories: []
-name: EFR32SG28B322F1024IM48
-ref: silicon-labs/efr32sg28b322f1024im48
-release_date: null
-sku: efr32sg28b322f1024im48
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

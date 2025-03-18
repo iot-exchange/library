@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: heatsink-2513
+ref: radxa/heatsink-2513
+vendor: radxa
+sku: heatsink-2513
+name: Heatsink 2513
 description: Specialized for ROCK 5A
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/heatsink/ae007/thumb_heatsink_2513.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/heatsink-2513
-  repositories: []
-name: Heatsink 2513
-ref: radxa/heatsink-2513
-release_date: null
-sku: heatsink-2513
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/heatsink/ae007/thumb_heatsink_2513.webp

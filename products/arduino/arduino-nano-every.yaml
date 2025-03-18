@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: arduino-nano-every
+ref: arduino/arduino-nano-every
+vendor: arduino
+sku: arduino-nano-every
+name: Arduino Nano Every
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.arduino.cc/wiki/static/ef5255409b15057749730f6cf44b07ac/4b190/nano-every.jpg
-  models: []
   products:
   - https://store.arduino.cc/products/arduino-nano-every
-  repositories: []
-name: Arduino Nano Every
-ref: arduino/arduino-nano-every
-release_date: null
-sku: arduino-nano-every
-spec: null
-status: ''
-vendor: arduino
+  images:
+  - https://www.arduino.cc/wiki/static/ef5255409b15057749730f6cf44b07ac/4b190/nano-every.jpg

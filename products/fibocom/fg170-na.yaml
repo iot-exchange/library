@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: fg170-na
+ref: fibocom/fg170-na
+vendor: fibocom
+sku: fg170-na
+name: FG170-NA
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/5G-FG170-NA.html
-  repositories: []
-name: FG170-NA
-ref: fibocom/fg170-na
-release_date: null
-sku: fg170-na
-spec: null
-status: ''
-vendor: fibocom
+  images: []

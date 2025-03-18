@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: vc6328
+ref: vertexcom/vc6328
+vendor: vertexcom
+sku: vc6328
+name: VC6328
 description: China SGCC Q/GDW 11612, IEEE 1901.1
+status: ''
 extra:
   Body Size(mm): 10x10
   Flash: N/A
@@ -8,17 +12,6 @@ extra:
   SDRAM: 8 MB
   Standards: China SGCC Q/GDW 11612, IEEE 1901.1
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - http://www.vertexcom.com/doc/VC632X_Product_Brief_V1.0.pdf
-  repositories: []
-name: VC6328
-ref: vertexcom/vc6328
-release_date: null
-sku: vc6328
-spec: null
-status: ''
-vendor: vertexcom
+  images: []

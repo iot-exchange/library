@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4648
+ref: mikroe/mikroe-4648
+vendor: mikroe
+sku: mikroe-4648
+name: MIKROE-4648
 description: Brushless 14 Click is a compact add-on board suitable for controlling
   BLDC motors with any MCU. This board features the TB67B001FTG, a three-phase, brushless,
   Hall sensorless driver IC from Toshiba Semiconductor. It comes with a 150-degree
   wide-angle commutation drive, contributing to lower vibration and motor noise, while
   a rotation speed up to 30,000rpm...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/brushless-14-click/brushless-14-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/brushless-14-click
-  repositories: []
-name: MIKROE-4648
-ref: mikroe/mikroe-4648
-release_date: null
-sku: mikroe-4648
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/brushless-14-click/brushless-14-click-home_default-1.jpg?v=100

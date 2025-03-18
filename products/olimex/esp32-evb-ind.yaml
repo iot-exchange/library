@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: esp32-evb-ind
+ref: olimex/esp32-evb-ind
+vendor: olimex
+sku: esp32-evb-ind
+name: ESP32-EVB-IND
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/ESP32/ESP32-EVB/images/thumbs/200x150/ESP32-EVB-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/ESP32/ESP32-EVB-IND/open-source-hardware
-  repositories: []
-name: ESP32-EVB-IND
-ref: olimex/esp32-evb-ind
-release_date: null
-sku: esp32-evb-ind
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32/ESP32-EVB/images/thumbs/200x150/ESP32-EVB-1.jpg

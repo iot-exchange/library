@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4903
+ref: mikroe/mikroe-4903
+vendor: mikroe
+sku: mikroe-4903
+name: MIKROE-4903
 description: Altitude 6 Click is a compact add-on board that allows height measurement
   of an object or point related to sea level or ground level. This board features
   the MS5611-01BA03, a high-resolution barometric pressure sensor optimized for altimeter
   applications with an altitude resolution of 10 cm from TE Connectivity. It consists
   of a high linearity pressure...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/altitude-6-click/altitude-6-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=72#Altitude6Click
-  repositories: []
-name: MIKROE-4903
-ref: mikroe/mikroe-4903
-release_date: null
-sku: mikroe-4903
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/altitude-6-click/altitude-6-click-home_default-1.jpg?v=100

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: a7600c1-cat-1-gsm-gprs-hat
+ref: waveshare/a7600c1-cat-1-gsm-gprs-hat
+vendor: waveshare
+sku: a7600c1-cat-1-gsm-gprs-hat
+name: A7600C1 Cat-1/GSM/GPRS HAT
 description: A7600C1 LTE Cat-1 HAT for Raspberry Pi, Low Speed 4G Module, 2G GSM /
   GPRS, for China
+status: ''
 extra:
   Price: $32.29 - $33.99
   SKU: '18700'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/7/a7600c1-cat-1-gsm-gprs-hat-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/a7600c1-cat-1-gsm-gprs-hat.htm
-  repositories: []
-name: A7600C1 Cat-1/GSM/GPRS HAT
-ref: waveshare/a7600c1-cat-1-gsm-gprs-hat
-release_date: null
-sku: a7600c1-cat-1-gsm-gprs-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/a/7/a7600c1-cat-1-gsm-gprs-hat-1.jpg

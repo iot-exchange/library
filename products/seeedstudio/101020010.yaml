@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '101020010'
+ref: seeedstudio/101020010
+vendor: seeedstudio
+sku: '101020010'
+name: '101020010'
 description: Grove - Ultrasonic Distance Sensor is an ultrasonic transducer that utilizes
   ultrasonic waves to measure distance. It can measure from 3cm to 350cm with an accuracy
   of up to 2mm. It is a perfect ultrasonic module for distance measurement, proximity
   sensors, and ultrasonic detectors.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/g/r/grove---ultrasonic-distance-sensor-preview_1.png
-  - https://www.seeedstudio.com/img/al
-  models: []
   products:
   - https://www.seeedstudio.com/Grove-Ultrasonic-Distance-Sensor-p-101020010.html
   - https://www.seeedstudio.com/Grove-Ultrasonic-Distance-Sensor.html
-  repositories: []
-name: '101020010'
-ref: seeedstudio/101020010
-release_date: null
-sku: '101020010'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/g/r/grove---ultrasonic-distance-sensor-preview_1.png
+  - https://www.seeedstudio.com/img/al

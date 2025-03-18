@@ -1,0 +1,12 @@
+id: opta-wifi
+ref: blues/opta-wifi
+vendor: blues
+sku: opta-wifi
+name: Opta WiFi
+description: "The third configuration of the Arduino\xAE Opta\xAE microPLC."
+status: ''
+extra: {}
+links:
+  products:
+  - https://store-usa.arduino.cc/products/opta-wifi?_gl=1%2At8jjn5%2A_ga%2AMzc3ODM2OTMyLjE3MDk2NTQ2MjI.%2A_ga_NEXN8H46L5%2AMTcxMzIwODYwNS43LjEuMTcxMzIwOTc1My4wLjAuNzAzMjkzODc3
+  images: []

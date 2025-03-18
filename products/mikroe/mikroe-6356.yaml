@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6356
+ref: mikroe/mikroe-6356
+vendor: mikroe
+sku: mikroe-6356
+name: MIKROE-6356
 description: 2x5 Male Pin Header (5pcs) is a durable connector with a standard 2.54mm
   pitch, perfect for various electronic applications. Featuring ten pins in two rows
   and a 6mm pin length, this header ensures secure connections and easy through-hole
   mounting. Its reliable design and high-quality materials make it suitable for both
   prototyping and final products.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/2x5-male-pin-3mm-leg-6mm-pin/2x5-male-pin-3mm-leg-6mm-pin-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/2x5-male-pin-3mm-leg-6mm-pin
-  repositories: []
-name: MIKROE-6356
-ref: mikroe/mikroe-6356
-release_date: null
-sku: mikroe-6356
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/2x5-male-pin-3mm-leg-6mm-pin/2x5-male-pin-3mm-leg-6mm-pin-home_default-1.jpg?v=100

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '114992152'
+ref: seeedstudio/114992152
+vendor: seeedstudio
+sku: '114992152'
+name: '114992152'
 description: 're_computer case: Most Compatible Enclosure for popular SBCs including
   ODYSSEY - X86J4105, Raspberry Pi, BeagleBone and Jetson Nano/Xavier NX'
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/c/a/case-45_1.png
-  models: []
   products:
   - https://www.seeedstudio.com/re-computer-case-p-4465.html
-  repositories: []
-name: '114992152'
-ref: seeedstudio/114992152
-release_date: null
-sku: '114992152'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/c/a/case-45_1.png

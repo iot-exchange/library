@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: nitrogen95-smarc
+ref: ezurio/nitrogen95-smarc
+vendor: ezurio
+sku: nitrogen95-smarc
+name: Nitrogen95 SMARC
 description: "Chipset (MPU)\n6x Cortex\xAE-A55 cores @ up to 1.8 GHz (NXP i.MX 95)\
   \ \nWireless Specification\n(optional) Wi-Fi 6/6E Bluetooth 5.4 \nDimensions (L\
   \ x W)\n82 x 50"
+status: ''
 extra:
   Chipset (MPU): "6x Cortex\xAE-A55 cores @ up to 1.8 GHz (NXP i.MX 95)"
   Dimensions (L x W): 82 x 50
   Wireless Specification: (optional) Wi-Fi 6/6E Bluetooth 5.4
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/N959_6_SMARC-render-front-md1.png
-  models: []
   products:
   - https://www.ezurio.com/product/nitrogen95-smarc
-  repositories: []
-name: Nitrogen95 SMARC
-ref: ezurio/nitrogen95-smarc
-release_date: null
-sku: nitrogen95-smarc
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/N959_6_SMARC-render-front-md1.png

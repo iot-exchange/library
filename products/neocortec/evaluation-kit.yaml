@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: evaluation-kit
+ref: neocortec/evaluation-kit
+vendor: neocortec
+sku: evaluation-kit
+name: Evaluation kit
 description: The NeoCortec Evaluation Kit contains everything you need to get started
   evaluating the NeoMesh protocol.
+status: ''
 extra:
   Contents: 5 evaluation boards with NeoMesh modules
   Tools: All PC tools required to interface with the boards
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://neocortec.com/wp-content/uploads/2017/06/kit_img.jpg
-  models: []
   products:
   - https://neocortec.com/products-2/the-neocortec-evaluation-kit/
-  repositories: []
-name: Evaluation kit
-ref: neocortec/evaluation-kit
-release_date: null
-sku: evaluation-kit
-spec: null
-status: ''
-vendor: neocortec
+  images:
+  - https://neocortec.com/wp-content/uploads/2017/06/kit_img.jpg

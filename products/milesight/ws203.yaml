@@ -1,0 +1,13 @@
+id: ws203
+ref: milesight/ws203
+vendor: milesight
+sku: ws203
+name: WS203
+description: Motion & TH Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/ws203
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/smart-workplace-cowork-series/ws203-iot-page.png?t=1742198585390

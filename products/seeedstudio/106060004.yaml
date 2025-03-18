@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '106060004'
+ref: seeedstudio/106060004
+vendor: seeedstudio
+sku: '106060004'
+name: '106060004'
 description: This adapter can supply a voltage of 5VDC at 4A and can power devices
   with a USB Type-C port. It has 4 different adapter plugs that suit the regions;
   US, AU, UK and EU and the design of the plugs allows them to be easily attached
   to the adapter.
+status: ''
 extra:
   price: $9.90
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/106060004_package-03-1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Wall-Adapter-Power-Supply-with-US-AU-UK-EU-5VDC-4A-Type-C-p-4888.html
-  repositories: []
-name: '106060004'
-ref: seeedstudio/106060004
-release_date: null
-sku: '106060004'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/106060004_package-03-1.jpg

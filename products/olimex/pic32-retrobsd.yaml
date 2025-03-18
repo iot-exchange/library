@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pic32-retrobsd
+ref: olimex/pic32-retrobsd
+vendor: olimex
+sku: pic32-retrobsd
+name: PIC32-RETROBSD
 description: ''
+status: ''
 extra:
   discountedPrice1: 22.46 EUR
   discountedPrice2: 19.96 EUR
   price: 24.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Duino/PIC32/PIC32-RETROBSD/images/thumbs/200x150/PIC32-RETROBSD.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Duino/PIC32/PIC32-RETROBSD/open-source-hardware
-  repositories: []
-name: PIC32-RETROBSD
-ref: olimex/pic32-retrobsd
-release_date: null
-sku: pic32-retrobsd
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Duino/PIC32/PIC32-RETROBSD/images/thumbs/200x150/PIC32-RETROBSD.jpg

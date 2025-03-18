@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lcd-olinuxino-15-6
+ref: olimex/lcd-olinuxino-15-6
+vendor: olimex
+sku: lcd-olinuxino-15-6
+name: LCD-OLinuXino-15.6
 description: ''
+status: ''
 extra:
   discountedPrice1: 61.75 EUR
   discountedPrice2: 58.50 EUR
   price: 65.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/LCD/LCD-OLinuXino-15.6/images/thumbs/200x150/LCD-OLinuXino-15-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/LCD/LCD-OLinuXino-15.6/open-source-hardware
-  repositories: []
-name: LCD-OLinuXino-15.6
-ref: olimex/lcd-olinuxino-15-6
-release_date: null
-sku: lcd-olinuxino-15-6
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/LCD/LCD-OLinuXino-15.6/images/thumbs/200x150/LCD-OLinuXino-15-1.jpg

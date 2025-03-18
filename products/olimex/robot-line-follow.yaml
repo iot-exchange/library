@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: robot-line-follow
+ref: olimex/robot-line-follow
+vendor: olimex
+sku: robot-line-follow
+name: ROBOT-LINE-FOLLOW
 description: ''
+status: ''
 extra:
   price1: 6.00 EUR
   price2: 5.40 EUR
   price3: 4.80 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/KITS/ROBOT-LINE-FOLLOW/images/thumbs/200x150/ROBOT-LINE-FOLLOW.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/KITS/ROBOT-LINE-FOLLOW/
-  repositories: []
-name: ROBOT-LINE-FOLLOW
-ref: olimex/robot-line-follow
-release_date: null
-sku: robot-line-follow
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/KITS/ROBOT-LINE-FOLLOW/images/thumbs/200x150/ROBOT-LINE-FOLLOW.jpg

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-3711
+ref: mikroe/mikroe-3711
+vendor: mikroe
+sku: mikroe-3711
+name: MIKROE-3711
 description: Joystick 2 Click is a smart navigation key concept based on SKRHABE010
   by Alps, a 4-direction joystick switch with Center-push Function. Alps switches,
   also known as microswitches, are well renowned for their reliability and endurance.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/joystick-2-click/joystick-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=125#MIKROE-3711
-  repositories: []
-name: MIKROE-3711
-ref: mikroe/mikroe-3711
-release_date: null
-sku: mikroe-3711
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/joystick-2-click/joystick-2-click-home_default-1.jpg?v=100

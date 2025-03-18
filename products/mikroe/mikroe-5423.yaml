@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-5423
+ref: mikroe/mikroe-5423
+vendor: mikroe
+sku: mikroe-5423
+name: MIKROE-5423
 description: MUX 5 Click is a compact add-on board that contains a precise multiplexing
   solution. This board features the MAX14661, a serially controlled, dual-channel
   analog multiplexer from Analog Devices.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mux-5-click/mux-5-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mux-5-click
-  repositories: []
-name: MIKROE-5423
-ref: mikroe/mikroe-5423
-release_date: null
-sku: mikroe-5423
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mux-5-click/mux-5-click-home_default-1.jpg?v=100

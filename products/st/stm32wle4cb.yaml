@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: stm32wle4cb
+ref: st/stm32wle4cb
+vendor: st
+sku: stm32wle4cb
+name: STM32WLE4CB
 description: Sub-GHz Wireless Microcontrollers. Arm Cortex-M4 @48 MHz with 128 Kbytes
   of Flash memory, 48 Kbytes of SRAM. (G)FSK, (G)MSK, BPSK modulations. AES 256-bit.
   Multiprotocol System-on-Chip.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.st.com/en/microcontrollers-microprocessors/stm32wle4cb.html
-  repositories: []
-name: STM32WLE4CB
-ref: st/stm32wle4cb
-release_date: null
-sku: stm32wle4cb
-spec: null
-status: ''
-vendor: st
+  images: []

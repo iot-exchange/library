@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: avr-icsp
+ref: olimex/avr-icsp
+vendor: olimex
+sku: avr-icsp
+name: AVR-ICSP
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/AVR/Programmers/AVR-ICSP/images/thumbs/200x150/AVR-ICSP-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/AVR/Programmers/AVR-ICSP/
-  repositories: []
-name: AVR-ICSP
-ref: olimex/avr-icsp
-release_date: null
-sku: avr-icsp
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/AVR/Programmers/AVR-ICSP/images/thumbs/200x150/AVR-ICSP-01.jpg

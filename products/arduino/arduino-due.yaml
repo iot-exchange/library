@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: arduino-due
+ref: arduino/arduino-due
+vendor: arduino
+sku: arduino-due
+name: Arduino Due
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.arduino.cc/wiki/static/4b5849dbceea1006d2ade905e0634abb/4b190/due.jpg
-  models: []
   products:
   - https://store.arduino.cc/products/arduino-due
-  repositories: []
-name: Arduino Due
-ref: arduino/arduino-due
-release_date: null
-sku: arduino-due
-spec: null
-status: ''
-vendor: arduino
+  images:
+  - https://www.arduino.cc/wiki/static/4b5849dbceea1006d2ade905e0634abb/4b190/due.jpg

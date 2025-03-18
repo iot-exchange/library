@@ -1,29 +1,22 @@
-alternatives: []
-certifications: []
+id: rs485-to-eth
+ref: waveshare/rs485-to-eth
+vendor: waveshare
+sku: rs485-to-eth
+name: RS485 TO ETH
 description: Industrial serial server, RS485 to RJ45 Ethernet, TCP/IP to serial, rail-mount
   support, with POE function(optional)
+status: ''
 extra:
   Price: $19.31  -  $19.99
   SKU: '15731'
   price: $19.99 -  $22.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs485-to-eth-b-1.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs485-to-eth-b-details-5.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs485_to_eth.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rs485-to-eth-b.htm
   - https://www.waveshare.com/product/rs485-to-eth-b.htm "Industrial serial server,
     RS485 to RJ45 Ethernet, TCP/IP to serial, rail-mount support, with POE function(optional)"
   - https://www.waveshare.com/product/rs485-to-eth.htm
-  repositories: []
-name: RS485 TO ETH
-ref: waveshare/rs485-to-eth
-release_date: null
-sku: rs485-to-eth
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs485-to-eth-b-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs485-to-eth-b-details-5.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/s/rs485_to_eth.jpg

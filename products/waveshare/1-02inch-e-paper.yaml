@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 1-02inch-e-paper
+ref: waveshare/1-02inch-e-paper
+vendor: waveshare
+sku: 1-02inch-e-paper
+name: 1.02inch e-Paper
 description: "128\xD780, 1.02inch E-Ink raw display panel, black/white dual-color"
+status: ''
 extra:
   Price: $6.31 - $6.99
   SKU: '17574'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.02inch-e-paper-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/1.02inch-e-paper.htm
-  repositories: []
-name: 1.02inch e-Paper
-ref: waveshare/1-02inch-e-paper
-release_date: null
-sku: 1-02inch-e-paper
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.02inch-e-paper-1.jpg

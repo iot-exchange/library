@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-015-lcd11-6
+ref: olimex/teres-015-lcd11-6
+vendor: olimex
+sku: teres-015-lcd11-6
+name: TERES-015-LCD11.6
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-015-LCD11-6/images/thumbs/200x150/LCD116.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-015-LCD11.6/
-  repositories: []
-name: TERES-015-LCD11.6
-ref: olimex/teres-015-lcd11-6
-release_date: null
-sku: teres-015-lcd11-6
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-015-LCD11-6/images/thumbs/200x150/LCD116.jpg

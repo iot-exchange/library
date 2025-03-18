@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-3992
+ref: mikroe/mikroe-3992
+vendor: mikroe
+sku: mikroe-3992
+name: MIKROE-3992
 description: CAN FD 3 Click is a add-on board based on TLE9251V CAN network transceiver,
   designed for HS CAN networks up to 5 Mbit/s in automotive and industrial applications.
   As an interface between the physical bus layer and the CAN protocol controller,
   the TLE9251V drives the signals to the bus and protects the microcontroller against
   interferences generated within...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/can-fd-3-click/can-fd-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/can-fd-3-click
   - https://www.mikroe.com/cart?add=1&id_product=2671
-  repositories: []
-name: MIKROE-3992
-ref: mikroe/mikroe-3992
-release_date: null
-sku: mikroe-3992
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/can-fd-3-click/can-fd-3-click-home_default-1.jpg?v=100

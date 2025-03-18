@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sm-gear
+ref: olimex/sm-gear
+vendor: olimex
+sku: sm-gear
+name: SM-GEAR
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/StepperMotors/SM-GEAR/images/thumbs/200x150/SM-GEAR.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/StepperMotors/SM-GEAR/
-  repositories: []
-name: SM-GEAR
-ref: olimex/sm-gear
-release_date: null
-sku: sm-gear
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/StepperMotors/SM-GEAR/images/thumbs/200x150/SM-GEAR.jpg

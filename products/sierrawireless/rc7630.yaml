@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rc7630
+ref: sierrawireless/rc7630
+vendor: sierrawireless
+sku: rc7630
+name: RC7630
 description: Japan, Korea (NTT Docomo, KDDI, LGU+, KT, SKT (Data Only))
+status: ''
 extra:
   Bands: 'LTE: B1, B3, B5, B7, B8, B18, B19, B21'
   Edge Processing: "\u2013"
   Fallback: "\u2013"
   Region (Carrier): Japan, Korea (NTT Docomo, KDDI, LGU+, KT, SKT (Data Only))
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.sierrawireless.com/iot-modules/smart-modules/rc7630/
-  repositories: []
-name: RC7630
-ref: sierrawireless/rc7630
-release_date: null
-sku: rc7630
-spec: null
-status: ''
-vendor: sierrawireless
+  images: []

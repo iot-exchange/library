@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-023-touch
+ref: olimex/teres-023-touch
+vendor: olimex
+sku: teres-023-touch
+name: TERES-023-Touch
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-023-Touch/images/thumbs/200x150/TERES-023-Touch-Panel-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-023-Touch/
-  repositories: []
-name: TERES-023-Touch
-ref: olimex/teres-023-touch
-release_date: null
-sku: teres-023-touch
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-023-Touch/images/thumbs/200x150/TERES-023-Touch-Panel-1.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4772
+ref: mikroe/mikroe-4772
+vendor: mikroe
+sku: mikroe-4772
+name: MIKROE-4772
 description: IRNSS Click is a compact add-on board that provides fast positioning
   capability. This board features the L89H, a high-performance IRNSS-enabled GNSS
   module capable of acquiring and tracking GPS, IRNSS, GLONASS, BeiDou, Galileo, and
   QZSS signals from Quectel Wireless Solutions. The module can work at L1 and L5 bands
   with two embedded antennas...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/irnss-click/irnss-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/irnss-click
-  repositories: []
-name: MIKROE-4772
-ref: mikroe/mikroe-4772
-release_date: null
-sku: mikroe-4772
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/irnss-click/irnss-click-home_default-1.jpg?v=100

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: c42qm
+ref: cavli-wireless/c42qm
+vendor: cavli-wireless
+sku: c42qm
+name: C42QM
 description: LPWALTE M1NB2/NB1 3GPP Release 10
+status: ''
 extra:
   Cellular Bands Supported: 'EMEA / APAC: LTE - B1/B3/B5/B8/B20/B40, GSM - 900/1800
     MHz; NA: LTE - B2/B4/B5/B12/B13/B25/B26/B66, GSM - 900/1800 MHz'
@@ -13,18 +17,7 @@ extra:
     Form Factor Design, Cat NB2, Applicable regions - (APAC, EMEA, N.A)
   OS: ThreadX OS
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.cavliwireless.com/assets/images/modules/c-series/C42QM.png
-  models: []
   products:
   - https://www.cavliwireless.com/c-series/c42qm.html
-  repositories: []
-name: C42QM
-ref: cavli-wireless/c42qm
-release_date: null
-sku: c42qm
-spec: null
-status: ''
-vendor: cavli-wireless
+  images:
+  - https://www.cavliwireless.com/assets/images/modules/c-series/C42QM.png

@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: '102110769'
+ref: seeedstudio/102110769
+vendor: seeedstudio
+sku: '102110769'
+name: '102110769'
 description: reComputer J401 - Open-source carrier board for Jetson Orin Nano/Orin
   NX. The J401 carrier board is an advanced, open-source extension board for NVIDIA
   Jetson Orin Nano/ Orin NX modules. It breaks out typical IO interfaces from the
   SoM, offering high and low-speed connectivity. Its form-factor, performance, and
   ease of development make the Jetson Orin system flexible and scalable for rapid
   market entry and ongoing updates.
+status: ''
 extra:
   Price: $149.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102110769-recomputer-j401-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/reComputer-J401-Carrier-Board-for-Jetson-Orin-NX-Orin-Nano-p-5636.html
-  repositories: []
-name: '102110769'
-ref: seeedstudio/102110769
-release_date: null
-sku: '102110769'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102110769-recomputer-j401-45font.jpg

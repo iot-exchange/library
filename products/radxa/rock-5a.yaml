@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rock-5a
+ref: radxa/rock-5a
+vendor: radxa
+sku: rock-5a
+name: ROCK 5A
 description: 8K Quality in the Palm of Your Hand!
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/rock5/rock_5a/thumb_rock5a.webp
-  models: []
   products:
   - https://radxa.com/products/rock5/5a
-  repositories: []
-name: ROCK 5A
-ref: radxa/rock-5a
-release_date: null
-sku: rock-5a
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/rock5/rock_5a/thumb_rock5a.webp

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-4119
+ref: mikroe/mikroe-4119
+vendor: mikroe
+sku: mikroe-4119
+name: MIKROE-4119
 description: Fingerprint 2 Click is a new fingerprint scanner Click board simplified
   for everyone's use and it's very easy to implement! This add-on board consists of
   a high-speed Nuvoton processor which carries high-performance fingerprint algorithm
   developed for on-board A-172-MRQ fingerprint sensor from company ByNew Technology
   Inc.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products: []
   images:
   - https://cdn1-shop.mikroe.com/img/product/fingerprint-2-click/fingerprint-2-click-home_default-1.jpg?v=100
-  models: []
-  products: []
-  repositories: []
-name: MIKROE-4119
-ref: mikroe/mikroe-4119
-release_date: null
-sku: mikroe-4119
-spec: null
-status: ''
-vendor: mikroe

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: heatsink-for-x4
+ref: radxa/heatsink-for-x4
+vendor: radxa
+sku: heatsink-for-x4
+name: Heatsink for X4
 description: Specialized for Radxa X4
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/heatsink/ae016/thumb_heatsink_for_x4.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/heatsink-for-x4
-  repositories: []
-name: Heatsink for X4
-ref: radxa/heatsink-for-x4
-release_date: null
-sku: heatsink-for-x4
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/heatsink/ae016/thumb_heatsink_for_x4.webp

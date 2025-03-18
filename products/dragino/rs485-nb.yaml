@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: rs485-nb
+ref: dragino/rs485-nb
+vendor: dragino
+sku: rs485-nb
+name: RS485-NB
 description: RS485/UART to NB-IoT Converter
+status: ''
 extra:
   Battery: 8500mAh for long term use
   Function: Support multiply RS485 devices by flexible rules, Support Modbus protocol
@@ -13,18 +17,7 @@ extra:
   Supports connecting a UART sensors with 3.3V or 5V: ''
   Ultra-low power consumption: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/7fb770f34c796f7501d3cf0f0dc39075_L.jpg
-  models: []
   products:
   - https://dragino.com/products/nb-iot/item/303-rs485-nb.html
-  repositories: []
-name: RS485-NB
-ref: dragino/rs485-nb
-release_date: null
-sku: rs485-nb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/7fb770f34c796f7501d3cf0f0dc39075_L.jpg

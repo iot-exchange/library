@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4743
+ref: mikroe/mikroe-4743
+vendor: mikroe
+sku: mikroe-4743
+name: MIKROE-4743
 description: "ADC 13 Click is a compact add-on board that contains a high-performance\
   \ data converter. This board features the ADS1262, a 32-bit, high precision, 38-kSPS,\
   \ analog-to-digital converter with programmable gain amplifier and voltage reference\
   \ from Texas Instruments. This ADC consists of a low-noise CMOS PGA (gains 1 to\
   \ 32), a \u0394\u03A3 modulator, followed by a..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/adc-13-click/adc-13-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=78#ADC-13-Click
-  repositories: []
-name: MIKROE-4743
-ref: mikroe/mikroe-4743
-release_date: null
-sku: mikroe-4743
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/adc-13-click/adc-13-click-home_default-1.jpg?v=100

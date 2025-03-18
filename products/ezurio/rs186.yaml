@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: rs186
+ref: ezurio/rs186
+vendor: ezurio
+sku: rs186
+name: RS186
 description: Laird RS186 is a LoRaWAN end device that can only send data through a
   LoRaWAN gateway to a LoRaWAN network server.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: RS186
-ref: ezurio/rs186
-release_date: null
-sku: rs186
-spec: null
-status: ''
-vendor: ezurio
+  images: []

@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-5584
+ref: mikroe/mikroe-5584
+vendor: mikroe
+sku: mikroe-5584
+name: MIKROE-5584
 description: "AudioAMP 11 Click is a compact add-on board suitable for reproducing\
   \ input audio signals with the desired level of volume and power on the output elements\
   \ that produce sound. This board features the NAU8224, a high-performance stereo\
   \ Class-D audio amplifier from Nuvoton Technology. This flexible I2C configurable\
   \ audio amplifier can drive a 4\u03A9 load with up..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/audioamp-11-click/audioamp-11-click-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/led-driver-15-click/led-driver-15-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/audioamp-11-click
   - https://www.mikroe.com/cart?add=1&id_product=3568
-  repositories: []
-name: MIKROE-5584
-ref: mikroe/mikroe-5584
-release_date: null
-sku: mikroe-5584
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/audioamp-11-click/audioamp-11-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/led-driver-15-click/led-driver-15-click-home_default-1.jpg?v=100

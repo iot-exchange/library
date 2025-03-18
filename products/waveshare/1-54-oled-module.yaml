@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 1-54-oled-module
+ref: waveshare/1-54-oled-module
+vendor: waveshare
+sku: 1-54-oled-module
+name: 1.54_oled_module
 description: "1.54inch OLED Display Module, 128\xD764 Resolution, SPI / I2C Communication"
+status: ''
 extra:
   Price: $11.99
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/1.54inch-oled-module.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.54inch-oled-module-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/_/1.54inch-oled-module-2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/1.54inch-oled-module.htm
-  repositories: []
-name: 1.54_oled_module
-ref: waveshare/1-54-oled-module
-release_date: null
-sku: 1-54-oled-module
-spec: null
-status: ''
-vendor: waveshare

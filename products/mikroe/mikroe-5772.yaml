@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5772
+ref: mikroe/mikroe-5772
+vendor: mikroe
+sku: mikroe-5772
+name: MIKROE-5772
 description: Microwave 5 Click is a compact add-on board that utilizes the Doppler
   Shift Phenomenon to sense motion. This board features the PD-V10-502, a miniature
   X-band microwave transceiver from Ningbo Pdlux Electronic Technology. The transmitter
   on this transceiver works on a 10.525GHz frequency over the patch antenna, with
   a 2-4kHz pulse repetition frequency...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/microwave-5-click/microwave-5-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/microwave-5-click
-  repositories: []
-name: MIKROE-5772
-ref: mikroe/mikroe-5772
-release_date: null
-sku: mikroe-5772
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/microwave-5-click/microwave-5-click-home_default-1.jpg?v=100

@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: '108070021'
+ref: seeedstudio/108070021
+vendor: seeedstudio
+sku: '108070021'
+name: '108070021'
 description: screw, driver board, robot driver
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.seeedstudio.com/MD13S-Cytron-13Amp-DC-Motor-Driver-p-3014.html
-  repositories: []
-name: '108070021'
-ref: seeedstudio/108070021
-release_date: null
-sku: '108070021'
-spec: null
-status: ''
-vendor: seeedstudio
+  images: []

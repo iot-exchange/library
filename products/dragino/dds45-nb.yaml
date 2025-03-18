@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: dds45-nb
+ref: dragino/dds45-nb
+vendor: dragino
+sku: dds45-nb
+name: DDS45-NB
 description: NB-IoT Distance Detection Sensor
+status: ''
 extra:
   Accuracy: "\xB1(1cm+S*0.3%) (S: Distance)"
   Battery: 8500mAh for long term use
@@ -12,18 +16,7 @@ extra:
   Support BLE remote configure and update firmware: ''
   Ultra-low power consumption: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/e4c07973dbc8eb2f7380bdedc4201087_L.jpg
-  models: []
   products:
   - https://dragino.com/products/distance-level-sensor/item/300-dds45-nb.html
-  repositories: []
-name: DDS45-NB
-ref: dragino/dds45-nb
-release_date: null
-sku: dds45-nb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/e4c07973dbc8eb2f7380bdedc4201087_L.jpg

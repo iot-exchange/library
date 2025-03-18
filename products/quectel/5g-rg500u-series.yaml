@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: 5g-rg500u-series
+ref: quectel/5g-rg500u-series
+vendor: quectel
+sku: 5g-rg500u-series
+name: 5G RG500U series
 description: 5G  eSIM  NSA  SA  VoLTE  VoNR
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.quectel.com/content/uploads/2024/03/rg500u.png
-  models: []
   products:
   - https://www.quectel.com/product/5g-rg500u-series/
-  repositories: []
-name: 5G RG500U series
-ref: quectel/5g-rg500u-series
-release_date: null
-sku: 5g-rg500u-series
-spec: null
-status: ''
-vendor: quectel
+  images:
+  - https://www.quectel.com/content/uploads/2024/03/rg500u.png

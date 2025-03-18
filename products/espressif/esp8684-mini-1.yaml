@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: esp8684-mini-1
+ref: espressif/esp8684-mini-1
+vendor: espressif
+sku: esp8684-mini-1
+name: ESP8684-MINI-1
 description: ESP8684-MINI-1 is a general-purpose Wi-Fi and Bluetooth LE module. The
   rich set of peripherals and a small size make this module an ideal choice for smart
   homes, industrial automation, health care, consumer electronics, etc. With ultra-low
@@ -7,6 +10,7 @@ description: ESP8684-MINI-1 is a general-purpose Wi-Fi and Bluetooth LE module. 
   (including light bulbs, panels, switches, etc.), sensors, and home appliances. You
   can choose different flash sizes according to application scenarios to create the
   most cost-effective IOT solution.
+status: ''
 extra:
   Antenna: PCB antenna
   Chip Embedded: ESP8684H2ESP8684H4
@@ -15,18 +19,7 @@ extra:
   Flash (MB): 1, 2, 4
   Pins: '53'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP8684-MINI-1%20S_0.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp8684-mini-1_mini-1u_datasheet_en.pdf
-  repositories: []
-name: ESP8684-MINI-1
-ref: espressif/esp8684-mini-1
-release_date: null
-sku: esp8684-mini-1
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP8684-MINI-1%20S_0.png

@@ -1,28 +1,21 @@
-alternatives: []
-certifications: []
+id: wf200-series-2
+ref: silicon-labs/wf200-series-2
+vendor: silicon-labs
+sku: wf200-series-2
+name: WF200 Series 2
 description: The WF200 is a Wi-Fi 4 pre-certified SiP with low transmission and receive
   power, optimized for low power and optimal RF performance in crowded RF environments.
+status: ''
 extra:
-  Application MCU: SDIO/SPI
   Current: "<298 \xB5A"
   Frequency Bands: Single Band (2.4)
-  Key Peripherals: ''
   Matter Support: 'Yes'
-  Onboard IP Support: ''
   Wi-Fi Version: '4'
+  Application MCU: SDIO/SPI
+  Key Peripherals: ''
+  Onboard IP Support: ''
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/wireless/wi-fi/wf200-series-2-transceiver-ics
   - https://www.silabs.com/wireless/wi-fi/wfm200-series-2-transceiver-modules
-  repositories: []
-name: WF200 Series 2
-ref: silicon-labs/wf200-series-2
-release_date: null
-sku: wf200-series-2
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

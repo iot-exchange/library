@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: zero-3e-poe-hat
+ref: radxa/zero-3e-poe-hat
+vendor: radxa
+sku: zero-3e-poe-hat
+name: ZERO 3E PoE HAT
 description: Designed for Radxa ZERO 3E
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/poe-hat/ra023/thumb_zero_3e_poe_hat.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/zero-3e-poe-hat
-  repositories: []
-name: ZERO 3E PoE HAT
-ref: radxa/zero-3e-poe-hat
-release_date: null
-sku: zero-3e-poe-hat
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/poe-hat/ra023/thumb_zero_3e_poe_hat.webp

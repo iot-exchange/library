@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: 5inch-hdmi-lcd-h
+ref: waveshare/5inch-hdmi-lcd-h
+vendor: waveshare
+sku: 5inch-hdmi-lcd-h
+name: 5inch HDMI LCD (H)
 description: "5inch Capacitive Touch Screen LCD (H), 800\xD7480, HDMI, Various Systems\
   \ Support"
+status: ''
 extra:
   Price: $51.29 - $52.99
   SKU: '14300'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/h/5hp-m.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/o/touch-screen_23.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/5inch-hdmi-lcd-h.htm
   - "https://www.waveshare.com/product/5inch-hdmi-lcd-h.htm \"5inch Capacitive Touch\
     \ Screen LCD (H), 800\xD7480, HDMI, Various Systems Support\""
-  repositories: []
-name: 5inch HDMI LCD (H)
-ref: waveshare/5inch-hdmi-lcd-h
-release_date: null
-sku: 5inch-hdmi-lcd-h
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/h/5hp-m.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/o/touch-screen_23.jpg

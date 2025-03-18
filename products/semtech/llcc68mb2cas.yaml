@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: llcc68mb2cas
+ref: semtech/llcc68mb2cas
+vendor: semtech
+sku: llcc68mb2cas
+name: LLCC68MB2CAS
 description: "LoRa Connect\u2122 Mbed Shield for Smart Home Applications LLCC68, 915MHz"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.semtech.com/products/wireless-rf/lora-connect/llcc68mb2cas
-  repositories: []
-name: LLCC68MB2CAS
-ref: semtech/llcc68mb2cas
-release_date: null
-sku: llcc68mb2cas
-spec: null
-status: ''
-vendor: semtech
+  images: []

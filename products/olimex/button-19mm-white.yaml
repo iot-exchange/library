@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: button-19mm-white
+ref: olimex/button-19mm-white
+vendor: olimex
+sku: button-19mm-white
+name: BUTTON-19MM-WHITE
 description: ''
+status: ''
 extra:
   discountedPrice1: 3.33 EUR
   discountedPrice2: 2.96 EUR
   price: 3.70 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Switches/WATER-PROOF-BUTTONS/images/thumbs/200x150/but-12mm.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Switches/BUTTON-19MM-WHITE/
-  repositories: []
-name: BUTTON-19MM-WHITE
-ref: olimex/button-19mm-white
-release_date: null
-sku: button-19mm-white
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Switches/WATER-PROOF-BUTTONS/images/thumbs/200x150/but-12mm.jpg

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: lr1121
+ref: semtech/lr1121
+vendor: semtech
+sku: lr1121
+name: LR1121
 description: New
+status: New
 extra:
   Frequency Range (MHz): 150-960 1900 S-band 2.4GHz
   Link Budget (dB): '166'
@@ -11,17 +15,6 @@ extra:
   SF: 5-12
   Tx Power (dBm): +22(sub-GHz) +11.5(2.4GHz)
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.semtech.com/products/wireless-rf/lora-connect/lr1121
-  repositories: []
-name: LR1121
-ref: semtech/lr1121
-release_date: null
-sku: lr1121
-spec: null
-status: New
-vendor: semtech
+  images: []

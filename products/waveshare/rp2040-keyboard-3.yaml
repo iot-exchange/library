@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: rp2040-keyboard-3
+ref: waveshare/rp2040-keyboard-3
+vendor: waveshare
+sku: rp2040-keyboard-3
+name: rp2040_keyboard_3
 description: Ctrl C/V Shortcut Keyboard For Programmers, 3-Key Development Board,
   Adopts RP2040 Microcontroller Chip
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-keyboard-3-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rp2040-keyboard-3.htm
-  repositories: []
-name: rp2040_keyboard_3
-ref: waveshare/rp2040-keyboard-3
-release_date: null
-sku: rp2040-keyboard-3
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2040-keyboard-3-1.jpg

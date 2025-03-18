@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4118
+ref: mikroe/mikroe-4118
+vendor: mikroe
+sku: mikroe-4118
+name: MIKROE-4118
 description: LTE IoT 3 Click is a compact add-on board that contains a Low Power Wide
   Area (LPWA) Wireless IoT module that allows connections to the LTE CAT-M1, CAT NB1/2,
   and 2G networks. This board features the EXS82-W, LTE-IoT Wireless Module from Thales
   that offers a rich set of Internet protocols and industry-standard interfaces such
   as UART, USB, etc. Global IoT...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/lte-iot-3-click/lte-iot-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/lte-iot-3-click
-  repositories: []
-name: MIKROE-4118
-ref: mikroe/mikroe-4118
-release_date: null
-sku: mikroe-4118
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lte-iot-3-click/lte-iot-3-click-home_default-1.jpg?v=100

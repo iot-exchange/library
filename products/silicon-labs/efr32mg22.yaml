@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: efr32mg22
+ref: silicon-labs/efr32mg22
+vendor: silicon-labs
+sku: efr32mg22
+name: EFR32MG22
 description: Zigbee EFR32MG22 SoCs (Series 2)
+status: ''
 extra:
   Flash (kB): '512'
   Frequency Bands (MHz): 2.4 GHz
@@ -13,18 +17,7 @@ extra:
   Security: AES-128, ECC, SHA-1, SHA-2
   TX Current (mA) 0 dBm: '4.8'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/wireless/zigbee/efr32mg22-series-2-modules
   - https://www.silabs.com/wireless/zigbee/efr32mg22-series-2-socs
-  repositories: []
-name: EFR32MG22
-ref: silicon-labs/efr32mg22
-release_date: null
-sku: efr32mg22
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

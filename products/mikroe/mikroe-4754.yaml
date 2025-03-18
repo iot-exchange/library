@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4754
+ref: mikroe/mikroe-4754
+vendor: mikroe
+sku: mikroe-4754
+name: MIKROE-4754
 description: "MUX 4 Click is a compact add-on board that contains a precise analog\
   \ multiplexing IC. This board features the 74HC4851, 8-channel analog multiplexer/demultiplexer\
   \ with injection-current effect control from Nexperia USA Inc. This Click board\u2122\
   \ comes with three digital select inputs, active-LOW enable input, eight independent\
   \ inputs/outputs, and a common..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mux-4-click/mux-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=78#MUX-4-Click
-  repositories: []
-name: MIKROE-4754
-ref: mikroe/mikroe-4754
-release_date: null
-sku: mikroe-4754
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mux-4-click/mux-4-click-home_default-1.jpg?v=100

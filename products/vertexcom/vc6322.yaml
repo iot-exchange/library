@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: vc6322
+ref: vertexcom/vc6322
+vendor: vertexcom
+sku: vc6322
+name: VC6322
 description: Wi-SUN RF + PLC Dual Mode processor with integrated sub-1GHz RF Transceiver.
+status: ''
 extra:
   Frequency Bands: 'ISM: 315, 433, 490, 868, 915, 920 MHz; Licensed: 230, 600, 839-847
     MHz'
@@ -11,16 +15,5 @@ extra:
   RF Channel Hopping: ''
   Radio Frequency: IEEE 802.15.4g
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: VC6322
-ref: vertexcom/vc6322
-release_date: null
-sku: vc6322
-spec: null
-status: ''
-vendor: vertexcom
+  images: []

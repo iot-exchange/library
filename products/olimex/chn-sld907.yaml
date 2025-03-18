@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: chn-sld907
+ref: olimex/chn-sld907
+vendor: olimex
+sku: chn-sld907
+name: CHN-SLD907
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Soldering/CHN-SLD907/images/thumbs/200x150/CHN-SLD907.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Soldering/CHN-SLD907/
-  repositories: []
-name: CHN-SLD907
-ref: olimex/chn-sld907
-release_date: null
-sku: chn-sld907
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/CHN-SLD907/images/thumbs/200x150/CHN-SLD907.jpg

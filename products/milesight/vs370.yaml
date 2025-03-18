@@ -1,0 +1,24 @@
+id: vs370
+ref: milesight/vs370
+vendor: milesight
+sku: vs370
+name: VS370
+description: Milesight VS370 Radar Human Presence Sensor is a high-accuracy occupancy
+  sensor designed for meeting rooms of all sizes. Combining 24GHz millimeter-wave
+  radar and PIR technology, it ensures precise detection with strong anti-interference
+  capabilities, unaffected by lighting and without privacy concerns. Essential for
+  IoT buildings and offices, it integrates seamlessly with lighting, HVAC, and building
+  control systems, making your office and building smarter.
+status: ''
+extra:
+  Automation: 'Smarter Automation: Light Sensor & Milesight D2D'
+  Configuration: Easy NFC & Bluetooth Configuration
+  Operation Conditions: Operation in Both Light and Dark Conditions
+  Privacy Protection: Reliable Privacy Protection
+  Sensitivity: Flexible Sensitivity & Sleep Settings
+  Technology: Millimeter Wave Radar + PIR
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/vs370
+  images:
+  - https://www.milesight.com/static/pc/en/iot/product/co-created-innovation-program/vs370.png?t=1742198686599

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: msp430-p2274
+ref: olimex/msp430-p2274
+vendor: olimex
+sku: msp430-p2274
+name: MSP430-P2274
 description: ''
+status: ''
 extra:
   price1: 12.95 EUR
   price2: 11.66 EUR
   price3: 10.36 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/MSP430/Proto/MSP430-P2274/images/thumbs/200x150/MSP430-P2274-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/MSP430/Proto/MSP430-P2274/
-  repositories: []
-name: MSP430-P2274
-ref: olimex/msp430-p2274
-release_date: null
-sku: msp430-p2274
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/MSP430/Proto/MSP430-P2274/images/thumbs/200x150/MSP430-P2274-01.jpg

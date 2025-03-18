@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: slwrb4308c
+ref: silicon-labs/slwrb4308c
+vendor: silicon-labs
+sku: slwrb4308c
+name: SLWRB4308C
 description: xGM210PB Wireless Gecko 2.4 GHz +20 dBm Radio Board with Secure Vault
+status: ''
 extra:
   MSRP: $49.00
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/slwrb4308c-xgm210pb-wireless-gecko-radio-board
-  repositories: []
-name: SLWRB4308C
-ref: silicon-labs/slwrb4308c
-release_date: null
-sku: slwrb4308c
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

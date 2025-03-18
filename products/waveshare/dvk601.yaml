@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: dvk601
+ref: waveshare/dvk601
+vendor: waveshare
+sku: dvk601
+name: DVK601
 description: Part No.:DVK601
+status: ''
 extra:
   Price: $15.89 - $17.99
   SKU: '6576'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/v/dvk601_l_2_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/dvk601.htm
-  repositories: []
-name: DVK601
-ref: waveshare/dvk601
-release_date: null
-sku: dvk601
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/v/dvk601_l_2_2.jpg

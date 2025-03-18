@@ -1,18 +1,11 @@
-alternatives: []
-certifications: []
+id: avr-io-m16
+ref: olimex/avr-io-m16
+vendor: olimex
+sku: avr-io-m16
+name: AVR-IO-M16
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: AVR-IO-M16
-ref: olimex/avr-io-m16
-release_date: null
-sku: avr-io-m16
-spec: null
-status: ''
-vendor: olimex
+  images: []

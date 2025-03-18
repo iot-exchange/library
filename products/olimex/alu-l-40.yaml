@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: alu-l-40
+ref: olimex/alu-l-40
+vendor: olimex
+sku: alu-l-40
+name: ALU-L-40
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/ALU-L-40/images/thumbs/200x150/ALU-L.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/ALU-L-40/
-  repositories: []
-name: ALU-L-40
-ref: olimex/alu-l-40
-release_date: null
-sku: alu-l-40
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Misc/ALU-L-40/images/thumbs/200x150/ALU-L.jpg

@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: esp32-s3-a7670e-4g-en
+ref: waveshare/esp32-s3-a7670e-4g-en
+vendor: waveshare
+sku: esp32-s3-a7670e-4g-en
+name: ESP32-S3-A7670E-4G-EN
 description: ESP32-S3 A7670E 4G Development Board, LTE Cat-1 / 2G / WiFi / Bluetooth
   / Telephone Call / SMS / GNSS Positioning Support
+status: ''
 extra:
   SKU: '26749'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-a7670e-4g-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/esp32-s3-a7670e-4g.htm
   - https://www.waveshare.com/product/esp32-s3-a7670e-4g.htm "ESP32-S3 A7670E 4G Development
     Board, LTE Cat-1 / 2G / WiFi / Bluetooth / Telephone Call / SMS / GNSS Positioning
     Support"
-  repositories: []
-name: ESP32-S3-A7670E-4G-EN
-ref: waveshare/esp32-s3-a7670e-4g-en
-release_date: null
-sku: esp32-s3-a7670e-4g-en
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-a7670e-4g-1.jpg

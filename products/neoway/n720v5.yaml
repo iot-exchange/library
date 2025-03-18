@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: n720v5
+ref: neoway/n720v5
+vendor: neoway
+sku: n720v5
+name: N720V5
 description: N720V5 is the 4G modules for mainland China.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.neoway.com/products/wireless-communication/1497.html
-  repositories: []
-name: N720V5
-ref: neoway/n720v5
-release_date: null
-sku: n720v5
-spec: null
-status: ''
-vendor: neoway
+  images: []

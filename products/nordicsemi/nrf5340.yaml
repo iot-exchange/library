@@ -1,59 +1,52 @@
-alternatives: []
-certifications: []
+id: nrf5340
+ref: nordicsemi/nrf5340
+vendor: nordicsemi
+sku: nrf5340
+name: nRF5340
 description: "Dual-core Bluetooth 5.4 SoC supporting Bluetooth Low Energy, Bluetooth\
   \ mesh, NFC, Thread and Zigbee 128 MHz Arm Cortex-M33 CPU with 1 MB Flash + 512\
   \ KB RAM 64 MHz Arm Cortex-M33 CPU with 256 KB Flash + 64 KB RAM Bluetooth Low Energy\
   \ Bluetooth Direction Finding Bluetooth mesh Thread, Zigbee ANT NFC Advanced security\
   \ USB, QSPI, HS-SPI 105 \xB0C extended operating temperature 1.7-5.5 V supply voltage\
   \ range"
+status: ''
 extra:
+  CPU: 128 MHz Arm Cortex-M33 + 64 MHz Arm Cortex-M33
+  Flash: 1 MB + 256 KB
+  Operating Temperature: "105 \xB0C"
+  RAM: 512 KB + 64 KB
+  Supply Voltage: 1.7-5.5 V
   ADC, Comparator: 'Yes'
+  Arm CryptoCell: '312'
+  Arm TrustZone: 'Yes'
+  High-Speed SPI: 'Yes'
+  Operating temperature: "-40 to 105 \xB0C"
+  PWM, PDM, I2S: 'Yes'
+  Packages: 7x7 mm aQFN94 (48 GPIOs) 4.4x4.0 mm WLCSP95 (48 GPIOs)
+  QSPI: 'Yes'
+  Root-of-Trust: 'Yes'
+  Secure key storage: 'Yes'
+  Supply voltage range: 1.7 to 5.5 V
+  TWI/SPI/UART: 4xTWI/SPI/UART +TWI/SPI/UART
+  USB: 'Yes'
+  GPIOs: Up to 48
+  High-speed SPI: 'Yes'
+  NFC: 'Yes'
+  Operating temp: "-40 to +105\xB0C"
+  PDM, I2S: 'Yes'
+  PWM: 'Yes'
+  Package options: aQFN
+  QDEC: 'Yes'
+  Supply range: 1.7-5.5 V
+  UART/SPI/TWI: 'Yes'
   Additional CPU: 64 MHz Arm Cortex-M33
   Additional Flash: 256 KB
   Additional RAM: 64 KB
-  Arm CryptoCell: '312'
-  Arm TrustZone: 'Yes'
   Bluetooth Version: '5.4'
-  CPU: 128 MHz Arm Cortex-M33 + 64 MHz Arm Cortex-M33
   Cores: Dual-core
-  Flash: 1 MB + 256 KB
-  GPIOs: Up to 48
-  High-Speed SPI: 'Yes'
-  High-speed SPI: 'Yes'
-  NFC: 'Yes'
-  Operating Temperature: "105 \xB0C"
-  Operating temp: "-40 to +105\xB0C"
-  Operating temperature: "-40 to 105 \xB0C"
-  PDM, I2S: 'Yes'
-  PWM: 'Yes'
-  PWM, PDM, I2S: 'Yes'
-  Package options: aQFN
-  Packages: 7x7 mm aQFN94 (48 GPIOs) 4.4x4.0 mm WLCSP95 (48 GPIOs)
-  QDEC: 'Yes'
-  QSPI: 'Yes'
-  RAM: 512 KB + 64 KB
-  Root-of-Trust: 'Yes'
-  Secure key storage: 'Yes'
-  Supply Voltage: 1.7-5.5 V
-  Supply range: 1.7-5.5 V
-  Supply voltage range: 1.7 to 5.5 V
-  TWI/SPI/UART: 4xTWI/SPI/UART +TWI/SPI/UART
-  UART/SPI/TWI: 'Yes'
-  USB: 'Yes'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.nordicsemi.com/Products/nRF5340
   images:
   - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF53-Series/nRF5340-WLCSP-4.4x4-mm-stacked_web.png?h=213&iar=0&mh=250&w=230&hash=CB5DC40EE96FC4B1C81E8DF21C3CE274
   - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF53-Series/nRF5340-WLCSP-4.4x4-mm-stacked_web.png?h=213&iar=0&mh=500&w=230&hash=753DEF02A88A40003B0942DD2820E441
-  models: []
-  products:
-  - https://www.nordicsemi.com/Products/nRF5340
-  repositories: []
-name: nRF5340
-ref: nordicsemi/nrf5340
-release_date: null
-sku: nrf5340
-spec: null
-status: ''
-vendor: nordicsemi

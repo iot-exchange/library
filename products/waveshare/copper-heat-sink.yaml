@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: copper-heat-sink
+ref: waveshare/copper-heat-sink
+vendor: waveshare
+sku: copper-heat-sink
+name: Copper Heat Sink
 description: ''
+status: ''
 extra:
   Price: $0.65 - $0.99
   SKU: '7133'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/copper-heat-sink-1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/copper-heat-sink.htm
-  repositories: []
-name: Copper Heat Sink
-ref: waveshare/copper-heat-sink
-release_date: null
-sku: copper-heat-sink
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/copper-heat-sink-1_2.jpg

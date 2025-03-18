@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: '110991925'
+ref: seeedstudio/110991925
+vendor: seeedstudio
+sku: '110991925'
+name: '110991925'
 description: The MQ7813 series of modules is designed to be a reliable and efficient
   power source for small-power applications such as IP cameras, IP phones, industrial
   sensors, and gatekeepers. It extracts power from a conventional twisted pair Category
   5 Ethernet cable and conforms to the IEEE 802.3af Power-over-Ethernet (PoE) standard.
+status: ''
 extra:
   Price: $10.00
   Standard: IEEE 802.3af
   Type: Power Module
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-110991925-poe-module-kit-for-reterminal-dm-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/POE-Module-Kit-for-reTerminal-DM-p-5707.html
-  repositories: []
-name: '110991925'
-ref: seeedstudio/110991925
-release_date: null
-sku: '110991925'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-110991925-poe-module-kit-for-reterminal-dm-45font.jpg

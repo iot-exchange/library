@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-4287
+ref: mikroe/mikroe-4287
+vendor: mikroe
+sku: mikroe-4287
+name: MIKROE-4287
 description: Boost 3 Click is a compact add-on board that contains a boost converter
   with an integrated current mirror function. This board features the TPS61391, a
   700-kHz pulse-width modulating (PWM) Step-Up converter with a 70V switch FET with
   an input voltage up to 5.5V from Texas Instruments. The TPS61391 includes an accurate
   current mirror, with two selectable...
+status: ''
 extra:
   Price: $25.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/boost-3-click/boost-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/boost-3-click
-  repositories: []
-name: MIKROE-4287
-ref: mikroe/mikroe-4287
-release_date: null
-sku: mikroe-4287
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/boost-3-click/boost-3-click-home_default-1.jpg?v=100

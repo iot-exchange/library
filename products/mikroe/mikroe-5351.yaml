@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-5351
+ref: mikroe/mikroe-5351
+vendor: mikroe
+sku: mikroe-5351
+name: MIKROE-5351
 description: Battery Holder 4 Cell AAA represents a unique case of economical design
   available in a format that supports four AAA ordinary or rechargeable batteries.
   This battery holder comes with PC terminals which turns it into an easy-to-connect
   solution perfect for devices that needs a 6V external supply.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/battery-holder-4-cell-aaa/battery-holder-4-cell-aaa-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/battery-holder-4-cell-aaa
-  repositories: []
-name: MIKROE-5351
-ref: mikroe/mikroe-5351
-release_date: null
-sku: mikroe-5351
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/battery-holder-4-cell-aaa/battery-holder-4-cell-aaa-home_default-1.jpg?v=100

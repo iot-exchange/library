@@ -1,0 +1,12 @@
+id: ai-12x-20x-23x-ptz-dome-camera
+ref: milesight/ai-12x-20x-23x-ptz-dome-camera
+vendor: milesight
+sku: ai-12x-20x-23x-ptz-dome-camera
+name: AI 12X/20X/23X PTZ Dome Camera
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/security/product/ai-mini-ptz-dome
+  images: []

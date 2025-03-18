@@ -1,27 +1,20 @@
-alternatives: []
-certifications: []
+id: '110070108'
+ref: seeedstudio/110070108
+vendor: seeedstudio
+sku: '110070108'
+name: '110070108'
 description: The reTerminal is an all-in-one board, powered by Raspberry Pi CM4, integrated
   with one IPS panel type multi-touch screen, carried with dual-band 2.4GHz/5GHz Wi-Fi
   & Bluetooth 5.0, pre-installed Debian system. By designing in modularization, the
   board is equipped with high-speed connectors to an expansion board. Designed for
   home assistance and individual AI development applications.
+status: ''
 extra:
   Connectivity: Dual-band 2.4GHz/5GHz Wi-Fi & Bluetooth 5.0
   OS: Pre-installed Debian system
   Screen: IPS multi-touch
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/_/1/_1_8032.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/reTerminal-CM4108032-p-5712.html
-  repositories: []
-name: '110070108'
-ref: seeedstudio/110070108
-release_date: null
-sku: '110070108'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/_/1/_1_8032.jpg

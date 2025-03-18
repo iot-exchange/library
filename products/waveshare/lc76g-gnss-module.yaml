@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: lc76g-gnss-module
+ref: waveshare/lc76g-gnss-module
+vendor: waveshare
+sku: lc76g-gnss-module
+name: LC76G GNSS Module
 description: LC76G Multi-GNSS Module, Supports GPS, BDS, GLONASS, Galileo, QZSS
+status: ''
 extra:
   Price: $13.63 - $14.99
   SKU: '24370'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/c/lc76g-gnss-module-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/lc76g-gnss-module.htm
-  repositories: []
-name: LC76G GNSS Module
-ref: waveshare/lc76g-gnss-module
-release_date: null
-sku: lc76g-gnss-module
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/c/lc76g-gnss-module-1.jpg

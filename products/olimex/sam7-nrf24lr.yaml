@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: sam7-nrf24lr
+ref: olimex/sam7-nrf24lr
+vendor: olimex
+sku: sam7-nrf24lr
+name: SAM7-NRF24LR
 description: ''
+status: ''
 extra:
   price1: 39.95 EUR
   price2: 35.96 EUR
   price3: 31.96 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/Atmel/SAM7-NRF24LR/images/thumbs/200x150/SAM7-NRF24-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/Atmel/SAM7-NRF24LR/
-  repositories: []
-name: SAM7-NRF24LR
-ref: olimex/sam7-nrf24lr
-release_date: null
-sku: sam7-nrf24lr
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/Atmel/SAM7-NRF24LR/images/thumbs/200x150/SAM7-NRF24-1.jpg

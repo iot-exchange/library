@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '2609039281001'
+ref: we/2609039281001
+vendor: we
+sku: '2609039281001'
+name: '2609039281001'
 description: EV-Kit Thebe-II incl. ext. antenna
+status: Active i
 extra:
   Expected lifetime: '>10 years'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o170894v214%20Single_Thebe-II_2609031181000.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/THEBE-II#2609039281001
   - https://www.we-online.com/en/components/products/THEBE-II_MESH#2609039281001
-  repositories: []
-name: '2609039281001'
-ref: we/2609039281001
-release_date: null
-sku: '2609039281001'
-spec: null
-status: Active i
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o170894v214%20Single_Thebe-II_2609031181000.jpg

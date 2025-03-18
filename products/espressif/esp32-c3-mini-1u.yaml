@@ -1,10 +1,14 @@
-alternatives: []
-certifications: []
+id: esp32-c3-mini-1u
+ref: espressif/esp32-c3-mini-1u
+vendor: espressif
+sku: esp32-c3-mini-1u
+name: ESP32-C3-MINI-1U
 description: ESP32-C3-MINI-1U is a powerful, generic Wi-Fi + Bluetooth LE MCU modules
   that have a single core CPU, a rich set of peripherals, and with an U.FL connector
   for external antenna. According to different chips integrated, ESP32-C3-MINI-1U
   has two variants operating in different ambient temperature. It is an ideal choice
   for smart homes, industrial automation, health care, consumer electronics, etc.
+status: ''
 extra:
   Antenna: IPEX antenna connector
   Chip Embedded: ESP32-C3FH4X, ESP32-C3FH4, ESP32-C3-MINI-1U-N4X
@@ -14,18 +18,7 @@ extra:
   PSRAM (MB): N/A
   Pins: '53'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP32-C3-MINI-1U%20S_0.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf
-  repositories: []
-name: ESP32-C3-MINI-1U
-ref: espressif/esp32-c3-mini-1u
-release_date: null
-sku: esp32-c3-mini-1u
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-C3-MINI-1U%20S_0.png

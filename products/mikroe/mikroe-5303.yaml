@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5303
+ref: mikroe/mikroe-5303
+vendor: mikroe
+sku: mikroe-5303
+name: MIKROE-5303
 description: Stepper 12 Click is a compact add-on board that contains a bipolar stepper
   motor driver. This board features the TB67S549FTG, a two-phase bipolar stepping
   motor driver from Toshiba Semiconductor. It supports a PWM constant-current control
   drive without a current sense resistor for motor-current detection owing to the
   built-in function of the Advanced...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/stepper-12-click/stepper-12-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=52#Stepper-12-Click
-  repositories: []
-name: MIKROE-5303
-ref: mikroe/mikroe-5303
-release_date: null
-sku: mikroe-5303
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/stepper-12-click/stepper-12-click-home_default-1.jpg?v=100

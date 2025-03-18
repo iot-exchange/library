@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4132
+ref: mikroe/mikroe-4132
+vendor: mikroe
+sku: mikroe-4132
+name: MIKROE-4132
 description: "Thermo 14 Click uses the STTS22H digital temperature sensor and thermal\
   \ watchdog, which can measure temperature measurements between -40\xB0C and +125\xB0\
   C so that the temperature measurement data can be processed by the host MCU. Thermo\
   \ 14 Click provides an accuracy of \xB10.5\xB0C in the range from -10\xB0C to 60\xB0\
   C. The sensor used on this Click board\u2122 has a great..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/thermo-14-click/thermo-14-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/thermo-14-click
-  repositories: []
-name: MIKROE-4132
-ref: mikroe/mikroe-4132
-release_date: null
-sku: mikroe-4132
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/thermo-14-click/thermo-14-click-home_default-1.jpg?v=100

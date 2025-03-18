@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: solar-power-manager-b
+ref: waveshare/solar-power-manager-b
+vendor: waveshare
+sku: solar-power-manager-b
+name: Solar Power Manager (B)
 description: Solar Power Manager (B), Embedded 10000mAh Li-Po Battery, Supports 6V~24V
   Solar Panels
+status: ''
 extra:
   Price: $24.63 - $25.99
   SKU: '19799'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/o/solar-power-manager-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/solar-power-manager-b.htm
-  repositories: []
-name: Solar Power Manager (B)
-ref: waveshare/solar-power-manager-b
-release_date: null
-sku: solar-power-manager-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/o/solar-power-manager-b-1.jpg

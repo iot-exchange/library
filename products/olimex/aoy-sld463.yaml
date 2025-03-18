@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: aoy-sld463
+ref: olimex/aoy-sld463
+vendor: olimex
+sku: aoy-sld463
+name: AOY-SLD463
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Soldering/AOY-SLD463/images/thumbs/200x150/AOY-SLD463-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Soldering/AOY-SLD463/
-  repositories: []
-name: AOY-SLD463
-ref: olimex/aoy-sld463
-release_date: null
-sku: aoy-sld463
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/AOY-SLD463/images/thumbs/200x150/AOY-SLD463-1.jpg

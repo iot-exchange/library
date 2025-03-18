@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: fg132-m-2
+ref: fibocom/fg132-m-2
+vendor: fibocom
+sku: fg132-m-2
+name: FG132-M.2
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/5GRedCap-FG132-M.2.html
-  repositories: []
-name: FG132-M.2
-ref: fibocom/fg132-m-2
-release_date: null
-sku: fg132-m-2
-spec: null
-status: ''
-vendor: fibocom
+  images: []

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: module-wireless-mcu
+ref: ti/module-wireless-mcu
+vendor: ti
+sku: module-wireless-mcu
+name: Module, Wireless MCU
 description: Wi-Fi
+status: ACTIVE
 extra:
   GPIO: '16'
   catalog: Catalog
@@ -10,17 +14,6 @@ extra:
   price: $10.835 | 1ku
   temperature_range: -40 to 85
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ti.com/wireless-connectivity/wi-fi/products.html
-  repositories: []
-name: Module, Wireless MCU
-ref: ti/module-wireless-mcu
-release_date: null
-sku: module-wireless-mcu
-spec: null
-status: ACTIVE
-vendor: ti
+  images: []

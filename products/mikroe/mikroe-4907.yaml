@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4907
+ref: mikroe/mikroe-4907
+vendor: mikroe
+sku: mikroe-4907
+name: MIKROE-4907
 description: "Temp&Hum 20 Click is a compact add-on board that represents temperature\
   \ and humidity sensing solution. This board features the CC2D23, a highly accurate,\
   \ fully-calibrated relative humidity and temperature sensor from Amphenol. This\
   \ sensor, characterized by its high accuracy (\xB12% from 20% to 80%RH (\xB13% over\
   \ entire humidity range)) and high resolution,..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/temphum-20-click/temphum-20-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=72#Temp&Hum20Click
-  repositories: []
-name: MIKROE-4907
-ref: mikroe/mikroe-4907
-release_date: null
-sku: mikroe-4907
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/temphum-20-click/temphum-20-click-home_default-1.jpg?v=100

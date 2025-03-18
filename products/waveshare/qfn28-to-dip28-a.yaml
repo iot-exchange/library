@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: qfn28-to-dip28-a
+ref: waveshare/qfn28-to-dip28-a
+vendor: waveshare
+sku: qfn28-to-dip28-a
+name: QFN28 TO DIP28 (A)
 description: QFN28 TO DIP28 (A), Programmer Adapter
+status: ''
 extra:
   Price: $78.99 - $83.99
   SKU: '6883'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/q/f/qfn28-to-dip28_l_2_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/qfn28-to-dip28.htm
-  repositories: []
-name: QFN28 TO DIP28 (A)
-ref: waveshare/qfn28-to-dip28-a
-release_date: null
-sku: qfn28-to-dip28-a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/q/f/qfn28-to-dip28_l_2_5.jpg

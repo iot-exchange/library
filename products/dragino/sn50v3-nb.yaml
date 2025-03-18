@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: sn50v3-nb
+ref: dragino/sn50v3-nb
+vendor: dragino
+sku: sn50v3-nb
+name: SN50v3-NB
 description: NB-IoT Sensor Node
+status: ''
 extra:
   1 x I2C Interface: ''
   1 x UART Interface: ''
@@ -13,18 +17,7 @@ extra:
   Support Bluetooth v5.1 remote configure and update firmware: ''
   Ultra Low Power Consumption: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/63955aa9869cf7707ada1662dbfb31e2_L.jpg
-  models: []
   products:
   - https://dragino.com/products/nb-iot/item/291-sn50v3-nb.html
-  repositories: []
-name: SN50v3-NB
-ref: dragino/sn50v3-nb
-release_date: null
-sku: sn50v3-nb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/63955aa9869cf7707ada1662dbfb31e2_L.jpg

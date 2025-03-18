@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '104990602'
+ref: seeedstudio/104990602
+vendor: seeedstudio
+sku: '104990602'
+name: '104990602'
 description: Nextion Basic NX3224T024 - Generic 2.4'' HMI 320*240 Touch Display for
   Arduino Raspberry Pi Nextion is a Human Machine Interface(HMI) solution that provides
   a control and visualization interface between a human and a process, machine, application,
   or appliance. Nextion is not just a touch display, it has a hardware part and a
   software part which is well developed for HMI applications.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/_/1_15_1_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Nextion-Basic-NX3224T024-Generic-2-4-HMI-320-240-Touch-Display-for-Arduino-Raspberry-Pi-p-4330.html
-  repositories: []
-name: '104990602'
-ref: seeedstudio/104990602
-release_date: null
-sku: '104990602'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/_/1_15_1_1.jpg

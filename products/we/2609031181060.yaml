@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: '2609031181060'
+ref: we/2609031181060
+vendor: we
+sku: '2609031181060'
+name: '2609031181060'
 description: ''
+status: New
 extra:
   Antenna type: RF pad
   Current consumption: '2.2'
@@ -12,17 +16,6 @@ extra:
   Sensitivity: '-124'
   Voltage: '3.7'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - javascript:;
-  repositories: []
-name: '2609031181060'
-ref: we/2609031181060
-release_date: null
-sku: '2609031181060'
-spec: null
-status: New
-vendor: we
+  images: []

@@ -1,27 +1,20 @@
-alternatives: []
-certifications: []
+id: '113991334'
+ref: seeedstudio/113991334
+vendor: seeedstudio
+sku: '113991334'
+name: '113991334'
 description: "The reComputer R1100, powered by Raspberry Pi CM4, is an adaptable edge\
   \ IoT gateway with AI capabilities. It features comprehensive industrial interfaces\
   \ (2x Ethernet, 2xUSB, 2xRS485, 2xRS232, 2xDI and 2xDO) and flexible wireless connectivity\
   \ options (4G, LoRa\xAE, Wi-Fi/BLE), making it ideal for diverse industrial applications."
+status: ''
 extra:
   RAM: 4GB
-  Storage: 32GB eMMC
   eMMC: 32GB
   price: $219.00
+  Storage: 32GB eMMC
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-113991334.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/reComputer-R1125-10-p-6256.html
-  repositories: []
-name: '113991334'
-ref: seeedstudio/113991334
-release_date: null
-sku: '113991334'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-113991334.jpg

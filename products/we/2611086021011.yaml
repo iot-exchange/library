@@ -1,34 +1,27 @@
-alternatives: []
-certifications: []
+id: '2611086021011'
+ref: we/2611086021011
+vendor: we
+sku: '2611086021011'
+name: '2611086021011'
 description: 'Active i Production is active. Expected lifetime: >10 years.'
+status: Active
 extra:
   ANTConn: RF pad and internal antenna
   Expected lifetime: '>10 years'
   Frequency Range (MHz): 2402 - 2480
   "PTx, 50 \u2126(dBm)": '6'
   PTx, e.r.p.(dBm): '4'
-  Product series: Thetis-I USB radio stick
   Rb max.(kbps): '1000'
   "Rxsens, 50 \u2126(dBm)": "\u2013"
   Rxsens, e.r.p.(dBm): '-90'
   VDD max.(V): '3.6'
   VDD min.(V): '1.8'
   dLoS(m): '400'
+  Product series: Thetis-I USB radio stick
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o169198v214%20Single_eiSmart_USB-Stick_ohne_SMA.jpg
-  models: []
   products:
   - https://www.we-online.com/components/products/manual/2611019021011_Thetis-I USB
     radio stick 2611086021011 Manual_rev1.2.pdf
   - https://www.we-online.com/en/components/products/THETIS-I#2611086021011
-  repositories: []
-name: '2611086021011'
-ref: we/2611086021011
-release_date: null
-sku: '2611086021011'
-spec: null
-status: Active
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o169198v214%20Single_eiSmart_USB-Stick_ohne_SMA.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4651
+ref: mikroe/mikroe-4651
+vendor: mikroe
+sku: mikroe-4651
+name: MIKROE-4651
 description: SPI Isolator 3 Click is a compact add-on board that contains a digital
   isolator optimized for a serial peripheral interface. This board features the MAX14483,
   a 6-channel 3.75kVRMS digital galvanic isolator with a very low propagation delay
   on the SDI, SDO, and SCLK channels from Analog Devices. Besides a second enable
   control input, which allows MAX14483...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/spi-isolator-3-click/spi-isolator-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=81#SPI-Isolator-3-Click
-  repositories: []
-name: MIKROE-4651
-ref: mikroe/mikroe-4651
-release_date: null
-sku: mikroe-4651
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/spi-isolator-3-click/spi-isolator-3-click-home_default-1.jpg?v=100

@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: cc1311p3
+ref: ti/cc1311p3
+vendor: ti
+sku: cc1311p3
+name: CC1311P3
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ti.com/product/CC1311P3
-  repositories: []
-name: CC1311P3
-ref: ti/cc1311p3
-release_date: null
-sku: cc1311p3
-spec: null
-status: ''
-vendor: ti
+  images: []

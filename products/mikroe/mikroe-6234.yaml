@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6234
+ref: mikroe/mikroe-6234
+vendor: mikroe
+sku: mikroe-6234
+name: MIKROE-6234
 description: "Click Shield for Teensy 4.0 Unlock the full potential of your Teensy\
   \ 4.0 with the Click Shield for Teensy 4.0! Supercharge your Teensy 4.0 board by\
   \ adding mikroBUS\u2122 sockets, giving you instant access to a vast selection of\
   \ Click boards\u2122. Expand your project's capabilities and explore endless innovation\
   \ opportunities with just one host board."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/click-shield-for-teensy-40/click-shield-for-teensy-40-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/click-shield-for-teensy-40
-  repositories: []
-name: MIKROE-6234
-ref: mikroe/mikroe-6234
-release_date: null
-sku: mikroe-6234
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/click-shield-for-teensy-40/click-shield-for-teensy-40-home_default-1.jpg?v=100

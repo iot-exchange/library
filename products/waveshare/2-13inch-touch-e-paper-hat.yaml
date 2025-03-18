@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: 2-13inch-touch-e-paper-hat
+ref: waveshare/2-13inch-touch-e-paper-hat
+vendor: waveshare
+sku: 2-13inch-touch-e-paper-hat
+name: 2.13inch Touch e-Paper HAT
 description: "2.13inch Touch e-Paper HAT for Raspberry Pi, 250\xD7122, Black / White,\
   \ SPI"
+status: ''
 extra:
   Price: $19.29 - $20.99
   SKU: '19493'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.13inch-touch-e-paper-hat-1_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/2.13inch-touch-e-paper-hat.htm
   - "https://www.waveshare.com/product/2.13inch-touch-e-paper-hat.htm \"2.13inch Touch\
     \ e-Paper HAT for Raspberry Pi, 250\xD7122, Black / White, SPI\""
-  repositories: []
-name: 2.13inch Touch e-Paper HAT
-ref: waveshare/2-13inch-touch-e-paper-hat
-release_date: null
-sku: 2-13inch-touch-e-paper-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.13inch-touch-e-paper-hat-1_1.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: modbus-rtu-relay-d
+ref: waveshare/modbus-rtu-relay-d
+vendor: waveshare
+sku: modbus-rtu-relay-d
+name: Modbus RTU Relay (D)
 description: Industrial Modbus RTU 8-ch Relay Module (D) With Digital Input and RS485
   Interface, Multi Isolation Protection Circuits, 7~36V Power Supply
+status: ''
 extra:
   Price: $33.29 - $34.99
   SKU: '26517'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/o/modbus-rtu-relay-d-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/modbus-rtu-relay-d.htm
-  repositories: []
-name: Modbus RTU Relay (D)
-ref: waveshare/modbus-rtu-relay-d
-release_date: null
-sku: modbus-rtu-relay-d
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/o/modbus-rtu-relay-d-1.jpg

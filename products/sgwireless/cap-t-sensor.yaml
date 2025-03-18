@@ -1,0 +1,12 @@
+id: cap-t-sensor
+ref: sgwireless/cap-t-sensor
+vendor: sgwireless
+sku: cap-t-sensor
+name: CAP/T Sensor
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://docs.sgwireless.com/wp-content/uploads/2024/11/SGW8130D-CAP-T-Datasheet_v1.0-Nov-2024.pdf
+  images: []

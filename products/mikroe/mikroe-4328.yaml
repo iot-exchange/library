@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4328
+ref: mikroe/mikroe-4328
+vendor: mikroe
+sku: mikroe-4328
+name: MIKROE-4328
 description: USB-C Sink Click is a compact add-on board that contains a standalone
   autonomous USB power delivery controller. This board features the STUSB4500, a USB-C
   sink-only controller compatible with Power-Delivery (PD) from STMicroelectronics.
   It supports dead battery mode to allow a system to be powered from an external source
   directly, establishes a valid...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/usb-c-sink-click/usb-c-sink-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/usb-c-sink-click
-  repositories: []
-name: MIKROE-4328
-ref: mikroe/mikroe-4328
-release_date: null
-sku: mikroe-4328
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/usb-c-sink-click/usb-c-sink-click-home_default-1.jpg?v=100

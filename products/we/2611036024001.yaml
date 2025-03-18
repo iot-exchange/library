@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: '2611036024001'
+ref: we/2611036024001
+vendor: we
+sku: '2611036024001'
+name: '2611036024001'
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/PROTEUS-III#2611036024001
-  repositories: []
-name: '2611036024001'
-ref: we/2611036024001
-release_date: null
-sku: '2611036024001'
-spec: null
-status: ''
-vendor: we
+  images: []

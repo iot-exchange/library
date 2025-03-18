@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-3787
+ref: mikroe/mikroe-3787
+vendor: mikroe
+sku: mikroe-3787
+name: MIKROE-3787
 description: "H-Bridge 4 Click is a Click board\u2122 that contains the AP1010AEN,\
   \ which is a two channel H-Bridge motor driver compatible with a motor operating\
   \ voltage up to 18V and can drive two DC motors or one stepper motor. The protection\
   \ circuit has under voltage lockout circuit, thermal shutdown circuit, and overcurrent\
   \ protection circuit, and overcurrent protection..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/h-bridge-4-click/h-bridge-4-click-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/mcu-card-33-for-stm32-stm32f103rc/mcu-card-33-for-stm32-stm32f103rc-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/h-bridge-4-click "H-Bridge 4 Click"
   - https://www.mikroe.com/mcu-card-33-for-stm32-stm32f103rc
-  repositories: []
-name: MIKROE-3787
-ref: mikroe/mikroe-3787
-release_date: null
-sku: mikroe-3787
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/h-bridge-4-click/h-bridge-4-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/mcu-card-33-for-stm32-stm32f103rc/mcu-card-33-for-stm32-stm32f103rc-home_default-1.jpg?v=100

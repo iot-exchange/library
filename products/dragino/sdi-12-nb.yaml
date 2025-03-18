@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: sdi-12-nb
+ref: dragino/sdi-12-nb
+vendor: dragino
+sku: sdi-12-nb
+name: SDI-12-NB
 description: SDI-12 to NB-IoT Converter
+status: ''
 extra:
   Battery: 8500mAh Battery for long term use
   NB-IoT Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85 @H-FDD
@@ -8,18 +12,7 @@ extra:
   Power Consumption: Ultra-low
   Protocol: SDI-12
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/3f4808b525a42a0bb340252b3c0de1d3_L.jpg
-  models: []
   products:
   - https://dragino.com/products/agriculture-weather-station/item/315-sdi-12-nb.html
-  repositories: []
-name: SDI-12-NB
-ref: dragino/sdi-12-nb
-release_date: null
-sku: sdi-12-nb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/3f4808b525a42a0bb340252b3c0de1d3_L.jpg

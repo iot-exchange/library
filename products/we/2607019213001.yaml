@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '2607019213001'
+ref: we/2607019213001
+vendor: we
+sku: '2607019213001'
+name: '2607019213001'
 description: EV-Kit Mimas-I
+status: Active i
 extra:
   Expected lifetime: '>10 years.'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/MIMAS-I#2607019213001
-  repositories: []
-name: '2607019213001'
-ref: we/2607019213001
-release_date: null
-sku: '2607019213001'
-spec: null
-status: Active i
-vendor: we
+  images: []

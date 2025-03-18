@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-5483
+ref: mikroe/mikroe-5483
+vendor: mikroe
+sku: mikroe-5483
+name: MIKROE-5483
 description: This T-shirt is for all SiBRAIN lovers out there. SiBRAIN is a standardized
   microcontroller add-on board, which allows very simple installation and replacement
   of the microcontroller unit (MCU) on a development board equipped with the SiBRAIN
   Card socket.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/5-wire-jumper-to-jst-female-adapter-10cm/5-wire-jumper-to-jst-female-adapter-10cm-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/sibrain-t-shirt-male-m/sibrain-t-shirt-male-m-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/5-wire-jumper-to-jst-female-adapter-10cm
   - https://www.mikroe.com/sibrain-t-shirt-male-m
-  repositories: []
-name: MIKROE-5483
-ref: mikroe/mikroe-5483
-release_date: null
-sku: mikroe-5483
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/5-wire-jumper-to-jst-female-adapter-10cm/5-wire-jumper-to-jst-female-adapter-10cm-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/sibrain-t-shirt-male-m/sibrain-t-shirt-male-m-home_default-1.jpg?v=100

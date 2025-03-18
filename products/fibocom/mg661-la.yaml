@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: mg661-la
+ref: fibocom/mg661-la
+vendor: fibocom
+sku: mg661-la
+name: MG661-LA
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTECat1-MG661-LA.html
-  repositories: []
-name: MG661-LA
-ref: fibocom/mg661-la
-release_date: null
-sku: mg661-la
-spec: null
-status: ''
-vendor: fibocom
+  images: []

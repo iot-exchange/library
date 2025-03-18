@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: fg360-mea
+ref: fibocom/fg360-mea
+vendor: fibocom
+sku: fg360-mea
+name: FG360-MEA
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/5G-FG360-MEA.html
-  repositories: []
-name: FG360-MEA
-ref: fibocom/fg360-mea
-release_date: null
-sku: fg360-mea
-spec: null
-status: ''
-vendor: fibocom
+  images: []

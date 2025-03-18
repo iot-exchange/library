@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: bl54h20-series
+ref: ezurio/bl54h20-series
+vendor: ezurio
+sku: bl54h20-series
+name: BL54H20 Series
 description: Multi-Core Bluetooth LE + 802.15.4 + NFC
+status: ''
 extra:
   2MPHY: x
   802.15.4 / Matter / Thread: ''
@@ -8,18 +12,7 @@ extra:
   Classic BT: x
   LE Long Range: x
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-02/BL54H20-Group.png
-  models: []
   products:
   - https://www.ezurio.com/product/bl54h20-series-multi-core-bluetooth-le-80215-4-nfc
-  repositories: []
-name: BL54H20 Series
-ref: ezurio/bl54h20-series
-release_date: null
-sku: bl54h20-series
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-02/BL54H20-Group.png

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 60-sipt
+ref: ezurio/60-sipt
+vendor: ezurio
+sku: 60-sipt
+name: 60-SIPT
 description: Bluetooth and Wi-Fi Module
+status: ''
 extra:
   Category: Enterprise Wi-Fi
   Chipset: NXP 88W8997
@@ -9,18 +13,7 @@ extra:
   USB/UART: x
   Wi-Fi: Performance
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-03/LWB5-Plus-Modules-And-USB1.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/wifi-modules-bluetooth/60-sipt-bluetooth-and-wifi-module
-  repositories: []
-name: 60-SIPT
-ref: ezurio/60-sipt
-release_date: null
-sku: 60-sipt
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-03/LWB5-Plus-Modules-And-USB1.png

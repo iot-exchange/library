@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: telematics-guru
+ref: digitalmatter/telematics-guru
+vendor: digitalmatter
+sku: telematics-guru
+name: Telematics Guru
 description: White-label-ready GPS asset tracking platform developed for reselling
   partners.
+status: ''
 extra:
   Features: Seamless integration with Digital Matter hardware, regional support, enterprise-level
     security, proven and deployment-ready.
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Telematics Guru
-ref: digitalmatter/telematics-guru
-release_date: null
-sku: telematics-guru
-spec: null
-status: ''
-vendor: digitalmatter
+  images: []

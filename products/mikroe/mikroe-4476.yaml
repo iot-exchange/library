@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4476
+ref: mikroe/mikroe-4476
+vendor: mikroe
+sku: mikroe-4476
+name: MIKROE-4476
 description: Opto 5 Click is a compact add-on board that provides uncomplicated safety
   isolation from the high voltage. This board features the FOD4216, a random phase
   snubberless Triac driver from onsemi. The FOD4216 consists of an infrared emitting
   diode coupled to a hybrid random phase triac formed with two inverse parallel SCRs,
   which creates the triac function...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/opto-5-click/opto-5-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/opto-5-click
-  repositories: []
-name: MIKROE-4476
-ref: mikroe/mikroe-4476
-release_date: null
-sku: mikroe-4476
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/opto-5-click/opto-5-click-home_default-1.jpg?v=100

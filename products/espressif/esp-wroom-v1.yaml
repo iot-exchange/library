@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: esp-wroom-v1
+ref: espressif/esp-wroom-v1
+vendor: espressif
+sku: esp-wroom-v1
+name: ESP-WROOM-V1
 description: For flashing / testing ESP-WROOM-02D / ESP-WROOM-02DC / ESP-WROOM-02
   modules (must be used with ESP-BAT8 for testing)
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/styles/medium/public/ESP32-WROOM-V1-V3%20%26%20ESP32-WROVER-V1-V2%20%26%20ESP-WROOM-V1-V1_L_15.png?itok=O0FauYk7
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/production_testing_guide_en.pdf
-  repositories: []
-name: ESP-WROOM-V1
-ref: espressif/esp-wroom-v1
-release_date: null
-sku: esp-wroom-v1
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/styles/medium/public/ESP32-WROOM-V1-V3%20%26%20ESP32-WROVER-V1-V2%20%26%20ESP-WROOM-V1-V1_L_15.png?itok=O0FauYk7

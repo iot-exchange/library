@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: '2608019024001'
+ref: we/2608019024001
+vendor: we
+sku: '2608019024001'
+name: '2608019024001'
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/PROTEUS-I#2608019024001
-  repositories: []
-name: '2608019024001'
-ref: we/2608019024001
-release_date: null
-sku: '2608019024001'
-spec: null
-status: ''
-vendor: we
+  images: []

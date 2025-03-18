@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: heatsink-7010
+ref: radxa/heatsink-7010
+vendor: radxa
+sku: heatsink-7010
+name: Heatsink 7010
 description: Specialized for Radxa NX5(mEdge-RK3588S)
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://radxa.com/products/accessories/heatsink-7010
   images:
   - https://radxa.com/heatsink/ae010/thumb_heatsink_7010.webp
   - https://radxa.com/heatsink/ae011b/thumb_heatsink_9010b.webp
-  models: []
-  products:
-  - https://radxa.com/products/accessories/heatsink-7010
-  repositories: []
-name: Heatsink 7010
-ref: radxa/heatsink-7010
-release_date: null
-sku: heatsink-7010
-spec: null
-status: ''
-vendor: radxa

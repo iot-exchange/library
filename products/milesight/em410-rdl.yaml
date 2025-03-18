@@ -1,0 +1,22 @@
+id: em410-rdl
+ref: milesight/em410-rdl
+vendor: milesight
+sku: em410-rdl
+name: EM410-RDL
+description: Milesight EM410-RDL is a pioneering device designed to offer real-time
+  monitoring of liquid levels in a wide range of scenarios. The device is equipped
+  with millimeter wave radar that enables enhanced transmission frequency and penetration
+  ability, tailored for sewers, canals, factories, liquid tanks, and more.
+status: ''
+extra:
+  Configuration: Additional Bluetooth Configuration
+  Corrosion Resistance: Corrosion Resistance
+  Detection Angle: "8\xB0 Angle Detection"
+  Technology: Millimeter Wave Radar
+  Tilt Sensor: Built-in Tilt Sensor
+  Waterproof: IP68 Dust Tight and Waterproof
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/em410-rdl
+  images:
+  - https://www.milesight.com/static/pc/en/iot/product/co-created-innovation-program/co-creation-program-em410-rdl-side-selection-picture.png?t=1742198686599

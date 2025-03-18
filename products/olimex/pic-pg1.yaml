@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pic-pg1
+ref: olimex/pic-pg1
+vendor: olimex
+sku: pic-pg1
+name: PIC-PG1
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/PIC/Programmers/PIC-PG1/images/thumbs/200x150/PIC-PG1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/PIC/Programmers/PIC-PG1/
-  repositories: []
-name: PIC-PG1
-ref: olimex/pic-pg1
-release_date: null
-sku: pic-pg1
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/PIC/Programmers/PIC-PG1/images/thumbs/200x150/PIC-PG1.jpg

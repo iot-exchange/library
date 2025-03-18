@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: ic550-0324-007-g
+ref: waveshare/ic550-0324-007-g
+vendor: waveshare
+sku: ic550-0324-007-g
+name: IC550-0324-007-G
 description: Test & Burn-in Socket
+status: ''
 extra:
   Price Range: $85.99 - $91.99
   SKU: '9917'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ic550-0324-007-g_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ic550-0324-007-g.htm
-  repositories: []
-name: IC550-0324-007-G
-ref: waveshare/ic550-0324-007-g
-release_date: null
-sku: ic550-0324-007-g
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ic550-0324-007-g_l_1_5.jpg

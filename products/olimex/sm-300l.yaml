@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sm-300l
+ref: olimex/sm-300l
+vendor: olimex
+sku: sm-300l
+name: SM-300L
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/StepperMotors/SM-300L/images/thumbs/200x150/SM-300L.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/StepperMotors/SM-300L/
-  repositories: []
-name: SM-300L
-ref: olimex/sm-300l
-release_date: null
-sku: sm-300l
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/StepperMotors/SM-300L/images/thumbs/200x150/SM-300L.jpg

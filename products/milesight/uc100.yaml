@@ -1,0 +1,13 @@
+id: uc100
+ref: milesight/uc100
+vendor: milesight
+sku: uc100
+name: UC100
+description: "Modbus to LoRaWAN\xAE Converter"
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/iot-controller/uc100
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/control/iot-controller-uc100.png?t=1742198585390

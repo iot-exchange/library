@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pic32-emz64
+ref: olimex/pic32-emz64
+vendor: olimex
+sku: pic32-emz64
+name: PIC32-EMZ64
 description: ''
+status: ''
 extra:
   discountedPrice1: 56.95 EUR
   discountedPrice2: 53.96 EUR
   price: 59.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/PIC/Development/PIC32-EMZ64/images/thumbs/200x150/PIC32-EMZ64.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/PIC/Development/PIC32-EMZ64/open-source-hardware
-  repositories: []
-name: PIC32-EMZ64
-ref: olimex/pic32-emz64
-release_date: null
-sku: pic32-emz64
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/PIC/Development/PIC32-EMZ64/images/thumbs/200x150/PIC32-EMZ64.jpg

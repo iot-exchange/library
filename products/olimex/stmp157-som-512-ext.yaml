@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: stmp157-som-512-ext
+ref: olimex/stmp157-som-512-ext
+vendor: olimex
+sku: stmp157-som-512-ext
+name: STMP157-SOM-512-EXT
 description: ''
+status: ''
 extra:
   discountedPrices:
   - 29.40 EUR
@@ -9,18 +13,7 @@ extra:
   - 27.60 EUR
   price: 30.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/SOM/STMP1/STMP157-SOM-512/images/thumbs/200x150/STMP15X-SOM.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/SOM/STMP1/STMP157-SOM-512-EXT/
-  repositories: []
-name: STMP157-SOM-512-EXT
-ref: olimex/stmp157-som-512-ext
-release_date: null
-sku: stmp157-som-512-ext
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/SOM/STMP1/STMP157-SOM-512/images/thumbs/200x150/STMP15X-SOM.jpg

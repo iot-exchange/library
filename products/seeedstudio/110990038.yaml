@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '110990038'
+ref: seeedstudio/110990038
+vendor: seeedstudio
+sku: '110990038'
+name: '110990038'
 description: Grove - Universal 4 Pin Buckled 50cm Cable (5 PCs Pack)
+status: ''
 extra:
   features: High quality copper wires Concise 4 pin buckled design Wearproof wires
     Easy to use Grove connectors with latch Compatible with any other Grove modules
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductgv50cm1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Grove-Universal-4-Pin-Buckled-50cm-Cable-5-PCs-Pack.html
-  repositories: []
-name: '110990038'
-ref: seeedstudio/110990038
-release_date: null
-sku: '110990038'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimagesproductgv50cm1.jpg

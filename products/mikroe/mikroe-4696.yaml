@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-4696
+ref: mikroe/mikroe-4696
+vendor: mikroe
+sku: mikroe-4696
+name: MIKROE-4696
 description: H-Bridge Driver Click is a compact add-on board that contains an H-bridge
   gate driver, also known as a full-bridge pre-driver. This board features the MC33883,
   an H-Bridge gate driver with an integrated charge pump and independent high and
   low side gate drive channels from NXP Semiconductors.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/h-bridge-driver-click/h-bridge-driver-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/h-bridge-driver-click
-  repositories: []
-name: MIKROE-4696
-ref: mikroe/mikroe-4696
-release_date: null
-sku: mikroe-4696
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/h-bridge-driver-click/h-bridge-driver-click-home_default-1.jpg?v=100

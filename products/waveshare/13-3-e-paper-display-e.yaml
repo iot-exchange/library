@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 13-3-e-paper-display-e
+ref: waveshare/13-3-e-paper-display-e
+vendor: waveshare
+sku: 13-3-e-paper-display-e
+name: "13.3\u2033 E-Paper Display (E)"
 description: "13.3inch E Ink Spectra 6 (E6) Full color E-Paper Display, 1600\xD71200\
   \ Pixels, SPI Communication, Optional For HAT+ Standard Driver HAT, E-ink Display"
+status: ''
 extra:
   Multi Options: ''
   Price: $269.99 -  $279.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/3/13.3inch-e-paper-hat-plus-e-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/13.3inch-e-paper-hat-plus-e.htm
-  repositories: []
-name: "13.3\u2033 E-Paper Display (E)"
-ref: waveshare/13-3-e-paper-display-e
-release_date: null
-sku: 13-3-e-paper-display-e
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/3/13.3inch-e-paper-hat-plus-e-2.jpg

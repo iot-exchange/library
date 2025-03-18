@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: ldds75
+ref: dragino/ldds75
+vendor: dragino
+sku: ldds75
+name: LDDS75
 description: LoRaWAN Distance Detection Sensor
+status: ''
 extra:
   Accuracy: "\xB1(1cm+S*0.3%) (S: Distance)"
   Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
@@ -9,18 +13,7 @@ extra:
   Power Consumption: Ultra Low
   Sensing Method: Ultrasonic
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/471bd07fdaa7b040f7ab8b2a13f8f35b_L.jpg
-  models: []
   products:
   - https://dragino.com/products/distance-level-sensor/item/161-ldds75.html
-  repositories: []
-name: LDDS75
-ref: dragino/ldds75
-release_date: null
-sku: ldds75
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/471bd07fdaa7b040f7ab8b2a13f8f35b_L.jpg

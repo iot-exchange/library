@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: led-stripe-16
+ref: olimex/led-stripe-16
+vendor: olimex
+sku: led-stripe-16
+name: LED-STRIPE-16
 description: ''
+status: ''
 extra:
   discountedPrice1: 10.08 EUR
   discountedPrice2: 8.96 EUR
   price: 11.20 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/LEDs/LED-STRIPE-16/images/thumbs/200x150/LED-STRIPE.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/LEDs/LED-STRIPE-16/
-  repositories: []
-name: LED-STRIPE-16
-ref: olimex/led-stripe-16
-release_date: null
-sku: led-stripe-16
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/LEDs/LED-STRIPE-16/images/thumbs/200x150/LED-STRIPE.jpg

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: mod-sdmmc
+ref: olimex/mod-sdmmc
+vendor: olimex
+sku: mod-sdmmc
+name: MOD-SDMMC
 description: ''
+status: ''
 extra:
   bulkPrice: 3.16 EUR
   discountedPrice: 3.56 EUR
@@ -9,18 +13,7 @@ extra:
   price2: 3.56 EUR
   price3: 3.16 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Interface/MOD-SDMMC/images/thumbs/200x150/MOD-SDMMC-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Interface/MOD-SDMMC/open-source-hardware
-  repositories: []
-name: MOD-SDMMC
-ref: olimex/mod-sdmmc
-release_date: null
-sku: mod-sdmmc
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Interface/MOD-SDMMC/images/thumbs/200x150/MOD-SDMMC-01.jpg

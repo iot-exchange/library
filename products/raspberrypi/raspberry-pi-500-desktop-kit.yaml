@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-500-desktop-kit
+ref: raspberrypi/raspberry-pi-500-desktop-kit
+vendor: raspberrypi
+sku: raspberry-pi-500-desktop-kit
+name: Raspberry Pi 500 Desktop Kit
 description: Your complete home computer setup
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/99a36584e398f1c2238f5a5a0a691996/3f4ea/Z1G1fpbqstJ98ErX_RaspberryPi500Desktopkit.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/500-desktop-kit/
-  repositories: []
-name: Raspberry Pi 500 Desktop Kit
-ref: raspberrypi/raspberry-pi-500-desktop-kit
-release_date: null
-sku: raspberry-pi-500-desktop-kit
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/99a36584e398f1c2238f5a5a0a691996/3f4ea/Z1G1fpbqstJ98ErX_RaspberryPi500Desktopkit.jpg

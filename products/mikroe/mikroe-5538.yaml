@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-5538
+ref: mikroe/mikroe-5538
+vendor: mikroe
+sku: mikroe-5538
+name: MIKROE-5538
 description: NFC 3 Click is a compact add-on board that contains an NFC transceiver
   for contactless communication at 13.56MHz. This board features the PN5180A0HN, a
   highly integrated high-performance full NFC Forum-compliant frontend from NXP Semiconductors.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/nfc-3-click/nfc-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/nfc-3-click
-  repositories: []
-name: MIKROE-5538
-ref: mikroe/mikroe-5538
-release_date: null
-sku: mikroe-5538
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/nfc-3-click/nfc-3-click-home_default-1.jpg?v=100

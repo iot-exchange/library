@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: pcie-to-2-ch-m-2-hat
+ref: waveshare/pcie-to-2-ch-m-2-hat
+vendor: waveshare
+sku: pcie-to-2-ch-m-2-hat
+name: PCIe TO 2-CH M.2 HAT+
 description: PCIe To 2-ch M.2 Adapter for Raspberry Pi 5, Compatible with 2230/2242
   Size NVMe Solid State Drive, Raspberry Pi 5 M.2 HAT
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/pcie-to-2-ch-m.2-hat-plus.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-2-ch-m.2-hat-plus-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-2-ch-m.2-hat-plus-2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/pcie-to-2-ch-m.2-hat-plus.htm
-  repositories: []
-name: PCIe TO 2-CH M.2 HAT+
-ref: waveshare/pcie-to-2-ch-m-2-hat
-release_date: null
-sku: pcie-to-2-ch-m-2-hat
-spec: null
-status: ''
-vendor: waveshare

@@ -1,38 +1,31 @@
-alternatives: []
-certifications: []
+id: nrf52811
+ref: nordicsemi/nrf52811
+vendor: nordicsemi
+sku: nrf52811
+name: nRF52811
 description: nRF52811 SoC Bluetooth 5.4 SoC supporting Bluetooth Low Energy, Bluetooth
   Direction Finding and Thread
+status: ''
 extra:
+  CPU: 64 MHz Cortex-M4
+  Flash: 192 KB
+  RAM: 24 KB
+  TX Power: +4 dBm
   ADC: 12-bit
   Additional Features: 2 Mbps, 1 Mbps, Long Range
-  Bluetooth Versions: 2 Mbps, 1 Mbps, Long Range
-  CPU: 64 MHz Cortex-M4
-  Encryption: 128-bit AES
-  Flash: 192 KB
   Interfaces: UART, SPI, TWI, PDM, PWM
+  Security: 128-bit AES
   Operating temperature: "-40 to 85 \xB0C"
   Packages: 6x6 mm QFN48 (32 GPIOs) 5x5 mm QFN32 (17 GPIOs)
-  Protocols: Bluetooth Direction Finding, Thread
-  RAM: 24 KB
-  Security: 128-bit AES
   Supply voltage range: 1.7 to 3.6 V
-  TX Power: +4 dBm
+  Bluetooth Versions: 2 Mbps, 1 Mbps, Long Range
+  Encryption: 128-bit AES
+  Protocols: Bluetooth Direction Finding, Thread
   Transceiver: 2.4 GHz
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.nordicsemi.com/Products/nRF52811
   images:
   - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52811-WLCSP-2.482-x-2.464-stakced_web.png?h=250&iar=0&mh=250&w=250&hash=1AF45EC9FD191F7E09C68025656EDEEB
   - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52811-WLCSP-2.482-x-2.464-stakced_web.png?h=50&iar=0&mw=50&w=50&hash=930A29A7DEBA21B166419653B8EE5378
   - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52811-WLCSP-2.482-x-2.464-stakced_web.png?h=500&iar=0&mh=500&w=500&hash=913A7F255B1E0B8784730E3F8E6B59BB
-  models: []
-  products:
-  - https://www.nordicsemi.com/Products/nRF52811
-  repositories: []
-name: nRF52811
-ref: nordicsemi/nrf52811
-release_date: null
-sku: nrf52811
-spec: null
-status: ''
-vendor: nordicsemi

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: fpq-44-0-8-16a
+ref: waveshare/fpq-44-0-8-16a
+vendor: waveshare
+sku: fpq-44-0-8-16a
+name: FPQ-44-0.8-16A
 description: Test & Burn-in Socket
+status: ''
 extra:
   Price: $55.59 - $58.99
   SKU: '3548'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/p/fpq-44-0.8-16a_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/fpq-44-0.8-16a.htm
-  repositories: []
-name: FPQ-44-0.8-16A
-ref: waveshare/fpq-44-0-8-16a
-release_date: null
-sku: fpq-44-0-8-16a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/p/fpq-44-0.8-16a_l_1_5.jpg

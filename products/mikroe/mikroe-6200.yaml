@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6200
+ref: mikroe/mikroe-6200
+vendor: mikroe
+sku: mikroe-6200
+name: MIKROE-6200
 description: Expand 18 Click is a compact add-on board used for expanding the I/O
   capabilities of various microcontroller (MCU) systems. This board features the PCAL9714,
   an ultra-low-voltage 14-bit SPI I/O expander from NXP. This board supports both
   3.3V and 5V logic levels, features integrated level shifting for mixed-voltage systems,
   and operates via a high-speed...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/expand-18-click/expand-18-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/expand-18-click
-  repositories: []
-name: MIKROE-6200
-ref: mikroe/mikroe-6200
-release_date: null
-sku: mikroe-6200
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/expand-18-click/expand-18-click-home_default-1.jpg?v=100

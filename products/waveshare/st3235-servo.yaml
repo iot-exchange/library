@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: st3235-servo
+ref: waveshare/st3235-servo
+vendor: waveshare
+sku: st3235-servo
+name: ST3235 Servo
 description: 30kg.cm ST3235 Serial Bus Servo, High Precision And Large Torque, Aluminum
   Alloy Case, With Programmable 360 Degrees Magnetic Encoder
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/st3235-servo-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/st3235-servo.htm
-  repositories: []
-name: ST3235 Servo
-ref: waveshare/st3235-servo
-release_date: null
-sku: st3235-servo
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/st3235-servo-1.jpg

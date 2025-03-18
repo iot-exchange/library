@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-6016
+ref: mikroe/mikroe-6016
+vendor: mikroe
+sku: mikroe-6016
+name: MIKROE-6016
 description: MICRF TX Click is a compact add-on board designed as a powerful RF transmitter
   for data transmission over the 315MHz frequency band. This board features the MICRF112,
   a high-performance RF transmitter IC from Microchip.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/micrf-tx-click/micrf-tx-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/micrf-tx-click
-  repositories: []
-name: MIKROE-6016
-ref: mikroe/mikroe-6016
-release_date: null
-sku: mikroe-6016
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/micrf-tx-click/micrf-tx-click-home_default-1.jpg?v=100

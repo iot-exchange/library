@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '102111006'
+ref: seeedstudio/102111006
+vendor: seeedstudio
+sku: '102111006'
+name: '102111006'
 description: The Raspberry Pi AI Camera is a compact, powerful module featuring a
   12MP Sony IMX500 sensor with on-board AI acceleration, enabling users to develop
   sophisticated vision-based applications without a separate accelerator.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/a/i/ai_camera_hero.png
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-AI-Camera-p-5939.html
-  repositories: []
-name: '102111006'
-ref: seeedstudio/102111006
-release_date: null
-sku: '102111006'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/a/i/ai_camera_hero.png

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: esp8684
+ref: espressif/esp8684
+vendor: espressif
+sku: esp8684
+name: ESP8684
 description: ''
+status: ''
 extra:
   Core: Single Core
   Development Board: '[ESP8684-DevKitM-1](https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp8684/esp8684-devkitm-1/index.html)'
@@ -16,18 +20,7 @@ extra:
   SPQ: '5000'
   Variants: ESP8684H2X ESP8684H4X
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/chips/ESP8684_S_0.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp8684_datasheet_en.pdf
-  repositories: []
-name: ESP8684
-ref: espressif/esp8684
-release_date: null
-sku: esp8684
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP8684_S_0.png

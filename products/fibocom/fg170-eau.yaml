@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: fg170-eau
+ref: fibocom/fg170-eau
+vendor: fibocom
+sku: fg170-eau
+name: FG170-EAU
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/5G-FG170-EAU.html
-  repositories: []
-name: FG170-EAU
-ref: fibocom/fg170-eau
-release_date: null
-sku: fg170-eau
-spec: null
-status: ''
-vendor: fibocom
+  images: []

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: ophelia-i
+ref: we/ophelia-i
+vendor: we
+sku: ophelia-i
+name: Ophelia-I
 description: EXTENDED Radio Module 2.4 GHz without firmware
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o678931v214%20Single_Ophelia_2612011022000.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/OPHELIA-I
-  repositories: []
-name: Ophelia-I
-ref: we/ophelia-i
-release_date: null
-sku: ophelia-i
-spec: null
-status: ''
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o678931v214%20Single_Ophelia_2612011022000.jpg

@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: uart-fingerprint-sensor-d
+ref: waveshare/uart-fingerprint-sensor-d
+vendor: waveshare
+sku: uart-fingerprint-sensor-d
+name: UART Fingerprint Sensor (D)
 description: "Round-Shaped All-In-One Capacitive Fingerprint Sensor (D), Cortex Processor,\
   \ 360\xB0 Verification"
+status: ''
 extra:
   Price: $15.97 - $16.99
   SKU: '20903'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/a/uart-fingerprint-sensor-d-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/uart-fingerprint-sensor-d.htm
   - "https://www.waveshare.com/product/uart-fingerprint-sensor-d.htm \"Round-Shaped\
     \ All-In-One Capacitive Fingerprint Sensor (D), Cortex Processor, 360\xB0 Verification\""
-  repositories: []
-name: UART Fingerprint Sensor (D)
-ref: waveshare/uart-fingerprint-sensor-d
-release_date: null
-sku: uart-fingerprint-sensor-d
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/a/uart-fingerprint-sensor-d-1.jpg

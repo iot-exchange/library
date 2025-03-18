@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: c120gs
+ref: cavli-wireless/c120gs
+vendor: cavli-wireless
+sku: c120gs
+name: C120GS
 description: C120GS is an LTE Cat 6 module offering high-speed cellular data capabilities
   with peak download speeds of 300 Mbps and upload speeds of 50 Mbps.
+status: ''
 extra:
   Applicable regions: APAC and EMEA
   Cellular Bands Supported: B1/B3/B5/B7/B8/B20 EPAC
@@ -11,17 +15,6 @@ extra:
   OS: LINUX (Kernel 3.1x / 5.1x)
   Upload Speed: 50Mbps (UL)
 links:
-  datasheets: []
-  examples: []
+  products: []
   images:
   - https://www.cavliwireless.com/assets/images/modules/c-series/webp-img/C120GS.webp
-  models: []
-  products: []
-  repositories: []
-name: C120GS
-ref: cavli-wireless/c120gs
-release_date: null
-sku: c120gs
-spec: null
-status: ''
-vendor: cavli-wireless

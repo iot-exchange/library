@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: rs26x
+ref: ezurio/rs26x
+vendor: ezurio
+sku: rs26x
+name: RS26x
 description: Battery powered IP67 temperature sensor platform that delivers HACCP
   level temperature monitoring with real time alerting for food safety compliance.
+status: ''
 extra:
   variants: Internal temperature sensor, External sensor probe via USB-C connector
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-12/RS26x-Group.png
-  models: []
   products:
   - https://www.ezurio.com/iot-devices/lorawan-iot-devices/rs26x-sensor
-  repositories: []
-name: RS26x
-ref: ezurio/rs26x
-release_date: null
-sku: rs26x
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-12/RS26x-Group.png

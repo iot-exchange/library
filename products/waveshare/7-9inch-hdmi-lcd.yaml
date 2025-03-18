@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: 7-9inch-hdmi-lcd
+ref: waveshare/7-9inch-hdmi-lcd
+vendor: waveshare
+sku: 7-9inch-hdmi-lcd
+name: 7.9inch HDMI LCD
 description: "7.9inch Capacitive Touch Screen LCD, 400\xD71280, HDMI, IPS, Toughened\
   \ Glass Cover"
+status: ''
 extra:
   Price: $74.91 - $78.99
   SKU: '17916'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/_/7.9hp-1.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/_/7.9hp-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/7.9inch-hdmi-lcd.htm
   - "https://www.waveshare.com/product/7.9inch-hdmi-lcd.htm \"7.9inch Capacitive Touch\
     \ Screen LCD, 400\xD71280, HDMI, IPS, Toughened Glass Cover\""
-  repositories: []
-name: 7.9inch HDMI LCD
-ref: waveshare/7-9inch-hdmi-lcd
-release_date: null
-sku: 7-9inch-hdmi-lcd
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/_/7.9hp-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/_/7.9hp-2.jpg

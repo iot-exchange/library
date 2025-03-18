@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: sera-nx040
+ref: ezurio/sera-nx040
+vendor: ezurio
+sku: sera-nx040
+name: Sera NX040
 description: The secure, flexible Sera NX040 range features tightly integrated hardware
   and RF designs, optimized for low power operation.
+status: ''
 extra:
   Integration: NXP and Nordic Semiconductor
   Technology: Ultra-wideband (UWB)
   Use Case: Granular locationing and positioning
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-03/Family%20-%20Sera%20NX040%20-%20Embossed%20-%20nxp-nordic.png
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/537x300/filters:fill(white)/filters:background_color(white)/2024-03/Family%20-%20Sera%20NX040%20-%20Embossed%20-%20nxp-nordic.png
-  models: []
   products:
   - https://www.ezurio.com/product/sera-nx040-series-uwb-bluetooth-le-nfc-modules
   - https://www.ezurio.com/resources/blog/now-available-the-uwb-4-click-powered-by-our-sera-nx040-and-brought-to-you-by-mikroe
-  repositories: []
-name: Sera NX040
-ref: ezurio/sera-nx040
-release_date: null
-sku: sera-nx040
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-03/Family%20-%20Sera%20NX040%20-%20Embossed%20-%20nxp-nordic.png
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/537x300/filters:fill(white)/filters:background_color(white)/2024-03/Family%20-%20Sera%20NX040%20-%20Embossed%20-%20nxp-nordic.png

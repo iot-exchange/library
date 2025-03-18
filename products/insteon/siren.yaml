@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: siren
+ref: insteon/siren
+vendor: insteon
+sku: siren
+name: Siren
 description: ''
+status: Out of stock
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/products/Insteon_Siren.jpg?v=1724712242&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/insteon-siren
-  repositories: []
-name: Siren
-ref: insteon/siren
-release_date: null
-sku: siren
-spec: null
-status: Out of stock
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Insteon_Siren.jpg?v=1724712242&width=533

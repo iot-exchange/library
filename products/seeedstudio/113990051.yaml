@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '113990051'
+ref: seeedstudio/113990051
+vendor: seeedstudio
+sku: '113990051'
+name: '113990051'
 description: NFC Antenna is a 13.56MHz antenna for Near Field Communication (NFC).
   It has a IPX/U.FL connector and can be used by NFC Shield V2, Xadow NFC and Grove
   NFC.It is the main part of custom NFC tags and cards for access control, tracking,
   anti-counterfeiting, and payment.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2018-03bazaar777521_tim20180330161428.png
-  models: []
   products:
   - https://www.seeedstudio.com/NFC-Antenna-p-1805.html
-  repositories: []
-name: '113990051'
-ref: seeedstudio/113990051
-release_date: null
-sku: '113990051'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2018-03bazaar777521_tim20180330161428.png

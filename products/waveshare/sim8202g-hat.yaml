@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: sim8202g-hat
+ref: waveshare/sim8202g-hat
+vendor: waveshare
+sku: sim8202g-hat
+name: sim8202g_hat
 description: SIM8202G-M2 5G HAT for Raspberry Pi, 5G/4G/3G Support, Snapdragon X55,
   Multi Mode Multi Band
+status: ''
 extra:
-  Multi Options: ''
   Price: $304.99
+  Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim8202g-m2-5g-hat-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/sim8202g-m2-5g-hat.htm
   - https://www.waveshare.com/product/sim8202g-m2-5g-hat.htm "SIM8202G-M2 5G HAT for
     Raspberry Pi, 5G/4G/3G Support, Snapdragon X55, Multi Mode Multi Band"
-  repositories: []
-name: sim8202g_hat
-ref: waveshare/sim8202g-hat
-release_date: null
-sku: sim8202g-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/i/sim8202g-m2-5g-hat-1.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5431
+ref: mikroe/mikroe-5431
+vendor: mikroe
+sku: mikroe-5431
+name: MIKROE-5431
 description: "When the first MIKROE Click board\u2122 was released in 2011, it was\
   \ the beginning of a decade-long development of the mikroBUS\u2122 standard - our\
   \ very own standard which is now world-renowned and able to support very many different\
   \ peripherals. With the mikroBUS\u2122 standard, you can turn any board into a development\
   \ tool. This T-shirt is for everyone who loves..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mikrobus-t-shirt/mikrobus-t-shirt-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mikrobus-t-shirt
-  repositories: []
-name: MIKROE-5431
-ref: mikroe/mikroe-5431
-release_date: null
-sku: mikroe-5431
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikrobus-t-shirt/mikrobus-t-shirt-home_default-1.jpg?v=100

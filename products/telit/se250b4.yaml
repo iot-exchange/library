@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: se250b4
+ref: telit/se250b4
+vendor: telit
+sku: se250b4
+name: SE250B4
 description: "SE250B4 smart module development kit featuring Qualcomm\xAE QCM2290\
   \ and Android and Linux."
+status: ''
 extra:
   CPU: Quad-core A53 @ 2.0 GHz
   Camera Support: One or two cameras up to 25 MP (13+13 MP)
@@ -14,18 +18,7 @@ extra:
   Video Support: Recording and playback of 1080p video at 30 FPS
   Wireless Technology: "Wi-Fi and Bluetooth\xAE"
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2023/02/SE250B4-2023_dynamic-271x200.png
-  models: []
   products:
   - https://www.telit.com/devices/se250b4-series/
-  repositories: []
-name: SE250B4
-ref: telit/se250b4
-release_date: null
-sku: se250b4
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2023/02/SE250B4-2023_dynamic-271x200.png

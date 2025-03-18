@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3763
+ref: mikroe/mikroe-3763
+vendor: mikroe
+sku: mikroe-3763
+name: MIKROE-3763
 description: "Button ALARM Click is a very interesting interactive gadget on a Click\
   \ board\u2122. It is an integrated capacitive touch sensor display in the form of\
   \ a button. By utilizing an advanced capacitive touch sensing technology, the CTHS15CIC05ALARM\
   \ sensor can successfully replace the traditional mechanical button, allowing very\
   \ simplified yet reliable user..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/button-alarm-click/button-alarm-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/button-alarm-click
-  repositories: []
-name: MIKROE-3763
-ref: mikroe/mikroe-3763
-release_date: null
-sku: mikroe-3763
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/button-alarm-click/button-alarm-click-home_default-1.jpg?v=100

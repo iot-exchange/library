@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: esp32-s0wd
+ref: espressif/esp32-s0wd
+vendor: espressif
+sku: esp32-s0wd
+name: ESP32-S0WD
 description: "Not recommended for new designs \u2192ESP32-D0WD-V3 / ESP32-U4WDH"
+status: Not recommended for new designs
 extra:
   Core: Single core
   Development Board: ESP32-DevKitC
@@ -16,18 +20,7 @@ extra:
   SPQ: '5000'
   Variants: N/A
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/chips/ESP32-S0WD_S_1.png
-  models: []
   products:
   - http://espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
-  repositories: []
-name: ESP32-S0WD
-ref: espressif/esp32-s0wd
-release_date: null
-sku: esp32-s0wd
-spec: null
-status: Not recommended for new designs
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/chips/ESP32-S0WD_S_1.png

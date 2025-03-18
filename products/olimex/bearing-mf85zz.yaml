@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bearing-mf85zz
+ref: olimex/bearing-mf85zz
+vendor: olimex
+sku: bearing-mf85zz
+name: BEARING-MF85ZZ
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-MF85ZZ/images/thumbs/200x150/MF8XZZ.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-MF85ZZ/
-  repositories: []
-name: BEARING-MF85ZZ
-ref: olimex/bearing-mf85zz
-release_date: null
-sku: bearing-mf85zz
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-MF85ZZ/images/thumbs/200x150/MF8XZZ.jpg

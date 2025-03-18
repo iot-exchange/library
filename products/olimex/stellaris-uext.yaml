@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: stellaris-uext
+ref: olimex/stellaris-uext
+vendor: olimex
+sku: stellaris-uext
+name: STELLARIS-UEXT
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Adapters/STELLARIS-UEXT/images/thumbs/200x150/STELLARIS-UEXT-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Adapters/STELLARIS-UEXT/open-source-hardware
-  repositories: []
-name: STELLARIS-UEXT
-ref: olimex/stellaris-uext
-release_date: null
-sku: stellaris-uext
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Adapters/STELLARIS-UEXT/images/thumbs/200x150/STELLARIS-UEXT-1.jpg

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: zero-disp-7a
+ref: waveshare/zero-disp-7a
+vendor: waveshare
+sku: zero-disp-7a
+name: Zero-DISP-7A
 description: "7\u2033 Touch Display Kit For Raspberry Pi Zero, With IPS Display Expansion\
   \ Board, 1024\xD7600, 5-point Capacitive Touch"
+status: ''
 extra:
   SKU: '24693'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/z/e/zero-disp-7a-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/zero-disp-7a.htm
-  repositories: []
-name: Zero-DISP-7A
-ref: waveshare/zero-disp-7a
-release_date: null
-sku: zero-disp-7a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/z/e/zero-disp-7a-1.jpg

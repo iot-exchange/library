@@ -1,0 +1,13 @@
+id: em400-tld
+ref: milesight/em400-tld
+vendor: milesight
+sku: em400-tld
+name: EM400-TLD
+description: ToF Laser Distance Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/em400-tld
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/distancelevel-measurement-em400-series/tof-laser-distance-sensor-em400-tld.png?t=1742198585390

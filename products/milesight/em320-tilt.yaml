@@ -1,0 +1,13 @@
+id: em320-tilt
+ref: milesight/em320-tilt
+vendor: milesight
+sku: em320-tilt
+name: EM320-TILT
+description: Tilt Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/em320-tilt
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/environmental-monitoring-em300-series/tilt-sensor-em320-tilt.png?t=1742198585390

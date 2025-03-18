@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: mds120-nb
+ref: dragino/mds120-nb
+vendor: dragino
+sku: mds120-nb
+name: MDS120-NB
 description: NB-IoT Microwave Radar Distance Sensor
+status: ''
 extra:
   60Ghz Microwave Radar for distance detection: ''
   Accuracy: "\xB1(2cm+SX0.3%) S: Measure Value"
@@ -12,18 +16,7 @@ extra:
   Support Bluetooth v5.1 remote configure and update firmware: ''
   Ultra-low power consumption: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/7ab716354432ee12f19b58c60471093b_L.jpg
-  models: []
   products:
   - https://dragino.com/products/distance-level-sensor/item/298-mds120-nb.html
-  repositories: []
-name: MDS120-NB
-ref: dragino/mds120-nb
-release_date: null
-sku: mds120-nb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/7ab716354432ee12f19b58c60471093b_L.jpg

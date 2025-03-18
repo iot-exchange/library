@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4204
+ref: mikroe/mikroe-4204
+vendor: mikroe
+sku: mikroe-4204
+name: MIKROE-4204
 description: "Magneto 8 Click is a compact add-on board that contains an easy-to-program\
   \ magnetic rotary position sensor with incremental quadrature (A/B) and 12-bit digital\
   \ outputs. This board features the AS5601, 12-bit programmable contactless encoder\
   \ IC from AMS-AG. This Click board\u2122 is based on a planar Hall sensor technology,\
   \ supports industry-standard I2C..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/magneto-8-click/magneto-8-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/magneto-8-click
-  repositories: []
-name: MIKROE-4204
-ref: mikroe/mikroe-4204
-release_date: null
-sku: mikroe-4204
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/magneto-8-click/magneto-8-click-home_default-1.jpg?v=100

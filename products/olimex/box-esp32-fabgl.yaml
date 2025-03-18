@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: box-esp32-fabgl
+ref: olimex/box-esp32-fabgl
+vendor: olimex
+sku: box-esp32-fabgl
+name: BOX-ESP32-FabGL
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Retro-Computers/BOX-ESP32-FabGL/images/thumbs/200x150/BOX-FabGL-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Retro-Computers/BOX-ESP32-FabGL/
-  repositories: []
-name: BOX-ESP32-FabGL
-ref: olimex/box-esp32-fabgl
-release_date: null
-sku: box-esp32-fabgl
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Retro-Computers/BOX-ESP32-FabGL/images/thumbs/200x150/BOX-FabGL-1.jpg

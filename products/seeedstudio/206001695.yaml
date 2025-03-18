@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '206001695'
+ref: seeedstudio/206001695
+vendor: seeedstudio
+sku: '206001695'
+name: '206001695'
 description: The NVIDIA Jetson Orin NX 16GB module delivers up to 100 TOPS of AI performance
   in the smallest Jetson form-factor, with power configurable between 10W and 25W.
   This gives you 3X the performance of NVIDIA Jetson AGX Xavier and 5X the performance
   of NVIDIA Jetson Xavier NX, making it ideal for small form-factor, low-power products
   like drones and handheld devices.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/9/0/900-13767-0010-000-2_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/NVIDIA-Jetson-Orin-NX-Module-16GB-p-5524.html
-  repositories: []
-name: '206001695'
-ref: seeedstudio/206001695
-release_date: null
-sku: '206001695'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/9/0/900-13767-0010-000-2_1.jpg

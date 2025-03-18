@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: thermal-camera-hat-b
+ref: waveshare/thermal-camera-hat-b
+vendor: waveshare
+sku: thermal-camera-hat-b
+name: Thermal Camera HAT (B)
 description: "Long-wave IR Thermal Imaging Camera HAT (B) For Raspberry Pi, Options\
   \ For 45\xB0 / 90\xB0 FOV, Raspberry Pi IR Camera, 80\xD762 Pixels, Standard 40PIN\
   \ GPIO Header"
+status: ''
 extra:
   Price: $89.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/h/thermal-45-camera-hat-b-1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/thermal-45-camera-hat-b.htm
   - "https://www.waveshare.com/product/thermal-45-camera-hat-b.htm \"Long-wave IR\
     \ Thermal Imaging Camera HAT (B) For Raspberry Pi, Options For 45\xB0 / 90\xB0\
     \ FOV, Raspberry Pi IR Camera, 80\xD762 Pixels, Standard 40PIN GPIO Header\""
-  repositories: []
-name: Thermal Camera HAT (B)
-ref: waveshare/thermal-camera-hat-b
-release_date: null
-sku: thermal-camera-hat-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/h/thermal-45-camera-hat-b-1_2.jpg

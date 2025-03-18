@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: olimexino-85-kit
+ref: olimex/olimexino-85-kit
+vendor: olimex
+sku: olimexino-85-kit
+name: OLIMEXINO-85-KIT
 description: ''
+status: ''
 extra:
   price1: 2.45 EUR
   price2: 2.33 EUR
   price3: 2.21 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Soldering-Kits/Beginner/OLIMEXINO-85-KIT/images/thumbs/200x150/OLIMEXINO-85-KIT.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Soldering-Kits/Beginner/OLIMEXINO-85-KIT/open-source-hardware
-  repositories: []
-name: OLIMEXINO-85-KIT
-ref: olimex/olimexino-85-kit
-release_date: null
-sku: olimexino-85-kit
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Soldering-Kits/Beginner/OLIMEXINO-85-KIT/images/thumbs/200x150/OLIMEXINO-85-KIT.jpg

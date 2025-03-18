@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-5280
+ref: mikroe/mikroe-5280
+vendor: mikroe
+sku: mikroe-5280
+name: MIKROE-5280
 description: CODEGRIP for Kinetis is a fast USB-C programmer and hardware debugger.
   It supports NXP's popular ARM Cortex-M0/M4/M7 Kinetis microcontrollers.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/codegrip-for-kinetis-over-usb-c/codegrip-for-kinetis-over-usb-c-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/codegrip-for-kinetis-over-usb-c
-  repositories: []
-name: MIKROE-5280
-ref: mikroe/mikroe-5280
-release_date: null
-sku: mikroe-5280
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/codegrip-for-kinetis-over-usb-c/codegrip-for-kinetis-over-usb-c-home_default-1.jpg?v=100

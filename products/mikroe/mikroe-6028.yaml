@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-6028
+ref: mikroe/mikroe-6028
+vendor: mikroe
+sku: mikroe-6028
+name: MIKROE-6028
 description: Accel&Pressure Click is a compact add-on board representing a rate-of-climb
   sensing solution for your application. This board features the FXLS8974CF, a 3-axis
   low-g accelerometer, and the MPL3115A2, a precision pressure sensor with altimetry,
   both from NXP Semiconductor. Those two sensors are high-performance, low-power devices
   covering all of...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/accelpressure-click/accelpressure-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/accelpressure-click
   - https://www.mikroe.com/cart?add=1&id_product=3819
-  repositories: []
-name: MIKROE-6028
-ref: mikroe/mikroe-6028
-release_date: null
-sku: mikroe-6028
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/accelpressure-click/accelpressure-click-home_default-1.jpg?v=100

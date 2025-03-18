@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: liquid-level-sensor
+ref: waveshare/liquid-level-sensor
+vendor: waveshare
+sku: liquid-level-sensor
+name: Liquid Level Sensor
 description: Liquid Level Sensor
+status: ''
 extra:
   Price: $2.59 - $2.99
   SKU: '9525'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/i/liquid-level-sensor_l_1_5.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/i/tilt-sensor_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/liquid-level-sensor.htm
   - https://www.waveshare.com/product/tilt-sensor.htm
-  repositories: []
-name: Liquid Level Sensor
-ref: waveshare/liquid-level-sensor
-release_date: null
-sku: liquid-level-sensor
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/i/liquid-level-sensor_l_1_5.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/i/tilt-sensor_l_1_5.jpg

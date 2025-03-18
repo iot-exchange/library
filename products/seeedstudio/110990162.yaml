@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '110990162'
+ref: seeedstudio/110990162
+vendor: seeedstudio
+sku: '110990162'
+name: '110990162'
 description: Spare counter-rotating propellers for the Crazyflie Nano Quadcopter.
   It is suitable for fitting to the crazyfile series of quadcopters and is available
   as a spare propeller pack for unexpected situations.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2017-08bazaar526532_propellers2400px1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Crazyflie-Nano-Quadcopter-4-x-CW-CCW-spare-propellers-BC-CWP-01-A-and-BC-CCWP-01-p-1361.html
-  repositories: []
-name: '110990162'
-ref: seeedstudio/110990162
-release_date: null
-sku: '110990162'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comseeedfile2017-08bazaar526532_propellers2400px1.jpg

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 2-7inch-e-paper-hat
+ref: waveshare/2-7inch-e-paper-hat
+vendor: waveshare
+sku: 2-7inch-e-paper-hat
+name: 2.7inch e-Paper HAT
 description: 264x176, 2.7inch E-Ink display HAT for Raspberry Pi
+status: ''
 extra:
   Price: $17.29 - $18.99
   SKU: '13354'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.7inch-e-paper-hat-3_4.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/2.7inch-e-paper-hat.htm
-  repositories: []
-name: 2.7inch e-Paper HAT
-ref: waveshare/2-7inch-e-paper-hat
-release_date: null
-sku: 2-7inch-e-paper-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.7inch-e-paper-hat-3_4.jpg

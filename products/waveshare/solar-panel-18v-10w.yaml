@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: solar-panel-18v-10w
+ref: waveshare/solar-panel-18v-10w
+vendor: waveshare
+sku: solar-panel-18v-10w
+name: Solar Panel (18V 10W)
 description: Polysilicon Solar Panel (18V 10W), High Conversion Efficiency
+status: ''
 extra:
   Price: $11.31 - $11.99
   SKU: '19598'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/o/solar-panel-18v-10w-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/solar-panel-18v-10w.htm
-  repositories: []
-name: Solar Panel (18V 10W)
-ref: waveshare/solar-panel-18v-10w
-release_date: null
-sku: solar-panel-18v-10w
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/o/solar-panel-18v-10w-1.jpg

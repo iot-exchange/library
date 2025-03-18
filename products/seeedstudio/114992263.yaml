@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '114992263'
+ref: seeedstudio/114992263
+vendor: seeedstudio
+sku: '114992263'
+name: '114992263'
 description: "IMX219-160 8MP Camera with 160\xB0 FOV - Compatible with NVIDIA Jetson\
   \ Nano/ Xavier NX"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992263_-preview-19.png
-  models: []
   products:
   - https://www.seeedstudio.com/IMX219-160-Camera-160-FOV-Applicable-for-Jetson-Nano-p-4603.html
-  repositories: []
-name: '114992263'
-ref: seeedstudio/114992263
-release_date: null
-sku: '114992263'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114992263_-preview-19.png

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-5642
+ref: mikroe/mikroe-5642
+vendor: mikroe
+sku: mikroe-5642
+name: MIKROE-5642
 description: "SmartMCD TB9M003FG Board Precision and power in every move SmartMCD\u2122\
   \ series gate driver IC with embedded microcontroller for sensorless control of\
   \ three-phase brushless DC motors. IN PARTNERSHIP WITH"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/smartmcd-tb9m003fg-board/smartmcd-tb9m003fg-board-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/smartmcd-tb9m003fg-board
-  repositories: []
-name: MIKROE-5642
-ref: mikroe/mikroe-5642
-release_date: null
-sku: mikroe-5642
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/smartmcd-tb9m003fg-board/smartmcd-tb9m003fg-board-home_default-1.jpg?v=100

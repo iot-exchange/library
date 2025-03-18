@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: wss-03
+ref: dragino/wss-03
+vendor: dragino
+sku: wss-03
+name: WSS-03
 description: RS485 CO2, PM2.5, PM10 sensor NDIR to measure CO2 with Internal Temperature
   Compensation Laser Beam Scattering to PM2.5 and PM10
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/ca332973fc363da77aefed58534dcd5c_L.jpg
-  models: []
   products:
   - https://dragino.com/products/agriculture-weather-station/item/216-wss-03.html
-  repositories: []
-name: WSS-03
-ref: dragino/wss-03
-release_date: null
-sku: wss-03
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/ca332973fc363da77aefed58534dcd5c_L.jpg

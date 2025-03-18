@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4244
+ref: mikroe/mikroe-4244
+vendor: mikroe
+sku: mikroe-4244
+name: MIKROE-4244
 description: EXPAND 7 Click is a compact add-on board that contains a multi-port I/O
   expander with bi-directional input/outputs or PWM outputs. This board features the
   CY8C9540A, 40-bit I/O port expander with EEPROM and 8 independently configurable
   8-bit PWM outputs from Infineon. The CY8C9540A operates as two I2C slave devices,
   first as a multi-port I/O expander, and...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/expand-7-click/expand-7-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/expand-7-click
-  repositories: []
-name: MIKROE-4244
-ref: mikroe/mikroe-4244
-release_date: null
-sku: mikroe-4244
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/expand-7-click/expand-7-click-home_default-1.jpg?v=100

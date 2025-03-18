@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4828
+ref: mikroe/mikroe-4828
+vendor: mikroe
+sku: mikroe-4828
+name: MIKROE-4828
 description: 'ISM RX 3 Click is a compact add-on board that contains a Sub-GHz RF
   receiver. This board features the MAX41470, a high-performance, low-power receiver
   ideal for amplitude shift-keyed (ASK) and frequency shift-keyed (FSK) data from
   Analog Devices. It can be configured for three sub-1GHz bands using an onboard 16MHz
   crystal: 287MHz to 320MHz, 425MHz to...'
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ism-rx-3-click/ism-rx-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ism-rx-3-click
-  repositories: []
-name: MIKROE-4828
-ref: mikroe/mikroe-4828
-release_date: null
-sku: mikroe-4828
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ism-rx-3-click/ism-rx-3-click-home_default-1.jpg?v=100

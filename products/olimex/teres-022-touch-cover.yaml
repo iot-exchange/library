@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-022-touch-cover
+ref: olimex/teres-022-touch-cover
+vendor: olimex
+sku: teres-022-touch-cover
+name: TERES-022-Touch-Cover
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-022-Touch-Cover/images/thumbs/200x150/TERES-022-Touch-Cover.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-022-Touch-Cover/
-  repositories: []
-name: TERES-022-Touch-Cover
-ref: olimex/teres-022-touch-cover
-release_date: null
-sku: teres-022-touch-cover
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-022-Touch-Cover/images/thumbs/200x150/TERES-022-Touch-Cover.jpg

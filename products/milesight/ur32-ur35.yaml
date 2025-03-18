@@ -1,0 +1,13 @@
+id: ur32-ur35
+ref: milesight/ur32-ur35
+vendor: milesight
+sku: ur32-ur35
+name: UR32 & UR35
+description: Pro Series UR32 & UR35 4G Industrial Router Robust & Programmable
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/cellular/ur35
+  images:
+  - https://www.milesight.com/static/pc/en/product/center/5g-cellular-products/index/ur32&ur35-router.png?t=1742198692607

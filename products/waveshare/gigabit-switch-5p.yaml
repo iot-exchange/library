@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: gigabit-switch-5p
+ref: waveshare/gigabit-switch-5p
+vendor: waveshare
+sku: gigabit-switch-5p
+name: gigabit-switch-5p
 description: Industrial 5P Gigabit Ethernet Switch, Full-Duplex 10/100/1000M, DIN
   Rail Mount
+status: ''
 extra:
   Multi Options: ''
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/gigabit-switch-5p.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/i/gigabit-switch-5p-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/i/gigabit-switch-5p-2_2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/gigabit-switch-5p.htm
-  repositories: []
-name: gigabit-switch-5p
-ref: waveshare/gigabit-switch-5p
-release_date: null
-sku: gigabit-switch-5p
-spec: null
-status: ''
-vendor: waveshare

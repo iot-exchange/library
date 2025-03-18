@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: esp32-poe-wrover
+ref: olimex/esp32-poe-wrover
+vendor: olimex
+sku: esp32-poe-wrover
+name: ESP32-POE-WROVER
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/ESP32/ESP32-POE/images/thumbs/200x150/ESP32-POE-EA-16.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/ESP32/ESP32-POE-WROVER/open-source-hardware
-  repositories: []
-name: ESP32-POE-WROVER
-ref: olimex/esp32-poe-wrover
-release_date: null
-sku: esp32-poe-wrover
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32/ESP32-POE/images/thumbs/200x150/ESP32-POE-EA-16.jpg

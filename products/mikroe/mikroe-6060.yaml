@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-6060
+ref: mikroe/mikroe-6060
+vendor: mikroe
+sku: mikroe-6060
+name: MIKROE-6060
 description: Load Cell 8 Click is a compact add-on board representing a weigh scale
   solution. This board features the ZSC31050, an advanced differential sensor signal
   conditioner from Renesas designed for high-precision signal conditioning.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/load-cell-8-click/load-cell-8-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/load-cell-8-click
-  repositories: []
-name: MIKROE-6060
-ref: mikroe/mikroe-6060
-release_date: null
-sku: mikroe-6060
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/load-cell-8-click/load-cell-8-click-home_default-1.jpg?v=100

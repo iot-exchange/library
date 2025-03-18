@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bushing-15x12-8
+ref: olimex/bushing-15x12-8
+vendor: olimex
+sku: bushing-15x12-8
+name: BUSHING-15x12-8
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BUSHING-15x12-8/images/thumbs/200x150/Bushing-15-12-8.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BUSHING-15x12-8/
-  repositories: []
-name: BUSHING-15x12-8
-ref: olimex/bushing-15x12-8
-release_date: null
-sku: bushing-15x12-8
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BUSHING-15x12-8/images/thumbs/200x150/Bushing-15-12-8.jpg

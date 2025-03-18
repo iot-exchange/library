@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: usb-hub-2i-4o
+ref: waveshare/usb-hub-2i-4o
+vendor: waveshare
+sku: usb-hub-2i-4o
+name: usb_hub_2i_4o
 description: Industrial Grade USB HUB, Extending 4x USB 2.0 Ports, Switchable Dual
   Hosts
+status: ''
 extra:
   Price: $14.99 - $16.99
   multiOptions: Multi Options
   price: $14.99 -  $16.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-hub-2in-4out-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-hub-2in-4out.htm
-  repositories: []
-name: usb_hub_2i_4o
-ref: waveshare/usb-hub-2i-4o
-release_date: null
-sku: usb-hub-2i-4o
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-hub-2in-4out-1.jpg

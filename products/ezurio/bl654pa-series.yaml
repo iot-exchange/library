@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: bl654pa-series
+ref: ezurio/bl654pa-series
+vendor: ezurio
+sku: bl654pa-series
+name: BL654PA Series
 description: Long Range Bluetooth Module
+status: ''
 extra:
   2MPHY: x
   802.15.4 / Matter / Thread: ''
@@ -8,18 +12,7 @@ extra:
   Classic BT: x
   LE Long Range: x
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/bl654pa-both_0.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/bl654pa-series-long-range-bluetooth-module
-  repositories: []
-name: BL654PA Series
-ref: ezurio/bl654pa-series
-release_date: null
-sku: bl654pa-series
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/bl654pa-both_0.png

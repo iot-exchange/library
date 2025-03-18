@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pls83
+ref: telit/pls83
+vendor: telit
+sku: pls83
+name: PLS83
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2024/11/TC_PLS83_dyn-285x200.png
-  models: []
   products:
   - https://www.telit.com/devices/pls83/
-  repositories: []
-name: PLS83
-ref: telit/pls83
-release_date: null
-sku: pls83
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/11/TC_PLS83_dyn-285x200.png

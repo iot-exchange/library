@@ -1,27 +1,20 @@
-alternatives: []
-certifications: []
+id: tungsten510-smarc
+ref: ezurio/tungsten510-smarc
+vendor: ezurio
+sku: tungsten510-smarc
+name: Tungsten510 SMARC
 description: "As Low As $79\nChipset (MPU)\n2x Cortex-A78 @ up to 2.0 GHz + 4x Cortex-A55\
   \ @ up to 2.0 GHz (MediaTek Genio 510) \nWireless Specification\nWi-Fi 6 (802.11ax)\
   \ Bluetooth 5.4 \nDimensions (L x W)\n82 x 50"
+status: ''
 extra:
   Chipset (MPU): 2x Cortex-A78 @ up to 2.0 GHz + 4x Cortex-A55 @ up to 2.0 GHz (MediaTek
     Genio 510)
   Dimensions (L x W): 82 x 50 mm
   Wireless Specification: Wi-Fi 6 (802.11ax) Bluetooth 5.4
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.ezurio.com/product/tungsten510-smarc
   images:
   - https://d2g2p0i8cc2bmh.cloudfront.net/2024-09/Tungsten%20510%20-%20MT320%20M1.2-1420%20-%20Front.png
   - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-09/Tungsten%20510%20-%20MT320%20M2.2-1420%20-%20Front.png
-  models: []
-  products:
-  - https://www.ezurio.com/product/tungsten510-smarc
-  repositories: []
-name: Tungsten510 SMARC
-ref: ezurio/tungsten510-smarc
-release_date: null
-sku: tungsten510-smarc
-spec: null
-status: ''
-vendor: ezurio

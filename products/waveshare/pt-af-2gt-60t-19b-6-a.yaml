@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pt-af-2gt-60t-19b-6-a
+ref: waveshare/pt-af-2gt-60t-19b-6-a
+vendor: waveshare
+sku: pt-af-2gt-60t-19b-6-a
+name: PT-AF-2GT-60T-19B-6-A
 description: 2GT 60 Teeth Aluminum Timing Pulley, 19mm Center Bore Diameter, with
   4 Flat Holes
+status: ''
 extra:
   Price: $5.65 - $5.99
   SKU: '22384'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/t/pt-af-2gt-60t-19b-6-a-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pt-af-2gt-60t-19b-6-a.htm
-  repositories: []
-name: PT-AF-2GT-60T-19B-6-A
-ref: waveshare/pt-af-2gt-60t-19b-6-a
-release_date: null
-sku: pt-af-2gt-60t-19b-6-a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/t/pt-af-2gt-60t-19b-6-a-1.jpg

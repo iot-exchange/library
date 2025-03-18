@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 49-module
+ref: microchip/49-module
+vendor: microchip
+sku: 49-module
+name: 49/MODULE
 description: Bluetooth LE, Zigbee, Thread, Proprietary Module
+status: ''
 extra:
   ADC: '8'
   Antenna Type: U.FL
@@ -27,16 +31,5 @@ extra:
   UART: '2'
   USB: '4'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: 49/MODULE
-ref: microchip/49-module
-release_date: null
-sku: 49-module
-spec: null
-status: ''
-vendor: microchip
+  images: []

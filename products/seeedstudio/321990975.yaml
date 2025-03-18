@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '321990975'
+ref: seeedstudio/321990975
+vendor: seeedstudio
+sku: '321990975'
+name: '321990975'
 description: High-quality low loss RG174 flat cable suitable for indoor and outdoor
   installation. Length 40cm (16') with connectors RPSMA Female to RPSMA Male.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/3/2/321990975_feature-02.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/RF-Cable-RPSMA-male-to-RPSMA-female-flat-cable-RG174-Black-400mm-p-5432.html
-  repositories: []
-name: '321990975'
-ref: seeedstudio/321990975
-release_date: null
-sku: '321990975'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/3/2/321990975_feature-02.jpg

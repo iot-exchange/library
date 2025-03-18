@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: cl4790-series
+ref: ezurio/cl4790-series
+vendor: ezurio
+sku: cl4790-series
+name: CL4790 Series
 description: Other
+status: Active
 extra:
   Channels: 'US/Canada: 32 channels Australia: 8 channels'
   ConnexLink: ''
   Dimensions (H x L x W): 35.56 x 111.76 x 68.58 mm
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/Embedded-Wireless-ConnexLink-CL4790-1000.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/ramp-ism-modules/connexlink-cable-replacement/cl4790-series
-  repositories: []
-name: CL4790 Series
-ref: ezurio/cl4790-series
-release_date: null
-sku: cl4790-series
-spec: null
-status: Active
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/Embedded-Wireless-ConnexLink-CL4790-1000.png

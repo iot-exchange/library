@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-5248
+ref: mikroe/mikroe-5248
+vendor: mikroe
+sku: mikroe-5248
+name: MIKROE-5248
 description: NECTO Studio Monthly subscription is the quickest and easiest way to
   unlock your NECTO Studio for ALL supported compilers (mikroC AI for ARM, mikroC
   AI for PIC, mikroC AI for PIC32, mikroC AI for dsPIC, mikroC AI for AVR and GCC
   toolchain for RISC-V).
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/temphum-21-click/temphum-21-click-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/uni-codegrip-no-wifi/uni-codegrip-no-wifi-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/temphum-21-click
   - https://www.mikroe.com/uni-codegrip-no-wifi
-  repositories: []
-name: MIKROE-5248
-ref: mikroe/mikroe-5248
-release_date: null
-sku: mikroe-5248
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/temphum-21-click/temphum-21-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/uni-codegrip-no-wifi/uni-codegrip-no-wifi-home_default-1.jpg?v=100

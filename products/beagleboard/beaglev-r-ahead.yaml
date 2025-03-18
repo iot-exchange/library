@@ -1,0 +1,18 @@
+id: beaglev-r-ahead
+ref: beagleboard/beaglev-r-ahead
+vendor: beagleboard
+sku: beaglev-r-ahead
+name: "BeagleV\xAE-Ahead"
+description: "BeagleV\xAE-Ahead Enabling the future of open source BeagleV\xAE-Ahead\
+  \ is an open-source RISC-V single board computer (SBC) with BeagleBone Black cape\
+  \ header pins allowing you to stack your favorite BeagleBone cape on top to expand\
+  \ its capability. Featuring a powerful quad-core RISC-V processor, BeagleV\xAE-Ahead\
+  \ is designed as an affordable RISC-V enabled pocket-size computer for anybody who\
+  \ [\u2026]"
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.beagleboard.org/boards/beaglev-ahead
+  images:
+  - https://www.beagleboard.org/app/uploads/2023/07/45font-400x278.png

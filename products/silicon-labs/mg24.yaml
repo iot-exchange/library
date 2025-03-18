@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mg24
+ref: silicon-labs/mg24
+vendor: silicon-labs
+sku: mg24
+name: MG24
 description: Supports multiprotocol features for devices operating in multiple networks
   based on the 802.15.4 standard.
+status: ''
 extra:
   features: Concurrent listening, dynamic multi-protocol operations
   protocols: Zigbee, Thread
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: MG24
-ref: silicon-labs/mg24
-release_date: null
-sku: mg24
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

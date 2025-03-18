@@ -1,0 +1,13 @@
+id: ws51x
+ref: milesight/ws51x
+vendor: milesight
+sku: ws51x
+name: WS51x
+description: Smart Wall Socket
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/ws51x
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/smart-workplace-cowork-series/ws51x-smart-wall-socket.png?t=1742198585390

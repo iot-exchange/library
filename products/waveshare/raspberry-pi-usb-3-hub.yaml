@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-usb-3-hub
+ref: waveshare/raspberry-pi-usb-3-hub
+vendor: waveshare
+sku: raspberry-pi-usb-3-hub
+name: Raspberry Pi USB 3 Hub
 description: official Raspberry Pi USB 3 Hub, Expands Four Downstream USB 3.0 Type-A
   Ports, Data Transfer Speeds Up To 5 Gbps
+status: ''
 extra:
   Price: $12.99
   SKU: '29293'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-usb-3-hub-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/raspberry-pi-usb-3-hub.htm
-  repositories: []
-name: Raspberry Pi USB 3 Hub
-ref: waveshare/raspberry-pi-usb-3-hub
-release_date: null
-sku: raspberry-pi-usb-3-hub
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-usb-3-hub-1.jpg

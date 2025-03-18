@@ -1,29 +1,22 @@
-alternatives: []
-certifications: []
+id: vc7000
+ref: vertexcom/vc7000
+vendor: vertexcom
+sku: vc7000
+name: VC7000
 description: Integrated high-performance sub-1GHz RF Transceiver for smart grids and
   IIoT applications.
+status: ''
 extra:
-  Body Size(mm): 5x5
-  Flash: 512 KB
   Integrated patented 4-Amp high current Line Driver: ''
   Modulation: BPSK, QPSK and 16QAM
   PLC Analog Front End: IEEE 1901.1
-  Package: QFN-32
-  RAM: 128 KB
   Support frequency Band: 0 - 500 KHz
   Support frequency band: 0.7 ~ 3MHz
+  Body Size(mm): 5x5
+  Flash: 512 KB
+  Package: QFN-32
+  RAM: 128 KB
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - http://www.vertexcom.com/index_en.html
-  repositories: []
-name: VC7000
-ref: vertexcom/vc7000
-release_date: null
-sku: vc7000
-spec: null
-status: ''
-vendor: vertexcom
+  images: []

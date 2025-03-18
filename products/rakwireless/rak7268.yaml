@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: rak7268
+ref: rakwireless/rak7268
+vendor: rakwireless
+sku: rak7268
+name: RAK7268
 description: WisGate Edge Lite 2 - Compact and quick-to-deploy for indoor use
+status: ''
 extra:
   Cost Efficiency: RAK's most cost-efficient gateway
   LED: Features breathing status LED
   Remote Management: Remote management with WisDM
   Variants: "Comes in two variants\u2014with and without cellular connection"
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://res.rakwireless.com/tracked/products/wisgate-edge/rak7268-updated-updated.png?fm=webp
-  models: []
   products:
   - https://store.rakwireless.com/products/wisgate-edge-lite-2-rak7268v2-rak7268cv2?utm_source=WisGate&utm_medium=WisGate&utm_campaign=RAKwireless
-  repositories: []
-name: RAK7268
-ref: rakwireless/rak7268
-release_date: null
-sku: rak7268
-spec: null
-status: ''
-vendor: rakwireless
+  images:
+  - https://res.rakwireless.com/tracked/products/wisgate-edge/rak7268-updated-updated.png?fm=webp

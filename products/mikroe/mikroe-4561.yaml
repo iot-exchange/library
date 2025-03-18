@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4561
+ref: mikroe/mikroe-4561
+vendor: mikroe
+sku: mikroe-4561
+name: MIKROE-4561
 description: AMR Angle Click is a compact add-on board containing an anisotropic magnetoresistive
   measurement solution ideal for either angle or linear position measurements. This
   board features the ADA4571, an AMR sensor with clean and amplified cosine and sine
   output signals related to a rotating magnetic field angle from Analog Devices. It
   can provide better than...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/amr-angle-click/amr-angle-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/amr-angle-click
-  repositories: []
-name: MIKROE-4561
-ref: mikroe/mikroe-4561
-release_date: null
-sku: mikroe-4561
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/amr-angle-click/amr-angle-click-home_default-1.jpg?v=100

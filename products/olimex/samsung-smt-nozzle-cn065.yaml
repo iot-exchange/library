@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: samsung-smt-nozzle-cn065
+ref: olimex/samsung-smt-nozzle-cn065
+vendor: olimex
+sku: samsung-smt-nozzle-cn065
+name: SAMSUNG-SMT-NOZZLE-CN065
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/SMT/SAMSUNG-SMT-NOZZLE-CN065/images/thumbs/200x150/CN065.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/SMT/SAMSUNG-SMT-NOZZLE-CN065/
-  repositories: []
-name: SAMSUNG-SMT-NOZZLE-CN065
-ref: olimex/samsung-smt-nozzle-cn065
-release_date: null
-sku: samsung-smt-nozzle-cn065
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/SMT/SAMSUNG-SMT-NOZZLE-CN065/images/thumbs/200x150/CN065.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: nx5-io-board
+ref: radxa/nx5-io-board
+vendor: radxa
+sku: nx5-io-board
+name: NX5 IO Board
 description: an Application Board for Radxa NX5(mEdge-RK3588S)
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/io-board/medge-rk3588s-io-board/thumb_nx5_io_board.webp
-  models: []
   products:
   - https://radxa.com/products/io-board/nx5-io-board
-  repositories: []
-name: NX5 IO Board
-ref: radxa/nx5-io-board
-release_date: null
-sku: nx5-io-board
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/io-board/medge-rk3588s-io-board/thumb_nx5_io_board.webp

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: led-lmp
+ref: olimex/led-lmp
+vendor: olimex
+sku: led-lmp
+name: LED-LMP
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Soldering/LED-LMP/images/thumbs/200x150/LED-LMP-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Soldering/LED-LMP/
-  repositories: []
-name: LED-LMP
-ref: olimex/led-lmp
-release_date: null
-sku: led-lmp
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/LED-LMP/images/thumbs/200x150/LED-LMP-1.jpg

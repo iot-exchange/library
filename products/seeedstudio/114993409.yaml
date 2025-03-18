@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '114993409'
+ref: seeedstudio/114993409
+vendor: seeedstudio
+sku: '114993409'
+name: '114993409'
 description: The OpenUC2 10x AI Microscope is a revolutionary step towards making
   high-quality, automated microscopy accessible to everyone. Created in collaboration
   with openUC2, this device is ideal for hackers, optics newcomers, and biologists.
   It offers more functionalities than a standard USB microscope, including timelapse,
   autofocusing, and autonomous operation with image storage on an SD card.
+status: ''
 extra:
   price: $109.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993409-xiao-microscope.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/XIAO-Microscope-p-5971.html
-  repositories: []
-name: '114993409'
-ref: seeedstudio/114993409
-release_date: null
-sku: '114993409'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993409-xiao-microscope.jpg

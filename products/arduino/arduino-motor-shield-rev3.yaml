@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: arduino-motor-shield-rev3
+ref: arduino/arduino-motor-shield-rev3
+vendor: arduino
+sku: arduino-motor-shield-rev3
+name: Arduino Motor Shield Rev3
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.arduino.cc/wiki/static/dd239fdbd3ee02b18b88926cbadc1527/41099/motor-shield.jpg
-  models: []
   products:
   - https://store.arduino.cc/products/arduino-motor-shield-rev3
-  repositories: []
-name: Arduino Motor Shield Rev3
-ref: arduino/arduino-motor-shield-rev3
-release_date: null
-sku: arduino-motor-shield-rev3
-spec: null
-status: ''
-vendor: arduino
+  images:
+  - https://www.arduino.cc/wiki/static/dd239fdbd3ee02b18b88926cbadc1527/41099/motor-shield.jpg

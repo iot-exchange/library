@@ -1,0 +1,13 @@
+id: emb-lr1272-evk
+ref: embit/emb-lr1272-evk
+vendor: embit
+sku: emb-lr1272-evk
+name: EMB-LR1272-EVK
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.embit.eu/products/emb-lr1272-evk/
+  images:
+  - https://www.embit.eu/wp-content/uploads/2021/01/EMB-LR1272-EVK-modifica-2-2-300x225.jpg

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: rs9116-wi-fi-transceiver-modules
+ref: silicon-labs/rs9116-wi-fi-transceiver-modules
+vendor: silicon-labs
+sku: rs9116-wi-fi-transceiver-modules
+name: RS9116 Wi-Fi Transceiver Modules
 description: RS9116 Wi-Fi Transceiver Modules
+status: ''
 extra:
   Max Flash/RAM (kB): ''
   Output Power Range (dBm): ''
@@ -8,17 +12,6 @@ extra:
   "Secure Vault\u2122": Base
   TX Current (0 dBm): ''
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/wireless/wi-fi/rs9116-wi-fi-transceiver-modules
-  repositories: []
-name: RS9116 Wi-Fi Transceiver Modules
-ref: silicon-labs/rs9116-wi-fi-transceiver-modules
-release_date: null
-sku: rs9116-wi-fi-transceiver-modules
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

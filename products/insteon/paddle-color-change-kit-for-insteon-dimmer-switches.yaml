@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: paddle-color-change-kit-for-insteon-dimmer-switches
+ref: insteon/paddle-color-change-kit-for-insteon-dimmer-switches
+vendor: insteon
+sku: paddle-color-change-kit-for-insteon-dimmer-switches
+name: Paddle Color Change Kit for Insteon Dimmer Switches
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/products/Brown_Paddle_Color_Change_Kit_for_Insteon_Dimmer_Switches.jpg?v=1723522701&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/paddle-color-change-kit-for-insteon-dimmer-switches
-  repositories: []
-name: Paddle Color Change Kit for Insteon Dimmer Switches
-ref: insteon/paddle-color-change-kit-for-insteon-dimmer-switches
-release_date: null
-sku: paddle-color-change-kit-for-insteon-dimmer-switches
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Brown_Paddle_Color_Change_Kit_for_Insteon_Dimmer_Switches.jpg?v=1723522701&width=533

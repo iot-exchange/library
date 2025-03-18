@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: els62
+ref: telit/els62
+vendor: telit
+sku: els62
+name: ELS62
 description: LTE Package including ELS62 module, SIM card, NExT global connectivity
   plan, NExT connectivity management portal, and device management.
+status: ''
 extra:
   suitableFor: Telematics, Asset tracking, Smart buildings, Security and surveillance,
     Retail and payments, Connected health care
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.telit.com/devices/els62/
   images:
   - https://www.telit.com/wp-content/uploads/2023/02/ELS62_dynamic_700w-271x200.png
   - https://www.telit.com/wp-content/uploads/2024/02/els62-cyber.jpg
-  models: []
-  products:
-  - https://www.telit.com/devices/els62/
-  repositories: []
-name: ELS62
-ref: telit/els62
-release_date: null
-sku: els62
-spec: null
-status: ''
-vendor: telit

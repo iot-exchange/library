@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: universal-smarc-carrier
+ref: ezurio/universal-smarc-carrier
+vendor: ezurio
+sku: universal-smarc-carrier
+name: Universal SMARC Carrier
 description: Size optimized SMARC 2.1.1 board, Tri-Band & Dual-Band Wi-Fi Antennas,
   Compatible with any of our Nitrogen or Tungsten SMARC SOMs
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-06/SMARC_CAR%20Kit.png
-  models: []
   products:
   - https://www.ezurio.com/system-on-module/accessories/universal-smarc-carrier
-  repositories: []
-name: Universal SMARC Carrier
-ref: ezurio/universal-smarc-carrier
-release_date: null
-sku: universal-smarc-carrier
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-06/SMARC_CAR%20Kit.png

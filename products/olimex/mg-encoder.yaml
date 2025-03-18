@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mg-encoder
+ref: olimex/mg-encoder
+vendor: olimex
+sku: mg-encoder
+name: MG-ENCODER
 description: ''
+status: ''
 extra:
   discountedPrice1: 0.27 EUR
   discountedPrice2: 0.24 EUR
   price: 0.30 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/MG-ENCODER/images/thumbs/200x150/ENCODER.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/MG-ENCODER/
-  repositories: []
-name: MG-ENCODER
-ref: olimex/mg-encoder
-release_date: null
-sku: mg-encoder
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/GearMotors/MG-ENCODER/images/thumbs/200x150/ENCODER.jpg

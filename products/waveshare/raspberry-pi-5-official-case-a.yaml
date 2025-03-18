@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-5-official-case-a
+ref: waveshare/raspberry-pi-5-official-case-a
+vendor: waveshare
+sku: raspberry-pi-5-official-case-a
+name: Raspberry Pi 5 Official Case (A)
 description: Official Raspberry Pi Case for Raspberry Pi 5, Built-in Cooling Fan,
   Red/White Color
+status: ''
 extra:
   Price: $9.97 - $10.99
   SKU: '25941'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-5-official-case-a-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/raspberry-pi-5-official-case-a.htm
-  repositories: []
-name: Raspberry Pi 5 Official Case (A)
-ref: waveshare/raspberry-pi-5-official-case-a
-release_date: null
-sku: raspberry-pi-5-official-case-a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-5-official-case-a-1.jpg

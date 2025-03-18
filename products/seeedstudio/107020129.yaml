@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '107020129'
+ref: seeedstudio/107020129
+vendor: seeedstudio
+sku: '107020129'
+name: '107020129'
 description: This MP3 module with an Arduino can be turned into your multi-format
   music player! It's a Music module based on WT2605CX high-quality audio chip, which
   has better performance than MP3 V3 and supports Grove interface, Speaker JST interface,
   3.5mm audio jack and SD card, supporting SPI-Flash, TF card, and USB flash disk.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-107020129-grove-mp3_v4-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Grove-MP3-V4-p-5862.html
-  repositories: []
-name: '107020129'
-ref: seeedstudio/107020129
-release_date: null
-sku: '107020129'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-107020129-grove-mp3_v4-45font.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pulley-36t-steel
+ref: olimex/pulley-36t-steel
+vendor: olimex
+sku: pulley-36t-steel
+name: PULLEY-36T-STEEL
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/PULLEY-36T-STEEL/images/thumbs/200x150/PULLEY-36T-STEEL.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/PULLEY-36T-STEEL/
-  repositories: []
-name: PULLEY-36T-STEEL
-ref: olimex/pulley-36t-steel
-release_date: null
-sku: pulley-36t-steel
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/PULLEY-36T-STEEL/images/thumbs/200x150/PULLEY-36T-STEEL.jpg

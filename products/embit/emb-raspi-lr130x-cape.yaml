@@ -1,0 +1,13 @@
+id: emb-raspi-lr130x-cape
+ref: embit/emb-raspi-lr130x-cape
+vendor: embit
+sku: emb-raspi-lr130x-cape
+name: EMB-RasPI-LR130x-Cape
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.embit.eu/products/emb-raspi-lr130x-cape/
+  images:
+  - https://www.embit.eu/wp-content/uploads/2020/04/EMB-RasPI-LR130x-Cape-modifica-2-300x225.jpg

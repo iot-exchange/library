@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-6015
+ref: mikroe/mikroe-6015
+vendor: mikroe
+sku: mikroe-6015
+name: MIKROE-6015
 description: MICRF RX 2 Click is a compact add-on board for high-sensitivity applications,
   including remote keyless entry, tire pressure monitoring systems, and remote actuation
   systems. This board features the MICRF219A, an ASK/OOK 433MHz receiver with Auto-Poll
   and RSSI from Microchip.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/micrf-rx-2-click/micrf-rx-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/micrf-rx-2-click
-  repositories: []
-name: MIKROE-6015
-ref: mikroe/mikroe-6015
-release_date: null
-sku: mikroe-6015
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/micrf-rx-2-click/micrf-rx-2-click-home_default-1.jpg?v=100

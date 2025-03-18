@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '110990471'
+ref: seeedstudio/110990471
+vendor: seeedstudio
+sku: '110990471'
+name: '110990471'
 description: Raspberry Pi Media Center Kit. Out-of-box OpenELEC preinstalled Raspberry
   Pi 2 supported Including WiFi USB Dongle HDMI CEC supported.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimages110990471206.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-2246.html?bazaar4_retailer-products%5Bpage%5D=2#110990471
   - https://www.seeedstudio.com/Raspberry-Pi-Media-Center-Kit.html
-  repositories: []
-name: '110990471'
-ref: seeedstudio/110990471
-release_date: null
-sku: '110990471'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/t/httpsstatics3.seeedstudio.comimages110990471206.jpg

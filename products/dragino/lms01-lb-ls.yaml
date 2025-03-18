@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: lms01-lb-ls
+ref: dragino/lms01-lb-ls
+vendor: dragino
+sku: lms01-lb-ls
+name: LMS01-LB/LS
 description: LoRaWAN Leaf Moisture Sensor
+status: ''
 extra:
   Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
   Battery: 8500mAh Li/SOCl2 Battery (LMS01-LB), Solar panel + 3000mAh Li-ion battery
@@ -10,18 +14,7 @@ extra:
   Power Consumption: Ultra Low Power Consumption
   Type: LoRaWAN 1.0.3 Class A
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/3f670763861139bf2201e7bc224257d4_L.jpg
-  models: []
   products:
   - https://dragino.com/products/agriculture-weather-station/item/281-lms01-lb-ls.html
-  repositories: []
-name: LMS01-LB/LS
-ref: dragino/lms01-lb-ls
-release_date: null
-sku: lms01-lb-ls
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/3f670763861139bf2201e7bc224257d4_L.jpg

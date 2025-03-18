@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-5880
+ref: mikroe/mikroe-5880
+vendor: mikroe
+sku: mikroe-5880
+name: MIKROE-5880
 description: ADC 14 Click is a compact add-on board with a high-performance data converter.
   This board features the MAX11108A, a low-power serial ADC from Analog Devices. It
   includes a high-dynamic range sample-and-hold and a high-speed serial interface.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/adc-14-click/adc-14-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/adc-14-click
-  repositories: []
-name: MIKROE-5880
-ref: mikroe/mikroe-5880
-release_date: null
-sku: mikroe-5880
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/adc-14-click/adc-14-click-home_default-1.jpg?v=100

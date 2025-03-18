@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: arduino-mkr-vidor-4000
+ref: arduino/arduino-mkr-vidor-4000
+vendor: arduino
+sku: arduino-mkr-vidor-4000
+name: Arduino MKR Vidor 4000
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.arduino.cc/wiki/static/5fcca0fbc9822b25e13a1ae713e1d896/4b190/mkr_vidor_4000.jpg
-  models: []
   products:
   - https://store.arduino.cc/products/arduino-mkr-vidor-4000
-  repositories: []
-name: Arduino MKR Vidor 4000
-ref: arduino/arduino-mkr-vidor-4000
-release_date: null
-sku: arduino-mkr-vidor-4000
-spec: null
-status: ''
-vendor: arduino
+  images:
+  - https://www.arduino.cc/wiki/static/5fcca0fbc9822b25e13a1ae713e1d896/4b190/mkr_vidor_4000.jpg

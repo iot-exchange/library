@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: heatsink-8420b
+ref: radxa/heatsink-8420b
+vendor: radxa
+sku: heatsink-8420b
+name: Heatsink 8420B
 description: Specialized for Radxa Orion O6
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/heatsink/ae026/thumb_heatsink_8420b.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/heatsink-8420b
-  repositories: []
-name: Heatsink 8420B
-ref: radxa/heatsink-8420b
-release_date: null
-sku: heatsink-8420b
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/heatsink/ae026/thumb_heatsink_8420b.webp

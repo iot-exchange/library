@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5274
+ref: mikroe/mikroe-5274
+vendor: mikroe
+sku: mikroe-5274
+name: MIKROE-5274
 description: "Pressure 21 Click is a compact add-on board that contains a board-mount\
   \ pressure sensor. This board features the BMP581, an absolute barometric pressure\
   \ sensor from Bosch Sensortec. The BMP581 provides a relative accuracy of \xB16Pa\
   \ and typical absolute accuracy of \xB130Pa with ultra-low noise, low power consumption,\
   \ and temperature stability alongside..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/pressure-21-click/pressure-21-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/pressure-21-click
-  repositories: []
-name: MIKROE-5274
-ref: mikroe/mikroe-5274
-release_date: null
-sku: mikroe-5274
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/pressure-21-click/pressure-21-click-home_default-1.jpg?v=100

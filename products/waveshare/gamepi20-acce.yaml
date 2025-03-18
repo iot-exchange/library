@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: gamepi20-acce
+ref: waveshare/gamepi20-acce
+vendor: waveshare
+sku: gamepi20-acce
+name: GamePi20 Acce
 description: GamePi20 Add-ons for Raspberry Pi Zero to Build GamePi20
+status: ''
 extra:
   Price: $28.29 - $29.99
   SKU: '16865'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/a/gamepi20-5_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/gamepi20-acce.htm
-  repositories: []
-name: GamePi20 Acce
-ref: waveshare/gamepi20-acce
-release_date: null
-sku: gamepi20-acce
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/g/a/gamepi20-5_1.jpg

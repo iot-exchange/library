@@ -1,8 +1,12 @@
-alternatives: []
-certifications: []
+id: stm32wle5jb
+ref: st/stm32wle5jb
+vendor: st
+sku: stm32wle5jb
+name: STM32WLE5JB
 description: Sub-GHz Wireless Microcontrollers. Arm Cortex-M4 @48 MHz with 128 Kbytes
   of Flash memory, 48 Kbytes of SRAM. LoRa, (G)FSK, (G)MSK, BPSK modulations. AES
   256-bit. Multiprotocol System-on-Chip.
+status: ''
 extra:
   Data Rate (kbps) max: '-'
   Data Rate (kbps) min: '-'
@@ -19,18 +23,7 @@ extra:
   "Standby Current (\xB5A) typ": '0.071'
   TX current (mA) @ Max Output Power: '-'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.st.com/en/microcontrollers-microprocessors/stm32wle5jb.html
   - https://www.st.com/en/microcontrollers-microprocessors/stm32wle5jb.html#sample-buy
-  repositories: []
-name: STM32WLE5JB
-ref: st/stm32wle5jb
-release_date: null
-sku: stm32wle5jb
-spec: null
-status: ''
-vendor: st
+  images: []

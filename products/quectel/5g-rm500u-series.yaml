@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: 5g-rm500u-series
+ref: quectel/5g-rm500u-series
+vendor: quectel
+sku: 5g-rm500u-series
+name: 5G RM500U series
 description: 5G  DFOTA  NSA  SA  VoLTE  VoNR
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.quectel.com/content/uploads/2024/04/RM500U-EA-1.png
-  models: []
   products:
   - https://www.quectel.com/product/5g-rm500u-series/
-  repositories: []
-name: 5G RM500U series
-ref: quectel/5g-rm500u-series
-release_date: null
-sku: 5g-rm500u-series
-spec: null
-status: ''
-vendor: quectel
+  images:
+  - https://www.quectel.com/content/uploads/2024/04/RM500U-EA-1.png

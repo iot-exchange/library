@@ -1,8 +1,12 @@
-alternatives: []
-certifications: []
+id: rak11720
+ref: rakwireless/rak11720
+vendor: rakwireless
+sku: rak11720
+name: RAK11720
 description: Some WisDuo modules provide Bluetooth Low Energy (BLE) connectivity in
   addition to LoRa. Having both of these protocols available opens the door for more
   use cases and deployment scenarios.
+status: ''
 extra:
   Antenna connector: IPEX and RF pinout
   Certification: CE, UK, FCC, KC, ISED
@@ -15,17 +19,6 @@ extra:
   Sleep current: "2.37 \xB5A"
   TCXO: Supported
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://docs.rakwireless.com/Product-Categories/WisDuo/RAK11720-Module/Datasheet/
-  repositories: []
-name: RAK11720
-ref: rakwireless/rak11720
-release_date: null
-sku: rak11720
-spec: null
-status: ''
-vendor: rakwireless
+  images: []

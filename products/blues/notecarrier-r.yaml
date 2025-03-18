@@ -1,0 +1,16 @@
+id: notecarrier-r
+ref: blues/notecarrier-r
+vendor: blues
+sku: notecarrier-r
+name: Notecarrier R
+description: Easily Integrate the Notecard into your Arduino Portenta H7 or MKR BoardSolution,
+  Built for Arduino Developers, Small form-factor for production-ready deployments,
+  ESLOV (5-pin JST) connector for wire-to-board applications, Easily power your deployments
+  through a Micro USB connection or with a LiPo battery. This product requires a Notecard.
+status: ''
+extra: {}
+links:
+  products:
+  - https://blues.com/notecarrier-r/
+  images:
+  - https://blues.com/wp-content/uploads/2024/03/NotecarrR1.0-Front.png

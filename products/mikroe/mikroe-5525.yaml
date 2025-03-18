@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-5525
+ref: mikroe/mikroe-5525
+vendor: mikroe
+sku: mikroe-5525
+name: MIKROE-5525
 description: DAC 14 Click is a compact add-on board providing highly accurate digital-to-analog
   conversion. This board features the DAC53202, a 10-bit dual-channel programmable
   voltage/current-output DAC from Texas Instruments.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/dac-14-click/dac-14-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/dac-14-click
-  repositories: []
-name: MIKROE-5525
-ref: mikroe/mikroe-5525
-release_date: null
-sku: mikroe-5525
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dac-14-click/dac-14-click-home_default-1.jpg?v=100

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4926
+ref: mikroe/mikroe-4926
+vendor: mikroe
+sku: mikroe-4926
+name: MIKROE-4926
 description: Smart Sens Click is a compact add-on board that contains an smart sensor
   system with an integrated IMU sensor. This board utilizes the BHI260 and BMM150,
   an ultra-low-power programmable smart sensor and magnetometer from Bosch Sensortec.
   The BHI260 includes a programmable and powerful 32-bit MCU, a 6-axis IMU, and a
   robust software framework. In addition...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/smart-sens-click/smart-sens-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/smart-sens-click
-  repositories: []
-name: MIKROE-4926
-ref: mikroe/mikroe-4926
-release_date: null
-sku: mikroe-4926
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/smart-sens-click/smart-sens-click-home_default-1.jpg?v=100

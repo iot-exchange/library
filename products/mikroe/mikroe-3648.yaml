@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-3648
+ref: mikroe/mikroe-3648
+vendor: mikroe
+sku: mikroe-3648
+name: MIKROE-3648
 description: for STM32F2 CAPACITIVE Rapid development of multimedia and gui-centric
   applications BUILD GREAT GUI IN NO TIME Rich with peripherals Mikromedia 3 for STM32F2
   CAPACITIVE is not limited to multimedia-based applications only. USB, digital motion
   sensor, battery charging functionality, SD card reader and much more expands its
   use beyond the...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mikromedia-3-for-stm32f2-capacitive/mikromedia-3-for-stm32f2-capacitive-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mikromedia-3-for-stm32f2-capacitive "Mikromedia 3 for STM32F2
     CAPACITIVE"
-  repositories: []
-name: MIKROE-3648
-ref: mikroe/mikroe-3648
-release_date: null
-sku: mikroe-3648
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-3-for-stm32f2-capacitive/mikromedia-3-for-stm32f2-capacitive-home_default-1.jpg?v=100

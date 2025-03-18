@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4173
+ref: mikroe/mikroe-4173
+vendor: mikroe
+sku: mikroe-4173
+name: MIKROE-4173
 description: Mikromedia 5 for TIVA CAPACITIVE Rapid development of multimedia and
   gui-centric applications BUILD GREAT GUI IN NO TIME Rich with peripherals Mikromedia
   5 for TIVA CAPACITIVE is not limited to multimedia-based applications only. USB,
   Ethernet, WiFi and RF connectivity options, digital motion sensor, battery charging
   functionality, piezo-buzzer, SD...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mikromedia-5-for-tiva-capacitive/mikromedia-5-for-tiva-capacitive-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mikromedia-5-for-tiva-capacitive
-  repositories: []
-name: MIKROE-4173
-ref: mikroe/mikroe-4173
-release_date: null
-sku: mikroe-4173
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-5-for-tiva-capacitive/mikromedia-5-for-tiva-capacitive-home_default-1.jpg?v=100

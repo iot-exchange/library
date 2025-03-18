@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-5814
+ref: mikroe/mikroe-5814
+vendor: mikroe
+sku: mikroe-5814
+name: MIKROE-5814
 description: DIGI POT 14 Click is a compact add-on board that contains a digitally
   controlled potentiometer. This board features the TPL0102, a dual-channel digital
   potentiometer with non-volatile memory from Texas Instruments.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/digi-pot-14-click/digi-pot-14-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/digi-pot-14-click
-  repositories: []
-name: MIKROE-5814
-ref: mikroe/mikroe-5814
-release_date: null
-sku: mikroe-5814
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/digi-pot-14-click/digi-pot-14-click-home_default-1.jpg?v=100

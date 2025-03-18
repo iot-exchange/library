@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: oak-d-s2-poe
+ref: waveshare/oak-d-s2-poe
+vendor: waveshare
+sku: oak-d-s2-poe
+name: OAK-D-S2-POE
 description: OAK-D-S2-POE, 12MP, 4TOPS, OpenCV AI Machine Vision Kit, Depth Measuring,
   Image Recognition
+status: ''
 extra:
   price: $493.19  -  $499.99
   sku: '27827'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/a/oak-d-s2-poe-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/oak-d-s2-poe.htm
   - https://www.waveshare.com/product/oak-d-s2-poe.htm "OAK-D-S2-POE, 12MP, 4TOPS,
     OpenCV AI Machine Vision Kit, Depth Measuring, Image Recognition"
-  repositories: []
-name: OAK-D-S2-POE
-ref: waveshare/oak-d-s2-poe
-release_date: null
-sku: oak-d-s2-poe
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/a/oak-d-s2-poe-1.jpg

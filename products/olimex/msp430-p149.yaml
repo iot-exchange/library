@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: msp430-p149
+ref: olimex/msp430-p149
+vendor: olimex
+sku: msp430-p149
+name: MSP430-P149
 description: ''
+status: ''
 extra:
   price1: 10.95 EUR
   price2: 9.86 EUR
   price3: 8.76 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/MSP430/Proto/MSP430-P149/images/thumbs/200x150/MSP430-PXXX-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/MSP430/Proto/MSP430-P149/
-  repositories: []
-name: MSP430-P149
-ref: olimex/msp430-p149
-release_date: null
-sku: msp430-p149
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/MSP430/Proto/MSP430-P149/images/thumbs/200x150/MSP430-PXXX-1.jpg

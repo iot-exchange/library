@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 2605041181000i
+ref: we/2605041181000i
+vendor: we
+sku: 2605041181000i
+name: 2605041181000i
 description: Tarvos-I
+status: NRND
 extra:
   Current Consumption (mA): '3.6'
   Expected Lifetime (years): 2-5
@@ -9,16 +13,5 @@ extra:
   Sensitivity (dBm): '-108'
   Supply Voltage (V): '2.2'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: 2605041181000i
-ref: we/2605041181000i
-release_date: null
-sku: 2605041181000i
-spec: null
-status: NRND
-vendor: we
+  images: []

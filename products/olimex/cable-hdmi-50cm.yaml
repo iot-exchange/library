@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: cable-hdmi-50cm
+ref: olimex/cable-hdmi-50cm
+vendor: olimex
+sku: cable-hdmi-50cm
+name: CABLE-HDMI-50CM
 description: ''
+status: ''
 extra:
   discountedPrice1: 3.15 EUR
   discountedPrice2: 2.80 EUR
   price: 3.50 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Cables/CABLE-HDMI-50CM/images/thumbs/200x150/CABLE-HDMI-50CM.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Cables/CABLE-HDMI-50CM/
-  repositories: []
-name: CABLE-HDMI-50CM
-ref: olimex/cable-hdmi-50cm
-release_date: null
-sku: cable-hdmi-50cm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Cables/CABLE-HDMI-50CM/images/thumbs/200x150/CABLE-HDMI-50CM.jpg

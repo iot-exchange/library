@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: heatsink-5540b
+ref: radxa/heatsink-5540b
+vendor: radxa
+sku: heatsink-5540b
+name: Heatsink 5540B
 description: Specialized for Radxa Compute Module
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/heatsink/ae005b/thumb_heatsink_5540b.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/heatsink-5540b
-  repositories: []
-name: Heatsink 5540B
-ref: radxa/heatsink-5540b
-release_date: null
-sku: heatsink-5540b
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/heatsink/ae005b/thumb_heatsink_5540b.webp

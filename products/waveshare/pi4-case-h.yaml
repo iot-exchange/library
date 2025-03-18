@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: pi4-case-h
+ref: waveshare/pi4-case-h
+vendor: waveshare
+sku: pi4-case-h
+name: PI4-CASE-H
 description: Aluminum Grid Grooved Case for Raspberry Pi 4, Inner Heatsink Pillars
+status: ''
 extra:
   Price: $9.31 - $9.99
   SKU: '21175'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-case-g-1.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-case-h-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pi4-case-g.htm
   - https://www.waveshare.com/product/pi4-case-h.htm
-  repositories: []
-name: PI4-CASE-H
-ref: waveshare/pi4-case-h
-release_date: null
-sku: pi4-case-h
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-case-g-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi4-case-h-1.jpg

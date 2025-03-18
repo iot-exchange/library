@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: connectivity-modules
+ref: murata/connectivity-modules
+vendor: murata
+sku: connectivity-modules
+name: Connectivity Modules
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/search/productsearch?cate=cgConnectivityModules
-  repositories: []
-name: Connectivity Modules
-ref: murata/connectivity-modules
-release_date: null
-sku: connectivity-modules
-spec: null
-status: ''
-vendor: murata
+  images: []

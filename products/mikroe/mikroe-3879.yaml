@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-3879
+ref: mikroe/mikroe-3879
+vendor: mikroe
+sku: mikroe-3879
+name: MIKROE-3879
 description: 'Special Deal 35% OFF DC Motor 10 Click is a brushed DC motor driver
   with the current limiting and current sensing. It is based on the TLE 6208-6 G,
   an Hex-Half-Bridge / Double Six-Driver IC, optimized for motor driving applications.
   It can be operated SPI communication interface, allowing to drive the connected
   motors in three different ways: it can be used as a free...'
+status: ''
 extra:
   discountedPrice: $18.20
   originalPrice: $28.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/dc-motor-10-click/dc-motor-10-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/dc-motor-10-click "DC Motor 10 Click"
-  repositories: []
-name: MIKROE-3879
-ref: mikroe/mikroe-3879
-release_date: null
-sku: mikroe-3879
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dc-motor-10-click/dc-motor-10-click-home_default-1.jpg?v=100

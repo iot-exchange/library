@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '320990444'
+ref: seeedstudio/320990444
+vendor: seeedstudio
+sku: '320990444'
+name: '320990444'
 description: "This DIY magnetic connector is intended to be used together with the\
   \ 1.2mm(\xB10.1mm) PCB board and any Grove Zero modules. 3-sided magnetic attraction\
   \ enables it to make a flexible connection. It's ideal for smart wearable devices\
   \ and power toys that have magnetic connections."
+status: ''
 extra:
   price: $4.90
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.seeedstudio.com/Grove-Zero-magnetic-connector-p-5191.html
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/0/102110603_odyssey-x86i31125g4__33.png
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/m/a/magnetic_connector_preview-07_1.jpg
-  models: []
-  products:
-  - https://www.seeedstudio.com/Grove-Zero-magnetic-connector-p-5191.html
-  repositories: []
-name: '320990444'
-ref: seeedstudio/320990444
-release_date: null
-sku: '320990444'
-spec: null
-status: ''
-vendor: seeedstudio

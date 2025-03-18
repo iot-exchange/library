@@ -1,40 +1,33 @@
-alternatives: []
-certifications: []
+id: '2611036021001'
+ref: we/2611036021001
+vendor: we
+sku: '2611036021001'
+name: '2611036021001'
 description: Thyone-I USB radio stick
+status: Active
 extra:
   ANTConn: internal antenna
-  Antenna type: internal antenna
-  Current consumption: ''
-  Dimensions (mm): 67.75 x 23.65 x 12
   Expected lifetime: '>10 years'
   Frequency Range (MHz): 2403 - 2479
-  Frequency range: 2403 - 2479
-  Max data rate: '2000'
-  Output power: '250'
   "PTx, 50 \u2126(dBm)": "\u2013"
   PTx, e.r.p.(dBm): '4'
   Rb max.(kbps): '2000'
   "Rxsens, 50 \u2126(dBm)": "\u2013"
   Rxsens, e.r.p.(dBm): '-92'
-  Sensitivity: '-92'
   VDD max.(V): "\u2013"
   VDD min.(V): "\u2013"
-  Voltage: ''
   dLoS(m): '250'
+  Antenna type: internal antenna
+  Current consumption: ''
+  Dimensions (mm): 67.75 x 23.65 x 12
+  Frequency range: 2403 - 2479
+  Max data rate: '2000'
+  Output power: '250'
+  Sensitivity: '-92'
+  Voltage: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o164911v214%20Single_eiSmart_USB-Stick.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/THYONE-I#2611036021001
   - https://www.we-online.com/en/components/products/THYONE-I_MESH#2611036021001
-  repositories: []
-name: '2611036021001'
-ref: we/2611036021001
-release_date: null
-sku: '2611036021001'
-spec: null
-status: Active
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o164911v214%20Single_eiSmart_USB-Stick.jpg

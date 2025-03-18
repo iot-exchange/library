@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: micro-sd-card
+ref: olimex/micro-sd-card
+vendor: olimex
+sku: micro-sd-card
+name: MICRO-SD-CARD
 description: ''
+status: ''
 extra:
   discountedPrice1: 0.45 EUR
   discountedPrice2: 0.40 EUR
   price: 0.50 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Connectors/MICRO-SD-CARD/images/thumbs/200x150/MICRO-SD-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Connectors/MICRO-SD-CARD/
-  repositories: []
-name: MICRO-SD-CARD
-ref: olimex/micro-sd-card
-release_date: null
-sku: micro-sd-card
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Connectors/MICRO-SD-CARD/images/thumbs/200x150/MICRO-SD-1.jpg

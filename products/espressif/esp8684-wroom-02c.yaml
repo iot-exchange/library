@@ -1,8 +1,12 @@
-alternatives: []
-certifications: []
+id: esp8684-wroom-02c
+ref: espressif/esp8684-wroom-02c
+vendor: espressif
+sku: esp8684-wroom-02c
+name: ESP8684-WROOM-02C
 description: The ESP8684-WROOM-02C module is based on the ESP8684 chip, and can be
   mounted onto the surface of a PCB board. It has 14 GPIOs, and the pin usage is compatible
   with ESP-WROOM-02, ESP-WROOM-02D. It supports UART, SPI, I2C, PWM, etc.
+status: ''
 extra:
   Antenna: PCB antenna
   Chip Embedded: ESP8684H2ESP8684H4
@@ -10,18 +14,7 @@ extra:
   Flash (MB): 2, 4
   Pins: '18'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP8684-WROOM-02C%20S_0.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp8684-wroom-02c_datasheet_en.pdf
-  repositories: []
-name: ESP8684-WROOM-02C
-ref: espressif/esp8684-wroom-02c
-release_date: null
-sku: esp8684-wroom-02c
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP8684-WROOM-02C%20S_0.png

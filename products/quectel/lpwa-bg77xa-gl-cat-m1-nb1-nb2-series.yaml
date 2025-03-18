@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: lpwa-bg77xa-gl-cat-m1-nb1-nb2-series
+ref: quectel/lpwa-bg77xa-gl-cat-m1-nb1-nb2-series
+vendor: quectel
+sku: lpwa-bg77xa-gl-cat-m1-nb1-nb2-series
+name: LPWA BG77xA-GL Cat M1/NB1/NB2 series
 description: GNSS  Integrated RAM & flash  Integrated Security Elements  iSIM  MIPS
   5150  USB 2.0
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.quectel.com/content/uploads/2024/03/BG77xAGL.png
-  models: []
   products:
   - https://www.quectel.com/product/lpwa-bg77xa-gl/
-  repositories: []
-name: LPWA BG77xA-GL Cat M1/NB1/NB2 series
-ref: quectel/lpwa-bg77xa-gl-cat-m1-nb1-nb2-series
-release_date: null
-sku: lpwa-bg77xa-gl-cat-m1-nb1-nb2-series
-spec: null
-status: ''
-vendor: quectel
+  images:
+  - https://www.quectel.com/content/uploads/2024/03/BG77xAGL.png

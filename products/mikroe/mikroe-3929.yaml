@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3929
+ref: mikroe/mikroe-3929
+vendor: mikroe
+sku: mikroe-3929
+name: MIKROE-3929
 description: "FT Click is a compact smart transceiver add-on board that helps you\
   \ add a Free Topology (FT) interface to any host board with the mikroBUS\u2122 socket.\
   \ Leveraging FT, the most reliable and easiest-to-scale wired communications media,\
   \ FT Click lets you network sensors and devices to create IoT solutions for automation\
   \ and control networks that are easier to..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ft-click/ft-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ft-click
-  repositories: []
-name: MIKROE-3929
-ref: mikroe/mikroe-3929
-release_date: null
-sku: mikroe-3929
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ft-click/ft-click-home_default-1.jpg?v=100

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: automatic-printer-blade-30cm
+ref: olimex/automatic-printer-blade-30cm
+vendor: olimex
+sku: automatic-printer-blade-30cm
+name: AUTOMATIC-PRINTER-BLADE-30CM
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/SMT/AUTOMATIC-PRINTER-BLADE-30CM/images/thumbs/200x150/blade-300mm.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/SMT/AUTOMATIC-PRINTER-BLADE-30CM/
-  repositories: []
-name: AUTOMATIC-PRINTER-BLADE-30CM
-ref: olimex/automatic-printer-blade-30cm
-release_date: null
-sku: automatic-printer-blade-30cm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/SMT/AUTOMATIC-PRINTER-BLADE-30CM/images/thumbs/200x150/blade-300mm.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: sam9-l9261
+ref: olimex/sam9-l9261
+vendor: olimex
+sku: sam9-l9261
+name: SAM9-L9261
 description: ''
+status: ''
 extra:
   price1: 159.96 EUR
   price2: 143.96 EUR
   price3: 127.97 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/Atmel/SAM9-L9261/images/thumbs/200x150/SAM9-L9261-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-MICRO/open-source-hardwareu
-  repositories: []
-name: SAM9-L9261
-ref: olimex/sam9-l9261
-release_date: null
-sku: sam9-l9261
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/Atmel/SAM9-L9261/images/thumbs/200x150/SAM9-L9261-01.jpg

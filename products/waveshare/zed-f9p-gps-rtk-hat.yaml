@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: zed-f9p-gps-rtk-hat
+ref: waveshare/zed-f9p-gps-rtk-hat
+vendor: waveshare
+sku: zed-f9p-gps-rtk-hat
+name: ZED-F9P GPS-RTK HAT
 description: ZED-F9P GPS-RTK HAT for Raspberry Pi, Centimeter Level Accuracy, Multi-Band
   RTK Differential GPS Module
+status: ''
 extra:
   Price: $233.19 - $239.99
   SKU: '19884'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/z/e/zed-f9p-gps-rtk-hat-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/zed-f9p-gps-rtk-hat.htm
-  repositories: []
-name: ZED-F9P GPS-RTK HAT
-ref: waveshare/zed-f9p-gps-rtk-hat
-release_date: null
-sku: zed-f9p-gps-rtk-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/z/e/zed-f9p-gps-rtk-hat-1.jpg

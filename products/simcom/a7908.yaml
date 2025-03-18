@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: a7908
+ref: simcom/a7908
+vendor: simcom
+sku: a7908
+name: A7908
 description: ''
+status: ''
 extra:
   LTE Cat.6: ''
   USB3.0: ''
   VoLTE (Optional): ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.simcom.com/Uploads/image/20240718/6698c761dc220.png
-  models: []
   products:
   - https://www.simcom.com/product/A7908.html
-  repositories: []
-name: A7908
-ref: simcom/a7908
-release_date: null
-sku: a7908
-spec: null
-status: ''
-vendor: simcom
+  images:
+  - https://www.simcom.com/Uploads/image/20240718/6698c761dc220.png

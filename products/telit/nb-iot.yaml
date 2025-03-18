@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: nb-iot
+ref: telit/nb-iot
+vendor: telit
+sku: nb-iot
+name: NB-IoT
 description: Narrowband IoT technology for efficient data transmission.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.telit.com/blog/nb-iot-lte-m-cellular-iot-for-5g-world/
-  repositories: []
-name: NB-IoT
-ref: telit/nb-iot
-release_date: null
-sku: nb-iot
-spec: null
-status: ''
-vendor: telit
+  images: []

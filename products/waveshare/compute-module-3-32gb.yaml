@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: compute-module-3-32gb
+ref: waveshare/compute-module-3-32gb
+vendor: waveshare
+sku: compute-module-3-32gb
+name: Compute Module 3+ 32GB
 description: $52.31  -  $52.99
+status: ''
 extra:
   SKU: '16183'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/compute-module-3-plus-32gb-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/compute-module-3-plus-32gb.htm
-  repositories: []
-name: Compute Module 3+ 32GB
-ref: waveshare/compute-module-3-32gb
-release_date: null
-sku: compute-module-3-32gb
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/compute-module-3-plus-32gb-1.jpg

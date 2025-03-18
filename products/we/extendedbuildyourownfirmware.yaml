@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: extendedbuildyourownfirmware
+ref: we/extendedbuildyourownfirmware
+vendor: we
+sku: extendedbuildyourownfirmware
+name: EXTENDEDBuildYourOwnFirmware
 description: EXTENDEDBuild Your Own Firmware
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o811201v214%20multi-WIRL-NFW2-ORTHOSIE-I-2617011022000.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/byof
-  repositories: []
-name: EXTENDEDBuildYourOwnFirmware
-ref: we/extendedbuildyourownfirmware
-release_date: null
-sku: extendedbuildyourownfirmware
-spec: null
-status: ''
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o811201v214%20multi-WIRL-NFW2-ORTHOSIE-I-2617011022000.jpg

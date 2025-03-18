@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mse1021
+ref: vertexcom/mse1021
+vendor: vertexcom
+sku: mse1021
+name: MSE1021
 description: "MSE1021 is compliant with the HomePlug\xAE AV standard and the HomePlug\xAE\
   \ GreenPHY standard, developed for the EV charging application specified in ISO15118-3."
+status: ''
 extra:
   Body Size (mm): 10x10
   Package: EP-LQFP-80
   Temperature Range: "-40 ~ +85\xB0C"
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - http://www.vertexcom.com/doc/MSE1021_Product_Brief_V1.2.pdf
-  repositories: []
-name: MSE1021
-ref: vertexcom/mse1021
-release_date: null
-sku: mse1021
-spec: null
-status: ''
-vendor: vertexcom
+  images: []

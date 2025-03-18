@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: ceramic-traps
+ref: murata/ceramic-traps
+vendor: murata
+sku: ceramic-traps
+name: Ceramic Traps
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/search/productsearch?cate=luCeramFilteCeramTraps
-  repositories: []
-name: Ceramic Traps
-ref: murata/ceramic-traps
-release_date: null
-sku: ceramic-traps
-spec: null
-status: ''
-vendor: murata
+  images: []

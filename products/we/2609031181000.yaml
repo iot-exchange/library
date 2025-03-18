@@ -1,32 +1,25 @@
-alternatives: []
-certifications: []
+id: '2609031181000'
+ref: we/2609031181000
+vendor: we
+sku: '2609031181000'
+name: '2609031181000'
 description: EV-Kit Tarvos-III incl. ext. antenna
+status: Active
 extra:
+  Frequency Range: 869.4 - 869.65
+  Output Power: '20000'
+  Sensitivity: '-124'
+  Expected lifetime: '>10 years'
   Antenna Type: RF pad
   Current Consumption: '100'
   Data Rate: '2.2'
   Dimensions: 27 x 17 x 3.8
-  Expected lifetime: '>10 years'
-  Frequency Range: 869.4 - 869.65
-  Output Power: '20000'
   Production: active
-  Sensitivity: '-124'
   Supply Voltage: '3.7'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o172690v214%20Single_Themisto-I_2609041191000.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/TARVOS-III#2609019281001
   - https://www.we-online.com/en/components/products/TELESTO-III_MESH#2609011191000
   - https://www.we-online.com/en/components/products/THEBE-II#2609031181000
-  repositories: []
-name: '2609031181000'
-ref: we/2609031181000
-release_date: null
-sku: '2609031181000'
-spec: null
-status: Active
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o172690v214%20Single_Themisto-I_2609041191000.jpg

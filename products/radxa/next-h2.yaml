@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: next-h2
+ref: radxa/next-h2
+vendor: radxa
+sku: next-h2
+name: NeXT H2
 description: The Most Compact and Feature-Rich Micro Server
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/palmshell/next-h2/thumb_next_h2.webp
-  models: []
   products:
   - https://palmshell.io/next-h2
-  repositories: []
-name: NeXT H2
-ref: radxa/next-h2
-release_date: null
-sku: next-h2
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/palmshell/next-h2/thumb_next_h2.webp

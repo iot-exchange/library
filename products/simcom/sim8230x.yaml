@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: sim8230x
+ref: simcom/sim8230x
+vendor: simcom
+sku: sim8230x
+name: SIM8230X
 description: ''
+status: ''
 extra:
   5G NR Sub 6G: ''
   USB: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.simcom.com/Uploads/image/20231215/657bf796233de.png
-  models: []
   products:
   - https://www.simcom.com/product/SIM8230X.html
-  repositories: []
-name: SIM8230X
-ref: simcom/sim8230x
-release_date: null
-sku: sim8230x
-spec: null
-status: ''
-vendor: simcom
+  images:
+  - https://www.simcom.com/Uploads/image/20231215/657bf796233de.png

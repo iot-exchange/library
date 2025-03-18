@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: cable-usb-b-ext
+ref: olimex/cable-usb-b-ext
+vendor: olimex
+sku: cable-usb-b-ext
+name: CABLE-USB-B-EXT
 description: ''
+status: ''
 extra:
   discountedPrice1: 0.90 EUR
   discountedPrice2: 0.80 EUR
   price: 1.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Cables/CABLE-USB-B-EXT/images/thumbs/200x150/CABLE-B-EXT.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Cables/CABLE-USB-B-EXT/
-  repositories: []
-name: CABLE-USB-B-EXT
-ref: olimex/cable-usb-b-ext
-release_date: null
-sku: cable-usb-b-ext
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Cables/CABLE-USB-B-EXT/images/thumbs/200x150/CABLE-B-EXT.jpg

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: pico-esp8266
+ref: waveshare/pico-esp8266
+vendor: waveshare
+sku: pico-esp8266
+name: Pico-ESP8266
 description: ESP8266 WiFi Module for Raspberry Pi Pico, Supports TCP/UDP Protocol
+status: ''
 extra:
   Price: $9.31 - $9.99
   SKU: '20182'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-esp8266-1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pico-esp8266.htm
-  repositories: []
-name: Pico-ESP8266
-ref: waveshare/pico-esp8266
-release_date: null
-sku: pico-esp8266
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-esp8266-1_2.jpg

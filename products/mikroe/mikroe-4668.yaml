@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-4668
+ref: mikroe/mikroe-4668
+vendor: mikroe
+sku: mikroe-4668
+name: MIKROE-4668
 description: BLE TX Click is a compact add-on board that contains a low-energy Bluetooth
   transmitter. This board features the AK1595, a Bluetooth 5.2 transmitter with incorporated
   proprietary algorithm software from AKM Semiconductor.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ble-tx-click/ble-tx-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ble-tx-click
-  repositories: []
-name: MIKROE-4668
-ref: mikroe/mikroe-4668
-release_date: null
-sku: mikroe-4668
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ble-tx-click/ble-tx-click-home_default-1.jpg?v=100

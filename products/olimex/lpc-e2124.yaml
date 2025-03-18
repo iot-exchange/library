@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lpc-e2124
+ref: olimex/lpc-e2124
+vendor: olimex
+sku: lpc-e2124
+name: LPC-E2124
 description: ''
+status: ''
 extra:
   discountedPrice1: 67.46 EUR
   discountedPrice2: 59.96 EUR
   price: 74.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/NXP/LPC-E2124/images/thumbs/200x150/LPC-E2124-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/NXP/LPC-E2124/
-  repositories: []
-name: LPC-E2124
-ref: olimex/lpc-e2124
-release_date: null
-sku: lpc-e2124
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-E2124/images/thumbs/200x150/LPC-E2124-01.jpg

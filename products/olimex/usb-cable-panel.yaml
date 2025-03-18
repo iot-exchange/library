@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: usb-cable-panel
+ref: olimex/usb-cable-panel
+vendor: olimex
+sku: usb-cable-panel
+name: USB-CABLE-PANEL
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Cables/USB-CABLE-PANEL/images/thumbs/200x150/USB-CABLE-PANEL.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Cables/USB-CABLE-PANEL/
-  repositories: []
-name: USB-CABLE-PANEL
-ref: olimex/usb-cable-panel
-release_date: null
-sku: usb-cable-panel
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Cables/USB-CABLE-PANEL/images/thumbs/200x150/USB-CABLE-PANEL.jpg

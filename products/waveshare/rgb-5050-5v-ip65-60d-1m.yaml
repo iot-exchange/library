@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rgb-5050-5v-ip65-60d-1m
+ref: waveshare/rgb-5050-5v-ip65-60d-1m
+vendor: waveshare
+sku: rgb-5050-5v-ip65-60d-1m
+name: RGB-5050-5V-IP65-60D-1M
 description: WS2812 Digital RGB LED Strip, High brightness, Energy-saving And Low
   power consumption, Cuttable and Programmable
+status: ''
 extra:
   Price: $4.31 - $4.99
   SKU: '23414'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb-5050-5v-ip65-60d-1m-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rgb-5050-5v-ip65-60d-1m.htm
-  repositories: []
-name: RGB-5050-5V-IP65-60D-1M
-ref: waveshare/rgb-5050-5v-ip65-60d-1m
-release_date: null
-sku: rgb-5050-5v-ip65-60d-1m
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/g/rgb-5050-5v-ip65-60d-1m-1.jpg

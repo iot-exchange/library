@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: active-oxygen-modules-ozonizers
+ref: murata/active-oxygen-modules-ozonizers
+vendor: murata
+sku: active-oxygen-modules-ozonizers
+name: Active Oxygen Modules (Ozonizers)
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/search/productsearch?cate=cgsubOzonizer
-  repositories: []
-name: Active Oxygen Modules (Ozonizers)
-ref: murata/active-oxygen-modules-ozonizers
-release_date: null
-sku: active-oxygen-modules-ozonizers
-spec: null
-status: ''
-vendor: murata
+  images: []

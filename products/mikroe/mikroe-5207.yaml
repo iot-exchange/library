@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5207
+ref: mikroe/mikroe-5207
+vendor: mikroe
+sku: mikroe-5207
+name: MIKROE-5207
 description: Smart Sens 2 Click is a all-in-one self-learning AI smart sensor solution
   that contains multiple sensors. This board utilizes the BHI260AP, BME688, BMP390,
   and BMM150, an ultra-low-power programmable smart sensor, environmental and pressure
   sensor, and a magnetometer from Bosch Sensortec. The BHI260AP includes a powerful
   32-bit MCU and a 6-axis IMU...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/smart-sens-2-click/smart-sens-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/smart-sens-2-click
-  repositories: []
-name: MIKROE-5207
-ref: mikroe/mikroe-5207
-release_date: null
-sku: mikroe-5207
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/smart-sens-2-click/smart-sens-2-click-home_default-1.jpg?v=100

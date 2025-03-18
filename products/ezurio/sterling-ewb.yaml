@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: sterling-ewb
+ref: ezurio/sterling-ewb
+vendor: ezurio
+sku: sterling-ewb
+name: Sterling-EWB
 description: Intelligent WiFi Module from Laird Connectivity Combines WLAN & Bluetooth
   with a Robust MCU for IoT Design Flexibility
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/537x300/filters:fill(white)/filters:background_color(white)/2025-01/Sterling-EWB-RENDER-453-00013---Label-Cropped.png
-  models: []
   products:
   - https://www.ezurio.com/resources/newsroom/intelligent-wifi-module-laird-connectivity-combines-wlan-bluetooth-robust-mcu-iot-design-flexibility
-  repositories: []
-name: Sterling-EWB
-ref: ezurio/sterling-ewb
-release_date: null
-sku: sterling-ewb
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/537x300/filters:fill(white)/filters:background_color(white)/2025-01/Sterling-EWB-RENDER-453-00013---Label-Cropped.png

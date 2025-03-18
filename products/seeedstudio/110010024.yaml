@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '110010024'
+ref: seeedstudio/110010024
+vendor: seeedstudio
+sku: '110010024'
+name: '110010024'
 description: It is a good plastic box for Seeed Studio XIAO expansion board, which
   can protect it with one of these snazzy plastic enclosures.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/0/0/000_feature_.png
-  models: []
   products:
   - https://www.seeedstudio.com/XIAO-p-4812.html
-  repositories: []
-name: '110010024'
-ref: seeedstudio/110010024
-release_date: null
-sku: '110010024'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/0/0/000_feature_.png

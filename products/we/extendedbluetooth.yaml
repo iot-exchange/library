@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: extendedbluetooth
+ref: we/extendedbluetooth
+vendor: we
+sku: extendedbluetooth
+name: EXTENDEDBluetooth
 description: "EXTENDEDBluetooth\xAE & Wi-Fi"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o153215v214%20Image_Online_Catalog_BluetoothandWifi.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/wpan_wlan
-  repositories: []
-name: EXTENDEDBluetooth
-ref: we/extendedbluetooth
-release_date: null
-sku: extendedbluetooth
-spec: null
-status: ''
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o153215v214%20Image_Online_Catalog_BluetoothandWifi.jpg

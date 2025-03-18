@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3641
+ref: mikroe/mikroe-3641
+vendor: mikroe
+sku: mikroe-3641
+name: MIKROE-3641
 description: ReRAM Click features ReRAM (Resistive Random Access Memory) module which
   contains the cell array made of 524.288 words x 8 bits, which totals 4 Mbits of
   data. The used memory module can withstand a large number of write cycles, it has
   data retention period greater than 10 years and it can read and write to random
   addresses with no delay.
+status: Unavailable
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/reram-click/reram-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/reram-click
-  repositories: []
-name: MIKROE-3641
-ref: mikroe/mikroe-3641
-release_date: null
-sku: mikroe-3641
-spec: null
-status: Unavailable
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/reram-click/reram-click-home_default-1.jpg?v=100

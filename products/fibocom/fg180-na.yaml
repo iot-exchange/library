@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: fg180-na
+ref: fibocom/fg180-na
+vendor: fibocom
+sku: fg180-na
+name: FG180-NA
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/5G-FG180-NA.html
-  repositories: []
-name: FG180-NA
-ref: fibocom/fg180-na
-release_date: null
-sku: fg180-na
-spec: null
-status: ''
-vendor: fibocom
+  images: []

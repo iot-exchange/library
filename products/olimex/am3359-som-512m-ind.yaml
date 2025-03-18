@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: am3359-som-512m-ind
+ref: olimex/am3359-som-512m-ind
+vendor: olimex
+sku: am3359-som-512m-ind
+name: AM3359-SOM-512M-IND
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products: []
   images:
   - https://www.olimex.com/Products/SOM/AM335X/AM3352-SOM/images/thumbs/200x150/AM3352-SOM-1.jpg
-  models: []
-  products: []
-  repositories: []
-name: AM3359-SOM-512M-IND
-ref: olimex/am3359-som-512m-ind
-release_date: null
-sku: am3359-som-512m-ind
-spec: null
-status: ''
-vendor: olimex

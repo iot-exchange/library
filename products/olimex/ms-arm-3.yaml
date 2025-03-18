@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: ms-arm-3
+ref: olimex/ms-arm-3
+vendor: olimex
+sku: ms-arm-3
+name: MS-ARM-3
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/ServoMotors/MS-ARM-3/images/thumbs/200x150/MS-ARM-3-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/ServoMotors/MS-ARM-3/
-  repositories: []
-name: MS-ARM-3
-ref: olimex/ms-arm-3
-release_date: null
-sku: ms-arm-3
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/ServoMotors/MS-ARM-3/images/thumbs/200x150/MS-ARM-3-01.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: lds02
+ref: dragino/lds02
+vendor: dragino
+sku: lds02
+name: LDS02
 description: LoRaWAN Door Sensor
+status: ''
 extra:
   Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
   Battery Life: Last for several years
   Power: 2 x AAA LR03 batteries
   Power Consumption: Ultra Low
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/f8091000de3f026d209837e21bc2e700_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lorawan-nb-iot-door-sensor-water-leak/item/181-lds02.html
-  repositories: []
-name: LDS02
-ref: dragino/lds02
-release_date: null
-sku: lds02
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/f8091000de3f026d209837e21bc2e700_L.jpg

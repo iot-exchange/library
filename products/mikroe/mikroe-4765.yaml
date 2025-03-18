@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-4765
+ref: mikroe/mikroe-4765
+vendor: mikroe
+sku: mikroe-4765
+name: MIKROE-4765
 description: "Pressure 16 Click is a compact add-on board that contains a board-mount\
   \ pressure sensor. This board features the WSEN-PADS (2511020213301), a high-precision\
   \ MEMS-based digital absolute pressure sensor from W\xFCrth Elektronik. It has a\
   \ fully-calibrated 24-bit pressure output to provide accurate atmospheric pressure\
   \ data with a configurable host interface."
+status: Reduced price!
 extra:
   discountedPrice: $9.50
   originalPrice: $19.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/pressure-16-click/pressure-16-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/pressure-16-click
-  repositories: []
-name: MIKROE-4765
-ref: mikroe/mikroe-4765
-release_date: null
-sku: mikroe-4765
-spec: null
-status: Reduced price!
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/pressure-16-click/pressure-16-click-home_default-1.jpg?v=100

@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: l610-eu-minipcie
+ref: fibocom/l610-eu-minipcie
+vendor: fibocom
+sku: l610-eu-minipcie
+name: L610-EU-MiniPCIe
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTECat1-L610-EU-MiniPCIe.html
-  repositories: []
-name: L610-EU-MiniPCIe
-ref: fibocom/l610-eu-minipcie
-release_date: null
-sku: l610-eu-minipcie
-spec: null
-status: ''
-vendor: fibocom
+  images: []

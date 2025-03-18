@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: cp2102-usb-uart-board-type-c
+ref: waveshare/cp2102-usb-uart-board-type-c
+vendor: waveshare
+sku: cp2102-usb-uart-board-type-c
+name: CP2102 USB UART Board (Type C)
 description: CP2102 USB UART Board (Type C), USB To TTL (UART) Communication Module,
   USB-C Connector
+status: ''
 extra:
-  Price: $4.91 - $5.59
   SKU: '20644'
   price: $4.91 - $5.59
+  Price: $4.91 - $5.59
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/p/cp2102-usb-uart-board-type-c-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/cp2102-usb-uart-board-type-c.htm
-  repositories: []
-name: CP2102 USB UART Board (Type C)
-ref: waveshare/cp2102-usb-uart-board-type-c
-release_date: null
-sku: cp2102-usb-uart-board-type-c
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/p/cp2102-usb-uart-board-type-c-1.jpg

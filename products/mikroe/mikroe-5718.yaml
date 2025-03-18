@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5718
+ref: mikroe/mikroe-5718
+vendor: mikroe
+sku: mikroe-5718
+name: MIKROE-5718
 description: With this bundle, you can easily obtain high-accuracy pH readings without
   any interference. The bundle includes the pH Plastic Probe BNC and pH 2 Click, which
   can be combined to read pH values with the same precision and features as some other
   solutions offered by AtlasScientific. This bundle provides everything necessary
   for reliable and convenient pH...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ph-2-click-plastic-ph-electrode/ph-2-click-plastic-ph-electrode-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ph-2-click-plastic-ph-electrode
-  repositories: []
-name: MIKROE-5718
-ref: mikroe/mikroe-5718
-release_date: null
-sku: mikroe-5718
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ph-2-click-plastic-ph-electrode/ph-2-click-plastic-ph-electrode-home_default-1.jpg?v=100

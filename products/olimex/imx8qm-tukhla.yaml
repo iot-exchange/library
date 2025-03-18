@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: imx8qm-tukhla
+ref: olimex/imx8qm-tukhla
+vendor: olimex
+sku: imx8qm-tukhla
+name: IMX8QM-TUKHLA
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/iMX8/IMX8QM-TUKHLA/images/thumbs/200x150/IMX8QM-TUKHLA.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/iMX8/IMX8QM-TUKHLA/open-source-hardware
-  repositories: []
-name: IMX8QM-TUKHLA
-ref: olimex/imx8qm-tukhla
-release_date: null
-sku: imx8qm-tukhla
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/iMX8/IMX8QM-TUKHLA/images/thumbs/200x150/IMX8QM-TUKHLA.jpg

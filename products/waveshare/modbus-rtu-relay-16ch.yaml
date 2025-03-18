@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: modbus-rtu-relay-16ch
+ref: waveshare/modbus-rtu-relay-16ch
+vendor: waveshare
+sku: modbus-rtu-relay-16ch
+name: Modbus RTU Relay 16CH
 description: Modbus RTU 16-Ch Relay Module, RS485 Interface, With Multiple Isolation
   Protection Circuits
+status: ''
 extra:
   Price: $43.29 - $44.99
   SKU: '24921'
   price: $43.29 - $44.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/o/modbus-rtu-relay-16ch-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/modbus-rtu-relay-16ch.htm
-  repositories: []
-name: Modbus RTU Relay 16CH
-ref: waveshare/modbus-rtu-relay-16ch
-release_date: null
-sku: modbus-rtu-relay-16ch
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/o/modbus-rtu-relay-16ch-1.jpg

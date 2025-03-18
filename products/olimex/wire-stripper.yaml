@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: wire-stripper
+ref: olimex/wire-stripper
+vendor: olimex
+sku: wire-stripper
+name: WIRE-STRIPPER
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/HandTools/WIRE-STRIPPER/images/thumbs/200x150/wire-stripper-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/HandTools/WIRE-STRIPPER/
-  repositories: []
-name: WIRE-STRIPPER
-ref: olimex/wire-stripper
-release_date: null
-sku: wire-stripper
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/HandTools/WIRE-STRIPPER/images/thumbs/200x150/wire-stripper-1.jpg

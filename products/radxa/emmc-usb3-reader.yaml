@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: emmc-usb3-reader
+ref: radxa/emmc-usb3-reader
+vendor: radxa
+sku: emmc-usb3-reader
+name: eMMC USB3 Reader
 description: Fast and Efficient Data Transfer
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/accessories/ra004/thumb_emmc_reader.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/emmc-usb3-reader
-  repositories: []
-name: eMMC USB3 Reader
-ref: radxa/emmc-usb3-reader
-release_date: null
-sku: emmc-usb3-reader
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/accessories/ra004/thumb_emmc_reader.webp

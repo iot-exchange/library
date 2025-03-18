@@ -1,0 +1,14 @@
+id: cowork-kit-b
+ref: milesight/cowork-kit-b
+vendor: milesight
+sku: cowork-kit-b
+name: CoWork Kit-B
+description: Smart Office Solution
+status: ''
+extra:
+  application: Workplace, Meeting Room, Showroom, Office
+  benefit: Workplace Efficiency & Utilization
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-ibox-kit/cowork-smart-office-kit
+  images: []

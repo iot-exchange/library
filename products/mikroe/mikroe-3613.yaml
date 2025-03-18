@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: mikroe-3613
+ref: mikroe/mikroe-3613
+vendor: mikroe
+sku: mikroe-3613
+name: MIKROE-3613
 description: H-Bridge 3 Click is designed for the control of small DC motors and inductive
   loads, it features TLE9201SG a general purpose 6A H-Bridge perfectly suited for
   industrial and automotive applications. This IC meets the harsh automotive environmental
   conditions and it is qualified in accordance with the AEC-Q100 standard, also has
   set of features such as the...
+status: ''
 extra:
   Price: $50.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/h-bridge-3-click/h-bridge-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/h-bridge-3-click
-  repositories: []
-name: MIKROE-3613
-ref: mikroe/mikroe-3613
-release_date: null
-sku: mikroe-3613
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/h-bridge-3-click/h-bridge-3-click-home_default-1.jpg?v=100

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: avr-io
+ref: olimex/avr-io
+vendor: olimex
+sku: avr-io
+name: AVR-IO
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/AVR/Development/AVR-IO/images/thumbs/200x150/AVR-IO-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/AVR/Development/AVR-IO/
-  repositories: []
-name: AVR-IO
-ref: olimex/avr-io
-release_date: null
-sku: avr-io
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/AVR/Development/AVR-IO/images/thumbs/200x150/AVR-IO-01.jpg

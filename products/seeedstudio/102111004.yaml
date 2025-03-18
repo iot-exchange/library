@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '102111004'
+ref: seeedstudio/102111004
+vendor: seeedstudio
+sku: '102111004'
+name: '102111004'
 description: Raspberry Pi Pico 2 is a newly launched microcontroller board from Raspberry
   Pi, based on the new high-performance, secure RP2350 microcontroller. While maintaining
   compatibility with its predecessor, Raspberry Pi Pico 2 offers significant upgrades
   in performance, security, and interfaces. It is an ideal microcontroller board for
   enthusiasts and professional developers alike.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/p/i/pico-1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-Pico-2-p-5940.html
-  repositories: []
-name: '102111004'
-ref: seeedstudio/102111004
-release_date: null
-sku: '102111004'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/p/i/pico-1.jpg

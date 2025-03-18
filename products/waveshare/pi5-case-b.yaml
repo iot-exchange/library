@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: pi5-case-b
+ref: waveshare/pi5-case-b
+vendor: waveshare
+sku: pi5-case-b
+name: PI5-CASE-B
 description: Transparent and Black Acrylic Case for Raspberry Pi 5, Supports installing
   Official Active Cooler
+status: ''
 extra:
   Price: $4.15 - $4.49
   SKU: '26085'
   price: $4.15 - $4.49
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-case-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pi5-case-b.htm
-  repositories: []
-name: PI5-CASE-B
-ref: waveshare/pi5-case-b
-release_date: null
-sku: pi5-case-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-case-b-1.jpg

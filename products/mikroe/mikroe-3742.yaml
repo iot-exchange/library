@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3742
+ref: mikroe/mikroe-3742
+vendor: mikroe
+sku: mikroe-3742
+name: MIKROE-3742
 description: "Accel 13 Click features an ultra-low power triaxial accelerometer sensor\
   \ with embedded intelligence, labeled as the IIS2DLPC. This Click board\u2122 allows\
   \ linear motion and gravitational force measurements in ranges of \xB12 g, \xB1\
   4 g, \xB18, and \xB116 g in three perpendicular axes. This smart sensor allows the\
   \ Accel 13 click to detect many different events."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/accel-13-click/accel-13-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/accel-13-click
-  repositories: []
-name: MIKROE-3742
-ref: mikroe/mikroe-3742
-release_date: null
-sku: mikroe-3742
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/accel-13-click/accel-13-click-home_default-1.jpg?v=100

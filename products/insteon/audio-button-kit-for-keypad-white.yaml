@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: audio-button-kit-for-keypad-white
+ref: insteon/audio-button-kit-for-keypad-white
+vendor: insteon
+sku: audio-button-kit-for-keypad-white
+name: Audio Button Kit for Keypad, White
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/files/AudioButtonKit2322-392.png?v=1731947619&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/audio-button-kit-for-keypad
-  repositories: []
-name: Audio Button Kit for Keypad, White
-ref: insteon/audio-button-kit-for-keypad-white
-release_date: null
-sku: audio-button-kit-for-keypad-white
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/files/AudioButtonKit2322-392.png?v=1731947619&width=533

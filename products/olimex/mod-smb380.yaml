@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: mod-smb380
+ref: olimex/mod-smb380
+vendor: olimex
+sku: mod-smb380
+name: MOD-SMB380
 description: ''
+status: ''
 extra:
   bulkPrice: 4.76 EUR
   discountedPrice: 5.36 EUR
@@ -9,18 +13,7 @@ extra:
   price2: 5.36 EUR
   price3: 4.76 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Sensors/MOD-SMB380/images/thumbs/200x150/MOD-SMB380-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Sensors/MOD-SMB380/
-  repositories: []
-name: MOD-SMB380
-ref: olimex/mod-smb380
-release_date: null
-sku: mod-smb380
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Sensors/MOD-SMB380/images/thumbs/200x150/MOD-SMB380-01.jpg

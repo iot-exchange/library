@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lpc-p1114
+ref: olimex/lpc-p1114
+vendor: olimex
+sku: lpc-p1114
+name: LPC-P1114
 description: ''
+status: ''
 extra:
   discountedPrice1: 10.76 EUR
   discountedPrice2: 9.56 EUR
   price: 11.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/NXP/LPC-P1114/images/thumbs/200x150/LPC1114-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/NXP/LPC-P1114/
-  repositories: []
-name: LPC-P1114
-ref: olimex/lpc-p1114
-release_date: null
-sku: lpc-p1114
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-P1114/images/thumbs/200x150/LPC1114-01.jpg

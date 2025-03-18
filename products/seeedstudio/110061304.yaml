@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '110061304'
+ref: seeedstudio/110061304
+vendor: seeedstudio
+sku: '110061304'
+name: '110061304'
 description: OBD-II RF Dev Kit helps you communicate wirelessly with your vehicle's
   OBD-II interface using RF (Radio Frequency) through hundreds of meters, which means
   you can remotely process your vehicle property value data. We also provide tutorials
   based on Arduino about how you start with it and get data from vehicles.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110061304_can_bus_obd-ii_rf_dev_kit_all-13-min.png
-  models: []
   products:
   - https://www.seeedstudio.com/CAN-BUS-OBD-II-RF-Dev-Kit-p-5140.html
-  repositories: []
-name: '110061304'
-ref: seeedstudio/110061304
-release_date: null
-sku: '110061304'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110061304_can_bus_obd-ii_rf_dev_kit_all-13-min.png

@@ -1,0 +1,13 @@
+id: ai-motorized-dome-camera
+ref: milesight/ai-motorized-dome-camera
+vendor: milesight
+sku: ai-motorized-dome-camera
+name: AI Motorized Dome Camera
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/security/product/ai-motorized-mini-dome
+  images:
+  - https://www.milesight.com/static/pc/en/security/index/new/product/ai-motorized-dome-camera.png?t=1742198651317

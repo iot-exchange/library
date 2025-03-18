@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: comfort
+ref: tektelic/comfort
+vendor: tektelic
+sku: comfort
+name: COMFORT
 description: "LoRaWAN\xAE for Leak Detection"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://tektelic.com/wp-content/uploads/COMFORT-ISO-2000x2000-1.png
-  - https://tektelic.com/wp-content/uploads/COMFORT-Leak-Rope-ISO-2.png
-  models: []
   products:
   - https://tektelic.com/products/sensors/comfort-base-smart-room-sensor/
   - https://tektelic.com/products/sensors/comfort-leak-detection/
-  repositories: []
-name: COMFORT
-ref: tektelic/comfort
-release_date: null
-sku: comfort
-spec: null
-status: ''
-vendor: tektelic
+  images:
+  - https://tektelic.com/wp-content/uploads/COMFORT-ISO-2000x2000-1.png
+  - https://tektelic.com/wp-content/uploads/COMFORT-Leak-Rope-ISO-2.png

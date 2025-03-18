@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sld936b-45w
+ref: olimex/sld936b-45w
+vendor: olimex
+sku: sld936b-45w
+name: SLD936B-45W
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Soldering/SLD936B-45W/images/thumbs/200x150/SLD-936B.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Soldering/SLD936B-45W/
-  repositories: []
-name: SLD936B-45W
-ref: olimex/sld936b-45w
-release_date: null
-sku: sld936b-45w
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/SLD936B-45W/images/thumbs/200x150/SLD-936B.jpg

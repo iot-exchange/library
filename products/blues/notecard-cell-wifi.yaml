@@ -1,0 +1,23 @@
+id: notecard-cell-wifi
+ref: blues/notecard-cell-wifi
+vendor: blues
+sku: notecard-cell-wifi
+name: Notecard Cell+WiFi
+description: "Global cellular coverage over LTE CAT-1, CAT-M, or NB-IoT. Automatic\
+  \ failover between cellular and Wi-Fi in the event of a disruption. Precise location\
+  \ tracking through a GNSS/GPS module or our Wi-Fi Triangulation feature. Dual-embedded\
+  \ SIM option that expands your international coverage and provides better signal\
+  \ quality. Onboard ultra-low-power ARM\xAE Cortex\xAE-M4 MCU with 2MB Flash."
+status: ''
+extra:
+  automatic_failover: 'Yes'
+  countries: over 139 countries
+  coverage: 500MB of pre-paid data
+  service_duration: 10 years
+links:
+  products:
+  - http://blues.com/notecard-cell-wifi
+  - https://blues.com/notecard-cell-wifi/?utm_medium=community&utm_source=website&utm_campaign=opta-expansion
+  images:
+  - https://blues.com/wp-content/uploads/2023/09/Card-1.png
+  - https://blues.com/wp-content/uploads/2024/04/WBGLW-Front-300x300.png

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: arduino-mkr-zero
+ref: arduino/arduino-mkr-zero
+vendor: arduino
+sku: arduino-mkr-zero
+name: Arduino MKR Zero
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.arduino.cc/wiki/static/80d12450eac96f648d8f6fba897eb3a3/41099/mkr_zero.jpg
-  models: []
   products:
   - https://store.arduino.cc/products/arduino-mkr-zero-i2s-bus-sd-for-sound-music-digital-audio-data
-  repositories: []
-name: Arduino MKR Zero
-ref: arduino/arduino-mkr-zero
-release_date: null
-sku: arduino-mkr-zero
-spec: null
-status: ''
-vendor: arduino
+  images:
+  - https://www.arduino.cc/wiki/static/80d12450eac96f648d8f6fba897eb3a3/41099/mkr_zero.jpg

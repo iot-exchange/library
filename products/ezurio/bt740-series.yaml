@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: bt740-series
+ref: ezurio/bt740-series
+vendor: ezurio
+sku: bt740-series
+name: BT740 Series
 description: Bluetooth Module
+status: ''
 extra:
   2MPHY: ''
   802.15.4 / Matter / Thread: ''
@@ -8,18 +12,7 @@ extra:
   Classic BT: ''
   LE Long Range: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/Embedded-Wireless-BT740-SA.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-20-21-and-30-modules/bt740-series-bluetooth-module
-  repositories: []
-name: BT740 Series
-ref: ezurio/bt740-series
-release_date: null
-sku: bt740-series
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/Embedded-Wireless-BT740-SA.png

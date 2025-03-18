@@ -1,0 +1,13 @@
+id: iaq-kit
+ref: milesight/iaq-kit
+vendor: milesight
+sku: iaq-kit
+name: IAQ Kit
+description: Indoor Air Quality Solution
+status: ''
+extra:
+  application: Laboratory, Classroom, Museum
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-ibox-kit/iaq-kit
+  images: []

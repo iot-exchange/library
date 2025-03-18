@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: aoy-c008
+ref: olimex/aoy-c008
+vendor: olimex
+sku: aoy-c008
+name: AOY-C008
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Soldering/AOY-C008/images/thumbs/200x150/AOY-C001-C008-C010.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Soldering/AOY-C008/
-  repositories: []
-name: AOY-C008
-ref: olimex/aoy-c008
-release_date: null
-sku: aoy-c008
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/AOY-C008/images/thumbs/200x150/AOY-C001-C008-C010.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sns-current-ct013-100a
+ref: olimex/sns-current-ct013-100a
+vendor: olimex
+sku: sns-current-ct013-100a
+name: SNS-CURRENT-CT013-100A
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Sensors/Current/SNS-CURRENT-CT013-100A/images/thumbs/200x150/SNS-CURRENT-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Sensors/Current/SNS-CURRENT-CT013-100A/
-  repositories: []
-name: SNS-CURRENT-CT013-100A
-ref: olimex/sns-current-ct013-100a
-release_date: null
-sku: sns-current-ct013-100a
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/Current/SNS-CURRENT-CT013-100A/images/thumbs/200x150/SNS-CURRENT-1.jpg

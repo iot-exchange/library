@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5934
+ref: mikroe/mikroe-5934
+vendor: mikroe
+sku: mikroe-5934
+name: MIKROE-5934
 description: Silent Step 2 Click is a compact add-on board that allows extremely smooth
   and silent operation of the connected motor. This board features the TMC2130, a
   high-performance two-phase stepper motor driver from Analog Devices. The driver
   uses an external motor power supply of 4.75 up to 43V to power a 2-phase stepper
   motor up to 2A coil current (2.5A peak)...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/silent-step-2-click/silent-step-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/silent-step-2-click
-  repositories: []
-name: MIKROE-5934
-ref: mikroe/mikroe-5934
-release_date: null
-sku: mikroe-5934
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/silent-step-2-click/silent-step-2-click-home_default-1.jpg?v=100

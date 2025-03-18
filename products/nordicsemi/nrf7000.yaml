@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: nrf7000
+ref: nordicsemi/nrf7000
+vendor: nordicsemi
+sku: nrf7000
+name: nRF7000
 description: SSID-based Wi-Fi locationing Ideal for SSID-based Wi-Fi locationing 2.4
   GHz and 5 GHz Dual-band Coexistence with Bluetooth LE Supported in nRF Connect SDK
   BSS Coloring SPI / QSPI Co-existence interfaces
+status: ''
 extra:
   Coexistence: Bluetooth LE
   Frequency Bands: 2.4GHz and 5GHz
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF70-Series/nRF7000-front-and-back.png?h=250&iar=0&mh=250&w=252&hash=4803B285FC62DC35B07CCB79D67C13FB
-  models: []
   products:
   - https://www.nordicsemi.com/Products/nRF7000
-  repositories: []
-name: nRF7000
-ref: nordicsemi/nrf7000
-release_date: null
-sku: nrf7000
-spec: null
-status: ''
-vendor: nordicsemi
+  images:
+  - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF70-Series/nRF7000-front-and-back.png?h=250&iar=0&mh=250&w=252&hash=4803B285FC62DC35B07CCB79D67C13FB

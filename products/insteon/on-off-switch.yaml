@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: on-off-switch
+ref: insteon/on-off-switch
+vendor: insteon
+sku: on-off-switch
+name: On/Off Switch
 description: ''
+status: ''
 extra:
   reviews: '38'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/products/White_Insteon_On_Off_Switch.png?v=1723522441&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/on-off-switch
-  repositories: []
-name: On/Off Switch
-ref: insteon/on-off-switch
-release_date: null
-sku: on-off-switch
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/products/White_Insteon_On_Off_Switch.png?v=1723522441&width=533

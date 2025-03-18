@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: vl53l0x-distance-sensor
+ref: waveshare/vl53l0x-distance-sensor
+vendor: waveshare
+sku: vl53l0x-distance-sensor
+name: VL53L0X Distance Sensor
 description: VL53L0X ToF Distance Ranging Sensor, Ranging up to 2m
+status: ''
 extra:
   Price: $8.49 - $9.49
   SKU: '14930'
   price: $8.49 - $9.49
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/v/l/vl53l0x-distance-sensor-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/vl53l0x-distance-sensor.htm
-  repositories: []
-name: VL53L0X Distance Sensor
-ref: waveshare/vl53l0x-distance-sensor
-release_date: null
-sku: vl53l0x-distance-sensor
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/v/l/vl53l0x-distance-sensor-1.jpg

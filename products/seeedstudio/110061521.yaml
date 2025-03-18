@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '110061521'
+ref: seeedstudio/110061521
+vendor: seeedstudio
+sku: '110061521'
+name: '110061521'
 description: GPS Antenna Kit. The GPS Antenna Kit is a compact and high-performance
   antenna designed for GPS, BD, and GLONASS Navigation System applications.
+status: ''
 extra:
   Compatibility: GPS, BD, GLONASS
   Features: Compact, high-performance
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-110061521-gps-antenna-kit-for-reterminal-dm-4g-module-45font.jpg
-  - https://www.seeedstudio.com/img/ad
-  models: []
   products:
   - https://www.seeedstudio.com/GPS-Antenna-Kit-for-reTerminal-DM-4G-Module-p-5774.html
   - https://www.seeedstudio.com/GPS-Antenna-Kit.html
-  repositories: []
-name: '110061521'
-ref: seeedstudio/110061521
-release_date: null
-sku: '110061521'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-110061521-gps-antenna-kit-for-reterminal-dm-4g-module-45font.jpg
+  - https://www.seeedstudio.com/img/ad

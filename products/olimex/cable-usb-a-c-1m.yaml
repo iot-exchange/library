@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: cable-usb-a-c-1m
+ref: olimex/cable-usb-a-c-1m
+vendor: olimex
+sku: cable-usb-a-c-1m
+name: CABLE-USB-A-C-1M
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Cables/USB-CABLE-A-TO-C-1M/images/thumbs/200x150/USB-C-1M.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Cables/CABLE-USB-A-C-1M/
-  repositories: []
-name: CABLE-USB-A-C-1M
-ref: olimex/cable-usb-a-c-1m
-release_date: null
-sku: cable-usb-a-c-1m
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Cables/USB-CABLE-A-TO-C-1M/images/thumbs/200x150/USB-C-1M.jpg

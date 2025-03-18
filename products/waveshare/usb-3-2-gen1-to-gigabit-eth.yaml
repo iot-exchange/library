@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: usb-3-2-gen1-to-gigabit-eth
+ref: waveshare/usb-3-2-gen1-to-gigabit-eth
+vendor: waveshare
+sku: usb-3-2-gen1-to-gigabit-eth
+name: USB 3.2 Gen1 TO Gigabit ETH
 description: USB 3.2 Gen1 TO Gigabit Ethernet Converter, Driver-Free
+status: ''
 extra:
   Price: $14.31 - $14.99
   SKU: '20162'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-3.2-gen1-to-gigabit-eth-2_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-3.2-gen1-to-gigabit-eth.htm
-  repositories: []
-name: USB 3.2 Gen1 TO Gigabit ETH
-ref: waveshare/usb-3-2-gen1-to-gigabit-eth
-release_date: null
-sku: usb-3-2-gen1-to-gigabit-eth
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-3.2-gen1-to-gigabit-eth-2_1.jpg

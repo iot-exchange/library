@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: smd-rtl8211e-vb-cg
+ref: olimex/smd-rtl8211e-vb-cg
+vendor: olimex
+sku: smd-rtl8211e-vb-cg
+name: SMD-RTL8211E-VB-CG
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/IC/RTL8211CL-GR/images/thumbs/200x150/8211.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/IC/SMD-RTL8211E-VB-CG/
-  repositories: []
-name: SMD-RTL8211E-VB-CG
-ref: olimex/smd-rtl8211e-vb-cg
-release_date: null
-sku: smd-rtl8211e-vb-cg
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/IC/RTL8211CL-GR/images/thumbs/200x150/8211.jpg

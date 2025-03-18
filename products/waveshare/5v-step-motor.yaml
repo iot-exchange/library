@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 5v-step-motor
+ref: waveshare/5v-step-motor
+vendor: waveshare
+sku: 5v-step-motor
+name: 5V Step Motor
 description: ''
+status: ''
 extra:
   Price: $1.79 - $2.99
   SKU: '10591'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/product/5v-step-motor.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/v/5v-step-motor-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/v/5v-step-motor-2.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/product/5v-step-motor.htm
-  repositories: []
-name: 5V Step Motor
-ref: waveshare/5v-step-motor
-release_date: null
-sku: 5v-step-motor
-spec: null
-status: ''
-vendor: waveshare

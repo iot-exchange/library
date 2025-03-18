@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sns-mq2
+ref: olimex/sns-mq2
+vendor: olimex
+sku: sns-mq2
+name: SNS-MQ2
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Sensors/Gas/SNS-MQ2/images/thumbs/200x150/MQ-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Sensors/Gas/SNS-MQ2/
-  repositories: []
-name: SNS-MQ2
-ref: olimex/sns-mq2
-release_date: null
-sku: sns-mq2
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/Gas/SNS-MQ2/images/thumbs/200x150/MQ-1.jpg

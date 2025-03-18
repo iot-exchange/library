@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: fan-hat
+ref: waveshare/fan-hat
+vendor: waveshare
+sku: fan-hat
+name: Fan HAT
 description: PWM Controlled Fan HAT for Raspberry Pi, I2C, Temperature Monitor
+status: ''
 extra:
   Price: $11.63 - $12.99
   SKU: '17951'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/a/fan-hat-1.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/a/fan-hat-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/fan-hat.htm
   - https://www.waveshare.com/product/fan-hat.htm "PWM Controlled Fan HAT for Raspberry
     Pi, I2C, Temperature Monitor"
-  repositories: []
-name: Fan HAT
-ref: waveshare/fan-hat
-release_date: null
-sku: fan-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/a/fan-hat-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/a/fan-hat-2.jpg

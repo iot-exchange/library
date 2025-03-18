@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mq-5-gas-sensor
+ref: waveshare/mq-5-gas-sensor
+vendor: waveshare
+sku: mq-5-gas-sensor
+name: MQ-5 Gas Sensor
 description: MQ-5 Gas Sensor
+status: ''
 extra:
   Price: $4.39 - $5.09
   SKU: '9531'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/q/mq-5-gas-sensor_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/mq-5-gas-sensor.htm
-  repositories: []
-name: MQ-5 Gas Sensor
-ref: waveshare/mq-5-gas-sensor
-release_date: null
-sku: mq-5-gas-sensor
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/q/mq-5-gas-sensor_l_1_5.jpg

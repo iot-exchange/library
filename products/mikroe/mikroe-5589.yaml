@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5589
+ref: mikroe/mikroe-5589
+vendor: mikroe
+sku: mikroe-5589
+name: MIKROE-5589
 description: "1-Wire Switch Click is a compact add-on board that allows you to switch\
   \ a device remotely using a 1-wire signal. This board features the DS2413, a dual-channel\
   \ programmable I/O 1-Wire switch from Analog Devices. Communication and operation\
   \ of this Click board\u2122 are performed with the single 1-Wire serial interface,\
   \ with the possibility of selecting signals..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/1-wire-switch-click/1-wire-switch-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/1-wire-switch-click
-  repositories: []
-name: MIKROE-5589
-ref: mikroe/mikroe-5589
-release_date: null
-sku: mikroe-5589
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/1-wire-switch-click/1-wire-switch-click-home_default-1.jpg?v=100

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4439
+ref: mikroe/mikroe-4439
+vendor: mikroe
+sku: mikroe-4439
+name: MIKROE-4439
 description: "Binho Nova Click is an adapter Click board\u2122 that can be used as\
   \ a multi-protocol adapter. This board features two female 1.27mm 2x5 connectors\
   \ suitable for connecting the Binho Nova Multi-Protocol USB Host Adapter depending\
   \ on the desired interface. This Click board\u2122 is designed for ultimate flexibility\
   \ and provides the ability to use this adapter with..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/binho-nova-click/binho-nova-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/binho-nova-click
-  repositories: []
-name: MIKROE-4439
-ref: mikroe/mikroe-4439
-release_date: null
-sku: mikroe-4439
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/binho-nova-click/binho-nova-click-home_default-1.jpg?v=100

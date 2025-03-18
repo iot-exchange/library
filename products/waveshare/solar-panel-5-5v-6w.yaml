@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: solar-panel-5-5v-6w
+ref: waveshare/solar-panel-5-5v-6w
+vendor: waveshare
+sku: solar-panel-5-5v-6w
+name: Solar Panel (5.5V 6W)
 description: Monocrystalline silicon solar panel (5.5V 6W), Toughened Glass surface
+status: ''
 extra:
   price: $9.31 - $9.99
   sku: '24166'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/o/solar-panel-5.5v-6w-1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/solar-panel-5.5v-6w.htm
   - https://www.waveshare.com/product/solar-panel-5.5v-6w.htm "Monocrystalline silicon
     solar panel (5.5V 6W), Toughened Glass surface"
-  repositories: []
-name: Solar Panel (5.5V 6W)
-ref: waveshare/solar-panel-5-5v-6w
-release_date: null
-sku: solar-panel-5-5v-6w
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/o/solar-panel-5.5v-6w-1_2.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pcie-to-4g-5g-m-2-usb3-2-hat
+ref: waveshare/pcie-to-4g-5g-m-2-usb3-2-hat
+vendor: waveshare
+sku: pcie-to-4g-5g-m-2-usb3-2-hat
+name: PCIe TO 4G/5G M.2 USB3.2 HAT+
 description: PCIe to M.2 4G/5G And USB 3.2 HAT for Raspberry Pi 5, Compatible with
   SIMCom/Quectel 4G/5G modules, Raspberry Pi 5 HAT, High-speed Networking
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-4g-5g-m.2-usb3.2-hat-plus-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pcie-to-4g-5g-m.2-usb3.2-hat-plus.htm "PCIe
     to M.2 4G/5G And USB 3.2 HAT for Raspberry Pi 5, Compatible with SIMCom/Quectel
     4G/5G modules, Raspberry Pi 5 HAT, High-speed Networking"
-  repositories: []
-name: PCIe TO 4G/5G M.2 USB3.2 HAT+
-ref: waveshare/pcie-to-4g-5g-m-2-usb3-2-hat
-release_date: null
-sku: pcie-to-4g-5g-m-2-usb3-2-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/c/pcie-to-4g-5g-m.2-usb3.2-hat-plus-1.jpg

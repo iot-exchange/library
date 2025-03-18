@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6068
+ref: mikroe/mikroe-6068
+vendor: mikroe
+sku: mikroe-6068
+name: MIKROE-6068
 description: Cooler Click is a compact add-on board designed as a cooling solution
   to manage heat in electronic systems efficiently. This board features the DRV8213,
   a brushless DC motor driver from Texas Instruments, ensuring a high-performance
   operation. This board also directly integrates a TMP007 temperature sensor and an
   MF25060V2-1000U-A99 cooling fan onto its...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/cooler-click/cooler-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cooler-click
-  repositories: []
-name: MIKROE-6068
-ref: mikroe/mikroe-6068
-release_date: null
-sku: mikroe-6068
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/cooler-click/cooler-click-home_default-1.jpg?v=100

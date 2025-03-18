@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: openep4ce10-c-standard
+ref: waveshare/openep4ce10-c-standard
+vendor: waveshare
+sku: openep4ce10-c-standard
+name: OpenEP4CE10-C Standard
 description: Part No.:OpenEP4CE10-C Standard, ALTERA Development Board
+status: Out of Stock
 extra:
   Price: $68.27 - $70.99
   SKU: '6979'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/openep4ce10-c-standard_l_1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/openep4ce10-c-standard.htm
-  repositories: []
-name: OpenEP4CE10-C Standard
-ref: waveshare/openep4ce10-c-standard
-release_date: null
-sku: openep4ce10-c-standard
-spec: null
-status: Out of Stock
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/p/openep4ce10-c-standard_l_1_2.jpg

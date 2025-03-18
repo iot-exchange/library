@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5524
+ref: mikroe/mikroe-5524
+vendor: mikroe
+sku: mikroe-5524
+name: MIKROE-5524
 description: "Air Motion Click is a compact add-on board that contains a 6-axis inertial\
   \ measurement unit. This board features TDK InvenSense\u2019s ICM-40627, a 6-axis\
   \ MEMS MotionTracking\u2122 device that combines a 3-axis user-selectable gyroscope\
   \ accelerometer. The ICM-40627 comes bundled with TDK\u2019s Air Motion Library\
   \ that enables precise mouse pointing, swipe, roll and..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/air-motion-click/air-motion-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/air-motion-click
-  repositories: []
-name: MIKROE-5524
-ref: mikroe/mikroe-5524
-release_date: null
-sku: mikroe-5524
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/air-motion-click/air-motion-click-home_default-1.jpg?v=100

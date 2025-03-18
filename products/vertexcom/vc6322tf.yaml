@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: vc6322tf
+ref: vertexcom/vc6322tf
+vendor: vertexcom
+sku: vc6322tf
+name: VC6322TF
 description: China SGCC Q/GDW 11612, IEEE 1901.1
+status: ''
 extra:
   Body Size(mm): 7x7
   Flash: 2 MB
@@ -8,17 +12,6 @@ extra:
   SDRAM: 2 MB
   Standards: China SGCC Q/GDW 11612, IEEE 1901.1
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - http://www.vertexcom.com/doc/VC632X_Product_Brief_V1.0.pdf
-  repositories: []
-name: VC6322TF
-ref: vertexcom/vc6322tf
-release_date: null
-sku: vc6322tf
-spec: null
-status: ''
-vendor: vertexcom
+  images: []

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: wireless-module-a8
+ref: radxa/wireless-module-a8
+vendor: radxa
+sku: wireless-module-a8
+name: Wireless Module A8
 description: WiFi 6 + BT 5.2 Dual Mode
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/accessories/ra007-a8/thumb_wireless_a8.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/wireless-module-a8
-  repositories: []
-name: Wireless Module A8
-ref: radxa/wireless-module-a8
-release_date: null
-sku: wireless-module-a8
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/accessories/ra007-a8/thumb_wireless_a8.webp

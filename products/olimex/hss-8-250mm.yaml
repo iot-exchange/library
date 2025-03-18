@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: hss-8-250mm
+ref: olimex/hss-8-250mm
+vendor: olimex
+sku: hss-8-250mm
+name: HSS-8-250MM
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/HSS-8-500MM/images/thumbs/200x150/HSS-8-500mm.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/HSS-8-250MM/
-  repositories: []
-name: HSS-8-250MM
-ref: olimex/hss-8-250mm
-release_date: null
-sku: hss-8-250mm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Linear-Guides/HSS-8-500MM/images/thumbs/200x150/HSS-8-500mm.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: '114991675'
+ref: seeedstudio/114991675
+vendor: seeedstudio
+sku: '114991675'
+name: '114991675'
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/q/i/qi-charger-deck-1.2-400px-3_1024x1024.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Crazyflie-Qi-1-2-wireless-charging-deck-p-2931.html
-  repositories: []
-name: '114991675'
-ref: seeedstudio/114991675
-release_date: null
-sku: '114991675'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/q/i/qi-charger-deck-1.2-400px-3_1024x1024.jpg

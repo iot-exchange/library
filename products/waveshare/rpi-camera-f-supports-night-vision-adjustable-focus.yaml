@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: rpi-camera-f-supports-night-vision-adjustable-focus
+ref: waveshare/rpi-camera-f-supports-night-vision-adjustable-focus
+vendor: waveshare
+sku: rpi-camera-f-supports-night-vision-adjustable-focus
+name: RPi Camera (F), Supports Night Vision, Adjustable-Focus
 description: $17.63  -  $18.99
+status: ''
 extra:
   Part No.: RPi Camera (F)
   SKU: '10299'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rpi_camera_f__1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rpi-camera-f.htm
-  repositories: []
-name: RPi Camera (F), Supports Night Vision, Adjustable-Focus
-ref: waveshare/rpi-camera-f-supports-night-vision-adjustable-focus
-release_date: null
-sku: rpi-camera-f-supports-night-vision-adjustable-focus
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rpi_camera_f__1.jpg

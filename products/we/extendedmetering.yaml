@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: extendedmetering
+ref: we/extendedmetering
+vendor: we
+sku: extendedmetering
+name: EXTENDEDMetering
 description: EXTENDEDMetering
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o811199v214%20Image_Online_Catalog_Metering.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/wco/wireless-connectivity_1/metering
-  repositories: []
-name: EXTENDEDMetering
-ref: we/extendedmetering
-release_date: null
-sku: extendedmetering
-spec: null
-status: ''
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o811199v214%20Image_Online_Catalog_Metering.jpg

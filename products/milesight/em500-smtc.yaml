@@ -1,0 +1,13 @@
+id: em500-smtc
+ref: milesight/em500-smtc
+vendor: milesight
+sku: em500-smtc
+name: EM500-SMTC
+description: Soil Moisture, Temperature & Conductivity Sensor
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/em500-smtc
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/outdoor-environmental-monitoring-em500-series/soil-moisture-temperature-and-electrical-conductivity-sensor-em500-smtc.png?t=1742198585390

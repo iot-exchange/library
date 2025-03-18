@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '113991054'
+ref: seeedstudio/113991054
+vendor: seeedstudio
+sku: '113991054'
+name: '113991054'
 description: Seeed Studio XIAO ESP32C3 adopts new RISC-V architecture, supporting
   both Wi-Fi and BLE wireless connectivities. For Internet of Things applications,
   you will find it is flexible and suitable for all kinds of IoT scenarios.
+status: ''
 extra:
   Price: $4.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-113991054-seeed-studio-xiao-esp32c3-45font_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
-  repositories: []
-name: '113991054'
-ref: seeedstudio/113991054
-release_date: null
-sku: '113991054'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-113991054-seeed-studio-xiao-esp32c3-45font_1.jpg

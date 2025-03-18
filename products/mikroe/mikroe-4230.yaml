@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-4230
+ref: mikroe/mikroe-4230
+vendor: mikroe
+sku: mikroe-4230
+name: MIKROE-4230
 description: "ISM RX 2 Click is a compact add-on board that contains a pin configurable,\
   \ low current, sub-GHz EZRadio\xAE receiver. This board features the Si4356, a standalone\
   \ Sub-GHz RF receiver IC, from Silicon Labs, which provides a true plug-and-play\
   \ receive option. The Si4356 features a (G)FSK/OOK demodulator, and it has a good\
   \ sensitivity up to \u2013113 dBm that allows."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=2836
-  repositories: []
-name: MIKROE-4230
-ref: mikroe/mikroe-4230
-release_date: null
-sku: mikroe-4230
-spec: null
-status: ''
-vendor: mikroe
+  images: []

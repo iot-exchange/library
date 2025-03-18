@@ -1,0 +1,15 @@
+id: beaglev-r-fire
+ref: beagleboard/beaglev-r-fire
+vendor: beagleboard
+sku: beaglev-r-fire
+name: "BeagleV\xAE-Fire"
+description: New BeagleV-Fire features FPGA and RISC-V CPU and is available now around
+  $150. Credit-card sized, Linux-enabled board based on Microchip Polarfire SoC offers
+  high-speed I/O with BeagleBone cape compatible headers and SYZYGY and M.2 connectors.
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.beagleboard.org/boards/beaglev-fire
+  images:
+  - https://www.beagleboard.org/app/uploads/2023/10/45-degree-angled-perspective-view-Front-400x324.webp

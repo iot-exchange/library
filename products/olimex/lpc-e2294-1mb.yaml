@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: lpc-e2294-1mb
+ref: olimex/lpc-e2294-1mb
+vendor: olimex
+sku: lpc-e2294-1mb
+name: LPC-E2294-1MB
 description: ''
+status: ''
 extra:
   discountedPrice1: 62.96 EUR
   discountedPrice2: 55.96 EUR
   price: 69.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/NXP/LPC-E2294-1MB/images/thumbs/200x150/LPC-E2294-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/NXP/LPC-E2294-1MB/
-  repositories: []
-name: LPC-E2294-1MB
-ref: olimex/lpc-e2294-1mb
-release_date: null
-sku: lpc-e2294-1mb
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/NXP/LPC-E2294-1MB/images/thumbs/200x150/LPC-E2294-01.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3339
+ref: mikroe/mikroe-3339
+vendor: mikroe
+sku: mikroe-3339
+name: MIKROE-3339
 description: PIR Click is a pyroelectric sensor that generates a voltage when exposed
   to infrared radiation emitted by live bodies. It is equipped with the PL-N823-01,
   an infrared sensor from KEMET that uses the pyroelectric effect of ceramic by absorbing
   infrared rays emitted from the human body. The sensor is paired with the PL-001L-N
   Fresnel lens, also from KEMET,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/pir-click/pir-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=122#PIR-Click
-  repositories: []
-name: MIKROE-3339
-ref: mikroe/mikroe-3339
-release_date: null
-sku: mikroe-3339
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/pir-click/pir-click-home_default-1.jpg?v=100

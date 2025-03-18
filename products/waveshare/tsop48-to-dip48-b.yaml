@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: tsop48-to-dip48-b
+ref: waveshare/tsop48-to-dip48-b
+vendor: waveshare
+sku: tsop48-to-dip48-b
+name: TSOP48 TO DIP48 (B)
 description: TSOP48 TO DIP48 (B), Programmer Adapter
+status: ''
 extra:
   Price: $38.59 - $41.99
   SKU: '10092'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/s/tsop48-to-dip48-b-1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/tsop48-to-dip48-b.htm
-  repositories: []
-name: TSOP48 TO DIP48 (B)
-ref: waveshare/tsop48-to-dip48-b
-release_date: null
-sku: tsop48-to-dip48-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/s/tsop48-to-dip48-b-1_2.jpg

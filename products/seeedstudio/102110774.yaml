@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '102110774'
+ref: seeedstudio/102110774
+vendor: seeedstudio
+sku: '102110774'
+name: '102110774'
 description: "Jetson A205E Carrier Board is built with industrial RS232 and 485 interfaces\
   \ and high-speed I/O communication, fully compatible with NVIDIA\xAE Jetson Nano\u2122\
   \ / Xavier\u2122 NX /TX2 NX module and for the industrial embedded AI system building."
+status: ''
 extra:
   Price: $416.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102110774-a205e-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/A205E-Carrier-Board-for-Jetson-Nano-Xavier-NX-p-5496.html
-  repositories: []
-name: '102110774'
-ref: seeedstudio/102110774
-release_date: null
-sku: '102110774'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102110774-a205e-45font.jpg

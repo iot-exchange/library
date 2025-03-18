@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: support-sk8
+ref: olimex/support-sk8
+vendor: olimex
+sku: support-sk8
+name: SUPPORT-SK8
 description: ''
+status: ''
 extra:
   discountedPrice1: 1.08 EUR
   discountedPrice2: 0.96 EUR
   price: 1.20 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/ShaftSupport/SUPPORT-SK8/images/thumbs/200x150/SK08.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/ShaftSupport/SUPPORT-SK8/
-  repositories: []
-name: SUPPORT-SK8
-ref: olimex/support-sk8
-release_date: null
-sku: support-sk8
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/ShaftSupport/SUPPORT-SK8/images/thumbs/200x150/SK08.jpg

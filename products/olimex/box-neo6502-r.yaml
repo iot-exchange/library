@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: box-neo6502-r
+ref: olimex/box-neo6502-r
+vendor: olimex
+sku: box-neo6502-r
+name: BOX-Neo6502-R
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Retro-Computers/BOX-Neo6502-R/images/thumbs/200x150/BOX-NEO6502-R-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Retro-Computers/BOX-Neo6502-R/open-source-hardware
-  repositories: []
-name: BOX-Neo6502-R
-ref: olimex/box-neo6502-r
-release_date: null
-sku: box-neo6502-r
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Retro-Computers/BOX-Neo6502-R/images/thumbs/200x150/BOX-NEO6502-R-1.jpg

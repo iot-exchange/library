@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '2608019024011'
+ref: we/2608019024011
+vendor: we
+sku: '2608019024011'
+name: '2608019024011'
 description: ''
+status: Active
 extra:
   Expected lifetime: '>10 years'
   Product type: EV-Kit Proteus-II with 50 Ohm RF pad
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/components/products/manual/2608019024011_Proteus-EV
     2601039300001 Manual_rev1.4.pdf
   - https://www.we-online.com/en/components/products/PROTEUS-II#2608019024011
-  repositories: []
-name: '2608019024011'
-ref: we/2608019024011
-release_date: null
-sku: '2608019024011'
-spec: null
-status: Active
-vendor: we
+  images: []

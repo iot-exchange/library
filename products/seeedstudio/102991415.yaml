@@ -1,30 +1,23 @@
-alternatives: []
-certifications: []
+id: '102991415'
+ref: seeedstudio/102991415
+vendor: seeedstudio
+sku: '102991415'
+name: '102991415'
 description: This version of the Raspberry Pi Compute Module 4 includes a high-performance
   64-bit quad-core processor, 1GB LPDDR4 RAM, 8GB eMMC.
+status: ''
 extra:
+  price: $35.00
   Processor: 64-bit quad-core
   RAM: 1GB
-  dual_display_support: up to 4K
   eMMC: 8GB
-  price: $35.00
+  dual_display_support: up to 4K
   processor: 64-bit quad-core
   ram: 1GB LPDDR4
   storage: 8GB eMMC
   video_decode: up to 4Kp60
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/s/k/sku102991376_0_1.png
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-Compute-Module-CM4001008-p-5741.html
-  repositories: []
-name: '102991415'
-ref: seeedstudio/102991415
-release_date: null
-sku: '102991415'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/s/k/sku102991376_0_1.png

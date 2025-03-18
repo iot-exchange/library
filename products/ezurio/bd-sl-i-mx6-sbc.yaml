@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: bd-sl-i-mx6-sbc
+ref: ezurio/bd-sl-i-mx6-sbc
+vendor: ezurio
+sku: bd-sl-i-mx6-sbc
+name: BD-SL-i.MX6 SBC
 description: "Chipset (MPU) x4 Cortex-A9 @ 1 GHz (via NXP\u2019s i.MX 6 processor)"
+status: NRND
 extra:
   Dimensions (L x W): 82 x 82
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2023-12/BD-SL-iMX6_New.png
-  models: []
   products:
   - https://www.ezurio.com/single-board-computer/nxp-imx6/bd-sl-i-mx6
-  repositories: []
-name: BD-SL-i.MX6 SBC
-ref: ezurio/bd-sl-i-mx6-sbc
-release_date: null
-sku: bd-sl-i-mx6-sbc
-spec: null
-status: NRND
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2023-12/BD-SL-iMX6_New.png

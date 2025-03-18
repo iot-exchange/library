@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 1-96
+ref: microchip/1-96
+vendor: microchip
+sku: 1-96
+name: '1.96'
 description: "dsPIC\xAE DSC"
+status: ''
 extra:
   ADC: PTG+ADC
   CAN: CAN-FD
@@ -15,16 +19,5 @@ extra:
   UART: 3 -UART
   VDD (V): '3.6'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: '1.96'
-ref: microchip/1-96
-release_date: null
-sku: 1-96
-spec: null
-status: ''
-vendor: microchip
+  images: []

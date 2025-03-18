@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: tof-laser-range-sensor-c-d
+ref: waveshare/tof-laser-range-sensor-c-d
+vendor: waveshare
+sku: tof-laser-range-sensor-c-d
+name: TOF Laser Range Sensor C/D
 description: TOF (time of flight) Laser Range Sensor, UART / I2C / IO Communication
   Support, Options For 25m / 50m Measuring Range
+status: ''
 extra:
   Price: $22.99 -  $29.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/o/tof-laser-range-sensor-c-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/tof-laser-range-sensor-c.htm
   - https://www.waveshare.com/product/tof-laser-range-sensor-c.htm "TOF (time of flight)
     Laser Range Sensor, UART / I2C / IO Communication Support, Options For 25m / 50m
     Measuring Range"
-  repositories: []
-name: TOF Laser Range Sensor C/D
-ref: waveshare/tof-laser-range-sensor-c-d
-release_date: null
-sku: tof-laser-range-sensor-c-d
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/t/o/tof-laser-range-sensor-c-1.jpg

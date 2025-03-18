@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-wii-icsp
+ref: olimex/mod-wii-icsp
+vendor: olimex
+sku: mod-wii-icsp
+name: MOD-WII-ICSP
 description: ''
+status: ''
 extra:
   price1: 4.95 EUR
   price2: 4.46 EUR
   price3: 3.96 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/Sensors/MOD-WII/MOD-WII-ICSP/images/thumbs/200x150/MOD-WII-ICSP.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/Sensors/MOD-WII/MOD-WII-ICSP/open-source-hardware
-  repositories: []
-name: MOD-WII-ICSP
-ref: olimex/mod-wii-icsp
-release_date: null
-sku: mod-wii-icsp
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/Sensors/MOD-WII/MOD-WII-ICSP/images/thumbs/200x150/MOD-WII-ICSP.jpg

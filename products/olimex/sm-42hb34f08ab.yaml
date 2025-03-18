@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sm-42hb34f08ab
+ref: olimex/sm-42hb34f08ab
+vendor: olimex
+sku: sm-42hb34f08ab
+name: SM-42HB34F08AB
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/StepperMotors/SM-42HB34F08AB/images/thumbs/200x150/42HB34F08AB.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/StepperMotors/SM-42HB34F08AB/
-  repositories: []
-name: SM-42HB34F08AB
-ref: olimex/sm-42hb34f08ab
-release_date: null
-sku: sm-42hb34f08ab
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/StepperMotors/SM-42HB34F08AB/images/thumbs/200x150/42HB34F08AB.jpg

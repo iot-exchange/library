@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: nut-t8-spring-loaded
+ref: olimex/nut-t8-spring-loaded
+vendor: olimex
+sku: nut-t8-spring-loaded
+name: NUT-T8-SPRING-LOADED
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Springs/NUT-T8-SPRING-LOADED/images/thumbs/200x150/NUT-T8-SPRING-LOADED.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Springs/NUT-T8-SPRING-LOADED/
-  repositories: []
-name: NUT-T8-SPRING-LOADED
-ref: olimex/nut-t8-spring-loaded
-release_date: null
-sku: nut-t8-spring-loaded
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Springs/NUT-T8-SPRING-LOADED/images/thumbs/200x150/NUT-T8-SPRING-LOADED.jpg

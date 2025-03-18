@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: gd32-h405
+ref: olimex/gd32-h405
+vendor: olimex
+sku: gd32-h405
+name: GD32-H405
 description: ''
+status: ''
 extra:
   price1: 11.95 EUR
   price2: 11.35 EUR
   price3: 10.76 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/ST/STM32-H405/images/thumbs/200x150/STM32-H405-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/ST/GD32-H405/
-  repositories: []
-name: GD32-H405
-ref: olimex/gd32-h405
-release_date: null
-sku: gd32-h405
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/ST/STM32-H405/images/thumbs/200x150/STM32-H405-1.jpg

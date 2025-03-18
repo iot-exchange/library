@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: se868k5-sf
+ref: telit/se868k5-sf
+vendor: telit
+sku: se868k5-sf
+name: SE868K5-SF
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2023/10/TC_SE868K5-SF-269x200.png
-  models: []
   products:
   - https://www.telit.com/devices/se868k5-sf/
-  repositories: []
-name: SE868K5-SF
-ref: telit/se868k5-sf
-release_date: null
-sku: se868k5-sf
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2023/10/TC_SE868K5-SF-269x200.png

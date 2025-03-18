@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 10-1inch-hdmi-lcd-e
+ref: waveshare/10-1inch-hdmi-lcd-e
+vendor: waveshare
+sku: 10-1inch-hdmi-lcd-e
+name: 10.1inch HDMI LCD (E)
 description: "10.1inch Capacitive Touch Screen LCD (E), 1024\xD7600, HDMI, IPS, Optical\
   \ Bonding Screen, Supports Raspberry Pi, Jetson Nano, And PC"
+status: ''
 extra:
   SKU: '18096'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.1ep-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/10.1inch-hdmi-lcd-e.htm
-  repositories: []
-name: 10.1inch HDMI LCD (E)
-ref: waveshare/10-1inch-hdmi-lcd-e
-release_date: null
-sku: 10-1inch-hdmi-lcd-e
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/0/10.1ep-1.jpg

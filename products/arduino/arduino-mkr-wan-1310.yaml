@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: arduino-mkr-wan-1310
+ref: arduino/arduino-mkr-wan-1310
+vendor: arduino
+sku: arduino-mkr-wan-1310
+name: Arduino MKR WAN 1310
 description: "A board equipped with a LoRa\xAE radio module."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.arduino.cc/wiki/static/7cf34a4e100e00c007c57446ce4de1c7/5a190/mkr_wan_1310.png
-  models: []
   products:
   - https://store.arduino.cc/products/arduino-mkr-wan-1310
-  repositories: []
-name: Arduino MKR WAN 1310
-ref: arduino/arduino-mkr-wan-1310
-release_date: null
-sku: arduino-mkr-wan-1310
-spec: null
-status: ''
-vendor: arduino
+  images:
+  - https://www.arduino.cc/wiki/static/7cf34a4e100e00c007c57446ce4de1c7/5a190/mkr_wan_1310.png

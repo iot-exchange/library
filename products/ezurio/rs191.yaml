@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: rs191
+ref: ezurio/rs191
+vendor: ezurio
+sku: rs191
+name: RS191
 description: Laird RS191 is a LoRaWAN end device that can only send data through a
   LoRaWAN gateway to a LoRaWAN network server.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: RS191
-ref: ezurio/rs191
-release_date: null
-sku: rs191
-spec: null
-status: ''
-vendor: ezurio
+  images: []

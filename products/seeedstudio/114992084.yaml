@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '114992084'
+ref: seeedstudio/114992084
+vendor: seeedstudio
+sku: '114992084'
+name: '114992084'
 description: ABS Enclosure Black Case for Raspberry Pi 4 B ABS Enclosure Black Case
   can be perfectly compatible with Raspberry Pi 4B. A cooling fan and heatsink are
   added to help Pi to keep cooling.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/7/_/7_3_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/ABS-Enclosure-Black-Case-for-Raspberry-Pi-4-B-p-4317.html
-  repositories: []
-name: '114992084'
-ref: seeedstudio/114992084
-release_date: null
-sku: '114992084'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/7/_/7_3_1.jpg

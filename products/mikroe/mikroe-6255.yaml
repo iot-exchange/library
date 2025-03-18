@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-6255
+ref: mikroe/mikroe-6255
+vendor: mikroe
+sku: mikroe-6255
+name: MIKROE-6255
 description: Ambient 14 Click is a compact add-on board for ambient light and proximity
   detection applications. This board features the TMD2755, an advanced sensor from
   ams OSRAM, which combines ambient light sensing (ALS) and proximity detection in
   a single, compact module.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ambient-14-click/ambient-14-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ambient-14-click
-  repositories: []
-name: MIKROE-6255
-ref: mikroe/mikroe-6255
-release_date: null
-sku: mikroe-6255
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ambient-14-click/ambient-14-click-home_default-1.jpg?v=100

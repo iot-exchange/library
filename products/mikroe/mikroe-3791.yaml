@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-3791
+ref: mikroe/mikroe-3791
+vendor: mikroe
+sku: mikroe-3791
+name: MIKROE-3791
 description: 'TFT Board 4 Resistive is a 4.3" display board which features the standardized
   2x20-pin display connector. The display board also integrates a resistive touch
   panel. The TFT display module supports up to 24-bit pixel format (RGB: 888) and
   resolution of 480 x 272 pixels. It features an excellent contrast ratio and uniform
   brightness. TFT Board 4 Resistive,...'
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/tft-board-3-resistive/tft-board-3-resistive-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/tft-board-4-resistive/tft-board-4-resistive-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=2524
   - https://www.mikroe.com/tft-board-4-resistive
-  repositories: []
-name: MIKROE-3791
-ref: mikroe/mikroe-3791
-release_date: null
-sku: mikroe-3791
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/tft-board-3-resistive/tft-board-3-resistive-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/tft-board-4-resistive/tft-board-4-resistive-home_default-1.jpg?v=100

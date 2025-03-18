@@ -1,0 +1,13 @@
+id: em300-di
+ref: milesight/em300-di
+vendor: milesight
+sku: em300-di
+name: EM300-DI
+description: Pulse Counter
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/em300-di
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/environmental-monitoring-em300-series/pulse-counter-em300-di.png?t=1742198585390

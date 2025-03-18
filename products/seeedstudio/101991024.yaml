@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '101991024'
+ref: seeedstudio/101991024
+vendor: seeedstudio
+sku: '101991024'
+name: '101991024'
 description: SenseCAP S1000 V2 10-in-1 Compact Weather Sensor measures air temperature,
   relative humidity, barometric pressure, light intensity, rainfall (optical), wind
   speed, wind direction (ultrasonic), PM2.5, PM10 and CO2. It is ideal for application
   in a rough environment like the outdoors, agriculture, or smart cities. Use it with
   SenseCAP LoRaWAN Data Logger or SenseCAP 4G Data Logger.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101991024-sensecap-s1000-10-in-1-compact-weather-station-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/SenseCAP-S1000-10-in-1-Compact-Weather-Station-p-5654.html
-  repositories: []
-name: '101991024'
-ref: seeedstudio/101991024
-release_date: null
-sku: '101991024'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101991024-sensecap-s1000-10-in-1-compact-weather-station-45font.jpg

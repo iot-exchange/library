@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: '318020693'
+ref: seeedstudio/318020693
+vendor: seeedstudio
+sku: '318020693'
+name: '318020693'
 description: Fibreglass LoRa antenna with a gain of 8 dBi, frequency range 902-930MHz,
   and 1300mm length, comes with a CFD200 cable with 1m length and a mounting bracket,
   compatible with SenseCAP M1 Indoor Gateway.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.seeedstudio.com/RF-Explorer-LoRa-Fiberglass-Antenna-Kit-902-928MHz-8dBi-1300mm-p-5278.html
-  repositories: []
-name: '318020693'
-ref: seeedstudio/318020693
-release_date: null
-sku: '318020693'
-spec: null
-status: ''
-vendor: seeedstudio
+  images: []

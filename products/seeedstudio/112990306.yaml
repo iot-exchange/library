@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '112990306'
+ref: seeedstudio/112990306
+vendor: seeedstudio
+sku: '112990306'
+name: '112990306'
 description: The Raspberry Pi SSD unlocks outstanding performance for I/O intensive
   applications on Raspberry Pi 5 and other devices, including super-fast startup when
   booting from SSD. It is a reliable, responsive, and high-performance PCIe Gen 3-compliant
   SSD capable of fast data transfer.
+status: ''
 extra:
-  Capacity: 256GB
   capacity: 512GB
+  Capacity: 256GB
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/s/s/ssd_256gb.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-SSD-256GB-p-6241.html
-  repositories: []
-name: '112990306'
-ref: seeedstudio/112990306
-release_date: null
-sku: '112990306'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/s/s/ssd_256gb.jpg

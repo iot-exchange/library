@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: me910g1-mpcie
+ref: telit/me910g1-mpcie
+vendor: telit
+sku: me910g1-mpcie
+name: ME910G1 mPCIe
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2024/11/TC_ME910G1_mPCIe_dyn_230_200.png
-  models: []
   products:
   - https://www.telit.com/devices/me910g1-mini-pcie/
-  repositories: []
-name: ME910G1 mPCIe
-ref: telit/me910g1-mpcie
-release_date: null
-sku: me910g1-mpcie
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/11/TC_ME910G1_mPCIe_dyn_230_200.png

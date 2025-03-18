@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: qualcomm-based-modules
+ref: murata/qualcomm-based-modules
+vendor: murata
+sku: qualcomm-based-modules
+name: Qualcomm Based Modules
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth/overview/qualcomm-based-modules
-  repositories: []
-name: Qualcomm Based Modules
-ref: murata/qualcomm-based-modules
-release_date: null
-sku: qualcomm-based-modules
-spec: null
-status: ''
-vendor: murata
+  images: []

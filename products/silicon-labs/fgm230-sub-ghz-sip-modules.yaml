@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: fgm230-sub-ghz-sip-modules
+ref: silicon-labs/fgm230-sub-ghz-sip-modules
+vendor: silicon-labs
+sku: fgm230-sub-ghz-sip-modules
+name: FGM230 Sub-GHz SiP Modules
 description: ''
+status: ''
 extra:
   Flash (kB): '512'
   Frequency Range (MHz): 863 928
@@ -11,17 +15,6 @@ extra:
   RAM (kB): '64'
   Security: ''
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/wireless/proprietary/fgm230s-sub-ghz-sip-modules
-  repositories: []
-name: FGM230 Sub-GHz SiP Modules
-ref: silicon-labs/fgm230-sub-ghz-sip-modules
-release_date: null
-sku: fgm230-sub-ghz-sip-modules
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

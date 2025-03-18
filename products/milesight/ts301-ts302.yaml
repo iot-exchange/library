@@ -1,0 +1,13 @@
+id: ts301-ts302
+ref: milesight/ts301-ts302
+vendor: milesight
+sku: ts301-ts302
+name: TS301/TS302
+description: "LoRaWAN\xAE Temperature Sensor"
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/ts30x
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/insertion-temperature-sensor-ts-series/ts301-ts302.png?t=1742198585390

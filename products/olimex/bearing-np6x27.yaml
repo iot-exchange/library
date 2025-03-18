@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bearing-np6x27
+ref: olimex/bearing-np6x27
+vendor: olimex
+sku: bearing-np6x27
+name: BEARING-NP6X27
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/NP6X27/images/thumbs/200x150/NP5x21.5.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/BEARING-NP6X27/
-  repositories: []
-name: BEARING-NP6X27
-ref: olimex/bearing-np6x27
-release_date: null
-sku: bearing-np6x27
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Bearings/NP6X27/images/thumbs/200x150/NP5x21.5.jpg

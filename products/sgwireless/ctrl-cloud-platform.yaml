@@ -1,0 +1,12 @@
+id: ctrl-cloud-platform
+ref: sgwireless/ctrl-cloud-platform
+vendor: sgwireless
+sku: ctrl-cloud-platform
+name: Ctrl. Cloud Platform
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://docs.sgwireless.com/ctrl/
+  images: []

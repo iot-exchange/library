@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: arduino-nano-rp2040-connect
+ref: arduino/arduino-nano-rp2040-connect
+vendor: arduino
+sku: arduino-nano-rp2040-connect
+name: Arduino Nano RP2040 Connect
 description: "A feature-packed board with Bluetooth\xAE and Wi-Fi\xAE radio modules."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.arduino.cc/wiki/static/8d18080bb42f8aa021e083e9a89ce55e/4b190/nano-rp2040-connect.jpg
-  models: []
   products:
   - https://store.arduino.cc/products/arduino-nano-rp2040-connect-with-headers
-  repositories: []
-name: Arduino Nano RP2040 Connect
-ref: arduino/arduino-nano-rp2040-connect
-release_date: null
-sku: arduino-nano-rp2040-connect
-spec: null
-status: ''
-vendor: arduino
+  images:
+  - https://www.arduino.cc/wiki/static/8d18080bb42f8aa021e083e9a89ce55e/4b190/nano-rp2040-connect.jpg

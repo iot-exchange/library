@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-5508
+ref: mikroe/mikroe-5508
+vendor: mikroe
+sku: mikroe-5508
+name: MIKROE-5508
 description: UART to I2C Click is a compact add-on board allowing connections to UART
   controllers and I2C targets for protocol conversion. This board features the SC18IM704,
   a bridge between the standard UART host interface and a serial I2C bus from NXP
   Semiconductors. The SC18IM704 provides a high-speed UART interface with a baud rate
   of up to 460.8 kbit/s and...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/adc-20-click/adc-20-click-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/uart-to-i2c-click/uart-to-i2c-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/adc-20-click
   - https://www.mikroe.com/uart-to-i2c-click
-  repositories: []
-name: MIKROE-5508
-ref: mikroe/mikroe-5508
-release_date: null
-sku: mikroe-5508
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/adc-20-click/adc-20-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/uart-to-i2c-click/uart-to-i2c-click-home_default-1.jpg?v=100

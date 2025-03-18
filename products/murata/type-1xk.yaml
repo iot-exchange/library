@@ -1,33 +1,30 @@
-alternatives: []
-certifications: []
+id: type-1xk
+ref: murata/type-1xk
+vendor: murata
+sku: type-1xk
+name: Type 1XK
 description: Wi-Fi and Bluetooth module for consumer and industrial equipment.
+status: ''
 extra:
-  Additional Info: ''
+  dimensions: 9.1 x 8.3 x 1.3 mm
+  interface: SDIO, UART, PCM
+  processor: Linux,MCUXpresso,i.MX Yocto
+  temperatureRange: "-40\u2103 to 85\u2103"
+  voltage: 1.8V,3.3V
   Bluetooth: 5.2 BR/EDR/LE
-  Certification: 'Yes'
-  Chip: IW416
   Chipset: IW416
-  Current Consumption: ''
   Dimension: 9.1 x 8.3 x 1.3 mm
-  Dimensions: 9.1 x 8.3 x 1.3 mm
   ETSI Report: 'Yes'
-  Enclosure: Shielded Resin
   FCC/ISED Certified: 'Yes'
   Frequency: 2.4GHz, 5GHz
   Grade: Consumer
   Host Interface (Bluetooth): UART
   Host Interface (Wi-Fi): SDIO
-  I/O Voltage: 'Yes'
   IC Manufacturer: NXP
   Integrated Antenna: 'No'
   Interface Voltage: 'Yes'
-  Interfaces: SDIO, UART, PCM
   MIC (Japan) Certified: 'Yes'
-  Manufacturer: NXP
-  Market: Consumer
-  Material: Shielded Resin
   Mounting Type: SMT
-  Operating Temperature: "-40\u2103 to 85\u2103"
   Operating Temperature (degC): "-40\u2103 to 85\u2103"
   Package: Shielded Resin
   Packaging: Tape and Reel
@@ -37,37 +34,33 @@ extra:
   Receive Mode Current: 110 mA @ 11b (2.4GHz)110 mA @ 11g (2.4GHz)110 mA @ 11n (2.4GHz)125
     mA @ 11a (5GHz)140 mA @ 11n (5GHz)160 mA @ 11ac (5GHz)
   RoHS Support: 'Yes'
-  SDK: Linux,MCUXpresso,i.MX Yocto
-  Sleep Current: ''
-  Sleep Mode Current (Bluetooth): ''
   Sleep Mode Current (Wi-Fi): ''
-  Status: 'Yes'
   Supply Voltage: 1.8V,3.3V
-  Target Market: Consumer
   Technology: Wi-Fi,Bluetooth
-  Temperature Range: "-40\u2103 to 85\u2103"
-  Transmit Mode Current (Bluetooth): ''
   Transmit Mode Current (Wi-Fi): 420 mA @ 11b (2.4GHz)310 mA @ 11g (2.4GHz)300 mA
     @ 11n (2.4GHz)330 mA @ 11a (5GHz)310 mA @ 11n (5GHz)310 mA @ 11ac (5GHz)
+  Chip: IW416
+  Dimensions: 9.1 x 8.3 x 1.3 mm
+  Enclosure: Shielded Resin
+  Interfaces: SDIO, UART, PCM
+  Manufacturer: NXP
+  Market: Consumer
+  SDK: Linux,MCUXpresso,i.MX Yocto
+  Temperature Range: "-40\u2103 to 85\u2103"
   Voltage: 1.8V,3.3V
-  Voltage Range: 1.8V,3.3V
   Wi-Fi: 'Yes'
-  dimensions: 9.1 x 8.3 x 1.3 mm
-  interface: SDIO, UART, PCM
-  processor: Linux,MCUXpresso,i.MX Yocto
-  temperatureRange: "-40\u2103 to 85\u2103"
-  voltage: 1.8V,3.3V
+  Sleep Mode Current (Bluetooth): ''
+  Transmit Mode Current (Bluetooth): ''
+  Additional Info: ''
+  Certification: 'Yes'
+  Current Consumption: ''
+  I/O Voltage: 'Yes'
+  Material: Shielded Resin
+  Operating Temperature: "-40\u2103 to 85\u2103"
+  Sleep Current: ''
+  Status: 'Yes'
+  Target Market: Consumer
+  Voltage Range: 1.8V,3.3V
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Type 1XK
-ref: murata/type-1xk
-release_date: null
-sku: type-1xk
-spec: null
-status: ''
-vendor: murata
+  images: []

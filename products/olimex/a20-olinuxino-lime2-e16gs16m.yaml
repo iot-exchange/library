@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: a20-olinuxino-lime2-e16gs16m
+ref: olimex/a20-olinuxino-lime2-e16gs16m
+vendor: olimex
+sku: a20-olinuxino-lime2-e16gs16m
+name: A20-OLinuXino-LIME2-e16Gs16M
 description: ''
+status: ''
 extra:
   10+ pcs: 50.35 EUR
   50+ pcs: 47.70 EUR
   Price: 53.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-LIME2/images/thumbs/200x150/A20-OLinuXino-LIME2.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-LIME2-e16Gs16M/open-source-hardware
-  repositories: []
-name: A20-OLinuXino-LIME2-e16Gs16M
-ref: olimex/a20-olinuxino-lime2-e16gs16m
-release_date: null
-sku: a20-olinuxino-lime2-e16gs16m
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-LIME2/images/thumbs/200x150/A20-OLinuXino-LIME2.jpg

@@ -1,0 +1,30 @@
+name: EMBIT S.R.L.
+description: |
+  Being born as an academic spin-off of the University of Modena and Reggio Emilia, Embit became a company in 2004, 
+  with an aim to act as a bridge between university research and local industries.
+
+  This academic footprint has always allowed us to invest in research and innovation since the dawn of the IoT, in order 
+  to bring these ideas into reality. Over time, the ideas turned into practical solutions that bring about a remarkable 
+  contribution into industrial market.
+
+  RF embedded micro systems has been the backbone of our entire research and design activities. If in academic studies, 
+  they were described as a technology of the future, with us, they not only have become a reality but also the core 
+  business of our company.
+
+  Besides, Embit is one of the few Italian companies who offer tailor-made RF design services, support customers through 
+  the implementation and production of custom solutions with high technological content.
+
+  Having a solid foundation of RF experience, we offer the best solutions to turn customers’ ideas into products that 
+  make your projects successful and secure, shortening time to market.
+links:
+  website: https://www.embit.eu/
+  logo: https://www.embit.eu/wp-content/uploads/2020/06/logoslide.png
+  github:
+  products:
+    - https://www.embit.eu/cat/wireless-modules/
+    - https://www.embit.eu/cat/gateways-solutions/
+    - https://www.embit.eu/cat/minipciecard/
+    - https://www.embit.eu/cat/antennas/
+    - https://www.embit.eu/cat/evaluation-kit-en/
+    - https://www.embit.eu/cat/accessories/
+    - https://www.embit.eu/cat/usb-dongles2-2/

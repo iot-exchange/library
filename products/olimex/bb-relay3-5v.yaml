@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bb-relay3-5v
+ref: olimex/bb-relay3-5v
+vendor: olimex
+sku: bb-relay3-5v
+name: BB-RELAY3-5V
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Breadboarding/Relays/BB-RELAY3-5V/images/thumbs/200x150/BB-RELAY3-5V-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Breadboarding/Relays/BB-RELAY3-5V/
-  repositories: []
-name: BB-RELAY3-5V
-ref: olimex/bb-relay3-5v
-release_date: null
-sku: bb-relay3-5v
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Breadboarding/Relays/BB-RELAY3-5V/images/thumbs/200x150/BB-RELAY3-5V-1.jpg

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-4474
+ref: mikroe/mikroe-4474
+vendor: mikroe
+sku: mikroe-4474
+name: MIKROE-4474
 description: If you need a battery power supply, we have a great and compact solution.
   This rechargeable 3000mAh 3.7V battery can deliver even more.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/li-polymer-battery-37v-3000mah/li-polymer-battery-37v-3000mah-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/li-polymer-battery-37v-3000mah
-  repositories: []
-name: MIKROE-4474
-ref: mikroe/mikroe-4474
-release_date: null
-sku: mikroe-4474
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/li-polymer-battery-37v-3000mah/li-polymer-battery-37v-3000mah-home_default-1.jpg?v=100

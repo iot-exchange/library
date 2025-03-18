@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: ss808-jp
+ref: fibocom/ss808-jp
+vendor: fibocom
+sku: ss808-jp
+name: SS808-JP
 description: 4G medium module designed for the Japan market.
+status: ''
 extra:
   Bands: 'LTE: B1/3/6/8/9/18/19/21/26/28/41'
   Form Factor: LGA / LCC
   Region: Japan
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTE-SS808-JP.html
-  repositories: []
-name: SS808-JP
-ref: fibocom/ss808-jp
-release_date: null
-sku: ss808-jp
-spec: null
-status: ''
-vendor: fibocom
+  images: []

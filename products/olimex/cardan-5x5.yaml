@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: cardan-5x5
+ref: olimex/cardan-5x5
+vendor: olimex
+sku: cardan-5x5
+name: CARDAN-5X5
 description: ''
+status: ''
 extra:
   discountedPrice1: 2.25 EUR
   discountedPrice2: 2.00 EUR
   price: 2.50 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Couplers/CARDAN-5X5/images/thumbs/200x150/CARDAN.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Couplers/CARDAN-5X5/
-  repositories: []
-name: CARDAN-5X5
-ref: olimex/cardan-5x5
-release_date: null
-sku: cardan-5x5
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Couplers/CARDAN-5X5/images/thumbs/200x150/CARDAN.jpg

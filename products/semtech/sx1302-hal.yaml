@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: sx1302-hal
+ref: semtech/sx1302-hal
+vendor: semtech
+sku: sx1302-hal
+name: Sx1302_hal
 description: Corecell UDP packet forwarder and hardware abstraction layer
+status: New
 extra:
   Product Applicability: SX1302, SX1303, SX1250
   Type: Packet Forwarder
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://github.com/Lora-net/sx1302_hal
-  repositories: []
-name: Sx1302_hal
-ref: semtech/sx1302-hal
-release_date: null
-sku: sx1302-hal
-spec: null
-status: New
-vendor: semtech
+  images: []

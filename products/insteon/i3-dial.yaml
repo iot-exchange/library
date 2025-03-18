@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: i3-dial
+ref: insteon/i3-dial
+vendor: insteon
+sku: i3-dial
+name: i3 Dial
 description: ''
+status: ''
 extra:
   reviews: '16'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/products/dial-product-render-hero-drop-shadow.jpg?v=1672848538&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/i3-dial
-  repositories: []
-name: i3 Dial
-ref: insteon/i3-dial
-release_date: null
-sku: i3-dial
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/products/dial-product-render-hero-drop-shadow.jpg?v=1672848538&width=533

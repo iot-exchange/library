@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: usb-rs232-rs485-ttl-converter
+ref: waveshare/usb-rs232-rs485-ttl-converter
+vendor: waveshare
+sku: usb-rs232-rs485-ttl-converter
+name: USB/RS232/RS485/TTL Converter
 description: Industrial Isolated Multi-Bus Converter, USB / RS232 / RS485 / TTL Communication
+status: ''
 extra:
   Price: $23.63 - $24.99
   SKU: '21411'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/u/multibus-converter-1_1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/multibus-converter.htm
-  repositories: []
-name: USB/RS232/RS485/TTL Converter
-ref: waveshare/usb-rs232-rs485-ttl-converter
-release_date: null
-sku: usb-rs232-rs485-ttl-converter
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/m/u/multibus-converter-1_1.jpg

@@ -1,50 +1,43 @@
-alternatives: []
-certifications: []
+id: 5-01
+ref: microchip/5-01
+vendor: microchip
+sku: 5-01
+name: '5.01'
 description: Bluetooth LE, Zigbee | Module | 64 MHz, ARM Cortex M4F
+status: ''
 extra:
-  ADC: '12'
   Bluetooth: '5.2'
-  Bluetooth Version: '5.2'
   Certifications: FCC, CE, UKCA, ISED, SRRC, MIC, NC, KC
-  Current Consumption: '0.11'
-  DAC: '1'
   Flash: '96'
-  GPIO: '8'
-  I2C: '2'
   Max Range (dBm): '-108'
   Max Supply Voltage (V): '3.6'
   Microcontroller: 64 MHz, ARM Cortex M4F
+  Package: '39'
+  RAM: '512'
+  Security Features: Secure Boot, AES-256, SHA-384, PKA, TRNG
+  Supply Voltage (V): '1.9'
+  Tx Power (dBm): '11'
+  Type: Module
+  Version: '3.0'
+  ADC: '12'
+  Bluetooth Version: '5.2'
+  Current Consumption: '0.11'
+  DAC: '1'
+  GPIO: '8'
+  I2C: '2'
   Operating Temperature Max: '85'
   Operating Temperature Min: '-40'
   PCB: U.FL
-  Package: '39'
   Package Type: 39/MODULE
-  RAM: '512'
   SPI: '2'
   Secure Boot: 'Yes'
-  Security Features: Secure Boot, AES-256, SHA-384, PKA, TRNG
   Sensitivity: '-108'
-  Supply Voltage (V): '1.9'
   Supply Voltage Max: '3.6'
   Supply Voltage Min: '1.9'
   TX Power: '11'
   Timers: '7'
-  Tx Power (dBm): '11'
-  Type: Module
   UART: '0'
-  Version: '3.0'
   Zigbee Version: 1.3.0
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: '5.01'
-ref: microchip/5-01
-release_date: null
-sku: 5-01
-spec: null
-status: ''
-vendor: microchip
+  images: []

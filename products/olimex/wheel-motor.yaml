@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: wheel-motor
+ref: olimex/wheel-motor
+vendor: olimex
+sku: wheel-motor
+name: WHEEL-MOTOR
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Wheels/WHEEL-MOTOR/images/thumbs/200x150/WHEEL-MOTOR.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Wheels/WHEEL-MOTOR/
-  repositories: []
-name: WHEEL-MOTOR
-ref: olimex/wheel-motor
-release_date: null
-sku: wheel-motor
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Wheels/WHEEL-MOTOR/images/thumbs/200x150/WHEEL-MOTOR.jpg

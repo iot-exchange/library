@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: rm1261
+ref: ezurio/rm1261
+vendor: ezurio
+sku: rm1261
+name: RM1261
 description: The RM1261 module is based on Silicon Labs EFR32 MCU and the Semtech
   SX126x radio, providing a low power, long range solution for LoRaWAN implementation.
+status: ''
 extra:
   Additional Features: Includes TCXO and DC-DC converter, supports LoRa P2P capability
   Features: Secure, scalable, bi-directional communication
   LoRaWAN Classes: A, B, C
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-03/453-00140-K1-RM1261.105.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/lorawan-modules-solutions/rm126x-ultra-low-power-lorawan-a-b-c-module
-  repositories: []
-name: RM1261
-ref: ezurio/rm1261
-release_date: null
-sku: rm1261
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-03/453-00140-K1-RM1261.105.png

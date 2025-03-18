@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: sc151
+ref: fibocom/sc151
+vendor: fibocom
+sku: sc151
+name: SC151
 description: The Fibocom SC151 is a powerful 5G wireless module powered by the Qualcomm
   QCM4490 chipset. It offers an octa-core processor, a visual Digital Signal Processor
   (vDSP), and a high-performance graphics engine for smooth video playback and multi-channel
@@ -9,6 +12,7 @@ description: The Fibocom SC151 is a powerful 5G wireless module powered by the Q
   for accurate positioning and navigation. With an Android 13 operating system and
   various interfaces like MIPI, USB, UART, SPI, and I2C, the SC151 offers flexibility
   and easy integration for IoT applications.
+status: ''
 extra:
   Chipset: Qualcomm QCM4490
   GNSS: Multi-constellation
@@ -17,18 +21,7 @@ extra:
   Processor: Octa-core
   Wi-Fi: Wi-Fi 6E
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.fibocom.com/uploadfiles/2023/07/20230719143450948.png?5Li75o6o5Zu+U0MxNTEucG5n
-  models: []
   products:
   - https://www.fibocom.com/en/products/5G%20Smart%20Module-SC151-GL.html
-  repositories: []
-name: SC151
-ref: fibocom/sc151
-release_date: null
-sku: sc151
-spec: null
-status: ''
-vendor: fibocom
+  images:
+  - https://www.fibocom.com/uploadfiles/2023/07/20230719143450948.png?5Li75o6o5Zu+U0MxNTEucG5n

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '114993413'
+ref: seeedstudio/114993413
+vendor: seeedstudio
+sku: '114993413'
+name: '114993413'
 description: The Raspberry Pi 5 Starter Kit is an all-in-one solution for you to dive
   into the world of computing and electronics. It includes a Raspberry Pi 5 (available
   in 4GB/8GB RAM) along with all essential accessories to jumpstart Raspberry Pi projects.
+status: ''
 extra:
   RAM: 4GB
   Storage: 128GB Micro SD Card pre-loaded with 64-bit Raspberry Pi OS
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114993413-raspberry-pi5-4gb-kit.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi5-4GB-Kit-p-6253.html
-  repositories: []
-name: '114993413'
-ref: seeedstudio/114993413
-release_date: null
-sku: '114993413'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/114993413-raspberry-pi5-4gb-kit.jpg

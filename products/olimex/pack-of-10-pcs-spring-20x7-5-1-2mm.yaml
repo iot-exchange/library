@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pack-of-10-pcs-spring-20x7-5-1-2mm
+ref: olimex/pack-of-10-pcs-spring-20x7-5-1-2mm
+vendor: olimex
+sku: pack-of-10-pcs-spring-20x7-5-1-2mm
+name: Pack of 10 pcs SPRING-20x7-5-1-2MM
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Robot-CNC-Parts/Springs/SPRING-20x7.5-1.2MM/images/thumbs/200x150/SPRING-20x7.5-1.2MM.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Robot-CNC-Parts/Springs/SPRING-20x7-5-1-2MM/
-  repositories: []
-name: Pack of 10 pcs SPRING-20x7-5-1-2MM
-ref: olimex/pack-of-10-pcs-spring-20x7-5-1-2mm
-release_date: null
-sku: pack-of-10-pcs-spring-20x7-5-1-2mm
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Robot-CNC-Parts/Springs/SPRING-20x7.5-1.2MM/images/thumbs/200x150/SPRING-20x7.5-1.2MM.jpg

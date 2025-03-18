@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 156hp-capqled
+ref: waveshare/156hp-capqled
+vendor: waveshare
+sku: 156hp-capqled
+name: 156hp_capqled
 description: "15.6inch QLED Display, 1920 \xD7 1080, Optical Bonding IPS Toughened\
   \ Glass panel, 100% sRGB Touch Screen"
+status: ''
 extra:
-  Multi Options: ''
   Price: $169.99
+  Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/5/15.6hp-capqled-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/15.6hp-capqled.htm
-  repositories: []
-name: 156hp_capqled
-ref: waveshare/156hp-capqled
-release_date: null
-sku: 156hp-capqled
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/1/5/15.6hp-capqled-1.jpg

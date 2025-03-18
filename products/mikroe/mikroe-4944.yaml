@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-4944
+ref: mikroe/mikroe-4944
+vendor: mikroe
+sku: mikroe-4944
+name: MIKROE-4944
 description: Pressure 17 Click is a compact add-on board that contains a board-mount
   pressure sensor. This board features the BM1390GLV-Z, a high-precision piezoresistive
   pressure sensor from Rohm Semiconductor.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/pressure-17-click/pressure-17-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/pressure-17-click
-  repositories: []
-name: MIKROE-4944
-ref: mikroe/mikroe-4944
-release_date: null
-sku: mikroe-4944
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/pressure-17-click/pressure-17-click-home_default-1.jpg?v=100

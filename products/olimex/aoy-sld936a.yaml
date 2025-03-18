@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: aoy-sld936a
+ref: olimex/aoy-sld936a
+vendor: olimex
+sku: aoy-sld936a
+name: AOY-SLD936A
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Tools/Soldering/AOY-SLD936A/images/thumbs/200x150/AOY-SLD936-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Tools/Soldering/AOY-SLD936A/
-  repositories: []
-name: AOY-SLD936A
-ref: olimex/aoy-sld936a
-release_date: null
-sku: aoy-sld936a
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Tools/Soldering/AOY-SLD936A/images/thumbs/200x150/AOY-SLD936-1.jpg

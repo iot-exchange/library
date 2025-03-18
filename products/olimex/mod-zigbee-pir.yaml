@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mod-zigbee-pir
+ref: olimex/mod-zigbee-pir
+vendor: olimex
+sku: mod-zigbee-pir
+name: MOD-ZIGBEE-PIR
 description: ''
+status: ''
 extra:
   price1: 18.95 EUR
   price2: 17.06 EUR
   price3: 15.16 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Modules/RF/MOD-ZIGBEE-PIR/images/thumbs/200x150/MOD-ZIGBEE-PIR-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Modules/RF/MOD-ZIGBEE-PIR/
-  repositories: []
-name: MOD-ZIGBEE-PIR
-ref: olimex/mod-zigbee-pir
-release_date: null
-sku: mod-zigbee-pir
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Modules/RF/MOD-ZIGBEE-PIR/images/thumbs/200x150/MOD-ZIGBEE-PIR-1.jpg

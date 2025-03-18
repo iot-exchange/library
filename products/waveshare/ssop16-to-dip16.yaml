@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: ssop16-to-dip16
+ref: waveshare/ssop16-to-dip16
+vendor: waveshare
+sku: ssop16-to-dip16
+name: SSOP16 TO DIP16
 description: SSOP16 TO DIP16, Programmer Adapter
+status: ''
 extra:
   Price: $42.59 - $45.99
   SKU: '3238'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/s/ssop16-to-dip16_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ssop16-to-dip16.htm
-  repositories: []
-name: SSOP16 TO DIP16
-ref: waveshare/ssop16-to-dip16
-release_date: null
-sku: ssop16-to-dip16
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/s/ssop16-to-dip16_l_1_5.jpg

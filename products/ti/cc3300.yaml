@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: cc3300
+ref: ti/cc3300
+vendor: ti
+sku: cc3300
+name: CC3300
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ti.com/product/CC3300
-  repositories: []
-name: CC3300
-ref: ti/cc3300
-release_date: null
-sku: cc3300
-spec: null
-status: ''
-vendor: ti
+  images: []

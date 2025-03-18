@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-6274
+ref: mikroe/mikroe-6274
+vendor: mikroe
+sku: mikroe-6274
+name: MIKROE-6274
 description: "Calypso Click is a compact add-on board for wireless connectivity in\
   \ embedded applications. This board features the WIRL-WIFS Calypso WLAN module from\
   \ W\xFCrth Elektronik."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/calypso-click/calypso-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/calypso-click
-  repositories: []
-name: MIKROE-6274
-ref: mikroe/mikroe-6274
-release_date: null
-sku: mikroe-6274
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/calypso-click/calypso-click-home_default-1.jpg?v=100

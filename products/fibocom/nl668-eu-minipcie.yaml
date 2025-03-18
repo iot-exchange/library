@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: nl668-eu-minipcie
+ref: fibocom/nl668-eu-minipcie
+vendor: fibocom
+sku: nl668-eu-minipcie
+name: NL668-EU-MiniPCIe
 description: ''
+status: ''
 extra:
   Bands: 'LTE: B1/3/5/7/8/20'
   Form Factor: MiniPCIe
   Region: Europe
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTECat-NL668-EU-MiniPCIe.html
-  repositories: []
-name: NL668-EU-MiniPCIe
-ref: fibocom/nl668-eu-minipcie
-release_date: null
-sku: nl668-eu-minipcie
-spec: null
-status: ''
-vendor: fibocom
+  images: []

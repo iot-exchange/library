@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: usb-neohub-boxed
+ref: olimex/usb-neohub-boxed
+vendor: olimex
+sku: usb-neohub-boxed
+name: USB-NeoHub-BOXED
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/RaspberryPi/PICO/USB-NeoHub/images/thumbs/200x150/USB-NeoHUBa-w.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/RaspberryPi/PICO/USB-NeoHub-BOXED/open-source-hardware
-  repositories: []
-name: USB-NeoHub-BOXED
-ref: olimex/usb-neohub-boxed
-release_date: null
-sku: usb-neohub-boxed
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/RaspberryPi/PICO/USB-NeoHub/images/thumbs/200x150/USB-NeoHUBa-w.jpg

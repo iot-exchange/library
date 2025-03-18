@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: '2603011021000'
+ref: we/2603011021000
+vendor: we
+sku: '2603011021000'
+name: '2603011021000'
 description: ''
+status: Active
 extra:
   Antenna type: integrated antenna
   Current consumption: '-105'
@@ -12,18 +16,7 @@ extra:
   Sensitivity: '0.2'
   Voltage: ''
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/TITANIA#2607046211001
   - https://www.we-online.com/en/components/products/TRITON#2603011021000
-  repositories: []
-name: '2603011021000'
-ref: we/2603011021000
-release_date: null
-sku: '2603011021000'
-spec: null
-status: Active
-vendor: we
+  images: []

@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: miro-click
+ref: miromico/miro-click
+vendor: miromico
+sku: miro-click
+name: miro Click
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://miromico.ch/en/products/details/miro-Click
-  repositories: []
-name: miro Click
-ref: miromico/miro-click
-release_date: null
-sku: miro-click
-spec: null
-status: ''
-vendor: miromico
+  images: []

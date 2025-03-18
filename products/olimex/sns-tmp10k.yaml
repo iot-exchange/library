@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sns-tmp10k
+ref: olimex/sns-tmp10k
+vendor: olimex
+sku: sns-tmp10k
+name: SNS-TMP10K
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Sensors/Temperature/SNS-TMP10K/images/thumbs/200x150/SNS-TMP10K.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Sensors/Temperature/SNS-TMP10K/
-  repositories: []
-name: SNS-TMP10K
-ref: olimex/sns-tmp10k
-release_date: null
-sku: sns-tmp10k
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Sensors/Temperature/SNS-TMP10K/images/thumbs/200x150/SNS-TMP10K.jpg

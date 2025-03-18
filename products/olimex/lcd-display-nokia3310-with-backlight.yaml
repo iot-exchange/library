@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: lcd-display-nokia3310-with-backlight
+ref: olimex/lcd-display-nokia3310-with-backlight
+vendor: olimex
+sku: lcd-display-nokia3310-with-backlight
+name: LCD-DISPLAY-NOKIA3310-WITH-BACKLIGHT
 description: ''
+status: ''
 extra:
-  discountedPrice1: 6.30 EUR
-  discountedPrice2: 5.60 EUR
-  price: 7.00 EUR
   price1: 7.00 EUR
   price2: 6.30 EUR
   price3: 5.60 EUR
+  discountedPrice1: 6.30 EUR
+  discountedPrice2: 5.60 EUR
+  price: 7.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/LCD/LCD-DISPLAY-NOKIA3310/images/thumbs/200x150/LCD3310-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/LCD/LCD-DISPLAY-NOKIA3310-WITH-BACKLIGHT/
-  repositories: []
-name: LCD-DISPLAY-NOKIA3310-WITH-BACKLIGHT
-ref: olimex/lcd-display-nokia3310-with-backlight
-release_date: null
-sku: lcd-display-nokia3310-with-backlight
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/LCD/LCD-DISPLAY-NOKIA3310/images/thumbs/200x150/LCD3310-1.jpg

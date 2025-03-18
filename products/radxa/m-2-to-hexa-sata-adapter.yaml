@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: m-2-to-hexa-sata-adapter
+ref: radxa/m-2-to-hexa-sata-adapter
+vendor: radxa
+sku: m-2-to-hexa-sata-adapter
+name: M.2 to Hexa SATA Adapter
 description: 6x SATA Expansion Board
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/accessories/ra029/thumb_m2_to_hexa_sata.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/m2-to-hexa-sata-adapter
-  repositories: []
-name: M.2 to Hexa SATA Adapter
-ref: radxa/m-2-to-hexa-sata-adapter
-release_date: null
-sku: m-2-to-hexa-sata-adapter
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/accessories/ra029/thumb_m2_to_hexa_sata.webp

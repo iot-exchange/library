@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: cc1352p
+ref: ti/cc1352p
+vendor: ti
+sku: cc1352p
+name: CC1352P
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ti.com/product/CC1352P
-  repositories: []
-name: CC1352P
-ref: ti/cc1352p
-release_date: null
-sku: cc1352p
-spec: null
-status: ''
-vendor: ti
+  images: []

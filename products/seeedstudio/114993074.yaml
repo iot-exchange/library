@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: '114993074'
+ref: seeedstudio/114993074
+vendor: seeedstudio
+sku: '114993074'
+name: '114993074'
 description: Raspberry Pi Debug Probe is a complete plug-and-play interface debug
   solution perfect for Raspberry Pi Pico, XIAO RP2040, other RP2040-based microcontrollers,
   and microprocessor-based platforms. It bridges the USB interface to a dedicated
   serial debug interface and industry-standard UART interface, both of which use a
   small, keyed, 3-pin debug connector, published for the next standard.
+status: ''
 extra:
   Price: $12.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993074-raspberry-pi-debug-probe-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-Debug-Probe-p-5592.html
-  repositories: []
-name: '114993074'
-ref: seeedstudio/114993074
-release_date: null
-sku: '114993074'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-114993074-raspberry-pi-debug-probe-45font.jpg

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-6172
+ref: mikroe/mikroe-6172
+vendor: mikroe
+sku: mikroe-6172
+name: MIKROE-6172
 description: Mikromedia 4 for STM32F7 Resistive Rapid development of multimedia and
   gui-centric applications BUILD GREAT GUI IN NO TIME Rich with peripherals Mikromedia
   4 for STM32F7 Resistive is not limited to multimedia-based applications only.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mikromedia-4-for-stm32f7-resistive/mikromedia-4-for-stm32f7-resistive-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/mikromedia-4-for-stm32f7-resistive
-  repositories: []
-name: MIKROE-6172
-ref: mikroe/mikroe-6172
-release_date: null
-sku: mikroe-6172
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mikromedia-4-for-stm32f7-resistive/mikromedia-4-for-stm32f7-resistive-home_default-1.jpg?v=100

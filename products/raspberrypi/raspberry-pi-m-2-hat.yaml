@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-m-2-hat
+ref: raspberrypi/raspberry-pi-m-2-hat
+vendor: raspberrypi
+sku: raspberry-pi-m-2-hat
+name: Raspberry Pi M.2 HAT+
 description: Connect M.2 peripherals such as NVMe drives and AI accelerators to Raspberry
   Pi 5
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/70f5e0e81e41353e60554377f15823ef/3f4ea/ZjT1rkMTzAJOChYu_M.2HATASSEMBLED.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/m2-hat-plus/
-  repositories: []
-name: Raspberry Pi M.2 HAT+
-ref: raspberrypi/raspberry-pi-m-2-hat
-release_date: null
-sku: raspberry-pi-m-2-hat
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/70f5e0e81e41353e60554377f15823ef/3f4ea/ZjT1rkMTzAJOChYu_M.2HATASSEMBLED.jpg

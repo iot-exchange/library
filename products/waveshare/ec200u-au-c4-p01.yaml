@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: ec200u-au-c4-p01
+ref: waveshare/ec200u-au-c4-p01
+vendor: waveshare
+sku: ec200u-au-c4-p01
+name: EC200U-AU C4-P01
 description: EC200U-AU C4-P01 development board Designed for QuecPython, Multi-Mode
   & Multi-Band support, LTE Cat-1 / Bluetooth Communication, GNSS Positioning
+status: ''
 extra:
   Price: $56.95 - $58.99
   SKU: '27096'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/c/ec200u-au-c4-p01-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ec200u-au-c4-p01.htm
-  repositories: []
-name: EC200U-AU C4-P01
-ref: waveshare/ec200u-au-c4-p01
-release_date: null
-sku: ec200u-au-c4-p01
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/e/c/ec200u-au-c4-p01-1.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: ord-psu-5v3a-usb-c
+ref: waveshare/ord-psu-5v3a-usb-c
+vendor: waveshare
+sku: ord-psu-5v3a-usb-c
+name: ord_psu_5v3a_usb_c
 description: Raspberry Pi 4 USB-C Power Supply, 5V / 3A
+status: Multi Options
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/r/ord-psu-5v3a-usb-c-us-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ord-psu-5v3a-usb-c.htm
-  repositories: []
-name: ord_psu_5v3a_usb_c
-ref: waveshare/ord-psu-5v3a-usb-c
-release_date: null
-sku: ord-psu-5v3a-usb-c
-spec: null
-status: Multi Options
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/r/ord-psu-5v3a-usb-c-us-2.jpg

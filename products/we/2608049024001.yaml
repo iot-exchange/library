@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '2608049024001'
+ref: we/2608049024001
+vendor: we
+sku: '2608049024001'
+name: '2608049024001'
 description: "Family EV-Board Proteus-I Bluetooth\xAE 4.2"
+status: Active
 extra:
   Expected lifetime: '>10 years'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/components/products/manual/2608049024001_Manual Family
     Boards_rev1.5.pdf
   - https://www.we-online.com/en/components/products/PROTEUS-I#2608049024001
-  repositories: []
-name: '2608049024001'
-ref: we/2608049024001
-release_date: null
-sku: '2608049024001'
-spec: null
-status: Active
-vendor: we
+  images: []

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: pico-lcd-1-44
+ref: waveshare/pico-lcd-1-44
+vendor: waveshare
+sku: pico-lcd-1-44
+name: Pico-LCD-1.44
 description: "1.44inch LCD Display Module for Raspberry Pi Pico, 65K Colors, 128\xD7\
   128, SPI"
+status: ''
 extra:
   Price: $8.81 - $9.49
   SKU: '19576'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-lcd-1.44-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pico-lcd-1.44.htm
-  repositories: []
-name: Pico-LCD-1.44
-ref: waveshare/pico-lcd-1-44
-release_date: null
-sku: pico-lcd-1-44
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pico-lcd-1.44-1.jpg

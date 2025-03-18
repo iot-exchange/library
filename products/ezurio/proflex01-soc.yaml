@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: proflex01-soc
+ref: ezurio/proflex01-soc
+vendor: ezurio
+sku: proflex01-soc
+name: ProFLEX01-SOC
 description: EOL
+status: End Of Life
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/proflex01-soc-zigbee-module-front.png
-  models: []
   products:
   - https://www.ezurio.com/wireless-modules/ramp-ism-modules/proprietary-24-ghz-zigbee-802154-modules/proflex01-soc
-  repositories: []
-name: ProFLEX01-SOC
-ref: ezurio/proflex01-soc
-release_date: null
-sku: proflex01-soc
-spec: null
-status: End Of Life
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-12/proflex01-soc-zigbee-module-front.png

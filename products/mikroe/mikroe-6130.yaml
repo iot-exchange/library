@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6130
+ref: mikroe/mikroe-6130
+vendor: mikroe
+sku: mikroe-6130
+name: MIKROE-6130
 description: Barcode 3 Click is a compact add-on board for efficient barcode scanning
   applications. This board features the LV30, an advanced area image engine from Rakinda.
   The LV30 features a laser aiming system and LED illumination, ensuring quick and
   accurate barcode decoding on various media, including paper and magnetic cards.
   This module also includes a red LED...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/barcode-3-click/barcode-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/barcode-3-click
-  repositories: []
-name: MIKROE-6130
-ref: mikroe/mikroe-6130
-release_date: null
-sku: mikroe-6130
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/barcode-3-click/barcode-3-click-home_default-1.jpg?v=100

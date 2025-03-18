@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: sm1212e433
+ref: semtech/sm1212e433
+vendor: semtech
+sku: sm1212e433
+name: SM1212E433
 description: Evaluation Module, SX1212, 433MHz
+status: ''
 extra:
   Chipset: SX1212
   Type: Module Kit
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.semtech.com/products/wireless-rf/frequency-shift-keying-fsk/sm1212e433
-  repositories: []
-name: SM1212E433
-ref: semtech/sm1212e433
-release_date: null
-sku: sm1212e433
-spec: null
-status: ''
-vendor: semtech
+  images: []

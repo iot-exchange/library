@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4037
+ref: mikroe/mikroe-4037
+vendor: mikroe
+sku: mikroe-4037
+name: MIKROE-4037
 description: Heart Rate 2 Click is an add-on board based on MAXM86161 from Analog
   Devices a complete, integrated, optical data acquisition system, ideal for optical
   pulse oximetry and heart-rate detection applications. The optical readout has a
   low-noise signal conditioning analog front-end (AFE), including 19-bit ADC, an industry-lead
   ambient light cancellation (ALC).
+status: ''
 extra:
   Price: $28.00
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.mikroe.com/heart-rate-2-click
-  repositories: []
-name: MIKROE-4037
-ref: mikroe/mikroe-4037
-release_date: null
-sku: mikroe-4037
-spec: null
-status: ''
-vendor: mikroe
+  images: []

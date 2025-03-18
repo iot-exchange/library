@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: ups-hat-e-en
+ref: waveshare/ups-hat-e-en
+vendor: waveshare
+sku: ups-hat-e-en
+name: UPS HAT (E) (EN)
 description: "UPS HAT (E) for Raspberry Pi, Supports 4\xD7 21700 Li batteries (NOT\
   \ included), Bi-Directional Fast charging, 5V 6A Output, Pogo Pins Connector, Raspberry\
   \ Pi UPS"
+status: ''
 extra:
   Price: $31.29 -  $32.99
   SKU: '27966'
   price: $31.29  -  $32.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/p/ups-hat-e-3.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ups-hat-e.htm
-  repositories: []
-name: UPS HAT (E) (EN)
-ref: waveshare/ups-hat-e-en
-release_date: null
-sku: ups-hat-e-en
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/p/ups-hat-e-3.jpg

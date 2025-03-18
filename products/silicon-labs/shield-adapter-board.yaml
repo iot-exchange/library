@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: shield-adapter-board
+ref: silicon-labs/shield-adapter-board
+vendor: silicon-labs
+sku: shield-adapter-board
+name: Shield Adapter Board
 description: The Si-EB8045C, Shield Adapter Board for Co-Processor Radio Boards is
   an excellent way to explore and evaluate SiWx917 and EFR32 Co-Processor Radio Boards
   with external hosts through the Shield interface.
+status: ''
 extra:
   MSRP: $55.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/wifi/siwx917-wireless-socs/si-eb8045C-expansion-board.png
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/wi-fi/shield-adapter-board-for-co-processor-radio-boards
-  repositories: []
-name: Shield Adapter Board
-ref: silicon-labs/shield-adapter-board
-release_date: null
-sku: shield-adapter-board
-spec: null
-status: ''
-vendor: silicon-labs
+  images:
+  - https://www.silabs.com/content/dam/siliconlabs/images/products/Bluetooth/wifi/siwx917-wireless-socs/si-eb8045C-expansion-board.png

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: lora-lorawan-iot-kit-v3
+ref: dragino/lora-lorawan-iot-kit-v3
+vendor: dragino
+sku: lora-lorawan-iot-kit-v3
+name: LoRa/LoRaWAN IoT Kit v3
 description: Open Source LoRa/LoRaWAN kits Support multi-channels LoRaWAN and Single-Channel
   LoRa Support various network structures
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/84ac056b57dd032fcf18a346d4a81feb_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lora/item/237-lora-lorawan-iot-kit-v3.html
-  repositories: []
-name: LoRa/LoRaWAN IoT Kit v3
-ref: dragino/lora-lorawan-iot-kit-v3
-release_date: null
-sku: lora-lorawan-iot-kit-v3
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/84ac056b57dd032fcf18a346d4a81feb_L.jpg

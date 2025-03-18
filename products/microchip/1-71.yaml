@@ -1,57 +1,50 @@
-alternatives: []
-certifications: []
+id: 1-71
+ref: microchip/1-71
+vendor: microchip
+sku: 1-71
+name: '1.71'
 description: Bluetooth LE, Zigbee | SoC | 64 MHz, ARM Cortex M4F
+status: ''
 extra:
   ADC: '12'
-  Bluetooth: '5.2'
-  Bluetooth Version: 1.3.0
   CAN: 'Yes'
   Core Size: '16'
-  Current Consumption: '0.09'
-  DAC: '1'
-  Flash: '96'
   Flash Memory (KB): '128'
-  GPIO: '4'
   I2C: '2'
-  Max Range (dBm): '-108'
   Max Speed (MIPS): '200'
-  Max Supply Voltage (V): '3.6'
-  Microcontroller: 64 MHz, ARM Cortex M4F
   "Operating Temperature (\xB0C)": -40 to 150
-  Operating Temperature Max: '125'
-  Operating Temperature Min: '-40'
   PWM: '16'
   Package: '32'
-  Package Type: 32/VQFN
-  RAM: '512'
   RAM (KB): '0'
+  UART: '0'
+  VDD (V): '3.6'
+  Bluetooth: '5.2'
+  Flash: '96'
+  Max Range (dBm): '-108'
+  Max Supply Voltage (V): '3.6'
+  Microcontroller: 64 MHz, ARM Cortex M4F
+  RAM: '512'
+  Security Features: Secure Boot, AES-256, SHA-384, PKA, TRNG
+  Supply Voltage (V): '1.9'
+  Tx Power (dBm): '11'
+  Type: SoC
+  Version: '3.0'
+  Bluetooth Version: 1.3.0
+  Current Consumption: '0.09'
+  DAC: '1'
+  GPIO: '4'
+  Operating Temperature Max: '125'
+  Operating Temperature Min: '-40'
+  Package Type: 32/VQFN
   SPI: '2'
   Secure Boot: 'Yes'
-  Security Features: Secure Boot, AES-256, SHA-384, PKA, TRNG
   Sensitivity: '-108'
-  Supply Voltage (V): '1.9'
   Supply Voltage Max: '3.6'
   Supply Voltage Min: '1.9'
   TX Power: '11'
   Timers: '7'
-  Tx Power (dBm): '11'
-  Type: SoC
-  UART: '0'
   USB: '5.2'
-  VDD (V): '3.6'
-  Version: '3.0'
   Zigbee Version: '3.0'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: '1.71'
-ref: microchip/1-71
-release_date: null
-sku: 1-71
-spec: null
-status: ''
-vendor: microchip
+  images: []

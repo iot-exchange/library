@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: teres-006-keyboard
+ref: olimex/teres-006-keyboard
+vendor: olimex
+sku: teres-006-keyboard
+name: TERES-006-Keyboard
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-006-Keyboard/images/thumbs/200x150/TERES-006-Keyboard-Body.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-006-Keyboard/
-  repositories: []
-name: TERES-006-Keyboard
-ref: olimex/teres-006-keyboard
-release_date: null
-sku: teres-006-keyboard
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/DIY-Laptop/SPARE-PARTS/TERES-006-Keyboard/images/thumbs/200x150/TERES-006-Keyboard-Body.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 4-2inch-nfc-e-paper-eval-kit
+ref: waveshare/4-2inch-nfc-e-paper-eval-kit
+vendor: waveshare
+sku: 4-2inch-nfc-e-paper-eval-kit
+name: 4.2inch NFC e-Paper Eval Kit
 description: 4.2inch NFC-Powered e-Paper Evaluation Kit, Wireless Powering & Data
   Transfer
+status: ''
 extra:
   Price: $73.29 - $74.99
   SKU: '17765'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/_/4.2inch-nfc-e-paper-eval-kit-1_960.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/4.2inch-nfc-e-paper-eval-kit.htm
-  repositories: []
-name: 4.2inch NFC e-Paper Eval Kit
-ref: waveshare/4-2inch-nfc-e-paper-eval-kit
-release_date: null
-sku: 4-2inch-nfc-e-paper-eval-kit
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/4/_/4.2inch-nfc-e-paper-eval-kit-1_960.jpg

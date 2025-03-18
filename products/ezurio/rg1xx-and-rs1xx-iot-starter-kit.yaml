@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: rg1xx-and-rs1xx-iot-starter-kit
+ref: ezurio/rg1xx-and-rs1xx-iot-starter-kit
+vendor: ezurio
+sku: rg1xx-and-rs1xx-iot-starter-kit
+name: RG1xx and RS1xx IoT Starter Kit
 description: The IoT Starter Kit includes RG1xx Gateway and RS1xx Sensors for prototyping
   long-range Temperature/Humidity and Open/Closed applications.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/2025-01/starter-kit-RG1xx-RS1xx.jpg
-  models: []
   products:
   - https://www.ezurio.com/iot-devices/iot-starter-kits/sentrius-rg1xx-rs1xx-iot-starter-kit
-  repositories: []
-name: RG1xx and RS1xx IoT Starter Kit
-ref: ezurio/rg1xx-and-rs1xx-iot-starter-kit
-release_date: null
-sku: rg1xx-and-rs1xx-iot-starter-kit
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2025-01/starter-kit-RG1xx-RS1xx.jpg

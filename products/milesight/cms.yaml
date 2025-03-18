@@ -1,0 +1,12 @@
+id: cms
+ref: milesight/cms
+vendor: milesight
+sku: cms
+name: CMS
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/security/product/ms-cms
+  images: []

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: fpq-32-0-8-01
+ref: waveshare/fpq-32-0-8-01
+vendor: waveshare
+sku: fpq-32-0-8-01
+name: FPQ-32-0.8-01
 description: Test & Burn-in Socket
+status: ''
 extra:
   Price: $80.59 - $83.99
   SKU: '3546'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/p/fpq-32-0.8-01_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/fpq-32-0.8-01.htm
-  repositories: []
-name: FPQ-32-0.8-01
-ref: waveshare/fpq-32-0-8-01
-release_date: null
-sku: fpq-32-0-8-01
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/f/p/fpq-32-0.8-01_l_1_5.jpg

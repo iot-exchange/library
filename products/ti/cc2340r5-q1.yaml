@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: cc2340r5-q1
+ref: ti/cc2340r5-q1
+vendor: ti
+sku: cc2340r5-q1
+name: CC2340R5-Q1
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ti.com/product/CC2340R5-Q1
-  repositories: []
-name: CC2340R5-Q1
-ref: ti/cc2340r5-q1
-release_date: null
-sku: cc2340r5-q1
-spec: null
-status: ''
-vendor: ti
+  images: []

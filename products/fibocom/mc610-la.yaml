@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: mc610-la
+ref: fibocom/mc610-la
+vendor: fibocom
+sku: mc610-la
+name: MC610-LA
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/LTECat1-MC610-LA.html
-  repositories: []
-name: MC610-LA
-ref: fibocom/mc610-la
-release_date: null
-sku: mc610-la
-spec: null
-status: ''
-vendor: fibocom
+  images: []

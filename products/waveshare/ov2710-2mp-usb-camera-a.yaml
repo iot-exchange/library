@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: ov2710-2mp-usb-camera-a
+ref: waveshare/ov2710-2mp-usb-camera-a
+vendor: waveshare
+sku: ov2710-2mp-usb-camera-a
+name: OV2710 2MP USB Camera (A)
 description: OV2710 2MP USB Camera (A), Low-light Sensitivity
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/v/ov2710-2mp-usb-camera-a-2.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/v/ov2710_2mp_usb_camera_a_.jpg
-  models: []
   products:
   - https://www.waveshare.com/ov2710-2mp-usb-camera-a.htm
   - https://www.waveshare.com/ov2710-2mp-usb-camera-a.htm "OV2710 2MP USB Camera (A),
     Low-light Sensitivity"
-  repositories: []
-name: OV2710 2MP USB Camera (A)
-ref: waveshare/ov2710-2mp-usb-camera-a
-release_date: null
-sku: ov2710-2mp-usb-camera-a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/v/ov2710-2mp-usb-camera-a-2.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/o/v/ov2710_2mp_usb_camera_a_.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: slwrb4309b
+ref: silicon-labs/slwrb4309b
+vendor: silicon-labs
+sku: slwrb4309b
+name: SLWRB4309B
 description: xGM210L Wireless Gecko 2.4 GHz +12.5 dBm Radio Board
+status: ''
 extra:
   MSRP: $49.00
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/slwrb4309b-xgm210l-wireless-gecko-radio-board
-  repositories: []
-name: SLWRB4309B
-ref: silicon-labs/slwrb4309b
-release_date: null
-sku: slwrb4309b
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

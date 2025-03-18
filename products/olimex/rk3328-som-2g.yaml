@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: rk3328-som-2g
+ref: olimex/rk3328-som-2g
+vendor: olimex
+sku: rk3328-som-2g
+name: RK3328-SOM-2G
 description: ''
+status: ''
 extra:
   discountedPrices:
   - 44.10 EUR
@@ -9,18 +13,7 @@ extra:
   - 41.40 EUR
   price: 45.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/SOM/RK3328/RK3328-SOM-1G/images/thumbs/200x150/RK3328-SOM-4G-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/SOM/RK3328/RK3328-SOM-2G/
-  repositories: []
-name: RK3328-SOM-2G
-ref: olimex/rk3328-som-2g
-release_date: null
-sku: rk3328-som-2g
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/SOM/RK3328/RK3328-SOM-1G/images/thumbs/200x150/RK3328-SOM-4G-1.jpg

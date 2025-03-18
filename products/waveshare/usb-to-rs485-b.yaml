@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: usb-to-rs485-b
+ref: waveshare/usb-to-rs485-b
+vendor: waveshare
+sku: usb-to-rs485-b
+name: USB TO RS485 (B)
 description: Industrial USB TO RS485 Bidirectional Converter, Onboard original CH343G,
   Multi-Protection Circuits
+status: ''
 extra:
   Price: $7.31 - $7.99
   SKU: '22456'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-rs485-b-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-to-rs485-b.htm
-  repositories: []
-name: USB TO RS485 (B)
-ref: waveshare/usb-to-rs485-b
-release_date: null
-sku: usb-to-rs485-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-rs485-b-1.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: ic201-1444-026
+ref: waveshare/ic201-1444-026
+vendor: waveshare
+sku: ic201-1444-026
+name: IC201-1444-026
 description: Test & Burn-in Socket
+status: ''
 extra:
-  Price: $94.99 - $100.99
   Price Range: $94.99 - $100.99
   SKU: '3833'
+  Price: $94.99 - $100.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ic201-1444-026_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ic201-1444-026.htm
-  repositories: []
-name: IC201-1444-026
-ref: waveshare/ic201-1444-026
-release_date: null
-sku: ic201-1444-026
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/c/ic201-1444-026_l_1_5.jpg

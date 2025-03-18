@@ -1,8 +1,12 @@
-alternatives: []
-certifications: []
+id: esp8685-wroom-03
+ref: espressif/esp8685-wroom-03
+vendor: espressif
+sku: esp8685-wroom-03
+name: ESP8685-WROOM-03
 description: The ESP8685-WROOM-03 module is based on the ESP8685 chip, and can be
   vertically soldered to a PCB board. It has 8 GPIOs, and supports UART, SPI, I2C,
   LED PWM, I2S, RMT, etc.
+status: ''
 extra:
   Antenna: PCB antenna
   Chip Embedded: ESP8685H4
@@ -12,18 +16,7 @@ extra:
   PSRAM (MB): N/A
   Pins: '11'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP8685-WROOM-03%20S_0.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp8685-wroom-03_datasheet_en.pdf
-  repositories: []
-name: ESP8685-WROOM-03
-ref: espressif/esp8685-wroom-03
-release_date: null
-sku: esp8685-wroom-03
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP8685-WROOM-03%20S_0.png

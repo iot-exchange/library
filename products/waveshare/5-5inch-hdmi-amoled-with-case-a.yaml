@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: 5-5inch-hdmi-amoled-with-case-a
+ref: waveshare/5-5inch-hdmi-amoled-with-case-a
+vendor: waveshare
+sku: 5-5inch-hdmi-amoled-with-case-a
+name: 5.5inch HDMI AMOLED (with case A)
 description: "5.5inch Capacitive Touch AMOLED Display, with Protection Case, 1080\xD7\
   1920, HDMI"
+status: ''
 extra:
-  Price: $120.91 - $124.99
   Price Range: $120.91 - $124.99
   SKU: '17527'
+  Price: $120.91 - $124.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/_/5.5inch-hdmi-amoled-with-case-a-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/5.5inch-hdmi-amoled-with-case.htm
-  repositories: []
-name: 5.5inch HDMI AMOLED (with case A)
-ref: waveshare/5-5inch-hdmi-amoled-with-case-a
-release_date: null
-sku: 5-5inch-hdmi-amoled-with-case-a
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/5/_/5.5inch-hdmi-amoled-with-case-a-1.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: arm-usb-tiny
+ref: olimex/arm-usb-tiny
+vendor: olimex
+sku: arm-usb-tiny
+name: ARM-USB-TINY
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/ARM/JTAG/ARM-USB-TINY/images/thumbs/200x150/ARM-USB-TINY.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/ARM/JTAG/ARM-USB-TINY/
-  repositories: []
-name: ARM-USB-TINY
-ref: olimex/arm-usb-tiny
-release_date: null
-sku: arm-usb-tiny
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/ARM/JTAG/ARM-USB-TINY/images/thumbs/200x150/ARM-USB-TINY.jpg

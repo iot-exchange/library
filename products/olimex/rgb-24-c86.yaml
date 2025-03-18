@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rgb-24-c86
+ref: olimex/rgb-24-c86
+vendor: olimex
+sku: rgb-24-c86
+name: RGB-24-C86
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Breadboarding/RGB-LEDs/RGB-24-C86/images/thumbs/200x150/RGB-24-C86-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Breadboarding/RGB-LEDs/RGB-24-C86/
-  repositories: []
-name: RGB-24-C86
-ref: olimex/rgb-24-c86
-release_date: null
-sku: rgb-24-c86
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Breadboarding/RGB-LEDs/RGB-24-C86/images/thumbs/200x150/RGB-24-C86-1.jpg

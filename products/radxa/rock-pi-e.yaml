@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rock-pi-e
+ref: radxa/rock-pi-e
+vendor: radxa
+sku: rock-pi-e
+name: ROCK Pi E
 description: Compact Networking SBC
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/rockpi/pie/thumb_rock_pi_e.webp
-  models: []
   products:
   - https://radxa.com/products/rockpi/pie
-  repositories: []
-name: ROCK Pi E
-ref: radxa/rock-pi-e
-release_date: null
-sku: rock-pi-e
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/rockpi/pie/thumb_rock_pi_e.webp

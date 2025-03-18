@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4466
+ref: mikroe/mikroe-4466
+vendor: mikroe
+sku: mikroe-4466
+name: MIKROE-4466
 description: Hall Current 9 Click is a compact add-on board that provides a fast and
   precise solution for AC / DC current sensing. This board features the CQ3300, a
   high-speed response coreless current sensor using a Hall sensor that outputs the
   analog voltage proportional to the AC/DC from AKM Semiconductor. It employs a high
   sensitive InAs (Indium Arsenide) Hall...
+status: Unavailable
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/hall-current-9-click/hall-current-9-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/hall-current-9-click
-  repositories: []
-name: MIKROE-4466
-ref: mikroe/mikroe-4466
-release_date: null
-sku: mikroe-4466
-spec: null
-status: Unavailable
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/hall-current-9-click/hall-current-9-click-home_default-1.jpg?v=100

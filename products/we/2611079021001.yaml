@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: '2611079021001'
+ref: we/2611079021001
+vendor: we
+sku: '2611079021001'
+name: '2611079021001'
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.we-online.com/en/components/products/THYONE-I#2611079021001
-  repositories: []
-name: '2611079021001'
-ref: we/2611079021001
-release_date: null
-sku: '2611079021001'
-spec: null
-status: ''
-vendor: we
+  images: []

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bb-pwr-8009
+ref: olimex/bb-pwr-8009
+vendor: olimex
+sku: bb-pwr-8009
+name: BB-PWR-8009
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Breadboarding/BB-PWR-8009/images/thumbs/200x150/BB-PWR-8009-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Breadboarding/BB-PWR-8009/open-source-hardware
-  repositories: []
-name: BB-PWR-8009
-ref: olimex/bb-pwr-8009
-release_date: null
-sku: bb-pwr-8009
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Breadboarding/BB-PWR-8009/images/thumbs/200x150/BB-PWR-8009-1.jpg

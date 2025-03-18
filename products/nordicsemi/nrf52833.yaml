@@ -1,55 +1,48 @@
-alternatives: []
-certifications: []
+id: nrf52833
+ref: nordicsemi/nrf52833
+vendor: nordicsemi
+sku: nrf52833
+name: nRF52833
 description: Bluetooth 5.4 SoC supporting Bluetooth Low Energy, Bluetooth mesh, Bluetooth
   Direction Finding, NFC, Thread and Zigbee.
+status: ''
 extra:
-  ADC: 12-bit
-  ADC, Comparator: 'Yes'
-  Additional Features: 2 Mbps, 1 Mbps, Long Range
-  Arm CryptoCell: ''
-  Arm TrustZone: ''
   CPU: 64 MHz Arm Cortex-M4 with FPU
   Flash: 512 KB
+  RAM: 128 KB
+  TX Power: +8 dBm
+  ADC, Comparator: 'Yes'
+  Arm CryptoCell: ''
   GPIOs: Up to 42
-  High-Speed SPI: 'Yes'
   High-speed SPI: 'Yes'
-  Interfaces: UART, SPI, TWI, PDM, HS-SPI, I2S, PWM
   NFC: 'Yes'
   Operating temp: "-40 to +105\xB0C"
-  Operating temperature: "-40 to 105 \xB0C"
   PDM, I2S: 'Yes'
   PWM: 'Yes'
-  PWM, PDM, I2S: 'Yes'
   Package options: QFN
-  Packages: 7x7 mm aQFN73 (42 GPIOs) 5x5 mm QFN40 (18 GPIOs) 3.2x3.2 mm WLCSP (42
-    GPIOs)
   QDEC: 'Yes'
   QSPI: ''
-  RAM: 128 KB
-  Root-of-Trust: ''
-  Secure key storage: ''
-  Security: 128-bit AES CCM
   Supply range: 1.7-5.5 V
-  Supply voltage range: 1.7 to 5.5 V
-  TWI/SPI/UART: 2xTWI/SPI, SPI, 2xUART
-  TX Power: +8 dBm
-  UART, SPI, TWI, PDM, HS-SPI, I2S, PWM: 'Yes'
   UART/SPI/TWI: 'Yes'
   USB: 'Yes'
+  ADC: 12-bit
+  Additional Features: 2 Mbps, 1 Mbps, Long Range
+  Interfaces: UART, SPI, TWI, PDM, HS-SPI, I2S, PWM
+  Security: 128-bit AES CCM
+  Arm TrustZone: ''
+  High-Speed SPI: 'Yes'
+  Operating temperature: "-40 to 105 \xB0C"
+  PWM, PDM, I2S: 'Yes'
+  Packages: 7x7 mm aQFN73 (42 GPIOs) 5x5 mm QFN40 (18 GPIOs) 3.2x3.2 mm WLCSP (42
+    GPIOs)
+  Root-of-Trust: ''
+  Secure key storage: ''
+  Supply voltage range: 1.7 to 5.5 V
+  TWI/SPI/UART: 2xTWI/SPI, SPI, 2xUART
+  UART, SPI, TWI, PDM, HS-SPI, I2S, PWM: 'Yes'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.nordicsemi.com/Products/nRF52833
   images:
   - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52833-WLCSP-3.175-x-3.175-stacked_web.png?h=250&iar=0&mh=250&w=254&hash=2B9361F9CBA6FF34492EB34D0412645A
   - https://www.nordicsemi.com/-/media/Images/Products/SoC/SoCs-dobble-top/nRF52-Series/nRF52833-WLCSP-3.175-x-3.175-stacked_web.png?h=500&iar=0&mh=500&w=508&hash=100B31939F617A31E5E6FED7E14CE22A
-  models: []
-  products:
-  - https://www.nordicsemi.com/Products/nRF52833
-  repositories: []
-name: nRF52833
-ref: nordicsemi/nrf52833
-release_date: null
-sku: nrf52833
-spec: null
-status: ''
-vendor: nordicsemi

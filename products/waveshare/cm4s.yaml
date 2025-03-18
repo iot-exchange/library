@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: cm4s
+ref: waveshare/cm4s
+vendor: waveshare
+sku: cm4s
+name: cm4s
 description: Raspberry Pi Compute Module 4S, Powerful Performance, High-Speed EMMC
   Flash, Compatible With CM3 Expansion Boards, Options For RAM / EMMC
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4s0-xgb-xemmc-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/compute-module-4s.htm
-  repositories: []
-name: cm4s
-ref: waveshare/cm4s
-release_date: null
-sku: cm4s
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4s0-xgb-xemmc-1.jpg

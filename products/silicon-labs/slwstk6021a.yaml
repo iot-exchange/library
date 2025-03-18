@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: slwstk6021a
+ref: silicon-labs/slwstk6021a
+vendor: silicon-labs
+sku: slwstk6021a
+name: SLWSTK6021A
 description: EFR32xG22 Wireless Gecko Starter Kit
+status: ''
 extra:
   MSRP: $193.00
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/efr32xg22-wireless-starter-kit
-  repositories: []
-name: SLWSTK6021A
-ref: silicon-labs/slwstk6021a
-release_date: null
-sku: slwstk6021a
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

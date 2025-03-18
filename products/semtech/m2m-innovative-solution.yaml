@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: m2m-innovative-solution
+ref: semtech/m2m-innovative-solution
+vendor: semtech
+sku: m2m-innovative-solution
+name: M2M Innovative Solution
 description: "Semtech Wins \u201CM2M Innovative Solution of the Year\u201D Designation\
   \ in 2025 IoT Breakthrough Awards Program"
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products: []
   images:
   - https://www.semtech.com/uploads/news/AirVantage_Smart_Sensing_won_M2M-pr-press-800x450.jpg
-  models: []
-  products: []
-  repositories: []
-name: M2M Innovative Solution
-ref: semtech/m2m-innovative-solution
-release_date: null
-sku: m2m-innovative-solution
-spec: null
-status: ''
-vendor: semtech

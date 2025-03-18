@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: type-1yl
+ref: murata/type-1yl
+vendor: murata
+sku: type-1yl
+name: Type 1YL
 description: DSRC / C-V2X standard module
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/products/connectivitymodule/v2x/overview/lineup/type1yl
-  repositories: []
-name: Type 1YL
-ref: murata/type-1yl
-release_date: null
-sku: type-1yl
-spec: null
-status: ''
-vendor: murata
+  images: []

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: em7690
+ref: sierrawireless/em7690
+vendor: sierrawireless
+sku: em7690
+name: EM7690
 description: 4G LTE Advanced Pro (Cat-20)
+status: ''
 extra:
   Bands: 'LTE: B1, B2, B3, B4, B5, B7, B8, B12, B13, B14, B18, B19, B20, B25, B26,
     B28, B29, B30, B32, B34, B38, B39, B40, B41, B42, B43, B46, B48, B66, B71'
@@ -8,18 +12,7 @@ extra:
   Region (Carrier): 'Global (AT&T (FirstNet), Verizon, NTT Docomo, T-Mobile, Planned:
     Telstra)'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.sierrawireless.com/wp-content/uploads/2021/12/EM-Series-regular-White-M-150x150-copy.png?w=150
-  models: []
   products:
   - https://www.sierrawireless.com/iot-modules/4g-modules/em7690/
-  repositories: []
-name: EM7690
-ref: sierrawireless/em7690
-release_date: null
-sku: em7690
-spec: null
-status: ''
-vendor: sierrawireless
+  images:
+  - https://www.sierrawireless.com/wp-content/uploads/2021/12/EM-Series-regular-White-M-150x150-copy.png?w=150

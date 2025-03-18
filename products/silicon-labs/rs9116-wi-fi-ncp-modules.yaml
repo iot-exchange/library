@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: rs9116-wi-fi-ncp-modules
+ref: silicon-labs/rs9116-wi-fi-ncp-modules
+vendor: silicon-labs
+sku: rs9116-wi-fi-ncp-modules
+name: RS9116 Wi-Fi NCP Modules
 description: RS9116 Wi-Fi NCP Modules
+status: ''
 extra:
   Max Flash/RAM (kB): ''
   Output Power Range (dBm): ''
@@ -8,17 +12,6 @@ extra:
   "Secure Vault\u2122": 'Yes'
   TX Current (0 dBm): ''
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/wireless/wi-fi/rs9116-wi-fi-ncp-modules
-  repositories: []
-name: RS9116 Wi-Fi NCP Modules
-ref: silicon-labs/rs9116-wi-fi-ncp-modules
-release_date: null
-sku: rs9116-wi-fi-ncp-modules
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

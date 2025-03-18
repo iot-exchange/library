@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3785
+ref: mikroe/mikroe-3785
+vendor: mikroe
+sku: mikroe-3785
+name: MIKROE-3785
 description: "LCD Mono Click is a Click board\u2122 that uses the LS013B7DH03 LCD\
   \ display from Sharp which combined with the EFM32, from Silicon Labs, and its energy\
   \ saving capabilities creates a powerful display application. The application is\
   \ capable of driving a 128x128 pixel display drawing as little as 2 \xB5A while\
   \ showing a static image. Even when updating the frame..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/lcd-mono-click/lcd-mono-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/lcd-mono-click
-  repositories: []
-name: MIKROE-3785
-ref: mikroe/mikroe-3785
-release_date: null
-sku: mikroe-3785
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lcd-mono-click/lcd-mono-click-home_default-1.jpg?v=100

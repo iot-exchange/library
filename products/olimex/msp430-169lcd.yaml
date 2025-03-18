@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: msp430-169lcd
+ref: olimex/msp430-169lcd
+vendor: olimex
+sku: msp430-169lcd
+name: MSP430-169LCD
 description: ''
+status: ''
 extra:
   price1: 24.95 EUR
   price2: 22.46 EUR
   price3: 19.96 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/MSP430/Starter/MSP430-169LCD/images/thumbs/200x150/MSP430-169LCD-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/MSP430/Starter/MSP430-169LCD/
-  repositories: []
-name: MSP430-169LCD
-ref: olimex/msp430-169lcd
-release_date: null
-sku: msp430-169lcd
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/MSP430/Starter/MSP430-169LCD/images/thumbs/200x150/MSP430-169LCD-01.jpg

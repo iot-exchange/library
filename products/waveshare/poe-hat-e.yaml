@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: poe-hat-e
+ref: waveshare/poe-hat-e
+vendor: waveshare
+sku: poe-hat-e
+name: PoE HAT (E)
 description: Power over Ethernet HAT (E) for Raspberry Pi 3B+/4B, 802.3af-compliant
+status: ''
 extra:
   SKU: '23285'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/o/poe-hat-e-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/poe-hat-e.htm
-  repositories: []
-name: PoE HAT (E)
-ref: waveshare/poe-hat-e
-release_date: null
-sku: poe-hat-e
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/o/poe-hat-e-1.jpg

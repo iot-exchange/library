@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: a20-can-iso
+ref: olimex/a20-can-iso
+vendor: olimex
+sku: a20-can-iso
+name: A20-CAN-ISO
 description: ''
+status: ''
 extra:
   10+ pcs: 14.36 EUR
   50+ pcs: 12.76 EUR
   Price: 15.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/A20/A20-CAN/images/thumbs/200x150/A20-CAN.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/A20/A20-CAN-ISO/open-source-hardware
-  repositories: []
-name: A20-CAN-ISO
-ref: olimex/a20-can-iso
-release_date: null
-sku: a20-can-iso
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/A20/A20-CAN/images/thumbs/200x150/A20-CAN.jpg

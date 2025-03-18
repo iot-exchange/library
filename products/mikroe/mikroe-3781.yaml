@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-3781
+ref: mikroe/mikroe-3781
+vendor: mikroe
+sku: mikroe-3781
+name: MIKROE-3781
 description: SiBRAIN is a standardized microcontroller add-on board, which allows
   very simple installation and replacement of the microcontroller unit (MCU) on a
   development board equipped with the SiBRAIN Card socket. By introducing the new
   SiBRAIN Card standard, we have ensured the absolute compatibility between the development
   board and any of the supported MCUs,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mcu-card-26-for-stm32-stm32f469ii/mcu-card-26-for-stm32-stm32f469ii-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/mcu-card-28-for-stm32-stm32f732ie/mcu-card-28-for-stm32-stm32f732ie-home_default-2.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=122#MCU-CARD-26-for-STM32-STM32F469II
   - https://www.mikroe.com/shop?p=122#SiBRAIN-for-STM32F732IE
-  repositories: []
-name: MIKROE-3781
-ref: mikroe/mikroe-3781
-release_date: null
-sku: mikroe-3781
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mcu-card-26-for-stm32-stm32f469ii/mcu-card-26-for-stm32-stm32f469ii-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/mcu-card-28-for-stm32-stm32f732ie/mcu-card-28-for-stm32-stm32f732ie-home_default-2.jpg?v=100

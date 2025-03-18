@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: se868sy-d
+ref: telit/se868sy-d
+vendor: telit
+sku: se868sy-d
+name: SE868SY-D
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.telit.com/wp-content/uploads/2024/10/Telit_SE868SY-D-2023-270x200.png
-  models: []
   products:
   - https://www.telit.com/devices/se868sy-d/
-  repositories: []
-name: SE868SY-D
-ref: telit/se868sy-d
-release_date: null
-sku: se868sy-d
-spec: null
-status: ''
-vendor: telit
+  images:
+  - https://www.telit.com/wp-content/uploads/2024/10/Telit_SE868SY-D-2023-270x200.png

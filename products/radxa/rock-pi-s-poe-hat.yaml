@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rock-pi-s-poe-hat
+ref: radxa/rock-pi-s-poe-hat
+vendor: radxa
+sku: rock-pi-s-poe-hat
+name: ROCK Pi S PoE HAT
 description: Designed for Radxa ROCK Pi S
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/poe-hat/ra011/thumb_radxa_rock_pi_s_poe_hat.webp
-  models: []
   products:
   - https://radxa.com/products/accessories/pi-s-poe-hat
-  repositories: []
-name: ROCK Pi S PoE HAT
-ref: radxa/rock-pi-s-poe-hat
-release_date: null
-sku: rock-pi-s-poe-hat
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/poe-hat/ra011/thumb_radxa_rock_pi_s_poe_hat.webp

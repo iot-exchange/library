@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: mikroe-6488
+ref: mikroe/mikroe-6488
+vendor: mikroe
+sku: mikroe-6488
+name: MIKROE-6488
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.mikroe.com/cart?add=1&id_product=4093
-  repositories: []
-name: MIKROE-6488
-ref: mikroe/mikroe-6488
-release_date: null
-sku: mikroe-6488
-spec: null
-status: ''
-vendor: mikroe
+  images: []

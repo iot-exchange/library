@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: fg332-na
+ref: fibocom/fg332-na
+vendor: fibocom
+sku: fg332-na
+name: FG332-NA
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.fibocom.com/en/Products/5GRedCap-FG332-NA.html
-  repositories: []
-name: FG332-NA
-ref: fibocom/fg332-na
-release_date: null
-sku: fg332-na
-spec: null
-status: ''
-vendor: fibocom
+  images: []

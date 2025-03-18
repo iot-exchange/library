@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: cc2755r10
+ref: ti/cc2755r10
+vendor: ti
+sku: cc2755r10
+name: CC2755R10
 description: ''
+status: New
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.ti.com/product/CC2755R10
-  repositories: []
-name: CC2755R10
-ref: ti/cc2755r10
-release_date: null
-sku: cc2755r10
-spec: null
-status: New
-vendor: ti
+  images: []

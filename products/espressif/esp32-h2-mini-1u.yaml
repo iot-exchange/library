@@ -1,8 +1,12 @@
-alternatives: []
-certifications: []
+id: esp32-h2-mini-1u
+ref: espressif/esp32-h2-mini-1u
+vendor: espressif
+sku: esp32-h2-mini-1u
+name: ESP32-H2-MINI-1U
 description: "ESP32-H2-MINI-1U is a powerful, generic Bluetooth\xAE Low Energy and\
   \ IEEE 802.15.4 combo module with ESP32-H2 chip at its core. This module is ideal\
   \ for building IoT applications with high requirement on power consumption."
+status: ''
 extra:
   Antenna: IPEX antenna connector
   Chip Embedded: ESP32-H2FH2ESP32-H2FH4
@@ -11,18 +15,7 @@ extra:
   Flash (MB): 2, 4
   Pins: '53'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/modules/ESP32-H2-MINI-1U%20S_0.png
-  models: []
   products:
   - https://www.espressif.com/sites/default/files/documentation/esp32-h2-mini-1_mini-1u_datasheet_en.pdf
-  repositories: []
-name: ESP32-H2-MINI-1U
-ref: espressif/esp32-h2-mini-1u
-release_date: null
-sku: esp32-h2-mini-1u
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/modules/ESP32-H2-MINI-1U%20S_0.png

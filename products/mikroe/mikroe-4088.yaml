@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-4088
+ref: mikroe/mikroe-4088
+vendor: mikroe
+sku: mikroe-4088
+name: MIKROE-4088
 description: "The ISO ADC Click is add-on board current-shunt measurement device with\
   \ isolated delta-sigma modulator. This Click board\u2122 is based on AMC1204BDWR\
   \ provide a single-chip solution for measuring the small signal of a shunt resistor\
   \ across an isolated barrier from Texas Instruments."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/iso-adc-click/iso-adc-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=108#ISO-ADC-Click
-  repositories: []
-name: MIKROE-4088
-ref: mikroe/mikroe-4088
-release_date: null
-sku: mikroe-4088
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/iso-adc-click/iso-adc-click-home_default-1.jpg?v=100

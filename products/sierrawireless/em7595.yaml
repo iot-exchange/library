@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: em7595
+ref: sierrawireless/em7595
+vendor: sierrawireless
+sku: em7595
+name: EM7595
 description: 4G LTE Advanced Pro (Cat-12)
+status: ''
 extra:
   Bands: 'LTE: B1, B2, B3, B4, B5, B7, B8, B12, B13, B14, B18, B19, B20, B25, B26,
     B28, B29, B32, B38, B39, B40, B41, B42, B43, B48, B66, B71, B106*'
@@ -8,17 +12,6 @@ extra:
   Region (Carrier): 'Global (Planned: AT&T (FirstNet), Verizon, T-Mobile, SouthernLINC,
     Orange, Telstra, NTT Docomo, Anterix)'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.sierrawireless.com/iot-modules/4g-modules/em7595/
-  repositories: []
-name: EM7595
-ref: sierrawireless/em7595
-release_date: null
-sku: em7595
-spec: null
-status: ''
-vendor: sierrawireless
+  images: []

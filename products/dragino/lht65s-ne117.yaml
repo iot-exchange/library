@@ -1,28 +1,21 @@
-alternatives: []
-certifications: []
+id: lht65s-ne117
+ref: dragino/lht65s-ne117
+vendor: dragino
+sku: lht65s-ne117
+name: LHT65S-NE117
 description: "LoRaWAN Temperature & Humidity sensorLoRaWAN v1.0.3 Class A protocolBands:EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915Built-in\
   \ 2400mAh batteryMonitor Internal Temperature, External Probe base on TI TMP117A\
   \ (accuracy: 0.1\xB0C), and Humidity"
+status: ''
 extra:
-  Accuracy: "0.1\xB0C"
   Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
-  Battery: 2400mAh
   Built-in: 2400mAh battery
   "Monitor Internal Temperature, External Probe based on TI TMP117A (accuracy: 0.1\xB0C), and Humidity": ''
+  Accuracy: "0.1\xB0C"
+  Battery: 2400mAh
   Protocol: LoRaWAN v1.0.3 Class A
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/935dbd09c0a7727e2143877810820513_L.jpg
-  models: []
   products:
   - https://dragino.com/products/temperature-humidity-sensor/item/255-lht65s-ne117.html
-  repositories: []
-name: LHT65S-NE117
-ref: dragino/lht65s-ne117
-release_date: null
-sku: lht65s-ne117
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/935dbd09c0a7727e2143877810820513_L.jpg

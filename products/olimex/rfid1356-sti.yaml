@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: rfid1356-sti
+ref: olimex/rfid1356-sti
+vendor: olimex
+sku: rfid1356-sti
+name: RFID1356-STI
 description: ''
+status: ''
 extra:
   discountedPrice1: 0.90 EUR
   discountedPrice2: 0.80 EUR
   price: 1.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/RFID-Tags/1356/RFID1356-STI/images/thumbs/200x150/RFID1356-STI.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/RFID-Tags/1356/RFID1356-STI/
-  repositories: []
-name: RFID1356-STI
-ref: olimex/rfid1356-sti
-release_date: null
-sku: rfid1356-sti
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/RFID-Tags/1356/RFID1356-STI/images/thumbs/200x150/RFID1356-STI.jpg

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: pb01
+ref: dragino/pb01
+vendor: dragino
+sku: pb01
+name: PB01
 description: LoRaWAN Button with built-in Temperature & Humidity sensor.
+status: ''
 extra:
   Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
   Battery: 2 x AAA LR03
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/e529a8dc22bd84a37f6f8ae6b8ce40d3_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lorawan-nb-iot-door-sensor-water-leak/item/333-pb01-lorawan-button.html
-  repositories: []
-name: PB01
-ref: dragino/pb01
-release_date: null
-sku: pb01
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/e529a8dc22bd84a37f6f8ae6b8ce40d3_L.jpg

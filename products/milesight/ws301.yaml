@@ -1,0 +1,13 @@
+id: ws301
+ref: milesight/ws301
+vendor: milesight
+sku: ws301
+name: WS301
+description: Magnetic Contact Switch
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/ws301
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/smart-workplace-cowork-series/wire-free-magnetic-contact-switch-ws301.png?t=1742198585390

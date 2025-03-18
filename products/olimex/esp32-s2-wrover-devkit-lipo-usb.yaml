@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: esp32-s2-wrover-devkit-lipo-usb
+ref: olimex/esp32-s2-wrover-devkit-lipo-usb
+vendor: olimex
+sku: esp32-s2-wrover-devkit-lipo-usb
+name: ESP32-S2-WROVER-DevKit-Lipo-USB
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/ESP32-S2/ESP32-S2-DevKit-Lipo-USB/images/thumbs/200x150/ESP32-S2-DevKitLipo-USB-a.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/ESP32-S2/ESP32-S2-WROVER-DevKit-Lipo-USB/open-source-hardware
-  repositories: []
-name: ESP32-S2-WROVER-DevKit-Lipo-USB
-ref: olimex/esp32-s2-wrover-devkit-lipo-usb
-release_date: null
-sku: esp32-s2-wrover-devkit-lipo-usb
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/ESP32-S2/ESP32-S2-DevKit-Lipo-USB/images/thumbs/200x150/ESP32-S2-DevKitLipo-USB-a.jpg

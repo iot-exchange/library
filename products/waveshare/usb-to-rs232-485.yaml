@@ -1,29 +1,22 @@
-alternatives: []
-certifications: []
+id: usb-to-rs232-485
+ref: waveshare/usb-to-rs232-485
+vendor: waveshare
+sku: usb-to-rs232-485
+name: USB TO RS232/485
 description: USB to RS232/485 Serial Converter, Onboard Original FT232RNL Chip, Multiple
   devices applicable, Multi-OS compatible
+status: ''
 extra:
-  Price: $11.97 - $12.99
   SKU: '26630'
+  Price: $11.97 - $12.99
   price: $11.97 - $12.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-4ch-rs232-485-1.jpg
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-rs232-485-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-to-4ch-rs232-485.htm
   - https://www.waveshare.com/product/usb-to-rs232-485.htm
   - https://www.waveshare.com/product/usb-to-rs232-485.htm "USB to RS232/485 Serial
     Converter, Onboard Original FT232RNL Chip, Multiple devices applicable, Multi-OS
     compatible"
-  repositories: []
-name: USB TO RS232/485
-ref: waveshare/usb-to-rs232-485
-release_date: null
-sku: usb-to-rs232-485
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-4ch-rs232-485-1.jpg
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-rs232-485-1.jpg

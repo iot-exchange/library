@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: dimmer-switch
+ref: insteon/dimmer-switch
+vendor: insteon
+sku: dimmer-switch
+name: Dimmer Switch
 description: ''
+status: ''
 extra:
   Regular price: $54.95
   Sale price: $54.95
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/products/Insteon_Dimmer_Switch.jpg?v=1723522236&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/dimmer-switch
-  repositories: []
-name: Dimmer Switch
-ref: insteon/dimmer-switch
-release_date: null
-sku: dimmer-switch
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Insteon_Dimmer_Switch.jpg?v=1723522236&width=533

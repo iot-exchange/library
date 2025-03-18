@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: raspberry-pi-3-model-a
+ref: waveshare/raspberry-pi-3-model-a
+vendor: waveshare
+sku: raspberry-pi-3-model-a
+name: Raspberry Pi 3 Model A+
 description: Raspberry Pi 3 Model A+, Retains Most Enhancements in Smaller Form Factor
+status: Out of Stock
 extra:
   Price: $32.65 - $32.99
   SKU: '15784'
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.waveshare.com/raspberry-pi-3-model-a-plus.htm
   images:
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-3-model-a-plus-1.jpg
   - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-3-model-a-plus-6.jpg
-  models: []
-  products:
-  - https://www.waveshare.com/raspberry-pi-3-model-a-plus.htm
-  repositories: []
-name: Raspberry Pi 3 Model A+
-ref: waveshare/raspberry-pi-3-model-a
-release_date: null
-sku: raspberry-pi-3-model-a
-spec: null
-status: Out of Stock
-vendor: waveshare

@@ -1,0 +1,12 @@
+id: m-sight-pro-app
+ref: milesight/m-sight-pro-app
+vendor: milesight
+sku: m-sight-pro-app
+name: M-Sight Pro APP
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/security/product/app
+  images: []

@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: mikroe-3786
+ref: mikroe/mikroe-3786
+vendor: mikroe
+sku: mikroe-3786
+name: MIKROE-3786
 description: "Cap Touch 5 Click is a capacitive touch sensing Click board\u2122 which\
   \ features the CY8CMBR3106S-LQXI CapSense\xAE Express\u2122 controller which enables\
   \ advanced, yet easy-to-implement, capacitive touch sensing user interface solutions.\
   \ It supports up to 16 capacitive sensing inputs, eliminates time-consuming firmware\
   \ development. This controller is ideal for..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/cap-touch-5-click/cap-touch-5-click-home_default-1.jpg?v=100
-  - https://cdn1-shop.mikroe.com/img/product/tft-board-3-resistive/tft-board-3-resistive-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/cap-touch-5-click
   - https://www.mikroe.com/tft-board-3-resistive
-  repositories: []
-name: MIKROE-3786
-ref: mikroe/mikroe-3786
-release_date: null
-sku: mikroe-3786
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/cap-touch-5-click/cap-touch-5-click-home_default-1.jpg?v=100
+  - https://cdn1-shop.mikroe.com/img/product/tft-board-3-resistive/tft-board-3-resistive-home_default-1.jpg?v=100

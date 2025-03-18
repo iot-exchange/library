@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: rp2350-eth
+ref: waveshare/rp2350-eth
+vendor: waveshare
+sku: rp2350-eth
+name: RP2350-ETH
 description: Waveshare RP2350-ETH Mini Development Board, RP2350 Ethernet Port Module,
   Raspberry Pi Microcontroller Development Board, Based on Official RP2350 Microcontroller
+status: ''
 extra:
   Price: $12.31 - $12.99
   SKU: '29266'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2350-eth-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/rp2350-eth.htm
   - https://www.waveshare.com/product/rp2350-eth.htm "Waveshare RP2350-ETH Mini Development
     Board, RP2350 Ethernet Port Module, Raspberry Pi Microcontroller Development Board,
     Based on Official RP2350 Microcontroller"
-  repositories: []
-name: RP2350-ETH
-ref: waveshare/rp2350-eth
-release_date: null
-sku: rp2350-eth
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/r/p/rp2350-eth-1.jpg

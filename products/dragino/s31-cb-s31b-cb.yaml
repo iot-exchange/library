@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: s31-cb-s31b-cb
+ref: dragino/s31-cb-s31b-cb
+vendor: dragino
+sku: s31-cb-s31b-cb
+name: S31-CB/S31B-CB
 description: NB-IoT/LTE-M Outdoor Temperature and Humidity Sensor. Monitor environment
   temperature and relative air humidity.
+status: ''
 extra:
   Bands: B1/B2/B3/B4/B5/B8/B12/B13/B17/B18/B19/B20/B25/B28/B66/B70/B85
   Uplink: MQTT, MQTTs, TCP, UDP or CoAP
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/ee760d1c1474fde7f8f71a96b2452e29_L.jpg
-  models: []
   products:
   - https://dragino.com/products/temperature-humidity-sensor/item/336-s31-cb-s31b-cb.html
-  repositories: []
-name: S31-CB/S31B-CB
-ref: dragino/s31-cb-s31b-cb
-release_date: null
-sku: s31-cb-s31b-cb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/ee760d1c1474fde7f8f71a96b2452e29_L.jpg

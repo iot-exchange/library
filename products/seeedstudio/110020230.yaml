@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: '110020230'
+ref: seeedstudio/110020230
+vendor: seeedstudio
+sku: '110020230'
+name: '110020230'
 description: "Grove Creator Kit - \u03B3 / 40 Grove functional modules in one box,\
   \ cost-effective, free&detailed tutorials, beginner-friendly, project-helper"
+status: OUT OF STOCK
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products:
+  - "https://www.seeedstudio.com/Grove-Creator-Kit-\u03B3-p-110020230.html"
   images:
   - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/1/110020230_grove_creator_kit-r_feature-11-min.png
   - https://www.seeedstudio.com/img/x
-  models: []
-  products:
-  - "https://www.seeedstudio.com/Grove-Creator-Kit-\u03B3-p-110020230.html"
-  repositories: []
-name: '110020230'
-ref: seeedstudio/110020230
-release_date: null
-sku: '110020230'
-spec: null
-status: OUT OF STOCK
-vendor: seeedstudio

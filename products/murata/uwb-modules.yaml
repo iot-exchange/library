@@ -1,19 +1,12 @@
-alternatives: []
-certifications: []
+id: uwb-modules
+ref: murata/uwb-modules
+vendor: murata
+sku: uwb-modules
+name: UWB Modules
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/products/connectivitymodule/ultra-wide-band
-  repositories: []
-name: UWB Modules
-ref: murata/uwb-modules
-release_date: null
-sku: uwb-modules
-spec: null
-status: ''
-vendor: murata
+  images: []

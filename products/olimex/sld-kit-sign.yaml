@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: sld-kit-sign
+ref: olimex/sld-kit-sign
+vendor: olimex
+sku: sld-kit-sign
+name: SLD-KIT-SIGN
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Soldering-Kits/Intermediate/SLD-KIT-SIGN/images/thumbs/200x150/SLD-KIT-SIGN-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Soldering-Kits/Intermediate/SLD-KIT-SIGN/
-  repositories: []
-name: SLD-KIT-SIGN
-ref: olimex/sld-kit-sign
-release_date: null
-sku: sld-kit-sign
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Soldering-Kits/Intermediate/SLD-KIT-SIGN/images/thumbs/200x150/SLD-KIT-SIGN-1.jpg

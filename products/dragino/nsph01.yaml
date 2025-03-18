@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: nsph01
+ref: dragino/nsph01
+vendor: dragino
+sku: nsph01
+name: NSPH01
 description: 'NB-IoT Soil pH SensorNB-IoT Bands: B1/B3/B8/B5/B20/B28 @H-FDDMonitor
   soil pH with temperature compensation.Monitor soil temperatureUltra Low Power ConsumptionMicro
   SIM card slot for NB-IoT SIM'
+status: ''
 extra:
   NB-IoT Bands: B1/B3/B8/B5/B20/B28
   Power Consumption: Ultra Low
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/475699d297afae315ef802312426354e_L.jpg
-  models: []
   products:
   - https://dragino.com/products/agriculture-weather-station/item/235-nsph01.html
-  repositories: []
-name: NSPH01
-ref: dragino/nsph01
-release_date: null
-sku: nsph01
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/475699d297afae315ef802312426354e_L.jpg

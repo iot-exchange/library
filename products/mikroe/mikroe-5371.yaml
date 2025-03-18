@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5371
+ref: mikroe/mikroe-5371
+vendor: mikroe
+sku: mikroe-5371
+name: MIKROE-5371
 description: SiBRAIN is a standardized microcontroller add-on board, which allows
   very simple installation and replacement of the microcontroller unit (MCU) on a
   development board equipped with the SiBRAIN Card socket. By introducing the new
   SiBRAIN standard, we have ensured the absolute compatibility between the development
   board and any of the supported MCUs,...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/sibrain-for-atmega6450/sibrain-for-atmega6450-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/sibrain-for-atmega6450
-  repositories: []
-name: MIKROE-5371
-ref: mikroe/mikroe-5371
-release_date: null
-sku: mikroe-5371
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/sibrain-for-atmega6450/sibrain-for-atmega6450-home_default-1.jpg?v=100

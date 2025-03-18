@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: 5g-rg620t-series
+ref: quectel/5g-rg620t-series
+vendor: quectel
+sku: 5g-rg620t-series
+name: 5G RG620T series
 description: 2.2GHz CPU  5G  GNSS  LTE Cat 19  NSA  Quad-core  SA  TM9
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.quectel.com/content/uploads/2024/03/RG620T_Layered.png
-  models: []
   products:
   - https://www.quectel.com/product/5g-rg620t-series/
-  repositories: []
-name: 5G RG620T series
-ref: quectel/5g-rg620t-series
-release_date: null
-sku: 5g-rg620t-series
-spec: null
-status: ''
-vendor: quectel
+  images:
+  - https://www.quectel.com/content/uploads/2024/03/RG620T_Layered.png

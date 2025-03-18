@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: solar-power-manager-c-en
+ref: waveshare/solar-power-manager-c-en
+vendor: waveshare
+sku: solar-power-manager-c-en
+name: Solar Power Manager (C) (EN)
 description: Solar Power Manager (C), Supports 3x 18650 Batteries, Multi Protection
   Circuits
+status: ''
 extra:
   Price: $20.63  -  $21.99
   SKU: '20909'
   price: $20.63  -  $21.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/o/solar-power-manager-c-2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/solar-power-manager-c.htm
-  repositories: []
-name: Solar Power Manager (C) (EN)
-ref: waveshare/solar-power-manager-c-en
-release_date: null
-sku: solar-power-manager-c-en
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/o/solar-power-manager-c-2.jpg

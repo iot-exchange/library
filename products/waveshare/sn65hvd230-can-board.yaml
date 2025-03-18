@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: sn65hvd230-can-board
+ref: waveshare/sn65hvd230-can-board
+vendor: waveshare
+sku: sn65hvd230-can-board
+name: SN65HVD230 CAN Board
 description: $4.29  -  $4.99
+status: ''
 extra:
   Part No.: SN65HVD230 CAN Board
   SKU: '3945'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/n/sn65hvd230-can-board_l_1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/sn65hvd230-can-board.htm
-  repositories: []
-name: SN65HVD230 CAN Board
-ref: waveshare/sn65hvd230-can-board
-release_date: null
-sku: sn65hvd230-can-board
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/n/sn65hvd230-can-board_l_1_5.jpg

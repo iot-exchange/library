@@ -1,5 +1,8 @@
-alternatives: []
-certifications: []
+id: '114993553'
+ref: seeedstudio/114993553
+vendor: seeedstudio
+sku: '114993553'
+name: '114993553'
 description: "reComputer Mini J4012 with extension is a tiny AI computer powered by\
   \ NVIDIA\xAE Jetson Orin\u2122 NX 16GB module, delivering up to 100 TOPS AI performance.\
   \ It\u2018s equipped with PCIe port at the bottom to provide rich expansion capabilities,\
@@ -7,21 +10,11 @@ description: "reComputer Mini J4012 with extension is a tiny AI computer powered
   \ The whole system is designed for embedding into autonomous machines such as drones,\
   \ patrol robots, delivering robots, etc. It can directly occupy 54V DC input, able\
   \ to be widely used in battery powered systems."
+status: ''
 extra:
   Price: $999.00
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-recomputer-mini-j30or40_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/reComputer-Mini-J4012-with-Extension-p-6353.html
-  repositories: []
-name: '114993553'
-ref: seeedstudio/114993553
-release_date: null
-sku: '114993553'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-recomputer-mini-j30or40_1.jpg

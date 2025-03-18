@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: lht65n-vib
+ref: dragino/lht65n-vib
+vendor: dragino
+sku: lht65n-vib
+name: LHT65N-VIB
 description: 'LoRaWAN v1.0.3 Class A protocolBands: CN470/EU433/KR920/US915/EU868/AS923/AU915Detecting
   object vibration statusDetect vibration alarm3-axis accelerator for x,y,zCalcula
   device runtimeBuilt-in Temperature & Humidity sensorBuilt-in 2400mAh battery for
   long time use'
+status: ''
 extra:
   Catalog: LoRa / LoRaWAN End Node
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/f9a9b7c9f33a923e5475b478a62125ae_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lora-lorawan-end-node/item/350-lht65n-vib.html
-  repositories: []
-name: LHT65N-VIB
-ref: dragino/lht65n-vib
-release_date: null
-sku: lht65n-vib
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/f9a9b7c9f33a923e5475b478a62125ae_L.jpg

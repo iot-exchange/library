@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: pic-p28-usb
+ref: olimex/pic-p28-usb
+vendor: olimex
+sku: pic-p28-usb
+name: PIC-P28-USB
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/PIC/Proto/PIC-P28-USB/images/thumbs/200x150/PIC-P28-USB-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/PIC/Proto/PIC-P28-USB/
-  repositories: []
-name: PIC-P28-USB
-ref: olimex/pic-p28-usb
-release_date: null
-sku: pic-p28-usb
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/PIC/Proto/PIC-P28-USB/images/thumbs/200x150/PIC-P28-USB-1.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: imx290-83-ir-cut-camera
+ref: waveshare/imx290-83-ir-cut-camera
+vendor: waveshare
+sku: imx290-83-ir-cut-camera
+name: IMX290-83 IR-CUT Camera
 description: IMX290-83 IR-CUT Camera, Starlight Camera Sensor, Fixed-Focus, 2MP
+status: ''
 extra:
   Price: $28.97 - $29.99
   SKU: '22025'
   price: $28.97 - $29.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx290-83-ir-cut-camera-1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/imx290-83-ir-cut-camera.htm
-  repositories: []
-name: IMX290-83 IR-CUT Camera
-ref: waveshare/imx290-83-ir-cut-camera
-release_date: null
-sku: imx290-83-ir-cut-camera
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/i/m/imx290-83-ir-cut-camera-1_2.jpg

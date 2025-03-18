@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: lht65-lorawan-temperature-humidity-sensor
+ref: dragino/lht65-lorawan-temperature-humidity-sensor
+vendor: dragino
+sku: lht65-lorawan-temperature-humidity-sensor
+name: LHT65 -- LoRaWAN Temperature & Humidity Sensor
 description: LoRaWAN Temperature & Humidity sensor, Built-in 2400mAh battery, Monitor
   Internal and External Temperature, Humidity
+status: ''
 extra:
   Bands: EU433,CN470,EU868,IN865,KR920,AS923,AU915,US915
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/7293a47c0f4cdddd46ff10bcf3d23287_L.jpg
-  models: []
   products:
   - https://dragino.com/products/temperature-humidity-sensor/item/151-lht65.html
-  repositories: []
-name: LHT65 -- LoRaWAN Temperature & Humidity Sensor
-ref: dragino/lht65-lorawan-temperature-humidity-sensor
-release_date: null
-sku: lht65-lorawan-temperature-humidity-sensor
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/7293a47c0f4cdddd46ff10bcf3d23287_L.jpg

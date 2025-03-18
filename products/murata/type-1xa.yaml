@@ -1,34 +1,11 @@
-alternatives: []
-certifications: []
+id: type-1xa
+ref: murata/type-1xa
+vendor: murata
+sku: type-1xa
+name: Type 1XA
 description: Wi-Fi and Bluetooth module for consumer and industrial equipment.
+status: ''
 extra:
-  Additional Info: ''
-  Bluetooth: 'Yes'
-  Certification: 'Yes'
-  Chip: CYW54591
-  Current Consumption: 370 mA @ 11b (2.4GHz)
-  Dimensions: 11.4 x 8.9 x 1.4 mm
-  Enclosure: Shielded Resin
-  Frequency: 2.4GHz, 5GHz
-  I/O Voltage: 'Yes'
-  Interfaces: PCIe, UART, PCM/I2S
-  Manufacturer: Infineon
-  Market: Consumer
-  Material: Shielded Resin
-  Mounting Type: SMT
-  Operating Temperature: "-40\u2103 to 85\u2103"
-  Packaging: Tape and Reel
-  Power Consumption: 370 mA @ 11b (2.4GHz), 330 mA @ 11g (2.4GHz), 330 mA @ 11n (2.4GHz),
-    400 mA @ 11a (5GHz), 410 mA @ 11n (5GHz), 440 mA @ 11ac (5GHz)
-  Processor: 'No'
-  SDK: Linux,i.MX Yocto,JETPACK SDK
-  Sleep Current: 100 mA @ 11b (2.4GHz)
-  Status: 'Yes'
-  Target Market: Consumer
-  Temperature Range: "-40\u2103 to 85\u2103"
-  Voltage: 1.8V,3.3V
-  Voltage Range: 1.8V,3.3V
-  Wi-Fi: 'Yes'
   dimensions: 11.4 x 8.9 x 1.4 mm
   idleCurrent: 100 mA @ 11b (2.4GHz), 100 mA @ 11g (2.4GHz), 100 mA @ 11n (2.4GHz),
     120 mA @ 11a (5GHz), 140 mA @ 11n (5GHz), 180 mA @ 11ac (5GHz)
@@ -38,17 +15,33 @@ extra:
   processor: Linux,i.MX Yocto,JETPACK SDK
   temperatureRange: "-40\u2103 to 85\u2103"
   voltage: 1.8V,3.3V
+  Bluetooth: 'Yes'
+  Chip: CYW54591
+  Dimensions: 11.4 x 8.9 x 1.4 mm
+  Enclosure: Shielded Resin
+  Frequency: 2.4GHz, 5GHz
+  Interfaces: PCIe, UART, PCM/I2S
+  Manufacturer: Infineon
+  Market: Consumer
+  Mounting Type: SMT
+  Packaging: Tape and Reel
+  Power Consumption: 370 mA @ 11b (2.4GHz), 330 mA @ 11g (2.4GHz), 330 mA @ 11n (2.4GHz),
+    400 mA @ 11a (5GHz), 410 mA @ 11n (5GHz), 440 mA @ 11ac (5GHz)
+  Processor: 'No'
+  SDK: Linux,i.MX Yocto,JETPACK SDK
+  Sleep Current: 100 mA @ 11b (2.4GHz)
+  Temperature Range: "-40\u2103 to 85\u2103"
+  Voltage: 1.8V,3.3V
+  Wi-Fi: 'Yes'
+  Additional Info: ''
+  Certification: 'Yes'
+  Current Consumption: 370 mA @ 11b (2.4GHz)
+  I/O Voltage: 'Yes'
+  Material: Shielded Resin
+  Operating Temperature: "-40\u2103 to 85\u2103"
+  Status: 'Yes'
+  Target Market: Consumer
+  Voltage Range: 1.8V,3.3V
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: Type 1XA
-ref: murata/type-1xa
-release_date: null
-sku: type-1xa
-spec: null
-status: ''
-vendor: murata
+  images: []

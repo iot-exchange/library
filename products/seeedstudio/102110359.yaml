@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '102110359'
+ref: seeedstudio/102110359
+vendor: seeedstudio
+sku: '102110359'
+name: '102110359'
 description: Raspberry Pi Zero WH, WiFi/Bluetooth 4.1, Bluetooth Low Energy, HAT compatible
   40-pin header, CSI camera connector, USRT, SPI, I2C, with headers Raspberry Pi Zero
   WH is a mini Linux development board with Bluetooth/wifi function, which has almost
   the same function as Raspberry Pi.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102110359--raspberry-pi-zero-wh-font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Raspberry-Pi-Zero-WH-p-4401.html
-  repositories: []
-name: '102110359'
-ref: seeedstudio/102110359
-release_date: null
-sku: '102110359'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102110359--raspberry-pi-zero-wh-font.jpg

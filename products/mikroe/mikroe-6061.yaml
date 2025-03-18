@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6061
+ref: mikroe/mikroe-6061
+vendor: mikroe
+sku: mikroe-6061
+name: MIKROE-6061
 description: Boost 11 Click is a compact add-on board that boosts low input voltages
   to a stable output. This board features the XCL105B331H2-G, a synchronous step-up
   DC/DC converter from TOREX Semi. It operates from an input voltage as low as 0.9V,
   ideal for devices using single Alkaline or Nickel-metal hydride batteries, with
   an output fixed at 3.3V. It features an...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/boost-11-click/boost-11-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/boost-11-click
-  repositories: []
-name: MIKROE-6061
-ref: mikroe/mikroe-6061
-release_date: null
-sku: mikroe-6061
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/boost-11-click/boost-11-click-home_default-1.jpg?v=100

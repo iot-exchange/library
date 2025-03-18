@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3870
+ref: mikroe/mikroe-3870
+vendor: mikroe
+sku: mikroe-3870
+name: MIKROE-3870
 description: "The Dual LIN click is a Click board\u2122 based on the TLE7268SKXUMA1,\
   \ a Dual LIN transceiver from Infineon. Given the features included in this transceiver,\
   \ the Dual LIN transceiver designed for data transmission rates up to 20 kbps being\
   \ fully compliant to the ISO17987-4, LIN specification 2.2A and SAE J2602 standards.\
   \ The Dual LIN click is supported by a..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/dual-lin-click/dual-lin-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/dual-lin-click "Dual LIN Click"
-  repositories: []
-name: MIKROE-3870
-ref: mikroe/mikroe-3870
-release_date: null
-sku: mikroe-3870
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/dual-lin-click/dual-lin-click-home_default-1.jpg?v=100

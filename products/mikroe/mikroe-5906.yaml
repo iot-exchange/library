@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-5906
+ref: mikroe/mikroe-5906
+vendor: mikroe
+sku: mikroe-5906
+name: MIKROE-5906
 description: LTE Cat.1 2 Click (EU) is a compact add-on board that provides your application
   with complete LTE and VoLTE with CSFB functionalities. This board features the ELS62-E,
   a single antenna LTE cat.1bis module from Thales.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/lte-cat1-2-click-for-eu/lte-cat1-2-click-for-eu-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/lte-cat1-2-click-for-eu
-  repositories: []
-name: MIKROE-5906
-ref: mikroe/mikroe-5906
-release_date: null
-sku: mikroe-5906
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/lte-cat1-2-click-for-eu/lte-cat1-2-click-for-eu-home_default-1.jpg?v=100

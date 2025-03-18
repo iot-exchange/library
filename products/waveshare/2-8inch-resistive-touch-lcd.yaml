@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: 2-8inch-resistive-touch-lcd
+ref: waveshare/2-8inch-resistive-touch-lcd
+vendor: waveshare
+sku: 2-8inch-resistive-touch-lcd
+name: 2.8inch Resistive Touch LCD
 description: "2.8inch Resistive Touch LCD, 320\xD7240"
+status: ''
 extra:
   Price: $12.95 - $14.99
   SKU: '16446'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.8inch-resistive-touch-lcd-6.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/2.8inch-resistive-touch-lcd.htm
-  repositories: []
-name: 2.8inch Resistive Touch LCD
-ref: waveshare/2-8inch-resistive-touch-lcd
-release_date: null
-sku: 2-8inch-resistive-touch-lcd
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/_/2.8inch-resistive-touch-lcd-6.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: stlink-v3set
+ref: waveshare/stlink-v3set
+vendor: waveshare
+sku: stlink-v3set
+name: STLINK-V3SET
 description: STLINK-V3SET, modular debugger / programmer for STM32 / STM8
+status: ''
 extra:
   Price: $60.99 - $62.99
   SKU: '15880'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/stlink-v3set-intro-en.jpg
-  models: []
   products:
   - https://www.waveshare.com/stlink-v3set.htm
   - https://www.waveshare.com/stlink-v3set.htm "STLINK-V3SET, modular debugger / programmer
     for STM32 / STM8"
-  repositories: []
-name: STLINK-V3SET
-ref: waveshare/stlink-v3set
-release_date: null
-sku: stlink-v3set
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/t/stlink-v3set-intro-en.jpg

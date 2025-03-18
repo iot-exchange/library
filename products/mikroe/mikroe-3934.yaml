@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3934
+ref: mikroe/mikroe-3934
+vendor: mikroe
+sku: mikroe-3934
+name: MIKROE-3934
 description: "6DOF IMU 10 Click is a 6 Degrees-of-Freedom inertial sensor module,\
   \ that features KMX62 sensor which consist of tri-axial magnetometer (range \xB1\
   2g / \xB14g / \xB18g / \xB116g) plus a triaxial accelerometer (\xB11200\xB5T). The\
   \ accelerometer and magnetometer data can be accumulated in an internal 384-byte\
   \ FIFO buffer and transmitted to the application Processor. This..."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/6dof-imu-10-click/6dof-imu-10-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/6dof-imu-10-click
-  repositories: []
-name: MIKROE-3934
-ref: mikroe/mikroe-3934
-release_date: null
-sku: mikroe-3934
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/6dof-imu-10-click/6dof-imu-10-click-home_default-1.jpg?v=100

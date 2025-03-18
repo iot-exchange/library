@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 1-54
+ref: microchip/1-54
+vendor: microchip
+sku: 1-54
+name: '1.54'
 description: Cortex-M0+
+status: ''
 extra:
   CAN-FD: 'No'
   GPIO: '4'
@@ -10,16 +14,5 @@ extra:
   Temperature Range: '-40'
   Voltage: '3.63'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: '1.54'
-ref: microchip/1-54
-release_date: null
-sku: 1-54
-spec: null
-status: ''
-vendor: microchip
+  images: []

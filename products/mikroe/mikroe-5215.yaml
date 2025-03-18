@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-5215
+ref: mikroe/mikroe-5215
+vendor: mikroe
+sku: mikroe-5215
+name: MIKROE-5215
 description: This one is for all Planet Debug users but also people who love to wear
   fun colors. It is this beautiful turquoise blue color with the large Planet Debug
   logo on the front and the Mikroe logo on the left sleeve. We can say that these
   T-shirts are one of the favorites among our colleagues - you can catch a lot of
   us wearing them to work. FEMALE SIZES...
+status: Unavailable
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/planet-debug-t-shirt/planet-debug-t-shirt-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/planet-debug-t-shirt
-  repositories: []
-name: MIKROE-5215
-ref: mikroe/mikroe-5215
-release_date: null
-sku: mikroe-5215
-spec: null
-status: Unavailable
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/planet-debug-t-shirt/planet-debug-t-shirt-home_default-1.jpg?v=100

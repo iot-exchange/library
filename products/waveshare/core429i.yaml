@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: core429i
+ref: waveshare/core429i
+vendor: waveshare
+sku: core429i
+name: Core429I
 description: Core429I, STM32F4 Core Board
+status: ''
 extra:
   Price: $27.27 - $29.99
   SKU: '9116'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.waveshare.com/product/core429i.htm
-  repositories: []
-name: Core429I
-ref: waveshare/core429i
-release_date: null
-sku: core429i
-spec: null
-status: ''
-vendor: waveshare
+  images: []

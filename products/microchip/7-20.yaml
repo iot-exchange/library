@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 7-20
+ref: microchip/7-20
+vendor: microchip
+sku: 7-20
+name: '7.20'
 description: Cortex-M4F
+status: ''
 extra:
   BOR: 'Yes'
   CAN-FD: Full Speed
@@ -37,16 +41,5 @@ extra:
   VSS: '12'
   VSSIO: '2'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: '7.20'
-ref: microchip/7-20
-release_date: null
-sku: 7-20
-spec: null
-status: ''
-vendor: microchip
+  images: []

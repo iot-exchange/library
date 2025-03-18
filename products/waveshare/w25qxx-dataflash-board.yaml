@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: w25qxx-dataflash-board
+ref: waveshare/w25qxx-dataflash-board
+vendor: waveshare
+sku: w25qxx-dataflash-board
+name: W25QXX DataFlash Board
 description: ''
+status: ''
 extra:
   Price: $6.09 - $6.99
   SKU: '11437'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/2/w25qxx-dataflash-board-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/w25qxx-dataflash-board.htm
-  repositories: []
-name: W25QXX DataFlash Board
-ref: waveshare/w25qxx-dataflash-board
-release_date: null
-sku: w25qxx-dataflash-board
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/w/2/w25qxx-dataflash-board-1.jpg

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: picogo
+ref: waveshare/picogo
+vendor: waveshare
+sku: picogo
+name: picogo
 description: PicoGo Mobile Robot, Based on Raspberry Pi Pico, Self Driving, Remote
   Control
+status: ''
 extra:
   Multi Options: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/picogo-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/picogo.htm
-  repositories: []
-name: picogo
-ref: waveshare/picogo
-release_date: null
-sku: picogo
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/picogo-1.jpg

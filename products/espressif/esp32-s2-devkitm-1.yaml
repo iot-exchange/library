@@ -1,7 +1,11 @@
-alternatives: []
-certifications: []
+id: esp32-s2-devkitm-1
+ref: espressif/esp32-s2-devkitm-1
+vendor: espressif
+sku: esp32-s2-devkitm-1
+name: ESP32-S2-DevKitM-1
 description: ESP32-S2-DevKitM-1 is an entry-level development board based on ESP32-S2-MINI
   series. It has all the ESP32-S2 pins exposed and is easy to connect and use.
+status: ''
 extra:
   Flash: 4 MB
   Interfaces: I/O USB
@@ -10,18 +14,7 @@ extra:
   UI: Buttons, LEDs
   User Guide: https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32s2/esp32-s2-devkitm-1/index.html
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.espressif.com/sites/default/files/dev-board/ESP32-S2-DevKitM-1%20small_0.png
-  models: []
   products:
   - https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32s2/esp32-s2-devkitm-1/index.html
-  repositories: []
-name: ESP32-S2-DevKitM-1
-ref: espressif/esp32-s2-devkitm-1
-release_date: null
-sku: esp32-s2-devkitm-1
-spec: null
-status: ''
-vendor: espressif
+  images:
+  - https://www.espressif.com/sites/default/files/dev-board/ESP32-S2-DevKitM-1%20small_0.png

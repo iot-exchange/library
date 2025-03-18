@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: stm32wl54jc
+ref: st/stm32wl54jc
+vendor: st
+sku: stm32wl54jc
+name: STM32WL54JC
 description: Sub-GHz Wireless Microcontrollers. Dual-core Arm Cortex-M4/M0+ @48 MHz
   with 256 Kbytes of Flash memory, 64 Kbytes of SRAM. (G)FSK, (G)MSK, BPSK modulations.
   AES 256-bit. Multiprotocol System-on-Chip.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.st.com/en/microcontrollers-microprocessors/stm32wl54jc.html
-  repositories: []
-name: STM32WL54JC
-ref: st/stm32wl54jc
-release_date: null
-sku: stm32wl54jc
-spec: null
-status: ''
-vendor: st
+  images: []

@@ -1,0 +1,12 @@
+id: mcan-4-sg-box
+ref: microcontrol/mcan-4-sg-box
+vendor: microcontrol
+sku: mcan-4-sg-box
+name: "\xB5CAN.4.sg-BOX"
+description: 4-channel analogue input strain gauge
+status: ''
+extra: {}
+links:
+  products: []
+  images:
+  - https://www.microcontrol.net/wp-content/uploads/2021/08/Box_4.ai_xi_ao_sg_ti.png

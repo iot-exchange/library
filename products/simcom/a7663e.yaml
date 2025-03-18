@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: a7663e
+ref: simcom/a7663e
+vendor: simcom
+sku: a7663e
+name: A7663E
 description: ''
+status: ''
 extra:
   FOTA: ''
   GNSS: ''
   LTE Cat.1: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.simcom.com/Uploads/image/20240523/664f14a888791.png
-  models: []
   products:
   - https://www.simcom.com/product/A7663E.html
-  repositories: []
-name: A7663E
-ref: simcom/a7663e
-release_date: null
-sku: a7663e
-spec: null
-status: ''
-vendor: simcom
+  images:
+  - https://www.simcom.com/Uploads/image/20240523/664f14a888791.png

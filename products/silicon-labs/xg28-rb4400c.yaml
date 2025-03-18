@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: xg28-rb4400c
+ref: silicon-labs/xg28-rb4400c
+vendor: silicon-labs
+sku: xg28-rb4400c
+name: xG28-RB4400C
 description: ''
+status: ''
 extra:
   Bluetooth 5: "\u2714"
   Bluetooth Mesh: "\u2714"
@@ -10,17 +14,6 @@ extra:
   RAM (kB): '256'
   Wi-SUN: "\u2714"
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/xg28-rb4400c-efr32xg28-2-4-ghz-ble-and-14-dbm-radio-board
-  repositories: []
-name: xG28-RB4400C
-ref: silicon-labs/xg28-rb4400c
-release_date: null
-sku: xg28-rb4400c
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

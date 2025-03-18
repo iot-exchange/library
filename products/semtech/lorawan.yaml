@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: lorawan
+ref: semtech/lorawan
+vendor: semtech
+sku: lorawan
+name: LoRaWAN
 description: "LoRaWAN\xAE is highlighted for its role in fighting wildfires and combating\
   \ climate change."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
+  products: []
   images:
   - https://blog.semtech.com/hubfs/LoRa-BLOG-Wildfire%20Prevention-1400x600.jpg
-  models: []
-  products: []
-  repositories: []
-name: LoRaWAN
-ref: semtech/lorawan
-release_date: null
-sku: lorawan
-spec: null
-status: ''
-vendor: semtech

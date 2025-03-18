@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: 2-ch-can-minipcie
+ref: waveshare/2-ch-can-minipcie
+vendor: waveshare
+sku: 2-ch-can-minipcie
+name: 2-CH CAN MiniPCIe
 description: MiniPCIe interface to 2-CH CAN Card, Supports Decoding And Analyzing
   Function of Multiple CAN Protocols, High-performance Hardware Solution
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/-/2-ch-can-minipcie-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/2-ch-can-minipcie.htm
-  repositories: []
-name: 2-CH CAN MiniPCIe
-ref: waveshare/2-ch-can-minipcie
-release_date: null
-sku: 2-ch-can-minipcie
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/2/-/2-ch-can-minipcie-1.jpg

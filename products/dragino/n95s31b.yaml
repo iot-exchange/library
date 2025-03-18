@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: n95s31b
+ref: dragino/n95s31b
+vendor: dragino
+sku: n95s31b
+name: N95S31B
 description: 'NB-IoT Outdoor Temperature and Humidity Sensor NB Bands: B1/B3/B8/B5/B20/B28
   Ultra Low Power Consumption'
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/fe392f78a62c6fc460cf8c2a182b395f_L.jpg
-  models: []
   products:
   - https://dragino.com/products/temperature-humidity-sensor/item/190-n95s31b.html
-  repositories: []
-name: N95S31B
-ref: dragino/n95s31b
-release_date: null
-sku: n95s31b
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/fe392f78a62c6fc460cf8c2a182b395f_L.jpg

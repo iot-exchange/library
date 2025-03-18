@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: srm815
+ref: meig-smart/srm815
+vendor: meig-smart
+sku: srm815
+name: SRM815
 description: 5G NR Sub-6GHz MiniPCIe Packaging Module
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://en.meigsmart.com/userfiles/images/2021/07/31/2021073111144026.png
-  - https://en.meigsmart.com/userfiles/images/2021/07/31/2021073111167118.png
-  - https://en.meigsmart.com/userfiles/images/2022/08/09/2022080919597439.png
-  models: []
   products:
   - https://en.meigsmart.com/productdetail/5g-module-srm815.html
   - https://en.meigsmart.com/productdetail/5g-srm815-module-m.2.html
   - https://en.meigsmart.com/productdetail/5g-srm815-module-mini-pcie.html
-  repositories: []
-name: SRM815
-ref: meig-smart/srm815
-release_date: null
-sku: srm815
-spec: null
-status: ''
-vendor: meig-smart
+  images:
+  - https://en.meigsmart.com/userfiles/images/2021/07/31/2021073111144026.png
+  - https://en.meigsmart.com/userfiles/images/2021/07/31/2021073111167118.png
+  - https://en.meigsmart.com/userfiles/images/2022/08/09/2022080919597439.png

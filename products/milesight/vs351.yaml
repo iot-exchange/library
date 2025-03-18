@@ -1,0 +1,13 @@
+id: vs351
+ref: milesight/vs351
+vendor: milesight
+sku: vs351
+name: VS351
+description: Mini AI Thermopile People Counter
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.milesight.com/iot/product/lorawan-sensor/vs351
+  images:
+  - https://www.milesight.com/static/pc/en/iot/index/lorawan-sensor/occupancy-people-counting-series/mini-ai-thermopile-people-counter-vs351.png?t=1742198585390

@@ -1,0 +1,13 @@
+id: onethinx-devkit-us-version
+ref: onethinx/onethinx-devkit-us-version
+vendor: onethinx
+sku: onethinx-devkit-us-version
+name: Onethinx Devkit US Version
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://shop.onethinx.com/products/onethinx-sample-us-version
+  images:
+  - https://shop.onethinx.com/cdn/shop/files/EU_VERSION-2.png?v=1727117544&width=533

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: crocodile-clamp
+ref: olimex/crocodile-clamp
+vendor: olimex
+sku: crocodile-clamp
+name: CROCODILE-CLAMP
 description: ''
+status: ''
 extra:
   discountedPrice1: 0.18 EUR
   discountedPrice2: 0.16 EUR
   price: 0.20 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Components/Misc/CROCODILE-CLAMP/images/thumbs/200x150/CROCODILE-CLAMP.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Components/Misc/CROCODILE-CLAMP/
-  repositories: []
-name: CROCODILE-CLAMP
-ref: olimex/crocodile-clamp
-release_date: null
-sku: crocodile-clamp
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Components/Misc/CROCODILE-CLAMP/images/thumbs/200x150/CROCODILE-CLAMP.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: v5-4
+ref: ezurio/v5-4
+vendor: ezurio
+sku: v5-4
+name: v5.4
 description: LE GATT Security Levels Characteristic - Devices may now indicate the
   security mode and level required for all their GATT functionality.
+status: ''
 extra:
   Use Case: Beacons & location/tracking services.
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: v5.4
-ref: ezurio/v5-4
-release_date: null
-sku: v5-4
-spec: null
-status: ''
-vendor: ezurio
+  images: []

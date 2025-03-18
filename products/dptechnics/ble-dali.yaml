@@ -1,0 +1,18 @@
+id: ble-dali
+ref: dptechnics/ble-dali
+vendor: dptechnics
+sku: ble-dali
+name: BLE-DALI
+description: Bluetooth Mesh DALI module that allows attachment of any DALI driver/luminar
+  to the Bluetooth Mesh.
+status: Available soon
+extra:
+  Bluetooth Version: 5 Mesh
+  Chip: Nordic nRF52832
+  Embedded Sensors: Humidity and temperature sensors
+  Gateway Capacity: More than 1000 lights
+  Sensor Extension Port: 'Yes'
+links:
+  products: []
+  images:
+  - https://www.dptechnics.com/images/product/ble-dali.jpg

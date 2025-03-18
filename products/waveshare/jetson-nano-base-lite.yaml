@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: jetson-nano-base-lite
+ref: waveshare/jetson-nano-base-lite
+vendor: waveshare
+sku: jetson-nano-base-lite
+name: jetson_nano_base_lite
 description: Jetson Nano Development / Expansion Kit Lite Version, Optional Jetson
   Nano Core Module
+status: ''
 extra:
   Multi Options: ''
   Price: $59.99 - $234.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-nano-lite-dev-kit-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/jetson-nano-lite-dev-kit.htm
-  repositories: []
-name: jetson_nano_base_lite
-ref: waveshare/jetson-nano-base-lite
-release_date: null
-sku: jetson-nano-base-lite
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/j/e/jetson-nano-lite-dev-kit-1.jpg

@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6461
+ref: mikroe/mikroe-6461
+vendor: mikroe
+sku: mikroe-6461
+name: MIKROE-6461
 description: ATA6501 Click is a compact add-on board for high-speed CAN FD communication
   in automotive and industrial applications. This board features the ATA6501, a fully
   integrated CAN FD System Basis Chip (SBC) from Microchip, meeting Grade 0 AEC-Q100
   standards. It supports both Classical CAN and CAN FD protocols with data rates up
   to 5Mbit/s and features an...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/ata6501-click/ata6501-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/ata6501-click
-  repositories: []
-name: MIKROE-6461
-ref: mikroe/mikroe-6461
-release_date: null
-sku: mikroe-6461
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/ata6501-click/ata6501-click-home_default-1.jpg?v=100

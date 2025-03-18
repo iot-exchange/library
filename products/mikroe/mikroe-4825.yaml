@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4825
+ref: mikroe/mikroe-4825
+vendor: mikroe
+sku: mikroe-4825
+name: MIKROE-4825
 description: Vibro Motor 4 Click is a compact add-on board that makes an ideal solution
   for adding simple haptic feedback in any design. This board features the VG1040003D,
   a coin-sized linear resonant actuator (LRA) that generates vibration/haptic feedback
   from Vybronics. Driven by a flexible Haptic/Vibra driver, the DRV2605, VG1040003D
   vibrates in the Z-axis, which...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/vibro-motor-4-click/vibro-motor-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/vibro-motor-4-click
-  repositories: []
-name: MIKROE-4825
-ref: mikroe/mikroe-4825
-release_date: null
-sku: mikroe-4825
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/vibro-motor-4-click/vibro-motor-4-click-home_default-1.jpg?v=100

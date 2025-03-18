@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: bicolor-case-for-7inch-lcd
+ref: waveshare/bicolor-case-for-7inch-lcd
+vendor: waveshare
+sku: bicolor-case-for-7inch-lcd
+name: Bicolor Case for 7inch LCD
 description: Bicolor Case for 7inch LCD
+status: ''
 extra:
   Price: $5.89 - $6.49
   SKU: '11301'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/i/7inch-hdmi-lcd-bicolor-holder-1_5.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/bicolor-case-for-7inch-lcd.htm
-  repositories: []
-name: Bicolor Case for 7inch LCD
-ref: waveshare/bicolor-case-for-7inch-lcd
-release_date: null
-sku: bicolor-case-for-7inch-lcd
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/7/i/7inch-hdmi-lcd-bicolor-holder-1_5.jpg

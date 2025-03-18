@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-4352
+ref: mikroe/mikroe-4352
+vendor: mikroe
+sku: mikroe-4352
+name: MIKROE-4352
 description: Driver 2 Click is a compact add-on board that contains a gate driver
   with a level-shift technology with an additional Shutdown function. This board features
   the IR2104S, a high voltage, high-speed power MOSFET and IGBT driver with typical
   0.21 A source and 0.36 A sink currents and independent high and low side referenced
   output channels from Infineon...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/driver-2-click/driver-2-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/driver-2-click
-  repositories: []
-name: MIKROE-4352
-ref: mikroe/mikroe-4352
-release_date: null
-sku: mikroe-4352
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/driver-2-click/driver-2-click-home_default-1.jpg?v=100

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: nb-iot-bc66
+ref: olimex/nb-iot-bc66
+vendor: olimex
+sku: nb-iot-bc66
+name: NB-IoT-BC66
 description: ''
+status: ''
 extra:
   100+ pcs: 12.96 EUR
   1000+ pcs: 12.42 EUR
@@ -13,18 +17,7 @@ extra:
   - 12.42 EUR
   price: 13.50 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/IoT/NB-IoT/NB-IoT-BC66/images/thumbs/200x150/BC66.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/IoT/NB-IoT/NB-IoT-BC66/
-  repositories: []
-name: NB-IoT-BC66
-ref: olimex/nb-iot-bc66
-release_date: null
-sku: nb-iot-bc66
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/IoT/NB-IoT/NB-IoT-BC66/images/thumbs/200x150/BC66.jpg

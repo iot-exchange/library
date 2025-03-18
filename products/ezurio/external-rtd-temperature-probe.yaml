@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: external-rtd-temperature-probe
+ref: ezurio/external-rtd-temperature-probe
+vendor: ezurio
+sku: external-rtd-temperature-probe
+name: External RTD Temperature Probe
 description: "Sensor with various RTD probe sensors for high temp (+180\xB0C/+350\xB0\
   F), mid temp (-40\xB0C/+180\xB0F) and low temp (-100\xB0C/-148\xB0F). Ideal for\
   \ cold chain and industrial temperature monitoring."
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/2025-01/rs1xx-probe-relative.png
-  models: []
   products:
   - https://www.ezurio.com/iot-devices/lorawan-iot-devices/sentrius-rs1xx-lora-enabled-sensors
-  repositories: []
-name: External RTD Temperature Probe
-ref: ezurio/external-rtd-temperature-probe
-release_date: null
-sku: external-rtd-temperature-probe
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2025-01/rs1xx-probe-relative.png

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: 6-45
+ref: microchip/6-45
+vendor: microchip
+sku: 6-45
+name: '6.45'
 description: Cortex-M4F
+status: ''
 extra:
   BOR: 'Yes'
   CAN-FD: Full Speed
@@ -37,16 +41,5 @@ extra:
   VSS: '12'
   VSSIO: '2'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products: []
-  repositories: []
-name: '6.45'
-ref: microchip/6-45
-release_date: null
-sku: 6-45
-spec: null
-status: ''
-vendor: microchip
+  images: []

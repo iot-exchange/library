@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: shield-lol-3mm-white
+ref: olimex/shield-lol-3mm-white
+vendor: olimex
+sku: shield-lol-3mm-white
+name: SHIELD-LOL-3MM-WHITE
 description: ''
+status: ''
 extra:
   price1: 12.95 EUR
   price2: 11.66 EUR
   price3: 10.36 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Duino/Shields/SHIELD-LOL-3MM/images/thumbs/200x150/SHIELD-LOL-3MM-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Duino/Shields/SHIELD-LOL-3MM-WHITE/open-source-hardware
-  repositories: []
-name: SHIELD-LOL-3MM-WHITE
-ref: olimex/shield-lol-3mm-white
-release_date: null
-sku: shield-lol-3mm-white
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Duino/Shields/SHIELD-LOL-3MM/images/thumbs/200x150/SHIELD-LOL-3MM-1.jpg

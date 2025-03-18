@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: '110992044'
+ref: seeedstudio/110992044
+vendor: seeedstudio
+sku: '110992044'
+name: '110992044'
 description: The Home Assistant Voice Preview Edition, is the first voice assistant
   built to seamlessly integrate with Home Assistant. This open source, privacy-focused
   device has advanced audio processing all contained in a premium design that blends
   into the home.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/o/home_assitant_voice.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Home-Assistant-Voice-p-6998.html
-  repositories: []
-name: '110992044'
-ref: seeedstudio/110992044
-release_date: null
-sku: '110992044'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/h/o/home_assitant_voice.jpg

@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: adrastea-i-featherwing-kit
+ref: we/adrastea-i-featherwing-kit
+vendor: we
+sku: adrastea-i-featherwing-kit
+name: Adrastea-I FeatherWing Kit
 description: EXTENDED LTE-M / NB-IoT Cellular FeatherWing Kit with external antennas
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.we-online.com/components/media/o774318v214%20_NP_1235.jpg
-  models: []
   products:
   - https://www.we-online.com/en/components/products/ADRASTEA-I_FEATHERWING_KIT
   - https://www.we-online.com/en/components/products/ADRASTEA-I_FEATHERWING_KIT_2
-  repositories: []
-name: Adrastea-I FeatherWing Kit
-ref: we/adrastea-i-featherwing-kit
-release_date: null
-sku: adrastea-i-featherwing-kit
-spec: null
-status: ''
-vendor: we
+  images:
+  - https://www.we-online.com/components/media/o774318v214%20_NP_1235.jpg

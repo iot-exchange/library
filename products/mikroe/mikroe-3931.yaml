@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-3931
+ref: mikroe/mikroe-3931
+vendor: mikroe
+sku: mikroe-3931
+name: MIKROE-3931
 description: MCU Card is a standardized add-on board, which allows very simple installation
   and replacement of the microcontroller unit (MCU) on a development board equipped
   with the MCU Card socket. By introducing the new MCU Card standard, we have ensured
   the absolute compatibility between the development board and any of the supported
   MCUs, regardless of their pin...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/mcu-card-27-for-stm32-stm32f071vb/mcu-card-27-for-stm32-stm32f071vb-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/shop?p=115#SiBRAIN-for-STM32F071VB
-  repositories: []
-name: MIKROE-3931
-ref: mikroe/mikroe-3931
-release_date: null
-sku: mikroe-3931
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/mcu-card-27-for-stm32-stm32f071vb/mcu-card-27-for-stm32-stm32f071vb-home_default-1.jpg?v=100

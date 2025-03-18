@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 6-25inch-720x1560-lcd
+ref: waveshare/6-25inch-720x1560-lcd
+vendor: waveshare
+sku: 6-25inch-720x1560-lcd
+name: 6.25inch 720x1560 LCD
 description: "6.25inch Capacitive Touch Display, 720\xD71560, Optical Bonding Toughened\
   \ Glass Panel, HDMI Interface, IPS Panel, 5-Point Touch"
+status: ''
 extra:
   Price: $63.27 - $65.99
   SKU: '26757'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/6/_/6.25inch-720x1560-lcd-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/6.25inch-720x1560-lcd.htm
-  repositories: []
-name: 6.25inch 720x1560 LCD
-ref: waveshare/6-25inch-720x1560-lcd
-release_date: null
-sku: 6-25inch-720x1560-lcd
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/6/_/6.25inch-720x1560-lcd-1.jpg

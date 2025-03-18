@@ -1,0 +1,13 @@
+id: emb-gpdongle-usb
+ref: embit/emb-gpdongle-usb
+vendor: embit
+sku: emb-gpdongle-usb
+name: EMB-GPDONGLE-USB
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.embit.eu/products/emb-gpdongle-usb/
+  images:
+  - https://www.embit.eu/wp-content/uploads/2023/12/EMB-GPDONGLE-USB-scaled-300x225.jpg

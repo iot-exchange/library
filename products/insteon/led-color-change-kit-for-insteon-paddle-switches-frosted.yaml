@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: led-color-change-kit-for-insteon-paddle-switches-frosted
+ref: insteon/led-color-change-kit-for-insteon-paddle-switches-frosted
+vendor: insteon
+sku: led-color-change-kit-for-insteon-paddle-switches-frosted
+name: LED Color Change Kit for Insteon Paddle Switches - Frosted
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/products/LED_Color_Change_Kit_for_Insteon_Paddle_Switches_-_Frosted.jpg?v=1724711002&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/led-color-change-kit-for-insteon-dimmer-switches-frosted
-  repositories: []
-name: LED Color Change Kit for Insteon Paddle Switches - Frosted
-ref: insteon/led-color-change-kit-for-insteon-paddle-switches-frosted
-release_date: null
-sku: led-color-change-kit-for-insteon-paddle-switches-frosted
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/products/LED_Color_Change_Kit_for_Insteon_Paddle_Switches_-_Frosted.jpg?v=1724711002&width=533

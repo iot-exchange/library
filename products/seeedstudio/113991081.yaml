@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: '113991081'
+ref: seeedstudio/113991081
+vendor: seeedstudio
+sku: '113991081'
+name: '113991081'
 description: Sonoff B05-BL-A19 WiFi Smart LED Bulb is a smart bulb that allows users
   to adjust the brightness and color, remotely turn on/off the connected devices via
   the user's smartphone, schedule it on/off and share it with family to control together.
   Adjustable lighting mode to decorate your home.
+status: ''
 extra:
   price: $9.90
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-113991081-sonoff-b05-bl-a19-wi-fi-smart-led-bulb-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Sonoff-B05-BL-A19-Wi-Fi-Smart-LED-Bulb-p-5521.html
-  repositories: []
-name: '113991081'
-ref: seeedstudio/113991081
-release_date: null
-sku: '113991081'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-113991081-sonoff-b05-bl-a19-wi-fi-smart-led-bulb-45font.jpg

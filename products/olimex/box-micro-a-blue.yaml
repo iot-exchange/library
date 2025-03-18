@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: box-micro-a-blue
+ref: olimex/box-micro-a-blue
+vendor: olimex
+sku: box-micro-a-blue
+name: BOX-MICRO-A-BLUE
 description: ''
+status: ''
 extra:
   discountedPrice1: 11.40 EUR
   discountedPrice2: 10.80 EUR
   price: 12.00 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/BOXES/BOX-MICRO-A/images/thumbs/200x150/A20-MICRO-A-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/BOXES/BOX-MICRO-A-BLUE/
-  repositories: []
-name: BOX-MICRO-A-BLUE
-ref: olimex/box-micro-a-blue
-release_date: null
-sku: box-micro-a-blue
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/BOXES/BOX-MICRO-A/images/thumbs/200x150/A20-MICRO-A-1.jpg

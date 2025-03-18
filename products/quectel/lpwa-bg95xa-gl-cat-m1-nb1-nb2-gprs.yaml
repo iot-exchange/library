@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: lpwa-bg95xa-gl-cat-m1-nb1-nb2-gprs
+ref: quectel/lpwa-bg95xa-gl-cat-m1-nb1-nb2-gprs
+vendor: quectel
+sku: lpwa-bg95xa-gl-cat-m1-nb1-nb2-gprs
+name: LPWA BG95xA-GL Cat M1/NB1/NB2/GPRS
 description: 2G fallback  GNSS  Integrated RAM & flash  Integrated Security Elements  iSIM  MIPS
   5150
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.quectel.com/content/uploads/2024/03/LPWA-BG95xA-GL.png
-  models: []
   products:
   - https://www.quectel.com/product/lpwa-bg95xa-gl/
-  repositories: []
-name: LPWA BG95xA-GL Cat M1/NB1/NB2/GPRS
-ref: quectel/lpwa-bg95xa-gl-cat-m1-nb1-nb2-gprs
-release_date: null
-sku: lpwa-bg95xa-gl-cat-m1-nb1-nb2-gprs
-spec: null
-status: ''
-vendor: quectel
+  images:
+  - https://www.quectel.com/content/uploads/2024/03/LPWA-BG95xA-GL.png

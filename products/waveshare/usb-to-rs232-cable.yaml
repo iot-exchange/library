@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: usb-to-rs232-cable
+ref: waveshare/usb-to-rs232-cable
+vendor: waveshare
+sku: usb-to-rs232-cable
+name: usb_to_rs232_cable
 description: Industrial USB To RS232 Serial Adapter Cable, USB Type A To DB9 Male
   / Female Port, Original FT232RL Chip, Cable Length 1.5m
+status: ''
 extra:
   price: $8.99
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-rs232-male-cable-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/usb-to-rs232-cable.htm
-  repositories: []
-name: usb_to_rs232_cable
-ref: waveshare/usb-to-rs232-cable
-release_date: null
-sku: usb-to-rs232-cable
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/u/s/usb-to-rs232-male-cable-1.jpg

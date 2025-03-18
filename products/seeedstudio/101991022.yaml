@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: '101991022'
+ref: seeedstudio/101991022
+vendor: seeedstudio
+sku: '101991022'
+name: '101991022'
 description: SenseCAP S700 V2 7-in-1 Compact Weather Sensor measures air temperature,
   relative humidity, barometric pressure, light intensity, rainfall (optical), wind
   speed, and wind direction (ultrasonic). It is ideal for application in a rough environment
   like the outdoors, agriculture, or smart cities. Use it with SenseCAP LoRaWAN Data
   Logger or SenseCAP 4G Data Logger.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101991022-sensecap-s700-7-in-1-compact-weather-station-45font_1.jpg
-  - https://www.seeedstudio.com/img/af
-  models: []
   products:
   - https://www.seeedstudio.com/SenseCAP-S700-7-in-1-Compact-Weather-Station-p-5651.html
   - https://www.seeedstudio.com/SenseCAP-S700-V2
-  repositories: []
-name: '101991022'
-ref: seeedstudio/101991022
-release_date: null
-sku: '101991022'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-101991022-sensecap-s700-7-in-1-compact-weather-station-45font_1.jpg
+  - https://www.seeedstudio.com/img/af

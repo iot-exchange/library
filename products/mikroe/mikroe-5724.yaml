@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-5724
+ref: mikroe/mikroe-5724
+vendor: mikroe
+sku: mikroe-5724
+name: MIKROE-5724
 description: Color 12 Click is a compact add-on board providing an accurate color-sensing
   solution. This board features the BU27006MUC-Z, a digital color sensor from Rohm
   Semiconductor with an integrated flicker sensing function.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/color-12-click/color-12-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/color-12-click
-  repositories: []
-name: MIKROE-5724
-ref: mikroe/mikroe-5724
-release_date: null
-sku: mikroe-5724
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/color-12-click/color-12-click-home_default-1.jpg?v=100

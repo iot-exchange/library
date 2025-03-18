@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: open-close-sensor
+ref: insteon/open-close-sensor
+vendor: insteon
+sku: open-close-sensor
+name: Open / Close Sensor
 description: ''
+status: ''
 extra:
   reviews: '9'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/products/Open_Close_Sensor.jpg?v=1724711665&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/open-close-sensor
-  repositories: []
-name: Open / Close Sensor
-ref: insteon/open-close-sensor
-release_date: null
-sku: open-close-sensor
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/products/Open_Close_Sensor.jpg?v=1724711665&width=533

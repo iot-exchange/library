@@ -1,27 +1,20 @@
-alternatives: []
-certifications: []
+id: '110991666'
+ref: seeedstudio/110991666
+vendor: seeedstudio
+sku: '110991666'
+name: '110991666'
 description: The Jetson AGX Xavier H01 Development Kit is powered by NVIDIA Jetson
   AGX Xavier processor which applies AI performance and delivers up to 32 Tera Operations
   Per Second(TOPs) yet costs less than 30W. It is an ideal solution to agriculture,
   optical inspection, manufacturing, robotics, logistics, retail, service, smart cities,
   and healthcare. Check out more NVIDIA Jetson-powered edge devices comparison!
+status: ''
 extra:
   performance: 32 TOPs
   power: < 30W
   processor: NVIDIA Jetson AGX Xavier
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/f/i/first_1.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Jetson-Xavier-AGX-H01-Kit-p-5283.html
-  repositories: []
-name: '110991666'
-ref: seeedstudio/110991666
-release_date: null
-sku: '110991666'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/f/i/first_1.jpg

@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: mikroe-3653
+ref: mikroe/mikroe-3653
+vendor: mikroe
+sku: mikroe-3653
+name: MIKROE-3653
 description: EnOcean 3 Click carries an ultra-low power TCM515 transceiver gateway
   module which operates at 868MHz radio band, perfectly suited for the realization
   of transceiver gateways, actuators and controllers for systems communicating based
   on the EnOcean radio standard.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/enocean-3-click/enocean-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/enocean-3-click
-  repositories: []
-name: MIKROE-3653
-ref: mikroe/mikroe-3653
-release_date: null
-sku: mikroe-3653
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/enocean-3-click/enocean-3-click-home_default-1.jpg?v=100

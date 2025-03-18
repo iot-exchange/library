@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: 3-7inch-e-paper
+ref: waveshare/3-7inch-e-paper
+vendor: waveshare
+sku: 3-7inch-e-paper
+name: 3.7inch e-Paper
 description: "3.7inch e-Paper e-Ink Raw Display, 480\xD7280, Black / White, 4 Grey\
   \ Scales, SPI, Without PCB"
+status: ''
 extra:
   Price Range: $18.29 - $19.99
   SKU: '18381'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/_/3.7inch-e-paper-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/3.7inch-e-paper.htm
-  repositories: []
-name: 3.7inch e-Paper
-ref: waveshare/3-7inch-e-paper
-release_date: null
-sku: 3-7inch-e-paper
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/3/_/3.7inch-e-paper-1.jpg

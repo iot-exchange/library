@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: pi5-case-h
+ref: waveshare/pi5-case-h
+vendor: waveshare
+sku: pi5-case-h
+name: PI5-CASE-H
 description: Aluminium Alloy Case (H) for Raspberry Pi 5, With Temperature-Controlled
   Blower Fan
+status: SKU:26411
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-case-h-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/pi5-case-h.htm
-  repositories: []
-name: PI5-CASE-H
-ref: waveshare/pi5-case-h
-release_date: null
-sku: pi5-case-h
-spec: null
-status: SKU:26411
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/p/i/pi5-case-h-1.jpg

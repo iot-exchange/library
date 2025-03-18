@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: wss-01
+ref: dragino/wss-01
+vendor: dragino
+sku: wss-01
+name: WSS-01
 description: RS485 Rain Gauge Small dimension, easy to install ABS enclosure.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/cc947675ce0ac0c98617f27425843c35_L.jpg
-  models: []
   products:
   - https://dragino.com/products/agriculture-weather-station/item/207-wss-01.html
-  repositories: []
-name: WSS-01
-ref: dragino/wss-01
-release_date: null
-sku: wss-01
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/cc947675ce0ac0c98617f27425843c35_L.jpg

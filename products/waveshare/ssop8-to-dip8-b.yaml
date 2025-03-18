@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: ssop8-to-dip8-b
+ref: waveshare/ssop8-to-dip8-b
+vendor: waveshare
+sku: ssop8-to-dip8-b
+name: SSOP8 TO DIP8 (B)
 description: SSOP8 TO DIP8 (B), Programmer Adapter
+status: ''
 extra:
   Price: $35.59 - $38.99
   SKU: '3804'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/s/ssop8-to-dip8-2_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/ssop8-to-dip8.htm
-  repositories: []
-name: SSOP8 TO DIP8 (B)
-ref: waveshare/ssop8-to-dip8-b
-release_date: null
-sku: ssop8-to-dip8-b
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/s/s/ssop8-to-dip8-2_2.jpg

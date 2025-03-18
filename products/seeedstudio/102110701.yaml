@@ -1,26 +1,19 @@
-alternatives: []
-certifications: []
+id: '102110701'
+ref: seeedstudio/102110701
+vendor: seeedstudio
+sku: '102110701'
+name: '102110701'
 description: This is a compact STM32 single-board computer that supports multiple
   operating systems and offers multiple connections, with efficient data transfer
   and flexible power supply, scalable storage capacity.
+status: ''
 extra:
   Price: $34.99
   Processor: Cortex-A7 STM32
   RAM: 4Gb DRAM
   Type: Single-board computer
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102110701--odyssey-mp135d-45font.jpg
-  models: []
   products:
   - https://www.seeedstudio.com/Odyssey-MP135D-p-5727.html
-  repositories: []
-name: '102110701'
-ref: seeedstudio/102110701
-release_date: null
-sku: '102110701'
-spec: null
-status: ''
-vendor: seeedstudio
+  images:
+  - https://media-cdn.seeedstudio.com/media/catalog/product/cache/846608d0e3abbdf8f9454c4f707bfdbe/1/-/1-102110701--odyssey-mp135d-45font.jpg

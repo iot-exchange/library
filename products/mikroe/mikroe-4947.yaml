@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: mikroe-4947
+ref: mikroe/mikroe-4947
+vendor: mikroe
+sku: mikroe-4947
+name: MIKROE-4947
 description: BT Audio 3 Click is a compact add-on board with high-performing voice
   and audio post-processing capability for Bluetooth audio applications.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/bt-audio-3-click/bt-audio-3-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/bt-audio-3-click
-  repositories: []
-name: MIKROE-4947
-ref: mikroe/mikroe-4947
-release_date: null
-sku: mikroe-4947
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/bt-audio-3-click/bt-audio-3-click-home_default-1.jpg?v=100

@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: g70
+ref: digitalmatter/g70
+vendor: digitalmatter
+sku: g70
+name: G70
 description: Plug-and-play device that fits existing OBD ports.
+status: ''
 extra:
   Backup Battery: 'Yes'
   Connectivity: 2G*, LTE-M and NB-IoT
@@ -11,17 +15,6 @@ extra:
   Real-Time Tracking: 'Yes'
   Remote Immobilization: 'Yes'
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.digitalmatter.com/overview#G70
-  repositories: []
-name: G70
-ref: digitalmatter/g70
-release_date: null
-sku: g70
-spec: null
-status: ''
-vendor: digitalmatter
+  images: []

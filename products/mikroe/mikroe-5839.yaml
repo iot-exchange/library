@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: mikroe-5839
+ref: mikroe/mikroe-5839
+vendor: mikroe
+sku: mikroe-5839
+name: MIKROE-5839
 description: Charger 25 Click is a compact add-on board that contains a battery charger.
   This board features the BQ25792, a buck-boost battery charger with a dual-input
   selector, and a USB PD3.0 OTG output from Texas Instruments.
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/charger-25-click/charger-25-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/charger-25-click
-  repositories: []
-name: MIKROE-5839
-ref: mikroe/mikroe-5839
-release_date: null
-sku: mikroe-5839
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/charger-25-click/charger-25-click-home_default-1.jpg?v=100

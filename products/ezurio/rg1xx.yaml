@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rg1xx
+ref: ezurio/rg1xx
+vendor: ezurio
+sku: rg1xx
+name: RG1xx
 description: LoRaWAN / Wi-Fi / Ethernet IoT Gateway (IP67 available).
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-10/Standard-RG1xx1.png
-  models: []
   products:
   - https://www.ezurio.com/iot-devices/lorawan-iot-devices/sentrius-rg1xx-lorawan-gateway-wi-fi-ethernet-optional-lte-us-only
-  repositories: []
-name: RG1xx
-ref: ezurio/rg1xx
-release_date: null
-sku: rg1xx
-spec: null
-status: ''
-vendor: ezurio
+  images:
+  - https://d2g2p0i8cc2bmh.cloudfront.net/2024-10/Standard-RG1xx1.png

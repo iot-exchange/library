@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: dnt24c
+ref: murata/dnt24c
+vendor: murata
+sku: dnt24c
+name: DNT24C
 description: 2.4GHz, 250kbps, 10mW, 100mW, U.FL
+status: ''
 extra:
   Data Rate: 250kbps
   Dev Kit: DNT24DK
@@ -10,17 +14,6 @@ extra:
   RF Conn/Antenna: U.FL
   Transmit Power: 10mW, 100mW
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.murata.com/en-eu/products/connectivitymodule/proprietary-fhss/overview/lineup/dnt24c
-  repositories: []
-name: DNT24C
-ref: murata/dnt24c
-release_date: null
-sku: dnt24c
-spec: null
-status: ''
-vendor: murata
+  images: []

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: l76x-gps-hat
+ref: waveshare/l76x-gps-hat
+vendor: waveshare
+sku: l76x-gps-hat
+name: L76X GPS HAT
 description: L76X Multi-GNSS HAT for Raspberry Pi, GPS, BDS, QZSS
+status: ''
 extra:
   Price: $28.99  -  $29.99
   SKU: '16193'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/7/l76x-gps-hat-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/l76x-gps-hat.htm
-  repositories: []
-name: L76X GPS HAT
-ref: waveshare/l76x-gps-hat
-release_date: null
-sku: l76x-gps-hat
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/l/7/l76x-gps-hat-1.jpg

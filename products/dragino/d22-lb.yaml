@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: d22-lb
+ref: dragino/d22-lb
+vendor: dragino
+sku: d22-lb
+name: D22-LB
 description: LoRaWAN Waterproof /Outdoor Temperature Sensor
+status: ''
 extra:
   2 x DS18B20 Temperature sensors: ''
   Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865
@@ -10,18 +14,7 @@ extra:
   Support wireless OTA update firmware: ''
   Temperature alarm: ''
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/ef8bd3de49a270d49d40baf602fbfad5_L.jpg
-  models: []
   products:
   - https://dragino.com/products/temperature-humidity-sensor/item/261-d22-lb-ls.html
-  repositories: []
-name: D22-LB
-ref: dragino/d22-lb
-release_date: null
-sku: d22-lb
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/ef8bd3de49a270d49d40baf602fbfad5_L.jpg

@@ -1,25 +1,18 @@
-alternatives: []
-certifications: []
+id: cm4-dual-eth-4g-5g-base
+ref: waveshare/cm4-dual-eth-4g-5g-base
+vendor: waveshare
+sku: cm4-dual-eth-4g-5g-base
+name: CM4-DUAL-ETH-4G/5G-BASE
 description: Dual Gigabit Ethernet 5G/4G Base Board Designed for Raspberry Pi Compute
   Module 4
+status: ''
 extra:
   Price: $55.63 - $56.99
   SKU: '20885'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-dual-eth-4g-5g-base-1_2.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/cm4-dual-eth-4g-5g-base.htm
   - https://www.waveshare.com/product/cm4-dual-eth-4g-5g-base.htm "Dual Gigabit Ethernet
     5G/4G Base Board Designed for Raspberry Pi Compute Module 4"
-  repositories: []
-name: CM4-DUAL-ETH-4G/5G-BASE
-ref: waveshare/cm4-dual-eth-4g-5g-base
-release_date: null
-sku: cm4-dual-eth-4g-5g-base
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/m/cm4-dual-eth-4g-5g-base-1_2.jpg

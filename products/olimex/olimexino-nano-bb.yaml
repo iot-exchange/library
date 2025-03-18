@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: olimexino-nano-bb
+ref: olimex/olimexino-nano-bb
+vendor: olimex
+sku: olimexino-nano-bb
+name: OLIMEXINO-NANO-BB
 description: ''
+status: ''
 extra:
   price1: 5.95 EUR
   price2: 5.36 EUR
   price3: 4.76 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Duino/AVR/OLIMEXINO-NANO-BB/images/thumbs/200x150/OLIMEXINO-NANO-BB-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Duino/AVR/OLIMEXINO-NANO-BB/open-source-hardware
-  repositories: []
-name: OLIMEXINO-NANO-BB
-ref: olimex/olimexino-nano-bb
-release_date: null
-sku: olimexino-nano-bb
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Duino/AVR/OLIMEXINO-NANO-BB/images/thumbs/200x150/OLIMEXINO-NANO-BB-1.jpg

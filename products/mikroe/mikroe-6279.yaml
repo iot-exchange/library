@@ -1,24 +1,17 @@
-alternatives: []
-certifications: []
+id: mikroe-6279
+ref: mikroe/mikroe-6279
+vendor: mikroe
+sku: mikroe-6279
+name: MIKROE-6279
 description: Joystick 4 Click is a compact add-on board that provides precise and
   reliable input control for various interactive projects. This board features the
   2434804-1, a 5-position tactile switch from the ALCOSWITCH series by TE Connectivity.
   The switch features an extended top actuator for precise input detection, a stainless
   steel contact base, and silver...
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://cdn1-shop.mikroe.com/img/product/joystick-4-click/joystick-4-click-home_default-1.jpg?v=100
-  models: []
   products:
   - https://www.mikroe.com/joystick-4-click
-  repositories: []
-name: MIKROE-6279
-ref: mikroe/mikroe-6279
-release_date: null
-sku: mikroe-6279
-spec: null
-status: ''
-vendor: mikroe
+  images:
+  - https://cdn1-shop.mikroe.com/img/product/joystick-4-click/joystick-4-click-home_default-1.jpg?v=100

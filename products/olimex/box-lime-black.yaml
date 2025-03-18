@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: box-lime-black
+ref: olimex/box-lime-black
+vendor: olimex
+sku: box-lime-black
+name: BOX-LIME-BLACK
 description: ''
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/OLinuXino/BOXES/BOX-LIME/images/thumbs/200x150/BOX-LIME-BLACK-1.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/OLinuXino/BOXES/BOX-LIME-BLACK/
-  repositories: []
-name: BOX-LIME-BLACK
-ref: olimex/box-lime-black
-release_date: null
-sku: box-lime-black
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/OLinuXino/BOXES/BOX-LIME/images/thumbs/200x150/BOX-LIME-BLACK-1.jpg

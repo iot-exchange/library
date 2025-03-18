@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: bg22-ek4108a
+ref: silicon-labs/bg22-ek4108a
+vendor: silicon-labs
+sku: bg22-ek4108a
+name: BG22-EK4108A
 description: BG22 Bluetooth SoC Explorer Kit
+status: ''
 extra:
   MSRP: $16.00
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://www.silabs.com/development-tools/wireless/bluetooth/bg22-explorer-kit
-  repositories: []
-name: BG22-EK4108A
-ref: silicon-labs/bg22-ek4108a
-release_date: null
-sku: bg22-ek4108a
-spec: null
-status: ''
-vendor: silicon-labs
+  images: []

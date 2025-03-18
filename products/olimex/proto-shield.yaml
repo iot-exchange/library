@@ -1,23 +1,16 @@
-alternatives: []
-certifications: []
+id: proto-shield
+ref: olimex/proto-shield
+vendor: olimex
+sku: proto-shield
+name: PROTO-SHIELD
 description: ''
+status: ''
 extra:
   discountedPrice1: 4.46 EUR
   discountedPrice2: 3.96 EUR
   price: 4.95 EUR
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.olimex.com/Products/Duino/Shields/PROTO-SHIELD/images/thumbs/200x150/PROTO-SHIELD-01.jpg
-  models: []
   products:
   - https://www.olimex.com/Products/Duino/Shields/PROTO-SHIELD/open-source-hardware
-  repositories: []
-name: PROTO-SHIELD
-ref: olimex/proto-shield
-release_date: null
-sku: proto-shield
-spec: null
-status: ''
-vendor: olimex
+  images:
+  - https://www.olimex.com/Products/Duino/Shields/PROTO-SHIELD/images/thumbs/200x150/PROTO-SHIELD-01.jpg

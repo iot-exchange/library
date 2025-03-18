@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: rp2040
+ref: raspberrypi/rp2040
+vendor: raspberrypi
+sku: rp2040
+name: RP2040
 description: A microcontroller chip designed by Raspberry Pi
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://assets.raspberrypi.com/static/39f6fcaabef8363b8e38bba612111051/3f4ea/94107323-e359-4bf0-a7cb-a5f4f72586ad_RP2040%2BLO%2BRES.jpg
-  models: []
   products:
   - https://www.raspberrypi.com/products/rp2040/
-  repositories: []
-name: RP2040
-ref: raspberrypi/rp2040
-release_date: null
-sku: rp2040
-spec: null
-status: ''
-vendor: raspberrypi
+  images:
+  - https://assets.raspberrypi.com/static/39f6fcaabef8363b8e38bba612111051/3f4ea/94107323-e359-4bf0-a7cb-a5f4f72586ad_RP2040%2BLO%2BRES.jpg

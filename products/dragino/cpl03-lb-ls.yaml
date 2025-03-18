@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: cpl03-lb-ls
+ref: dragino/cpl03-lb-ls
+vendor: dragino
+sku: cpl03-lb-ls
+name: CPL03-LB/LS
 description: Outdoor LoRaWAN Open/Close Dry Contact Sensor
+status: ''
 extra:
   Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865/RU864
   Battery: 8500mAh Li/SOCl2 Battery (CPL03-LB), Solar panel + 3000mAh Li-ion battery
@@ -10,18 +14,7 @@ extra:
     firmware
   Type: LoRaWAN 1.0.3 Class A
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://dragino.com/media/k2/items/cache/ab98897d60eaa0d05c1862c118538407_L.jpg
-  models: []
   products:
   - https://dragino.com/products/lorawan-nb-iot-door-sensor-water-leak/item/278-cpl03-lb-ls.html
-  repositories: []
-name: CPL03-LB/LS
-ref: dragino/cpl03-lb-ls
-release_date: null
-sku: cpl03-lb-ls
-spec: null
-status: ''
-vendor: dragino
+  images:
+  - https://dragino.com/media/k2/items/cache/ab98897d60eaa0d05c1862c118538407_L.jpg

@@ -1,20 +1,13 @@
-alternatives: []
-certifications: []
+id: nio-12l
+ref: radxa/nio-12l
+vendor: radxa
+sku: nio-12l
+name: NIO 12L
 description: Where High-Performance Meets AI Efficiency
+status: ''
 extra: {}
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://radxa.com/nio/12l/thumb_nio_12l.webp
-  models: []
   products:
   - https://radxa.com/products/nio/12l
-  repositories: []
-name: NIO 12L
-ref: radxa/nio-12l
-release_date: null
-sku: nio-12l
-spec: null
-status: ''
-vendor: radxa
+  images:
+  - https://radxa.com/nio/12l/thumb_nio_12l.webp

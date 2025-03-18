@@ -1,6 +1,10 @@
-alternatives: []
-certifications: []
+id: bl653m-series
+ref: ezurio/bl653m-series
+vendor: ezurio
+sku: bl653m-series
+name: "BL653\u03BC Series"
 description: Bluetooth 5.1 + 802.15.4 + NFC Modules
+status: ''
 extra:
   2MPHY: x
   802.15.4 / Matter / Thread: Includes 802.15.4 and Thread. Not Matter.
@@ -8,19 +12,8 @@ extra:
   Classic BT: x
   LE Long Range: x
 links:
-  datasheets: []
-  examples: []
+  products:
+  - https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/bl653-micro-series-bluetooth-51-802154-nfc-modules
   images:
   - "https://d2g2p0i8cc2bmh.cloudfront.net/fit-in/400x400/filters:fill(white)/filters:background_color(white)/2024-10/BL653\xB5\
     -SA-angle.png"
-  models: []
-  products:
-  - https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/bl653-micro-series-bluetooth-51-802154-nfc-modules
-  repositories: []
-name: "BL653\u03BC Series"
-ref: ezurio/bl653m-series
-release_date: null
-sku: bl653m-series
-spec: null
-status: ''
-vendor: ezurio

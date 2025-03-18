@@ -1,8 +1,12 @@
-alternatives: []
-certifications: []
+id: rak3172
+ref: rakwireless/rak3172
+vendor: rakwireless
+sku: rak3172
+name: RAK3172
 description: The RAK3172 is the stamp-sized flagship WisDuo module. It provides LoRa
   connectivity for IoT applications while consuming very little power. It can be configured
   using traditional AT commands or using the RAKwireless Unified Interface (RUI).
+status: ''
 extra:
   Antenna connector: IPEX and RF pinout
   Certification: LoRa Alliance, CE, FCC, UKCA, JRL, RCM
@@ -15,18 +19,7 @@ extra:
   Sleep current: "1.69 \xB5A"
   TCXO: Not supported / Supported
 links:
-  datasheets: []
-  examples: []
-  images: []
-  models: []
   products:
   - https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3172-Module/Overview/
   - https://news.rakwireless.com/rak3172-wisduo-based-on-stm32wl-lora-soc/
-  repositories: []
-name: RAK3172
-ref: rakwireless/rak3172
-release_date: null
-sku: rak3172
-spec: null
-status: ''
-vendor: rakwireless
+  images: []

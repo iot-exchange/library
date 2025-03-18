@@ -1,0 +1,13 @@
+id: emb-lr1272-emb-lr1272e
+ref: embit/emb-lr1272-emb-lr1272e
+vendor: embit
+sku: emb-lr1272-emb-lr1272e
+name: EMB-LR1272 / EMB-LR1272E
+description: ''
+status: ''
+extra: {}
+links:
+  products:
+  - https://www.embit.eu/products/868-915-mhz-lorawan-module-2/
+  images:
+  - https://www.embit.eu/wp-content/uploads/2020/04/EMB-LR1272E-ULmodificato-2-300x225.jpg

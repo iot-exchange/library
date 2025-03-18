@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: compute-module-4-poe-4g-board
+ref: waveshare/compute-module-4-poe-4g-board
+vendor: waveshare
+sku: compute-module-4-poe-4g-board
+name: Compute Module 4 PoE 4G Board
 description: Compute Module 4 Industrial IoT Base Board, for all Variants of CM4
+status: ''
 extra:
   Price: $78.29 - $79.99
   SKU: '20535'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/compute-module-4-poe-4g-board-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/compute-module-4-poe-4g-board.htm
-  repositories: []
-name: Compute Module 4 PoE 4G Board
-ref: waveshare/compute-module-4-poe-4g-board
-release_date: null
-sku: compute-module-4-poe-4g-board
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/c/o/compute-module-4-poe-4g-board-1.jpg

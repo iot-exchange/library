@@ -1,21 +1,14 @@
-alternatives: []
-certifications: []
+id: i-o-module-low-voltage-controller
+ref: insteon/i-o-module-low-voltage-controller
+vendor: insteon
+sku: i-o-module-low-voltage-controller
+name: I/O Module - Low Voltage Controller
 description: ''
+status: ''
 extra:
   reviews: '18'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://shop.insteon.com/cdn/shop/products/I_O_Module_-_Low_Voltage_Controller.jpg?v=1724710554&width=533
-  models: []
   products:
   - https://shop.insteon.com/products/io-module-plug-in-low-voltage-controller
-  repositories: []
-name: I/O Module - Low Voltage Controller
-ref: insteon/i-o-module-low-voltage-controller
-release_date: null
-sku: i-o-module-low-voltage-controller
-spec: null
-status: ''
-vendor: insteon
+  images:
+  - https://shop.insteon.com/cdn/shop/products/I_O_Module_-_Low_Voltage_Controller.jpg?v=1724710554&width=533

@@ -1,22 +1,15 @@
-alternatives: []
-certifications: []
+id: dht22
+ref: waveshare/dht22
+vendor: waveshare
+sku: dht22
+name: DHT22
 description: Temperature-Humidity Sensor
+status: ''
 extra:
   Price: $8.97 - $9.99
   SKU: '11092'
 links:
-  datasheets: []
-  examples: []
-  images:
-  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/h/dht22-temperature-humidity-sensor-1.jpg
-  models: []
   products:
   - https://www.waveshare.com/product/dht22-temperature-humidity-sensor.htm
-  repositories: []
-name: DHT22
-ref: waveshare/dht22
-release_date: null
-sku: dht22
-spec: null
-status: ''
-vendor: waveshare
+  images:
+  - https://www.waveshare.com/media/catalog/product/cache/1/small_image/171x171/9df78eab33525d08d6e5fb8d27136e95/d/h/dht22-temperature-humidity-sensor-1.jpg

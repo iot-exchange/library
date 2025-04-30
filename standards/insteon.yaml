@@ -1,0 +1,12 @@
+name: Insteon
+description: |
+  Insteon is a proprietary home automation (domotics) system that enables light switches, lights, leak sensors, 
+  remote controls, motion sensors, and other electrically powered devices to interoperate through power lines, 
+  radio frequency (RF) communications, or both.
+  It employs a dual-mesh networking topology in which all devices are peers and each device independently transmits, 
+  receives, confirm and repeats messages.
+  Like other home automation systems, it had been associated with the Internet of things.
+links:
+  logo: https://scontent-bru2-1.xx.fbcdn.net/v/t39.30808-1/327436967_523642989836188_5912615525577052260_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=104&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=cukY09ZdaNUQ7kNvgENRUrS&_nc_oc=AdkgQ4tvvpEtQuGiFDtOWaaM_NArVjFo_zay941Fp-FLH0wMpRU1ImJCrPtSIs22SUw&_nc_zt=24&_nc_ht=scontent-bru2-1.xx&_nc_gid=GZAP2uAfG2fJ2umpzdJK2g&oh=00_AYFOU4sFiz32qkrcFyUI0ccApbV_oDWsaDYTDCYhLAHMdw&oe=67E0A6C7
+  website: https://www.insteon.com/technology
+

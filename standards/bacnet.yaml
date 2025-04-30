@@ -1,0 +1,24 @@
+name: BACnet
+description: |
+  BACnet is the global data communications protocol standard for building automation and control networks. 
+  BACnet was developed and is continuously maintained and enhanced by the BACnet Committee, a standing technical 
+  committee (SSPC 135) of the American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE). 
+  BACnet is an ISO standard (EN ISO 16484-5), a European standard and a national standard in many countries.
+
+  BACnet provides a vendor-independent networking solution to enable Interoperability among equipment and control 
+  devices for a wide range of building automation applications. 
+  It was designed specifically to meet the communication needs of building automation and control systems. 
+  It includes specific support for building automation applications such as heating, ventilating, air-conditioning, 
+  lighting, access control, elevators, security and fire detection systems. BACnet enables interoperability among these 
+  systems by defining communications messages, formats and rules for exchanging data, commands, and status information. 
+  BACnet provides the data communications infrastructure for intelligent buildings and is a key component of smart 
+  cities.
+
+  A global product certification process is in place to ensure products claiming conformance to the BACnet standard have 
+  been independently tested using industry accepted test definitions. A global listing of products that have achieved 
+  certification is maintained by the BACnet Testing Laboratories (BTL).
+status: production
+links:
+  logo: https://bacnet.org/wp-content/uploads/sites/4/2023/07/BACnet-logo.jpg
+  website: https://bacnet.org/
+  certification: https://bacnet.org/btl-certification/

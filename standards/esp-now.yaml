@@ -7,5 +7,6 @@ description: |
   networks.
 
 links:
+  logo: https://www.espressif.com/sites/all/themes/espressif/images/esp-now/esp-now.png
   website: https://www.espressif.com/en/solutions/low-power-solutions/esp-now
   github: https://github.com/espressif/esp-now

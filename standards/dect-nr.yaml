@@ -11,5 +11,6 @@ description: |
 frequency-bands:
   1900:
 links:
+  logo: https://www.dect.org/userfiles/image/NRpluslogo.png
   website: https://www.etsi.org/committee/1394-dect
   specification: https://www.etsi.org/deliver/etsi_ts/103600_103699/10363601/02.01.01_60/ts_10363601v020101p.pdf

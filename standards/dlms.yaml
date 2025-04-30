@@ -1,0 +1,18 @@
+name: DLMS
+description: |
+  Is short for Device Language Message Specification, and is an international data model and data format for data 
+  exchange in energy and water smart management, advanced sensing and monitoring and innovative smart metering.
+  It aims to establish a standardized data exchange model for transmitting data between smart devices and head-end 
+  systems or amongst smart devices, in the energy or water sector.
+
+  It is internationally adopted under IEC 62056, ANSI C12, and EN13757-1 suites of standards.
+  
+  The DLMS UA specifications include an object-oriented data model, an application layer protocol and media-specific 
+  communication profiles, that standardize message types for various operations, such as reading and writing data. 
+  Additionally, it also includes rules for formatting and transmitting these messages.
+
+  It can be applied over multiple types of communication technology. The development and maintenance of specifications 
+  adopted by IEC and ANSI is guaranteed by liaison agreements signed between DLMS UA and these respective organizations.
+links:
+  logo: https://www.dlms.com/wp-content/uploads/2022/07/dlms_logo_blanc.png
+  website: https://www.dlms.com/

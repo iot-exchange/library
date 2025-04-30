@@ -16,6 +16,7 @@ frequency-bands:
   2400:
     region: world
 links:
+  logo: https://www.thisisant.com/lib/images/this-is-ant.png
   website: https://www.thisisant.com/
   certification: https://www.thisisant.com/developer/ant-plus/certification/
   specification: https://www.thisisant.com/resources/ant-message-protocol-and-usage

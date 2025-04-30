@@ -1,0 +1,13 @@
+name: CoAP
+description: |
+  The Constrained Application Protocol (CoAP) is a specialized web transfer protocol for use with constrained nodes and 
+  constrained networks in the Internet of Things.
+  The protocol is designed for machine-to-machine (M2M) applications such as smart energy and building automation.
+  
+  Like HTTP, CoAP is based on the wildly successful REST model: Servers make resources available under a URL, and 
+  clients access these resources using methods such as GET, PUT, POST, and DELETE.
+  
+  From a developer point of view, CoAP feels very much like HTTP. Obtaining a value from a sensor is not much different 
+  from obtaining a value from a Web API.
+links:
+  website: https://coap.space/

@@ -20,6 +20,7 @@ frequency-bands:
 standards:
   - ISO/IEC 14543-3-10/11
 links:
+  logo: https://www.enocean-alliance.org/wp-content/uploads/2019/11/enocean_alliance_logo_claim_bluewhite_rgb_500x260.png
   website: https://www.enocean-alliance.org/
   specifications:
     - https://www.enocean-alliance.org/specifications/

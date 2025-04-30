@@ -1,0 +1,14 @@
+name: Sigfox
+description: |
+  Sigfox 0G technology is an Low-Power Wide-Area (LPWA) networking protocol owned by UnaBiz. It is designed to connect 
+  sensors and devices securely at low-cost in the most energy efficient way to enable Massive IoT. 
+
+  Since its inception in 2010, the 0G technology has been adopted by 70+ national 0G IoT Solution Providers globally. 
+  They own and commercialise the global 0G network in the respective countries they operate in.
+
+  Today, UnaBiz, the 0G IoT Solution Providers, and over 800+ ecosystem of IoT players (chip manufacturers, 
+  device makers, solution providers, system integrators) collaborate to provide the global 0G Network and Massive IoT 
+  solutions and services to over 1,500+ B2B customers, connecting over 11 million devices.
+links:
+  website: https://sigfox.com/
+  logo: https://sigfox.com/wp-content/uploads/2022/10/Sigfox-0g-tech-white-opt.png

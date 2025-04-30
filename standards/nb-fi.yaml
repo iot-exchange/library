@@ -1,0 +1,16 @@
+name: NB-Fi
+description: |
+  NB-Fi is an LPWAN protocol that supports secure bidirectional communication for Internet of Things (IoT), 
+  machine-to-machine (M2M) and Industrial Internet of Things (IIoT) applications. NB-Fi makes it possible to realize 
+  the enormous potential of the Internet of Things by collecting and analyzing data from end devices for 
+  analytical, accounting, billing and ERP systems.
+
+  NB-Fi technology ensures wireless communication between devices in hard-to-reach places over long distances in dense 
+  urban areas, being perfectly fit for the building of IoT networks, deployment of automated metering systems for 
+  utilities, Smart Grid and Smart City projects, wireless solutions for industrial, agriculture, monitoring and alarm 
+  systems.
+  NB-Fi is an open standard with disclosed format of NB-Fi messages and relevant technical data required for 
+  manufacturers to produce compatible IoT end devices.
+links:
+  website: https://nb-fi.org/
+  logo: https://nb-fi.org/local/templates/Main/favicon/apple-touch-icon.png

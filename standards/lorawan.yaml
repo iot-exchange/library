@@ -1,0 +1,20 @@
+name: LoRaWAN
+description: |
+  The LoRaWAN® specification is a Low Power, Wide Area (LPWA) networking specification designed to wirelessly connect 
+  battery operated ‘things’ to the internet in regional, national or global networks, and targets key Internet of 
+  Things (IoT) requirements such as bi-directional communication, end-to-end security, mobility and localization services.
+
+  LoRaWAN operates in unlicensed radio frequency bands and is known for its long-range capabilities 
+  (up to 15 km in rural areas), low power consumption, and the ability to connect a large number of devices to a single 
+  network. 
+  
+  The architecture includes end devices, gateways, network servers, and application servers, enabling a scalable and 
+  flexible network for diverse IoT applications.
+  
+  LoRaWAN is a Media Access Control (MAC) layer protocol built on top of LoRa modulation. 
+  It is a software layer which defines how devices use the LoRa hardware, for example when they transmit, and the format 
+  of messages.
+links:
+  website: https://lora-alliance.org/
+  logo: https://www.semtech.com/uploads/images/LoRa_Web_Home_LoRaWAN.png
+  certification: https://lora-alliance.org/lorawan-certification/

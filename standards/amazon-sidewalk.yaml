@@ -32,6 +32,8 @@ frequency-bands:
   900: lora
   2400: bluetooth
 links:
+  logo: https://docs.sidewalk.amazon/assets/images/amazon-sidewalk-logo.png
+  website: https://docs.sidewalk.amazon/
   certification: https://docs.sidewalk.amazon/qualification/
   specs:
     v1.0A2: https://docs.sidewalk.amazon/specifications/

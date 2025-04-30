@@ -27,6 +27,8 @@ topologies:
   - broadcast
   - mesh
 links:
+  logo: https://www.bluetooth.com/wp-content/uploads/2019/04/Bluetooth_FM_Color.png
+  website: https://www.bluetooth.com
   specs:
     overview: https://www.bluetooth.com/specifications/specs/
     v6.0:

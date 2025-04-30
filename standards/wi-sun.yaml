@@ -3,5 +3,7 @@ description: |
 
 standards:
   - IEEE/2857-2021
+  - IEEE 802.15.4g
 links:
   website: https://wi-sun.org/
+  logo: https://wi-sun.org/wp-content/uploads/Wi-SUN-Main-Logo.png

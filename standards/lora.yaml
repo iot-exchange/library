@@ -1,0 +1,16 @@
+name: LoRa
+description: |
+  LoRa is a wireless modulation technique derived from Chirp Spread Spectrum (CSS) technology. It encodes information on
+  radio waves using chirp pulses - similar to the way dolphins and bats communicate! LoRa modulated transmission is 
+  robust against disturbances and can be received across great distances.
+  LoRa is ideal for applications that transmit small chunks of data with low bit rates. 
+  Data can be transmitted at a longer range compared to technologies like WiFi, Bluetooth or ZigBee. 
+  These features make LoRa well suited for sensors and actuators that operate in low power mode.
+
+  LoRa can be operated on the license free sub-gigahertz bands, for example, 915 MHz, 868 MHz, and 433 MHz. 
+  It also can be operated on 2.4 GHz to achieve higher data rates compared to sub-gigahertz bands, at the cost of range. 
+  These frequencies fall into ISM bands that are reserved internationally for industrial, scientific, 
+  and medical purposes.
+links:
+  logo: https://www.semtech.com/uploads/page-header/icons/LORA_LOGO.png
+  website: https://www.semtech.com/lora/what-is-lora
